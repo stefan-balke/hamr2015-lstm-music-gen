@@ -3,7 +3,7 @@
 
 """
 import numpy as np
-from importer_base import ImporterBase
+from base import ImporterBase
 
 
 class ImporterRollingStone(ImporterBase):
