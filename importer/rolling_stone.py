@@ -59,10 +59,9 @@ class ImporterRollingStone(ImporterBase):
 
         for cur_bar in range(int(note_events[0][1]), int(note_events[-1][1])):
             # get the notes which belong to the bar
-            cur_notes = note_events[note_events[:, 1] - cur_bar < 1, :]
+            cur_notes = note_events[(note_events[:, 1] - cur_bar < 1) & (note_events[:, 1] - cur_bar > 0), :]
 
             # what are the nearest notes
-            offset = int(cur_notes[0][0])
             prev_note_idx_end = -1
             for cur_note in cur_notes:
                 metric_timing = cur_note[1] - int(cur_note[1])
