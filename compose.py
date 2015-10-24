@@ -31,7 +31,7 @@ class Composer:
     """
 
     window_size = None
-    dataset = None  # each column is one "frame" of data
+    dataset = None  # Format: list of numpy matrices with shape: (time_stamp, features)
     model = None
 
     def __init__(self, window_size=DEFAULT_WINDOW_SIZE):
@@ -77,11 +77,11 @@ class Composer:
 
         training_examples_X = np.array(tuple(ex[:-1] for ex in training_examples)) # inputs
         training_examples_y = np.array(tuple(np.array(ex[-1:])[0] for ex in training_examples))  # outputs
-        print 'X', training_examples_X
-        print 'y', training_examples_y
+        #print 'X', training_examples_X
+        #print 'y', training_examples_y
 
-        print training_examples_X.shape
-        print training_examples_y.shape
+        print 'training_examples_X.shape', training_examples_X.shape
+        print 'training_examples_y.shape', training_examples_y.shape
 
         # Build/compile the model
         self._compile_model()
@@ -99,21 +99,28 @@ class Composer:
     def compose(self, num_measures=16):
         """Use a pre-trained neural network to compose a melody.
         """
-        melody = [frame for frame in SEED]
+        melody = SEED[-(self.window_size-1):]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
+        melody = np.expand_dims(melody, axis=0)
 
         print '----- Generating with seed:', melody
 
         for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
             x = np.array(melody[i:i + self.window_size])
+            print 'i:', i
             print 'x:', x
             print x.shape
 
             next_frame = self.model.predict(x, verbose=0)[0]
+
             print 'next_frame:', next_frame
+            print next_frame.shape
 
-            melody.append(next_frame)
+            melody = np.concatenate([melody, np.array(next_frame)], axis=1)
+            print 'Appended melody:', melody
 
-        print 'melody:', melody
+            print 'end of for'
+
+        print 'Final melody:', melody
         print
 
     def _get_dataset(self):
