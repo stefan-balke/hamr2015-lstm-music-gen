@@ -2,13 +2,15 @@
    http://theory.esm.rochester.edu/rock_corpus/
 
 """
+import numpy as np
 from importer_base import ImporterBase
+
 
 class ImporterRollingStone(ImporterBase):
     """Base Class for the dataset import.
     """
-    def __init__(self):
+    def import_piano_roll(self):
         pass
 
-    def import(self):
+    def add_beat_flags(self):
         pass
