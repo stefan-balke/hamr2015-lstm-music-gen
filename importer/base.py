@@ -15,5 +15,7 @@ class ImporterBase:
     def import_piano_roll(self):
         raise Exception('import_piano_roll method must be implemented!')
 
-    def add_beat_flags(self):
+    # off_beat_size - how many 16th notes before the first down beat 
+    # measure_size - how many 16th notes per measure
+    def add_beat_flags(self, off_beat_size, measure_size):
         raise Exception('add_beat_flags method must be implemented!')
