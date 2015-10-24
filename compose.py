@@ -1,4 +1,4 @@
-from __future__ import print_function
+#from __future__ import print_function
 from keras.models import Sequential
 from keras.layers.core import Dense, Activation, Dropout
 from keras.layers.recurrent import LSTM
@@ -9,12 +9,22 @@ import sys
 
 BEATS_PER_MEASURE = 16  # 16th note quantization
 DEFAULT_WINDOW_SIZE = 3  # number of frames per training window
-SAMPLE_DATASET = np.matrix([[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0],   # C / CMaj
+
+# A song is a numpy matrix, giving our boolean features at each 16th note time slice.
+SAMPLE_SONG_1 = np.matrix([[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0],   # C / CMaj
                             [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1],   # C / CMaj
                             [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0],   # C / CMaj
                             [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1],   # C / CMaj
-                            [0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0]])  # D / GMaj
-SEED = SAMPLE_DATASET
+                            [0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0]])  # D / GMaj
+
+SAMPLE_SONG_2 = np.matrix([[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0],   # C / CMaj
+                            [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1],   # C / CMaj
+                            [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0],   # C / CMaj
+                            [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1],   # C / CMaj
+                            [0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1]])  # E / CMaj
+
+SAMPLE_DATASET = [SAMPLE_SONG_1, SAMPLE_SONG_2]  # Dataset is a list of songs.
+SEED = SAMPLE_SONG_1
 
 class Composer:
     """Base Class for our deep composer.
@@ -32,12 +42,14 @@ class Composer:
     def _compile_model(self):
         # build the model: 2 stacked LSTMs
         print('Building the composer net...')
+        num_features = self.dataset[0].shape[1]
+        print 'num_features =', num_features
         self.model = Sequential()
-        self.model.add(LSTM(50, return_sequences=True, input_shape=(self.window_size, self.dataset.shape[1])))
+        self.model.add(LSTM(50, return_sequences=True, input_shape=(self.window_size, num_features)))
         self.model.add(Dropout(0.2))
         self.model.add(LSTM(50, return_sequences=False))
         self.model.add(Dropout(0.2))
-        self.model.add(Dense(self.dataset.shape[1]))
+        self.model.add(Dense(num_features))
         #self.model.add(Activation('relu'))  # Rectified Linear Unit # TODO: 'relu' missing in my theano install
         self.model.add(Activation('sigmoid'))  # Sigmoid
 
@@ -48,23 +60,39 @@ class Composer:
         """Train the neural net
         """
 
-        # Chop up dataset into examples with window-size N
-        training_examples = self._get_data_subsets()
-        print('# training sequences:', len(training_examples))
+        # Chop up all songs in dataset into examples with window-size N
+        training_examples = self._get_training_examples()
+        #print 'training_examples:', training_examples
+        print '# training sequences:', len(training_examples)
+
 
         # Split into inputs and outputs
-        training_examples_X = [ex[:-1] for ex in training_examples]  # inputs
-        training_examples_y = [ex[-1:] for ex in training_examples]  # outputs
+        #
+        # Input shape: 3D tensor with shape: (nb_samples, timesteps, input_dim).
+        # 2D tensor with shape: (nb_samples, output_dim)
+        #  (nb_samples, timesteps, input_dim) means:
+        #  - nb_samples samples (examples)
+        #  - for each sample, a number of time steps (the same for all samples in the batch)
+        #  - for each time step of each sample, input_dim features.
+
+        training_examples_X = np.array(tuple(ex[:-1] for ex in training_examples)) # inputs
+        training_examples_y = np.array(tuple(np.array(ex[-1:])[0] for ex in training_examples))  # outputs
+        print 'X', training_examples_X
+        print 'y', training_examples_y
+
+        print training_examples_X.shape
+        print training_examples_y.shape
 
         # Build/compile the model
         self._compile_model()
 
         # Train the model
         for iteration in range(1, 60):
-            print()
-            print('-' * 50)
-            print('Iteration', iteration)
-            self.model.fit(training_examples_X, training_examples_y, batch_size=128, nb_epoch=n_epoch)
+            print
+            print '-' * 50
+            print 'Iteration', iteration
+
+            self.model.fit(training_examples_X, training_examples_y, batch_size=1, nb_epoch=n_epoch)  # TODO: batch_size = 128
 
             self.compose()
 
@@ -76,8 +104,8 @@ class Composer:
         print('----- Generating with seed: "' + melody + '"')
 
         for i in range(num_measures * BEATS_PER_MEASURE - len(melody_start)):
-            x = melody[i:i + self.window_size]
-            # TODO: need to add one more dimension with x as only element?
+            x = np.array(melody[i:i + self.window_size])
+            x = np.expand_dims(x, axis=0)  # Add one more dimension with x as only element.
 
             next_frame = self.model.predict(x, verbose=0)[0]
             melody.append(next_frame)
@@ -87,10 +115,13 @@ class Composer:
     def _get_dataset(self):
         return SAMPLE_DATASET
 
-    def _get_data_subsets(self):
+    def _get_training_examples(self):
         """Return N - window_size example matrices, each with window_size vectors.
         """
-        return [self.dataset[i:i+self.window_size] for i in range(0, len(self.dataset) - self.window_size)]
+        song_data = []
+        for song in self.dataset:
+            song_data.extend(song[i:i+self.window_size] for i in range(0, len(song) - self.window_size + 1))
+        return song_data
 
 
 if __name__ == '__main__':
