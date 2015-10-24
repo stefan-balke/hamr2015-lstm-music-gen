@@ -101,16 +101,20 @@ class Composer:
         """
         melody = [frame for frame in SEED]
 
-        print('----- Generating with seed: "' + melody + '"')
+        print '----- Generating with seed:', melody
 
-        for i in range(num_measures * BEATS_PER_MEASURE - len(melody_start)):
+        for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
             x = np.array(melody[i:i + self.window_size])
-            x = np.expand_dims(x, axis=0)  # Add one more dimension with x as only element.
+            print 'x:', x
+            print x.shape
 
             next_frame = self.model.predict(x, verbose=0)[0]
+            print 'next_frame:', next_frame
+
             melody.append(next_frame)
-        print(melody)
-        print()
+
+        print 'melody:', melody
+        print
 
     def _get_dataset(self):
         return SAMPLE_DATASET
