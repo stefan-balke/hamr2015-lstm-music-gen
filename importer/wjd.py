@@ -7,6 +7,7 @@ from sqlalchemy.orm import relationship
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import csv
+from base import ImporterBase
 
 Base = declarative_base()
 
@@ -39,6 +40,15 @@ class Beat(Base):
     onset = Column(Float)
 
 
+# class Section(Base):
+#     __tablename__ = 'sections'
+#     melid = Column(Integer, ForeignKey('solo_info.melid'))
+#     type = Column(String)
+#     start = Column(Integer)
+#     end = Column(Integer)
+#     value = Column(String)
+
+
 class Melody(Base):
     __tablename__ = 'melody'
     eventid = Column(Integer, primary_key=True)
@@ -46,6 +56,20 @@ class Melody(Base):
     onset = Column(Float)
     pitch = Column(Float)
     duration = Column(Float)
+
+
+def get_melids():
+    engine = create_engine('sqlite:///../data/wjazzd_new.db')
+    db_session = sessionmaker(bind=engine)
+    session = db_session()
+    melids_query_gen = session.query(Solo.melid).distinct()
+
+    melids = []
+
+    for cur_melid in melids_query_gen:
+        melids.append(cur_melid)
+
+    return melids
 
 
 def get_solo(melid):
@@ -137,27 +161,57 @@ def get_transposition_offset(solo):
     # split the string
     cur_key = solo.key.split('-')[0]
 
+    transp_offset = None
+
     # find it
     try:
         transp_offset = pitch_classes_sharp.index(cur_key)
-    except 'ValueError':
+    except ValueError:
         pass
 
     try:
         transp_offset = pitch_classes_flat.index(cur_key)
-    except 'ValueError':
+    except ValueError:
         pass
+
+    # this means there was no annotation in the database
+    if not transp_offset:
+        transp_offset = 0
 
     return transp_offset
 
-if __name__ == '__main__':
-    melid = 60
-    solo = get_solo(melid)
-    transp_offset = get_transposition_offset(solo)
 
-    beats = get_solo_beats(solo, 2)
-    solo_piano_roll = get_solo_pitch_shape(solo, beats, n_pitch_classes=36, transposition_offset=transp_offset)
-
+def visualize_piano_roll(piano_roll):
     import matplotlib.pyplot as plt
-    plt.imshow(solo_piano_roll, cmap=plt.get_cmap('gray_r'))
-    plt.show()
+    plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
+
+
+class ImporterWJD(ImporterBase):
+    """Base Class for the dataset import.
+    """
+    def __init__(self):
+        self.output = []
+        self.pr_n_pitches = 36
+        self.pr_bar_division = 16
+
+        melids = get_melids()
+
+        for cur_melid in melids:
+            self.output.append(self.import_piano_roll(cur_melid))
+
+    def import_piano_roll(self, cur_melid):
+        solo = get_solo(cur_melid)
+        transp_offset = get_transposition_offset(solo)
+
+        beats = get_solo_beats(solo, 2)
+        solo_piano_roll = get_solo_pitch_shape(solo, beats, n_pitch_classes=36, transposition_offset=transp_offset)
+
+        return solo_piano_roll
+
+    def add_beat_flags(self):
+        pass
+
+if __name__ == '__main__':
+    importer = ImporterWJD()
+
+    print 'test'
