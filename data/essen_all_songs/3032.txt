@@ -1,0 +1,8 @@
+F[ERK1
+CUT[SCHEINT DER MOND SO SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schwaben; Schlesien]
+KEY[E0524  16  G 3/4]
+MEL[1_.3  3_.22__-7_4_  4_.33__
+    1_3_  5_.55_5_5_5_  5_+1_3__
+    3_.5  5_.44_6_5_4_  4__3__ //] >>
+FCT[Liebes - Lied]

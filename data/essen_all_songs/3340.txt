@@ -1,0 +1,12 @@
+F[ERK2
+CUT[ABSCHIED MUSS ICH NEHMEN HIER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein; Westfalen;
+    Bergisches Land]
+KEY[E0776  08 Eb 4/4]
+MEL[  1_135_5_  3_.21_0_
+    6_.7+1_6_  6_.55_0_
+    5_67+1_+1_  3_365__
+    3_3_5432  2__1_0_
+    5_67+1_+1_  3_365__
+    3_3_5432  2__1_0_ //] >>
+FCT[Abschieds - Lied, Wander - Lied, Liebe]

@@ -1,0 +1,17 @@
+DVA
+CUT[Pioniere sind stets munter,
+    greifen immer tapfer an]
+REG[Europa, Mitteleuropa, Deutschland,]
+KEY[D0290  08  D 4/4 2/4]
+MEL[       3_.33323  5_4_0__
+    2_.77767  +1__.0_
+    3_.33323  5_4_0__
+    2_.77767  +1__.0_
+    7_.77767  +1_5_0__
+    7_.77767  +1_5_0_
+    34  5_+1_7_6_  5__
+    6_.6  5567  +1_
+    33  5_+1_7_6_  5__
+    6_.5  5567  +1__ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = Variante zum Lied]

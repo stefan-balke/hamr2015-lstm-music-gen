@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Et quam sick es Heerken ut Dania,]
+CNR[dat fryt no de Weertsfrau ehre Dochter:]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[2, S. 281
+    1842 aufgezeichnet]
+KEY[Q0053B 08  F 3/4]
+MEL[-5_  1_1_2_  3_3_5_  3_4_3_  1_0_
+    34  5_5_6_  5_5_67  +1_6_7_  +1_0_
+    34  5_5_4_  3_2_33  1_-7_13  2_2_
+    34  5_5_4_  3_2_3_  1_-6_-7_  1_1_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]

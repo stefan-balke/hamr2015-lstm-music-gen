@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WOLLT EIN MAEGDLEIN FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Kleve; Bayern]
+KEY[E0121C 16  G 2/4]
+MEL[-5_  1_1_-7_2_  1_-7-6-5_
+    -5_  1_1_2_5_  3__0_
+    1_  3_.23_35  4_3_2__
+    2_2_2_5_  3_2_1_
+    2_  3_3_2_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

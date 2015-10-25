@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt' ein Jaeger jagen]
+CNR[ein Hirschlein oder ein Reh,]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Ortenau, Meissenheim]
+SRC[7, S. 219
+    1897 aufgezeichnet (ca.)]
+KEY[Q0152Q 16  G 6/8]
+MEL[-5_  1__2_3b__1_  5__.^_4_
+    3b_  2__1_-7_-7_1_  2__.^_0_
+    1_  5__5_3b__1_  +1__.5__
+    4_  3b_.21_2_.1-7_  1__.^_0_
+    1_  5__5_3b__1_  +1__.5__
+    4_  3b_.21_2_.1-7_  1__.^_0_ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Zweistimmig notiert, Oberstimme kodiert. Pausen am Ende der 4. und 6.
+    Zeile eingefuegt.]

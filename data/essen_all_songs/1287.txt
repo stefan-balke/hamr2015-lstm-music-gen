@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es schlief ein Graf bei seiner Magd]
+CNR[bis an den hellen Morgen,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt]
+SRC[3, S. 62
+    ????]
+KEY[Q0055d 08  G 4/4]
+MEL[-5_  1_1_1_-7-6  -6_-5_-5_
+    -5_  -5_.13_.2  2_1_0_
+    -5_  1_1_1_-7-6  -6_-5_-5_
+    -5_  -5_.13_.2  2_1_0_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

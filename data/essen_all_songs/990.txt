@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Staendchen"
+    GUT NACHT MEIN ALLERLIEBSTER SCHATZ]
+REG[Europa, Mitteleuropa, Deutschland, Mittelrhein]
+KEY[Z1255  08  G 4/4]
+MEL[54  3_543_5_  65434_
+    43  2_.25_.4  3_0__
+    54  3_543_5_  65434_
+    43  2_265_-7_  1__0_
+    13  5_.31_+1_  6_.54_
+    43  2_.1-7_6_  5_.43_
+    54  3_543_5_  65434_
+    43  2_265_.4  3__0_ //] >>
+FCT[Liebes - Lied]

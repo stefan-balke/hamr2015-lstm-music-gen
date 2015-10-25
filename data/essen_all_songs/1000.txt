@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Tanzlied"
+    DER MIT DEM SABEL, DER IST MEIN TAUSIGER SCHATZ]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1265  16  G 3/4]
+MEL[1___1234  5___3__  1__2__-5__  -7__2_.-5-5__
+    1___1234  5___3__  1__2__-7__  1___0__
+    2__.-5_-5__  3__.2_1__  2__.-5_-5__  3__.2_1__
+    1___1234  5___3__  1__2__-7__  1___0__ //] >>
+FCT[Natur und Welt]

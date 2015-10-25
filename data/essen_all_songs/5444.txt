@@ -1,0 +1,9 @@
+KINDER
+CUT[SCHENKT MIR MAL BAIRISCH EIN]
+REG[Europa, Mitteleuropa, Deutschland, Ostpreussen; Vogtland]
+KEY[K1188  16  C 3/8]
+MEL[  1_3_5_  +1_.53_
+    5_5_5_  +1_.53_
+    5_5_5_  +1__0_
+    5_5_5_  +1__0_ //] >>
+FCT[Kinder -  Lied, Nachahmung des Posthorn - Signals]

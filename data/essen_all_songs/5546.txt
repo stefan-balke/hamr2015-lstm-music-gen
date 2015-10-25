@@ -1,0 +1,11 @@
+KINDER
+CUT[SAECKE FLICKEN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2336  08  C 2/4]
+MEL[  543-7  543-7
+    5566  5_3_
+    543-7  543-7
+    5566  5_3_
+    5566  5430
+    5566  5430 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

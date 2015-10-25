@@ -1,0 +1,18 @@
+BOEHME
+CUT[DU LIEBLICHER STERN DU LEUCHTEST SO FERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0238  08  A 2/4]
+MEL[-5  3_21  -6_.
+    -6  4_22#  3_.
+    3  3_1#-6  6_2
+    2  4_23  1_. //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[DU LIEBLICHER STERN DU LEUCHTEST SO FERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0238  08  A 2/4]
+MEL[-5  3_21  -6_.
+    -6  4_22#  3_.
+    3  3_1#-6  6_2
+    2  4_23  1_. //] >>
+FCT[Tageszeiten - Lied, Abend]

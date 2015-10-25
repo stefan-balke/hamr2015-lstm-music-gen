@@ -1,0 +1,26 @@
+BOEHME
+CUT[BEKRAENZT MIT LAUB DEN LIEBEN VOLLEN BECHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0329  08 Bb 2/4 3/4]
+MEL[-5  1_1_  1_.
+    -6  -5-3-6-5  -5-4-3
+    1  3153  2_.
+    1  -7-52_2_  -5_0
+    -5  -6_-7_  1_.
+    2  3143  320
+    5  4321  -7-6-5
+    1  2_-7_  1_0 //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[BEKRAENZT MIT LAUB DEN LIEBEN VOLLEN BECHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0329  08 Bb 2/4 3/4]
+MEL[-5  1_1_  1_.
+    -6  -5-3-6-5  -5-4-3
+    1  3153  2_.
+    1  -7-52_2_  -5_0
+    -5  -6_-7_  1_.
+    2  3143  320
+    5  4321  -7-6-5
+    1  2_-7_  1_0 //] >>
+FCT[Trink - Lied]

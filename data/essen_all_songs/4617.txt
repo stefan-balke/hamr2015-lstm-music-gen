@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Sternlied von den heiligen drei Koenigen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0536  02  F 3/2]
+MEL[1  111  -7-73  21-7  -6_
+    -5  -6_-7  1_1  1-7-6  -5_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Paderborner Gsgb. 1617.]

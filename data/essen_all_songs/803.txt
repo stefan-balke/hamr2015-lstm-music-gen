@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Jaegerraenke"
+    ES WAR  EIN JAEGER DER STIESS INS HORN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1068  16 Bb 2/4]
+MEL[-5_  1_312_33  -6_2_1_0
+    1  2_2_2_22  3_2_1_
+    1_  2_2_2_2_  3_2_1_
+    -5_  -6__-7__  1__0_ //] >>
+FCT[Romanze, Ballade, Jaeger - Lied]

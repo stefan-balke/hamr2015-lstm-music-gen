@@ -1,0 +1,9 @@
+VARIANT
+CUT[Does Madla von der Gmaa hot schoene weisse Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Breitenlesau]
+KEY[V0006  08  G 2/4]
+MEL[5  654#5  3_0
+    5  654#5  4_0
+    5  654#5  7_7_  6_6_  5_. //] >>
+FCT[Liebes - Lied]
+CMT[Bemerkung: "wird offenbar mit Schlussbildung wiederholt"]

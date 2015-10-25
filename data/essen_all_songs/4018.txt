@@ -1,0 +1,8 @@
+F[ERK3
+CUT[ES WOLLT GUT JAEGER JAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1438  08 Bb 6/4]
+MEL[-5_  1__3_2__3_  1_.-7-6_-5__
+    5_  5__4_3_.21_  -7__1_2__
+    4_  3__1__2_2_  1___0_ //] >>
+FCT[Staende -, Jaeger - Lied, Liebe]

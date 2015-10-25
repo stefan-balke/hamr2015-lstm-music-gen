@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wollt ein Muellerlein frueh aufstehn,]
+CNR[er wollt in Wald spazieren gehn,]
+REG[Osteuropa, UdSSR, Bessarabien]
+SRC[4, S. 342
+    ????]
+KEY[Q0086Q 08  G 4/4]
+MEL[-5  1_-5_1_-5-5  3_2_1_
+    -5_  1_-5_1_-5_  3_2_1_0
+    3  4_3_2_1_  3_5_2_0
+    5  6_5_4_3_  2_4_3_0 //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]

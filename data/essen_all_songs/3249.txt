@@ -1,0 +1,9 @@
+F[ERK2
+CUT[NICHT LOBENSWUERDIG IST DER MANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0700B 04  D 4/4]
+MEL[-5  -5-5-3-1  -2-2-2
+    -5  -5-5-3-1  -2_.
+    2  22-7-5  111
+    3  22-7-5  1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

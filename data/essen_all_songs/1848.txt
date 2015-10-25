@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Da droben vor meines Vaters Haus,]
+CNR[da steht eine grosse Linde,]
+REG[Mitteleuropa, Deutschland / Polen, Westpreussen]
+SRC[6, S. 234
+    ????]
+KEY[Q0137C 16  C 3/4]
+MEL[5__  3__.3_3__  5___5__  +1___+1__  5___
+    5__  5___+1_.+1  7___+2__  +2___.  +1___
+    5__  +3___+3__  +3__+2__+1__  7___6__  6___
+    6__  7___7__  +2___+2__  +2___.  +1___
+    5__  +3___+3__  +3__+2__+1__  7___6__  6___
+    6__  7___7__  +2___+2__  +2___.  +1___ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Meererin (Die schoene Mare)
+    Bie vrie ischt auf nar dai scheane Mare!]
+CNR[Bie vrie ischt auf nar dai scheane Mare!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[1, S. 35
+    1895 gedruckt in Graz]
+KEY[Q0004  08  E 3/2]
+MEL[1_321_  5_5__5_6_5_  432__
+    3_1_3_  5_2__123132  1_2__ //] >>
+FCT[Ballade, Braut - Werbung, Entfuehrung]
+CMT[Schluss auf der zweiten Stufe.]

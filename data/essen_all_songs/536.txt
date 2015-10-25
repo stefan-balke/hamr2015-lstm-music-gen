@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[S IST NICHTS MIT DEN ALTEN WEIBERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0121  08  G 3/4]
+MEL[1_  5_5654  3_1_
+    35  4_4535  2__
+    1_  5_5654  3_1_
+    35  4_4535  2__
+    -71  2_2_21  -7_-5_
+    13  5_5_54  3_1_
+    53  6_4_2_  5__
+    55  6_4_2_  1__ //] >>
+FCT[Erzaehlung, lustige Romanze]

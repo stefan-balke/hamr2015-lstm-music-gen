@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Herr Conrad war ein mueder Mann,]
+CNR[Er band sein Ross ans Wirtshaus an.]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 37
+    ????]
+KEY[Q0072S 08  E 4/4]
+MEL[13  5_35+1_53  542-71_0
+    1  6_5_7_+1_  7_6_5_0
+    5  7_67+1_76  56543_
+    1_  6_5_4_3_  21231_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Nach Methfessels (komponierter) Melodie zu "Vier Worte nenn ich
+    euch ..." . Zweistimmig notiert, Oberstimme kodiert.]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[SCHOENSTER SCHATZ AUF ERDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Bergisches Land]
+KEY[E0649  08  F 3/8]
+MEL[  134  5_+1  530
+    555  4_5  3_0
+    531  2_5  310
+    333  212  1_0 //] >>
+FCT[Liebes - Lied]

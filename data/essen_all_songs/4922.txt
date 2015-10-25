@@ -1,0 +1,19 @@
+DVA
+CUT[Die Sennerin hoasst Liesl,
+    sie is von Milch und Bluet]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0286  16  G 4/4 6/8]
+MEL[      -5__  1__.-5_-3__-5__  1__1__0__
+    1__  2__.-7_-5__2__  1___0__
+    -5__  1__.-5_-3__-5__  1__1__0__
+    1__  2__.-7_-5__2__  1__.
+    1_-7_1_  2_2_-5_2_1_2_  3_3_1_
+    1_-7_1_  2_.-7-5_4_3_2_  1__.
+    1_-7_1_  2_.-7-5_4_3_2_  1__.
+    -5_-5_.-5  -5_1_1_1_1_.1  1_3_3_
+    1_1_3_  5__.4_3_2_  1__.
+    -5_-5_.-5  -5_1_1_1_1_.1  1_3_3_
+    1_1_3_  5__.4_3_2_  1__.0__. //] >>
+FCT[Hirten - Lied, Bauernlied, Jodler]
+CMT[mehrstimmig notiert; Takt von 3/4 auf 6/8 korrigiert
+    Inzipit = Variante zum Lied]

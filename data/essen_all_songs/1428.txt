@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es ging ein jung Kuechenjung ueber den Rhein,]
+CNR[er wollte Markgrafen sein Schwesterlein frein.]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen, Estedt]
+SRC[3, S. 261
+    1879 gedruckt in Magdeburg]
+KEY[Q0068P 16  C 3/8]
+MEL[5_  +1_7_6_  5_.31_  2_.34_  4_3_
+    5_  6_7_+1_  5_5_+1_  +2_+2_+3_  +1__ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

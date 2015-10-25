@@ -1,0 +1,8 @@
+ZUCCAL
+CUT['S HAT EIN BAUR EIN SCHOENES WEIB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0128  08  B 4/4]
+MEL[7b7b7b7b+1+2+3b_  7b7b7b6b56b7b_
+    +17b6b54_5_  445_445_
+    +1+2+3+1+2_+1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

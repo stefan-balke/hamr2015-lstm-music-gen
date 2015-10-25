@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Waise und Stiefmutter
+    Ein armes Maedchen war]
+CNR[eine Waise wohl fuerwahr,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
+SRC[5, S. 300
+    1928 gedruckt in Leipzig]
+KEY[Q0116F 16  G 6/8]
+MEL[-5_  1__1_1_-7_1_  2__0__.
+    -5-5  2__2_2_1_2_  3__0__.
+    -5_  4__4_3_2_3_  4__0__.
+    4_  3__1_2__-7_  1__0__. //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

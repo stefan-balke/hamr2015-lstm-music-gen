@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Richmudis von Adocht
+    Im Himmel, im Himmel sind Freuden so viel,]
+CNR[da tanzen die Englein und haben ihr Spiel.]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[5, S. 241
+    1894 gedruckt in Leipzig]
+KEY[Q1112F 08  G 3/4]
+MEL[-5  1_-7_1_  2_1_3_  4_4_3_  2__
+    13  5_5_6_  5_5_4_  3_3_2_  1__
+    13  5_5_6_  5_5_4_  3_3_2_  1__0 //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0112A, anderes Lied. Schusspause ergaenzt.]

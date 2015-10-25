@@ -1,0 +1,19 @@
+FINK
+CUT[ES LASSEN SICH DIE TODTEN FUERSTEN BALSAMIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0527  08  G 2/4]
+MEL[-5  1234  5_5_
+    64+16  655_
+    64+16  655_
+    5444  3_3
+    3  2_55  3_0_
+    5444  3_3
+    3  2_32  1_0
+    -5  1234  5_5_
+    64+16  655
+    5  64+16  655_
+    5444  3_3
+    3  2_55  +1__
+    6_66  655
+    3  5_42  1_0 //] >>
+FCT[Studenten - Lied]

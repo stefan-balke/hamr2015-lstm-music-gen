@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Der ehebrecherische Gatte
+    Bie vrie ischt auf nare dar raiche shupon!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 57
+    1895 gedruckt in Graz]
+KEY[Q1093B 08  G 3/4]
+MEL[13  5_5_4_  3_.212  3_3_2_  1__ //] >>
+FCT[Ballade, ???]
+CMT[Melodievergleich zu Q0093, anderes Lied.]

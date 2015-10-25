@@ -1,0 +1,11 @@
+F[ERK2
+CUT[MIR GEFAELLT DAS EHSTANDSLEBEN BESSER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Ober - Lahnkreis]
+KEY[E0868B 16  G 2/4]
+MEL[  1__-5__  -6_-7_1_3_  2_432__  1__2__
+    3_5_4_2_  3_1_4__  5_.43__  ^__0__
+    3__3__  3__5__  4_.32__  1__2__  ^__0__
+    3__2__  3_5_4_2_  3_1_4__  5_.43__  ^__0__
+    3__3__  3__5__  4_.32__  1__2__  ^__0__
+    3__2__  3_5_4_2_  3_1_4__  5_.43__  ^___ //] >>
+FCT[Hochzeits -, Ehestands - Lied +++ Zeilenenden rhythm. vereinheitlicht+++]

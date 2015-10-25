@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Totenamt
+    Es taget minnecliche]
+CNR[die sunn der gnaden vol]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 162
+    1421 Handschrift aus Strassburg]
+KEY[Q0061B 04  G FREI]
+MEL[1  1_43_2  4_5_3_2_
+    6_  5_53_3  4_5_3_2_
+    1_  3_45_6  5_4_32_1_
+    2  5_43_2  1__ //] >>
+FCT[Ballade, Liebe, Eifersucht, Tod; geistlich]
+CMT[Geistliche Kontrafaktur.]

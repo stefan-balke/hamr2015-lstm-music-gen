@@ -1,0 +1,11 @@
+F[ERK2
+CUT[IHR GEDANKEN HALTET EIN]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Schoenau]
+KEY[E0682  08  G 4/4]
+MEL[-5-5  1_.-53_1_  5__.
+    11  3_.1321-7  1__0_
+    23  4_4_4654  433_0_
+    23  4_4_4654  433_0_
+    -5_  1_1-53_31  5__.
+    11  3_.1321-7  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Todtenamt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0018  04  D 4/2]
+MEL[1_  1_1_1_.4  5__3b_.
+    2  1_4_543b2  3b__0_
+    2_  4_5_43b21  4__5_
+    3b2  1-71_3b21-7  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie: Hs. des 15.Jahrh. aus Karlsruhe]

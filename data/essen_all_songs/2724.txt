@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES WAR EIN REICHER SCHLAECHTERSMANN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0120  08  A 4/4]
+MEL[12  3b43b21_23b  4543b2_
+    4_  5_5_1_4_  3b_2_1_
+    1_  5_.45_6b_  4_.3b4_
+    5_  3b_.21_4_  3b_2_1_
+    1_  5_.45_6b_  4_.3b4_
+    5_  3b_.21_4_  3b_2_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

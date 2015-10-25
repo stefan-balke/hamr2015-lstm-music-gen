@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Der verlorene Rosenkranz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0066B 08  F 4/4]
+MEL[1_  3_3_4_4_  5_5_5_
+    5_  4_3_4_5_  4_2_1_
+    5_  3_3_2_2_  111_-5_
+    3_  3_1_3_.4  5__4_3_  2__1__  0__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Juengere Melodie, zusammengesetzt von M. Franck aus 4 einzelnen
+    Stellen im 7. Quodlibet des Fasciculus quodl. 1611.]

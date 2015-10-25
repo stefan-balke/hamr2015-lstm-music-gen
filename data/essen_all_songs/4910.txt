@@ -1,0 +1,14 @@
+DVA
+CUT[In den schoenen Monat Mai, trueholda, duholda,
+    zieht der Koehler in den Hai, trueholdahudue,]
+REG[Europa, Mitteleuropa, Deutschland, Harz]
+KEY[D0236  16  D 2/4]
+MEL[        1_1_3_3_  5_5_3__
+    7_5_5__  +1_3_5__
+    1_1_3_3_  5_5_3__
+    7_5_5+3_.  +1_.^
+    +3_.+2  +13_.(+1_3_+1_)  72_.4+2_.
+    72_.(7_2_7_)  +13_.5+3_.  +1__0__ //] >>
+FCT[Staende - Lied, Koehler]
+CMT[rhythmische Korrektur in der zweiten Zeile;
+    Inzipit = Variante zum Lied; Variante zu D0234 ? (DVA-Signatur 236a)]

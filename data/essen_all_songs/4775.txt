@@ -1,0 +1,12 @@
+DVA
+CUT[Der Ring
+    Mein Freund hat mir versprochen etwas]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0016  08  E 2/4]
+MEL[1  13b21  -7b_-7b_  3b554  5_0
+    1  13b21  -7b_-7b_  3b554  5_
+    3b4  5556b  5_43b  4_
+    46b  5_12  1_-7b-6b  -7b_
+    24  3b_22  1_0 //] >>
+FCT[Liebes - Lied]
+CMT[Verzierungen; Inzipit = Transposition zum Lied]

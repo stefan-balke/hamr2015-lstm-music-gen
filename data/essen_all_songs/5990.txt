@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Der stander et Slot i Osterige,]
+CNR[som er saa vel beprydet]
+REG[Nordeuropa, Norwegen]
+SRC[1, S. 272
+    1893 gedruckt]
+KEY[Q2024H 08  D 6/4]
+MEL[5_  5_.54_5__+1_  +1__7b_5_.5
+    7b_  6b__5_4__3b_  4_5__^__
+    +1_  +1__7b_5__6b_  5__4_2_.3b
+    5_  7b__6b_5_.43b_  2_1__^__ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Norwegische Fassung der Ballade.]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ALLE DIE WILLEN NAER]
+REG[Europa, Mitteleuropa, Niederlande, Flandern]
+KEY[E1499  16  A 2/4]
+MEL[  1__1_.2  3b__3b_4_  5__4__  3b__0_
+    4_  5_.43b_2_  1_.2
+    3b_.4  5_.43b_.2  1_-7_0_
+    -5_  1_.23b_.1  2_.3b4_.
+    2  3b__4_.4  5__.
+    3b_  4_.3b4_.5  6b_.54_.
+    3b  3b__2__  1__0__ //] >>
+FCT[Staende -, Seemanns - Lied, Fischer]

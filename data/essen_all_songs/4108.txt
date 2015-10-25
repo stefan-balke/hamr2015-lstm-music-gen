@@ -1,0 +1,13 @@
+F[ERK3
+CUT[SITZT EIN SCHOENS VOEGEL IM TANNENWALD]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[E1575A 08  F 3/4]
+MEL[  3_3_3_  5_.43_  5_+1_5_
+    3_3_3_  5_.43_  5__0_
+    5_+1_3_  5_4_4_  4_6_2_  4_3_3_
+    3_3_3_  5_.43_  5_+1_5_
+    3_3_3_  5_.44_  3__0_
+    5_+1_3_  5_4_4_  4_6_2_  4_3_3_
+    3_3_3_  5_.43_  5_+1_5_
+    3_3_3_  5_.44_  3__0_ //] >>
+FCT[Staende - Lied, Fuhrmann]

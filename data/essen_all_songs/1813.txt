@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das weinholende Maedchen
+    Es trug ein schwarzbraun' Maedchen]
+CNR[ein'n Becher roten Wein.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
+SRC[6, S. 137
+    1840 gedruckt in Berlin]
+KEY[Q0129B 08  G 6/8]
+MEL[-5  1_123b4  5_.2_
+    2  5_5543b  2_0_.
+    5  7b6b5456b  5_.54
+    2  3b2143b2  1_.0_ //] >>
+FCT[Ballade, Werbung]
+CMT[Vermutlich keine originale Balladenmelodie sondern Unterlegung des
+    Balladentextes mit einer anderen Balladenmelodie durch Zuccalmaglio.]

@@ -1,0 +1,10 @@
+KINDER
+CUT[SUSE KINDKEN SUSE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[K0057  16  G 2/4]
+MEL[  3_3_2_2_  1__-5_0_
+    3_3_2_2_  1__-5_0_
+    3_3_3_3_  4_.44_
+    4_  2_2_2_2_  3_.33_0_
+    3_3_2_2_  1__-5_0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

@@ -1,0 +1,8 @@
+KINDER
+CUT[HIER TRETEN WIR HER MIT UNSERM STERN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig, Westkueste]
+KEY[K1703  08  F 3/4]
+MEL[-5_  1__-7_  1__1_  1_3_2_  1__
+    23  4_.254  3_.21_  2_.1-7_  1__
+    23  4_.254  3_.21_  2_.1-7_  1__ //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

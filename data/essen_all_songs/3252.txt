@@ -1,0 +1,13 @@
+F[ERK2
+CUT[WAS FUEHR ICH DENN SO FUERN TRAURIGES LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0702  08  E 2/4]
+MEL[1  543b4  2_.
+    3b  543b4  2_.
+    2  2_2_  5_.
+    5  543b1  2_.
+    2  2_22  5_.
+    5  543b5  4_0
+    4  5_5_  3b21
+    3b  5423b  1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

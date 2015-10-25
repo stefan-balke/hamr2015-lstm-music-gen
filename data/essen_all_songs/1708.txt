@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    In dem schoenen Badner Lande]
+CNR[wohnte still ein Elternpaar,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+SRC[4, S. 307
+    ????]
+KEY[Q0085H 08  C 6/8]
+MEL[  3_33_3  3235_4
+    4_42_2  5653_0
+    3_33_3  3235_4
+    4_42_2  5653_0 //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

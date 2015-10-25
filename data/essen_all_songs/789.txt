@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Wildschuetz"
+    GRIASS DI GOTT, MAIN LIABI ROES'L]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1054  08  G 3/4]
+MEL[-5-7  1_1531  1-7-6-5
+    -5-7  1_.234  5__
+    -5-7  1_1531  1-7-6-5
+    -5-7  1_1-712  3__
+    3_  322123  1__ //] >>
+FCT[Romanze, Ballade, Staende -, Jaeger - Lied]

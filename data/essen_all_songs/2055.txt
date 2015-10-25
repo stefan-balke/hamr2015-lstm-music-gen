@@ -1,0 +1,9 @@
+FINK
+CUT[SUESSE HEILIGE NATUR LASS MICH GEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0306  16 Eb 2/4]
+MEL[3_.4  1_1_-7123  2_1_
+    5_3_  5_3_2345  4_3_
+    +1765  4_3_6_54  3_2_
+    531_  642_1_-72  2_1_ //] >>
+FCT[Jugend - Lied, Belehrung, Natur]

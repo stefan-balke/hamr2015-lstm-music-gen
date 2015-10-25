@@ -1,0 +1,34 @@
+BOEHME
+CUT[DA DRAUSSEN DA WEHEN DIE WINDE SO FRISCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0181  08  C 3/4]
+MEL[3_  4_.-6-7_  1_-3_
+    -5_  -4_-2_-6_  -6_-5_.
+    3  4_.-6-7_  1_-3_
+    -5_  -4_-2_-4_  -3_0_
+    3_  2_.11_  -7_2_
+    2_  -6_1_1_  -732_
+    3_  2_.11_  -7_2_
+    2_  -6_2_2_  -7_0_
+    3_  432_-6-7  1_.-3
+    -5_  -4_-2_-6_  -6_-5_
+    3_  432_-6-7  1_.-3
+    -5_  -4_-2_-7_  1_0_ //] >>
+FCT[Natur - Lied, Landleben]
+BOEHME
+CUT[DA DRAUSSEN DA WEHEN DIE WINDE SO FRISCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0181  08  C 3/4]
+MEL[3_  4_.-6-7_  1_-3_
+    -5_  -4_-2_-6_  -6_-5_.
+    3  4_.-6-7_  1_-3_
+    -5_  -4_-2_-4_  -3_0_
+    3_  2_.11_  -7_2_
+    2_  -6_1_1_  -732_
+    3_  2_.11_  -7_2_
+    2_  -6_2_2_  -7_0_
+    3_  432_-6-7  1_.-3
+    -5_  -4_-2_-6_  -6_-5_
+    3_  432_-6-7  1_.-3
+    -5_  -4_-2_-7_  1_0_ //] >>
+FCT[Natur - Lied, Landleben]

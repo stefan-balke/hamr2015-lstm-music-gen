@@ -1,0 +1,13 @@
+F[ERK1
+CUT[IST ES DENN AUCH WIRKLICH WAHR]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Lahnkreis, Dillkreis]
+KEY[E0368  16  F 4/4]
+MEL[  1__-5__1__3__  2_1_-7_-6_-5___
+    2__2__2__2__  2__5__5__4__
+    3__3__3__3__  3_2_3_4_5___
+    6__.5_4__2__  2___1__0__
+    1__3_.21__3_3_  2_3_4_3_2__0__
+    2__4_3_2__3_4_  5_6_5_4_3__0__
+    3__3__3__3__  3_2_3_4_5___
+    6__.5_4__2__  2___1__0__ //] >>
+FCT[historisches Lied, Deutsch - Franzoesischer Krieg (1870)]

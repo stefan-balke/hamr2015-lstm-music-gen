@@ -1,0 +1,13 @@
+F[ERK3
+CUT[NUN DANKET ALLE GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1986  04  G 4/4]
+MEL[5  5566  5_.
+    3  4323  2_1
+    5  5566  5_.
+    3  4323  2_1
+    2  2233  2_.
+    2  3554#  5_.
+    5  6543  4_.
+    3  2322  1_. //] >>
+FCT[geistlich, Dank - Lied, Choral]

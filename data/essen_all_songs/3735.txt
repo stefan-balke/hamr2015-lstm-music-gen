@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SIST NO NIT LANG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1008A 16  F 2/4]
+MEL[13  5_.34_.2  32343_
+    13  5_.34_.2  3__0_
+    3_  3_.22_4_  4_.33_
+    5_  +15312432  1__0_ //] >>
+FCT[Tanz - Lied, Liebe, Klage]

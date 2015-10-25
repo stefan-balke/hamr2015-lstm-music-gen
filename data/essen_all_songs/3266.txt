@@ -1,0 +1,11 @@
+F[ERK2
+CUT[TRAURIGES MAEDCHEN VERZAGE NUR NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Gambach]
+KEY[E0711  16  A 3/8]
+MEL[-5_  -5_-5_-7_  2_2_
+    -5_  -5_1_2_  3__
+    -5_  -5_-7_2_  6_5_.
+    3  4_4_2_  1__
+    -5_  -5_-7_2_  6_5_.
+    3  4_4_2_  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

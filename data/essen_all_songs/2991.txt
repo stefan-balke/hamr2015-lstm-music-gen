@@ -1,0 +1,9 @@
+F[ERK1
+CUT[DER GUTZGAUCH HAT SICH ZU TODE GEFALLN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0481  04  C 3/4]
+MEL[1  5_5  4_4  5_5  1_
+    1  5_4  7b_6  5_4  5_
+    5  +1_+1  6_6  7b_7b  5_
+    1  3b_4  5_4  3b_2  1_ //] >>
+FCT[Liebes - Lied]

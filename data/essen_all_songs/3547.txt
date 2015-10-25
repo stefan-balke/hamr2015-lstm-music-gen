@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Voar Mineisch Vanscht'rlein]
+CNR['scht a grienes Moaile,]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 86
+    ????]
+KEY[Q1095A 08  G 4/4]
+MEL[1_  2_23432
+    3  44321__
+    2_.34321  321_2_ //] >>
+FCT[Sonnwend - Lied]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

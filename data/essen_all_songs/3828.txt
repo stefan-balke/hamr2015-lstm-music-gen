@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HERR BRUDER ZUR RECHTEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glogau]
+KEY[E1145  08  D 3/4]
+MEL[12  3_3_3_  3_2_
+    23  4_4_4_  4_3_
+    55  +1_7_66  5_3_
+    55  4_2_7_  +1_1_ //] >>
+FCT[Trink -, Zech - Lied]

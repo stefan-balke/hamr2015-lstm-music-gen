@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Waise und Stiefmutter
+    Es war ein Maegdlein zart,]
+CNR[die eine Waise ward,]
+REG[Mitteleuropa, Deutschland (DDR) , Pommern, Sandfoerde und Jatznick]
+SRC[5, S. 284
+    1930 aufgezeichnet]
+KEY[Q0116  08  A 6/8]
+MEL[-5  1_-7-6_-3  -4_.0_
+    1  -7_-6-5_-4  -3_.0_
+    -5  3_33_3  4_.0_
+    -6  -5_12_3  1_.0_
+    -5  3_33_3  4_.0_
+    -6  -5_12_3  1_.0_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

@@ -1,0 +1,11 @@
+FINK
+CUT[SO SINGEN WIR SO TRINKEN WIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0763  16  A 3/4]
+MEL[-5_3_2_  1__.2_3_1_  2__0_
+    -5_4_3_  2__.3_4_2_  3___
+    3__  2_3_4_3_2_3_  4___
+    4__  3_4_5_4_3_4_  5___
+    3__  4___-4__  -5___
+    -5__  -5__3__2_.1  1__0_ //] >>
+FCT[Geselligkeits -, Trink - Lied, Neujahr]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[HOERT IHR CHRISTEN MIT VERLANGEN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Franken]
+KEY[E0220  08  G 3/4]
+MEL[-5-5  1_1_(321)  -712_
+    -71  2_2_34#  5__
+    -5-5  1_1_(321)  -712_
+    13  5_3_(542)  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe, Faust - Sage]

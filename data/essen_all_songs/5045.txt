@@ -1,0 +1,13 @@
+BOEHME
+CUT[UNS LANDWEHRMAENNERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0581  08 Bb 4/4]
+MEL[-5-6-7  1_1_21-71  2_
+    -5-72_12  3_1_4_3_  2__0
+    -5-6-7  1_3_21-71  2_
+    -5-72_4_  3_.-71234#  5__0_.
+    -5  2_123_1_  1_1_23_
+    1  4_336_54  3_2_1_.
+    -5  2_123_1_  1_123_.
+    1  4_336_54  3_2_1 //] >>
+FCT[Staende -, Soldaten - Lied, national]

@@ -1,0 +1,13 @@
+FINK
+CUT[RUFEN NICHT DIE GLOCKENTOENE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0292  08 Eb 6/8]
+MEL[  3_13_1  5_35_3
+    2_05_.  3_0__
+    3_15_3  4#_26_4#
+    5_.2_.  -7_0__
+    +1_55_3  2343_1
+    -7121_1  6_65_4
+    3_15_3  +1_0__
+    5_34_2  1_0__ //] >>
+FCT[Jugend - Lied, religioes]

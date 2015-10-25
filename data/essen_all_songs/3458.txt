@@ -1,0 +1,15 @@
+F[ERK2
+CUT[ICH SOLLT EIN NOENNLEIN WERDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0919  04  C 4/4]
+MEL[1  11-7-6  -5_-5
+    -5  -611-7  1_0
+    1  11-7-6  -5_-5
+    -5  -611-7  1_0
+    1  1151  -7-7-6_
+    2221  -7-6-5
+    -5  -611-7  1_0
+    1  1151  -7-7-6_
+    2221  -7-6-5
+    -5  -611-7  1_0 //] >>
+FCT[Ehestands - Lied, Nonnen - Klage]

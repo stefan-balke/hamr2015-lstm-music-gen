@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    ohne Text]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Lichtenbach]
+SRC[5, S. 207
+    1911 aufgezeichnet]
+KEY[Q0107B 08  G 3/4]
+MEL[1_  3_1_3_  5__24  6_5_4_  3__
+    3_  5_5_4_  3__11  4_3_2_  1__ //] >>
+FCT[Ballade, Tod]
+CMT[Kleinere Melodievarianten aus anderer Quelle abgedruckt.]

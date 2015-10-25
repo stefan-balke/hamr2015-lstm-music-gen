@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ACH MUTTER GIEB MIR KEINEN MANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0109  08 Eb 4/4]
+MEL[1_  1_2_3_5_  ^43_2_2_  1__0_
+    1_  5_6_7_5_  +1__6__  5__0__  0_
+    5_5_+1_  7_.65_6_  5_.43__  0_
+    6_5_.4  3_1_2_5_  ^43_2_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

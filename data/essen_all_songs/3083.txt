@@ -1,0 +1,11 @@
+F[ERK1
+CUT[AUF TRAUERN FOLGT GROSS FREUD]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend; Taunus]
+KEY[E0558A 16  G 4/4]
+MEL[-5__  1__.2_3__4_6_  5___0__
+    3__  5__.4_6__5__  3___0__
+    5__  3__.5_5__6__  5__.4_4__
+    5__  3__3__5_4_3__  3__.2_2__
+    5__  3__.432__5__  3__.432__
+    6__  5__7_6_5__4__  3___0__ //] >>
+FCT[Liebes - Lied]

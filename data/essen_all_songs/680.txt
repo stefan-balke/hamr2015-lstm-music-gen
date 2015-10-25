@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[O TANNENBAUM O TANNENBAUM]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[Z0263  08  C 3/4]
+MEL[-5  111_.-5  222_.
+    -5  314_3_  2_1_0
+    5  555_.6  444_.
+    4  333_.3  222_.
+    -5  111_.-5  222_.
+    -5  314_3_  2_1_0 //] >>
+FCT[Weihnachts - Lied]

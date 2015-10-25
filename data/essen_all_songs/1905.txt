@@ -1,0 +1,13 @@
+FINK
+CUT[WENN ICH AN DEN LETZTEN ABEND DENK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0066  08  F 4/4]
+MEL[13  5_5_5_65  544_46
+    54  3_3_543_  2__0_
+    13  5_5_5_65  544_46
+    54  3_3_543_  2__0_
+    11  6_6667+16  655_5_
+    43  2_6_5_4_  3__0_
+    11  6_6667+16  655_+1_
+    43  2_6_5_42  1__0_ //] >>
+FCT[Liebes - Lied, Abschied]

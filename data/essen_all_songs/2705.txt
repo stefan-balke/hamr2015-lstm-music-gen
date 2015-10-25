@@ -1,0 +1,10 @@
+F[ERK1
+CUT[IN DES GARTENS DUNKLER LAUBE]
+REG[Europa, Mitteleuropa, Deutschland, Lahn - Gebiet]
+KEY[E0112B 08 Bb 3/4]
+MEL[-5-4  -3-51_-5-4  -3-51_
+    11  -7_.-6-5-4  -3__
+    -3-3  -544432  211_
+    11  -7-63_2_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

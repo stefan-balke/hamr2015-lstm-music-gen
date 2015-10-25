@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[IM ARGAEU SIND ZWEI LIEBI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z0046  16  G 2/4]
+MEL[12  3_3_3_23  4_2_0_
+    23  4_4_4_34  5_3_0_
+    46  5_334_2_  32343_
+    46  5_334_2_  3__0_ //] >>
+FCT[Sagen - Lied, Romanze]

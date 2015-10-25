@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die erzwungene Ehe
+    Ich woelt, daz ich doheime wer]
+CNR[und aller welte trost enber.]
+REG[Mitteleuropa, Deutschland / Frankreich, Strassburg ?]
+SRC[2, S. 250
+    ???? Handschrift aus Strassburg]
+KEY[Q1050C 04  D FREI]
+MEL[1  43b1  -7b-7b  3b4  5
+    3b  6b54  14  142  1_ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0050, anderes Lied. geistliche Kontrafaktur?]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der junge Held
+    Es wollt' ein Jungknab auf Botschaft gehn]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 152
+    ????]
+KEY[Q1060E 08  D FREI]
+MEL[1_  (1_1_1_)5_.67b_  6_5_4__
+    4_  5_55+1_.+2+1_  7b65__
+    54  5_+1_7b_6_5_  7b_+1_5__
+    7b_  6_5_4__5_  3b_2_1__
+    1_  1_1_5__4_  56b5_.43b_  2__1__ //] >>
+FCT[Tage - Lied]
+CMT[Melodievergleich zu Q0060A, anderes Lied. Verzierung im letzten Takt.]

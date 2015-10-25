@@ -1,0 +1,11 @@
+BOEHME
+CUT[DER BESTE FREUND IST IN DEM HIMMEL]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[B0752  08  F 3/4]
+MEL[1_  5__5_  5_4_3_  5_4_3_  2_1_
+    -5_  4_3_2_  3__3_  5_4_3_  2__
+    1_  5__5_  5_4_3_  5_4_3_  2_1_
+    -5_  4_3_2_  3__3_  5_4_3_  2__
+    2_  2__2_  3__3_  4_3_4_  5__
+    5_  +1_7_6_  5_.654  3__2_  1__ //] >>
+FCT[Moral - Lied, religioes]

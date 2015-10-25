@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Kuechenjunge und die Koenigstochter"
+    HABT IHR KEINEN MANN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[Z1079  08 Ab 4/4]
+MEL[-5  1_111_.3  23221_.
+    1  2_2_5_5_  2__5_
+    34  5_654_23  44543_.
+    3  5_1_1_-7_  -6__-5__
+    3_1_1__  12345_.
+    5  4_2_5_3_  2__1_0 //] >>
+FCT[Romanze, Ballade]

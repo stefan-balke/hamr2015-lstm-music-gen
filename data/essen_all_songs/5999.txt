@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Alter Mann und Schueler
+    Es steht ein Schloesschen im Oesterreich,]
+CNR[darinn da wohnt ein alter Mann,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz, Bergzabern]
+SRC[1, S. 283
+    1860 aufgezeichnet (erste Haelfte des 19. Jh.)]
+KEY[Q0025  16  G FREI]
+MEL[-5_  1_3_1_1_-71  2_3_1__0_
+    1_  3_5_.43_2_  1__2__0_
+    1_  3_1_5__.6_3_1_  4__0_
+    3_2_1_  4__3__  2__1__0_
+    1_  3_5_4__3__  2__1_0_ //] >>
+FCT[Ballade, Betrug, Hinrichtung, Tod, Vergeltung]
+CMT[Verzierungen (Vorschlaege) in der 3. bis 5. Zeile.]

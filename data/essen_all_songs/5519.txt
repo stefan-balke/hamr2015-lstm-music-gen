@@ -1,0 +1,10 @@
+KINDER
+CUT[WOLLT IHR WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Vogtland]
+KEY[K2239B 08  G 3/4]
+MEL[-5-5  1_1_-5-5  1_1_
+    33  4_4_22  3_3_
+    11  2_2_-7_  5__
+    33  4_4_22  3_3_
+    11  2_2_-7_  1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

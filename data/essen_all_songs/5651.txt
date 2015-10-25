@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Der verlorene Rosenkranz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0066A 02  F 3/1]
+MEL[1_  1_.11_  2_.23_  4_.44_  4__
+    4_  4_.44_  3__4_  5__.  3__
+    5_  +1__+1_  7__6_  5__5_  3__
+    3_  5_.43_  5__5_  6__.  3__
+    6_  5_1_2_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie zusammengefuegt aus zwei Fragmenten: Schmeltzel Quodlibet
+    No. 19 (vgl A0054 und A0065, diese Angabe kann nicht stimmen!) und
+    Forster II. No. 60.]

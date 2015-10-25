@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Het reden twee ghespeeln goet]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0070A 04  D 4/4]
+MEL[5  5_7b_  6_+1_  7b_6_  5_0
+    5  +1_7b_  7b_5_  543b_  2_0
+    1  3b_.4  5_.5  6b_46b  543b_  2_0
+    2  3b_1_  2_4_  43b2_  1_0 //] >>
+FCT[Lied]
+CMT[Hs. des 15. Jh.]

@@ -1,0 +1,11 @@
+BOEHME
+CUT[AM URAL DA BIN ICH GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau]
+KEY[B0722  16 Bb 6/8]
+MEL[-7_  3_2_1_2_1_-6_  -5__.-3__
+    3_  2_.22_2_4_3_  1__.0__
+    -7_  3_2_1_2_1_-6_  -5__.-3__
+    3_  2_.22_2_4_3_  1__.0__
+    -5_  2_2__4_3_2_  3__.0__
+    12  3_2_3_4_-6_2_  1__-7_1__ //] >>
+FCT[???]

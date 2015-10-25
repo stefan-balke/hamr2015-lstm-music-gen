@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    O Engel, allerschoenstes Kind]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Odenwald]
+SRC[2, S. 266
+    ????]
+KEY[Q1051J 16  G 3/4]
+MEL[-5__  1_1-7-6__-6_-71  2_2-7-5_
+    -5_1_2_  3__3__2__  1__0__ //] >>
+FCT[Liebes - Lied]
+CMT[Melodievergleich zu Q0051H, anderes Lied. Verzierung (Vorschlag) in
+    der letzten Zeile]

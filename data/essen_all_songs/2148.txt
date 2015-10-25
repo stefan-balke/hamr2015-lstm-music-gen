@@ -1,0 +1,15 @@
+FINK
+CUT[THUERINGEN HOLDES LAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0461  08  F 3/4]
+MEL[  5_1_2_  3_.42_
+    6_5_2_  4_.33_
+    2_3_4#_  5_.22_
+    765_4#_  5__0_
+    4_321-7  5_.43_
+    5_4321#  6_.54_
+    7_6_5_  +1_765_
+    543_23  4__.
+    4_+1_76  5_.43_
+    3_234_  3__0_ //] >>
+FCT[Vaterlands -, Heimat - Lied]

@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Nun ist es doch kein Reuter,]
+CNR[es ist ein Edelmann, Edelmann,]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 146
+    1540 gedruckt; Satz: Hans Teuglin]
+KEY[Q0149D 08  F FREI]
+MEL[+1_  +1__+1__  7_+1_  +2_.+17_  6__
+    7_  +1__+1__  7_5_  6_.53_  6_5_3_  1__
+    1__  5_5_  6__7_  +1_+1_
+    7_  6_5_4_  3_2__  1_0_
+    +1_  +1_+1_+1_  +1_7_5_  65432_  1_0_
+    5_  5_5554  3_3322  1_321  3_3342  1__ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Tenorstimme aus einem vierstimmigen Satz von Hans Teuglin mit
+    aehnlichem Text. Zusammengehoerigkeit mit der Balladengruppe
+    fraglich. Taktart in "FREI" geaendert. Letzte Zeile = Refrain auf
+    sinnfreie Silben.]

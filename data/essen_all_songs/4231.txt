@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WIR GNIESSEN DIE HIMMLISCHEN FREUDEN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[E1765  08  D 6/8]
+MEL[5  +176564  3_45_
+    6  543231  -7_12_
+    5  4#56675  4#5667
+    +1  765654#  5_.0_
+    5  22342-7  1_23_
+    5  654321  -7_12_
+    7  +167+167  +167+17
+    6  543425  1_.0_ //] >>
+FCT[Luegen - Lied, Schlaraffenland]

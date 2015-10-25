@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Vom reichen Bauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0506B 08  F 4/4]
+MEL[1__5__  5_.26_4_  2__1__
+    1_1_-7_-7_  1_1_-5__
+    1_1_-7_-7_  1_1_-5__ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[N. Zange, 1620 Lied 18.]

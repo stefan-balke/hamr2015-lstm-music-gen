@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die beiden Waisenkinder
+    Es waren zwei Waisenkinder,]
+CNR[die gingen zum Kirchhof hin,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[5, S. 310
+    ????]
+KEY[Q0118B 08  G 6/8]
+MEL[-5  1111-71  220_.
+    -5  -5-555_4  3_.0_
+    5  333345  6_.65
+    4  5555_4  3_.0_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

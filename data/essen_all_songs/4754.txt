@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der geistliche Tannebaum]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0656B 08  G 4/4]
+MEL[5_  5_.55_7b_  4_.44_5_  4_4_3b_.4  2__0_
+    5_  5_.55_7b_  4_.44_5_  4_4_3b_.4  2__0_
+    2_  3b_3b_4_4_  5__5_7b_  6b_5_4_.4  3b__0_
+    2_  3b_4_5_3b_  4__4_5_  3b_4_2_.2  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchen 1642]

@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[Z LAUTERBACH HAB I MEI STRUMPF VERLOREN]
+REG[Europa, Mitteleuropa, Tirol]
+KEY[Z1207  16  C 2/4]
+MEL[  -5_.-51__  -6_.-6-4__  -5_.-5-5__
+    4_.43__  2_.2-5__  -5_-531__
+    -5_.-51__  -6_.-6-4__  -5_.-5-5__
+    4_.43__  2_.2-5__  1__0__ //] >>
+FCT[Liebes - Lied]

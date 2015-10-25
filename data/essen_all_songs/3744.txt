@@ -1,0 +1,15 @@
+F[ERK3
+CUT[GEH MIT DR DORDEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E1018  16  F 3/8]
+MEL[  1_3333  3_5555
+    5_4_4_  5_3333
+    1_3333  3_5555
+    5_4_4_  3__0_
+    666_6_  6_5555
+    (554)4_4_  553333
+    1_3333  3_5555
+    5_4_5_  3__0
+    5  5__35  5__30  0__
+    (111)  +1_0__ //] >>
+FCT[Tanz - Lied]

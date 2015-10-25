@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ICH FORCHT MICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0204B 16  F 2/4]
+MEL[1_  3_3_3_3_  5__5_4_  3__2__  1__0_
+    1_  55555_67  +1_+1_5_
+    4_  3_3_5_54  3__2__  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

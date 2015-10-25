@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Alter Sommerwendfest - Tanz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0310B 04  G 4/2]
+MEL[     1_.11_1_  3b_.3b3b_
+    3b_  1_.12_1_  -7__1__  0_
+    1_2_.3b  4_4_3b_.2  3b_
+    3b_-7b_-7b_  3b_3b_2_2_  3b_.
+    3b2_1_  2_1_-7__  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 125]

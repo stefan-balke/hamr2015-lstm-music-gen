@@ -1,0 +1,22 @@
+BOEHME
+CUT[IHR BRUEDER WENN ICH NICHT MEHR TRINKE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0352  16  F 3/4]
+MEL[-5__  3_.21_1_2_3_  5_.42__
+    -5__  3_.21_1_2_3_  2__0__
+    -5__  3_.21_1_2_3_  4_.6+1__
+    7_.6  5_.65_3_4_2_  1__0_
+    5_4_3_  2_.22_2_3_4_  6_.55_
+    5_4_3_  2_.22_4_3_2_  1__0__ //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[IHR BRUEDER WENN ICH NICHT MEHR TRINKE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0352  16  F 3/4]
+MEL[-5__  3_.21_1_2_3_  5_.42__
+    -5__  3_.21_1_2_3_  2__0__
+    -5__  3_.21_1_2_3_  4_.6+1__
+    7_.6  5_.65_3_4_2_  1__0_
+    5_4_3_  2_.22_2_3_4_  6_.55_
+    5_4_3_  2_.22_4_3_2_  1__0__ //] >>
+FCT[Trink - Lied]

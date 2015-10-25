@@ -1,0 +1,14 @@
+F[ERK2
+CUT[ADE ZUR GUTEN NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Franken; Rheinpfalz]
+KEY[E0768  16  G 2/4]
+MEL[-5_  1__2_4_  3_321_
+    2_  3__4_6_  5_543_
+    5_  5_434_5_  3__0_
+    5_  3__5__  6_654_
+    3_  2__4__  5_543_
+    5_  5_434_5_  3__0_
+    5_  3__5__  6_654_
+    3_  2__4__  5_543_
+    5_  5_434_5_  3__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ALS DIE PREUSSEN MARSCHIRTEN]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[Z0094  16 Bb 4/4]
+MEL[1_3_  5__3_1_2_1_2_3_  1___0__
+    1_3_  2__2_4_3__3_5_  4__3__2__
+    1_3_  5_4_3_2_1_1_-7b_-7b_  -6__1__4__
+    4_5_  6_5_4_3_2_3_2_1_  -7_2_2_5_5__
+    -5__  1__1_3_2__2_4_  3__4_6_5__0__
+    5_6_5_323__2__  1___0__ //] >>
+FCT[Sagen - Lied, Romanze, Soldaten - Lied]

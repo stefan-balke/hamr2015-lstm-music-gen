@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Zur Johannisfeier]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0223  08  G 4/4]
+MEL[1_  3_.23_4_  5_.43_
+    6_  5_4_3_2_  1_.32_
+    6_  5_.43_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Andere Lesart des vorigen Liedes, aus Volksmund: Schuster
+    siebenbuergisch - saechs. VL S. 92.]

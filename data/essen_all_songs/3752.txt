@@ -1,0 +1,13 @@
+F[ERK3
+CUT[DANZ RUEBER DANZ NUEBER]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E1024  16  G 3/8]
+MEL[1_  -7_2_2_  1_3_
+    3_  2_.34_  3__
+    1_  -7_2_2_  1_3_
+    5_  4_2_-7_  1__
+    5_  5_4_4_  3__
+    5_  5_4_4_  3__
+    1_  -7_2_2_  1_3_
+    5_  4_2_-7_  1__ //] >>
+FCT[Tanz - Lied]

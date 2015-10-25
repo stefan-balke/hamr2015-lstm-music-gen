@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Der geistliche Buchsbaum]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0654A 04  G 6/2 4/2]
+MEL[1_  1__1__2_3_  4__4_2__
+    1_  4__4__3_21  2__2_2__
+    2_  1__1__1_-6_  -7__.1_  2__0_
+    3_  4_3_2_1_  2__1__
+    3__  4__4_3__1_  2__1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Babsts Gsgb 1545 II No. 51]

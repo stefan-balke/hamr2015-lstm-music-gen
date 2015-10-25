@@ -1,0 +1,13 @@
+FINK
+CUT[DEUTSCHER KAISER GOTT BESCHUETZE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0466  04  C 4/4]
+MEL[  1_-7_  -6_-5_  -4-3-4-5  -3_-1_
+    1_-7_  -6_2_  1_-7_  1_0_
+    1_-7_  -6_-5_  -4-3-4-5  -3_-1_
+    1_-7_  -6_2_  1_-7_  1_0_
+    2_2_  2_1_  -7_-3_  -7_-6_
+    1_-6-7  1-5-3-6  -5_-2-4  -3_0_
+    -5_23  2_1_  -7-6-71  -7_-6_
+    1_-6-7  1-712  3_2_  1_0_ //] >>
+FCT[Vaterlands -, Heimat - Lied, Kaiser - Lied]

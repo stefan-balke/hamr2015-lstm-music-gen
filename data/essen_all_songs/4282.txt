@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MAIEKAEFER FRICO FRICO]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1852  16  F 3/8]
+MEL[55  5_3_6_  5_3_6_  5_3_
+    5_  5_.44_  3__5_  5_.44_  3__0_
+    5__5_  5_.56_  5__.  3__
+    3_  5_5_5_  5_.56_  5__.  3__ //] >>
+FCT[Kinder - Lied, Tier - Lied]

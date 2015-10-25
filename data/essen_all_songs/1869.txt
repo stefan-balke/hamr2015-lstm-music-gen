@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es waren mal drei G'sellen, G'sellen,]
+CNR[die taeten sich was verzellen, -zellen,]
+REG[Mitteleuropa, Schweiz, Graubuenden, Bez. Heinzenberg, Portein]
+SRC[6, S. 274
+    1938 aufgezeichnet]
+KEY[Q0139D 16  A 2/4]
+MEL[5_  3_.33_.3  3_1_0__  3_1_0_
+    5_  (3_3_3_)3_3_  3_1_0__  3_1_0_
+    5_  3_.33_.3  3__0_5_  6_5_4_3_  2__.
+    1_  -7_2_4_5_  7__.6_  5_5_4_4_  3__0_
+    5_  3_.33_.3  3__0_5_  6_5_4_3_  2__.
+    1_  -7_2_4_5_  7__.6_  5_5_4_4_  3__0_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf; Studenten - Lied]
+CMT[Anhaengsel an der 1. und 2. Zeile.]

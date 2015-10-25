@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Liebeslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0220B 04  F 6/4 4/4]
+MEL[3_  6_54_3  2_3_
+    7_  +1_+17_7  6__
+    3_  6_54_3  2_3_
+    7_  +1_+17_7  6_0
+    +1  7567  +1_.
+    5  6564  3_+1_
+    7_+2+1_7  6_7_
+    3_  4_32_2  3__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Dieselbe Melodie nach ihrem Rhythmus geordnet.]

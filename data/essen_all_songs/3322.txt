@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH KANN UND MAG NICHT FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wuettemberg, Stuttgart; Mannheim]
+KEY[E0766  16  G 3/4]
+MEL[-5_1_2_  1_5_4_3_2_1_  2__0_
+    -5_1_2_  1_5_4_3_2_1_  2__0_
+    5_3_4_  5__6_5_4_3_  4__5_
+    543_5_  3__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

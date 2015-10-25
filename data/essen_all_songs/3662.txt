@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es rait' ein Knab' paim Tor hinaus,]
+CNR[ar rait' ahin, ar boaiss et, bu.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 268
+    ????]
+KEY[Q0114K 08  G 4/4]
+MEL[1_  3_2_3_5_  4_3_2_.
+    3  3_2_1_2_  1_-7_1_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

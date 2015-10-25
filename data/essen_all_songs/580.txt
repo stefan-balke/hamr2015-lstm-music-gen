@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Guckkasten"
+    HOERT, LIEBEN LEUTE, KOMMET DOCH]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Deutschland]
+KEY[Z0164  16  G 2/4]
+MEL[-5_  1_.23_.1  2_2_5_.
+    4  3_.21_3_  -7_2_-5_
+    -5_  1_.23_1_  2_2_5_
+    5_  5_4_3_2_  2_2_1_0_
+    32345__  32345__
+    45432321  -7_2_-5__
+    32345__  32345__
+    4321-712-7  1_3_1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[S ISCH WAHR I WILL NIMMAEMEH LIAEGE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1107  16  G 3/8]
+MEL[1_  1__1_  3b_.21_  2_5_5_  5_5_
+    55  5_.43b_  3b_.21_  1__2_  2_.2
+    2_  3b__3b_  3b_.21_  2__.  -5__
+    -5_  1_.11_  3b_.21_  1_.55_  5__
+    5_  5_4_3b_  2__1_  2__.  1__ //] >>
+FCT[Luegen - Lied, Maerchen]

@@ -1,0 +1,9 @@
+FINK
+CUT[DER HOLDSELIGEN SONDER DANK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0926  08  A 3/4]
+MEL[  1__3_  5_.65_  2__4_  3__0_
+    1__3_  5_.65_  2__3_  1__0_
+    1__1_  +1_.76_  6_5_4#_  5_.65_
+    4__4_  3_.43_  2__3_  1__0_ //] >>
+FCT[Liebes - Lied]

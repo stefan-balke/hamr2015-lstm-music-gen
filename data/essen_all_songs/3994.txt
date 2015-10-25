@@ -1,0 +1,10 @@
+F[ERK3
+CUT[MAEDCHEN MEINER SEELEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Thueringen; Berlin]
+KEY[E1414  08  G 3/8]
+MEL[  -511  135  322
+    -5-72  5_4  3_0
+    5_3  345  544
+    4_2  234  655
+    313  542  1_0 //] >>
+FCT[Staende -, Soldaten - Lied, Krieg, Abschied]

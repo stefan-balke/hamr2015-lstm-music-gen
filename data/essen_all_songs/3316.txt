@@ -1,0 +1,13 @@
+F[ERK2
+CUT[GOTT GRUESS DICH LIEBES MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0756A 08  C 4/4]
+MEL[-5  1_.11_.3  2_.22_05  3_0__^
+    -5  1_.11_.3  2_.22_05  3_0__^
+    5  5_.55_65  4_.44_0
+    4  3_.33_45  2_.22_0
+    5  3_.32_.2  1__0_.
+    5  5_.55_65  4_.44_0
+    4  3_.33_45  2_.22_0
+    5  3_.32_.2  1__0_. //] >>
+FCT[Abschieds - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging sich ein Jaeger ausjagen]
+CNR[drei Stuendelein vor dem Tagen]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Solingen,
+    Schlebusch]
+SRC[7, S. 215
+    ????]
+KEY[Q0152I 16  G 6/8]
+MEL[-5_  1_.23_2_3_2_  1__-6_-5__
+    -5_  1_.23_2_3_2_  1__-6_-5__.
+    3__.4__.  5_3_1_2_1_2_  1_.23_2_3_5_
+    3__.4__.  5_3_1_2_1_2_  1__.^__ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[DER KNABE ROBERT FEST UND WERT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0057  08  F 4/4]
+MEL[532  1_1_2_2_  3__0
+    5+15  3_3_4_4_  5__0
+    555  7_.57_.5  +1__0
+    345  6_4_2_5_  1__0 //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[DER KNABE ROBERT FEST UND WERT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0057  08  F 4/4]
+MEL[532  1_1_2_2_  3__0
+    5+15  3_3_4_4_  5__0
+    555  7_.57_.5  +1__0
+    345  6_4_2_5_  1__0 //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

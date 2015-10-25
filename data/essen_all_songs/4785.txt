@@ -1,0 +1,16 @@
+DVA
+CUT[Das faule Gretchen]
+CNR[Wer sich ein faules Gretchen nimmt,
+    der kann ja lustig sein]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0028  16  G 4/8]
+MEL[-5_  1_3_2_-7_  1_-6_-5_
+    -5_  -6_1_-7_2_  1__0_
+    -5_  1_3_2_-7_  1_-6_-5_
+    -5_  -6_1_-7_2_  1__
+    5_.4  3_3_3_3_  3_5_5__  3_5_5__
+    5_4_4_6_  6_5_3_
+    22  3_5_4_2_  1__0_ //] >>
+FCT[Spott - Lied]
+CMT[Mehrere rhythmische Korrekturen zum 4/8 - Takt durchgefuehrt
+    Verzierung; Inzipit = Variante]

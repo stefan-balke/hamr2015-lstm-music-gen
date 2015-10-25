@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die zwei armen Waislein
+    Es baraint entmol zboi urmai Boishlain.]
+CNR[Aube, aube, die Boishlain!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Obermoesel]
+SRC[5, S. 301
+    ????]
+KEY[Q0117  08  G 3/4]
+MEL[-4-5  1_1_-6_  -4__-71  4_4_3_  3__
+    46  4__3_  1__-6_  243_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]
+CMT[Verselbstaendigte Oberstimme ? Letzte Zeile = Refrain.]

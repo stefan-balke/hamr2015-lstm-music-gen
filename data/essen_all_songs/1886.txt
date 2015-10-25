@@ -1,0 +1,13 @@
+FINK
+CUT[WENN DIE NACHT MIT STILLER RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0010  08  F 4/4]
+MEL[  1_3_5_.3  23454_30
+    5_.36543  3__2_0_
+    1_3_5_.3  23454_30
+    5_.36543  3__2_0_
+    2_.43_.-5  2_.44_30
+    6_.65_(654)  3_2_1_0_
+    2_.43_.-5  2_.44_30
+    6_.65_(654)  3_2_1_0_ //] >>
+FCT[Tageszeiten - Lied, Nacht, Schlaf; Liebe]

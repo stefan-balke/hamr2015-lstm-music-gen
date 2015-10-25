@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Reigen"
+    ANNA MARI MARI WEND DI DREH DI]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1343  16  A 3/8]
+MEL[-511111  2_4__
+    -5-7-7-7-7-7  1_3__
+    -511111  244__
+    -5-7-7-7-7_  2_1__ //] >>
+FCT[Zech -, Schalks - Lied]

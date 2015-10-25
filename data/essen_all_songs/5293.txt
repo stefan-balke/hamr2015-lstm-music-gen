@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohen Bergen,]
+CNR[schaut in das tiefe Tal,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Poermitz]
+SRC[8, S. 51
+    1909 aufgezeichnet]
+KEY[Q0155J 08  F 6/8]
+MEL[-5  1_35_1  1-70_.
+    -5  -7_25_4  3_0_.
+    -5  1_23_4  5_+17_
+    6  5554_-7  1__0 //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

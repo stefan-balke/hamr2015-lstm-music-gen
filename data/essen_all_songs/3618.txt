@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Genovefa
+    Schicksalswege gibt's auf Erden]
+CNR[hier so viel und mancherlei,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern, Zarnikow]
+SRC[5, S. 173
+    1918 aufgezeichnet (1914 - 18)]
+KEY[Q0104B 04  G 3/4]
+MEL[  -5_1  1_1  1-7-6  -6-5-5
+    -2-4-6  -5_-5  -5-72  1_0
+    -5_1  1_1  1-7-6  -6-5-5
+    -2-4-6  -5_-5  -5-72  1_0
+    -5_-5  4_4  3_2  -5_.
+    -6_-6  -5_-5  -5-72  1_.
+    -5_-5  4_4  3_2  -5_.
+    -6_-6  -5_-5  -5-72  1_. //] >>
+FCT[Ballade, Ehe, Treue, Verleumdung, Rettung]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Bie vrie bar auf scheans Barwala,]
+CNR[bie vrie bar auf scheans Barwala!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 126
+    ????]
+KEY[Q1100B 08  G 4/4]
+MEL[-5_1_2_  31234_3_  2_
+    5_2_3_  21123_2_  1_ //] >>
+FCT[Ballade, ???]
+CMT[Melodievariante zu Q0100A, anderes Lied.]

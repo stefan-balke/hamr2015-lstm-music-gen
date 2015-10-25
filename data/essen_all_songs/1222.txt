@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die erzwungene Ehe
+    Es hat sich ein Bauer ein Toechterlein fein,]
+CNR[ein Toechterlein fein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 250
+    1933 gedruckt in Heidelberg]
+KEY[Q0050D 04  F 3/4]
+MEL[-5  111  112  -7-7-6  -50
+    -5  112  30
+    3  225  432  -6-62  10 //] >>
+FCT[Ballade, Hochzeit; Schwank]
+CMT[Zweite Zeile = Kurzzeile aus Textwiederholung.]

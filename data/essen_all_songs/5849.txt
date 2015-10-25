@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Henslein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0304B 04  F 3/2]
+MEL[1_  3__3_  1__1_  2__2_  1__0_
+    3__3_  1__1_  2__2_  1__
+    4_  3_.21_  2_.1-7_  1_1_2_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzels Quodl. 1544 No. 9]

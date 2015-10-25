@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Abschied von Insbruck]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0254A 04  F 6/2 4/2]
+MEL[1__  1_2_3__5__  4__3__0_
+    3_  5_.42__3__  1__-7__0_
+    1_  2_1_-7_1_  2__0_
+    2_  1_2_3__5__  4__3__0_
+    3_  5_.42__3__  1__-7__0_
+    -7_  1_2_3__  4_.3212_  311__-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied]

@@ -1,0 +1,17 @@
+KINDER
+CUT[KLING KLING GLOECKCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt]
+KEY[K2093  16  G 2/4]
+MEL[  1__3__  5__3_
+    -5_  1_2_3_4_  5__3__
+    5_4_3_2_  1__0_
+    -5_  1_2_3_4_  5__3__
+    5_4_3_2_  1__0__
+    5__3__  5_5_3__
+    1_2_3_4_  5_5_3__
+    5_4_3_2_  1__0_
+    1_  5_5_3_3_  5_5_3__
+    5_553_3_  5_5_3__
+    1_2_3_4_  5_6_5__
+    4_4_2_2_  1_3_1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

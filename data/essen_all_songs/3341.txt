@@ -1,0 +1,10 @@
+F[ERK2
+CUT[WO DAS KLARE WASSER FLIESSET]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Witzenhausen]
+KEY[E0777  08  F 4/4]
+MEL[  1_123_.3  2_-7_1_-5_
+    3_345_.5  4_243__
+    5_57b6__  6_6+17__
+    +1_.5765_  6_.3543_
+    1_135_5_  4_243_0_ //] >>
+FCT[Abschieds - Lied, Wander - Lied, Liebe]

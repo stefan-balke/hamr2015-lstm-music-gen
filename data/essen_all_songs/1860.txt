@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    Es geht ein' Frau in gruenen Wald]
+CNR[um die gruenen Nuesse;]
+REG[Osteuropa, Tschechoslowakei, Deutsch - Proben, Sprachinsel
+    Kremnitz, Glaserhaeu]
+SRC[6, S. 245
+    1930 aufgezeichnet]
+KEY[Q0138C 16  E 3/4 4/4]
+MEL[1_1_3b_  5__.4#_5_6b_  4__0__
+    7b_6_7b_+1_  7b__5__
+    5_.5  7b__.5_7b_.7b  3b__.
+    4_5_5_  3b__.5_4_3b_  1__0_ //] >>
+FCT[Ballade, verlorene Unschuld, Moral]

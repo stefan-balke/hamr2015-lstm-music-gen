@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Herr von Sain]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0367  08  D 2/2]
+MEL[1_  1__.1_  4__.5_  6__5__  4__0_
+    5_  6__.7_  +1__.7_  6_.56_4_  5__0_
+    5_  5__5__  6__5__  (4_.31_)(3_2__)  1__0_ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Melodie aus einer Pap. Hs. der Stadtbibl. zu Aachen. 16. Jh.
+    fol. 49. Abgedruckt Dr. L. Lerch, Niederrhein. Jahrb. f. Gesch.
+    und Kunst. Bonn 1844. II. Bd. S. 341.]

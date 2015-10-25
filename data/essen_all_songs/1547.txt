@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es ritt ein Ritter wohl ueber den Rhein,]
+CNR[er kehrte bei einer Frau Schenkwirtin ein.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Gutebern]
+SRC[4, S. 6
+    1840 aufgezeichnet]
+KEY[Q0072D 08  F 4/4]
+MEL[34  5_5_5565  544_4_
+    54  333_321_  2_222_
+    32  113_531_  32221_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]

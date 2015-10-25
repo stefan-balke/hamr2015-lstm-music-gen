@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Rosengarten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0136  04  F 6/4]
+MEL[-5  1_13_3  5_53_
+    5  5_54_3  2_.1_
+    -5  1_13_3  5_53_
+    5  5_54_3  2_.1_
+    5  6_55_4  3_.2_
+    3  4_4534  2_.^0
+    5  6_55_3  1_53_
+    5  5_5342  1_.^0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[A0135B von Boehme in modernen Noten notiert.]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[GUT HENSEL UEBR DIE HEIDE REIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0436  04  F 4/4]
+MEL[1  3344  555
+    5  4345  423
+    5  3322  11-6
+    3  3134  5_43  2_1 //] >>
+FCT[Liebes - Lied, Untreue]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Das Schlaraffenland"
+    IN'S ELSIS ABE WOTT E FLOH]
+REG[Europa, Mitteleuropa, Schweiz; Elsass]
+KEY[Z1332  16  A 2/4 3/8]
+MEL[32  1_1_1_-5_  1__2__  3__0_
+    32  1_1_1_-5_  1__2__  3__0_
+    12  3_345_43  2__-5_0_  0_
+    345_3_  2__2_
+    34  5__3__  4_543_2_  3__0_
+    32  1_2_3_4#4#  5_-5_0_
+    13  5_.654  3_.21_  2__3_  1__ //] >>
+FCT[Zech -, Schalks - Lied]

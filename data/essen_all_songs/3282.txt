@@ -1,0 +1,9 @@
+F[ERK2
+CUT[DER SOMMER GEHT UMMI]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Braunau, Alt - Oettingen]
+KEY[E0724  08  G 3/4]
+MEL[54  3_2_3_  4_432_
+    4_3_4_  5_543
+    4  5_4#_5_  6_622
+    3  4_4-7-7_  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

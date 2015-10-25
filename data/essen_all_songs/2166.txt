@@ -1,0 +1,12 @@
+FINK
+CUT[HIER IN DES ABENDS TRAULICH ERNSTER STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0496  08  D 4/4]
+MEL[  1__1_1_  2__2__
+    3_1_1_2_  1__-7__
+    3__3_3_  3_2_2__
+    1_.12_1_  1__-7__
+    3__2_1_  4_3_2__
+    3_.32_1_  -7_-6_-5__
+    3__1_2_  1__-7__  1___ //] >>
+FCT[Studenten - Lied]

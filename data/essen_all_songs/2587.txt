@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ACH HANNCHEN SCHOENSTES HANNCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Limburg; Unter - Lahnkreis]
+KEY[E0056E 08  G 3/4]
+MEL[-5_  -533_21  -722_
+    23  466_54  3_0_
+    23  466_54  355_
+    43  255_4_  3__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Kinds - Mord
+    Ballade ?]

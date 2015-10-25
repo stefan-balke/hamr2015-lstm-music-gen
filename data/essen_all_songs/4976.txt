@@ -1,0 +1,13 @@
+BOEHME
+CUT[LAUE LUEFTE FUEHL ICH WEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Hochwald; Schweiz]
+KEY[B0511  16  F 3/4]
+MEL[  3_.33_3_2_3_  5_.44__0__
+    2_.34_5_6_5_  3___0__
+    3_.33_3_2_3_  5_.44__0__
+    2_.34_5_6_5_  3___
+    5_.5  7__.7_6_5_  +1_.55__
+    5_.5  7__.7_6_5_  +1_.55__
+    3_4_  5__.+1_7_6_  5___
+    6_6_  5__.3_2_3_  1___0__ //] >>
+FCT[Wander - Lied]

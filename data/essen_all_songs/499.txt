@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES HET E BAUR E TOECHTERLI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z0084  16  G 2/4]
+MEL[-5_  1_.-71_2_  3__2__  1__0_
+    5_  5_2_2_5_  6__4#__  5__0_
+    3_  4_.56_65  4_465_0
+    4  3_.21_2_  3__2__  1__+1_ //] >>
+FCT[Sagen - Lied, Romanze, Juengling zieht in den Krieg; Liebe]

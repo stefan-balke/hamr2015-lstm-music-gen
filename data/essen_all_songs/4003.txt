@@ -1,0 +1,11 @@
+F[ERK3
+CUT[KATHRINCHEN TRAU NUR NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Rheinland]
+KEY[E1423A 16  G 4/4 2/4]
+MEL[-5__  1__.2_3_.23_6_  5___
+    6___  5__.3_4__5_4_  3___0__
+    5_4_  3__+1__6__.5_  6_5_4_3_
+    2__6__5__.6_  5_4_3_4_
+    5__5_4_3__0__
+    6___  5__5_4_3__ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe +++ Taktwechsel nachtraeglich ++++]

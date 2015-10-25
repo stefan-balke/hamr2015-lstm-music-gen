@@ -1,0 +1,15 @@
+F[ERK1
+CUT[WENN ICH AN DEN LETZTEN ABEND GEDENNCK]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Bergstrasse]
+KEY[E0555  08  D 4/4]
+MEL[-1-3  -5_-5_-5_-6-5  -5-4-4-3-4_
+    -5-4  -3_-3_-5_-4-3  -2__0_
+    -1-1  -6_-6-6-6_1-6  -6-5-5-51_
+    11  2_2_-7_-6-7  1__0_
+    -1-3  -5-5-5-5-5_
+    1-7  -6-6-6-6-6_
+    21  -7_-5_-5_-6-7  1__0_
+    -1-3  -5-5-5-5-5_
+    1-7  -6-6-6-6-6_
+    21  -7_-5_-5_-6-7  1__0_ //] >>
+FCT[Liebes - Lied, Abschied]

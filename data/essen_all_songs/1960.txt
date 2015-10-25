@@ -1,0 +1,13 @@
+FINK
+CUT[WIR WINDEN DIR DEN JUNGFERNKRANZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0179  16  C 2/4]
+MEL[-5_  1-7123_-5_  1-7123_0
+    3  2_.321-7-6  -5-4-3__
+    -5_  1-7123_-5_  1-7123_0
+    3  2_.321-7-6  -5_-7-6-5_0_
+    1__3__  5__3__
+    21-712_3_  1___
+    2-5-5_2-5-5_  123__.
+    5_4321-7-6  -5-4-3__ //] >>
+FCT[Hochzeits - Lied]

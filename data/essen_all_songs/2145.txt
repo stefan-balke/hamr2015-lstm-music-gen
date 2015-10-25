@@ -1,0 +1,10 @@
+FINK
+CUT[DEM LAND WO MEINE WIEGE STAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0457  08  A 4/4]
+MEL[-5_  1_.1-7_1_  2_.32_
+    2_  3_3_4#_.4#  5__0_
+    -5_  -5_.-5-6_-5_  3_.21_
+    1_  2_2_4_.4  3__3_
+    3_  2_6_5_.-7  1__. //] >>
+FCT[Vaterlands -, Heimat - Lied]

@@ -1,0 +1,8 @@
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, heidi, heida]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Zochenreuth]
+KEY[V0002E 16  E 2/4]
+MEL[-5_  1_1_1121  -7_-6_-6_4_  -7__0_-5_  1__0_
+    -5-5  1_1_1121  -7_-6_-6_4_  1__0_-5_  1__0_
+    34  5_345_45  6_2_2_23  4_234_34  5_1_1_3_  1__0_5_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]

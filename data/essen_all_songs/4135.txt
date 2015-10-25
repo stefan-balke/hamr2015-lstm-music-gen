@@ -1,0 +1,11 @@
+F[ERK3
+CUT[STEH NUR AUF DU HANDWF[ERK3SGESELL]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Westfalen]
+KEY[E1603A 16  F 4/4]
+MEL[1_3_  5__5_5_5_.65_4_  4_3_3_3_3__.
+    3_  2__.3_5_4_4_3_  3___2__
+    5__  6__.5_6__6_7_  +1_+1_7_6_5__.
+    4_  3__3_5_5_4_3_2_  2___1__
+    5__  6__.5_6__6_7_  +1_+1_7_6_5__.
+    4_  3__3_5_5_4_3_2_  2___1__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

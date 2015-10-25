@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES WAREN ZWEI VERLIEBTE IN DEM MAILAND]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0049C 08  G 4/4]
+MEL[12  3_3_3_23  4_2_0_
+    23  4_4_4654  5_3_0_
+    13  5_554321  6_6_6_
+    +16  5_555_24  3__0_
+    13  5_554321  6_6_6_
+    +16  5_555_24  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

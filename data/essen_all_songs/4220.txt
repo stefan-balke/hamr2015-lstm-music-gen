@@ -1,0 +1,13 @@
+F[ERK3
+CUT[UNSER BRUDER MALCHER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1754  08  F 3/4]
+MEL[  1_.234  5_5_.
+    3  434_2_  3__
+    -5_  1_.234  5_5_.
+    3  434_2_  3_0
+    334  5_.565  544
+    223  4_.454  433_0_
+    5_3_2_  1_.234
+    543_2_  1__0_ //] >>
+FCT[Scherz - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' ein Halter frueh austreiben,]
+CNR[er hoert' ein kleines Kindlein schreien:]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 271
+    1957 aufgezeichnet]
+KEY[Q0114Y 16  G 3/4]
+MEL[-5_-3_-5_  1__.-5_-3_-5_  -6__-5_
+    3_3_3_  2__.1_-7_-6_  -6__-5_
+    -5_-5_1_  3__.234_3_  2__0_
+    1_-7_-6-6  -5__.-5_-6_-7_  1__0_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]
+CMT[Transkription einer Tonaufnahme. Verzierung (Nachschlag) .]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ES IST SO KOESTLICH HAND IN HAND DAS LEBEN ZU DURCHWALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0314  08  D 4/4]
+MEL[5  5_.33_.5  54342_.
+    4  35+176543  3__2_0
+    5  5_.33_.5  54342_.
+    4  35+176543  3__2_0
+    5  +2+1765_.4  43655_.
+    3  4567+1_64  3_2_1_0
+    5  +2+1765_.4  43655_.
+    3  4567+1_64  3_2_1_0 //] >>
+FCT[Geselligkeits - Lied, Freude, Freundschaft]
+BOEHME
+CUT[ES IST SO KOESTLICH HAND IN HAND DAS LEBEN ZU DURCHWALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0314  08  D 4/4]
+MEL[5  5_.33_.5  54342_.
+    4  35+176543  3__2_0
+    5  5_.33_.5  54342_.
+    4  35+176543  3__2_0
+    5  +2+1765_.4  43655_.
+    3  4567+1_64  3_2_1_0
+    5  +2+1765_.4  43655_.
+    3  4567+1_64  3_2_1_0 //] >>
+FCT[Geselligkeits - Lied, Freude, Freundschaft]

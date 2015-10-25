@@ -1,0 +1,16 @@
+ZUCCAL
+CUT["Alt und Jung"
+    ALS ICH AN EINEM SOMMERTAG]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1096  16  D 2/4]
+MEL[1_  1_3_3_3_  3_5_5_0_
+    4_.34_5_  3__0_
+    1_  1_3_3_3_  3_5_5_0_
+    4_.34_5_  3__0_
+    4_  4_6_6_6_  6_5_5_
+    5_  5_4_4_4_  4_3_3_0_
+    2_.44_0_  3_.55_0_
+    4_.34_5_  3__5_0_
+    2_.44_0_  3_.55_0_
+    4_.34_2_  1__0_ //] >>
+FCT[Romanze, Ballade]

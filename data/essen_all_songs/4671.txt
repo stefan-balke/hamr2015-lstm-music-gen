@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Christus, die edle Blume]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0586  02  A 4/1 6/1]
+MEL[1  1_1_2_2_  3b_3b_2_.
+    2  5_4_3b_2_  1_.23b_
+    4_  4_2_5_5_  3b_4_4_.
+    4  5_5_3b_4_  3b__1__2__  1__.0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Triller 1555]

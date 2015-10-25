@@ -1,0 +1,26 @@
+BOEHME
+CUT[ACH WENN DU WAERST MEIN EIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0388  08  G 4/4]
+MEL[-5_  3_3_3_43  2__-6_
+    -6_  -5_-4#-53_2_  1__0_
+    -5_  3_3_3_43  2__-6_
+    -6_  -5_-4#-53_2_  1__0_
+    3_  3_.21_-7_  -7_1#2#3_
+    3_  4#_.32_2_  3_.2-7_
+    2_  2_.1-7_-7_  2__1_
+    -6_  -5_-4#-53_2_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ACH WENN DU WAERST MEIN EIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0388  08  G 4/4]
+MEL[-5_  3_3_3_43  2__-6_
+    -6_  -5_-4#-53_2_  1__0_
+    -5_  3_3_3_43  2__-6_
+    -6_  -5_-4#-53_2_  1__0_
+    3_  3_.21_-7_  -7_1#2#3_
+    3_  4#_.32_2_  3_.2-7_
+    2_  2_.1-7_-7_  2__1_
+    -6_  -5_-4#-53_2_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kranzsingen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0271A 02  F 4/1]
+MEL[1  5_5_6_5_  3_423_0
+    1  5_5_5_34  54321_0
+    1  1_2_3_3_  1_2_3_0
+    1  5_5_5_3_  4_2_1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Klugs Gsgb 1535 No. 28]

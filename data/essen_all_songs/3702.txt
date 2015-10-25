@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die zwei armen Waislein
+    Es bar ainmol zboai urmai Boaishlain.]
+CNR[Aube, aube, main de Boaishlein!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Verdreng]
+SRC[5, S. 307
+    1906 aufgezeichnet]
+KEY[Q0117B 08  G 3/4]
+MEL[3_  3__23  4__5_  6_6_5_  3__
+    46  5__4_  3__33  4_3_
+    46  5__4_  3__33  4_3_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]
+CMT[Verselbstaendigte Oberstimme? Zweite und dritte Zeile = Refrain.]

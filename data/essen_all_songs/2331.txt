@@ -1,0 +1,14 @@
+FINK
+CUT[ACH MUSSTE DER TOD IHN UNS NEHMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0835  08  A 3/8]
+MEL[3  432  1-71  2_.  30
+    3  432  1_1  1-6-7  10
+    3  432  1-71  2_.  30
+    3  432  1_1  1-6-7  10
+    1  224  335  4_.  3_0
+    224  3_5  444  3_0
+    3_2  1-7-6  2_1  -7_
+    3  432  1-71  5_.  30
+    3  432  1-71  10 //] >>
+FCT[Romanze]

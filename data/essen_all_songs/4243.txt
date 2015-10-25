@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MEIN HERZ IST SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland, Geinsheim am Rhein]
+KEY[E1793A 08  F 3/4]
+MEL[1_  1_3_3_  3_2_
+    -71  2_4_4_  453_0_
+    5_5_6_  5_.43_
+    4_3_2_  231_ //] >>
+FCT[Gefangenen - Lied, Klage]

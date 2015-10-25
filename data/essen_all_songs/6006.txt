@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Frau von Weissenburg
+    'Hans, sattle mir den Gaul,]
+CNR[Hans, sattle huebsch und fein:]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Brandenburg ?]
+SRC[1, S. 306
+    1807 gedruckt in Berlin]
+KEY[Q0030B 16  C 4/8]
+MEL[+1__  +1_5_6_5_  +1__
+    +3__  +2_+1_7_+2_  5__0_
+    +1_  +1_5_6_34  5__3_
+    5_  +1_5_3_2_  1__ //] >>
+FCT[Ballade, Ehebruch, Mord, Moral]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Rosskauf"
+    DURCH DEN WALD RITT HIN DER MUELLER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1001  16  F 4/4]
+MEL[  1__1_232__2_-7_  1__1_3_5__.4_
+    3__3_1_2_3_4_2_  1_-7_1_3_2__3_4_
+    5__6_5_5__6_5_  5_4_4_3_4__0__
+    3_2_3_4_5__4_3_  3_2_1_3_2__0__
+    1_321_235__3__  2___1__0__ //] >>
+FCT[Romanze, Ballade, Sage (vom Kaiser Friedrich)]

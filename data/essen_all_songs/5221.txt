@@ -1,0 +1,11 @@
+BOEHME
+CUT[STILLE NACHT HEILIGE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0748  16  C 6/8]
+MEL[  -5_.-6-5_-3__.  -5_.-6-5_-3__.
+    2__2-7-7__.  1__1-5-5__.
+    -6__-6_1_.-7-6_  -5_.-6-5_-3__.
+    -6__-6_1_.-7-6_  -5_.-6-5_-3__.
+    2__2_4_.2-7_  1__.3__0_
+    1_-5_-3_-5_.-4-2_  -1__.^__0_ //] >>
+FCT[Weihnachts - Lied, religioes]

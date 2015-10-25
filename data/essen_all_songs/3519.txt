@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten]
+CNR[mit seinem Edelkleide;]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saarburg]
+SRC[5, S. 1
+    1939 gedruckt in Kassel]
+KEY[Q0089  08  G 3/8]
+MEL[-5  1_3  1_4  3_2  1_
+    -5  1_3  2_4  3_1  2_
+    4  3_2  11-5  2_4  3_
+    4  3_2  1_-5  2_3  1_
+    4  3_2  11-5  2_4  3_
+    4  3_2  1_-5  2_3  1_ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]

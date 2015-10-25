@@ -1,0 +1,8 @@
+KINDER
+CUT[DER SANDMANN KOMMT]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2337  08  G 2/4]
+MEL[-5  111-5  333
+    1  3366  531
+    1  2255  321 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

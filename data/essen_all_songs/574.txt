@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ICH WEISS EIN' HUEBSCHE MUELLERIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0158  04  C 4/4]
+MEL[-7  1321  -7-7-6
+    -7  1-5-6-7  1_0
+    -7  1321  -7-7-6
+    -7  1-5-6-7  123
+    1  21-7-6  -5_0
+    -7  1-71-6  -5_-3
+    1  1122  2_2
+    4  312-7  1_. //] >>
+FCT[Erzaehlung, lustige Romanze]

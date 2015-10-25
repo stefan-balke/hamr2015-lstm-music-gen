@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH LEGTE MICH NIEDER INS GRUNIGE GRAS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen; Ober - Lahnkreis]
+KEY[E0205A 08  F 3/4]
+MEL[1_  -722_-7-6  -533_
+    1_  3_.453  2__
+    23  4+1+1_64  355_
+    31  -7_.242  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

@@ -1,0 +1,15 @@
+F[ERK3
+CUT[INS BAYRISCH GEGANGE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahnkreis; Dillkreis]
+KEY[E1041A 08  F 3/4]
+MEL[3_  5_.43_  2_.3
+    46  6_.54_  3__
+    55  5_3_+1_  +1_.7
+    6_  5_4_5_  3__
+    3_  2_2_.1  -725_
+    77  +2_.+174#  5__
+    55  6_5_4_  35+1_
+    5+1  7_.654  3__
+    55  6_5_4_  35+1_
+    5+1  7_.654  3__ //] >>
+FCT[Tanz - Lied]

@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt ein Jaeger jagen]
+CNR[drei Viertelstund vor Tagen]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Marburg, Fronhausen]
+SRC[7, S. 185
+    ????]
+KEY[Q0152A 16 Bb 6/8]
+MEL[-5_  -5__-5_-5_-6_-7_  1__.-6__
+    -6_  -6__-6_1_-7_-6_  -5__1_-3__
+    -5_  -5__-4_-2_.-7-7_  1__3_3__
+    3_  2__2_4_.32_  1___0_
+    1_  1__1_3__3_  5__5_3__
+    3_  2__2_4_3_2_  1_3_2_1_-7_
+    -6_  -5__1_1__3_  5__5_3__
+    3_  2__2_4_3_2_  1__.^__ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott; Trink - Lied ?]
+CMT[Letzten Notenwert rhythmisch korrigiert. Fuenfte bis letzte Zeile
+    = Refrain, z.T. auf sinnfreie Silben.]

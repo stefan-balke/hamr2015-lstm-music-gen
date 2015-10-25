@@ -1,0 +1,13 @@
+F[ERK3
+CUT[EIN POSTKNECHT IST EIN ARMER WICHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau; Schluechtern]
+KEY[E1579  08  G 6/8]
+MEL[-5  1_11_2  3_33_
+    3  2_34_-7  2_.10
+    -5  1_11_2  3_33_
+    3  2_34_-7  2_.10
+    2  2_32_1  -7_2-5_
+    2  2_32_1  -7_2-5_
+    5  5_.3_5  5_.3_
+    -5  1_35+13  5421_ //] >>
+FCT[Staende - Lied, Postillon]

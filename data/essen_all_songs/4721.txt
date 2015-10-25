@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Papstaustreiben]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0631  04  G 6/4]
+MEL[1  5_54_4  5_51_
+    1  5_47b_6  5_4#5_
+    5  +1_+16_6  7b_7b5_
+    1  3b_45_4  3b_21_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Fl. Bl. 1541]

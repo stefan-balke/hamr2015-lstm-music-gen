@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Laemmerweide]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0056B 04  D 4/2]
+MEL[5__  6b_5_6b_+1_  7b_6b_5__
+    0_5_+1_+1_  7b_5_6b_4_  3b__7b__
+    0_5_7b_6b_  5_4_3b_1_  -7b__0_
+    7b_  5_5_6b_7b_  +1__5__
+    0_+1_7b_6b_  5_4_3b12_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT["Christ ist erstanden" Melodie in Koephls Gsgb. Strassb. 1537.
+    Boehme will hiermit nachweisen, dass A0056A die bessere volketuemliche
+    Lesart eines Volksliedes ist, das als geistliches Lied weltlichen
+    Ursprung hat.]

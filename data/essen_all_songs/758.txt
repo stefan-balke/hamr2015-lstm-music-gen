@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Wacht"
+    IN DER FINSTERN MITTERNACHT STEHT DER RITTER AUF DER WACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1023  16  D 2/4]
+MEL[5__4__  5_67b+1__  7b__5_6_  5__0__
+    5__5_3b_  1_23b4_5_  3b__1_2_  1__0__
+    3b__2_3b_  4__5__  5__1_2_  3b__2__  1__-7b__
+    2_3b_4__  5__1_2_  3b__2__  1__0__ //] >>
+FCT[Romanze, Ballade, Sage (getreuer Eckart)]

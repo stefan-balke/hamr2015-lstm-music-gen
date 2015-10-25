@@ -1,0 +1,10 @@
+FINK
+CUT[SINGT UND TRINKT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0139  08  G 2/4]
+MEL[  1230  3450
+    6666  5430
+    2121  234_
+    3232  345_
+    6_.6  5432  1_0_ //] >>
+FCT[Trink - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Das letzte Stuendlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0659A 04  F 4/2]
+MEL[1__-5_-6_  -7_1_2_3_  1__3__  5_5_3_5_  4__3__
+    3__5_3_  2_1_2_3_  1__3__  5_5_3_5_  4__3__
+    3__5_3_  2_1_2_3_  1__2__  3_3_-6_-7_  1_-6_-5__
+    -5__1_2_  3_.24_3_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Gsgb 1569]

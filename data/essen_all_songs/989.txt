@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Wunsch"
+    ES IS NIT LANG, DASS G'REGNET HAT]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1254  16  G 2/4]
+MEL[34  5_3_4_2_  32343_
+    34  5_3_4_2_  3__0_
+    3_  3_.22_4_  4_.33_
+    5_  +1_5_3542  1__0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

@@ -1,0 +1,12 @@
+DVA
+CUT[Siebenbuergen, Land des Segens
+    Land der Fuelle und der Kraft]
+REG[Europa, Suedosteuropa, Rumaenien, Siebenbuergen]
+KEY[D0197  16  G 3/4]
+MEL[3_1_  5__5__2_3_  1__-5__
+    1_2_  3__.432_1_  2___
+    -5_-5_  1__.3_5_6_  5_4_3__
+    5_6_  4__.2_5_4_  3_4_5__
+    1_2_  3__3__3_3_  3___
+    1234  5__5__2_3_  1___ //] >>
+FCT[Heimat - Lied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Ein Koenigssohn und eine Koenigstochter]
+CNR[spielten miteinander]
+REG[Osteuropa, Tschechoslowakei, Sudetenland]
+SRC[3, S. 61
+    1908 gedruckt in Wien]
+KEY[Q0055c 16  D 2/4]
+MEL[-5_  3_.33322  1_.11_-5_
+    1_.14_3_  3__2_
+    -5_  2_222_1_  -7_.-7-7_
+    -6_  -5_-5_3_2_  2__1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Grundton in der zweigestrichenen Oktave.
+    Dritte Zeile = Refrain auf sinnfreie Silben.]

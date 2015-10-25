@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es fuhr ein Fuhrknecht ueber'n Rhein,]
+CNR[es fuhr ein Fuhrknecht ueber'n Rhein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+SRC[3, S. 243
+    1932 gedruckt in Metz]
+KEY[Q0068A 08  G 2/4]
+MEL[-5  1_3b_  2_5_  43b2
+    -5  1_3b_  2_5_  43b2
+    3b  4445  3b21
+    -5  1_2_  3b45_  3b_21  1_0 //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

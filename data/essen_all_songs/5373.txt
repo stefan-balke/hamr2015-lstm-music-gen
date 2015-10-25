@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Als ich eyn junger G'selle war]
+CNR[nahm ich ein steinalt's Weib.]
+REG[Mitteleuropa, Deutschland]
+SRC[8, S. 295
+    1777 gedruckt in Berlin und Stettin]
+KEY[Q1155b.08  G 2/4]
+MEL[-5  1332  211
+    1  3553  2_0
+    1  3555  5_3_
+    +1_6_  5_3
+    5  421-7  1_0 //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0155c., anderes Lied "Der Tod von Basel" .
+    Schlusspause ergaenzt.]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[STORCH STORCH STANNE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Alsbach]
+KEY[E1855  08  F 2/4]
+MEL[  5566  5530
+    5566  5530
+    5566  5530
+    5566  5530
+    5_4_  3__ //] >>
+FCT[Kinder - Lied, Tier - Lied]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ZU DES LEBENS FREUDEN SCHUF UNS DIE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0305  16  G 6/8]
+MEL[  3__3_432_3_  5__4_3__0_
+    2__3_4__5_  3__.0__.
+    3__3_54#3_4#_  5__.3__.
+    2__7_6_.76_  5__.0__.
+    2__3_4__5_  4__.3__.
+    1__1_2_1_2_  3__.0__.
+    4__4_3__3_  6__.6_5_4_
+    3__3_4__2_  1__.0__. //] >>
+FCT[Stimmungs - Lied, Freude, Moral]
+BOEHME
+CUT[ZU DES LEBENS FREUDEN SCHUF UNS DIE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0305  16  G 6/8]
+MEL[  3__3_432_3_  5__4_3__0_
+    2__3_4__5_  3__.0__.
+    3__3_54#3_4#_  5__.3__.
+    2__7_6_.76_  5__.0__.
+    2__3_4__5_  4__.3__.
+    1__1_2_1_2_  3__.0__.
+    4__4_3__3_  6__.6_5_4_
+    3__3_4__2_  1__.0__. //] >>
+FCT[Stimmungs - Lied, Freude, Moral]

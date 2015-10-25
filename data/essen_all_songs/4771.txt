@@ -1,0 +1,13 @@
+DVA
+CUT[Ich seind so sehr betruebet,
+    die Ursach weiss ich wohl]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0013  16  G 4/4 3/4]
+MEL[-5__-5__-5__  -5__-5_.21__.3b2  1__0__0__
+    3b_4_  5__6b__5__  4__5__4_3b_  2___
+    5___  6b__5_4_4__2_4_  3b__2__1__
+    3b__  2__5__1_1_-7_2_  1___
+    5___  6b__5_4_4__2_4_  3b__2__1__
+    3b__  2__5__1_1_-7_2_  1___0___  0__ //] >>
+FCT[Liebes - Klage]
+CMT[Inzipit = Variante zum Lied]

@@ -1,0 +1,34 @@
+BOEHME
+CUT[GRAD AUS DEM WIRTSHAUS NUN KOMM ICH HERAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0346  16  G 3/8]
+MEL[  1_1-712  3_1_-5_
+    -5_-6_.-3  -5__-4_
+    2_21#23  4_2_-7_
+    -5_-6_.-2  -4__-3_
+    1_1-712  3_1_-5_
+    -5_-6_.-3  -5__-4_
+    2_21#23  4_2_-7_
+    -5_-6_-7_  1__.
+    3_3_.2  4_3__
+    1_3_5_  4#_5_.
+    3  2_2_.1#  3_2__
+    4_2_-7_  1__0_ //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[GRAD AUS DEM WIRTSHAUS NUN KOMM ICH HERAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0346  16  G 3/8]
+MEL[  1_1-712  3_1_-5_
+    -5_-6_.-3  -5__-4_
+    2_21#23  4_2_-7_
+    -5_-6_.-2  -4__-3_
+    1_1-712  3_1_-5_
+    -5_-6_.-3  -5__-4_
+    2_21#23  4_2_-7_
+    -5_-6_-7_  1__.
+    3_3_.2  4_3__
+    1_3_5_  4#_5_.
+    3  2_2_.1#  3_2__
+    4_2_-7_  1__0_ //] >>
+FCT[Trink - Lied]

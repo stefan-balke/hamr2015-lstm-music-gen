@@ -1,0 +1,12 @@
+F[ERK3
+CUT[KEHR WIEDER GLUECK MIT FREUDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1662  08  G 4/4]
+MEL[1_1_1_  4_.56_4_  5__4_
+    4_  5_4_3_21  2_2_1__  0_
+    1_1_1_  4_.56_4_  5__4_
+    4_  5_4_3_21  2_2_1__  0_
+    5_5_5_  4_6_5_4_  5__0_
+    1_  4_3_2_1_  2_3_1_
+    4_  1_4_3_1_  2_2_1__  0_ //] >>
+FCT[Staende -, Hofe -, Ritter - Lied, Liebe]

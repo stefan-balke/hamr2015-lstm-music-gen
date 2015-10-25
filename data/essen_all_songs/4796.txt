@@ -1,0 +1,12 @@
+DVA
+CUT[Wiedersehn
+    Wie schoen blueht sich es der gruene Wald,]
+CNR[mit Laub war er gezieret]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0039  08  G 3/4]
+MEL[-5_  1_.23b_  2_3b_2_  1_-7_1_  -5__
+    -5_  1__2_  5_.65_  4_3_2_  ^_0_
+    32  1_1_54#  5_5_11  1_.-71_  -5__
+    -5_  1_2_5_  ^__43  2_.32_  1__ //] >>
+FCT[Ballade, Liebe, Wiedervereinigung der Liebenden]
+CMT[Neuntonskala (beginnt in Moll, moduliert sofort nach Ionisch)]

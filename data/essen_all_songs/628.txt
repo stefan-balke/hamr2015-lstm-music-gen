@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[NUR LANGSAM VORAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0212  08  C 4/4]
+MEL[34  5_555_+1_  +16666_
+    43  2_225_5_  34231_
+    43  2_2_2_34  5_5_5_
+    43  2_2_2_34  5_5_5_
+    34  5_555_+1_  +16666_
+    43  2_225_5_  34231_ //] >>
+FCT[Soldaten - Lied (1813 - 1815) , Landsturm]

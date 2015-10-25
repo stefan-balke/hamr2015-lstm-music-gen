@@ -1,0 +1,12 @@
+DVA
+CUT[Der verkleidete Markgrafensohn
+    Es freit ein reicher Kaufmannssohn,]
+CNR[er freit die Koenigstochter]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0033  08  G 4/8 3/8 2/8]
+MEL[-5-5-5  1_-7-6  -712_  ^_.
+    2  321-7  -6_-5
+    2  223  225_  432  1_2
+    3  42  321  -7_.  1_. //] >>
+FCT[Ballade]
+CMT[Inzipit = Variante zum Lied]

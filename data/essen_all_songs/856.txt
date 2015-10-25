@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Das Ewige"
+    HEILGE WAHRHEIT, WER VERMAG DEINE GLUTH ZU DAEMPFEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1121  04  E 4/4]
+MEL[+1+1+1+1  7b6b5_  6b7b+1+1  7b6b5_
+    456b4  42b1_  4444  3b2b1_
+    4344  6b54_  6b7b+1+1  7b6b5_
+    456b4  42b1_  4444  3b2b1_ //] >>
+FCT[religioeses Lied]

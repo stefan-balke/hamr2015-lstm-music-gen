@@ -1,0 +1,10 @@
+KINDER
+CUT[SCHLOAP KINDKEN PROFOSS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Ravensberg]
+KEY[K0110  16  F 6/8]
+MEL[  3__.2_1_2_  1__.0__
+    13  5_.65_4_2_5_  3__.0__
+    33  4_.34_2_3_44  5_4_5_3_2_
+    3_  4_.34_2_3_4_  5_4_5_3__0_
+    3__.2_1_2_  1__.0__. //] >>
+FCT[Kinder -, Wiegen - Lied]

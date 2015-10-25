@@ -1,0 +1,13 @@
+F[ERK3
+CUT[SCHLAF KINDCHEN BALDE]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E1809  08  F 4/4]
+MEL[  5__3_2_  1__-5_0_
+    5_5_3_2_  1__-5_
+    -5_  1_1_2_2_  5_3_1_
+    -5_  1_1_2_2_  5_3_1_
+    5_  3_1_2_-5_  1__1_0_
+    3_3_212_  1__-5_0_
+    1_1_2_2_  4_3_2_
+    2_  3_1_2_-5_  1_1_1_0_ //] >>
+FCT[Kinder -, Wiegen -, Schlaf - Lied]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[KEIN SCHOENRER TOD IST AUF DER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1284  08  F 3/4]
+MEL[-5  133_.3  365_
+    +1_  654_3_  243_0
+    -5  133_.3  365_
+    +1_  654_3_  243_0
+    5  522_.3  21-7_
+    2_  255_7_  64#5_0
+    -5  133_.3  365_
+    +1_  654_3_  243_0 //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

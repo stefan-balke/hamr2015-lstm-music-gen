@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf von Rom
+    Der Junker Bursche wissen will,]
+CNR[der Junker Bursche wissen will,]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz - Gebiet, wendisch]
+SRC[1, S. 320 (Anhang)
+    1841 gedruckt in Grimma]
+KEY[Q0014D 08  G 4/4]
+MEL[5_  5_1-71_2_  3_2_3_
+    4_  5_565_23  4_321_
+    -5_  1_2-7-5_-5_  1_2-7-5_
+    5_  5_4_3_2_  1__0_ //] >>
+FCT[Ballade, Pilger - Reise, Gefangenschaft, Befreiung, Ehe, Liebe]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

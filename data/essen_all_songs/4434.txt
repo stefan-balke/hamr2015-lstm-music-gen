@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES WAR EIN ZARTES JUNGFRAEUELEIN]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[E2155  08  A 6/8]
+MEL[-5  1_1123  3_21_
+    1  133352  4_.3_
+    3  355311  4665_
+    5  424353  2_.1_ //] >>
+FCT[geistlich, Moral - Lied, Tod]

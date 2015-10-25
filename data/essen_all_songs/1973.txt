@@ -1,0 +1,9 @@
+FINK
+CUT[DA LAECHELT NUN WIEDER DER HIMMEL SO BLAU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0197  16  F 3/8]
+MEL[1_  5_5656  5_3_5_  4_2_4_  3__
+    1_  5_5656  5_3_5_  4_4_3_  2__
+    2_  5_5_64#  5_2_5_  7_7_+16  7__
+    5_  +1_+17+16  5_3_5_  4_3_2_  1__ //] >>
+FCT[Moral - Lied, Vergaenglichkeit]

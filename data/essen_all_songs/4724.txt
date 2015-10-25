@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Bluemlein auf der Haide]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0635A 02  F 3/1]
+MEL[1_  1__-5_  1__4_  3_2__  1__
+    -5_  1__2_  3__4_  3_2__  1_-7-6-7_  1__
+    1_  1__-5_  1__4_  3_2__  1__
+    -5_  1__2_  3__4_  3_2__  1_-7-6-7_  1__
+    1_  3__3_  2_.34_  5__4_  5__
+    3_  3__3_  2_.34_  5_6_.5  5__4#_  5__
+    3_  3__3_  3__2_  1__-7_  1__
+    -5_  1__2_  3__4_  3_2__  1_-7-6-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Babsts Gsgb 1545 II No. 27.]

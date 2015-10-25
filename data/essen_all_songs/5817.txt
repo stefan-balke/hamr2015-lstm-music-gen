@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Buchsbaum und Felbinger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0273C 02  G 3/2]
+MEL[1  1_1  2_3  4_3  2_
+    3  4_4  3_1  2_3  2_
+    1  1_1  1_-6  -7b_1  2_
+    3  4_3  2_1  2_.  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Werlin Hs. von 1646 S. 1502.]

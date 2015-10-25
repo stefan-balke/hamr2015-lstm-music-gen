@@ -1,0 +1,26 @@
+BOEHME
+CUT[WENN DER LENZ ERWACHT UND IN BLUETHENPRACHT]
+REG[Europa, Mitteleuropa, Deutschland; Norwegen]
+KEY[B0123  16  D 3/4]
+MEL[  -5_.-6b-4_-6b_-5__  1_.3b2_.1-7__
+    -5_.-6b-4_.-6b-5_.-7  -7__1___
+    -5_.-6b-4_-6b_-5__  1_.3b2_.1-7__
+    -5_.-6b-4_.-6b-5_.-7  -7__1___
+    2_.3b4_.23b_.-7  1_.3b2_.1-7__
+    2_.3b4_.23b_.-7  1_.3b2_.1-7__
+    -5_.-6b-4_-6b_-5__  1_.3b2_.1-7__
+    -5_.-6b-4_.-6b-5_.-7  -7__1___ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WENN DER LENZ ERWACHT UND IN BLUETHENPRACHT]
+REG[Europa, Mitteleuropa, Deutschland; Norwegen]
+KEY[B0123  16  D 3/4]
+MEL[  -5_.-6b-4_-6b_-5__  1_.3b2_.1-7__
+    -5_.-6b-4_.-6b-5_.-7  -7__1___
+    -5_.-6b-4_-6b_-5__  1_.3b2_.1-7__
+    -5_.-6b-4_.-6b-5_.-7  -7__1___
+    2_.3b4_.23b_.-7  1_.3b2_.1-7__
+    2_.3b4_.23b_.-7  1_.3b2_.1-7__
+    -5_.-6b-4_-6b_-5__  1_.3b2_.1-7__
+    -5_.-6b-4_.-6b-5_.-7  -7__1___ //] >>
+FCT[Ballade, Romanze]

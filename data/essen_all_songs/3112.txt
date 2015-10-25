@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ALLEWEIL KA MER NET LUSTIG SEI]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0575  16  G 3/8]
+MEL[  1_.11_  3_2_1_  5_.-5-5_
+    1_.-71_  3_2_1_  5__.
+    4_.56_  6_5_4_  3_345_
+    2_234_  1_.11_  -7_-6_-7_  1__.  ^__0_ //] >>
+FCT[Liebes - Lied]

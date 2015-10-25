@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Es hatte ein Markgraf ein Toechterlein;]
+CNR[sie wollten ihr geben einen Mann.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz]
+SRC[2, S. 279
+    1909 gedruckt in Kaiserslautern]
+KEY[Q0053A 08  C 4/4]
+MEL[5_+1_+1+1  5_543_2_  1_0
+    33_23  4_345_43  2_0
+    55_66  6_.+17_.+2  +1_
+    5_+1_66  5_643_2_  1_0
+    55_66  6_.+17_.+2  +1_
+    5_+1_66  5_643_2_  1_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]

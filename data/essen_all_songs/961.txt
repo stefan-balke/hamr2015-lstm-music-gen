@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[Die Hartherzige"
+    S FEINE MOIDAL GING NACHTS INS BETTE]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1226  08  G 3/4]
+MEL[-5-5  1_.31_  2_1_23  2-7-5_
+    -5-5  2_.42_  4_2_5_  321_
+    34  5_.45_  4_6_
+    23  4_.34_  3_5_
+    -5_  1_.-71-7  2_1_23  2_1_
+    1_  3_.134  5_.123  1__ //] >>
+FCT[Liebes - Lied]

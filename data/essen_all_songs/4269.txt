@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HEILE HEILE HEILE]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+KEY[E1827  08  G 2/4]
+MEL[  5432  1_-5
+    -5  1122  332
+    2  3322  332
+    4  3122  1_0_ //] >>
+FCT[Kinder - Lied, Trost]

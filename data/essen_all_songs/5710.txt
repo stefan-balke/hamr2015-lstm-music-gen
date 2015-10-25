@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Weltliches Mailied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0143  08 Bb 4/4]
+MEL[1_  1_1_1_-6_  -5__2_.
+    3  2_.1-7_-6_  -5_.-6-5_
+    1_  1_1_-7_-5_  1__2_
+    2_  2_2_3_3_  2_.12_
+    2_  5_4_3_2_  1__4_
+    2_  3_2_1_-7_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Original unter "Wer sich des Maiens woelle"]

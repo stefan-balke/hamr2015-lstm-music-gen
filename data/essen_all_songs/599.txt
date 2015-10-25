@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[KEIN BESSER LEBEN IST AUF DIESER WELT ZU DENKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0183  16  A 2/4]
+MEL[-5_  1_3_3_5_  5__4_
+    3_  4_.65_4_  4_3_0_
+    -5_  1_3_3_5_  5__4_
+    3_  4_.65_4_  4_3_0_
+    5_  5_2_2_5_  5__4#_
+    5_  6_4#_2_1_  1__-7_
+    -5_  1_3_3_5_  5__4_
+    5_  4_6_5432  1_
+    111_33  3_543_ //] >>
+FCT[Soldaten - Lied, siebenjaehriger Krieg]

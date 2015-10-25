@@ -1,0 +1,11 @@
+FINK
+CUT[ALS DIE PREUSSEN MARSCHIERTEN VOR PRAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0584  16  G 4/4]
+MEL[1_3_  5__3_1_5_4_2_-7_  1___0_
+    -5_-7_1_  2__3__4__3__  2___0__
+    1_3_  5_4_3_2_1__-7b_-7b_  -6__1__4__0_
+    4_  6_5_4_3_2__1__  -7__2__5__0_
+    -5_  1__3__2__4__  3__4_6_5__0_
+    5_  +1_5_6_4_5__4_.3  3___0__ //] >>
+FCT[Soldaten -, Kriegs -, erzaehlendes Volks - Lied]

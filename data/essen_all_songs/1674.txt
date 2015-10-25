@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Oh, where have you been, Lord Randall, my son?]
+CNR[Oh where have you been, my handsome young one?']
+REG[Nord - Amerika, USA, Carolina]
+SRC[4, S. 215
+    1957 gedruckt]
+KEY[Q2079W 16  G 6/8]
+MEL[1_  3_3_3_3__2_  1_1_2_1__
+    1_  3_5_5_5__5_  4_2_2_3__
+    5_  +1_7_6_6_5_35  5_4_2_1__
+    11  2_3_4_4_2_22  2_2_-7_1__ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Amerikanische Fassung der Ballade.
+    Zweite und vierte Zeile = Refrain.]

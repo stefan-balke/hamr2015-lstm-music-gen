@@ -1,0 +1,9 @@
+F[ERK3
+CUT[IN LAUTERBACH HAB ICH MEIN STRUEMPFEL VERLOREN]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein; Frankreich, Elsass]
+KEY[E1010  16  G 3/8]
+MEL[-5_  5_.55_  3_2_1_  2__-7_  -5_-5_
+    -5_  6_.65_  4_3_2_  5__.  ^__
+    -5_  5_.55_  3_2_1_  2__-7_  -5_-5_
+    -5_  6_.65_  4_3_2_  1__.  ^_0_ //] >>
+FCT[Tanz - Lied]

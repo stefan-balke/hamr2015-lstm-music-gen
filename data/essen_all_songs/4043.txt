@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ES GIENG EINMAL BEI MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn; Wetterau; Elsass]
+KEY[E1469  08  C 6/8]
+MEL[3  3_11_6  6_55_
+    3  5_42_5  1_.0_
+    3  3_11_6  6_55_
+    3  5_42_5  1_.0_
+    3  2_2234#  5_77_
+    7  6_7+1_4#  5_.0_
+    3  3_11_6  6_55_
+    3  5_42_5  1_.0_ //] >>
+FCT[Staende -, Jaeger - Lied, Tod]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[TOCHTER ZION FREUE DICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0750  08 Eb 4/4]
+MEL[  5__3_.4  5__1__
+    23454_3_  2__.0_
+    34565_5_  +1__5__
+    4_3_2_.1  1__.0_
+    32343_3_  2__1__
+    4_3_2_1_  -7__.0_
+    65#676_7_  +1__6__
+    7_654#_.5  5__.0_ //] >>
+FCT[Preis - Lied, religioes]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ACH SCHIFFER, LIEBER SCHIFFER, STOSS' NOCH NICHT AB]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z0102  16 Bb 2/4]
+MEL[1_  -7_-5_1_2_  3__2_
+    3_  4_3_2_1_  -7_-6_-5_
+    1_  -7_-5_1_2_  3__2_
+    3_  4_3_2_32  1__0_
+    3_  3_3_3_2_  2__2_
+    4#_  5_4_5_6_  2_2_2_
+    1_  -7_-5_1_2_  3__2_
+    3_  4_3_2_32  1__0_ //] >>
+FCT[Sagen - Lied, Romanze]

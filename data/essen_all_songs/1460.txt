@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Winterrosen
+    Es kam ein Fraeulein mit ein'm Krueg]
+CNR[zum heiligen Jakobsbrunnen,]
+REG[Nord - Amerika, Kanada, Saskatchewan, Saskatoon]
+SRC[7, S. 59
+    1979 aufgenommen]
+KEY[Q1145C 08  F 4/4]
+MEL[  1__-5_1_  1_1_2_3_  1__
+    3__  4_322_3_  1_3_2__  0_
+    1_1_3_  5__1_2_  3_5_31_.  0_
+    -5_1_3_  5__3__  2__1__ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0145B, anderes Lied: KEINE zur Balladengruppe
+    gehoerende Melodie. Verzierungen (Glissandi) .
+    Pause am Ende der dritten Zeile ergaenzt.]

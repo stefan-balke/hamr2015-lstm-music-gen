@@ -1,0 +1,17 @@
+ALTDEU
+CUT[Wallfahrtslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0568A 02  G 2/1]
+MEL[1  1_1_  1_1_  1_3b_  4__
+    5_55  4_11  2_3b_  4__
+    5_5_  4_1_  2_1_  -7b__
+    2_3b_  4__  3b_2_  3b__
+    2_1_  2_1_  1_-7b_  1_2_
+    -7b_1_  1__
+    1_3b_  4_0_  1_3b_  4_0_
+    5_.5  4_1_  2_1_  -7b__
+    2_3b_  4__  3b_2_  3b__
+    2_1_  3b_2_  1_-7b_  1_2_
+    -7b_12  3b_4_  2__  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[H. Finck 1536 No. 2]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAREN ZWEI KOENIGSKINDER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein; Bergisches Land]
+KEY[E0084B 16  G 6/8]
+MEL[3b_  1_1_2_3b_2_3b_  1__3b_2__
+    3b_  1_1_2_4_3b_2_  1__-7_1__
+    12  3b_3b_3b_4_4_4_  5__.4__
+    5_  3b_2_1_-7_1_2_  1___0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

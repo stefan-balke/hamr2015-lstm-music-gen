@@ -1,0 +1,10 @@
+F[ERK3
+CUT[SCHLAF KINDKEN SCHLAFE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E1808  08  F 2/4]
+MEL[  3_22  1_-5
+    -5  3322  1_-5
+    -5  1122  3_2
+    -5  1122  332
+    5  312-7  1_10 //] >>
+FCT[Kinder -, Wiegen -, Schlaf - Lied]

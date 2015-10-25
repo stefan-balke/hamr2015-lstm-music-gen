@@ -1,0 +1,9 @@
+F[ERK1
+CUT[IST DENN DIESES WIRKLICH WAHR]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Posen; Schwaben]
+KEY[E0349  08  G 2/4]
+MEL[  -5111  -72-5_
+    -5222  2542
+    1333  355_
+    234-7  2_1_ //] >>
+FCT[historisches Lied, Napoleons russischer Feldzug (1812)]

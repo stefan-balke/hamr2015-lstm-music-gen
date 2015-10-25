@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Egy magas hegy tetejeroel]
+CNR[a voelgybe neztem at.]
+REG[Osteuropa, Ungarn, Tata, Tatabanya]
+SRC[8, S. 105
+    1976 aufgezeichnet]
+KEY[Q2155p 08  G 6/8]
+MEL[1  1113b21  5_.0_
+    5  +1_+17b_6b  5_.0_
+    5  5_55_2  4_.3b_
+    1  3b_3b2_2  1_.0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]
+CMT[Derselbe Informant wie in Q0155n. Ersten Taktstrich eingefuegt.
+    Ungarische Fassung der Ballade.]

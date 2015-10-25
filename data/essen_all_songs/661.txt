@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[DANN WANN DIE HAEHNE KRAEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0245  08  E 2/4]
+MEL[1  123b4  5_5
+    5  6b54#4#  5_0
+    5  43b21  -7_5
+    4  3b21-7  1_0 //] >>
+FCT[Romanze]

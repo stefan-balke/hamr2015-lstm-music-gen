@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES ZOG EIN KNAB INS NIEDERLAND]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0100  08  G 3/4]
+MEL[-5-5-7b  1_.23b3b  2_1
+    23b4  5_.543b  2_0
+    111  5_.543b  2_.
+    543b  5_.43b2  1_0 //] >>
+FCT[Sagen - Lied, Romanze, Tod]

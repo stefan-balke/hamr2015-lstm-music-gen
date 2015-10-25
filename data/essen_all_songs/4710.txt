@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Von den zehn Geboten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0621B 02  F 4/1]
+MEL[   5_5_6_5_  3_6_5_0
+    3  2_3_456_  5__2_4_  3_221_0
+    1  2_225654  3_2_1_2_  -7-5-6_-5_0
+    -5  1_321234  5_665_0
+    3  432_332_  1___ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchner Gsgb 1586]

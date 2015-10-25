@@ -1,0 +1,12 @@
+F[ERK3
+CUT[MEIN VATER IST EIN SCHNEIDER]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen Saathen]
+KEY[E1624  16  G 3/8]
+MEL[3_  1_3_33  1_3_
+    3_  1_3_3_  5_4_
+    2_  -7_2_22  -7_2_
+    2_  5_5_55  5_6_
+    4_  333_3_  333_5_  +1_5_
+    4_  222_2_  222_
+    2_  5_6542  1_0_ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Schneider; Wanderschaft]

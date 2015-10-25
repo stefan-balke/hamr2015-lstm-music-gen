@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ICH KUMM AUS FREMDEN LANDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1062A 08  F 4/4]
+MEL[5  5_5_6_5_  5_4_3_0
+    3  3_5_5_4_  3_2_1_0
+    1  1_2_3_3_  1_2_3_0
+    3  3_5_5_3_  4_2_1_0 //] >>
+FCT[Raetsel -, Brauchtums - Lied, Reigen - Tanz]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es ging ein Maegdlein grasen,]
+CNR[Wohl in den gruenen Klee.]
+REG[Osteuropa, Polen, Wolhynien, Gnidawa]
+SRC[7, S. 150
+    1934 aufgezeichnet (1926-34)]
+KEY[Q0149K 08  D 2/4]
+MEL[1  4455  +1_5
+    5  6+276  5_0
+    5  6+165  4_1
+    1  2532  1_0 //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

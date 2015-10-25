@@ -1,0 +1,12 @@
+DVA
+CUT[Ach schoenster Schatz, mein Augentrost,
+    kann deiner nicht vergessen !]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0179A 08  G 3/4]
+MEL[-512  3_3_22  1_0
+    234  565345  3_50
+    34  5_6543  4_0
+    532  354321  2_0
+    -513  565345  3_0 //] >>
+FCT[Liebes - Lied, Liebeslust]
+CMT[Inzipit = Variante zum Lied; Variante zu DVA0179]

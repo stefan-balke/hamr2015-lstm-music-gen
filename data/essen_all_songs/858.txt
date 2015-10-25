@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Trost"
+    DER ALTE GOTT DER LEBET NOCH]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1123  08  F 2/4]
+MEL[12  3_34  5_6_  5_4_  3_
+    5_  6_+1_  7_7_  6__  5_
+    5_  +1_5_  6_34  5_4_  3_
+    5_  6_5_  4_3_  2__  1_ //] >>
+FCT[religioeses Lied]

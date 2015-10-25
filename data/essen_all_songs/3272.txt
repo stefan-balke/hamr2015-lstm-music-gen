@@ -1,0 +1,10 @@
+F[ERK2
+CUT[MAEDCHEN WILLST DU MIRS GESTEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetzlar, Gellertshausen]
+KEY[E0717  16 Bb 3/4]
+MEL[-5_.-6  -5__-3_-5_1_.2  1__-7__0__
+    2_.21_-7_-6_-7_  1__0__
+    -5_.-6  -5__-3_-5_1_.2  1__-7__0__
+    2_.21_-7_-6_-7_  1__0__
+    -6_2_  2__-5_-5_-5132  1__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

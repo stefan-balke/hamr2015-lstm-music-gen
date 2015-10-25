@@ -1,0 +1,9 @@
+BOEHME
+CUT[VOR DER THUERE MEINER LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0540  16 Bb 3/4]
+MEL[-5_.-5  1__-5__1_.2  3__1__
+    -7_-6_  -5_.-3-6__.-4_  -3___0__
+    -3_.-3-4#_-5#_-6_-7_  2__1__
+    -7_-6_  -6_.-53__.2_  1__0__ //] >>
+FCT[Wander -, Heimat - Lied]

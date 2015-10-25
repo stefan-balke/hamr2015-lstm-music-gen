@@ -1,0 +1,16 @@
+BOEHME
+CUT[ES ZOGEN DREI BURSCHE WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Rheinland]
+KEY[B0157  08  C 3/4]
+MEL[-1_  -1_-3_-5_  1_.-7-6_  -6_.-5-5_  -5__
+    -3_  -3_.-2-3_  -5_.-2-2_  -4_.-3-3_  -3__
+    -1_  -1_-3_-5_  3_.21_  2_.1-7_  1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ES ZOGEN DREI BURSCHE WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Rheinland]
+KEY[B0157  08  C 3/4]
+MEL[-1_  -1_-3_-5_  1_.-7-6_  -6_.-5-5_  -5__
+    -3_  -3_.-2-3_  -5_.-2-2_  -4_.-3-3_  -3__
+    -1_  -1_-3_-5_  3_.21_  2_.1-7_  1__ //] >>
+FCT[Ballade, Romanze]

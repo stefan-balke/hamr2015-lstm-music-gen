@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ES SULL SECH HALT'G KEENER]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0693  08  G 3/4]
+MEL[-5_  1_1_2_  3_3_
+    54  3_3_2_  1_1_
+    -5_  1_1_2_  3_3_
+    54  3_3_2_  1_1_
+    5_  +1_+1_7_  6_6_
+    5_  4_4_3_  2__
+    54  4_4_2_  1__
+    54  3_3_2_  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

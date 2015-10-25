@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[WER BEKUEMMERT SICH WENN ICH WANDRE, KEINER AUS DER COMPAGNIE]
+REG[Europa, Mitteleuropa, Deutschland, Baden]
+KEY[Z0249  08  A 3/4]
+MEL[-5-7  1_3322  133_
+    23  4_.231  2_0_
+    13  555565  544
+    654  3_3353  212_
+    13  5_3_22  1_0_ //] >>
+FCT[Soldaten -, Abschieds - Lied]

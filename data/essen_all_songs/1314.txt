@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    Der Juengling, der in Kampfe zog,]
+CNR[sein Liebchen war so traurig.]
+REG[Osteuropa, Ungarn, Suedungarn, Komitat Tolnau]
+SRC[3, S. 86
+    1936 aufgezeichnet]
+KEY[Q0056N 08  F 5/8        %2+3%]
+MEL[3  533_3  322_
+    2  266_2  43_0
+    5  35+1_3  246_
+    +1  765_2  43_0
+    5  35+1_3  246_
+    +1  765_2  43_0 //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

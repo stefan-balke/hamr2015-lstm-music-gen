@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ICH LEGTE MICH NIEDER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Lahnkreis, Niedertiefenbach]
+KEY[E0205B 08  G 3/4]
+MEL[  -5_1_3_  2_1_-7_
+    234_3_  2__
+    34  565_4_  3_2_1_
+    443_2_  1__
+    34  565_4_  3_2_1_
+    443_2_  1__. //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

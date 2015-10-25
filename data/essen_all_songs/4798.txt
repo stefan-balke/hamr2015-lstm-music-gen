@@ -1,0 +1,14 @@
+DVA
+CUT[Gottselige Strickerin
+    Es war einmal eine gottselige Strickerin,]
+CNR[sie stricket im Winter und Sommer die Zeit]
+REG[Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )]
+KEY[D0041  16  F 3/8]
+MEL[1_  1_1_1_  1_1_1_  2_2_3_  4__4_  1__
+    1_  4_4_5_  6_6_65  4_2_3_  4__.  0__
+    4_  5_4_5_  6_6_5_  4__.  2__.
+    5__6_  4_.31_  2_3_3_  1__.  0__
+    1_  4_4_5_  6_6_5_  4__.  2__.
+    5__6_  4_.31_  2_3_1_  1__ //] >>
+FCT[religioeses Erzaehl - Lied]
+CMT[Verzierungen; Inzipit = Variante zum Lied]

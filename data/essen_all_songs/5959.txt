@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Et wassen twee Kuenigeskinner,]
+CNR[de hadden eenander so leef,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[1, S. 198
+    1842 aufgezeichnet]
+KEY[Q0020A 08  F 4/4]
+MEL[-5  -53333222  211_0_.
+    -5  -54444353  3_2_0_.
+    -5  -55555444  3_+1_54
+    32  21113221  1_0_
+    2_.4  3+1533221  1_0__. //] >>
+FCT[Ballade, Liebe, Trennung, Tod]

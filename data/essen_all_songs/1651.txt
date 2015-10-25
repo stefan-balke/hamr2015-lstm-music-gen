@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Wo bist du denn so lang gewesen?]
+CNR[Heinerich, mein lieber Sohn?']
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Wilsnack,
+    Klein - Welle]
+SRC[4, S. 189
+    1847 aufgezeichnet]
+KEY[Q0079  08  G 4/4 3/2]
+MEL[-5_  1_1_5_5_  3_531__
+    2_.12_4_  3_531_
+    -5_  1_1_5_5_  335_1_
+    1_  2_2_-7_
+    -5_  1_.12_34  5__3_
+    5_  6_.54_2_  1__0_
+    1_2_34  5__3_
+    5_  6_.54_2_  1__0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite Zeile und die letzten vier Zeilen = Refrain.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Trennung"
+    WACH AUF WACH AUF DU JUNGER GESELL]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1057  08  D 4/4]
+MEL[13  5_5_5_64  43333_
+    53  2_.35443  3_2_0_
+    5_  6_556_75  +1_765_0
+    4  433_5432  2_1_0_ //] >>
+FCT[Romanze, Ballade, Abschieds - Lied]

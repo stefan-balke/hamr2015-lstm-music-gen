@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Schoen Adelheid
+    Es war einmal ein Kuepper gut,]
+CNR[der stahl des Grafen Tochter,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Muelheim Rh., Paffrath]
+SRC[4, S. 55
+    1838 aufgezeichnet (vor)]
+KEY[Q0074  16  A 3/8]
+MEL[-5_  -5__1_  1_-7_1_  2__3b2  1__
+    24  3b_2_1_  -7_-6b_-5_  1_.23b_  2__
+    2_  2_1_23b  4_3b_2_  3b_2_1_  1_-7_
+    -6b_  -5_-6b_-7_  1_2_3b_  2_1_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Wiederfinden]
+CMT[Verzierungen (Vorschlaege)]

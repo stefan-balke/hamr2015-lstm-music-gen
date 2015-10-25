@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Abendlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0254C 02  F 4/2 6/2]
+MEL[3  1235  4_3
+    3  5523  1_-7
+    -7  1233  2_0
+    3  1235  4_3
+    3  5523  1_-7
+    -5  1234  321 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[1653]

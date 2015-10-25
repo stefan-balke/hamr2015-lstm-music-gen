@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[DU HERZGELIEBTER MEIN, KOMM DU ZU MIR HEUT ABEND]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0087  08  E 6/8]
+MEL[3  1_3b43b2  3b_0_.
+    2b  -7b_2b3b2b1  2b_0_.
+    3b  1_3b43b2  3b10_.
+    2b  -7b_2b3b2b1  2b-7b0_.
+    4  3456b54  1_0
+    4_.  3456b54  1_.0_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

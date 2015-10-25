@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' ein Hirtlein treiben aus,]
+CNR[wohl in den gruenen Wald hinaus.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[5, S. 267
+    1842 gedruckt in Leipzig]
+KEY[Q0114E 08  G 3/4]
+MEL[134  5_5434  5_0
+    235  432132  1_0 //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

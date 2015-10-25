@@ -1,0 +1,9 @@
+F[ERK3
+CUT[NUN MF[ERK3END AUF IHR LIEBEN FREUND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1548  08  G 4/4]
+MEL[1_  1_2_3_1_  5_.43_
+    5_  6_7_+1_5_  5_.43_
+    3_  1_2_3_3_  2321-7_
+    -7_  21-7-6-5_1_  1_.-71_ //] >>
+FCT[Staende -, Bauern - Lied, Lob]

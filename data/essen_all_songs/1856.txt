@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Was sitzt dort auf dem Lindle gruen?]
+CNR[Die Nachtigall, die schoene]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[6, S. 237
+    ????]
+KEY[Q0137K 08  G 6/8]
+MEL[-5  1_3321  2_443
+    2  3_5543  320_.
+    3  5_3345  4342_
+    2  3_3232  21__ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]

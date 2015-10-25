@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Raumensattel (Bentzenawer - Ton)
+    Aber wil jch singen]
+CNR[und singen ein news gedicht]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 287
+    1530 gedruckt in Nuernberg (ca.) Flugblatt]
+KEY[Q0027  08  F FREI]
+MEL[1_  5_5_6_7_  +1__+1__
+    +1__  5_+1__7_6__  5__0__.
+    1_  5_5_6_7_  +1__+1__
+    +1__  5_+1__7_6__  5__0__
+    +1__  +1_.76_5_  3__1__0_
+    1_  5_.67_+1_6__  5__0__
+    +1__  +1_.76_5_  3__1__
+    5__  6_5_.34_2__  1__0__. //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Kleinere Melodievariante aus anderer Quelle abgedruckt.]

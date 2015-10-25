@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    'Ach Vater, Brot will ich!]
+CNR[Ach Gott, wie hungert's mich!]
+REG[Osteuropa, Polen, Galizien, Bredtheim]
+SRC[5, S. 274
+    1940 aufgezeichnet]
+KEY[Q0115A 04  C 4/4]
+MEL[  5_31  465_
+    5_31  465_
+    5531  465_
+    4433  221_
+    5531  465_
+    4433  221_ //] >>
+FCT[Ballade, Hunger, Tod]

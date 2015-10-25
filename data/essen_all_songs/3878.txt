@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GIK GAK FER E DREIER SCHNUPFTABAK]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Erfurt, Stotternheim]
+KEY[E1270  08  F 4/4]
+MEL[  5__3__  5__3__
+    1_2_3_4_  5_5_3__
+    1_2_3_4_  5__3__
+    1_2_3_4_  5__3__
+    1_2_3_4_  5_553__
+    6_5_4_3_  2_2_1_0_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sankt Martin]

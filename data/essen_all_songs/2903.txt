@@ -1,0 +1,9 @@
+F[ERK1
+CUT[WILHELM KOMM AN MEINE SEITE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Westfalen]
+KEY[E0347A 08  C 4/4]
+MEL[  -5_.-5-5-5-5-5  311_0_
+    -71  2_.1-7_-6-7  1__0_
+    -3-4  -5_.33_21  1-6-6_0_
+    1-6  -5_.1-7_-6-7  1__0__ //] >>
+FCT[historisches Lied, Tod Koenigin Louise (1810)]

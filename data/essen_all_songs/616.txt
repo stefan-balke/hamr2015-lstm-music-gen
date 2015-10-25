@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[AUF IHR BRUEDER ALLEZUMAL, FAHRET KANONEN WOHL VOR DEN WALL]
+REG[Europa, Mitteleuropa, Deutschland, Anclam]
+KEY[Z0200  16  F 6/8]
+MEL[  1__2_1__2_  1_-7_-6_-5__0_
+    1_-7_1_2_1_2_  3__4_3__0_
+    1__2_1__2_  1_-7_-6_-5__0_
+    1_-7_1_2_1_2_  3__4_3__
+    12  3_3_553_3_5_  3_3_5_3__
+    3_  2__2_5__4_  3__2_3__
+    -5_  3__2_1_-7_1_  -6_-7_1_-5__
+    -5_  1_1_1_5_5_4_  3__2_1__. //] >>
+FCT[Soldaten -, Kriegs - Lied]

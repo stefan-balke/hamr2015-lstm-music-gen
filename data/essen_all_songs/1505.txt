@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es ging ein schwarzbraun Maedchen]
+CNR[wohl alle Tag um Gras,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[7, S. 153
+    1939 gedruckt (1938/39)]
+KEY[Q0149R 08  G 3/4]
+MEL[-5  123b_4_  2_1_0
+    1  3b3b4_4_  5__0
+    4  3b45_5_  43b2_0
+    2  123b_2_  1__0
+    2  3b45_5_  43b2_0
+    2  123b_2_  1__0 //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

@@ -1,0 +1,14 @@
+F[ERK2
+CUT[WENN ICH ANS HEIRATHEN DENKE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Friedberg]
+KEY[E0864  16 Bb 2/4]
+MEL[-5_  1_1_1_1_  1_.-6-5__
+    -6__-6_-6_  -5_.-4-3_
+    -5_  -3_-5_-3_-5_  1__3_
+    3_  3_2_3_2_  1__0_
+    5_  2_.1-7_1_  2__0_
+    5_  2_.1-7_-6_  -5_.-6-5_
+    -4_  -3_-5_-3_-5_  1__1_
+    1_  2_2_2_2_  3_.21_
+    1_  3_3_4_2_  1__0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

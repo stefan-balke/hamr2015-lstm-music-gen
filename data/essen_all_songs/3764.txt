@@ -1,0 +1,9 @@
+F[ERK3
+CUT[GEH ICH HIN UEBER DIE ALM]
+REG[Europa, Mitteleuropa, Oesterreich, Graz]
+KEY[E1037  16 Bb 3/4]
+MEL[-5_3_  -5_44-7__-6_4_  -5_331__
+    -5_3_  4_-5_-7__-5_4_  3_-5_1__
+    -5_3_  -5_4_-7__6_5_  5_3_1__
+    -5_3_  -5_4_-7_-5_4_-7_  1__0__ //] >>
+FCT[Tanz - Lied]

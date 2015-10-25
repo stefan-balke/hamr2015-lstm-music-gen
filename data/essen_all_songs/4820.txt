@@ -1,0 +1,13 @@
+DVA
+CUT[Der Wolf ( Der Abendgang )
+    Wer wohnt in jenem Tale ?]
+CNR[Ein wunderschoenes Maedchen]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0064  16  G 4/4]
+MEL[-5__  1__.2_3__3_5_  2__.321__
+    -5__  1__.2_3__3_5_  2___.
+    3_2_  1__.2_3__4_6_  5__.6_5__
+    5_.4  3__3__2__2_-7_  1___.
+    -5__  1__.2_3__4_6_  5__.6_5__
+    5_.4  3__3__2__2_-7_  1___. //] >>
+FCT[Ballade, Tod eines Geliebten]

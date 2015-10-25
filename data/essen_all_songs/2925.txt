@@ -1,0 +1,11 @@
+F[ERK1
+CUT[BEI WATERLOO DA FIEL DER ERSTE SCHUSS]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[E0359  08  C 4/4]
+MEL[-5_  1_-5_-3_-5_  1__
+    -6__  -5_443322  1__0_
+    1_  2_22-7-7-5-5  1_-5_1_
+    1_  2_22-7-7-5-5  1_-5_1_
+    1_  -6_-6-6-61-7-6  -5_.11_.
+    3  32421_-7_  1__0_ //] >>
+FCT[historisches Lied, Krieg gegen Napoleon (1815)]

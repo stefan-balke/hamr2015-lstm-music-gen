@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Zum Sterben verliebt"
+    ZUM STERBEN BIN ICH VERLIEBET]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1258  16  F 3/8]
+MEL[5_  +1_5_3_  1__
+    35  4_4_35  2__
+    12  3_3_5_  4_2_
+    12  3_3_5_  4_2_
+    5_  +1_5432  1__ //] >>
+FCT[Liebes - Lied; Tanz]

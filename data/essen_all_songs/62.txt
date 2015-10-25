@@ -1,0 +1,20 @@
+BOEHME
+CUT[DER KLEINE MANN IM STAUBBEDECKTEN KLEIDE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0083  08  G 4/4]
+MEL[-5-5-5  1_.11113  322__
+    23  4_2_-7_-5_  3_0_.
+    111  6_.666+16  655__
+    34  5_123_2_  5
+    1123_2_  51123_2_  1_0_. //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[DER KLEINE MANN IM STAUBBEDECKTEN KLEIDE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0083  08  G 4/4]
+MEL[-5-5-5  1_.11113  322__
+    23  4_2_-7_-5_  3_0_.
+    111  6_.666+16  655__
+    34  5_123_2_  5
+    1123_2_  51123_2_  1_0_. //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

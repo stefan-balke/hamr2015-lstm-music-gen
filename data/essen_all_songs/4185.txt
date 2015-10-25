@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES LIESS SICH EIN BAUR EIN PALTROCK SCHNEIDN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1717  04  F 4/4]
+MEL[1  5566  553
+    1  5566  553
+    5  4325  432
+    4  3_2_  1_0 //] >>
+FCT[Spott - Lied auf betruegerische Schneider]

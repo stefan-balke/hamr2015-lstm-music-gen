@@ -1,0 +1,11 @@
+FINK
+CUT[LASST UNS IHR BRUEDER WEISHEIT ERHOEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0544  08  G 3/4]
+MEL[  1_3153  2_-7_-5_
+    1_3153  2__0_
+    6_6_6_  5_.43_
+    543_2_  12345_
+    6_6_6_  5_.43_
+    543_2_  1__0_ //] >>
+FCT[Studenten - Lied]

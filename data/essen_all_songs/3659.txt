@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Der Halter wollt' den Wald austreibn,]
+CNR[da hoert' er ein kleins Kindlein wein']
+REG[Mitteleuropa, Oesterreich, Niederoesterreich]
+SRC[5, S. 267
+    ????]
+KEY[Q0114H 04  G 4/4]
+MEL[-5  1122  331
+    1  22-5-5  111
+    -5  1122  331
+    1  22-5-5  1_. //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

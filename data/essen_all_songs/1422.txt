@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es reist ein Knab wohl ueber den Rhein,]
+CNR[bei einem Graf da kehrt' er ein:]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
+SRC[3, S 258
+    1918 aufgezeichnet]
+KEY[Q0068K 16  G 3/8]
+MEL[13  5__31  3__35  3_1_-5_  -6_.
+    -5-72  1__35  5__2_  1__
+    13  5__31  3__36  5__31  2_0
+    -5-72  1__2_  111_3_  5__-7_  1__ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]
+CMT[Letzten Notenwert der dritten Zeile rhythmisch korrigiert.]

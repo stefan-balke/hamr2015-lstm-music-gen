@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Bittfahrtslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0568B 02  G 2/1]
+MEL[1  1_1_  1_1_  123b_  4__
+    5_5_  4_11  123b_  4_0
+    4  5_5_  4_1_  2_1_  -7b_0
+    -7b  2_3b_  4_4_  3b_1_  3b__
+    2_1_  1_-7b_  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Behe, Kath. Gsgb. 1537 No. 30]

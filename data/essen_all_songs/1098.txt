@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Das bucklichte Maennlein"
+    WILL ICH IN MEIN GAERTLEIN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1364  08  A 2/4]
+MEL[1111  222_
+    31-71  2_-5_
+    1111  222_
+    31-72  1_1_ //] >>
+FCT[Kinder - Lied]

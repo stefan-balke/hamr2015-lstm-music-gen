@@ -1,0 +1,13 @@
+F[ERK3
+CUT[DIE BLAUE FLAGGE]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[E1497  16  G 3/4]
+MEL[1_.-7  1__-5__1_.2  3b__-7b__
+    3b_4_  5__5_4_6b_5_  5__3b__
+    4_5_  6b_5_4_3b_2_1_  -7_2_-5__
+    -6_-7_  1_2_3b_4_5_-7_  1__0__
+    3b_4_  5__5_4_6b_5_  5__3b__
+    6b_5_  5_4_4_3b_2_1_  -7_2_-5__0__
+    1_-7_1_3b_2_-7_  1__.
+    3b_2_4_  3b_5_4_6b_5_-7_  1__0__ //] >>
+FCT[Staende -, Seemanns - Lied, Tanz]

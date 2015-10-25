@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Die Ueberbotene"
+    LIEBER SCHATZ WOHL IMMERDAR WILL ICH VON DIE SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[Z1342  16  A 2/4]
+MEL[1_.23_1_  2_-7_-5__  -6_.-71_-6_  -5_.-4-3__
+    -4_-6_-5_-3_  -4_-6_-5__  1_.23_1_  -7_2_1__
+    -4_-6_-5_-3_  -4_-6_-5__  1_.23_1_  -7_2_1__ //] >>
+FCT[Zech -, Schalks - Lied]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ICH BIN DER LUMPENMANN]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Usingen]
+KEY[E1792  16  D 2/4]
+MEL[5_  3_.12_-7_  1__0_
+    5_  5_1_6_6_  2__0_
+    2_  2_.34_2_  3_653_2_
+    2_.34_2_  3_655432
+    1_1_2_3_  4_5_6_
+    6_  2_2_5_4_  3_2_1_0_
+    5__3_0_  5__3_ //] >>
+FCT[Scherz - Lied, Lumpenmann]

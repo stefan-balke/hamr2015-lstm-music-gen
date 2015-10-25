@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Jahreszeiten und Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0151B 04  A 4/2]
+MEL[    0_1_1_1_  3b_3b_2_2_  1__0_
+    1_  4_.3b2_3b_  ^_2__1_  2__0_
+    2_  2_2_4_4_  4_3b__2_  1-7b123b_2_  1_1_-7b__
+    0_-7b_1__  2_3b_.45_  4_.3b2_1_  -7__1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 110]

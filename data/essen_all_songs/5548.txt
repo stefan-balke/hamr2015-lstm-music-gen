@@ -1,0 +1,8 @@
+KINDER
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2349  08 Eb 2/4]
+MEL[-51  3555  4321  5222  2_0
+    +1  5432  1_11  6_66  +1_7
+    6  5432  1_13  5_5_  1_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Sage, Ballade]

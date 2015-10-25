@@ -1,0 +1,22 @@
+BOEHME
+CUT[FREI UND UNERSCHUETTERLICH (GAUDEAMUS IGITUR)]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[B0013  16  C 3/4 4/4]
+MEL[1_.-5-5__1__  -6_.-6-6___
+    -7_1_2__-7__  1_3_1__0__
+    -7_.12__2__  3_.12__2__
+    -7_.12__2__  3_1_2__2__
+    1_.-7-6_4_3_2_  3__2__1___
+    1_.-7-6_4_3_2_  3__2__1__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied, Studenten - Lied]
+BOEHME
+CUT[FREI UND UNERSCHUETTERLICH (GAUDEAMUS IGITUR)]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[B0013  16  C 3/4 4/4]
+MEL[1_.-5-5__1__  -6_.-6-6___
+    -7_1_2__-7__  1_3_1__0__
+    -7_.12__2__  3_.12__2__
+    -7_.12__2__  3_1_2__2__
+    1_.-7-6_4_3_2_  3__2__1___
+    1_.-7-6_4_3_2_  3__2__1__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied, Studenten - Lied]

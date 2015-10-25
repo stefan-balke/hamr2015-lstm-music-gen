@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt's ein Graf mit seiner Dam',]
+CNR[so traurig und von Herzen.]
+REG[Osteuropa, UdSSR, Russland, Wolgagebiet]
+SRC[3, S. 65
+    ????]
+KEY[Q0055n 16  G 3/4]
+MEL[-5_1_2_  3__2_1_-722_  2__1_
+    -6_-5_-5_  5__4_2_5_4_  3__. //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Verselbstaendigter Vordersatz ?]

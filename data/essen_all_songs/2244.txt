@@ -1,0 +1,15 @@
+FINK
+CUT[MIT BLANKEN GESCHOSSEN AUF MUTIGEN ROSSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0631  08 Bb 2/4]
+MEL[5  5_44  3_1
+    3  4_33  2_2
+    2  343
+    4  5_33  4_33  2_0
+    3  2323  4_2
+    2  3434  5_3
+    3  6_66  5_3
+    3  4_22  3_0
+    1  6_46  5_3
+    5  4_2-7  1_0 //] >>
+FCT[Soldaten -, Jaeger - Lied]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[REGE REGE SCHUURE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Duesseldorf]
+KEY[E1840  08  G 2/4]
+MEL[  5536  5_33
+    5536  5_33
+    5536  5_3
+    6  5536  553_
+    5536  553_ //] >>
+FCT[Kinder - Lied, Regen - Lied]

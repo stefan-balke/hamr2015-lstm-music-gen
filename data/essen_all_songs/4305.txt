@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ADAM HATTE SIEBEN SOEHN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn; Hessen, Odenwald]
+KEY[E1890  16  C 2/4]
+MEL[  1_1_1_1_  -7_-6_-5__
+    -6_-6_-7_-7_  1__1__
+    1_1_1_1_  -7_-6_-5__
+    -6_-6_-7_-7_  1__1_
+    12  3_3_3_3_  4_4_4_
+    43  2_2_2_2_  5_5_5_
+    3_  1_1_-7_1_  2__-7__  1__0__ //] >>
+FCT[Kinder - Lied, Nachahmungs - Spiel]

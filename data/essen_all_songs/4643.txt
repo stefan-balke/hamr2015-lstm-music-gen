@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Osterlied des 15. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0553C 04  D 4/1 4/2]
+MEL[1_  1__5__2__4__  3b__2__1__0_
+    1_  5__6__7b__6__  5__4__5__0_
+    5_  +1__6__7b__5__  4__3b__2__0_
+    3b_  1__5__2__4__  3b__2__1__2__
+    -7b_.12_1_  4_.25_.4  3b__2__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 No. 26]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Ha Maruska pjesacku 'rajese]
+CNR[ha zcerwenym jablockom kulese,]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wenden]
+SRC[4, S. 32
+    1841 gedruckt in Grimma]
+KEY[Q2072I 16  G 3/4]
+MEL[1__  3__3__4__  5__5__6__  7b___6__  5___
+    5__  4__3_2_1__  5__2__1__  2__-7__-5_-6-7  1___
+    5__  4__3_2_3_4_  5__3__1__  2__-7_-5_-6_-7_  1__0__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Wendische Fassung der Ballade.]

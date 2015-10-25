@@ -1,0 +1,13 @@
+F[ERK1
+CUT[WENN DU WUESSTEST MEINE SCHMERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Langsdorf]
+KEY[E0587  08 Eb 4/4]
+MEL[  1_.35_+1_  +176_5_+1_
+    6_6_5_5_  4_5_3_0_
+    1_.35_+1_  +176_5_+1_
+    6_6_5_5_  4_5_3_0_
+    +1_.65_+2_  +1_.67_5_
+    +1_.66_+2_  +17+165_4_
+    3_.45_+1_  +176_5_+1_
+    6_6_5_5_  4_5_3_0_ //] >>
+FCT[Liebes - Lied]

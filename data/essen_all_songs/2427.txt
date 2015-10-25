@@ -1,0 +1,9 @@
+FINK
+CUT[KOMM SUESSER SCHLAF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1055  08 Bb 2/4]
+MEL[1  1-7-72  1_.3  421-7  1_0
+    3  3432  21-71  2321  -7_0
+    -7  -71_3  32_4  3__  2_0
+    2  531-7b  -6432  1_-7_  1_0 //] >>
+FCT[Trost - Lied]

@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[DIE FRAU WOLLT WALLFAHRN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z0115  16  C 3/8]
+MEL[-5_1_1_  -7_2-71_  3__4_  5__.
+    4_6_4_  3_5_3_  2_4342  1_3_5_
+    4_6_4_  3_5_3_  2_4342  1_0__ //] >>
+FCT[Erzaehlung, lustige Romanze]

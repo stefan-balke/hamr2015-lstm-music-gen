@@ -1,0 +1,13 @@
+FINK
+CUT[EI DU MEIN LIEBER SCHIFFSMANN MEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0867  08  E 2/4]
+MEL[  5_44  35+13  5_4_  3_1_
+    5_44  35+13  5_4_  3_1_
+    1_35  1_35  6__  5__
+    4_4_  3_3_  5__  3__
+    1_35  1_35  4_6+1  3_
+    5+1  2_46  1_35  5_+3_  +1__
+    1_35  1_35  4_6+1  3_
+    5+1  2_46  1_35  5_+3_  +1__ //] >>
+FCT[erzaehlendes Volks - Lied]

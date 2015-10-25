@@ -1,0 +1,26 @@
+BOEHME
+CUT[HAT UNS NICHT MAHOMET SCHAENDLICH BETROGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[B0348  16  G 3/8]
+MEL[  1_.-71_  5_.45_  6b_4_5_  3b__2_
+    3b_.21_  3b_2_12  3b_3b_4_  5__.
+    1_.-71_  5_.45_  6b_4_5_  3b__2_
+    3b_.21_  3b_2_12  3b_3b_4_  5__
+    4_  5_.45_  5_.6b7b_  4_.3b4_  4__
+    5_  3b_.23b_  3b_.45_  2_.12_  2__
+    2_  3b_2_0_  0__2_  3b_2_0_  0__
+    5_  6b_5_4_  3b_2_1_  2_.12_  1__0_ //] >>
+FCT[Trink - Lied, national, chauvinistisch]
+BOEHME
+CUT[HAT UNS NICHT MAHOMET SCHAENDLICH BETROGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[B0348  16  G 3/8]
+MEL[  1_.-71_  5_.45_  6b_4_5_  3b__2_
+    3b_.21_  3b_2_12  3b_3b_4_  5__.
+    1_.-71_  5_.45_  6b_4_5_  3b__2_
+    3b_.21_  3b_2_12  3b_3b_4_  5__
+    4_  5_.45_  5_.6b7b_  4_.3b4_  4__
+    5_  3b_.23b_  3b_.45_  2_.12_  2__
+    2_  3b_2_0_  0__2_  3b_2_0_  0__
+    5_  6b_5_4_  3b_2_1_  2_.12_  1__0_ //] >>
+FCT[Trink - Lied, national, chauvinistisch]

@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[WOHL AUF IHR NARREN ZIEHT ALL MIT MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0160  16  G 2/4]
+MEL[-5_  1_2_3_4#_  5_.65_
+    1_  5_.65_6_  -6_4_3_
+    2_  2__1-513  2__1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Wallfahrtsgesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0573  04  G 4/2 6/2]
+MEL[1_  1_1_3b_3b_  1__-7b_
+    -7b_  3b_3b_4_4_  5__0_
+    4_  5_555_4_  5__3b_
+    4_  5_5_4_4_  3b__0_
+    3b_  4_3b_4_4_  5__5_
+    3b_  4_.43b_3b_  1__-7b__0_
+    -7b_  4_3b_4_4_  5__5_
+    3b_  4_3b_2_1_  4__5__
+    3b3b3b_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchner Gsgb 1586 fol. 70b]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[NUN LEB WOHL MEIN FEINES LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein ?]
+KEY[E0774  08 Bb 4/4]
+MEL[-5_1_  3_3_2_32  1_-5_
+    3_4_  5_5_4_54  3_0_
+    5_5_  6_0_4_4_  5_0_
+    3_.5  54321_32  1_0_ //] >>
+FCT[Abschieds - Lied, Wander - Lied, Liebe]

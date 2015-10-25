@@ -1,0 +1,11 @@
+F[ERK5
+CUT[Kaisari nokkur maetur mann]
+REG[Europa, Island]
+KEY[L0031A 16  G 2/4]
+MEL[4__.44  4__.4_  4_3_2__  1___
+    1__1__  1__.1_  3b___  2__0__
+    4__.4_  4__.4_  4_3_2__  1___
+    1__.1_  1__.2_  2__.3b_  1___
+    3b__.3b_  1__.1_  2__.2_  4__.4_  4__.3_  2___ //] >>
+FCT[Lied]
+CMT[Island, bis 1850 im Volksmund erhalten.]

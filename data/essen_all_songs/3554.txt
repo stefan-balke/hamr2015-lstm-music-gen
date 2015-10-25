@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Pasol mili ouce na zel'enej luce,]
+CNR[mila za nim vola: vrac sa, srce moje!]
+REG[Osteuropa, Tschechoslowakei, Slowakei]
+SRC[5, S. 86
+    ????]
+KEY[Q3095H 08  G 2/4]
+MEL[  1354  32_.  2343  12_0
+    1554  31_.  432_  321_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

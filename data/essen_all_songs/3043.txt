@@ -1,0 +1,9 @@
+F[ERK1
+CUT[KOMM ZU MIR IN GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken ?]
+KEY[E0530  08  G 3/4]
+MEL[-5_  123_21  2-7-5_
+    5_  543_21  2__
+    23  4_4_32  1-71_
+    4_  321_-7_  1__ //] >>
+FCT[Liebes - Lied]

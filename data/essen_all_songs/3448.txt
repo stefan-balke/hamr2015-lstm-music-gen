@@ -1,0 +1,12 @@
+F[ERK2
+CUT[SOLLTS IM GWELB NIT FINSTER SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0902  04  G 3/4]
+MEL[  1_1  1_1  5_5  5_.
+    5_5  4_5  3_2  1_.
+    3_3  4_2  -7b_1  2_.
+    1_1  1_1  -7b_-6  -5_
+    -5  -7b_1  2_1  -7b_1  2_.  0_
+    5  3_2  1_-7  1_.  0_
+    5  3_2  1_-7  1_. //] >>
+FCT[Ehestands - Lied, betrogener Ehemann]

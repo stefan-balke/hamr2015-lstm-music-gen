@@ -1,0 +1,13 @@
+KINDER
+CUT[KRONE KRANE WICKLE SCHWANE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2333  16  F 2/4]
+MEL[  5_5_3_6_  5_5_3_3_
+    5_5_6_6_  5_5_3_1_
+    5_5_6_6_  5_5_3_
+    1_  5_5_6_6_  5__3_0_
+    5_5_6_6_  5_5_3_1_
+    5_5_6_6_  5__3_0_
+    5_5_6_6_  5__3_0_
+    +1_.54_3_  3__2__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

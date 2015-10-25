@@ -1,0 +1,26 @@
+BOEHME
+CUT[ES MURMELN DIE WELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0194  08  F 6/8]
+MEL[5  5__36  5__3
+    +1  7__67  +1__7
+    6  5__36  5__3
+    +1  7__67  +1_.0_
+    1  +1__76  5__4
+    3  2__34  3_.0_
+    1  +1__76  5__4
+    3  265432  1_.0_ //] >>
+FCT[Natur - Lied, Wasser]
+BOEHME
+CUT[ES MURMELN DIE WELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0194  08  F 6/8]
+MEL[5  5__36  5__3
+    +1  7__67  +1__7
+    6  5__36  5__3
+    +1  7__67  +1_.0_
+    1  +1__76  5__4
+    3  2__34  3_.0_
+    1  +1__76  5__4
+    3  265432  1_.0_ //] >>
+FCT[Natur - Lied, Wasser]

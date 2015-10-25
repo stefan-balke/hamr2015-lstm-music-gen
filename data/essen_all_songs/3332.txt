@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ES GEHT EIN DUNKLE WOLKEN REIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0769B 04  G 3/4]
+MEL[1  5_5  4_2  3b_4  2_
+    5  5_5  4_2  3b_4  2_
+    1  -7b_-6  -5_5  7b_.  5_.
+    43b4  2_2  1_ //] >>
+FCT[Abschieds - Lied]

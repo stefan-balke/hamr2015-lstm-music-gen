@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    'Schatz, ach Schatz, und ich muss fort,]
+CNR[muss in die Fremde ziehen.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz, Hunsrueck]
+SRC[2, S. 83
+    ????]
+KEY[Q0056I 08  F 3/4]
+MEL[13  5_.567  +1_.
+    567  +1_7_6_  5_.
+    5+17  6_.546  5_.
+    312  355_4_  3_0
+    5+17  6_.546  5_.
+    312  355_4_  3_0_ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]
+CMT[Einzige vollstaendige Melodie aus einer etwas wirren Melodietafel.
+    Eingeklammerte Noten nicht gespielt. Pause am Liedende korrigert.]

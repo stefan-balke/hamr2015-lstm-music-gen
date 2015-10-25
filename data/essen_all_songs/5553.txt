@@ -1,0 +1,9 @@
+KINDER
+CUT[HAENSCHEN KRIECHE DURCH DAS LOCH]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2364A 16  G 2/4]
+MEL[  5_5_3_6_  5_5_3_
+    11  5_5_6_6_  5__3_0_
+    5_5_3_6_  5_5_3_
+    1_  5_5_6_6_  5__3_0_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

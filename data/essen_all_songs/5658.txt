@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Nachtfahrt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0074  04  D 3/2]
+MEL[12  3b_.23b_  4_.3b4_  5__.  ^_0_
+    5_  4_.56b_  5_.6b4_  3b__.  ^__
+    3b4  5__5_  7b_.6b5_  4__.  2_5_
+    4_  3b_.21_  -7_.12_  1__.  ^__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[ Melodie aus Hainhofer, Lautenbuch II.Bl.7 (Mspt. von 1603. Bibl.
+    zu Wolfenbuettel). Die Melodie ist von Boehme aus der Lautenschrift
+    entziffert.]

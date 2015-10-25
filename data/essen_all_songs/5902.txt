@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Das juengere Hildebrandslied
+    'Ich wil zu Land ausreiten',]
+CNR[sprach sich meister Hiltebrant;]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 1
+    1545 gedruckt in Wittenberg]
+KEY[Q0001  08  G FREI]
+MEL[1_  3b_3b_4_4_  5__5__0_
+    5__5_  5_6_7b_5_5__0_
+    5_  5_6_7b_5_  6b__5__0_
+    5_4_3b_5_3b_  3b__0_
+    3b_  3b3b3b_4_4_  5__5__0_
+    5_  4_3b_3b_3b_  1__-7b__0_
+    5_  5_.43b__0__
+    5_  6b_5_5_3b_  4__5__0_
+    4_  3b3b1_1_-6_  -7__1__ //] >>
+FCT[Ballade, Kampf]
+CMT[Anhaengsel, textiert mit "EYIA", in der siebten Zeile.
+    Kleinere Melodievarianten aus anderen Quellen abgedruckt.]

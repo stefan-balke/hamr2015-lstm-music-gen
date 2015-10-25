@@ -1,0 +1,13 @@
+FINK
+CUT[HEIDA LUSTIG ICH BIN HANS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0184  16  C 2/4]
+MEL[  +1_.7+1_5_  6_4_5__
+    +1_5_3_1_  2__1__
+    3_2_3_2_  3_4_5__
+    4_3_4_5_  6__5__
+    7b_5_6_4_  5_3_4__
+    4_5_6_7_  +1__5__
+    +1_.7+1_5_  6_4_5__
+    1_2_3_4_  5__1__ //] >>
+FCT[Scherz - Lied, Moral, Zufriedenheit]

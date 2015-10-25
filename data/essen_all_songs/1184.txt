@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Christinchen ging in' Garten,]
+CNR[drei Rosen zu erwarten,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Greiz]
+SRC[2, S. 176
+    1914 aufgezeichnet]
+KEY[Q0047E 08  D 6/8]
+MEL[-5  -5_-52_3  210_.
+    -5  -5_-52_3  210_.
+    1  1_12_1  -7_-61_
+    -6  -6_-5-7_-6  -5_-4-3_
+    1  1_12_1  -7_-61_
+    -6  -6_-5-7_-6  -5_-4-3_ //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]
+CMT[Grundton in der zweigestrichenen Oktave.]

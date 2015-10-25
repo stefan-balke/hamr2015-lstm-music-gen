@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Reiter und Hirtenmaedchen
+    Es wollt' sich ein Maedchen die Laemmelein hueten im Walde,]
+CNR[Da kam sich ein junger Jaeger daher gegangen:]
+REG[Mitteleuropa, Luxemburg, Heffingen]
+SRC[7, S. 113
+    1933 aufgezeichnet (?)]
+KEY[Q0148B 16  F 6/8]
+MEL[-5_  1_1_1_1_3_3_  5_5_5_3_2_1_  2__.5__4_  3__0__.
+    -5_  1_1_1_1_3_3_  5_5_5_3_2_1_  2__.5__4_  3__0__.
+    -5-5  4_3_2_2_3_4_  6_5_5_3_3_
+    5_  5__3_3_2_3_  6_5_4_3__
+    5_  3_5_5_5_5_5_  5__+1_6__
+    6_  5_6_5_5_4_2_  3__.^_0_
+    5_  3_5_5_5_5_5_  5__+1_6__
+    6_  5_6_5_5_4_2_  1__.^_0_ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Fuenfte bis letzte Zeile = Refrain.]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Siroko polje z ruzami,]
+CNR[siroko polje z ruzami.]
+REG[Suedosteuropa, Jugoslawien, Kroatien]
+SRC[4, S. 227
+    1952 gedruckt in Zagreb]
+KEY[Q2080K 16  G 6/8]
+MEL[  -7b_-6_-7b_1__1_  2__1_-7b__0_
+    -7b_-6_-7b_1__1-7b  2__1_-7b__0_
+    1_2_3b_5__4_  3b__23b1__. //] >>
+FCT[Ballade, Magie, Verwuenschung]
+CMT[Kroatische Fassung der Ballade. Verzierung (Nachschlag) im letzten
+    Takt.]

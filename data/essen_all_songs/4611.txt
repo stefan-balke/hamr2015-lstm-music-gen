@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Ansingelied zum Neujahr]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0531  02  C 4/2]
+MEL[-4  -6-711  221
+    1  -6-711  221 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Schmeltzel, Quodl. 1544 No. 6 und 8.]

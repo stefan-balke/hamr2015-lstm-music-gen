@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Freier"
+    DES ABENDS ALS ICH SCHLAFEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1180  08  G 4/4]
+MEL[-5_  1_.23_4_  5_.65_
+    5_  4_.34_5_  3__0_
+    -5_  1_.23_4_  5_.65_
+    5_  4_.34_5_  3__0_
+    5_  65534_5_  3_5_3_
+    1_  2_4_2_2_  3_6_5_
+    5_  65534_5_  3_5_3_
+    1_  2_4_2_-7_  1__0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

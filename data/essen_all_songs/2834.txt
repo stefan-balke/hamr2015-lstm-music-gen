@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES GIENG EIN KNAB SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0197C 16  C 2/4 3/4]
+MEL[3_  5_3_5_3_  5_+1_6__
+    5__  5_3_542_  3__0_
+    3_  5_3_5_3_  5_+1_6__
+    5__  5_3_542_  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Tod, Toten - Sage, Grabesstimme]

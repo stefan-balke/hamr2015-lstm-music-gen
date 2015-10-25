@@ -1,0 +1,9 @@
+BOEHME
+CUT[HEILGE LIEBE HIMMELSGLAUBE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0760  08  G 4/4]
+MEL[  1_1_2-71_  3_3_423_
+    5_4_3_23  4_.44__
+    4_.32_2_  5_.43_3_
+    6_5_4_3_  321-71_0_ //] >>
+FCT[religioes]

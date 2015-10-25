@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Psalmlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0626  02  E 4/1 6/1]
+MEL[5_  1_5_6b_5_  3b_4_5_0
+    5  6b_7b_6b_4_  3b__2b__1_
+    5_  1_5_6b_5_  3b_4_5_0
+    5  6b_7b_6b_4_  3b__2b__1_.
+    4  3b_6b_5_47b  ^6b5_4_0
+    6b  5_6b_7b_3b_  56b4_3b_0
+    3b  6b_5_4_1_  3b__2b__3b_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Luth Gsgb 1524]

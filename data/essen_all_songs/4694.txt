@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Geistliche Lieder im Jacobston]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0611A 02  D 4/1]
+MEL[3b  3b_3b_4_4_  5_5_5_0
+    5  4_5_6b_5_  4_3b_4_0
+    4  5_5_3b_3b_  1__-7b__
+    5_543b_3b_  4_3b_4_0
+    5  3b_3b_1_3b_  212_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Babsts Gsgb 1561 II No. 63]

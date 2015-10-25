@@ -1,0 +1,12 @@
+DVA
+CUT[Wenn Gott zwei Liebchen zusammen tut
+    und sie beisammen schlafen laesst]
+REG[Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )]
+KEY[D0008  08  G FREI]
+MEL[-5_1_2  3b__2__1__2__0_
+    -5_1_2  3b__2__1__2__0_
+    123b_4_  5__3b_5_43b  2_.2
+    4_3b_2_  1_.-5123b_2_  1__0_ //] >>
+FCT[Ballade, Maerchen, Zaubermaerchen]
+CMT[Zwei Strophenvarianten, 2. Strophe kodiert; Inzipit = Variante
+    zum Lied]

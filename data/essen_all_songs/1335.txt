@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es ging ein Jaeger wohlgemut,]
+CNR[der trug zwei Federn auf seinem Hut.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz]
+SRC[3, S. 102
+    1909 gedruckt in Kaiserslautern]
+KEY[Q0057R 16  G 3/4]
+MEL[-5_1_3_  3__5__5_.6  5__3_
+    3_2_3_  4_.45__2_4_  3__0_ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

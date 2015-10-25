@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Die Gassen sein so enge,]
+CNR[es war mal ein Gedraenge:]
+REG[Mitteleuropa, Deutschland (DDR) , Pommern, Ruegen]
+SRC[2, S. 204
+    1933 gedruckt in Leipzig]
+KEY[Q0048F 08  G 6/8 3/8]
+MEL[-5  -511-742  -7-50_.
+    -5  1-71-742  -7-5
+    -5  3_13_1  4_32_
+    3  1-7-6-512  21-71_
+    -5  3_13_1  4_32_
+    3  1-7-6-512  21-71_ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Zwei nahe Strophenvarianten abgedruckt. Hier nur die erste kodiert.]

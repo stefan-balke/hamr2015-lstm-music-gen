@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Dove foste j'er sera]
+CNR[filuola mi reco savio gentil]
+REG[Suedeuropa, Italien]
+SRC[4, S. 212
+    1894 gedruckt in Forli]
+KEY[Q2079U 08  G 6/8]
+MEL[-5  1_32_5  43
+    2123  2_1321  2_.^_
+    3  4_65_4  3_.1_
+    3  2234_-7  1_.^_0 //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Italienische Fassung der Ballade.
+    Zweite Zeile = Refrain.]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Das Dollerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0374C 04  D 4/4 4/2]
+MEL[+1_  +17b65  4_5_67b_7b  +1_6_5_0
+    +1  +17b65  4_5_67b_7b  +1_6_5_0
+    5  5456  7b_7b_7b5_5  443b__7b_
+    7b_7b7b_57b_  5_5_7b_7b+1  ^+1567b_65  ^3b4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[M. Praetorius, Mus. Sion. 1610. VIII. 215. Vgl. Souterliedekens
+    1540 ad Ps. 82.]

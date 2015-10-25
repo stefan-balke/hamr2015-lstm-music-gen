@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Taendelei"
+    GUTEN ABEND LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1153  08  G 4/4]
+MEL[  1_.23b_21  2_5_1__
+    3b_.45_45  6b_5_4_
+    43b  2_.3b4_4_  5_43b2_
+    3b2  1_1_5_5_  1__0__ //] >>
+FCT[Liebes - Lied]

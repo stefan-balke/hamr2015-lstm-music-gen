@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Die Ursache"
+    IHR BRUEDER WAS HOERET MAN HEUT]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1348  16  G 6/8]
+MEL[3_  3_3_3_3_3_3_  3_456_5_4_
+    3_  2_2_2_2_2_2_  2_345_4_3_
+    2_  3_3_3_3__3_  3_456_5_4_
+    3_  2_2_2_2_3_4#_  5_5_4#_5__
+    54  3_3_3_3_3__  3_456_5_4__
+    2_2_2_2_4__  3_3_2_1__ //] >>
+FCT[Zech -, Schalks - Lied]

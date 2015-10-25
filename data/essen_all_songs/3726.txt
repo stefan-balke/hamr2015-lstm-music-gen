@@ -1,0 +1,10 @@
+F[ERK3
+CUT[EI WAS BIN ICH FUER A LUSTIGER BUB]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Schwalmthal]
+KEY[E1002  16  C 6/8]
+MEL[  1__1_-5_-5_-5-5  -6_-6_-6_-5__
+    -5_  -6_-6_-6_-7_.-7-7_  1__2_1__0_
+    -5__-5_-5_-5_-6-5  -5__-4_-4__0_
+    -4__-4_-4_-4_-5-4  -4__-3_-3__
+    -5_  -5_-6_-7_1__0_ //] >>
+FCT[Tanz - Lied, Zaehl - Geschichte]

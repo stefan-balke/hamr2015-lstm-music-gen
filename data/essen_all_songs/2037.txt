@@ -1,0 +1,9 @@
+FINK
+CUT[DER FRUEHLING KEHRET WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0283  16  A 2/4]
+MEL[--5_  -3b_.-3b-2_--6b_  -1_--7_0_
+    -2_  -3b_-1_-2_.-2  -1_0__
+    -5_  -6b_.-4-3b_-2_  -5_-1_0_
+    -4_  --7_-1_-2_.-2  -1__0_ //] >>
+FCT[Jugend - Lied, Trauer, Toten - Klage]

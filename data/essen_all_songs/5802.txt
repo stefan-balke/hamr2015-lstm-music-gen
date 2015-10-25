@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Sehnsucht]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0259  02  D 6/2 4/2]
+MEL[4  5_55+1_  7b_53b4_  3b_0
+    4  5+1_7b+16  5_0
+    4  56b7b7b  +1_5_
+    +1_  7b_6b56b4  3b_
+    7b_  6b543b  2_1_
+    23b  7b_57b4_  3b_0
+    3b  557b7b  +1_5_
+    4_  54_3b2_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Locheimer Lbb. 1450 No. 17. Die Rhythmisierung ist von Boehme,
+    sie folgt der "musikalischen Vernunft".]

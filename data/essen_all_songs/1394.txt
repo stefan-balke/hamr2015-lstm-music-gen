@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    Ich weiss eins Grauen Toechterlein,]
+CNR[sie wohnet zu Strassburg auff dem Rhein,]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 182
+    1580 gedruckt in Frankfurt]
+KEY[Q0063  08  F FREI]
+MEL[1_  1__-7_-6__-5_  1__2_1__
+    1_  2__124__4_  3__212__
+    2_  2__122__12  3__2__  1__
+    3_  2__12-7__-6-5  1__232__
+    3_  ^_2_1_-6-5-6-71_2_  2__1__ //] >>
+FCT[Ballade, Liebe, Standesunterschied, Strafe, Gnade]
+CMT[Taktart in "FREI" geaendert.]

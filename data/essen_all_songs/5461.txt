@@ -1,0 +1,7 @@
+KINDER
+CUT[DREI KOENIG FUEHRET DIE GOETTLICHE HAND]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[K1701  04  G 3/4]
+MEL[1  3_2  123  543  2_
+    2  2_2  234  3_2  1_ //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

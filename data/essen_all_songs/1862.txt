@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    'Guten Morgen, du Nuesselein,]
+CNR[was will ich dich jetzt fragen:]
+REG[Osteuropa, Ungarn, Kom. Tolnau, Nemetker]
+SRC[6, S. 247
+    1935 aufgezeichnet]
+KEY[Q0138E 08  G 3/4]
+MEL[-5-5  1_1_-7-6  -7-7-7_
+    -5_  -7_.-7-6-5  -6_-5_ //] >>
+FCT[Ballade, verlorene Unschuld, Moral]

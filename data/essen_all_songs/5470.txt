@@ -1,0 +1,9 @@
+KINDER
+CUT[KREIS KREIS KESSEL]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt]
+KEY[K2074  08  G 2/4]
+MEL[  1_3_  5_3_
+    1234  5_3_
+    5531  665_
+    4433  221_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

@@ -1,0 +1,11 @@
+FINK
+CUT[O SEHT WIE RUND UND FEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0239  16  F 2/4]
+MEL[5_  3_.23_.4  5__.
+    3_  2_.12_.3  4___
+    3__54#34#  5__0_
+    5_  6_5_4_3_  4__0_
+    4_  5_4_3_2_  3__0_
+    3_  2__1-7-6-7  1__0_ //] >>
+FCT[Jugend - Lied, Natur]

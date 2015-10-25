@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es hatt' ein Gastwirth einen Sohn,]
+CNR[der wollt' ein Handwerk lernen schon]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen]
+SRC[4, S. 312
+    1841 gedruckt in Berlin]
+KEY[Q0085h 16  G 3/4]
+MEL[-5_  1_-7_1__3__  4_2_1__0_
+    3_  3_4_5__5__  65432__0_
+    1_  -7_234__3_1_  2__1__0_ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Frisch auf, ihr Landsknecht alle!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0417B 04  G 4/2 6/2 3/1]
+MEL[5_  5__5__6_5_  4__3_4__
+    4_  5__5__+1_5_  5__0_
+    5_  5__5__6_5_  4__3_4__
+    4_  5__5__2_1_  -7b__0_
+    -7b_1_2_  3b_5_4_3b_2_1_  -7b__0_
+    -7b_  3b_4_5__  6_7b_5_6_  5__0_
+    5_  4_3b_4_5_  3b__1__
+    5__  7b__6_5__5_  3b__1__
+    5__  7b__6_5__3b_  4_.3b212__.  1___ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Dresdner Cod. M. (1550 - 1560)]

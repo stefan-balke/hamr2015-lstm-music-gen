@@ -1,0 +1,9 @@
+KINDER
+CUT[ROMPEL TOMPEL TORIA]
+REG[Europa, Mitteleuropa, Deutschland, Elberfeld]
+KEY[K2522  16  C 2/4]
+MEL[  1_1_-7_2_  1_1_-5__
+    1_1_-7_2_  1__0__
+    1_1_-7_-5_  1_11-5_-5_
+    1_1_-7_-5_  1_1_-5_-5_ //] >>
+FCT[Kinder - Lied, Rate - Spiel]

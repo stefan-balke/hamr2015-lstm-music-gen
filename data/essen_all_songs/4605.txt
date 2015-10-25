@@ -1,0 +1,13 @@
+ALTDEU
+CUT[In dulci jubilo]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0528A 02  F 6/2]
+MEL[1  1_13_4  5_.5_.
+    1_13_4  5_.5_.
+    5_65_4  3_.1_
+    1  2_23_2  1_.3_.
+    5_65_4  3_.1_
+    1  2_23_2  1_.
+    2_.  -6_-5-6_-7  1_.^_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Papier - Codex 15. Jh.]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Murr nur nit!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0199  02  C 3/2 4/2 6/2]
+MEL[+1_+1+1  5567  +1_0
+    +176  +2_7+1  6_5_
+    +1_+1+1  5567  +1_0
+    +176  +2_7+1  6_5
+    3  4435  6+1_7  +1_0
+    +1  7+16_  5_
+    +1  +1_+1  +1_+1  6_6  54_  3_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Peter Schoeffer 1513 No. 4.]

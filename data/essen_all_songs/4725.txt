@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Bluemlein auf der Haide]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0635B 02  G 3/1]
+MEL[4_  4__4_  5__5_  3__3_  1__
+    6_  6_5_3_  4_5_54  321_24  ^23_4_  0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Notenbucher 1551 No. 3.]

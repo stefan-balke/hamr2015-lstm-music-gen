@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ALLE LEUTE SOLLENS WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Dill - Kreis]
+KEY[E0619A 08  G 4/4]
+MEL[  355_355_  43454_3_
+    355_355_  43454_3_
+    6_6_+1_76  5_5_+1_0_
+    22346_54  5_333__ //] >>
+FCT[Liebes - Lied, Abschied]

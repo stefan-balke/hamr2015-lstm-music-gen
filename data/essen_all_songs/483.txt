@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES WAREN DREI JUNGGESELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0069  08  F 2/4]
+MEL[-5  1_-7-6  -5_1_  2_1
+    -5  1_-7-6  -5_1_  2_1
+    1  3333  3_5_  4444  2_0
+    1  -7222  2_54  3322  1_0 //] >>
+FCT[Sagen - Lied, Romanze]

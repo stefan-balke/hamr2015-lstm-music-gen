@@ -1,0 +1,10 @@
+F[ERK1
+CUT[MEIN LIEBE FRAU MUTTER]
+REG[Europa, Mitteleuropa, Oesterreich, Lilienfeld]
+KEY[E0056B 08 Bb 3/4]
+MEL[-5_  -511_.2  233_.
+    1  234_3_  2_.0
+    -5_  -511_.2  233_.
+    1  321_-7_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Kinds - Mord
+    Ballade ?]

@@ -1,0 +1,9 @@
+FINK
+CUT[QUANDO CONVENIUNT CATHARINA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0342  08  G 4/4]
+MEL[  5__5_4_  3_21-7_-7_
+    1_232_-5-5  1_1_0__
+    5__5_4_  3_21-7_-7_
+    1_232_-5-5  1_1_0__ //] >>
+FCT[Jugend - Lied, Geselligkeit, Scherz, Kanon]

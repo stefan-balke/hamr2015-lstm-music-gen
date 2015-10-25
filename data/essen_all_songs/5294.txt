@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Es wollt ein Witlig heiraten]
+CNR[mit einem jung frisch Blut.]
+REG[Mitteleuropa, Schweiz, Aargau, Zufikon]
+SRC[8, S. 52
+    1909 aufgezeichnet]
+KEY[Q0155K 16 Bb 6/8]
+MEL[-5_  1_-7_-6_-5_.-3-3_  -6__-5_-5__
+    1_  -5__-3_-6_-5_-4_  -4__.-3_0_
+    -5_  1_-7_-6_-5_.-3-3_  -6__-5_-5__
+    1_  -5__-3_-6_-5_-4_  -4__.-3_0_
+    1_  2_4_4_2_-7_-5_  1__3_3__.
+    2_.22_4_3_2_  1___0_
+    1_  2_4_4_2_-7_-5_  1__3_3__.
+    2_.22_4_3_2_  1___0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

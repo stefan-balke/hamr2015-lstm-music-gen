@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Das mannstolle Maedchen
+    'Bistu des goldschmids tochterlein,]
+CNR[bin ich des bawren sohn, ja sohn:]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 95
+    1608 Handschrift (1603 - 08)]
+KEY[Q0126E 16  A 2/4 3/4]
+MEL[-5_  1_2_3b_1_  2_2_1_
+    3b_  2_1_-7b_-6_  -5__-4#_-5_-6-4#-5_  -5__0_
+    -5_  1_2_3b_1_  2_2_1_
+    3b_  2_1_-7b_-6_  -5__-4#_-5_-6-4#-5_  -5__
+    1__  2_3b23b_1_  -7b_-6_-5__
+    3b__4__  5__5_43b  2_1_1_-7_  1__.0_
+    1_21  1_-7_1__  1_-5_-5_-6b-7  1__0_ //] >>
+FCT[Ballade, Werbung, Betrug]
+CMT[Pausen am Ende der zweiten, sechsten und letzten Zeile eingefuegt.
+    Anhaengesel an mehreren Zeilen.]

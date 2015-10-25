@@ -1,0 +1,18 @@
+BOEHME
+CUT[IM RHEIN IM SCHOENEN STROME]
+REG[Europa, Mitteleuropa, Deutschland, Spandau]
+KEY[B0436  08 Ab 6/8]
+MEL[-5  3_35_4  3_.1_
+    1  -7_-71_-6  -7_.^_
+    -7  1_13_2  1_.-6_
+    -6  -5_1-7_2  1_.^_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, religioes]
+BOEHME
+CUT[IM RHEIN IM SCHOENEN STROME]
+REG[Europa, Mitteleuropa, Deutschland, Spandau]
+KEY[B0436  08 Ab 6/8]
+MEL[-5  3_35_4  3_.1_
+    1  -7_-71_-6  -7_.^_
+    -7  1_13_2  1_.-6_
+    -6  -5_1-7_2  1_.^_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, religioes]

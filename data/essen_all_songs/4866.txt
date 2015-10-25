@@ -1,0 +1,16 @@
+DVA
+CUT[Wie schoen ist das laendliche Leben,
+    mein Haeuschen steht auf gruener Flur]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0161  16 Bb 6/8]
+MEL[-5_  -5_-6_-7_1_2_3_  4__.3__
+    3_  3_.22_4_-7_-7_  1__.0__
+    -5_  -5_-6_-7_1_2_3_  4__.3__
+    3_  3_.22_4_-7_-7_  1__.0__
+    3_  2_3_2_2_3_2_  2__5_5_4#_
+    3_  2_3_2_1_-7-6-5_  -7__2_4_3_
+    2_  1_.11_1_2_3_  4__.3__
+    3_  3_.22_4_-7_-7_  1__.0__ //] >>
+FCT[Bauern - Lied]
+CMT[moduliertin die Dominanttonart; Pause in der zweiten Zeile rhythmisch
+    korrigiert; Inzipit = entfernte Variante zum Lied]

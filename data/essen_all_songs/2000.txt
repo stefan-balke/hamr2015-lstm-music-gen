@@ -1,0 +1,13 @@
+FINK
+CUT[WER HAT DIE SCHOENSTEN SCHAEFCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0234  16  D 2/4]
+MEL[1_  1_1_2_.2  3_5_+1_
+    6_  5_3_2_4_  3__.
+    1_  1_1_2_2_  3_5_+1_
+    6_  5_3_2_4_  3__.
+    3_  2_2_5_7_  7__6_
+    5_  5_4#_3_2_  2__.
+    34  5_5_4_3_  2_6_4_
+    2_  1_-7_3_2_  1__. //] >>
+FCT[Jugend - Lied, Abend]

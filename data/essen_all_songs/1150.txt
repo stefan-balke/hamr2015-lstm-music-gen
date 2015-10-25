@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Mel se Hermanek zeniti,]
+CNR[pro nevestu si zajiti,]
+REG[Osteuropa, Tschechoslowakei, Maehren]
+SRC[2, S. 106
+    1901 gedruckt]
+KEY[Q2048N 08  D 6/8]
+MEL[  1111_2  1-7b-6-5_0
+    -6-7b1-5_-6  -5_-4-3b_0
+    123b1_2  -7b-6-7b1_0 //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Melodievariante zu Q0041H: anderes Lied, maehrische Variante der
+    Graf Friedrich Ballade, deshalb Q0048 zugeordnet. Grundton in der
+    zweigestrichenen Oktave.]

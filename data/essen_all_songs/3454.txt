@@ -1,0 +1,12 @@
+F[ERK2
+CUT[WEIB DU SOLLST GSCHWIND HAMET GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[E0910C 16  G 3/4]
+MEL[  1_.11__1__  2_.21__0_
+    1_  2_.21__2__  3___0__
+    2_.22___  2_.55___
+    5_.43_2_1_-7_  -6_.-6-6___
+    -5_-5_-5_-6_-6_-5_  -5_.11___
+    5_.43_2_1_-7_  -6_.-6-6___
+    -5_-5_-5_-6_-6_-5_  -5_.11___ //] >>
+FCT[Ehestands - Lied]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[WILLST DU DEIN HERZ MIR SCHENKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0355  16 Eb 2/4]
+MEL[1_  1_3_5_+1_  +1_7_0_
+    +3_  +27654_4_  4_3_0_
+    5_  4#_+1_+1_7_  7_6_
+    +1__  7+2756+14#_  4#__5_
+    5_  534_(+2+17)(654)  4_3_0_
+    6_  5#_6_+2_+1_  +1_7_0_
+    +1_  754346+16  5321
+    4__  353124-7_  -7__1_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[WILLST DU DEIN HERZ MIR SCHENKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0355  16 Eb 2/4]
+MEL[1_  1_3_5_+1_  +1_7_0_
+    +3_  +27654_4_  4_3_0_
+    5_  4#_+1_+1_7_  7_6_
+    +1__  7+2756+14#_  4#__5_
+    5_  534_(+2+17)(654)  4_3_0_
+    6_  5#_6_+2_+1_  +1_7_0_
+    +1_  754346+16  5321
+    4__  353124-7_  -7__1_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

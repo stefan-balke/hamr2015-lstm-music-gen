@@ -1,0 +1,12 @@
+F[ERK5
+CUT[Een stuck van liefde moet ik u verhalen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0081  08  A 2/4]
+MEL[1_22  3b_.2  1-7b1-5  -5_-4_
+    -7b_-7b-7b  1_.1  -7b1-7b-6b  -5__
+    1_22  3b_.2  1-7b1-5  -5_-4_
+    -7b_-7b-7b  1_.1  -7b1-7b-6b  -5__
+    -5_-5-6b  -5_-4_  -7b_12  1_-7b
+    -7b  1122  3b_.2  211-7  1__ //] >>
+FCT[Lied]
+CMT[Coussemaker Nr. 51]

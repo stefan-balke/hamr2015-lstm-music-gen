@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Juchhe, juchhe, kluains Shneidarle!]
+CNR[Ze ihmon ischt kam' dar erschte Pote.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Rieg]
+SRC[3, S. 90
+    1909 aufgezeichnet]
+KEY[Q0057E 04  G 6/4]
+MEL[13_3  5_3542  1_
+    1432  1_1432  1_
+    13_3  5_3542  1_ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

@@ -1,0 +1,15 @@
+DVA
+CUT[Der Duwakwak, der Duwackelwak, der Duwak ist mein Leben,
+    der Duwakwak, der Duwakwak, der Duwak ist mei Freud]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg, Stuttgart]
+KEY[D0292  16  G 2/4 4/4]
+MEL[     5__  3_3_3_3_  3_333_3_  3_3_6_3_  5__4_
+    4_  2_2_2_-5_  2_2_2_2_  5_5_5_-7_  1__0__
+    -5_-5_1_2_  3_.21_1_0_3_6_6_  5_4_-7__0_
+    -5_-7_2_  5_5_5_5_0_4_3_2_  3_.21__  0_
+    -5_1_2_  3_.21__.6_6_3_  5_4_-7__.
+    -5_-7_2_  5_5_5__.5_4_-7_  1___0_
+    -5_1_2_  3_.21__.6_6_3_  5_4_-7__.
+    -5_-7_2_  5_5_5__.5_4_-7_  1___0__ //] >>
+FCT[Trink - Lied, Zech - Lied]
+CMT[letzte Pause rhythmisch korrigiert]

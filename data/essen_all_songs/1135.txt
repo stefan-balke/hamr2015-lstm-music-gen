@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Well will met Gert Olbert utriden gohn,]
+CNR[well will met Gert Olbert utriden gohn,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[2, S. 70
+    1842 aufgezeichnet]
+KEY[Q0041A 08  D 2/2]
+MEL[12  3b_3b3b3b543b  3b22_2_
+    12  3b_3b3b3b543b  3b22_2_
+    -7b_  5_5_57b6b5  544_4_
+    3b4  5_5_5_43b  (4_3b_2_)1_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

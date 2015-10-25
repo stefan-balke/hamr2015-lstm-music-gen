@@ -1,0 +1,15 @@
+DVA
+CUT[Jetzt muessen wir marschieren,
+    ich und mein Kamerad]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Berlin]
+KEY[D0194  16  A 4/4]
+MEL[-5__  1__1__2__4__  3___2___
+    3__2_1_1__-7__  1__0__0__
+    -5__  1__1__2__4__  3___2___
+    3__2_1_1__-7__  1__0__0__
+    3_4_  5__5__5_.54_3_  4__0__0__
+    2_3_  4__4__4_.43_2_  3__0__0__
+    -5__  1__1__2__4__  3___2___
+    3__2_1_1__-7__  1__0__0__ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = Transposition zum Lied, Sequenzen]

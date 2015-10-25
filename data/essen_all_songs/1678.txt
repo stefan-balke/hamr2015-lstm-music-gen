@@ -1,0 +1,9 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Hoi, Sinek Marko, bu'scht Du haint geschlufn?]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[4, S. 224
+    ????]
+KEY[Q0080B 08  G 3/4]
+MEL[1_  3_2_1_  5__23  4_3_2_  1_0_ //] >>
+FCT[Ballade, Magie, Verwuenschung]

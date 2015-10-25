@@ -1,0 +1,9 @@
+F[ERK3
+CUT[RAU RAU ROMMELSDOEPPEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Koeln]
+KEY[E1213  08  C 2/4]
+MEL[  1-7-6-7  1-5-5-5
+    1-71-7  1-5-5-5
+    -6-71_  -712_
+    321-6  -5-71_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Fastnacht]

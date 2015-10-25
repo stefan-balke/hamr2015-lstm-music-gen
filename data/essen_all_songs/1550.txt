@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es reisen ihrer Herren alle dreie,]
+CNR[sie reiten, Frau Wirtin, gar schone;]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hassenburg]
+SRC[4, S. 30
+    1928 gedruckt in Heidelberg]
+KEY[Q0072G 16  G 3/4]
+MEL[-5__  1__1__1_1_  2__2__3_3_  4___.  1__0__
+    3_4_  5__.6_5__  2__2__5__  5__4__3__  2__0__
+    5_.4  3__2__3__  1__1__3__  1__2__3__  2__0__
+    3__  1__1__6__  5__.4_3_5_  5_4_3__2__  1__0__
+    3__  1__1__6__  5__.4_3_5_  5_4_3__2__  1__0__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]

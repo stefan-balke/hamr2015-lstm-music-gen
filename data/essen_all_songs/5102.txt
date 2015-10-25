@@ -1,0 +1,9 @@
+BOEHME
+CUT[AUS DEM HIMMEL FERNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0642  08  C 4/4]
+MEL[  5_5_6_.5  5__3__
+    3_1_4_3_  2__.0_
+    2_.21_1_  4__3__
+    6_4_3_2_  1__.0_ //] >>
+FCT[Kinder - Lied, religioes]

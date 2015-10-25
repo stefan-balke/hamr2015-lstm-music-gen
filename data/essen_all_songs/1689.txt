@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Ostani, sinko Janko, tu, Janko tu,]
+CNR[ostani, sinko Janko, tu!]
+REG[Suedosteuropa, Jugoslawien, Slovenien]
+SRC[4, S. 227
+    1948 gedruckt in Ljubljana]
+KEY[Q2080M 08  F 3/8]
+MEL[  654  3_5  234  345
+    654  3_5  254  3_. //] >>
+FCT[Ballade, Magie, Verwuenschung]
+CMT[Slowenische Fassung der Ballade.]

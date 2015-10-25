@@ -1,0 +1,10 @@
+F[ERK3
+CUT[MAEDCHEN SAG MIRS FUER GEWISS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Dill - Kreis]
+KEY[E1420  08  G 4/4]
+MEL[  -5_1_-7_2_  1_-6_-5__
+    3_3_2_5_  4_3_2__
+    2_2_2_3_  1_.23_5_
+    2_2_2_3_  1_.23_5_
+    4_6_5_3_  2_2_1__ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe]

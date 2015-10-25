@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[DIE LEINEWEBER HABEN EINE SAUBERE ZUNFT]
+REG[Europa, Mitteleuropa, Deutschland, Greifswald]
+KEY[Z0199  08  C 2/4]
+MEL[-5  1111  1111  1_-7-6  -5_0_
+    -6_-6-6  -7_-7_  1_1_  1_0
+    -5  1111  1111  1_-7-6  -5_0_
+    -6_-6-6  -7_-7_  1_1_  1_0_
+    -5-5-5-5  -5-5-5-5  1_1_  1_0_
+    -5-5-5-5  -5-5-5-5  1_1_  1_0_
+    3_33  4__  2_2_  5__
+    1111  2222  1_1_  1_0 //] >>
+FCT[Schiffer -, Handwerker - Lied]

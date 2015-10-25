@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ZWEI HERZEN IM LEBEN GAR SCHOEN SICH ERGEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0256  16  G 3/8]
+MEL[12  3_3_4_  655_
+    43  544_2_  433_
+    35  544_2_  433_
+    35  544_2_  433_
+    12  333_4_  5__
+    43  544_2_  1__ //] >>
+FCT[lyrisches Lied, Romanze]

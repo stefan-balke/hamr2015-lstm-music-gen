@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Koenig und Marquise
+    Quand le roi entra dans Paris,]
+CNR[quand le roi entra dans Paris,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 30
+    1904 gedruckt]
+KEY[Q2035E 08  G 6/8]
+MEL[-5-5-5  1_12_2  3_.
+    432  1_12_2  3_.
+    112  3_.234  32
+    2122  311-5_.
+    1235_3  2_.1_.  ^_. //] >>
+FCT[Ballade, Frauenraub]
+CMT[Franzoesische Fassung der Ballade.]

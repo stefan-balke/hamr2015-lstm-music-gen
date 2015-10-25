@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es war'n einmal zwei Bauerssoehn',]
+CNR[die hatten Lust in Krieg zu gehn]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Odenwald]
+SRC[4, S. 307
+    1841 gedruckt in Berlin]
+KEY[Q0085F 08  G 3/4 2/4]
+MEL[1  331_03  22-7_0
+    2  11-6_02  -7-6-5_0
+    3  4321  2_1_0 //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

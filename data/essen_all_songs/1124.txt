@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Koenig und Marquise
+    Es reist' ein Koenig nach Paris,]
+CNR[es reist' ein Koenig nach Paris,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saarburg,
+    Walscheid]
+SRC[2, S. 24
+    1936 aufgezeichnet]
+KEY[Q0035  16  D FREI]
+MEL[3_3_2_  1__1_2_3_5_  3__0_
+    5_3_2_  1__1_2_3_5_  3__0_
+    2_  332_3_44  5__3__0_
+    5_3_2_  1__1_1_2_3_43  2__
+    123_2_1_  3_5_3_2_  1__. //] >>
+FCT[Ballade, Frauenraub]
+CMT[Kleinere Strophenvariante abgedruckt.]

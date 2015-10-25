@@ -1,0 +1,26 @@
+BOEHME
+CUT[WIE MIR DEINE FREUDEN WINKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0007  08  G 4/4]
+MEL[3_2_  1_.-51_2_  3_1_
+    3_4_  5_3_6_4_  2__
+    3_2_  1_.-51_2_  3_1_
+    2_2_  234#56_4#_  5__
+    5_5_  6_3_4_5_  5_4_
+    2_34  5_2_3_4_  4_3_
+    -5_-5_  1_-5_2_-5_  3_1_
+    4_2_  5_.43_2_  1__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[WIE MIR DEINE FREUDEN WINKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0007  08  G 4/4]
+MEL[3_2_  1_.-51_2_  3_1_
+    3_4_  5_3_6_4_  2__
+    3_2_  1_.-51_2_  3_1_
+    2_2_  234#56_4#_  5__
+    5_5_  6_3_4_5_  5_4_
+    2_34  5_2_3_4_  4_3_
+    -5_-5_  1_-5_2_-5_  3_1_
+    4_2_  5_.43_2_  1__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

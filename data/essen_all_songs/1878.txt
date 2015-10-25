@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Nechten war ich trunken,]
+CNR[da redt ich nach gedunken,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 312
+    1611 gedruckt in Coburg]
+KEY[Q0139M 16  G 4/4]
+MEL[  1__3__5__.4_  3__2__1__0_
+    -5_  1__3__5__.4_  3__2__1__0_
+    3_  3_3_3_2_3__2_1_  3_5_4_3_2__0_
+    2_  1_2_3_4#_5_.55_4_  3_3_2_2_1___ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Stimme aus einem Quodlibet von Melchior Franck.
+    Taktstriche entsprechend der Vorzeichnung gesetzt. Schlusspause
+    weggelassen.]

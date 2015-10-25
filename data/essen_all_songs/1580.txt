@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Schoen Adelheid
+    Daar zouder een heer uit schachelen gaan,]
+CNR[En hij schacheld' den konings dochter:]
+REG[Mitteleuropa, Niederlande]
+SRC[4, S. 57
+    1900 gedruckt in Gent]
+KEY[Q2074A 08 Bb 9/8 6/8]
+MEL[3  2321_2  -7123_.
+    4_3  2345_4  3_.2_.0_
+    2  -7124_.3_2  3231_.0_
+    3  3_12_31_3  2_.1_.0_
+    2  -7124_.3_2  3231_.0_
+    3  3_12_31_3  2_.1_. //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Wiederfinden]
+CMT[Niederlaendische Fassung der Ballade.]

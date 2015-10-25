@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Ach Mutter, liebe Mutter,]
+CNR[mein Kopf thut mit so weh;]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Brandenburg]
+SRC[1, S. 199
+    1804 aufgezeichnet (vor)]
+KEY[Q0020B 16  G 2/4]
+MEL[-5_  3_.33_.2  2__1_
+    -5_  4_4_4353  2__0_
+    -5_  5_.65_4_  3__54
+    32  1_1_3212  1__
+    2__  3_3_5432  1__0_ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[GEGRUESST DU LAND DER TREUE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0006  16  G 4/4]
+MEL[-5__  3__.3_3__2__  2__.1_1__
+    -5__  4__.4_3_.23_.4  2___0__
+    5__  5__.3_4__4__  4__.2_3__
+    1__  -7__1__3_2_1_-7_  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[GEGRUESST DU LAND DER TREUE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0006  16  G 4/4]
+MEL[-5__  3__.3_3__2__  2__.1_1__
+    -5__  4__.4_3_.23_.4  2___0__
+    5__  5__.3_4__4__  4__.2_3__
+    1__  -7__1__3_2_1_-7_  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

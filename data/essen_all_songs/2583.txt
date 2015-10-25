@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ACH JOSEPH LIEBER JOSEPH]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0056A 08  G 3/4]
+MEL[-5_  135_31  -724_
+    13  5_5_43  2__
+    3_  4_6_42  3_5_
+    31  2_5_42  3__
+    3_  4_6_42  3_5_
+    31  2_5_42  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Kinds - Mord
+    Ballade ?]

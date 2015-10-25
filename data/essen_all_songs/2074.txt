@@ -1,0 +1,9 @@
+FINK
+CUT[DUNKEL UMHUELLET DIE FLUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0331  16  G 6/8]
+MEL[  5_.65_4_3_2_  1__.0__.
+    2_2_2_3_3_4#_  5__.2__0_
+    3_3_3_4_4_4_  5__.6__0_
+    5_.43_2_3_2_  1__0___ //] >>
+FCT[Jugend - Lied, Tageszeiten, Abend, religioes]

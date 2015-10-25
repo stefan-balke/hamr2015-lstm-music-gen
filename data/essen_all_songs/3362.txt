@@ -1,0 +1,9 @@
+F[ERK2
+CUT[HILF O HIMMEL ICH MUSS SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Jugenheim]
+KEY[E0792  08  F 3/4]
+MEL[32  1_1_24  3_5_
+    35  4_6_53  2__
+    32  1_1_24  3_5_
+    46  5_3_23  1__ //] >>
+FCT[Abschieds - Lied, Liebe]

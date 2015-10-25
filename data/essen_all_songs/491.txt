@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[SO VIEL STERN AM HIMMEL STEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0076  08  G 3/4]
+MEL[12  3_.342  655_35  4_.254  3_0_
+    12  3_.342  655_35  4_.254  3_0_
+    53  322_64  433_53  322_64  433_
+    12  3_.142  6_5_35  4_2_54  3__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

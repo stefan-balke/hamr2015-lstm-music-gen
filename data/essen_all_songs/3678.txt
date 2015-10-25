@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Vater und Mutter, lebet wohl,]
+CNR[weil ich jetzt einruecken soll;]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 271
+    ????]
+KEY[Q1114a 08  G 3/4]
+MEL[-5-5-5  1_-5_-3-5  -6_-50
+    13  2_.1-7-4  -6_-5
+    -5-51  3_2_43  2_.
+    1-7-6  -5_.-5-6-7  1_. //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0114Y und Z, anderes Lied.]

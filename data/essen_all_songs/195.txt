@@ -1,0 +1,18 @@
+BOEHME
+CUT[WILLKOMMEN O SELIGER ABEND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0230  08  C 4/4]
+MEL[-5  -5_-3-4-5321  1-7-7_0_
+    1-6  -6-5-3-5-5-4-2-4  -4_-3__
+    -5_  3_1-54_2-7  531_0_
+    31  -7-642211-7  2_1__0 //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[WILLKOMMEN O SELIGER ABEND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0230  08  C 4/4]
+MEL[-5  -5_-3-4-5321  1-7-7_0_
+    1-6  -6-5-3-5-5-4-2-4  -4_-3__
+    -5_  3_1-54_2-7  531_0_
+    31  -7-642211-7  2_1__0 //] >>
+FCT[Tageszeiten - Lied, Abend]

@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Erkundigung"
+    WI KUMM ICH DANN]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+KEY[Z1158  08  G 4/4]
+MEL[-5_  1_-7_1_2_  3b_.21_
+    5_  3b_.3b2_.2  1__0_
+    -5_  1_.-71_2_  3b_.21_
+    5_  3b_.3b2_.-5  1__0__
+    5_.22_2_  3b_.11_
+    1_  2_.-5-5_-5_  1_.11_
+    -7_  1_2_3b_2_  5__0_
+    5_  1_1_2_.-7  1__0_ //] >>
+FCT[Liebes - Lied]

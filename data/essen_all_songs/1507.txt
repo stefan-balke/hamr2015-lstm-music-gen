@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es ging ein Knab spazieren,]
+CNR[spazieren in dem Wald,]
+REG[Osteuropa, UdSSR, Wolgakolonien]
+SRC[7, S. 154
+    1923 gedruckt in Muenchen]
+KEY[Q0149T 08  D 4/4]
+MEL[13  5_5_432_  1_6_5_
+    56  5_5_432_  1__
+    6__  5_+17b6_
+    6_  5_5_432_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Dritte Zeile refrainartige Silbenwiederholung. "Enjambement"]

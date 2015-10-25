@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wollt' ein Mueller frueh aufstehn,]
+CNR[wollt' in den Wald spazieren gehn,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Altmark]
+SRC[4, S. 346
+    1912 gedruckt]
+KEY[Q0086X 08  G 3/4]
+MEL[1  135_.3  322_0
+    2  266_.5  433_0
+    1  135_.3  466_0
+    +1  765_.3  421_0 //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]

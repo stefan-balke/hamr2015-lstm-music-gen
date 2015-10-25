@@ -1,0 +1,9 @@
+FINK
+CUT[MAG AUCH DIE LIEBE WEINEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1053  16 Ab 4/4]
+MEL[-5__  1__.1_-7__1__  1#__.2_2__
+    -5__  5___^_3_2_.4  3___0__
+    1__  6__.6_5__5__  4#___.
+    4__  3__2__1__-7_2_  2__.1_1__ //] >>
+FCT[Trost - Lied, religioes, Pilger]

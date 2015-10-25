@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es war ein Reiter hochgemut,]
+CNR[zwei Faeder Tragt er auf sein hut:]
+REG[Osteuropa, UdSSR, Russland, Wolgakolonie]
+SRC[3, S. 100
+    1923 gedruckt in Muenchen]
+KEY[Q0057O 32  G 4/4]
+MEL[-5__1___-7___  2___1__2__3___4_543_4_  2___0__
+    -5__4___3__.42  5___4_3_4__3___12-7__.  1___0__
+    -5__1__2__1__2__  2___.1__3___4_543_4_  2___0__
+    1__-7_1_2__4_3_4__  2__3__1___3___12-7__.  1___0__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Zweistimmig notiert, Oberstimme kodiert. Verzierungen (Vorschlaege)
+    in der ersten und letzten Zeile.]

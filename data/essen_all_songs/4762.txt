@@ -1,0 +1,12 @@
+DVA
+CUT[Liebesklage
+    Es kommt die Zeit zum Offenbaren,]
+CNR[dir zu klagen meinen Schmerz]
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0003  08  D 4/4]
+MEL[5_  5_5_4_5_  7b_6_5_4_
+    7b_6_5_4_  5_3b_2__
+    5_5_1_23b  4_3b21_-7b_
+    3b_4_5_4_  3b_2_1_ //] >>
+FCT[Liebes - Klage]
+CMT[Taktwiederholung; Inzipit = Transposition zum Lied]

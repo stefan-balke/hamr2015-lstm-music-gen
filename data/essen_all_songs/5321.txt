@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Es welken alle Blaetter,]
+CNR[sie fallen alle ab,]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hildesheim, Mehle]
+SRC[8, S. 98
+    1945 aufgezeichnet]
+KEY[Q0155l 08  G 4/4]
+MEL[-5_  1_.-5-3_-5_  1_3_3_
+    5_  2_.1-7_1_  2__0_
+    -5_  1_.-5-3_-5_  1_3_3_
+    5_  2_.1-7_1_  2__0_
+    12  3_.33_3_  3_5_5_
+    43  2_.34_4_  4_6_5_
+    4_  3_.23_4_  5__
+    6__  5_.34_5_  3__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

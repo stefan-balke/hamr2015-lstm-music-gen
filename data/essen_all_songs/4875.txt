@@ -1,0 +1,11 @@
+DVA
+CUT[Mir bluehet kein Fruehling, mit lachet keine Sonne,
+    mir duftet kein Bluemchen, fuer mich ist alles dahin.]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0173  08  D 4/4]
+MEL[5_  3__4321  -724_0_
+    5_  4_.45_.2  433_0_
+    1_  166__5_  54#4__
+    4_  3_.5542-7  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = entfernte Variante zum Lied ?]

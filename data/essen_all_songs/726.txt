@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[HABE ICHS NICHT LANG GESAT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[Z0309  16  G 3/8]
+MEL[  135_5_  +165_0_
+    442_4_  3_-7_1_
+    135_5_  +165_0_
+    442_4_  3_-7_1_
+    42-7_-5_  135_0_
+    42-7_-5_  135_0_
+    155_0_  166_0_
+    534231  2-71_1_ //] >>
+FCT[Lyrisches Lied, Romanze, Verlassenheit]

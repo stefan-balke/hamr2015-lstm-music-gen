@@ -1,0 +1,26 @@
+BOEHME
+CUT[WENN DIE NACHT MIT SUESSER RUH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Kreuznach, Trossingen]
+KEY[B0382A 16  D 4/4]
+MEL[  3__.3_3__5__  5__.4_3___
+    2__5__7__6__  5__4#__5___
+    3__.3_3__5__  5__.4_3___
+    2__5__7__6__  5__4#__5___
+    7__5__2_.34_.5  6__5__3___
+    7__5__2_.34_.5  6__5__3___
+    5__.5_6__.6_  7__.7_+1___
+    +1__7_6_5__3__  4__5_4_3___ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[WENN DIE NACHT MIT SUESSER RUH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Kreuznach, Trossingen]
+KEY[B0382A 16  D 4/4]
+MEL[  3__.3_3__5__  5__.4_3___
+    2__5__7__6__  5__4#__5___
+    3__.3_3__5__  5__.4_3___
+    2__5__7__6__  5__4#__5___
+    7__5__2_.34_.5  6__5__3___
+    7__5__2_.34_.5  6__5__3___
+    5__.5_6__.6_  7__.7_+1___
+    +1__7_6_5__3__  4__5_4_3___ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

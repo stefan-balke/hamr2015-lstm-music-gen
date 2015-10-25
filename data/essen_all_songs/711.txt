@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[TRAU KLEINES MADELEIN TRAU NIE ZU SEHR]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0294  16  C 4/4]
+MEL[  1__1_-7_-6_.-6-6__  2__2_-7_-5__0_
+    -5_  1__1_2_3__3_1_  3_2_2_-7_1__0_
+    -5_  1__1_-7_-6__-6__  2_2_2_-7_-5__-5_
+    -5_  1_1_1_2_3__3_1_  3_2_2_-7_1__1__ //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

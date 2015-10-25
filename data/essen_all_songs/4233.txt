@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DREI WUERFEL UND EIN KARTENSPIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1772  08  F 4/4]
+MEL[1_  1_1_3_3_  5_5_3_
+    33  6_5_4_2_  2_1_2__
+    1_1_3_3_  5_5_5__  0_
+    3_4_6_  5_4_3_.2  1__. //] >>
+FCT[Scherz - Lied, Spiel]

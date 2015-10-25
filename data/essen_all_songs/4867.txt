@@ -1,0 +1,14 @@
+DVA
+CUT[Der gepruegelte Ehemann
+    Dei Fra dei wollt zum Tanzplatz geh,]
+CNR[he, Kunrad !]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0163  16  G 2/4]
+MEL[-5_  1_2_3_4_  5_5_5__
+    6__+1_6_  5__0_
+    5_  5_4_4_4_  4_3_3__
+    2_.34_2_  3_4_5_
+    5_  5_4_4_4_  4_3_3__
+    2_.34_-7_  1__0_ //] >>
+FCT[Ehestands - Lied]
+CMT[Inzipit = Variante zum Lied]

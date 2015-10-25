@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Erbfehler"
+    DER BERLINER SELBST SICH LOBT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1354  08  A 3/4]
+MEL[-5-5  1_1_31  5__
+    31  232323  1_0_
+    -5-5  1_1_31  5__
+    31  232323  1__
+    34  5_5_65  544_
+    54  333_43  255_
+    (432)  1_1_31  655_
+    31  232323  1__ //] >>
+FCT[Zech -, Schalks - Lied]

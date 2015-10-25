@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[ICH WOLLT EINMAL RECHT FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0056  16  D 3/4 2/4]
+MEL[1_1_3_  2__0_5_+1653  2__0_
+    5_5_5_  5_434_4_4_4_  4_323__0_
+    54  3__2__  5__0_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

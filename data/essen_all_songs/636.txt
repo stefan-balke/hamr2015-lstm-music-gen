@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES WOLLT EIN JAEGER JAGEN, DREI STUENDLEIN VOR DEM TAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+KEY[Z0220  16  G 6/8]
+MEL[-5_  1_.23_3__3_  5__434__
+    3_  3_.22_2_3_4_  4__323__
+    12  3_5_3_2_1_2_  1__+165_.6
+    5_  3_.53_2_1_2_  1__.0__ //] >>
+FCT[Soldaten -, Jaeger - Lied]

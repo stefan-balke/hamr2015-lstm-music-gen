@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Waechterlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0107  04  D 3/2 4/2 6/2]
+MEL[1_  3b_3b_4_5_  6b_5_3b_3b_  4__5__
+    0_5_5_5_  5__4_3b_2__  1__0_
+    5_  5_5_4_3b_  1__-7b__
+    0_-7b_1_2_  3b_4__3b_2__  1__.  0__
+    1_  3b__4_  5__5_  6b__5_  4_.56b5  4_.3b21  -7b__0_  0__
+    4_  5_4_3b_  1_2__  3b_.21-7  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens ad Ps. 90.]

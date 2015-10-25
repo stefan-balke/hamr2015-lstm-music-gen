@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der junge Held
+    Ach got, wie ser zwingt mich die not]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 152
+    1480 Handschrift aus Glogau]
+KEY[Q1060F 08  D 6/4]
+MEL[1_  3b__4_5_7b__  6_5__4__
+    4_  6__7b_+1_+2__  +1__7b_5_6__  5__0__.
+    +1_  7b__5_4__6b_  5__5_1__3b_  2_1__-7b__
+    -7b_  3b__4_5_7b_.6b  5_4_.3b1_2__  1__0__. //] >>
+FCT[???]
+CMT[Melodievergleich mit Q0060A, anderes Lied.
+    Pausen am Ende der 2. und 4. Zeile ergaenzt.]

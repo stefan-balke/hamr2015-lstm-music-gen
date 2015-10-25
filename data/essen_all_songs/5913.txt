@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der verkleidete Markgrafensohn
+    Es war einmal ein junger Malgraf,]
+CNR[der freit' ein' Koenigstochter.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Kr. Saargemuend, Wiesweiler]
+SRC[1, S. 59
+    1930 aufgezeichnet]
+KEY[Q0006D 08  F 3/4 2/4]
+MEL[1_  1_3b_  5__6_  5_43b  2__
+    1_  3b_4_  5__43b  2__  1__
+    1_  1_2_  3b_2_1_  -7b-7b1_  2__
+    1_  3b_4_  5__43b  2__  1__ //] >>
+FCT[Ballade, Braut - Werbung]
+CMT[Letzter Tonlaenge korrigiert.]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[DE KUCKUK UP DEN TUNE SATT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0880A 16  F 4/4]
+MEL[3__  2_1_-7_1_2__3__  1__0___
+    3__  2_1_-7_1_2__3__  1__0___
+    -5__  1_2_3_4_5_.4#5_.4#  5__5_.55__
+    3__  2_1_-7_1_2__3__  1__0___ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

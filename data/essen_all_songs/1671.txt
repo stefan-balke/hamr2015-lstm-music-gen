@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Dove si sta jersira,]
+CNR[Figliuol mio caro, fiorito e gentil?]
+REG[Suedeuropa, Italien, Lombardei]
+SRC[4, S. 212
+    1867 gedruckt]
+KEY[Q2079T 08  G 6/8]
+MEL[-5  1_11_2  3b2
+    11_2  3b213b21  2_0_.
+    4#  5_22_3b  3b__.  ^_20_
+    -5  1_11_2  3b2
+    11_2  3b213b21  2_.0_
+    5  6b_223b4  4_.3b_
+    2  1_13b_2  1_0_. //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Italienische Fassung der Ballade.
+    Zweite, vierte und letzte Zeile = Refrain.]

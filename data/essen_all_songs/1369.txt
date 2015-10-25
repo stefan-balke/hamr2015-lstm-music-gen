@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Der junge Held
+    Des Abends in dem Mondensching]
+CNR[das Maedchen in Baumgarten ging,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bergisches Land]
+SRC[3, S. 152
+    ????]
+KEY[Q0060D 08  D 4/4 3/4]
+MEL[1_  1_5_5_67b  6_.54_
+    45  6_.66_+1_  7b_.65_0
+    5  +1_.+17_5_  +1__5_.
+    5  4_.45_.5  2__
+    5_  +1__+1_  7_6_5_  +1__.  5__
+    5_  6b__5_  4_3b_4_  5__.  3b__
+    2_  1__2_  3b__4_  5__.  6__
+    5_  4_4_2_  3b__2_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied]
+CMT[Tempowechsel beim Taktwechsel.]

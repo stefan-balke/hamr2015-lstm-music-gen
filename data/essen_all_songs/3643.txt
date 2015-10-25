@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Richmudis von Adocht
+    Hoert, Christenleut', jetzt ein neues Lied,]
+CNR[was Wunder zu Koellen am Rhein erblueht.]
+REG[Mitteleuropa, Deutschland]
+SRC[5, S. 237
+    1856 aufgezeichnet (?)]
+KEY[Q0112  16  G 3/8]
+MEL[-5_  1__1_  2_2_5_  4__3b_  2__
+    3b_  1_2_3b_  2_1_-7_  1__2_  -5__
+    5_  5_4_3b_  4_2_54  3b_3b_2_  1__
+    -5_  1_2_3b4  5_1_3b2  1_1_-7_  1__
+    5_  5_4_3b_  4_2_54  3b_3b_2_  1__
+    -5_  1_2_3b4  5_1_3b2  1_1_-7_  1__ //] >>
+FCT[Ballade, Schein - Tod, Grab, Auferstehen]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WILLST DU ABER NICHT RECHT LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Langsdorf]
+KEY[E0699C 08 Bb 3/4]
+MEL[-3-5  1_-5_-6-7  1-5-5_
+    -71  2_.-5-6-5  -3__
+    -5-5  43211-6  -6_-5_
+    -5-7  135_42  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

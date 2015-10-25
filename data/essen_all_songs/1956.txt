@@ -1,0 +1,10 @@
+FINK
+CUT[BRAUCHT WEITER SIE WAS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0169A 16  F 3/8]
+MEL[1_  1_21-71  2_0_
+    2_  2_1#234#  5_0_
+    1_  1_2345  6__
+    66  654342  1__ //] >>
+FCT[Liebes - Lied]
+CMT[Strophenvariante von F0169]

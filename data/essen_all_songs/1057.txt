@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Donaustrudel"
+    GEH I HALT WOHL IN DEN WALD]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1323  08  D 4/4]
+MEL[  1_1_3_3_  5_5+13_0_
+    2_241_35  5_+3+2+1_0_
+    5_4_35+13  5_4_3_.1
+    5_4_35+13  5_4_3_0
+    1  1_1_1_23  4_6+15_0_
+    2_461_35  5_+3+2+1_0_
+    1_111_23  4_6+15_0_
+    2_461_35  5_+3+2+1_0_ //] >>
+FCT[Zech -, Schalks - Lied]

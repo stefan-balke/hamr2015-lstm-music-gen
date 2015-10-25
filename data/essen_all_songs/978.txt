@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Nachtbesuch"
+    HEUT IS JA GAR SO SCHOEN]
+REG[Europa, Mitteleuropa, Steiermark]
+KEY[Z1243  08  D 3/4]
+MEL[  5_6_.5  5_4_3_
+    +1_+1_.3  3_2_2_
+    4_4_2_  3_3+1+13
+    5_4_4-7  1_2_3_
+    2_4_.2  3_3+1+13
+    5_4_4-7  1__0_ //] >>
+FCT[Liebes - Lied]

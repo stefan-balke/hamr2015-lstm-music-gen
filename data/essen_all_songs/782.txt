@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der bucklichte Fiedler"
+    ES WOHNET EIN FIEDLER ZU FRANKFURT AM MAIN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[Z1047  08  A 4/4]
+MEL[-5_  1_-7-71_22  3b_212_
+    -5_  1_-7-71_22  3b_212_
+    -5-7b  3b_3b3b-7b_05  5443b2_0
+    2  3b_21-7_0
+    -5  1-7123b214  3b21-71_ //] >>
+FCT[Romanze, Ballade]

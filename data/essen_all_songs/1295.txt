@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es scherzt' ein Graf mit seiner Magd,]
+CNR[sie scherzten miteinander;]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern]
+SRC[3, S. 64
+    ????]
+KEY[Q0055l 08  F 6/8]
+MEL[5  3_55_6  5_5+1_
+    5  6_7+176  6_.5_
+    3  4_65_4  3_+15_
+    3  2_65_3  2_.1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

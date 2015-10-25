@@ -1,0 +1,9 @@
+F[ERK1
+CUT[SCHOENSTES SCHAETZCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Wetterau]
+KEY[E0518A 16  C 3/8]
+MEL[13  5_3_56  542_
+    54  3_.43_  2__
+    -5_  1_1_24  3_3_
+    46  5_3_2_  1__ //] >>
+FCT[Liebes - Lied]

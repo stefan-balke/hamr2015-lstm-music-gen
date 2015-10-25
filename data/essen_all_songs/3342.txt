@@ -1,0 +1,10 @@
+F[ERK2
+CUT[MEINE RED IST ABSCHIEDSVOLL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetzlar, Ober - Lahnkreis]
+KEY[E0778  08  G 4/4]
+MEL[  1_.-51_5_  3_321__
+    3_.23_56  5_432__
+    1_6_5_54  3_5_4__
+    2_5_3_.2  1_2_3_
+    5_  6_543__ //] >>
+FCT[Abschieds - Lied, Wander - Lied, Liebe]

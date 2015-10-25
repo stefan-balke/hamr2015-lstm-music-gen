@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Schoen Adelheid
+    Hy ging voor zijne moeder staen:]
+CNR[Moeder, edle vrouwe,]
+REG[Mitteleuropa, Niederlande]
+SRC[4, S. 67
+    1864 gedruckt]
+KEY[Q2074G 08  F FREI]
+MEL[1_3  5_.545  6_54_.^_
+    5434  6_5
+    1_2323  4_32_.
+    2  321_2  -71_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Wiederfinden]
+CMT[Niederlaendische Fassung der Ballade.]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Der Khinig hot ins nare]
+CNR[an uainzigai Tochter,]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Graflinden]
+SRC[5, S. 66
+    1908 aufgezeichnet]
+KEY[Q0095  04  B 4/4]
+MEL[1  1112  3b21
+    1  3b_3b3b  12-7b_
+    1_12  1_. //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat]
+CMT[Dritte Zeile = Refrain.]

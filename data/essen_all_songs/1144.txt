@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Bruid Ader en Heer Halewijn,]
+CNR[het waren twee koningenkinderen fijn;]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[2, S. 100
+    1900 gedruckt in Gent]
+KEY[Q2041J 16  A 6/8 9/8]
+MEL[2_1__1_  3b__3b_5__5_  5__
+    4_3b_2_3b_  5__.4__4_5_.54_  2__
+    1_2__3b_  4__5_4__3b_  1__.-7b__
+    555__5_  4__3b_2_3b_4_5__4_  3b__2_1__
+    1_2__3b_  4__5_4__3b_  1__.-7b__
+    555__5_  4__3b_2_3b_4_5__4_  3b__2_1__ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Letzte Note bei der Zeilenwiederholung rhythmisch korrigiert.
+    Flaemische Fassung der Ballade.]

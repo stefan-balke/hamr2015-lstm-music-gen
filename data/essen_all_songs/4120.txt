@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ES GIEBT DOCH KEIN SCHOENER LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Giessen; Marburg]
+KEY[E1589  08  G 4/4 3/4 4/4]
+MEL[  -5_1_1_3_  3_212_2_
+    3_.45654  3_2_1_0_
+    -5_1_1_3_  3_212_2_
+    3_.45654  3_2_1_0_
+    135_3_  23432_
+    135_3_  23432_
+    -5_1_1_3_  3_212_0_
+    3_.45654  3_2_1_0_ //] >>
+FCT[Staende - Lied, Strassen - Raeuber]

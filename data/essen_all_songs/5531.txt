@@ -1,0 +1,10 @@
+KINDER
+CUT[IST DIE SCHWARZE KOECHIN DA]
+REG[Europa, Mitteleuropa, Deutschland, Dresden]
+KEY[K2267  08  D 2/4]
+MEL[  5566  543_
+    5_6_  5_0_
+    5566  5431
+    5566  5431
+    5_6_  5_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

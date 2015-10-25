@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Nonnenklage]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0242  04  G 4/2 6/2]
+MEL[+1_  +1_+1_7b_6_  4__5_
+    6_  7b_.+1+2_+1_.7b1_  7b__5_
+    +1_  +1_+1_7b_6_  4__5_
+    6_  7b_.+1+2_+1_.7b1_  7b__5_
+    5_  5_5_6_6_  7b__5_
+    5_  7b_.65_4_.3b2_  3b__0_
+    7b_  7b_7b_7b_7b_  +1__5_
+    5_  7b_.+1+2_+1__7b_  +1__5_
+    5_7b_6_  5_4__3b_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 82.]

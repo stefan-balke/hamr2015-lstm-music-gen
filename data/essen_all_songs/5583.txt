@@ -1,0 +1,9 @@
+KINDER
+CUT[UND ALS AN GRUENER SEITE]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig, Achtrup]
+KEY[K2620  08 Bb 2/4]
+MEL[-5  1111  1_-5
+    -5  3333  3_1_
+    5_5_  543
+    3  2222  1_-5 //] >>
+FCT[Kinder - Lied, Reigen, Gesellschafts - Spiel]

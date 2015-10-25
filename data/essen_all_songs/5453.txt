@@ -1,0 +1,11 @@
+KINDER
+CUT[LIEBER FREUND ICH FRAGE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[K1602  08  G 4/4]
+MEL[  1_1_1_2_  1-7-6_-5_0_
+    1_1_1_2_  1-7-6_-5_0_
+    -6_-6_-7_-7_  1__0__
+    1_3_3_5_  5_4_2__
+    1_3_3_5_  5_4_2_
+    4_  3_1_-7_2_  2__1_0_ //] >>
+FCT[Kinder - Lied, religioes, Gebet]

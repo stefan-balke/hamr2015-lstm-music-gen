@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Heimkehr des Ehemannes
+    Dos Schreibn ischt khamen af Letze Herr,]
+CNR['ass der Letze Herr muess geanen ins Heer.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Lichtenbach]
+SRC[1, S. 95
+    1895 gedruckt in Graz]
+KEY[Q0011  08  G 2/4]
+MEL[-5_  1_12  321-5  1_12  3_
+    -5-5  1_12  3_54  3_2-7  1_
+    -5-5  1_12  3_54  3_2-7  1_ //] >>
+FCT[Ballade, Ehe, Heimkehr]

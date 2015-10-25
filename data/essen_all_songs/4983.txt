@@ -1,0 +1,13 @@
+BOEHME
+CUT[ICH HOERT EIN BAECHLEIN RAUSCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0519  16  G 2/4]
+MEL[34  5_5_5_5_  5_.31_
+    31  -5_-5_-5-72-7  1__0_
+    34  5_5_5_5_  5_.31_
+    31  -5_-5_-5-72-7  1__0_
+    3_  3_3_0_32  1#_1#_0_
+    1_  2_2_6_65  4__0_
+    2_  34345_5_  5_.31_
+    31  -5_-5_-5-72-7  1__0_ //] >>
+FCT[Wander - Lied]

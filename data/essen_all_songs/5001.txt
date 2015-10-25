@@ -1,0 +1,13 @@
+BOEHME
+CUT[MEIN HERZ IST IM HOCHLAND]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[B0534A 08  C 3/4]
+MEL[5+3  +2_+1_.3  2_7_.
+    6  5_4_26  5__
+    5+3  +2_+1_.3  2_7_.
+    6  5_4_-7_  1_0_
+    1_  2_4#6+17  6_5_
+    2_  2_4#6+3+2  7_.6
+    5+3  +2_+1_.3  2_7_.
+    6  5_+4_.7  +1__ //] >>
+FCT[Wander -, Heimat - Lied]

@@ -1,0 +1,18 @@
+ALTDEU
+CUT[Maria zart]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0596  02  E 4/1]
+MEL[1__3b_2b_  1_2b_-7b_-7b_  -6b__0_
+    3b_  3b_3b_4_3b_  2b__1__
+    1__3b_2b_  1_2b_-7b_-7b_  -6b__0_
+    3b_  3b_3b_4_3b_  2b__1__
+    0_1_4_3b_  4_6b_545_  4__0_
+    3b_  6b_4_5_6b_  4__3b__
+    0_3b_1_2b_  3b_2b_1__  -7b__0_
+    3b_  3b_4_5__  0_7b_6b_5_  4__0_
+    5_  6b_4_3b__  0_4_3b_2b_  1__0_
+    1_  -7b_-6b_2b_1_  -7b__-6b__
+    0_6b_4_5_  6b__0_5_  43b4_3b__
+    0_4_1_-7b_  3b_4_2b__  1___ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Leisentrit 1567 II fol. 15.]

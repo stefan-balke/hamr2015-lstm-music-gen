@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Jaeger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0436  04  F 4/2]
+MEL[1_3_4_  5_6_5__  3_.4
+    5_6_  ^_5_4__  3___  0_
+    5_5_5_  5_6_4__  5__
+    5__  6__5_4_  ^_3_2__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Gassenhawerlein 1535 No. 7.]

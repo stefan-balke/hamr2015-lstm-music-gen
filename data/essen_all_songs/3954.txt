@@ -1,0 +1,11 @@
+F[ERK3
+CUT[LUSTIG FROH IHR DEUTSCHEN BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[E1370  08  F 3/4]
+MEL[12  3_.343  322_
+    23  4_.454  433_
+    55  4_.364  2_0_
+    13  5_5_65  4346
+    54  323543  255_
+    22  2_.345  3__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

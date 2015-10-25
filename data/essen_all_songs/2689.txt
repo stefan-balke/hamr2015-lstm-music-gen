@@ -1,0 +1,12 @@
+F[ERK1
+CUT[DA DRUNTEN IN DEM TIEFEN THALE]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend; Taunus]
+KEY[E0108C 08 Eb 4/4]
+MEL[12  3_3_3543  322_0_
+    23  4_4_4654  433_0_
+    34  5_345_67  +1_766_5_
+    5_67+1_76  5_453_
+    34  5_345_67  +1_766_5_
+    5_67+1_76  5_453_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

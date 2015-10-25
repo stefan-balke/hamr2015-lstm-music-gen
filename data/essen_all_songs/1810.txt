@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Der verlorene Schuh
+    Ich hett einmal mein Huet verlohrn]
+CNR[vnd kunt ihn nit mehr finden:]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 119
+    1646 Handschrift Kloster Seeon]
+KEY[Q0128  08  G FREI]
+MEL[1_  1_1_1_1_  2_2_2_
+    1_  3_4_5_3_  2__1__0_
+    1_  1_1_1_1_  2_2_2_
+    1_  3_4_5_3_  2__1__0_
+    1_  5_5_5_4_  543_2__0_
+    2_  3_3_345_  3_4_1__0_
+    1_2_1_  5__0_
+    6_  5_4_512_  1__. //] >>
+FCT[Ballade, Verfuehrung, verbotene Liebe, Ausrede; Schwank]
+CMT[Kontrafaktur, Ballade wurde vermutlich nach der Melodie des Schwankes
+    "Pfaffenschandlied" gesungen.]

@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Luthers Lied auf die zwei Maertyrer von Bruessel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0386  04  F 4/1]
+MEL[+1_  +1__+1__7__6__  +1__6__5__0_
+    3_  5__6__5__1__  3__2__1__0_
+    +1_  +1__+1__7__6__  +1__6__5__0_
+    3_  5__6__5__1__  3__2__1__0_
+    3_  3__3__4__3__  3__3__1__0_
+    5_  7__+1__+2__+1_7_  7_656__5__0_
+    5_  7__5__6__5__  5__5__3__0_
+    1_  3__4__5__4_3_  3_212__1__0_
+    5_  5_5_6_7_+1___  +2__1___0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Luther 1523.]

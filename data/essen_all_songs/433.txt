@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES FUHR EIN FUHRKNECHT UEBERN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0019  08  G 2/4]
+MEL[-5  1_3b_  2_5_  43b2
+    -5  1_3b_  2_5_  43b2
+    4  4445  3b21
+    -5  1_3b_  2_5_  3b21 //] >>
+FCT[Sagen - Lied, Romanze; Staende - Lied, Fuhrmann]

@@ -1,0 +1,10 @@
+FINK
+CUT[ES GIEBT ZWEI VOEGEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0127  16  G 6/8]
+MEL[3_  3__3_3_.45_  5__4_4_0_
+    3_  2__2_2_.12_  3_3_0__.
+    34  5__5_5_.45_  6__4_4__
+    6_  5_.65_4_.54_  3_.45_4_3_
+    2_  3_3_0__.2_  1_1_0__. //] >>
+FCT[Moral - Lied]

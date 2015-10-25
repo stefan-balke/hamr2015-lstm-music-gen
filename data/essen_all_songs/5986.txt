@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Ach junckfraw wolt jr mit mir gan?]
+CNR[Aber wolt jr mit mir reyten,]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 271
+    1549 gedruckt in Nuernberg]
+KEY[Q1024D 08  F FREI]
+MEL[1_2_2_3__4_5__3_1___0__.
+    +1__+1_+1_+1_7_5_6__5___.0___.0__
+    1_5__+1_7_5_6_5__5_3_
+    6_5_.43_2_1_-7_-6__-5_
+    -5_1_.2345__432__1___ //] >>
+FCT[Ballade, ??]
+CMT[Taktart in "FREI" geaendert - unklar. Melodievergleich zu Q0024A,
+    anderes Lied. Refrainartige Schlusszeile.]

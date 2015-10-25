@@ -1,0 +1,11 @@
+F[ERK3
+CUT[OB ICH GLEICH EIN SCHAEFER BIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillenburg; Westerwald]
+KEY[E1487  08  G 4/4]
+MEL[  1_.35_5_  6_6_5_0_
+    4_.53_1_  2_2_1_0_
+    5_5_4_4_  3_532_2_
+    5_5_4_4_  3_532_2_
+    1_.35_5_  6_6_5__
+    4_2_3_1_  2_-7_1_0_ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

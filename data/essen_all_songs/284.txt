@@ -1,0 +1,20 @@
+BOEHME
+CUT[AUF GRUENEN BERGEN WARD GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0336  08  G 4/4]
+MEL[-513  5_.43_2_  211_0
+    123  4_2_3_5_  2__0
+    222#  3_.33_2_  211_0
+    123  4_2_1_-7_  5__0
+    543  26421_32  1__0 //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[AUF GRUENEN BERGEN WARD GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0336  08  G 4/4]
+MEL[-513  5_.43_2_  211_0
+    123  4_2_3_5_  2__0
+    222#  3_.33_2_  211_0
+    123  4_2_1_-7_  5__0
+    543  26421_32  1__0 //] >>
+FCT[Trink - Lied]

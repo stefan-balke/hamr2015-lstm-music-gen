@@ -1,0 +1,14 @@
+DVA
+CUT[Jungknab auf Botschaft
+    Es wollt ein Jungknab auf Botschaft gehn]
+CNR[zum schwarzbraun Maedel am Wege]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0012  08  E 4/4 3/4]
+MEL[   111  5__6_7b_  6_5_4__  ^_
+    4_5_5_  +1_.+2+1_  7b_6_5__
+    545_+1_  7b_6_5_  7b_+1_5__
+    7b_6_5_  4__5_  3b_2_1_  ^_.
+    111  5__4_  5_6b_5_3b_  2_1_0 //] >>
+FCT[Kilt - Lied]
+CMT[Achttonskala ( dorisch mit Alteration ?)
+    Taktwiederholung; Inzipit entfernte Variante zum Lied]

@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es wohnte ein reiches Schlaechterlein]
+CNR[bei Frankfurt an dem Maine,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Neustadt - Eberswalde]
+SRC[6, S. 107
+    1840 aufgezeichnet]
+KEY[Q0127E 08  G 4/4]
+MEL[3b_  43b21-7b_12  3b_3b_3b_
+    3b_  4_3b_1_43b  1__1_
+    3b_  43b21-7b_12  3b_3b_3b_
+    3b_  4_3b_1_43b  1__1_
+    3b4  5_5_5_6b5  4_3b_4_
+    3b4  55555_6b5  4_2_-7b_
+    3b4  5_4_5_6b5  4_3b_4_
+    6b5  4_44446b6b  5_3b_-7b_
+    3b4  543b21_23b  4_4_4_
+    44  5_5_1_43b  2__1_ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

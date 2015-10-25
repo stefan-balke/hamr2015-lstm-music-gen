@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Es war ein Wassermann,]
+CNR[er wollte Koeniges Tochter han,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Neisse, Waltdorf]
+SRC[2, S. 188
+    1844 aufgezeichnet]
+KEY[Q0041P 16  D 2/4]
+MEL[1_3_1_  3_3_5_
+    3_  3_2_322_  2_2_4_
+    2_  1_1_1_5_  3__2__  1_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Anderes Lied "Ulinger - Ballade" (Kontaminationsform) Q0041, deshalb
+    dieser Ballade zugeordnet.]

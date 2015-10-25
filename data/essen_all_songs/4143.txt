@@ -1,0 +1,8 @@
+F[ERK3
+CUT[LUSTIG LUSTIG DEUTSCHE BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Barmen]
+KEY[E1611  08  D 3/4]
+MEL[13  5_5_65  4_4_
+    54  3_3_43  2_2_
+    22  2_3_45  3__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

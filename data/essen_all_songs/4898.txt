@@ -1,0 +1,11 @@
+DVA
+CUT[Et sass e kli waeld Voegelain
+    af ener graener Zwaige]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0220A 08  G 2/4]
+MEL[-5  1112  3b3b3b
+    3b  43b21  2_2
+    1  3b3b3b4  555
+    1  123b-7  1_0 //] >>
+FCT[Liebes - Ballade]
+CMT[Variante zu D0220]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH GIENG MAL UEBER EINEN BUNGERT]
+REG[Europa, Mitteleuropa, Deutschland, Bonn, Kessenich]
+KEY[E0007A 16  A 2/4]
+MEL[-5_  1_-5_1_2_  3__4_3_  2__0_
+    -5_  1_-5_1_2_  3__4_3_  2__0_
+    2_  5_4_3_2_  1_.21_-7_  -6_-5_
+    2__  5_4_3_1_  2__3_2_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

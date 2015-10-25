@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Ic sie die morgensterre]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0035A 08  D 4/4]
+MEL[1_  3b_4_5_+1_  7b_6_5_
+    5_  7b_6b_5_4_  4_3b_0_
+    3b1  2_3b_4_1_  1_-7b_0_
+    3b1  2_3b_4_3b_  2_1__ //] >>
+FCT[Lied]
+CMT[Wiener Hs, 15. Jh.]

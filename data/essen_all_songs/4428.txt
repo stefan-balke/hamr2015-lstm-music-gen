@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GUTER FREUND ICH FRAGE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster - Land]
+KEY[E2131C 08  F 4/4]
+MEL[  5_.43_5_  4_3_2_1_
+    5_.43_5_  4_3_2_1_
+    3_3_3_3_  2__1_0_
+    3_3_3_3_  4_4_4__
+    2_2_2_2_  5_5_5_
+    4_  3_3_5_3_  2__1_0_ //] >>
+FCT[geistliches Lied, Curiosum]

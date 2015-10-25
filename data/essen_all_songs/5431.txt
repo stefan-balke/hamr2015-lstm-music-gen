@@ -1,0 +1,11 @@
+KINDER
+CUT[RURU RINNEKEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[K0690  16  F 2/4]
+MEL[  3__2__  1_1_-5_
+    -5_  3_3_2_2_  1_1_-5_
+    -5_  1_2_3_1_  4__2_
+    1_  -7_1_2_-5_  3__1_
+    3_  1__-5_3_  1_1_-5_3_  1__-5_
+    -5_  1_2_3_1_  4_3_223_  1__1_0_ //] >>
+FCT[Kinder -, Tier - Lied]

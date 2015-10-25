@@ -1,0 +1,9 @@
+BOEHME
+CUT[ICH KOMME VOM GEBIRGE HER]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass,Weissenburg]
+KEY[B0661  16 Bb 3/4]
+MEL[-5_1_-5_  -3__.-3_-5_.-4  -4__.
+    -7_2_1_  -7__.-4_-6_-5_  -3__0_
+    -5_1_-5_  3__.1_1_-6_  -6__.
+    1_-7_-6_  -5__.-5_4_-7_  1__0_ //] >>
+FCT[Moral - Lied, Einsamkeit]

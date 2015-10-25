@@ -1,0 +1,12 @@
+DVA
+CUT[St. Odilien
+    Als Sankt Odilien geboren war,]
+CNR[ihr Vater ein grosser Kuefer war]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0065  16  G 3/8]
+MEL[5_  5__5_  5_5_5_  +1_7b_+1_  5__.  ^__
+    7b_  7b_.7b7b_  7b_+1_7b_  6b_5_4_  3b__.  ^__
+    5_  4_5_6b_  5__4_  3b__2_  1__.  ^__ //] >>
+FCT[Legenden - Lied]
+CMT[In Zeile 261 und 263 rhythmisch korrigiert
+    Grundton in der kleinen Oktave]

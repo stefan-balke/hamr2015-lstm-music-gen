@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Muscatellerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0335B 02  F 3/2]
+MEL[111  2_5  5_3  2_
+    5  3_1  2_-7  1_.  1_0 //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Fragment bei Franck Fasc. quodl. (1611) No. 1.]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[DIE FRAU SIE WOLLT ZUM REIGEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z0166  16  A 2/4]
+MEL[-5_  1_1_1_.1  1_-7-6-5_0_
+    1__5_5_  3__0_
+    3_  2_3_4_2_  3_4_5_0_
+    1_111_-7_  -6_-5_-5_
+    3_  2_3_4_2_  3_4_5_0_
+    1_.1-7_-6_  -5__0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

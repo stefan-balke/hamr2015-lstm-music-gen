@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WILLST DU MICH DENN NICHT MEHR LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0699  08  F 3/4]
+MEL[13  324_-72  135_
+    13  326_5-7  1_0_
+    13  53+1_64  355_
+    13  326_5-7  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

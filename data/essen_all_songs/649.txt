@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES BLIES EIN JAEGER WOHL IN SEIN HORN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0233  08  G 6/8]
+MEL[-5  1_1123  2_22_3  2_22_
+    -5  1_3543  2_-5-5_0
+    -6-6-6-6_0  -7-7-7-7_
+    -5  -511133  -5-6-71_ //] >>
+FCT[Jaeger - Lied]

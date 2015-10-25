@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DES MORGENS ZWISCHEN DREIN UND VIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1338  08  F 4/4]
+MEL[13  5_553_1_  6_5_0_
+    13  5_5_6543  3_2_0_
+    13  5_.34345  3_0__
+    +16  5_.35432  1_0__
+    13  5_5_5_13  5_5_5_
+    +16  5_.35432  1_0__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der todte Gast"
+    ES POCHET EIN KNABE]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1060  08  G 4/4]
+MEL[1_  1_555_46b  5_3b_2_
+    3b2  1_-714_43b  2__0_
+    3b_  2_222_-7-5  1_3b_2_
+    5_  4_3b3b2_3b_  1__0_ //] >>
+FCT[Romanze, Ballade, Tod]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Vom christlichen Abschied aus dieser Welt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0254B 04  F 6/4 4/4]
+MEL[1  1_23_5  4_3_0
+    3  5_52_3  1_-7_0
+    1  2343  2_0
+    3  1_23_5  4_3_0
+    3  5_52_3  1_-7_0
+    -5  1_2_  3_4_  3_2_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[1555]

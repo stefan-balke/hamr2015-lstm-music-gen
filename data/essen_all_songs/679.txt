@@ -1,0 +1,15 @@
+ZUCCAL
+CUT[ALLERSCHOENSTER ENGEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0262  16  C 2/4]
+MEL[  +1__7__  +1_5_3_1_
+    +1_+1_7_7_  +1__0__
+    +1__7__  +1_5_3_1_
+    +1_+1_7_7_  +1__
+    5__  6_6_6_6_  5_7_5_
+    5_  +4__+4_+3_  +2__.
+    5_  5__5_7b_  6_+1_4__
+    6_6_6_+1_  7_+2_5_
+    5_  +1_.7+1_.7  +1__.
+    3_  4__5__  1___ //] >>
+FCT[lyrisches Lied, Romanze, Abschieds - Lied]

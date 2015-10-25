@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES RITT EIN RITTER SEHR WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E0110I 08  G 4/4]
+MEL[-5_  1_-5_3_21  -72232_
+    -5-7  2_225_42  311_1_
+    31  -6_-6-61_-7-6  -6_-5_-5_
+    4_  3_421_-7_  211_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

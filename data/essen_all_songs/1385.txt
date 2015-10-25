@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Guten Abend, guten Abend, mein tausiger Schatz,]
+CNR[ich sag dir guten Abend,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bergisches Land]
+SRC[3. S. 178
+    1840 aufgezeichnet (vor)]
+KEY[Q1062C 16  F 6/8]
+MEL[-5-5  -5_1_111_-7_1_  2_.3b2_1__
+    1_  2__5_4_3b_2_  1__3b_2__
+    1_  2__5_5_4_5_  3b_2_1_-7b__
+    -5_  1__2_3b_2_1_  3b_2_1_-7__.  1__0__. //] >>
+FCT[Fenstergang - Lied]
+CMT[Verzierungen (Vorschlaege) ; Melodievergleich zu Q0062, anderes Lied.]

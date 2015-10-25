@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ZUFRIEDENHEIT IST MEIN VERGNUEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[E1804  08 Bb 4/4]
+MEL[-5_  1_.-5-31-6-6  -6_-5_0_
+    1_  -71234_2_  2_1_0_
+    -7_  2_.321-7-6  -5__0_
+    -5_  -31-3-51_1_  33334_2_  1__0_ //] >>
+FCT[Moral - Lied]

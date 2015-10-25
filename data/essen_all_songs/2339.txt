@@ -1,0 +1,9 @@
+FINK
+CUT[IN DEN HEISSEN JULITAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0853  16  G 2/4]
+MEL[  -5_3_3_2_  2_1_1_1_
+    3_5_5_4_  3_5_5_5_
+    4_.66_4_  3_5_5__
+    2_.44_2_  2_1_1__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Attentat, Spott]

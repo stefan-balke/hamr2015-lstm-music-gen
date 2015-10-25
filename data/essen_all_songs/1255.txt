@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Es freit' eine junge Markgraefin,]
+CNR[ein Maedchen im eilften Jahre,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[2, S. 299
+    1842 gedruckt in Leipzig]
+KEY[Q0053Q 08  F 4/4]
+MEL[1_  5_555565  544_0_
+    54  333_321_  2_3_2_
+    32  113_5_1_  2__1_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]
+CMT["Verselbstaendigter Mittel- und Nachsatz" ?]

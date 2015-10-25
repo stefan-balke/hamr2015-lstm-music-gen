@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Kornschneiden
+    ohne Text]
+REG[Westeuropa, England (?)]
+SRC[6, S. 212
+    1600 gedruckt (ca.)]
+KEY[Q0136B 08  G 6/4 3/4]
+MEL[1__-5_1__2_  3_.23_2__
+    -7_  1__-5_.-51_2_  3__.2__.
+    2__3_  4__4_  3__3_  2__
+    -7_  1__1_  -7__1-7  -6_.-5-4#_-5__.
+    11-7-6-5-4  1__2_  31343_  2__
+    -7_  1__-5_  1__2_  3_.23_  2__.
+    2_-7123  4__4_  3_.23_  -712
+    -5-6-7  1__1_  -7__1_  -4#-5-6-5-3-4#  -5__. //] >>
+FCT[Ballade, Beischlaf, Schwangerschaft, Moral]
+CMT[Instrumentalstueck nach der Balladenmelodie.
+    Taktart entsprechend der Takteinteilung festgelegt.]

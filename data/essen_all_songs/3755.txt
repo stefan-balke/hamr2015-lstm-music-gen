@@ -1,0 +1,12 @@
+F[ERK3
+CUT[DRAUSSE IM GRUENE WALD]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz, Kaiserslautern,
+    Otternberg]
+KEY[E1027  08  F 3/8]
+MEL[  55+1  665
+    443  210
+    334  225
+    334  2_1
+    334  225
+    334  210 //] >>
+FCT[Tanz - Lied]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Mailied"
+    DER MAIEN ISCH KOMMEN]
+REG[Europa, Mitteleuropa, Schweiz; Elsass]
+KEY[Z1272  16  G 6/8]
+MEL[1_  3_5_4_3_1_2_  3_5_4_2__
+    1_  3_5_4_3_1_2_  3_542-71__
+    2_  3_5_4_2__12  3_5_4_2__
+    12  3_5_4_3_1_2_  3__2_1__
+    2_  3_5_4_2__12  3_5_4_2__
+    1_  3_5_4_3_1_2_  3__2_1__ //] >>
+FCT[Natur und Welt]

@@ -1,0 +1,13 @@
+F[ERK1
+CUT[GUT GSELL UND DU MUSST WANDERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0473  08  G 4/4]
+MEL[5_  5_3_4_5_  6_564_
+    6_  5_3_4_2_  34321_
+    3_  2_-7_1_-6_  -71-7-6-5_
+    3_  2_1_1_-7_  1__.
+    3_  4_234_3_  2_.12_
+    3_  4_2_2_.1#  2__.
+    21  -71-7-6-5_54  34321_
+    3_  2_1_1_-7_  1__. //] >>
+FCT[Liebes - Lied]

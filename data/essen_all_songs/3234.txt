@@ -1,0 +1,13 @@
+F[ERK2
+CUT[WO FEHLT ES DIR MEIN HERZ]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Willer]
+KEY[E0694  08  G 4/4]
+MEL[-5_  1_.2321-7  1__0_
+    5_  2_.1-7-6-5-4  -4_-3_0_
+    -5_  1_.2321-7  1__0_
+    5_  2_.1-7-6-5-4  -4_-3_0_
+    -5_  1_.-51321  -7__0_
+    -5_  1_.-51321  -7__0_
+    -5_  1_1_2_5_  4__.
+    6_  54323_2_  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

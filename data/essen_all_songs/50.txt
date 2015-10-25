@@ -1,0 +1,18 @@
+BOEHME
+CUT[DER HIMMEL UNSER HORT DIE FREIHEIT UNSER WORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0061  16  D 2/2]
+MEL[-1__  -3__.-3_-5__.-5_  1___0__
+    1_.-7  -6__-7_.-5#-6__-7_.-5#  -6___0__
+    -7_1_  2__.1_-7_.-6-5_.-4  -3___
+    -5___  -6__.2_1__-7__  1___0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[DER HIMMEL UNSER HORT DIE FREIHEIT UNSER WORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0061  16  D 2/2]
+MEL[-1__  -3__.-3_-5__.-5_  1___0__
+    1_.-7  -6__-7_.-5#-6__-7_.-5#  -6___0__
+    -7_1_  2__.1_-7_.-6-5_.-4  -3___
+    -5___  -6__.2_1__-7__  1___0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Schwester Giftmischerin
+    'O nimm mi', nimm mi', Knesei Jure,]
+CNR[o Knesei Jure!']
+REG[Suedosteuropa, Jugoslawien, Gottschee, Goettenitz]
+SRC[4, S. 162
+    1907 aufgezeichnet]
+KEY[Q0078  04  D 4/4]
+MEL[4  321-7  124_  2_.
+    3  -712_  1_. //] >>
+FCT[Ballade, Bruder - Mord, Betrug]
+CMT[Grundton in der zweigestrichenen Oktave.]

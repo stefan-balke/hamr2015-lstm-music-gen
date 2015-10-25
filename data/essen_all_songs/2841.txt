@@ -1,0 +1,11 @@
+F[ERK1
+CUT[JETZT GEH ICH ANS BRUENNELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau, Butzbach]
+KEY[E0203B 08  G 3/4]
+MEL[-5_  -5_3_2_  1_.-71_
+    2_3_5_  2__
+    -71  2_2_46  5_543_
+    443_2_  1__
+    -71  2_2_46  5_543_
+    443_2_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

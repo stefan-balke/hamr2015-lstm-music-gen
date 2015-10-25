@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Jungbrunnen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0133B 02  G 4/2]
+MEL[1  123b1  -7b_1
+    2  3b42_  1_0
+    1  123b1  -7b_1
+    2  3b42_  1_0
+    2  -7b-7b12  3b_4
+    3b  21-7b1  2_0
+    2  1121  -7b_1
+    2  3b43b2  1-71 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Praetorius Mus. Sion. VII No. 74 (1609)]

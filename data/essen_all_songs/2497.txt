@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES RITT EIN KOENIG WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0002A 08  G 3/4]
+MEL[-512  3b3b2_(111)  5_.
+    542  5_4_3b4  2_.
+    222  5_4453b  2_.
+    3b12  3b543b23b  1_0 //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

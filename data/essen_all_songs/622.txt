@@ -1,0 +1,7 @@
+ZUCCAL
+CUT[ADE MEIN SCHATZ ICH MUSS NUN FORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0206  16  G 3/4]
+MEL[-5_  1_-7_1_.231-71  2__0_
+    5_3_1_  3__5_3_2_1_  2__4_2_1_-7_  1__0__. //] >>
+FCT[Romanze, Abschieds - Lied]

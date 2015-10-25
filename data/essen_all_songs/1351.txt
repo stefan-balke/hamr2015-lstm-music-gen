@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Scheintod
+    Maria ist ein liechter Stern,]
+CNR[sie leucht von Himmel biss auff die Erdn.]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 120
+    1660 gedruckt]
+KEY[Q1058D 04  F 6/4]
+MEL[31_2  3_5312  3_
+    35_4  324352  1_ //] >>
+FCT[Marien - Lied, geistlich]
+CMT[Melodievergleich zu Q0058A, anderes Lied.]

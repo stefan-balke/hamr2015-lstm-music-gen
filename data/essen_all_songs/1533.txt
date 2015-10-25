@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt ein Jaeger wohl jagen]
+CNR[dreiviertel Stunde vor Tagen]
+REG[Mitteleuropa, Deutschland / Polen, Grenzmark Posen - Westpreussen,
+    Flatow, Dobrin]
+SRC[7, S. 218
+    1928 aufgezeichnet]
+KEY[Q0152O 08  C 4/4]
+MEL[5_  +1_+1_+1_76  6_5_5_
+    5_  6_6_6_54  4_3_3_
+    5_  +1_+1_+1_76  6_555_
+    5_  6_6_5_67  +1__. //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Anhaengsel an der dritten Zeile.]

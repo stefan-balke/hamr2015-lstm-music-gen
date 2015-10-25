@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Meierin Sohn
+    Heint an vreitogein Moaren]
+CNR[ischt Jeshisch ban gegoaishl.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[4, S. 248
+    ????]
+KEY[Q1083C 08  F 4/4]
+MEL[  4_3_223_  4_3_2_
+    1_  3_2_1_1_  2__1__ //] >>
+FCT[Karfreitags - Lied, geistlich]
+CMT[Melodievergleich zu Q0083, anderes Lied.]

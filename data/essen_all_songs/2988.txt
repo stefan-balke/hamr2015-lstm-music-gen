@@ -1,0 +1,12 @@
+F[ERK1
+CUT[MEIN FEINSLIEB IST VON FLANDERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0474  08  G 4/4]
+MEL[1_  1_1_2_3_  4__4_
+    32  1_4_4_3_  4__0_
+    1_  1_1_2_3_  4__4_
+    32  1_4_4_3_  4__0_
+    5_  6_543_.4  5_
+    5_5_5_  2_.34_
+    5_  3_1_1_-7_  1__0_ //] >>
+FCT[Liebes - Lied, Klage]

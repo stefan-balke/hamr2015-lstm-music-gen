@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Es ritten drei Reiter zum Tore hinaus, ade!]
+CNR[Feinsliebchen, das schaute zum Fenster hinaus, ade!]
+REG[Mitteleuropa, Deutschland]
+SRC[5, S. 160
+    1894 gedruckt in Leipzig]
+KEY[Q1103D 16  G 6/8]
+MEL[-5_  -5_1_1_1_2_3_  3_.22_2__5_  3__.0__
+    -5_  -5_1_1_1_2_3_  3_.22_2__5_  3__.0__
+    13  5_5_5_5_.65_  5_4_4_4__
+    4_  3_3_3_5_.43_  3_2_2_2__
+    5_  3__3_2__2_  1__.
+    5__.  3_.43_2_1_2_  1__.0__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0103A, anderes Lied.
+    Anhaengsel; fuenfte und sechste Zeile = Refrain.]

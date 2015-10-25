@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    ES het ein schwab ein toechterlin,]
+CNR[es wolt nit lenger dienen,]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 39
+    1535 gedruckt]
+KEY[Q0073  08  D FREI]
+MEL[5_  6b_6b_7b_7b_  +1_+1_5__
+    5_  +1__+1_+1__5_  +1__7b__
+    5_  6b_6b_5_5_  4_4_1__
+    1_  3b_.45_6b_  7b_.6b547b__6b5  4__3b___0__
+    5_.6b7b_7b_  4_3b_1_2_  1___ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]
+CMT[Letzte Zeile = Refrain.]

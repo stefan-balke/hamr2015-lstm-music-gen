@@ -1,0 +1,16 @@
+DVA
+CUT[Die Lumpenbauern
+    Die Lumpenbauern wollen uns nichts mehr ins Kloster 'neinbringen,]
+CNR[da wollen wir ihnen aber auch kein Vesper mehr singen]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0050  16  G FREI4/4]
+MEL[-4_1111111112_1_.-7b-7b_-6_-6_
+    -4_111111112_1_.-7b-7b_-6_-6_
+    -4_11111111
+    11112_1_.-7b-7b_-7b_-6__
+    1__  1_1_1__2__2__  3__.3_3__
+    2__  1_1_1__2_2_2__  3__.3_3__0__
+    5___3__1__  2__2__1__ //] >>
+FCT[Schwell - Lied, Scherz und Spott]
+CMT[Die Tonrepetitionen in der ersten Zeile werden "psalmodierend"
+    (Vortragsbezeichnung) vorgetragen, zweiter Teil metrisch gebunden]

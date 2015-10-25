@@ -1,0 +1,11 @@
+F[ERK1
+CUT[HOFFNUNG KOMM NUR BALD]
+REG[Europa, Mitteleuropa, Deutschland, Coburg]
+KEY[E0562  08  F 4/4]
+MEL[1_.2  3_3_2_2_  1_0_
+    3_.4  5_5_4_4_  3_0_
+    5_5_  6_654_46  5_0_
+    3_3_  4_442_2_  1_0_
+    5_5_  6_654_46  5_0_
+    3_3_  4_442_2_  1_0_ //] >>
+FCT[Liebes - Lied]

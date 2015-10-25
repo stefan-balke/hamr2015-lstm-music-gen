@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Der Abendgang
+    O das jch kunt von hertzen]
+CNR[singen ein tageweyss]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 183
+    1581 gedruckt in Prag]
+KEY[Q0019A 04  A FREI]
+MEL[1_  3b_3b4_4  5_5_
+    5_  7b_7b6b_4  5_4_0_
+    4_  5_55_7b  6b_5_0_
+    5_  4_3b5_3b  2_1_0_
+    5_  4_43b_1  23b4_
+    4_  4_44_5  6b_5_0_
+    5_  4_3b5_3b  2_1_ //] >>
+FCT[Ballade, Liebe, Trennung, Tod; geistlich]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.
+    Melodie: geistliche Kontrafaktur.]

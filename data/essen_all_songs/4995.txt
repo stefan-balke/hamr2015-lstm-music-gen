@@ -1,0 +1,10 @@
+BOEHME
+CUT[HERZ MIS HERZ WARUM SO TRURIG]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[B0530  16  G 6/8]
+MEL[  3b__3b_2__2_  1__2_-7__-5_
+    3b__3b_2__2_  1__2_-7__.
+    3__3_4__4_  4__653__1_
+    5__3_2__64  3__2_1__. //] >>
+FCT[Wander -, Heimat - Lied]
+CMT[modulierend]

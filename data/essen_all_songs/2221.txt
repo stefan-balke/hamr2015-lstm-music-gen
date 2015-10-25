@@ -1,0 +1,11 @@
+FINK
+CUT[DES MORGENS ZWISCHEN DREIN UND VIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0580  08  G 4/4]
+MEL[13  555+13_1_  6_5_0_
+    13  55556543  3_2_0_
+    13  5_.34345  3_0__
+    +16  5_.35432  1_0
+    15555  53421555  5342
+    +1+176  5_.35432  1_0__ //] >>
+FCT[Soldaten - Lied]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[STEH NUR AUF STEH NUR AUF]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1603  08  F 4/4]
+MEL[13  5_555_65  4_444_
+    54  3_.21654  4__3_
+    5_  6_.56_67  +17+175_0
+    4  3_.15342  2__1_ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

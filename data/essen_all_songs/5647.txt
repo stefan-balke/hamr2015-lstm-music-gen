@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Die Waescherin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0059  04  G 4/2 6/2]
+MEL[     1__1_1_  5_.45_3b_  2___
+    0_4_4_4_  5_.43_2_  1__0_
+    3b_  4_2_3b_4_  5_3b_2__  0__.
+    3b_  4_.3b2_1_  3b_4_5_3b_  2123b4_
+    5_  3b_.2111_  4__2_
+    2_  3b_4_567b6  5_4_.3b213b_2_  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus: 68 Lieder. Nuernberg von Berg und Newber c.1542 No.30.]

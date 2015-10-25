@@ -1,0 +1,7 @@
+F[ERK3
+CUT[WO BIST DU DENN GEWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Kreis, Dill - Kreis]
+KEY[E1732  16  G 3/8]
+MEL[1_  123_4_  5_3_4_  5_3_4_  5_0_
+    13  3_2_13  3_2_13  5_4_3_  2_0_ //] >>
+FCT[Scherz - Lied]

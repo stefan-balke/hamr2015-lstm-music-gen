@@ -1,0 +1,9 @@
+F[ERK3
+CUT[REGINE GIENG IN GARTE]
+REG[Europa, Mitteleuropa, Schweiz, Kanton Schaffhausen, Schleitheim]
+KEY[E2123  16 Ab 3/4 2/4]
+MEL[1__  -7__2__-7_-5_  1__3__
+    1__  -7__2__-7_-5-7  1__0__
+    1__  -7_-6_-5_-6_  -5__-4__  -3__
+    -5__  -6_-4_1__-7__  1___ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

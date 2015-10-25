@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WEIDET EIN SCHAEFER IM LANGEN HOLZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0043C 08  F 4/4]
+MEL[1  12345_67  +1_531_0_
+    6_.56543  2_.32_
+    34  5_5_6543  2_222_
+    53  2_222_53  2_222_0_
+    5_67+1_.4  3_2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

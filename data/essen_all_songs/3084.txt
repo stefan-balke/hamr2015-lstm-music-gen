@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ACH SCHOENSTER SCHATZ VERZEIH ES MIR]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.M.]
+KEY[E0559  08 Eb 6/8]
+MEL[5  5_31_3  5_31_
+    1  4_6+176  6_.5_
+    3  4_6654  3_554
+    3  2_5542  2_.1_
+    3  4_6654  3_554
+    3  2_5542  2_.1_ //] >>
+FCT[Liebes - Lied]

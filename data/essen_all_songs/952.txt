@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Hochzeitslied"
+    BIN ALBEN E WERTHI TOCHTER G'SI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1217  16  B 2/4]
+MEL[-5_  1_1-71_2_  3b_1_-7_
+    13b  4_3b_2_12  3b_2_1_
+    3b2  1_123b_1_  1-7-6b-7-5__
+    5__4__  3b__-7b__
+    3b_3b3b4_44  5_5_4_
+    3b4  5_3b_3b_23b  4_2_2_
+    42  3b_1_123b1  23b21-7_
+    -5_  1_.23b_.4  5456b5_
+    4_  3b213b3b21-7  1__0_ //] >>
+FCT[Liebes - Lied, Hochzeits - Lied]

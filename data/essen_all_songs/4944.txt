@@ -1,0 +1,13 @@
+DVA
+CUT[Muede kehrt ein Wanderer zurueck
+    nach seiner Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol, Schwaz]
+KEY[D1016  16  G 4/4]
+MEL[3_.2  1__.1_1_-7_1_3_  -5___0_
+    1_-7_1_  2__.1_-7_2_6_.5  3___0_
+    1_1_2_  3__.5_4_3_2_1_  -6___0_
+    1_-7_-6_  -5__.1_-7_.24_.3  1___0_
+    1_1_2_  3__.5_4_3_2_1_  -6___0_
+    1_-7_-6_  -5__.1_-7_.24_.3  1___0__//] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 188 520]

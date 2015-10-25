@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Meererin
+    Bie vrie ischt auf de Meerarin,]
+CNR[dai scheane, dai junge Meerarin.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[1, S. 35
+    1895 gedruckt in Graz]
+KEY[Q0004A 08  F 4/4]
+MEL[13  535_424_  31532_
+    4_  646_535_  424_3_ //] >>
+FCT[Ballade, Braut - Werbung, Entfuehrung]

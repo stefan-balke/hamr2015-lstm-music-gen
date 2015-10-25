@@ -1,0 +1,9 @@
+FINK
+CUT[KOMMT EIN VOGERL GEFLOGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1120  08  A 3/4]
+MEL[34  5_3_3_  3_2_
+    23  4_2_2_  3_0_
+    34  5_3_3_  3_2_
+    23  4_-7_-7_  1_0_ //] >>
+FCT[Liebes - Lied, Trennung, Heimweh]

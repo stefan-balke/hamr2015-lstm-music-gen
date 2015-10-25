@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Troestung"
+    GOR A WUNDERLIEBS DIENDL HAB I HEUT MOANA SEHN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z1198  08  A 3/4]
+MEL[1_  5_.43_  3_2_
+    2_  6_.54_  4_3_
+    3_  5_.43_  3_2_
+    2_  6_.54_  3__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Ich gehe zu Strassburg wohl ueber die Brueck',]
+CNR[wohl bis zu dem neuen Tore.]
+REG[Suedosteuropa, Jugoslawien, Slawonien]
+SRC[3, S. 62
+    ????]
+KEY[Q0055f 16  F 6/8]
+MEL[-5_  -5_1_1_1_2_3_  3_2_2_2__
+    -5_  1_3_5_5_4_3_  2__.1__
+    55  5__2_3__5_  5_4_3_2__
+    -5_  1_3_5_5_4_3_  2__.1__ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

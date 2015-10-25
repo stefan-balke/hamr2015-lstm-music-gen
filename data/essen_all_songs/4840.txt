@@ -1,0 +1,9 @@
+DVA
+CUT[Jodler]
+REG[Europa, Mitteleuropa, Schweiz, Kt. Wallis, Brigersberg]
+KEY[D0090  16  G 3/4]
+MEL[-5_-6_-7_  1__5__3__  +1__.6_5_3_  1__-7__5__  4__.
+    -5_-6_-7_  2_5_4_6_5_-75  1__6__5__  3___. //] >>
+FCT[Jodler]
+CMT[erste Zeile rhythmisch korrigiert
+    Notentext vollstaendig ??  Sonderzeichen in der Notation]

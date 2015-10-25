@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES GIENG EIN KNABE SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Merzhausen]
+KEY[E0197A 08 Eb 6/4]
+MEL[13  5_.65_3_2_1_  6__.5_0_
+    34  5_.65_4_2_5_  3___0_
+    13  5_.65_3_2_1_  6__.5_0_
+    34  5_.65_4_2_5_  3___0_
+    34  5_.65_4_2_5_  3___0_ //] >>
+FCT[erzaehlendes Volks - Lied, Tod, Toten - Sage, Grabesstimme]

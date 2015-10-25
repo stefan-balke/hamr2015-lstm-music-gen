@@ -1,0 +1,11 @@
+VARIANT
+CUT[Es geht nichts ueber die Gemuetlichkeit, eijo, bleib do]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Gleismuthhausen]
+KEY[V0002  32  C 2/4 3/4]
+MEL[-5__  1__1__1_.11_2_  3__3__3__5__  2___0__5__  1___0__
+    -5__  1__1__1__1_2_  3__3__3__5__  2___0__5__  1___0__
+    5_+1_  7____6___  5____4___  3___0__3__3___  0___
+    6___5___  4___0__3__4___  0___6___5___  3___0__2#__3___  0___
+    5___+1___  7____6___  5____4___  3___0__2#__3___  0____
+    5__5__  6___.6__6___  7___6___7___+1____.  ^___0___ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]

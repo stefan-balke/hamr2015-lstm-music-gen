@@ -1,0 +1,11 @@
+KINDER
+CUT[RINGEL RINGEL ROSENKRANZ]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K2068  08  F 2/4]
+MEL[  5566  553_
+    5566  553_
+    5566  5_30
+    5533  5533
+    5566  5533  0
+    555  +1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

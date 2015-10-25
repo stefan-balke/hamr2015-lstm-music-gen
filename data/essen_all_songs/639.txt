@@ -1,0 +1,11 @@
+ZUCCAL
+CUT['S KAM EIN JUNGER SCHLEIFER HER, SCHLIFF DIE MESSER UND DIE SCHEER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0223  16  F 4/4]
+MEL[    +1_7_+1_7_+1_5_5__  4_2_2_2_3_1_1__
+    3__2__3__2__  3_222_2_2__.
+    2_  3_2_2_2_3_2_2_22  3_1_1_223_1_1
+    234  5_5_123554321__
+    +17+1+1767765664__  4344525521221__ //] >>
+FCT[Scherenschleifer -, Handwerker - Lied]
+CMT[Takt 3,4,8,9 werden gepfiffen.]

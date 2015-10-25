@@ -1,0 +1,24 @@
+BOEHME
+CUT[PREISEND MIT VIEL SCHOENEN REDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0014  08  C 4/4]
+MEL[-5-5  1_1_-5_-5_  -3_-5-3-1_
+    11  -7_1_2_3_  254#32_
+    11  -7_.-72_.2  -5__0_
+    -5-5  4_.23_.1  322_0_
+    -5-5  4_.23_.1  322_0_
+    -5-5  1_1_2_2_  5_.31_
+    1-7  -64323_2_  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[PREISEND MIT VIEL SCHOENEN REDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0014  08  C 4/4]
+MEL[-5-5  1_1_-5_-5_  -3_-5-3-1_
+    11  -7_1_2_3_  254#32_
+    11  -7_.-72_.2  -5__0_
+    -5-5  4_.23_.1  322_0_
+    -5-5  4_.23_.1  322_0_
+    -5-5  1_1_2_2_  5_.31_
+    1-7  -64323_2_  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]

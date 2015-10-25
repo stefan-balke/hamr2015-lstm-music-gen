@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN MUELLER FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Bruchweiler; Schauren]
+KEY[E0058C 08  D 4/4]
+MEL[1_  1_3_5_3_  3_.22_
+    2_  2_6_5_4_  4_.33_
+    5_  5_5_3_1_  4_6_6_
+    +1_  7_6_5_3_  2__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

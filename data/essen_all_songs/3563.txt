@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Rache im Zweikampf
+    Derrier' chez nous il-y-a-t-un capitaine]
+REG[Mitteleuropa, franzoesische Schweiz, Jura]
+SRC[5, S. 105
+    1917 gedruckt in Bale und Lausanne]
+KEY[Q2097A 08  C 6/8]
+MEL[  +17+1+2+17  6765_5
+    +17+1+2+17  6765_
+    6  5_43_.  +1+2+3+4+5+2  +1+16
+    5_4  3_.+3+3+3  +2+17+1_. //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache]
+CMT[Schweizerische Fassung der Ballade.]

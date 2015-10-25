@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Der Schiffer"
+    WI D' WOLKERN AM HIMMEL]
+REG[Europa, Mitteleuropa, Steiermark]
+KEY[Z1197  16  G 3/4]
+MEL[-5__  3_-5_1__3__  5_6_5__
+    -5__  3_5_+1__3__  5___
+    5__  4_-5_-7_2_5_4_  3_5_1__
+    3__  2_-7_-5_4_3_2_  1___
+    565_  4_+2_+2__565_  3_+3_+3__
+    565_  5_+4_+2_7_5_7_  +1___ //] >>
+FCT[Liebes - Lied]
+CMT[Die letzten 4 Takte werden auf die Silbe 'la' gesungen.]

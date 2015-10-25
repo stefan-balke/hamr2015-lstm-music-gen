@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Heimkehr des Ehemannes
+    Es wohnt ein Mueller an jenem Teich,]
+CNR[ho, ho, ho,]
+REG[Mitteleuropa, Deutschland (BRD) , Nieder - Hessen]
+SRC[1, S. 106
+    1893 gedruckt in Hamburg]
+KEY[Q1011D 16  G 2/4]
+MEL[-5_  1_1_1_2_  1_-6_-5__
+    1__2__  3__0_
+    12  3_3_3_5_  5_432__
+    2_225_.4  32345_
+    12  3_3_3_5_  5_432__
+    2_225_.4  3__0_ //] >>
+FCT[Ballade, Schwank]
+CMT[Melodievergleich mit Q0012C : anderes Lied "Edelmann im Habersack" .
+    2. und 4. Zeile = Refrain auf sinnfreie Silben.]

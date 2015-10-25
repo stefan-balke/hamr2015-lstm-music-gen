@@ -1,0 +1,13 @@
+F[ERK1
+CUT[DEN SONNTAG DEN MONTAG IN ALLER FRUEH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0557  08  F 2/4]
+MEL[-5  1_12  3_3
+    3  2_2_  1_0
+    2  3234  5_5
+    5  4_4_  3_0
+    5  55+15  4_6
+    4  3_53  2_0
+    -5  1234  5+16
+    4  3_2_  1_0 //] >>
+FCT[Liebes - Lied, Abschied, Trennung]

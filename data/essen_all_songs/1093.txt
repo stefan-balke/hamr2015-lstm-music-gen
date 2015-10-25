@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Wiegenlied. "
+    HAIDL BUBAIDL IN GUADA RUA]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1359  08  G 3/4]
+MEL[  565432  1-71234  5__6_  5__.
+    565432  1-71234  5__6_  5__.
+    4__4_  4_5_6_  5_4_3_  2__.
+    565432  1-71234  3_2_1_  2__
+    32  1__3_  2__32  1__2_  1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

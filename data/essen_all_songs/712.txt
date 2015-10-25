@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ICH BIN SCHON OFT GESTIEGEN UEBER MANCHEN HOHEN SCHROTT]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0295  08  G 4/4]
+MEL[3_  5_5_5_4_  3__2_
+    33  4_3_2_3_  4__0_
+    3_  5_5_3453  4_2_1__
+    4_3_1_-7b_
+    -5_771_2_  4_2_3_31  -7b__0_
+    24  3_2_1_ //] >>
+FCT[Lyrisches Lied, Romanze, verlassene Liebe]

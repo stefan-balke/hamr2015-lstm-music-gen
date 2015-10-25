@@ -1,0 +1,9 @@
+BOEHME
+CUT[AN EINEM FLUSS DER RAUSCHEND SCHOSS]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Schlesien; Thueringen]
+KEY[B0647B 16  C 2/4]
+MEL[-5_  1_.121-7-6  -5_.-6-5_
+    -4_  -3-5-511_.-3  -3_-2_0_
+    1_  -7_.21_3_  21243_
+    -5_  (-643)2_3_2_  1__0_ //] >>
+FCT[Moral - Lied, Ballade]

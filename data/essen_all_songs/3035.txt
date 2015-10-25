@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ICH WOLLT EIN BAEUMLEIN STEIGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt; Schwalbach]
+KEY[E0527A 16  F 2/4]
+MEL[-5_  1_.23_4#_  5_5_5_
+    5_  6_7_+1_6_  5__0_
+    5_  5_4#_4#_4#_  4#_3_3_
+    3_  2_2_3_2_  1_3_5_
+    5_  5_4#_4#_4#_  4#_3_3_
+    3_  2_2_3_2_  1__0_ //] >>
+FCT[Liebes - Lied]

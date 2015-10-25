@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Heimkehr des Ehemannes
+    Bie vrie ischt auf der Pattlar aut,]
+CNR[sani, sani, daia!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Handlern]
+SRC[1, S. 98
+    1906 aufgezeichnet]
+KEY[Q0011B 08 Ab 2/4]
+MEL[1  5554  433_
+    5554  4__  3_.
+    1  3332  211_
+    3332  2__  1_. //] >>
+FCT[Ballade, Ehe, Heimkehr]
+CMT[2. und 4. Zeile = Refrain auf sinnfreie Silben.]

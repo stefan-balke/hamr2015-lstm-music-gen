@@ -1,0 +1,9 @@
+F[ERK1
+CUT[JETZT KOMMT DIE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau]
+KEY[E0537  08  G 4/4]
+MEL[-5_  1_1_3_21  -7_.12_
+    -5_  1_1_4_3_  2__0_
+    23  4_6_4_2_  3_5_3_
+    13  2_4_2_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

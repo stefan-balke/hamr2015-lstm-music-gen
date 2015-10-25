@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Erloesung vom Galgen
+    Es ritten drei Reiter zum kuehlen Wein,]
+CNR[es ritten drei Reiter zum kuehlen Wein,]
+REG[Mitteleuropa, Deutschland / Polen, Ober - Schlesien,
+    Waltdorf bei Neisse]
+SRC[1, S. 235
+    1844 aufgezeichnet]
+KEY[Q0022A 08  D 2/4]
+MEL[-5  1_12  3_21  321
+    -5  1_12  3_21  321
+    -5  11-71  2_1-7  1-5-3
+    -5  11-71  2_1-7  1-5-3 //] >>
+FCT[Spiel, Hinrichtung, Opfer, Rettung]
+CMT[Grundton in der zweigestrichenen Oktave.]

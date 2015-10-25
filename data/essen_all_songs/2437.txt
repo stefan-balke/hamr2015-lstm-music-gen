@@ -1,0 +1,13 @@
+FINK
+CUT[SCHLAF SCHWESTER SANFT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1075  16  C 3/8]
+MEL[7b6b  5__56b  7b_6b_5_  4_5_6b_  6b_5_
+    3b_  +1__+3b+1  7b_6b543b  2_6b_5_  5_4_
+    47b  7b__7_  7_+1_+2_  +2_+3b_+4+3b  +1#_+2_
+    7b_  7b_+1_+2b_  +1_+2_+3b_  3b_6b_2_  3b__
+    5_  +1__7b_  6b__6_  7b__6b_  5__
+    7b_  7b_5_+2b_  +2_+1_7b_  7b_+1_5_  6b__
+    6b_  4__4_  5_+1_5_  4__4_  5_+2_
+    4_  5_+1_7b_  6b_5_4_  3b_4_2_  1_0_ //] >>
+FCT[Trauer -, Bregraebnis -, Trost - Lied]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[IN EINEM KUEHLEN GRUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+KEY[B0453  08  F 6/8]
+MEL[-5  1_11-71  2_-7-5_
+    -5  1_1212  3__0
+    3  322234  5_.-6_
+    2  1_1212  3__0
+    3  322234  5_+164
+    2  1_13_2  1__0 //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[IN EINEM KUEHLEN GRUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+KEY[B0453  08  F 6/8]
+MEL[-5  1_11-71  2_-7-5_
+    -5  1_1212  3__0
+    3  322234  5_.-6_
+    2  1_1212  3__0
+    3  322234  5_+164
+    2  1_13_2  1__0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

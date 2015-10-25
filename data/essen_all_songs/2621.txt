@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES GIENG EIN MAEDCHEN GRASEN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.M., Darmstadt]
+KEY[E0071B 16  G 2/4]
+MEL[-5_  1_3_3_5_  1_3_3_
+    5_  5_4_4_3_  3__2_
+    13  5_6_5_42  1_3_3_
+    33  3_222_44  6_5_5_
+    13  5_6_5_42  1_3_3_
+    3_  2_2_5_54  3__. //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

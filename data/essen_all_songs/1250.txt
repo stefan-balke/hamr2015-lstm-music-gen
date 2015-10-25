@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Ein Schaefer trieb wohl oben aus]
+CNR[wohl ueber hundert Schafe,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
+SRC[2, S. 296
+    ????]
+KEY[Q0053L 08  F 4/4]
+MEL[1_  5_3_1_5_  6_6_5_0
+    5  +1_+1_7_5_  6_5_0_
+    6_  6_5_4_2_  5__3_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]

@@ -1,0 +1,9 @@
+BOEHME
+CUT[BEI EINEM WIRTHE WUNDERMILD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0522  08  G 4/4]
+MEL[-5  -5_-5_1_1_  3_.21_0
+    1  -6_-6_-7_-7_  1__-5_0
+    3  3_3_5_.3  3_234_0
+    2  2_2_3_1_  2__1_0 //] >>
+FCT[Wander - Lied]

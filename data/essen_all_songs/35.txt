@@ -1,0 +1,22 @@
+BOEHME
+CUT[AUF AUF IHR BRUEDER UND SEID STARK]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[B0044  08  D 4/4]
+MEL[5_  +1_.55432  1_1_1_.
+    3  25-7221-7-6  -5__0_
+    54  3_3_3_.5  54434_
+    43  2_2_2_.4  43323_.
+    5  +1_.54321  5__
+    7__  +1_.65432  1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[AUF AUF IHR BRUEDER UND SEID STARK]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[B0044  08  D 4/4]
+MEL[5_  +1_.55432  1_1_1_.
+    3  25-7221-7-6  -5__0_
+    54  3_3_3_.5  54434_
+    43  2_2_2_.4  43323_.
+    5  +1_.54321  5__
+    7__  +1_.65432  1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

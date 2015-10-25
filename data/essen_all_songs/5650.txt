@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Das Maedchen und die Hasel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0065  02  F 4/2]
+MEL[111  55+1+1  7_0
+    5  4321  5+1_7  6_5_  0
+    555  3366  5_0
+    5  6532  14_3  2_1_  0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie Zeile eins und zwei bei Schmeltzel 1544 Quodlibet 19 (vgl.
+    A0054, diese Angabe kann nicht stimmen!), Zeile drei und vier
+    von Boehme ergaenzt.]

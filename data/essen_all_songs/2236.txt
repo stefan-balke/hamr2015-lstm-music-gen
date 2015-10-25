@@ -1,0 +1,16 @@
+FINK
+CUT[LUSTIG IHR LEUTE SOLDATEN SIND DA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0612  08  C 3/4]
+MEL[  -5_.-3-5_  1_.2
+    3_  2_5_5_  1_3_
+    3_  2_5_-7_  1__0_
+    -5_.-3-5_  1_.2
+    3_  2_5_5_  1_3_
+    3_  2_5_-7_  1__0_
+    -5_-5_1_  -6_.-6-6_
+    -6_-7_1_  2_.32_
+    1-7-6-5-5_  1_.2
+    3_  2_5_5_  1_3_
+    3_  2_5_-7_  1__0_ //] >>
+FCT[Soldaten - Lied]

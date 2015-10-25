@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Wir kommen daher in der heiligsten Zeit]
+CNR[und gruessen die heilig' Dreifaltigkeit.]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+SRC[2, S. 237
+    1855 gedruckt in Leipzig]
+KEY[Q1049D 16  G 6/8]
+MEL[123_3_3_  1_2_3_5_.43_  2__
+    1_-7_.22_  2_3_4_3__2_  1__ //] >>
+FCT[Brauchtums - Lied, religioes]
+CMT[Melodievergleich zu Q0049 ff.; anderes Lied.]

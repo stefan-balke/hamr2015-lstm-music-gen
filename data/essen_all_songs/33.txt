@@ -1,0 +1,26 @@
+BOEHME
+CUT[WOHLAUF KAMERADEN AUFS PFERD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0042  08 Bb 4/4]
+MEL[-5_  1_111-5-3-1  -5_-5_-5_
+    12  3_234_33  3_2_0_
+    -5_  1_111-5-3-1  -5_-5_-5_
+    12  3_234_33  3_2_0_
+    -5-7  2_2_2_12  3_2_1_
+    13  5_-5_-5_-6-7  132-71_
+    -5-7  2_2_2_12  3_2_1_
+    13  5_-5_-5_-6-7  132-71_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[WOHLAUF KAMERADEN AUFS PFERD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0042  08 Bb 4/4]
+MEL[-5_  1_111-5-3-1  -5_-5_-5_
+    12  3_234_33  3_2_0_
+    -5_  1_111-5-3-1  -5_-5_-5_
+    12  3_234_33  3_2_0_
+    -5-7  2_2_2_12  3_2_1_
+    13  5_-5_-5_-6-7  132-71_
+    -5-7  2_2_2_12  3_2_1_
+    13  5_-5_-5_-6-7  132-71_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

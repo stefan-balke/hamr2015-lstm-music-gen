@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die alte Schwieger und die Schnur]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0235  04  F 4/4]
+MEL[1122  331_
+    2345  3_2_
+    -6-71_  -6-71_
+    21-71  -6_-5_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melch. Franck, Fasc. quodl. 1611 No. 3.]

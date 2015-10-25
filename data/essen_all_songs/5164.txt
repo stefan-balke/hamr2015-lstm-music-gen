@@ -1,0 +1,15 @@
+BOEHME
+CUT[IM JANUAR DA FUEHREN UNS DIE MAENNER AUF DAS EIS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0700  08  G 2/4]
+MEL[3  3-5-53  3-5-5
+    3  3343  2_0
+    2  21-7-6  322
+    2  21-7-6  -5_0
+    -5  -5-5-6-7  211
+    3  5542  5_.
+    5  54-64  43-5
+    3  3234  5_.
+    5  54-64  43-5
+    3  32-6-7  1_0 //] >>
+FCT[Scherz - Lied]

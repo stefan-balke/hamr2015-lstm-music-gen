@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Det voro tva aedla konungabarn,]
+CNR[de lofva'hvarannan sin tro;]
+REG[Nordeuropa, Schweden]
+SRC[1, S. 217
+    1814 gedruckt]
+KEY[Q2020I 08  G 6/8]
+MEL[1  23b123b1  23b45_
+    4  3b23b123b  1_.0_
+    5  56b543b2  3b_.2_
+    2  1_1-5-6-7  1_0_. //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Die"Elslein"-Melodie wird in direkten Zusammenhang zur Balladengruppe
+    gestellt.]

@@ -1,0 +1,14 @@
+F[ERK1
+CUT[DER SPERLING DER GIBT DER BRAUT DEN TRAURING]
+REG[Europa, Mitteleuropa, Deutschland, Danzig, Neuhof]
+KEY[E0163C 08  C 2/4]
+MEL[5  5_67  +1_3
+    6  5432  3_1
+    1  5_67  +1_3
+    6  5342  111
+    1  2_34#  5_5
+    5  +2+176  543
+    1  5566  77+1
+    6  5342  111 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

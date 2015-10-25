@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Unbestechliche
+    Es reyt ein ritter wolgemut,]
+CNR[er hat ein straussfeder auf seinen hut,]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 33
+    1535 gedruckt]
+KEY[Q0144A 08  G 4/4]
+MEL[1__  1_2_3b_1_  4__3b__  2__
+    2__  112_-7b_3b_  2_1_-7b_-6_  -5__
+    1__  -7b_-7b_1__  -7b12_3b_4_  ^_543b21_  2__
+    -7b__  3b_4_2__  1__ //] >>
+FCT[Ballade, Liebes - Handel]
+CMT[Rekonstruktion der fehlenden cf - Stimme aus einem dreistimmigen
+    Satz.]

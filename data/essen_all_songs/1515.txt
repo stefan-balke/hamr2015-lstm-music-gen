@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Jaeger im Tannenholz
+    Es wollt ein Jaeger jagen,]
+CNR[wollt in den gruenen Wald,]
+REG[Suedosteuropa, Jugoslawien, Batschka, Vinkovci, Neudorf]
+SRC[7, S. 171
+    1938 aufgezeichnet]
+KEY[Q0151C 16  C 6/8]
+MEL[3_  3__3_4__3_  3__.2__
+    6_  6__5_2_3_4_  3__.0__
+    33  1_3_5_+1__+2_  +1__6_7__
+    6_  5_5_2_4__3_  1__.0__
+    33  1_3_5_+1__+2_  +1__6_7__
+    6_  5_5_2_4__3_  1__.0__ //] >>
+FCT[Ballade, abgewiesener Freier, Abschied]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[O HIMMEL WIE LANG SOLL ICH NOCH TRAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E0544  16  F 6/8]
+MEL[-5_  1_.-71_2_1_2_  3__5_4__.
+    3_.43_2_1_2_  1__.0__.
+    3_1_5_2_.1-7_
+    1_-6_2_-7_.-6-5_
+    1_.-71_2_.12_  3__5_4__.
+    3_.43_2_.12_  1__.0__ //] >>
+FCT[Liebes - Lied]

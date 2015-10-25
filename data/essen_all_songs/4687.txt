@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Marienlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0603  02  C 6/2]
+MEL[+1  6_67_7  +1_.+1_
+    +1  +2_+1+1_7  6_.5_
+    5  5_67_7  +1_.+1_
+    +1  +1_55_4  3_.0_
+    3  3_35_5  3_.1_
+    1  5_56_7  +1_+3+2_
+    +2  +1_+16_7  +1_.0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Maizer Cantual 1605 S. 189.]

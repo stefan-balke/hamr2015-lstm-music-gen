@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Muellerin"
+    EI ALLERLIEBSTES SCHATZERL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1224  16  G 3/8]
+MEL[-5_  1_1_12  3_3_3_  2_3_4_  3_
+    3_3_  2_3_4_  3_3_3_  2_2_2_  2_1_
+    1_  1_-7_-7_  1_3_3_
+    3_2_2_  2_1_1_  1_-7_-7_  1__ //] >>
+FCT[Liebes - Lied]

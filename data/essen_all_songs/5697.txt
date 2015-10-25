@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Liebeshoffnung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0128B 02  F 4/2 6/2]
+MEL[1  1321  -7_-6_
+    3_  42_32_  1_.
+    1  1321  -7_-6_
+    3_  42_32_  1_.
+    1  3344  5_2_
+    5_  3_32_1  -7_-6_3_  42_32_  1_. //] >>
+FCT[Romanze, Ballade, Lied]

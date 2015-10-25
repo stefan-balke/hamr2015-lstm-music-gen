@@ -1,0 +1,10 @@
+F[ERK1
+CUT[FALL HEREIN FALL HEREIN DU KUEHLER TAU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0447A 16  A 2/4]
+MEL[  1_-6_-6__  1_-6_-6__
+    1__2_.1  -6__0_
+    12  1_-7b_-5_-7b_  -6__0_
+    -6_  -5_-5_-511_  1_3_3_
+    3_  2_2_542_  1__0__ //] >>
+FCT[Liebes - Lied]

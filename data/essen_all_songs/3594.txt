@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Es wollt' sich ein Juengling vermaehlen,]
+CNR[bei der Jugend wollt' er nehmen ein Weib.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[5, S. 144
+    1939 gedruckt in Kassel]
+KEY[Q0102D 16  G 6/8]
+MEL[1_  -3_-5_1_-3_-5_3_  3_.23_2__
+    22  -5_-7_423_3_2_  1__.0__
+    -5_  4_4_2_-5_-7_2_  1_3_5_5_4_
+    33  2_2_465_5_4_  3__.0__ //] >>
+FCT[Ballade, Ehe - Geloebnis, Betrug]

@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der Abendgang
+    Es wonet lieb bey liebe]
+CNR[darzu gross hertzeleyd:]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 179
+    1538 gedruckt in Nuernberg]
+KEY[Q0019  16  A FREI]
+MEL[1__  3b__3b__4__4__  5___5___0__
+    5__  7b__7b__6b__6b__  5___4___0__
+    4__  5__5__5__5__  6b___5___0__
+    5__  4__3b__4_5__43b  2___1___0__
+    5__  4__2__3b__1__  2__1__-7b___0__
+    4__  4__4__4__5__  6b___5___0__
+    5__  4__3b__4_5__43b  2___1___ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.]

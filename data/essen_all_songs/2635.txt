@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ICH FUHR EINSTMALS AUF STILLER SEE]
+REG[Europa, Mitteleuropa, Deutschland, Odenwald]
+KEY[E0079  08  F 4/4]
+MEL[132  21_65_.4  4_3_0_
+    34  5_.36543  322_2_
+    13  5_5_5+1_6  655_5_4
+    3  4_4_4654  3_5_5_
+    13  5_5_5+1_6  655_5_4
+    3  4_4_4654  3_5_5 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

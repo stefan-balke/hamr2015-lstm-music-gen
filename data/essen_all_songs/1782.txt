@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Sangeslohn
+    Gegruest seyst du Maria rein,]
+CNR[die du aus Gottes Gnad allein,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 60
+    1666 gedruckt in Erfurt]
+KEY[Q0124A 02  D FREI]
+MEL[1_3b45+17b65
+    57b_53b_5443b
+    45_51_3b21-7b
+    24_3b2_11-7b_1__ //] >>
+FCT[geistlich]
+CMT[Tonangabe zur Ballade "Sangeslohn" - moegliche Melodie (??) .]

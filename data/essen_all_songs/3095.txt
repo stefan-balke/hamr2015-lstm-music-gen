@@ -1,0 +1,11 @@
+F[ERK1
+CUT[VON DIR GESCHIEDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0567  08  F 4/4]
+MEL[-513  5_5_05+1+2  +1_7_0
+    443  277_0654  3__0
+    1+17  7_6_06+16  5__0
+    543  266_0654  3__0
+    1+17  7_6_06+16  5__0
+    543  266_0654  3__0 //] >>
+FCT[Liebes - Lied, Trost]

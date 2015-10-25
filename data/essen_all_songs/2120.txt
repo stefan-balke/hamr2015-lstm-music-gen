@@ -1,0 +1,13 @@
+FINK
+CUT[DER ALTE GOTT LEBT NOCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0409  08  C 4/4]
+MEL[1_  -6_2_1_-7_  1__0_
+    2_  3_3_3543  2321-7_
+    23  4_4_3_3_  4__
+    5_.4  3_3_2_1_  -71-7-6-5_
+    -5_  1_.12_.2  3__0_
+    -5_  1_.12_.2  3__0_
+    3_  4_3_2_3_  4__
+    3_1_  -6__2__  1__-7__  1__. //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

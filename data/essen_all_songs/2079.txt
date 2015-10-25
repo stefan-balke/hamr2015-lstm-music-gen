@@ -1,0 +1,12 @@
+FINK
+CUT[DIE DUNKELN SCHATTEN FLIEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0339  04  A 4/4 3/4]
+MEL[-5  1234  530
+    5  6543  2_0
+    -5  1234  530
+    5  5432  1_0_
+    111  4_4  545  6_
+    1  166  543  234  3_
+    3  5_3  543  232  1_0 //] >>
+FCT[Jugend - Lied, Tageszeiten, Morgen, religioes]

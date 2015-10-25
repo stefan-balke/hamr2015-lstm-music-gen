@@ -1,0 +1,20 @@
+BOEHME
+CUT[ZU KINDELSBERG AUF DEM HOHEN SCHLOSS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0141  16 Bb 6/8]
+MEL[-5_  1_-5_1_3_1_3_  5__4_3__
+    4_  3_.21_2_.12_  3__.1__
+    -5_  -5_.-3-6-5-5_.-3-6-5  -6__-7_1__
+    3_  2_.1-7-6-5_-4_-3_  -4__.-3__
+    1_  2__1_2_.12_  3__.1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ZU KINDELSBERG AUF DEM HOHEN SCHLOSS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0141  16 Bb 6/8]
+MEL[-5_  1_-5_1_3_1_3_  5__4_3__
+    4_  3_.21_2_.12_  3__.1__
+    -5_  -5_.-3-6-5-5_.-3-6-5  -6__-7_1__
+    3_  2_.1-7-6-5_-4_-3_  -4__.-3__
+    1_  2__1_2_.12_  3__.1__ //] >>
+FCT[Ballade, Romanze]

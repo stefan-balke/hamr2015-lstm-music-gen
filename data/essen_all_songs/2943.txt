@@ -1,0 +1,10 @@
+F[ERK1
+CUT[NU UP JI RUTERS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0408A 16  G 6/8]
+MEL[1_  1__5_5__4_  5__3b_2__
+    2_  4__4_4_3b_2_  3b_3b_2_1__
+    1_  1_3b_3b_3b_2_1_  2__.-5__0_
+    3b__3b_3b__3b_  2_.44_4__
+    2_  3b_5_5_5_4_3b_  2__.1__ //] >>
+FCT[Liebes - Lied]

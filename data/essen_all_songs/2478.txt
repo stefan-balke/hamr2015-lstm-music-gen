@@ -1,0 +1,17 @@
+VARIANT
+CUT[Der Buechabecher Boder, der hot a sammats Kaeppl auf]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Buechenbach]
+KEY[V0005A 16  C 2/4]
+MEL[5_  5_+1_7_6_  5__3_
+    3_  5_4_4_4_  6_5_5_
+    5_  5_+1+17_6_  5__3_
+    3_  5_4_3_2_  1__0_
+    3_  2_.23_.3  4_.43_.
+    3  2_.23_.3  4__0_
+    5_  5_.55_.5  5__0_
+    5_  5_4_3_2_  1__0_
+    5_  5_+1_7_6_  5__3_
+    3_  5_4_4_4_  6_5_5_
+    5_  5_+1+17_6_  5__3_
+    3_  5_4_3_2_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Scherz]

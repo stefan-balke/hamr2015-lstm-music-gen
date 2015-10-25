@@ -1,0 +1,11 @@
+F[ERK1
+CUT[GESTERN ABEND IN DER STILLEN RUH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[E0522D 16  A 4/4]
+MEL[-5_-5_  1__.1_1_3_5_3_  3_.42__0__
+    2_3_  4_.44_4_3_2_3_.2  2_.31__0__
+    1_2_  3_.13_.13__4_3_  2_.-72_.-72__
+    2_4_  3_1_1_123_
+    1_2_.-7  2_.31__0__ //] >>
+FCT[Liebes - Lied]
+CMT[+++ Zeile 264 (+Auftakt 265) "gefhlsm„áig" auf 4/4 getrimmt! ++++]

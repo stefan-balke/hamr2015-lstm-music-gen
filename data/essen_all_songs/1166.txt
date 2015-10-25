@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Und als ich auf gruen' Heide kam,]
+CNR[so weit ins fremde Land,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+SRC[2, S. 132
+    18?? aufgezeichnet (Ende d. Jh.)]
+KEY[Q0042D 16  A 2/4]
+MEL[-7b  -7b_.3b3b_1_  1_.-7b-7b_0
+    -7b  3b_.3b4_.4  4__5_0
+    3b  2_.12_3b_  4__5__
+    1_.23b_1_  2_-5_-5_
+    3b_  2_.12_3b_  4__5_0
+    4  3b_1_2_-7_  1__0_. //] >>
+FCT[Ballade, Braut - Werbung, Betrug; tragisch
+    Vierte Zeile = Refrain.]

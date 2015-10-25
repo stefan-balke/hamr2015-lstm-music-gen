@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Versuchung"
+    DES MORGENS IN DER KUEHLEN ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1278  08  G 6/8]
+MEL[1  1_53_1  2123_
+    5  4_32_.  1_0_.
+    3  444332  3_4#5_
+    4  3_21_5  6_54_
+    3  2222_3  1_0_. //] >>
+FCT[Natur und Welt]

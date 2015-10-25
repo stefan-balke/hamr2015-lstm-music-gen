@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es waren mal drei Gesellen, -sellen,]
+CNR[die taeten sich was erzaehlen, -zaehlen.]
+REG[Mitteleuropa, Oesterreich / Italien, Sued - Tirol, Bez. Sterzing,
+    Ratschings]
+SRC[6, S. 279
+    1941 aufgezeichnet]
+KEY[Q0139I 08  G 2/4]
+MEL[-5_  1_-7-6  -5_3_  2_1_  5_3_  0_
+    -5_  1_-7-6  -5_3_  2_1_  5_3_  0_
+    5_  3333  3_.5  6543  2_.
+    2  2222  5_.4  3322  1_
+    5_  3333  3_.5  6543  2_.
+    2  2222  5_.4  3322  1_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Anhaengsel an Zeile 1 und 2.]

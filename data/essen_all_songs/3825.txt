@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ZEUCH FAHLE ZEUCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1140  04  C 4/4]
+MEL[  5_34#  5_0_
+    5_34#  5_0_
+    3454  321_
+    3454  321_
+    1_22  1_0_
+    3_22  1__ //] >>
+FCT[Trink -, Zech - Lied]

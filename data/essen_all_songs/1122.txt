@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Herr und Schildknecht
+    Es reit' aus ein Herr und aus ein Knecht,]
+CNR[es reit' aus ein Herr und aus ein Knecht,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach,
+    Hilsprich]
+SRC[2, S. 23
+    1936 aufgezeichnet]
+KEY[Q0034C 08  G 4/4]
+MEL[-5-5  1_-5_123_  2_1_2_
+    -5-5  3_1_3_5_  4_3_2_
+    5_  432_123_  2_2_1_ //] >>
+FCT[Ballade, Tod, Unfall, Herr und Knecht]

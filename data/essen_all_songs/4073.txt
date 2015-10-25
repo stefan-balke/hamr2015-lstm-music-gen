@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ICH BIN NUR EIN MATROSE]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[E1506  16  G 2/4]
+MEL[-5_  1_.11_12  1__1_
+    12  3_3_3_34  3__0_
+    2_  1_2_3_4_  5__4_
+    3_  3_2_2_2_  2__.
+    -5_  4_4_4_4_  6__5_
+    4_  3_3_3_3_  5__4_
+    3_  -6_-6_-6_-6_  2__4_
+    2_  1_1_-7_-7_  1__0_ //] >>
+FCT[Staende -, Seemanns - Lied]

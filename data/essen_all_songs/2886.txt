@@ -1,0 +1,11 @@
+F[ERK1
+CUT[IM BOEHMERLAND BEI PRAG]
+REG[Europa, Mitteleuropa, Deutschland, Neumark, Lippehne]
+KEY[E0329  16 Bb 2/4]
+MEL[-5_  1_.23232  1__0_
+    12  3_3_3_23  4_312_
+    -71  22222212  3__0_
+    12  3_333_4_  5_432_
+    23  4_332_-71  2_-7-6-5_
+    13  5_.13_2-7  1__0_ //] >>
+FCT[historisches Lied, Siebenjaehriger Krieg (1757)]

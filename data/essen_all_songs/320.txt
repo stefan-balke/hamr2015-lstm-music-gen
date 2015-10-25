@@ -1,0 +1,16 @@
+BOEHME
+CUT[ANKE VON THARAU OESS DE MY GEFOELLT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0376B 04  C 3/2]
+MEL[  5_5_2_  3_3_2_  1_123_  2__^_
+    5_5_2_  3_3_2_  1_123_  2__^_
+    3_3_4_  5_5_4_  3_2123  1__^_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ANKE VON THARAU OESS DE MY GEFOELLT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0376B 04  C 3/2]
+MEL[  5_5_2_  3_3_2_  1_123_  2__^_
+    5_5_2_  3_3_2_  1_123_  2__^_
+    3_3_4_  5_5_4_  3_2123  1__^_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

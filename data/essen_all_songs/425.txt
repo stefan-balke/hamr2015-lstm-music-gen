@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[DA HANSELYN UEBER DIE HAIDE RITT]
+REG[Europa, Mitteleuropa, Deutschland; Niederlande]
+KEY[Z0011  16  C 3/4]
+MEL[3__  5__.5_5__  5__.5_5__  5___5__  6___
+    6__  +1___+1__  7__6___  5__.4_4_32  3___
+    3__  6__6__6__  6___6__  5___3__  ^__1___  0___
+    1_1_  5___3__  4__5__6__  5___+1__  7__.6_5_4_  3___ //] >>
+FCT[Sagen - Lied, Romanze]

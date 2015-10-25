@@ -1,0 +1,11 @@
+F[ERK3
+CUT[AUF AUF IHR BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Marburg]
+KEY[E1329  08 Bb 4/4]
+MEL[-5_  1_1_1122  3_333_
+    13  5_5_6543  5_2_0_
+    23  4_6_6_54  3_5_5_
+    33  2_446_54  33221_
+    23  4_6_6_54  3_5_5_
+    33  2_446_54  33221_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

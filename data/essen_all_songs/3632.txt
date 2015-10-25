@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    ohne Text]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Buehel]
+SRC[5, S. 207
+    1906 aufgezeichnet]
+KEY[Q0107F 08  G 3/4]
+MEL[12  3_2_1_  2_3_23  4_4_3_  2__
+    12  3_2_12  3__12  3_3_2_  1__ //] >>
+FCT[Ballade, Tod]

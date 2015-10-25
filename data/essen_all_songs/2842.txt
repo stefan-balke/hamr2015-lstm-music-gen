@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH GIENG ZUM KUEHLEN WEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0203C 08  G 3/4]
+MEL[  -5_1_24  3_.21
+    1  234353  2__0_
+    135_.4  32543
+    2  543_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

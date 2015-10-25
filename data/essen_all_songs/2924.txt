@@ -1,0 +1,11 @@
+F[ERK1
+CUT[BEI WATERLOO STAND EINE EICHE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0358C 16  F 4/4]
+MEL[-5__  3__.3_2_2_3_2_  1__5__3_
+    3_2_3_  5__.4_3_.35_.3  2___0__
+    1_3_  5__.3_5_.35_.+1  6__6__0_
+    5_4_3_  2__.3_4_.65_.4  4__3__0__
+    1_3_  5__.3_5_.35_.+1  6__6__0_
+    5_4_3_  2__.3_4_.65_.4  4__3__0__ //] >>
+FCT[historisches Lied, Krieg gegen Napoleon (1815)]

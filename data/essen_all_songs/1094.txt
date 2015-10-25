@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Knab auf dem Berge"
+    DORT OBN AUFM BERGERL]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1360  16  G 3/8]
+MEL[5_  5_4_3_  4_5_6_  5__
+    5_  5_.43_  2_3_4_  3__
+    5_  5_.43_  4_5_6_  5__
+    5_  5_.43_  2_3_4_  3__
+    5_  5_.43_  4_5_6_  5__
+    5_  5_4_3_  2_3_2_  1__ //] >>
+FCT[Kinder - Lied]

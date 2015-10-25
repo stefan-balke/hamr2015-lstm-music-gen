@@ -1,0 +1,13 @@
+F[ERK3
+CUT[MARIA VON RETZBACH]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E2078  08  G 3/4]
+MEL[-5_  1_1_2_  233_
+    46  5_3_2_  1__
+    -5_  1_1_2_  233_
+    46  5_3_2_  1__
+    34  5_3_56  543_
+    24  3_1_35  2__
+    -5_  1_1_2_  233_
+    46  5_3_2_  1__ //] >>
+FCT[geistlich, Marien - Lied]

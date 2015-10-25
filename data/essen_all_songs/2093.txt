@@ -1,0 +1,9 @@
+FINK
+CUT[DER MEERESFLUTH MIT PURPURGLUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0355  04  G 6/4]
+MEL[-5  1_23_2  4_32_
+    2  34#56+14  5_0_.
+    -5  2_34_2  5_43_
+    6  5+13542  1_0_. //] >>
+FCT[Jugend - Lied, Tageszeiten, Morgen]

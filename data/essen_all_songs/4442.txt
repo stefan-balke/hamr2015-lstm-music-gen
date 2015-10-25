@@ -1,0 +1,9 @@
+F[ERK3
+CUT[BEGRABT DEN LEIB IN SEINE GRUFT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2168  04  F 4/4]
+MEL[1  21-71  231
+    1  2343  123
+    1  2232  1-7-6
+    2  321-6  121 //] >>
+FCT[geistlich, Moral - Lied, Tod; Choral]

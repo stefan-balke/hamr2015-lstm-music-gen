@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ALL MEIN GEDANKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1646  08  F 4/4]
+MEL[1_  1_1_3_3_  6_6_5_.
+    5  3__2__  1__0_
+    1_  1_1_3_3_  6_6_5_.
+    5  3__2__  1__0__
+    -7__1_.1  3_3_2_2_  -6__-5__
+    3_2_3_4_  5_6_5_
+    4_  3_1_-7_-6_  3__2__  1__0_ //] >>
+FCT[Staende -, Hofe -, Ritter - Lied, Liebe]

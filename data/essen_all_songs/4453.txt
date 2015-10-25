@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Das Dollerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0374B 04  D 4/4]
+MEL[6  6543b  2_23b  4564  3b_0
+    6  6543b  2_23b  4564  3b_0
+    3b  3b23b4  5_53b  3b3b22  1_0
+    5  5556  5_3b3b  5564  3b_53b  3b12-7b  -6_0 //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Werlins Hs. 1646 S. 2946.]

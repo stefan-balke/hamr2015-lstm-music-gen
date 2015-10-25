@@ -1,0 +1,12 @@
+F[ERK3
+CUT[SO TRINKEN WIR ALLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1123  08  F 4/4]
+MEL[1_  3_3_4__  5__3__
+    4_4_5_43  2__1_0_
+    4_4_4_2_  3_3_3_
+    1_  2_1_4_3_  2__1_0_
+    4_4_4_2_  3_3_3_
+    1_  2_1_4_3_  2__1_
+    1_  1__-5_.1  1__-5_.1  1__-5_ //] >>
+FCT[Trink -, Zech - Lied]

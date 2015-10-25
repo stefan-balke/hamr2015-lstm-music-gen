@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Wehrmannslied"
+    LIEBE SONNE DU GEHST UNTER]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z0178  16  G 2/4]
+MEL[-5-5  1_.11_1_  1_-7_-7__  0__
+    2_3_  4_-5_-5_-7_  1__0_
+    -5-5  1_.11_1_  1_-7_-7__  0__
+    2_3_  4_-5_-5_-7_  1__0_
+    1_  1_3_5_3_  3_1_1-6-6_
+    4_3_2_1_  -7-7-6_-5__  0__
+    -5_-4_  -3_-5_1_3_  5__4_
+    2_  3_3_3_2_  1__0_ //] >>
+FCT[Soldaten -, Jaeger - Lied]

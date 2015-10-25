@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Wanderlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0260  04  F 4/2 6/2]
+MEL[1_  1_5_3_1_  2__3_
+    3_  6__5_5_  4_3_2__  1__0_
+    1_  1_5_3_1_  2__3_
+    3_  6__5_5_  4_3_2__  1__0_
+    1_  3_3_1_1_  2__1_
+    5_  3__5_4__3_  2__0_
+    5_  5_5_5_5__4_  3_212__  1__0__
+    0_1_1_2_  4_3_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 18.]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das mannstolle Maedchen
+    Mir ist ein junges Knaeblein]
+CNR[gefalln in meinen sinn,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 92
+    1615 gedruckt; Satz: Melchior Franck]
+KEY[Q0126C 08  G 2/4]
+MEL[2  2255  4_2
+    4  3233  2_0
+    2  3554#  5_
+    35  4321  321_  0_. //] >>
+FCT[Ballade, Werbung, Betrug]
+CMT[Rekonstruktion der Balladenmelodie aus einem mehrstimmigen Satz von
+    Melchior Franck. Schlusspause ergaenzt.]

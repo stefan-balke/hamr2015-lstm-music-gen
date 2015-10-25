@@ -1,0 +1,8 @@
+F[ERK3
+CUT[WIR WOLLEN ALLE FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1976  04  F 3/4]
+MEL[1  1_3  5_5  534  5_
+    7  +1_6  +1_5  564  3_
+    1  2_2  2_3  12_  1_.  0_ //] >>
+FCT[geistlich, Fest - Lied, Ostern]

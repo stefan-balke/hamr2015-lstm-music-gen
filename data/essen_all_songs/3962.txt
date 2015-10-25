@@ -1,0 +1,13 @@
+F[ERK3
+CUT[LEBT WOHL WIR MUESSEN ABSCHIED NEHMEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillkreis, Ober- Lahnkreis]
+KEY[E1378  16  D 4/4]
+MEL[1_1_34  5__.3_+1_.76_.5  5_4_4__0_
+    4_2_3_  4__.4_4_6_5_4_  3___0_
+    1_1_34  5__.3_+1_.76_.5  5_4_4__0_
+    4_2_3_  4__.4_4_6_5_4_  3___0_
+    5_6_5_  2__.1_-7_2_6_54  3__0__.
+    5_6_5_  2__.1_-7_2_6_54  3__0__.
+    1_1_34  5__.5_5_+1_+3_+1_  +1__6__0_
+    +1_7_6_  5__.5_6_5_4_5_  3___0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

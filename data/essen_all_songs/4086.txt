@@ -1,0 +1,15 @@
+F[ERK3
+CUT[ES GIENG EIN WOLGEZOGNER KNECHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1540  04  A 6/4]
+MEL[1  1_11_2  3b_3b3b_
+    3b  1113b_3b  1_.-7b_
+    1  1_11_2  3b_3b3b_
+    3b  1113b_3b  1_.-7b_
+    -7b  3b_45_5  5_55_
+    5  5_55_5  2_.4_
+    4  3b_12_1  1_-71_
+    -7b  3b_45_5  5_55_
+    5  5_55_5  2_.4_
+    4  3b_12_1  1_-71_ //] >>
+FCT[Staende -, Bauern - Lied]

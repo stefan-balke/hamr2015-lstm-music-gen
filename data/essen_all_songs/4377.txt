@@ -1,0 +1,8 @@
+F[ERK3
+CUT[IM HIMMEL IM HIMMEL SIND FREUDEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Oranienburg]
+KEY[E2034A 08  F 3/4]
+MEL[-5_  1_-7_1_  2_1_3_  4_4_3_  2__
+    13  5_5_6_  5_5_4_  3_3_2_  1__
+    13  5_5_6_  5_5_4_  3_3_2_  1__ //] >>
+FCT[geistlich, Wallfahrts - Lied]

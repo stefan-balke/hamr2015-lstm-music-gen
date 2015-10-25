@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Guter Rath fuer Liebesleute]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0163  08  G 4/2]
+MEL[1__1__1__  5___+1___  7b__6__4___  0__
+    4__7b__5__  6___5___  +1__.7b_6__5__  6___5___  0__
+    +1__7b__6__  7b___5__5__  4__3b__2___  0__
+    1__3b__2__  3b__7b__5__.43b  4__.3b_2__1__  2___1___  0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Oeglin 1512 No. 3.]

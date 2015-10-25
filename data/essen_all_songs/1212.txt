@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Bie vrie ischt auf Mogreatizle,]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Niedermoesel]
+SRC[2, S. 238
+    1938 aufgezeichnet]
+KEY[Q0049H 08  G 3/2]
+MEL[-5_1_2_  3__.2_1_-7-6  -5__.
+    -5_-6_-7_  1__.3_-7_2_  1__0_ //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]

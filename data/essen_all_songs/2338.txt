@@ -1,0 +1,11 @@
+FINK
+CUT[ES KAMEN DREI SCHNEIDER WOHL AN DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0852  16 Bb 6/8]
+MEL[-5_  -5_-3_-5_1_.11_  1_.-71_2__
+    2_  3_3_2_3_3_2_  1_.23_2__
+    -5-7  2__.0__-2_  -5__.0__
+    -5_  3_.21_1_-7_-6_  -5__-4_-3__
+    -5_  1_.11_1_1_1_  2_1_2_3__
+    46  5__.0__-72  1__.0__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Spott]

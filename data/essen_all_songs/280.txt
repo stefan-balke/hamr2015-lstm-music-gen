@@ -1,0 +1,18 @@
+BOEHME
+CUT[DIES BRUEDER IST DER KOENIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0332  16 Eb 2/4]
+MEL[12  3_234_34  5_5__
+    45  6_567_67  +1__0_
+    76  5_5_5_65  4_4__
+    34  3_432_32  1__0_ //] >>
+FCT[Trink -, Kaiser - Lied]
+BOEHME
+CUT[DIES BRUEDER IST DER KOENIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0332  16 Eb 2/4]
+MEL[12  3_234_34  5_5__
+    45  6_567_67  +1__0_
+    76  5_5_5_65  4_4__
+    34  3_432_32  1__0_ //] >>
+FCT[Trink -, Kaiser - Lied]

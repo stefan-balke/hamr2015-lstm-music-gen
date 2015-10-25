@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Ein Wirtsmann hatte einen Sohn,]
+CNR[er musste ihn aufs Handwerk tun,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[4, S. 312
+    1918 gedruckt (in Glatz ?)]
+KEY[Q0085f 16  G 3/4]
+MEL[-5__  1_-5_1__2__  3_2_1__.
+    3_  3_3_5__4__  3_3_2__
+    2__  3_543_2_3__  2__1__
+    2__  3_543_2_3__  2__1__ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

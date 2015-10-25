@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[EIN JAEGER AUS KURPFALZ]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben; Rheinland; Oberpfalz]
+KEY[Z0179  16  G 2/4]
+MEL[-5_  -5_3_3_3_  3__.
+    5_  5_4_4_3_  3_2_2_
+    1_  -7_2_2_2_  2__.
+    54  3_3_2_2_  1__0__
+    5__.4_  3__.
+    5_  +1_5_4_3_  3_2_2_
+    2_  3_342_23  1__0_ //] >>
+FCT[Soldaten -, Jaeger - Lied]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es hat ein Bau'r ein Toechterlein,]
+CNR[kein schoeners Madl auf Erden kann sein.]
+REG[Mitteleuropa, Oesterreich, Steiermark]
+SRC[2, S. 266
+    1907 aufgezeichnet]
+KEY[Q0051H 08  G 2/2]
+MEL[-5_  1_.1-6_.-6  2_.-7-5_
+    -5_  1_.31_.3  4_-7-71_ //] >>
+FCT[Ballade, Hochzeit, Tod]

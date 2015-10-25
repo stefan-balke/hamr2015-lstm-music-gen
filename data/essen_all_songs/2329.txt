@@ -1,0 +1,10 @@
+FINK
+CUT[ES WOLLT EIN JAEGER FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[F0830  16  F 3/4]
+MEL[-5_1_3_  5__+1__654_  3__0_
+    5_5_5_  5_434_234_4_  4_323_
+    3_542_  1__0_
+    5_5_5_  5_434_234_4_  4_323_
+    3_542_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, verwundete Dame]

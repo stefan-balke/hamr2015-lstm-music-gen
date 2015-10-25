@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es hat ein Gastwirt einen Sohn,]
+CNR[ein Handwerk wollt er lernen schon,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+SRC[4, S. 312
+    ????]
+KEY[Q0085i 08  G FREI]
+MEL[-5_  1_2_3_.3  2_1_2_0_
+    -5_  234_4_  3_2_3_0__
+    1_  3_5_31  2__1__
+    1_  3_5_31  2__1__ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

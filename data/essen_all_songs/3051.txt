@@ -1,0 +1,7 @@
+F[ERK1
+CUT[ICH HAETT EMAL EN FREIER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E0534  08  G 6/8]
+MEL[-5  111321  2_.0_
+    2  222432  3_65_4  3_.0_ //] >>
+FCT[Liebes - Lied]

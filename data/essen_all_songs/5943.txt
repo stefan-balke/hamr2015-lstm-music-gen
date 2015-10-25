@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Tannhaeuser
+    Nun wil ichs aber heben an]
+CNR[von dem Danheuser zu singen,]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 145
+    1500 Handschrift Muenchen]
+KEY[Q0015  16  G FREI]
+MEL[1__  1__1__2__3__  4__4__3__2__0__
+    3__  5__5__4__1__  2__3__4___0__
+    2__  3__4__5__6__  5__4_3_2___0__
+    3__  1__2_.34__.321___  2___1___0__ //] >>
+FCT[Ballade, Wallfahrt, religioes]
+CMT[eingeklammerte Note und Pause notiert.]

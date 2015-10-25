@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[RAUS ZUM GREIFSWALDER THOR HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Greifswald]
+KEY[Z0221  16 Ab 4/4]
+MEL[  3__2_2_1_1_-5_-5_  1_112_543___
+    3__2_2_1_1_-5_-5_  1_112_543__.
+    34  5_5_5_654_4_4_54  3_3_353_222_2_
+    54  3__2__1___ //] >>
+FCT[Handwerker - Lied, Handwerks - Burschen, Wanderschaft]

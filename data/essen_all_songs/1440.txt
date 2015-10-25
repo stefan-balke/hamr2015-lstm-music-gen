@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Vater und Tochter
+    Es wollt ein Jaeger jagen,]
+CNR[so saget er.]
+REG[Suedosteuropa, Jugoslawien, Batschka, Backo - Dobropolje]
+SRC[7, S. 21
+    1938 aufgezeichnet]
+KEY[Q0142D 16  G 2/4]
+MEL[-5_  1_1_1_2_  3_1_-5__
+    -6__-4_-6_  -5__0_
+    -5_  2_2_2_3_  4_2_2__
+    3_.11_-6_  -6_-5_-5_
+    -5_  -3_-5_-3_-5_  1__3__
+    4__2__  -7__-6_-7_  1__. //] >>
+FCT[Ballade, Verfuehrung, Verwechslung]
+CMT[Zweite Zeile refrainartig.]

@@ -1,0 +1,9 @@
+KINDER
+CUT[JETZ WOLL MER]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[K2260  04  G 3/4]
+MEL[  111  111
+    666  5_0
+    444  333
+    555  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

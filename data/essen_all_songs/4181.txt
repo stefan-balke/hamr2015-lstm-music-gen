@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HOPCHEN HOP HOP HEI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1708  08  F 4/4]
+MEL[  3_.32_.1  1___
+    3_.32_.1  1___
+    3_3_3_5_  4_3_2__
+    3_3_3_5_  4_3_2__
+    3_.32_.1  1___ //] >>
+FCT[Scherz - Lied]

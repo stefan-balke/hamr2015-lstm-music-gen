@@ -1,0 +1,11 @@
+F[ERK3
+CUT[OB ICH A  NUR A HIRTE BIN]
+REG[Europa, Mitteleuropa, Deutschland; Boehmen, Riesengebirge]
+KEY[E1486  16 Bb 3/4]
+MEL[  -5_-7_1__-7_-6_  -7_1_2___
+    2_3_4_2_3_1_  2_2_1___
+    3_.45__3__  2_3_4__2__
+    3_.45__3__  2_3_4__2__
+    -5_-7_1__-7_-6_  -7_1_2___
+    2_3_4_2_3_1_  2_2_1___ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

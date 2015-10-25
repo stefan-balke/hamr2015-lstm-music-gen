@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Untreue]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0215A 04  E 4/2 6/2]
+MEL[4_  4_4_6b_6b_  5__4_
+    4_  4__1_3b_2b__  1__.
+    4_  4_4_6b_6b_  5__4_
+    4_  4__1_3b_2b__  1__.
+    6b_  6b_6b__5__6b_  7b__.6b54__  3b__
+    6b__  5__6b_7b_  ^_6b__5_  6b__0_
+    6b_  7b__7b__+1__  7b_6b__54  5__4__
+    5__  6b__3b_4_  ^_3b_2b__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Gassenhawerlin 1535 No. 14]

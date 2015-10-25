@@ -1,0 +1,22 @@
+BOEHME
+CUT[WER SAGT MIR WO WEINSBERG LIEGT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0150  16  C 2/4]
+MEL[-5  1_1_1_.3  2_-5_-5_0
+    -5  4_3_2_1_  1_-7_1_0
+    -5  1_1_1_.3  2_-5_-5_0
+    -5  4_3_2_1_  1_-7_1_0
+    3  2_.1-7_1_  2_.-7-5_
+    5-7  1_1_1_1_  24-721_0 //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WER SAGT MIR WO WEINSBERG LIEGT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0150  16  C 2/4]
+MEL[-5  1_1_1_.3  2_-5_-5_0
+    -5  4_3_2_1_  1_-7_1_0
+    -5  1_1_1_.3  2_-5_-5_0
+    -5  4_3_2_1_  1_-7_1_0
+    3  2_.1-7_1_  2_.-7-5_
+    5-7  1_1_1_1_  24-721_0 //] >>
+FCT[Ballade, Romanze]

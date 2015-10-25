@@ -1,0 +1,26 @@
+BOEHME
+CUT[ES GFALLT MER NUMMEN EINI]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0377  16  G 2/4]
+MEL[-5_  1_1_2_2_  3__1_
+    13  5_5_6_54  3__0_
+    -5_  1_1_2_2_  3__1_
+    13  5_5_6_54  3__0_
+    21  2_2_3_4_  5_.43_
+    21  2_2_3_4_  5_.43_
+    6_  5_.43_
+    1_  23421_-7_  1__. //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ES GFALLT MER NUMMEN EINI]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0377  16  G 2/4]
+MEL[-5_  1_1_2_2_  3__1_
+    13  5_5_6_54  3__0_
+    -5_  1_1_2_2_  3__1_
+    13  5_5_6_54  3__0_
+    21  2_2_3_4_  5_.43_
+    21  2_2_3_4_  5_.43_
+    6_  5_.43_
+    1_  23421_-7_  1__. //] >>
+FCT[Liebes - Lied, Liebes - Lust]

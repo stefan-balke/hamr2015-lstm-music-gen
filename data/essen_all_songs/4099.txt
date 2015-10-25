@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH GIENG EINMAL IN GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1562  16  G 2/4]
+MEL[1_  -7_-6_-7_1_  2__-7_-5_  1__0_
+    1_  -7_-6_-7_1_  2__-7_-5_  1__0_
+    1_  3_3_3_3_  4_.54_3_
+    2_2_2_2_  5_.65_0_
+    1_1_1_1_  2__0_
+    5_  3_1_2_-7_  1__0_ //] >>
+FCT[Staende -, Bauern - Lied, Flachsbrechen, bei der Arbeit]

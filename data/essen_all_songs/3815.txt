@@ -1,0 +1,12 @@
+F[ERK3
+CUT[WAS WOELLN WIR AUF DEN ABEND THUN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1120B 08  G 4/4]
+MEL[-5_  1_1_2_2_  3_212_
+    4_  3_1_-7_-6-7  1__0_
+    -5_  1_1_2_2_  3_212_
+    4_  3_1_-7_-6-7  1__0__
+    4_3_2_12  3_212_
+    3_  4_3_2_12  3_212_0_
+    3_1_-7_-6-7  1__. //] >>
+FCT[Trink -, Zech - Lied]

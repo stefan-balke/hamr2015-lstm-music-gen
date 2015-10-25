@@ -1,0 +1,13 @@
+F[ERK5
+CUT[Vrienden, kommt alle gaere]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0091  16  A 3/4]
+MEL[1_.2  3b__1__-5__  1_.21__
+    1_.2  3b__1__-5__  1_.21__
+    1_.3b  2__-7b__-5__  -7b_.1-7b__
+    -7b_.1  2__-7b__-6__  -5_.-6-5_0_
+    -3b_.-4  -5__-5__-6b__  -7b_.1-7b__
+    1_.1  -5__-5__1__  2_.3b2__
+    1_.2  3b__1__-5__  1_.21__ //] >>
+FCT[Lied]
+CMT[Flaemisch, von der Familie Westendorp aus Elberfeld]

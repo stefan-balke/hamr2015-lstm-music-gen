@@ -1,0 +1,13 @@
+FINK
+CUT[DER LIEBSTE BUHLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0556  08  G 6/8]
+MEL[3  3_3345  1_11_
+    3  2_2234#  6_.5_
+    3  3_3345  1_11_
+    3  2_2234#  6_.5_
+    5  5_31#_-6  2_34_
+    4  4_2-7_-5  1_35_
+    5  6_.5_.  4_.3_
+    3  4_.2_.  1_.0_ //] >>
+FCT[Studenten -, Trink - Lied]

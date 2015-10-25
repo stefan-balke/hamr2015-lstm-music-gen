@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Ein Soldat kam aus dem Kriege, hurrah!]
+CNR['Fuenfundzwanzig Jahr' hab' ich gedient,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Priestewitz]
+SRC[5, S. 147
+    1908 aufgezeichnet]
+KEY[Q0103  08  G 4/4]
+MEL[-5-5  1_3_3_3_  3_234_5_  3_0__
+    54  3_3_3_5_  5_.443
+    43  22222_6_  6_.55_
+    4_  3_3_2_2_  1_0__ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Anhaengsel an der ersten Zeile; Vierte Zeile = Refrain.]

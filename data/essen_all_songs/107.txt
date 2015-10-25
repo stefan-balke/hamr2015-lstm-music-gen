@@ -1,0 +1,18 @@
+BOEHME
+CUT[HEINRICH SCHLIEF BEI SEINER NEUVERMAEHLTEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Hessen; Niederrhein]
+KEY[B0138  08  G 4/4]
+MEL[-5-5  1_.-51131  1-7-7_0_
+    -71  2_.342-7-5  3__0_
+    11  6_.54321  -725_0_
+    24  3513265-7  2_1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[HEINRICH SCHLIEF BEI SEINER NEUVERMAEHLTEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Hessen; Niederrhein]
+KEY[B0138  08  G 4/4]
+MEL[-5-5  1_.-51131  1-7-7_0_
+    -71  2_.342-7-5  3__0_
+    11  6_.54321  -725_0_
+    24  3513265-7  2_1__ //] >>
+FCT[Ballade, Romanze]

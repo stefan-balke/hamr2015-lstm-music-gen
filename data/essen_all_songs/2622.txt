@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES GIENG EIN WACKRES MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Marburg]
+KEY[E0071C 16  G 2/4]
+MEL[-5_  1_1_3_5_  1_3_3_
+    5_  5_4_4_3_  3_2_0_
+    5_  5_6_4_2_  1_3_3_
+    3_  3_2_2_34  6_5_5_
+    5_  5_6_4_2_  1_3_3_
+    3_  5_5_6_5_  3__. //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

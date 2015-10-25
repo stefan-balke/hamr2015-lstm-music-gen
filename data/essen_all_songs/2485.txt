@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ES FREIT EIN WILDER WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau; Liegnitz]
+KEY[E0001  16  F 2/4]
+MEL[-5_  1_1_1_2_  3_2_1__
+    3_3_3_4_  5_.43_
+    1_  +1__+176_  5__0_
+    5_  6_4_2_4_  5_3_1_
+    2_  3_5_4_2_  1__0_
+    5_  6_4_2_4_  5_3_1_
+    2_  3_5_4_2_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

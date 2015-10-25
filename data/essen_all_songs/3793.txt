@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH BIN DER HERRLICHE SOMMERGLANZ]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E1071  08  G 6/8]
+MEL[5  3_5556  5_53_
+    3  3555_6  5553_
+    3  3_55_5  5553_
+    5  3_5556  5_53_
+    3  3555_6  5553_
+    3  3_55_5  5553_ //] >>
+FCT[Wett - Lied, Streit zwischen Sommer und Winter]

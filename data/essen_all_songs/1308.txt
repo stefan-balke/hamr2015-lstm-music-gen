@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    'Nun adje, jetzt reis' ich fort,]
+CNR[jetzt reis' ich in die Fremde.]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Schwaebische Alb]
+SRC[2, S. 80
+    1913 gedruckt in Tuebingen]
+KEY[Q0056H 16  G 3/4]
+MEL[  -5_.11__-7_-6_  -6_.-5-5__0_
+    -5_  -5_.11__-7_-6_  -6__-5__0_
+    1_  -7_2_5__4_5_  3_3_3__2_
+    1_  -7_2_5__4_.-7  -7__1__0__ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]
+CMT[Eingeklammerte Note nicht mitgespielt.]

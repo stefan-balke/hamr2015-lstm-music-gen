@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES GIEBT NICHTS SCHOENRES]
+REG[Europa, Mitteleuropa, Deutschland, Hessen; Rheinland]
+KEY[E1348  08  G 4/4]
+MEL[-5_  1_1_1_-7-6  -6_-5_-5_
+    -6-7  1_3_5_3_  2__0_
+    23  4_.32_5_  3_.21_
+    1_  2_42-7_-6-7  1__0_
+    23  4_.32_5_  3_.21_
+    1_  2_42-7_-6-7  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

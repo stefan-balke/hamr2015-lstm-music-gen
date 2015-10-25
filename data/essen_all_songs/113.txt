@@ -1,0 +1,26 @@
+BOEHME
+CUT[ACH SCHWESTER DIE DU SICHER]
+REG[Europa, Mitteleuropa, Deutschland, Priegnitz]
+KEY[B0144  16  G 2/4]
+MEL[5_  +1_765_3_  5_4_2_
+    4_  3_42211-7  -7_1_0_
+    5_  +1_765_3_  5_4_2_
+    4_  3_42211-7  -7_1_0_
+    5_  -7_2_1_3_  2_.43_
+    5_  +1_766554#  4#_5_0_
+    5_  +1_765_3_  5_4_2_
+    4_  3_42211-7  -7_1_0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ACH SCHWESTER DIE DU SICHER]
+REG[Europa, Mitteleuropa, Deutschland, Priegnitz]
+KEY[B0144  16  G 2/4]
+MEL[5_  +1_765_3_  5_4_2_
+    4_  3_42211-7  -7_1_0_
+    5_  +1_765_3_  5_4_2_
+    4_  3_42211-7  -7_1_0_
+    5_  -7_2_1_3_  2_.43_
+    5_  +1_766554#  4#_5_0_
+    5_  +1_765_3_  5_4_2_
+    4_  3_42211-7  -7_1_0_ //] >>
+FCT[Ballade, Romanze]

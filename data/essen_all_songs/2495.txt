@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WOLLT EIN NICKELMANN FREIEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg, Leitzkau]
+KEY[E0001  16  F 2/4]
+MEL[-5_  1_1_1-712  34321_
+    33  4_4_3_3_  2__0_
+    34  5_2_2321  -71-7-6-5_
+    -5-5  1_1_2_6_  5__
+    4__  3_3_322_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

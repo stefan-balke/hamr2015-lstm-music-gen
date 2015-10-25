@@ -1,0 +1,10 @@
+FINK
+CUT[SCHOENE AUGEN SCHOENE STRAHLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0022  08  C 3/4]
+MEL[  1-71-6-5-6  -5_-4_-3_
+    1-71-6-5-6  -5_-4_-3_
+    112233
+    112233
+    1_321-7  -7_10_. //] >>
+FCT[Liebes - Lied, Klage, Untreue]

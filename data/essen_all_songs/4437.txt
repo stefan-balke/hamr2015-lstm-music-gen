@@ -1,0 +1,11 @@
+F[ERK3
+CUT[STERBEN IST EIN HARTE BUSS]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken, Wuelflingen]
+KEY[E2160  16  F 4/4]
+MEL[  1__.2_3__3__  2__2__1__0_
+    12  3__3__5__5__  5_4_4__3__0_
+    13  5__5_+1_6__.5_  4_.34_.65__.
+    4_  3__3__5_4_4_3_  2__5__3__.
+    13  5__5_+1_6__.5_  4_.34_.65__.
+    4_  3__3__5_4_4_3_  2__5__3___ //] >>
+FCT[geistlich, Moral - Lied, Tod]

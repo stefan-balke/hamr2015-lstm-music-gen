@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Graf mit einer Dam',]
+CNR[das war die hohe Dame,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Oberhessen, Kr. Alsfeld,
+    Maulbach]
+SRC[3, S. 13
+    1842 aufgezeichnet]
+KEY[Q0055E 16  G 3/4]
+MEL[-5_1_2_  3__.2_3_4_  5__.
+    3_4_5_  6__5__4__  3__0_
+    123_5_  4__.5_3_5_  2__0_
+    123_5_  3__.5_2__  1__0_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Moeglicher Taktwechsel zum 2/4 angemerkt.]

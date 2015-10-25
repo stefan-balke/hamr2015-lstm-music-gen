@@ -1,0 +1,8 @@
+F[ERK3
+CUT[ES SANGEN DREI ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau]
+KEY[E2032  08  F 3/4]
+MEL[13  5_3_56  542_44  3_5_3_  2__
+    5_  6_6_7_  +165_64  3_5_2_  1__
+    5_  6_6_7_  +165_64  3_5_2_  1__ //] >>
+FCT[geistlich, Wallfahrts - Lied]

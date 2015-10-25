@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es trieb ein Schaefer oben ein,]
+CNR[hoert' er ein kleines Kindlein schrein.]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Mittel - Franken]
+SRC[5, S. 269
+    ????]
+KEY[Q0114O 08  G FREI]
+MEL[-5  1-51_3_  5_432_0
+    5  +153_6_  5_243_. //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

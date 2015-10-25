@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der Abendgang
+    Der tag der ist vergangen]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 321
+    1586 gedruckt in Strassburg]
+KEY[Q0019C 08  G FREI]
+MEL[1_  3b_3b_4_4_  5__5__0_
+    5_  7b__7b_6__54  5_5_4__0_
+    7b_  5__5_5__4_  7b__5__0_
+    5_  4_3b_5_3b_  2__1__0_
+    5_  5__5_4__2_  3b_1_-7b__0_
+    4_  4_4_5_6_  7b__3b__0_
+    5_  4_3b_5_3b__21  2__1__ //] >>
+FCT[Ballade, Liebe, Trennung, Tod; geistlich]
+CMT[Melodie: geistliche Kontrafaktur.]

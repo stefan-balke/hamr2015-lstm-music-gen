@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES BLIES EIN JAEGER WOL IN SEIN HORN]
+REG[Europa, Mitteleuropa, Deutschland, Coethen]
+KEY[E0019C 08  F 4/4]
+MEL[-5_  1_1_3_34  5_543_
+    +1_  5_.43_4_  5__0_
+    35  54432_24  3_2_1_
+    -5_  1_.23_1_  2_.34_
+    5_  33332_2_  1_+1_5_.
+    4  33332_2_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

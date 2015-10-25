@@ -1,0 +1,9 @@
+KINDER
+CUT[WIR KOMMEN DAHER IN DER HEILIGSTEN ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[K1695  16  G 3/8]
+MEL[12  3_3_3_  1_
+    2_3_  5_4_3_  2__
+    1_  -7_.22_  2_3_
+    4_  3__2_  1__0_ //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

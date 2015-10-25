@@ -1,0 +1,11 @@
+F[ERK3
+CUT[REDLICH IST DER DEUTSCHE MANN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen, Giessen]
+KEY[E1350  08  G 4/4]
+MEL[-5-5  3_.21_-71  2__0_
+    23  4_.65_4_  4_3_0_
+    12  3_3_4_5_  6_.42_
+    22  5_.55544  3__0_
+    12  3_3_4_5_  6_.42_
+    22  5_.55544  3__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

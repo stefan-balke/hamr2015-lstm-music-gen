@@ -1,0 +1,12 @@
+F[ERK1
+CUT[WANN I HALD FRUA AFSTEH]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[E0583  16  G 3/4 3/8]
+MEL[  1__3_-5_1_3_  5__+1_1_3__
+    2__4_-5_-7__  1__3_-5_1__
+    1__3_-5_1_3_  5__+1_1_3__
+    2_442_  1_
+    331_  2_442_  1_
+    331_  2_442_  1__
+    55  +1_5342  1__0_ //] >>
+FCT[Liebes - Lied]

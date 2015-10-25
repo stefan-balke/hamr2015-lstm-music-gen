@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Ohne Text]
+REG[Osteuropa, Tschechoslowakei, Boehmen]
+SRC[4, S. 206
+    1505 gedruckt]
+KEY[Q1079D 08  D 6/8]
+MEL[  1_13_4  5_55_.
+    6_7+1_7  6_.5_.
+    +1_+15_5  6_65_.
+    5_.5_.  6_65_.
+    5_43_2  1_.1_. //] >>
+FCT[geistlich; Reigen - Tanz]
+CMT[Melodievergleich zu Q0079E ff, anderes Lied.]

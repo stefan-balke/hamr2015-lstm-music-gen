@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und schaut' ins Tal hinab,]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Muenster]
+SRC[8, S. 60
+    ???? aufgezeichnet]
+KEY[Q0155N 08  G 3/4]
+MEL[-5_  1__-5_  -5_1_3_  3_2_
+    -5_  -5_-7_2_  6_5_4_  3__
+    13  5__5_  5_4_3_  4_2_-5_  -6_-5_
+    -5_  -5_-7_2_  6_5_4_  3__
+    13  5__5_  5_4_3_  4_2_-5_  -6_-5_
+    -5_  -5_-7_2_  6_5_4_  3__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe;
+    Soldaten - Lied]
+CMT[Anhaengsel an der dritten bzw. fuenften Zeile.]

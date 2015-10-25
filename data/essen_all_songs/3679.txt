@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Ach, mein Herz, das koennte bluten,]
+CNR[wenn ich denk' an die Geschicht',]
+REG[Mitteleuropa, Oesterreich, Tirol]
+SRC[5, S. 271
+    ????]
+KEY[Q1114b 08  G 3/4]
+MEL[-5-5  1_-5_-5-5  -6_-6_
+    11  -7_-4_-6-6  -5_0_
+    -3-5  3_3_43  2_-6_
+    21  -7_-7_-6-7  1_0_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0114Y und Z, anderes Lied.]

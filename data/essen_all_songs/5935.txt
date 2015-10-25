@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der Markgraf von Backenweil
+    Nun hoeret an und schweiget still,]
+CNR[was ich euch singen und sagen will]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kreis
+    Saargemuend, Gebenhausen]
+SRC[1, S. 122
+    1913 aufgezeichnet]
+KEY[Q0013  08  F FREI]
+MEL[-5_  1_-7_1_23  4_3_2_
+    32  1_-5_1_1_234_3_2_0_
+    5_.4  3_2_1_1_2_4_  3__2__1_0_
+    2__  1_-7_-6_-5_.-6-5-5  1_2_312_0_
+    5_.4  3_2_1_1_24  3__2__1_0_ //] >>
+FCT[Ballade, Krieg, Gefangenschaft, Ehe, Heimkehr]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.]

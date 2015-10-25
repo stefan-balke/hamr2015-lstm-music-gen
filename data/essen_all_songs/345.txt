@@ -1,0 +1,18 @@
+BOEHME
+CUT[KLEINE BLUMEN KLEINE BLAETTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0404B 16  C 2/4]
+MEL[  1_-712_-5_  3_234_2_
+    56543_2_  1_2_3_.4
+    56543_4_  56543_4_
+    56543_2_  1_321_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[KLEINE BLUMEN KLEINE BLAETTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0404B 16  C 2/4]
+MEL[  1_-712_-5_  3_234_2_
+    56543_2_  1_2_3_.4
+    56543_4_  56543_4_
+    56543_2_  1_321_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

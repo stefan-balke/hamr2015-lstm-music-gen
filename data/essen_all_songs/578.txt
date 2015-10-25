@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[SCHLAF, KINDEIN SCHLAF, DER VATER HUET'T DIE SCHAF']
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0162  16  C 2/4]
+MEL[    3__2123  1__0_
+    1_  3_3_2123  1__0_
+    -5_  1_1_2_2_  3_.21_
+    -5_  2_2_3_3_  4_.32_0_
+    5__3_2_  1__0__ //] >>
+FCT[Kinder -, Wiegen - Lied]

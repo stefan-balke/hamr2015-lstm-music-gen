@@ -1,0 +1,11 @@
+BOEHME
+CUT[SAGT MIR AN WAS SCHMUNZELT IHR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0612  08  D 4/4]
+MEL[  +1_+1_7_7_  6_6_5__
+    6_5_6_5_  4_3_2__
+    4_4_2_2_  3_3_2_2_
+    3_3_2_2_  3_3_2_2_
+    3_2_3_4_  5__+1_0_
+    43215_5_  1__0__ //] >>
+FCT[Staende -, Bauern - Lied, Tanz]

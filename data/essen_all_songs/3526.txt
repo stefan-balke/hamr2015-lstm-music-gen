@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+CNR[er ritt wol in die Weite.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Neisse, Korkwitz]
+SRC[5, S. 16
+    1856 gedruckt in Berlin]
+KEY[Q0089G 16  G 6/8]
+MEL[-5_  1__2_3__4_  3__2_1__
+    -5_  1__2_3__4_  3__2_1__
+    1_  4__3_3_2_1_  2_2_1_-7__
+    1_  3__343_2_1_  3__2_1__ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]
+CMT[Falsche Orts- und Quellenangabe. Verwechslung mit dem folgenden
+    wahrscheinlich. Korrigiert !! Verzierung (Vorschlag) .]

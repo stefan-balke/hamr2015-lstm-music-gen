@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WER SICH DES MAIEN FREUET]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[E2026  08  G 4/4]
+MEL[-5_  1_-5_3_2_  343_2_
+    13  21-7_1-7-7_  -5__0_
+    -5_  1_-5_3_2_  343_2_
+    13  21-7_1-7-7_  -5__0_
+    3_  5__1235  4__.
+    24  321-73_2_  1__. //] >>
+FCT[geistlich, Wallfahrts - Lied]

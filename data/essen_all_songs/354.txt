@@ -1,0 +1,24 @@
+BOEHME
+CUT[DIE MAEDCHEN IN DEUTSCHLAND SIND BLUEHEND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0421  16  F 6/8]
+MEL[-5_  3_.21_1_-7_1_  6_.66_5__
+    5_  6_6_5_2_2_3_  1__.0__
+    -5_  3_.21_1_-7_1_  6_.66_5__
+    5_  6_6_5_2_2_3_  1__.0__
+    3_  2_3_4#_5_2_2_  2_3_4#_5__
+    5_  5_5_5_5_5_5_  5_5_5_5_5_
+    5_  5_3_1_6_5_-7_  1__.0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, national]
+BOEHME
+CUT[DIE MAEDCHEN IN DEUTSCHLAND SIND BLUEHEND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0421  16  F 6/8]
+MEL[-5_  3_.21_1_-7_1_  6_.66_5__
+    5_  6_6_5_2_2_3_  1__.0__
+    -5_  3_.21_1_-7_1_  6_.66_5__
+    5_  6_6_5_2_2_3_  1__.0__
+    3_  2_3_4#_5_2_2_  2_3_4#_5__
+    5_  5_5_5_5_5_5_  5_5_5_5_5_
+    5_  5_3_1_6_5_-7_  1__.0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, national]

@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Liebeslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0220A 04  F 4/4]
+MEL[3_6_  54_3  2_3_
+    7_+1_  +17_7  6__
+    3_6_  54_3  2_3_
+    7_+1_  +17_7  6_0
+    +1  7567  +1_.
+    5  6564  3__
+    +1_7_  +2+1_7  6_7_
+    3_4_  32_2  3__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Hans Leo Hassler, Lustgarten neuer teutscher Gesaenge ...
+    Nuernberg 1601.]

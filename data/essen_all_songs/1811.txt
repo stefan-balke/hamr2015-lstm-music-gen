@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Das weinholende Maedchen
+    Es hatt' ein Maedelein sein Kruegelein verlorn,]
+CNR[sie konnt' es aber nicht]
+REG[Osteuropa, UdSSR, Wolga - Gebiet]
+SRC[6, S. 127
+    1956 gedruckt in Bad Godesberg]
+KEY[Q0129  16  F 4/4]
+MEL[-5_  1__1__1_.11_2_  3_.33_2_1__0_
+    2_  3__5__4_4_3_
+    -5_  1__1__1_.11_2_  3_.33_2_1__0_
+    2_  3__5__4_4_3_0_  2__3_4_5_4_3_3_  2__.1_1__0_
+    5_  5_.43_4_5__.5_  6_.7+1_6_5__0_
+    3_  3_.45_5_4_4_3_
+    5_  5_.43_4_5__.5_  6_.7+1_6_5__0_
+    3_  3_.45_5_4_4_3_0_  2__3_4_5__4_3_  2__.1_1__0_ //] >>
+FCT[Ballade, Werbung; Scherz -, Vexier - Lied]
+CMT[Vexierlied: Lied mit "Auslassung"]

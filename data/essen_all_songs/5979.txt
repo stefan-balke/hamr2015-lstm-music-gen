@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Erloesung vom Galgen
+    Es schpuellen drai Khauflaeit bai ainen Disch.]
+CNR[Si schpuellen so laong, si schpuellen so vuel,]
+REG[Osteuropa, Ungarn, Komitat Wessprim, Veszpremfajsz]
+SRC[1, S. 236
+    1931 aufgezeichnet]
+KEY[Q0022B 08  E 4/8]
+MEL[1  1555  5444  543b5  2_0
+    1  1555  5444  543b5  2_0
+    2  3b_44  5_42  3b_2_  1_0 //] >>
+FCT[Spiel, Hinrichtung, Opfer, Rettung]

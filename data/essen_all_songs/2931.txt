@@ -1,0 +1,13 @@
+F[ERK1
+CUT[WAS IST MIT DIR GESCHEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Nassau, Dillkreis; Wetterau]
+KEY[E0369  08  F 4/4]
+MEL[-5_  1_1_3_5_  +1_5_3_
+    1_  6_6_7_7_  +1__0_
+    -5_  1_1_3_5_  +1_5_3_
+    1_  6_6_7_7_  +1__0_
+    3_  2_.2+1_+1_  7_.77_
+    7_  +2_+2_+1_66  5_.654
+    32  1_1_3_5_  +1_5_3_
+    1_  6_6_7_7_  +1__0_ //] >>
+FCT[historisches Lied, Deutsch - Franzoesischer Krieg (1870)]

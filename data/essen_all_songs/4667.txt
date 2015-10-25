@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der geystliche Meyen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0578  04  F 4/2]
+MEL[1_  1_1_1_-6_  -5__2_.3  2_1_-7_-6_  -5_.-6-5_
+    1_  1_1_-7_-5_  1__2__  2_2_3_3_  2_.12__  5_.43_2_  1__4_
+    2_  3_2_1_-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Mainzer Cantual 1605.]

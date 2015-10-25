@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Herr von Falkenstein"
+    ICH SAH DEN HERRN VON FALKENSTEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1038  08  G 4/4]
+MEL[5_  5_43b2_.5  5_43b2_.
+    4  3b_.21_1_  -7__1_.
+    1  2_3b_4_.2  3b_4_5_.
+    4  3b_2_1_3b_  2__1_ //] >>
+FCT[Romanze, Ballade]

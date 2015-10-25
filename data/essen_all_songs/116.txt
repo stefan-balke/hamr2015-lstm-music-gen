@@ -1,0 +1,16 @@
+BOEHME
+CUT[ICH WAR ERST SECHZEHN SOMMER ALT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0147  08 Bb 6/8]
+MEL[5  4_234#5  2_.2_
+    5  1_14_3  2343_
+    5  53142-7  1_.10 //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ICH WAR ERST SECHZEHN SOMMER ALT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0147  08 Bb 6/8]
+MEL[5  4_234#5  2_.2_
+    5  1_14_3  2343_
+    5  53142-7  1_.10 //] >>
+FCT[Ballade, Romanze]

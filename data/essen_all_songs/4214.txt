@@ -1,0 +1,10 @@
+F[ERK3
+CUT[VETTER MICHEL WOHNT]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[E1748  16  D 2/4]
+MEL[55  +1_765_55  66665_
+    55  66665_
+    5_  6_6_7_7_  +1__0_
+    5_  3555655_  3555655_
+    +17+1+2+3__  5+1351_ //] >>
+FCT[Scherz -, Spiel - Lied, Musikantenspiel]

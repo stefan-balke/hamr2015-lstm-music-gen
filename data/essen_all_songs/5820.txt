@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Alter Reihen um das erste Veilchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0280B 04  G 4/4]
+MEL[1  1_11  -7_-7-7  13b21  -7_0
+    1  1_11  -7_-7-7  13b21  -7_0
+    3b  3b3b3b3b  2_22  11-7-7  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Praetorius Mus. Sion. VIII 1610 No. 264]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[NACHTIGALL ICH HOER DICH SINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0529  16  F 3/4]
+MEL[-5_-5_  1__3__3_2_  2_1_0_
+    1_1_2_  3__5__5_4_  4_3_0___
+    5_531__5__  45642__0__
+    -5_-7_2__4__  3_531_3_2_4_  3_6_5__
+    5432  1__3__321-7  1__0__ //] >>
+FCT[Liebes - Lied]

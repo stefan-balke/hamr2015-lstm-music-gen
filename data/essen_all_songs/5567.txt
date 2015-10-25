@@ -1,0 +1,11 @@
+KINDER
+CUT[KOMM WIR WOLLEN WANDERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K2446  16  C 2/4]
+MEL[  -5_1_1_1_  1_-6_-5__
+    -6__-7__  1__0_
+    -5_  1_1_1_1_  1_-7b-6-5_0_
+    -6_0_-6_0_  -6_-5-4-3_0_
+    -6_1_-7_-6-5#  -6___ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]
+CMT[Modulierender Schluss]

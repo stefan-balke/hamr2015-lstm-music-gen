@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Stolz gen Stolz"
+    WO GEHST DU HIN DU STOLZE]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1156  04  G 3/4]
+MEL[-5  135  654  5_.  30
+    5  544  5_5  3_
+    -5  135  654  5_.  30
+    5  544  5_5  3_
+    3  2_2  5_4  3_3  32
+    1  2_2  5_4  3_6  5_
+    -5  135  654  5_.  30
+    5  544  5_5  3_ //] >>
+FCT[Liebes - Lied]

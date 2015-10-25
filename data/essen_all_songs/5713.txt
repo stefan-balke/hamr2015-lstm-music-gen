@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Jahreszeiten und Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0151A 04  G 3/2]
+MEL[1_  1__1_  5__5_  5_.43b_  2__
+    1_  4__4_  5__4_  3b_2__  1__
+    1_  2__2_  2__4_  3b__2_  1__
+    3b_  2__1_  -7__1_  2__2_  5__4_  3b_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Praetorius, Mus. Sion. VII. 1609 No. 239]

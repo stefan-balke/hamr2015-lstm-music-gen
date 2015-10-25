@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Der Reiter zu Braunschweig und das Maedchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0429  04  C 4/2]
+MEL[1_1_1_  4_1_2_3_  4__0_
+    4_  4_4_5_.4  3_4_2_2_  1__0__  0_
+    4_4_1_  1_.-7b-6_-7b_  -5__-4__  0_
+    4_4_5_  6_4_5_5_  5_432__  0_
+    5_5_5_  4_321_3_  2__1__  0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Souterliedekens 1540 ad Ps. 84.]

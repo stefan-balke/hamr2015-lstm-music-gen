@@ -1,0 +1,30 @@
+BOEHME
+CUT[ES WAR AUF JUETLANDS AUEN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[B0094  08 Bb 4/4]
+MEL[-5_  1_.-71_2_  1_-7_-6_
+    -5_  1_-7_1_2_  -5__0_
+    -7_  2_.1#2_3_  4_.32_
+    1_  -7_-5_3_.2  1__0_
+    -3_  -6_1_-7_.-6  -5#_-7_3_0
+    3  4_.321-7-6  3__.
+    12  3_.34_3_  2__-6_
+    -6_  -5_.13_.2  1__0_
+    12  3_.34_3_  2_6_4_
+    2_  1_.13_.2  1__0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[ES WAR AUF JUETLANDS AUEN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[B0094  08 Bb 4/4]
+MEL[-5_  1_.-71_2_  1_-7_-6_
+    -5_  1_-7_1_2_  -5__0_
+    -7_  2_.1#2_3_  4_.32_
+    1_  -7_-5_3_.2  1__0_
+    -3_  -6_1_-7_.-6  -5#_-7_3_0
+    3  4_.321-7-6  3__.
+    12  3_.34_3_  2__-6_
+    -6_  -5_.13_.2  1__0_
+    12  3_.34_3_  2_6_4_
+    2_  1_.13_.2  1__0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

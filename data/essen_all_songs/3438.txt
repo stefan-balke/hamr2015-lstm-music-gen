@@ -1,0 +1,13 @@
+F[ERK2
+CUT[Z NACHT WENN DER MOND SCHEINT]
+REG[Europa, Mitteleuropa, Deutschland, Frankreich, Elsass]
+KEY[E0885  16  G 2/4]
+MEL[  1__2_3_  2__-5__
+    1_2_3_1_  2__2__
+    4_.44_2_  3_3_3__
+    2_2_-7_-7_  1__1__
+    5_3_3__  4_2_2__
+    1_3_5_55  3__3__
+    5_3_3_3_  4_222__
+    1_335_5_  1__1__ //] >>
+FCT[Hochzeits -, Ehestands - Lied, Scherz - Lied, Bettelhochzeit]

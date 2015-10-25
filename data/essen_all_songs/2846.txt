@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES GRAST EIN MAEDEL HUEBSCH UND FEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse, Korkwitz]
+KEY[E0204  08  F 2/4]
+MEL[1_  1_5_  3_21  2_4_  3_0
+    1  5553  656
+    5  4342  555
+    4  3_6_  5_.
+    3  5424  3_ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

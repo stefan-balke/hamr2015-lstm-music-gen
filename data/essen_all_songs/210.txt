@@ -1,0 +1,18 @@
+BOEHME
+CUT[MUEDE BIN ICH GEH ZUR RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0247  08  G 4/4]
+MEL[  1_.111-71  2__0__
+    2_.22212  3__0__
+    3_.33321  6__0__
+    5_.654-6-7  1__0__ //] >>
+FCT[Tageszeiten - Lied, Nacht]
+BOEHME
+CUT[MUEDE BIN ICH GEH ZUR RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0247  08  G 4/4]
+MEL[  1_.111-71  2__0__
+    2_.22212  3__0__
+    3_.33321  6__0__
+    5_.654-6-7  1__0__ //] >>
+FCT[Tageszeiten - Lied, Nacht]

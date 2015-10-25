@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    's bar amol a jungai Dirn,]
+CNR[jo bol, a jungai Dirn.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 267
+    ????]
+KEY[Q0114I 08  G 4/4]
+MEL[  2_2_2_1_  2_1_-7b_1_
+    2__3b21_  2_-7b_1__ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

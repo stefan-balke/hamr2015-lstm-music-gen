@@ -1,0 +1,18 @@
+BOEHME
+CUT[DA DROBEN AUF JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0452  16  G 6/8]
+MEL[-5_  1_.11_1_-7_1_  -7__-6_-5__
+    -5_  1__1_2_1_2_  3__.0__
+    34  5__5_5_6_5_  5__4_4__
+    4_  3_.33_2_1_2_  1__.0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[DA DROBEN AUF JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0452  16  G 6/8]
+MEL[-5_  1_.11_1_-7_1_  -7__-6_-5__
+    -5_  1__1_2_1_2_  3__.0__
+    34  5__5_5_6_5_  5__4_4__
+    4_  3_.33_2_1_2_  1__.0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

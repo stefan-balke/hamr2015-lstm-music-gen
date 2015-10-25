@@ -1,0 +1,9 @@
+F[ERK3
+CUT[FAHR MER NET UEBER MEIN AECKERLE]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben; Schweiz]
+KEY[E1005B 16  G 3/8]
+MEL[  1_.21_  1_3_5_  2_-7_-5_
+    1_.21_  1_3_5_  2__0_
+    4_.54_  4_6_+1_  5_3_1_
+    5_.31_  -5_-6_-7_  1__0_ //] >>
+FCT[Tanz - Lied]

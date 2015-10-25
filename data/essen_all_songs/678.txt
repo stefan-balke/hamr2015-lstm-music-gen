@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[JETZT IST ES BALD SONNTAG, DA BIN ICH GAR ZU FROH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0261  08  G 2/4]
+MEL[-5  1_31  5_4
+    4  3322  1_0
+    -5  1_31  5_4
+    4  3322  1_0
+    3  2422  353
+    3  2422  353
+    -5  1131  5_4
+    4  3322  1_0 //] >>
+FCT[lyrisches Lied, Romanze]

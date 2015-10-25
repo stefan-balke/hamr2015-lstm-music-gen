@@ -1,0 +1,15 @@
+BOEHME
+CUT[GOD SAVE OUR LORD THE KING]
+REG[Europa, Mitteleuropa, England]
+KEY[B0713  08  G 3/4]
+MEL[  1_1_1_  -7_.12_
+    3_3_4_  2_.23_
+    2_-7_.1  1__.
+    1_1_1_  -7_.12_
+    3_3_4_  2_.23_
+    2_-7_.1  1__.
+    5_5_5_  5_.43_
+    4_4_4_  4_.32_
+    3_4321  3_.45_
+    6_2_.1  1__. //] >>
+FCT[National - Hymne]

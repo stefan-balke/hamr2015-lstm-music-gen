@@ -1,0 +1,14 @@
+F[ERK3
+CUT[NACH N N MARSCHIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt; Lahn - Kreis;
+    Dill - Kreis]
+KEY[E1363  16  F 3/4]
+MEL[-5__  1__1__2__  3__3__
+    1_2_  3__3__4__  6__5__
+    1_3_  5__5__5_+1_  6___
+    5_4_  3__5__4_2_  1__0__
+    2_3_  4_.66_6_6_6_  6__0__
+    5_4_  3_.45_5_5_5_  5__0__
+    1_3_  5__5__5_+1_  6__0__
+    5_4_  3__5__4_2_  1__0__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

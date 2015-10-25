@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES WAR EIN REICHER KAUFMANNSSOHN]
+REG[Europa, Mitteleuropa, Deutschland, Franken, Wuerzburg]
+KEY[E1398  16  F 6/8]
+MEL[13  5__5_5__5_  5__3_3__
+    1_  6_.66_+1_7_6_  6_5_5_3__
+    5_  5_.44_2__
+    6_  6_.55_3__55  5__0__.
+    5_  5_.44_2__
+    6_  6_.55_3__55  5__0__. //] >>
+FCT[Staende -, Soldaten - Lied]

@@ -1,0 +1,9 @@
+FINK
+CUT[EIN TAEUBCHEN FLOG VOM HIMMELSZELT]
+REG[Europa, Mitteleuropa, Deutschland; Daenemark]
+KEY[F0235  08  F 2/4]
+MEL[1  3_32  1_1_  5_64#  5_0
+    1  3_32  1_1_  5_64#  5_0
+    5  5_+17  6_34  5_54  3_0
+    4  5534  5543  2__  1_0 //] >>
+FCT[Jugend - Lied, Moral]

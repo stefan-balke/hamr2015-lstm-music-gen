@@ -1,0 +1,22 @@
+BOEHME
+CUT[JETZUND FAELLT DIE NACHT HEREIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0233  08  C 4/4]
+MEL[  3_3_3_3_  2_.11__
+    -7_1_2_3_  2_.11__
+    3_3_3_3_  2_.11__
+    -7_1_2_3_  2_.11__
+    -6_-6_-6_-6_  -6_-7_1__
+    -7_1_2_3_  2_.11__ //] >>
+FCT[Tageszeiten - Lied, Nacht]
+BOEHME
+CUT[JETZUND FAELLT DIE NACHT HEREIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0233  08  C 4/4]
+MEL[  3_3_3_3_  2_.11__
+    -7_1_2_3_  2_.11__
+    3_3_3_3_  2_.11__
+    -7_1_2_3_  2_.11__
+    -6_-6_-6_-6_  -6_-7_1__
+    -7_1_2_3_  2_.11__ //] >>
+FCT[Tageszeiten - Lied, Nacht]

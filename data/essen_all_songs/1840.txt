@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Gerstebinden
+    Nun hoert zw disem rayen,]
+CNR[den ich eich hie vorsing,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 208
+    1460 Handschrift Hohenfurt (ca.)]
+KEY[Q1135B 04  G 6/4]
+MEL[1  1_11_1  2_.2_
+    2  3b_2-7b_1  2_.0_
+    2  3b_45_5  5_42_
+    4  3b_21_1  -7b_12_
+    2  3b2_1_-7b  1_.^_ //] >>
+FCT[Reigen - Lied]
+CMT[Melodievergleich zu Q0135C, anderes Lied.]

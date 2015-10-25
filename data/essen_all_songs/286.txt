@@ -1,0 +1,20 @@
+BOEHME
+CUT[BRINGT MIR BLUT DER EDLEN REBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0338  04  D 4/4]
+MEL[  55+15  3353  1_2_  3_0_
+    +1765  6543  2342  5432
+    +1_+2_  +3+1_0  5_7_  +1_0_
+    +1765  6543  2342  5432
+    +1_+2_  +3+1_0  5_7_  +1_0_ //] >>
+FCT[Trink - Lied, patriotisch, national]
+BOEHME
+CUT[BRINGT MIR BLUT DER EDLEN REBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0338  04  D 4/4]
+MEL[  55+15  3353  1_2_  3_0_
+    +1765  6543  2342  5432
+    +1_+2_  +3+1_0  5_7_  +1_0_
+    +1765  6543  2342  5432
+    +1_+2_  +3+1_0  5_7_  +1_0_ //] >>
+FCT[Trink - Lied, patriotisch, national]

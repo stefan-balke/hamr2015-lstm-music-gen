@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Ein Lied vom Glauben]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0625  04  D 3/1 4/2]
+MEL[1_1_1_  5__4_5_6__  5__0_
+    +1_7b_+1_  +2_.+3b+4_+3b_+2__  +1__0_
+    +1_  7b_+1_+2_.+1  +2__+1_+2_  6__0_
+    6_  7b_+1_6_5_  7b_+1_+2__  0_
+    +1_7b_.+1  +2_+3b_+2_
+    +1__+2_  +3b_+4_.+3b+2_+1_.7  +1___  0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Erfurter Enchiridion I 1524]

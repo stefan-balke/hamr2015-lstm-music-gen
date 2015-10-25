@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[ich sah ins tiefe Thal,]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Bonn]
+SRC[8, S. 292
+    1820 aufgezeichnet (ca.)]
+KEY[Q0155Q.16  G 2/4]
+MEL[1_  3_3_3_32  1__-5_
+    -5_  1_1_3212  3__0_
+    5_  +1_765_31  6__5_0_  4__3_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Anhaengsel an der dritten Zeile.]

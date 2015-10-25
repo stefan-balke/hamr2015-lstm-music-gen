@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Karl Friedrich taet ausreiten]
+CNR[nach seinen Hochzeitsleuten;]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Konradsdorf]
+SRC[2, S. 217
+    1841 aufgezeichnet (vor)]
+KEY[Q0048K 16  G 3/8 4/8]
+MEL[-5_  113_5_  2_1_0_
+    4_  345_2_  4_3_0_
+    5_  3_.35_44  2_.44_3
+    -5  123_5_  221_0_
+    5_  3_.35_44  2_.44_3
+    -5  123_5_  221_0_ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Rhythmisch korrigiert: Pause am Ende der 3./5. Zeile weggelassen.]

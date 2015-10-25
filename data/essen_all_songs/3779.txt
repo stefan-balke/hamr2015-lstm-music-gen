@@ -1,0 +1,14 @@
+F[ERK3
+CUT[SCHOE JUNG IS MAI BLUT]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[E1054  08  G 3/4]
+MEL[-5_  -5_1_1_  2_.2
+    2_  5_5_4_  3_5_
+    5_  5_4_3_  3_2_0
+    1  1_-7_-6_  -7__.
+    -505__  4_.2-7_
+    565656  531__
+    -6_4__  3_5__
+    21#21#23  1_5__
+    2_5__  3_0_ //] >>
+FCT[Tanz - Lied, Schnadahuepfel]

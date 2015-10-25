@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Mariens Lob"
+    MARIA, WAHRE HIMMELFREUD]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1127  08  G 4/4 3/4]
+MEL[-5_  1__2__  3b_5__43b  2__3b_2_  1__
+    5_6b_  7b__5_4_  5__4__  3b__
+    5_6b_  7b_7b_56b  544_
+    5_  6b_5_43b  3b23b_
+    3b4  5_5_43b  212_
+    23b  4_5_3b2  1-712
+    3b4  5__43b  2__1_  1__ //] >>
+FCT[religioeses Lied, Maria]

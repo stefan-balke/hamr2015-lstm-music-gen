@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Unbestechliche
+    Es reit' ein Reiter wohlgemut,]
+CNR[es reit' ein Reiter wohlgemut,]
+REG[Osteuropa, Tschechoslowakei, Maehren, Dt. Proben, Kremnitz]
+SRC[7, S. 29
+    1943 gedruckt in Kassel]
+KEY[Q0144  16  G 2/4]
+MEL[-5__  1__3__  2__.5_  4_3_2_
+    1_  1_3_2_1_  -7_-6_-5_
+    -5-5  1_3_2_1_  4__4_2_  1__ //] >>
+FCT[Ballade, Liebes - Handel]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Die Schlaue"
+    IHREN LIEBSTEN ZU ERWARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+KEY[Z0170  08  F 6/8]
+MEL[  1_11_3  3_5543
+    2_22_2  3_21_1
+    6_667+1  5_55_0
+    4_4654  4333_0
+    222432  135543
+    222432  1321_0 //] >>
+FCT[Erzaehlung, lustige Romanze]

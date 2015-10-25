@@ -1,0 +1,21 @@
+F[ERK2
+CUT[WENN MICH DAS GLUECK BETRIFFT]
+REG[Europa, Mitteleuropa, Deutschland, Friesack, Viegnitz]
+KEY[E0973  04  G 3/4]
+MEL[  -511  1-72
+    -522  213
+    133  324
+    4-7-7  1_1
+    -511  1-72
+    -522  213
+    133  324
+    4-7-7  1_1
+    355  546
+    244  435
+    133  324
+    4-7-7  2_1
+    355  546
+    244  435
+    133  324
+    4-7-7  2_1 //] >>
+FCT[Tanz - Lied, Reigen]

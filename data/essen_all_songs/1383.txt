@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Als ich einmal klein's Bueweli war,]
+CNR[klein's Bueweli in der Wiege,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Kr. Saargemuend, Hambach]
+SRC[3, S. 167
+    1927 aufgezeichnet]
+KEY[Q0062A 08  F 6/4]
+MEL[-5_  1_.-71_2__5_  3_.23_1__
+    1_  2_.34_5_.43_  1_.23_2__
+    2_  5_.65_543_2_  1_.-5132_.3
+    1_  2_.34_5_.43_  2__5_1__ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied, Strafe, Gnade]
+CMT[Verzierung (Nachschlag) in der dritten Zeile.]

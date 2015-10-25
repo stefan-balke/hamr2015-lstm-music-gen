@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    In Ostirreich da ligt ein Schloss,]
+CNR[das ist gantz woll gebauwet]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 274
+    1603 Handschrift (ca.)]
+KEY[Q0024K 08  G FREI]
+MEL[11_1_  -7_3_2_1_  -7_0
+    -7  -7-71_-6_  -7_1_0
+    11_1_  -7_3_2_1_  -7_0
+    -7  -7-71_-6_  -7_1_0
+    1  2_22_-7b12  3_032_1_  -7_0
+    -7  -7-71_-6_  -7_1_0
+    1  2_22_-7b12  3_032_1_  -7_0
+    -7  -7-71_-6_  -7_1_0 //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]

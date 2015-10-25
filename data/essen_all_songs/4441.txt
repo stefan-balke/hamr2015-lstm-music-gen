@@ -1,0 +1,9 @@
+F[ERK3
+CUT[CHRISTUS DER IST MEIN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2166  04  F 4/4]
+MEL[1_  3234  5_3
+    6  5432  3_0
+    5  667+1  6_5
+    3  211-7  1_ //] >>
+FCT[geistlich, Moral - Lied, Tod]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES LEUCHTET SCHON]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Gramzow]
+KEY[E0538  08  C 3/4]
+MEL[34  5_35+1+2  +3_5_
+    67  +1_.+2(+176)  5__
+    34  5_+1_76  5_35
+    +13  5_.423  1__
+    34  5_+1_76  5_35
+    +13  5_.423  1__ //] >>
+FCT[Liebes - Lied]

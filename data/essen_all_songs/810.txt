@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Muellertochter"
+    ES WOHNT EIN MUELLER AN JENEM TEICH]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1075  16 Eb 3/4]
+MEL[3_3_4_  5__5_+1_6_4_  5__0_
+    3_3_4_  5__5_+1_6_4_  5__0_
+    3_3_4_  5_4_2_.21-712  1__.
+    3_3_4_  5_4_2_.25_5_  3__0_ //] >>
+FCT[Romanze, Ballade]

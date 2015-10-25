@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[NUR NAERRISCH SEYN IST MEIN MANIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0290  16  G 2/4]
+MEL[1_  3_5_1_1_  3_5_1_
+    35  +1_5_4321  5__5_
+    1_  3_5_1_1_  3_5_1_
+    35  +1_5_4321  5__5_
+    56  7b_5_6_4_  65434_
+    65  4_3_2_1_  5__5_
+    56  7b_5_6_4_  65434_
+    65  4_3_2_1_  5__5_
+    67  +1_4_3_2_  1__1_ //] >>
+FCT[Lyrisches Lied, Romanze, Trink - Lied]

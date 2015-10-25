@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH GING WOL HIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.d. Oder, Seelow]
+KEY[E0203F 16  F 3/4]
+MEL[-5_  1_1_3__5__  4_6_5_4_3_
+    -5_  1_2_3__5__  2_2_1__0_
+    -5_  1_2_3__5_3_  2_-5_2_-5_0_
+    -5_  1_2_3__5__  2_221__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]

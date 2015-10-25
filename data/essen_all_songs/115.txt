@@ -1,0 +1,18 @@
+BOEHME
+CUT[EIN SCHAEFERMAEDCHEN SASS IM GRUENEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0146  08  D 4/4]
+MEL[1_  3_.33323  5_4_0_
+    23  4_.44434  6_5_0_
+    13  5_.55545  6__0_
+    +1_  7_.65545  3__0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[EIN SCHAEFERMAEDCHEN SASS IM GRUENEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0146  08  D 4/4]
+MEL[1_  3_.33323  5_4_0_
+    23  4_.44434  6_5_0_
+    13  5_.55545  6__0_
+    +1_  7_.65545  3__0_ //] >>
+FCT[Ballade, Romanze]

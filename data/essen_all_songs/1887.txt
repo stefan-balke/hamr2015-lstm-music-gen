@@ -1,0 +1,13 @@
+FINK
+CUT[ALS ICH AUF MEINER BLEICHE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0014  08  A 4/4]
+MEL[-5_  1_3_3_2_  2_1_1_
+    1_  2_.3421-7  1_0__
+    -5_  1_3_3_2_  2_1_1_
+    1_  2_.3421-7  1_0__
+    3_  2_5_4#_3_  3_2_2_
+    1_  -7_.321-7-6  -5_0__
+    5_  5_4#_4#_4_  4_3_3_
+    1_  2_.3421-7  1_0__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade? Gefangenschaft, Flucht]

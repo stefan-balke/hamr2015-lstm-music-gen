@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Elsberger
+    Af hoachai Parkh, af shmu lai Schteikh,]
+CNR[Maria jitet in Hirschpodne.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 138
+    ????]
+KEY[Q1059D 08  G 3/2]
+MEL[1_1_-7_  1_4__.32-7_  2__.
+    4_3212  -7_.12__-7_-7_  1__. //] >>
+FCT[geistlich, Brauchtum]
+CMT[Melodievergleich zu Q0059, anderes Lied "Vom heiligen Kreuz" .]

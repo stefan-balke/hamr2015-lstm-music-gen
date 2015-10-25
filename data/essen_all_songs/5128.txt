@@ -1,0 +1,9 @@
+BOEHME
+CUT[UNSER LEBEN GLEICHT DER REISE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0664  08  A 4/4]
+MEL[  1_1_1-7-7_  2_2_211_
+    3_3_2_.1  -7_-6_-5__
+    -5_-6-71_-5_  2_.2311_
+    -6_2_-5_1_  32-6-71_0_ //] >>
+FCT[Wander -, Moral - Lied, Vergaenglichkeit]

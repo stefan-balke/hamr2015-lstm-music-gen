@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES KAM EIN ABENTEURER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0180  16  G 4/4]
+MEL[1__  1__5__5__6_+1_  7b__6__5__0_
+    6_  7b__5__5__2_3_  4__3__2__0_
+    5_  5__5_3_1__3__  5_4_4_3_2__.
+    3_  4__3_2_1__-7_1_  2__.321__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

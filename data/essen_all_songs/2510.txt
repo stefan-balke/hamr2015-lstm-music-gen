@@ -1,0 +1,10 @@
+F[ERK1
+CUT[DA DRUNTEN IM GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Giessen]
+KEY[E0009  16  G 6/8]
+MEL[-5_  1_1_2_3_3_2_  1__.0__
+    2_  2__3_4__3_  2__.0__
+    1_  3_3_3_54432_  2_2_5_32321_
+    1_1_2_3_3_54  3__2_1__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

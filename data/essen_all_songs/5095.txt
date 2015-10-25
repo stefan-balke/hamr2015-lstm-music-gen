@@ -1,0 +1,11 @@
+BOEHME
+CUT[VOEGLEIN IM HOHEN BAUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0634  08  G 3/4]
+MEL[  1_1_1_  3_.21_
+    3_3_3_  5_.43_
+    5_4_3_  2__0_
+    2_1_-7_  1_.23_
+    4_3_2_  3_.45_
+    543_2_  1__0_ //] >>
+FCT[Kinder - Lied, Tier; Moral]

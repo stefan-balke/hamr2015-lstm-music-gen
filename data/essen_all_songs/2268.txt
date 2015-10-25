@@ -1,0 +1,13 @@
+FINK
+CUT[FREUNDE TRINKT EINMAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0681  08  F 4/4]
+MEL[  3__5432  1_1_1_
+    2_  3__5432  2__10
+    1_  6_6_6_6_  5_5_+1_
+    35  5_4_4_3_  3__2_0_
+    2_.22_2_  3_321_0_
+    3_.23_4_  5_543_0_
+    5_.65_4_  3__2_0_
+    3_3_5432  2__10_. //] >>
+FCT[Geselligkeits -, Trink - Lied]

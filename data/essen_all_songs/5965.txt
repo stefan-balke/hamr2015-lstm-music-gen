@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Elzeleyn lipstis elzeleyn.]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 217
+    1480 Handschrift]
+KEY[Q0020G 08  G 6/4]
+MEL[  1__3b_2__1_  2_.3b4_5__
+    5_  1__2_4_.3b21  -7b__.0__
+    -7b_  2_.3b4_3b__2_  1_.23b_2__
+    1_  -7b__-5_-6_-7b_.-6  1__.0__. //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Die"Elslein"-Melodie wird in direkten Zusammenhang zur Balladengruppe
+    gestellt.]

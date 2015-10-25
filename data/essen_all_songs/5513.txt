@@ -1,0 +1,13 @@
+KINDER
+CUT[ROTHE KIRSCHEN ESS ICH GERN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2227  08  C 2/4]
+MEL[  5566  5430
+    5566  5_30
+    5566  543_
+    5566  5430
+    5566  543_
+    5566  5430
+    556_  543_
+    5566  543_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

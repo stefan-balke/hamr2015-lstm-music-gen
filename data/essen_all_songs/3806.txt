@@ -1,0 +1,13 @@
+F[ERK3
+CUT[IHR LEUT IHR GLAUBT MIRSCH]
+REG[Europa, Mitteleuropa, Deutschland, Vogtland]
+KEY[E1112  16  F 2/4]
+MEL[1_  5_.55_.1  -7_.-7-7_0
+    5  5_.54_2_  1__1_
+    1_  5_.55_.1  -7_.-7-7_0
+    5  5_.54_2_  1__1_
+    3_  4_.56_.4  3_.45_.
+    3  2_.34_.2  3_.45_0
+    3  4_.56_.4  3_.45_.
+    3  2_.34_.2  1__0_ //] >>
+FCT[Luegen - Lied, Maerchen]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[SCHWERIN DER HAT UNS KOMMANDIERT]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[B0087  16 Eb 2/4]
+MEL[-5_  1_-7-6-5_-5_  -6_-6_-5_
+    -5_  -6_-6_-5_
+    1_  -5_.-4-3_-4_  -5-6-5-4-3_
+    -3_  -2-1-2-3-4-4-4-4  -3-2-3-4-5_
+    -3-3  -4-3-4-5-6_
+    -7_  1_112221  -7_-7_1_
+    -3-5  -5_-5_-5_-4-3  -6_-6_-5_
+    -5_  1_112221  -7_-7_1_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[SCHWERIN DER HAT UNS KOMMANDIERT]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[B0087  16 Eb 2/4]
+MEL[-5_  1_-7-6-5_-5_  -6_-6_-5_
+    -5_  -6_-6_-5_
+    1_  -5_.-4-3_-4_  -5-6-5-4-3_
+    -3_  -2-1-2-3-4-4-4-4  -3-2-3-4-5_
+    -3-3  -4-3-4-5-6_
+    -7_  1_112221  -7_-7_1_
+    -3-5  -5_-5_-5_-4-3  -6_-6_-5_
+    -5_  1_112221  -7_-7_1_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

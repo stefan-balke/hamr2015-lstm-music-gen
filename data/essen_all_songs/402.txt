@@ -1,0 +1,18 @@
+BOEHME
+CUT[THEUERSTER DU BRICHST DEN SCHWUR DER TREUE]
+REG[Europa, Mitteleuropa, Deutschland, Nassau]
+KEY[B0474  16 Eb 4/4]
+MEL[5_3_  1__.5_5_5_6_.5  5_4_2__0_
+    4_2_-7_  5__.5_5_5_6_.5  3___0__
+    1_1_  6__.6_+1_+1_7_6_  6_5_5__0__
+    5_+1_  7__.6_5_5_4_-7_  1___0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[THEUERSTER DU BRICHST DEN SCHWUR DER TREUE]
+REG[Europa, Mitteleuropa, Deutschland, Nassau]
+KEY[B0474  16 Eb 4/4]
+MEL[5_3_  1__.5_5_5_6_.5  5_4_2__0_
+    4_2_-7_  5__.5_5_5_6_.5  3___0__
+    1_1_  6__.6_+1_+1_7_6_  6_5_5__0__
+    5_+1_  7__.6_5_5_4_-7_  1___0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

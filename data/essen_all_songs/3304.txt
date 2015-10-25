@@ -1,0 +1,11 @@
+F[ERK2
+CUT[ICH HABE DEN FRUEHLING GESEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0739  16  F 6/8]
+MEL[-5_  3_.21_1_2_3_  3_2_0__.
+    2_  2_.34_5_.65_  3__.0__
+    5_  3_5_5_6_6_5_  5_4_0__.
+    43  2_.34_5_.65_  3__.0__
+    5_  3_5_5_6_6_5_  5_4_0__.
+    43  2_.34_5_.65_  3__.0__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

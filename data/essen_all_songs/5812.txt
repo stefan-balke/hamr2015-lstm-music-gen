@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kranzsingen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0271C 02  F 4/1]
+MEL[1  5_5_6_5_  5_.43_0
+    2  3_5_5_35  432_1_0
+    -5  1_2_3_2_  5_.43_0
+    5  5_5_5_3_  4_2_1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Trillers Singbuechlein 1555 "Aus frebden Landen komm ich her".]

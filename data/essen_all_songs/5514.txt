@@ -1,0 +1,13 @@
+KINDER
+CUT[MUSS WANDERN MUSS WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Ostpreussen]
+KEY[K2228  16  D 2/4]
+MEL[5_  5__3_5_  5__3_
+    5_  +1_7_6_5_  5_4_3__
+    1_1_1_11  1_111__
+    1_1_1_1_  1__0__
+    1_1_1_1_  1__0__
+    1_1_1_1_  1__0__
+    1_3_5_5_  +1_6_5__  +1_6_5_
+    5_  4_4_3_3_  2_2_1_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

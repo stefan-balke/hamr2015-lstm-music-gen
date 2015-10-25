@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DER JAEGER IN DEM GRUENEN WALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1450  16 Bb 2/4]
+MEL[-5_  1_.-7-6_-5_  -6_.-5-4_
+    -3_  -5_-5_-6_-7_  1_.32_.-7  1__0_
+    1_  -7_2_2_-7_  1_3_3_
+    1_  -7_2_2_-7_  1_3_3_
+    -5_  1_.-7-6_-5_  -6_.-5-4_
+    -3_  -5_-5_-6_-7_  1_.32_.-7  1__0_ //] >>
+FCT[Staende -, Jaeger - Lied, Liebe]

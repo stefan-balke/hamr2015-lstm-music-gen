@@ -1,0 +1,11 @@
+F[ERK2
+CUT[DER MAI DER MAI DER LUSTIGE MAI]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+KEY[E0962  08  G 4/4]
+MEL[-5  1_.23_5_  3_231_0
+    2  3_5_6_5_  2_.55_0
+    -5  1_123_5_  54323_0
+    5  6_543213  2__1_0_
+    3_.21_2_  32345_0
+    5  6_543213  2__1_0 //] >>
+FCT[Tanz - Lied, Reigen, Mai - Tanz]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Stund ich auf hohen Bergen]
+CNR[und sah wohl ueber den Rhein:]
+REG[Mitteleuropa, Deutschland]
+SRC[8, S. 285
+    1791 gedruckt in Leipzig]
+KEY[Q0155w 16  G 2/4]
+MEL[3b4  5_.43b_2_  1_3b45_
+    5_  6b_6b_444_  5__0_
+    5_  5_.6b7b_5_  4_3b45_
+    4_  3b_.45_3b_  2_123b_
+    5_  +1_3b_453b2  1__
+    5__  +1_3b_453b2  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

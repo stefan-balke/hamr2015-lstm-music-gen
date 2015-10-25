@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HAETT ICH DEN ZOLL AM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1088  04  G 4/4]
+MEL[3  2353  2_0
+    3  2354  2_0
+    2  3234  5_5
+    4  3322  3
+    15_  015_  015 //] >>
+FCT[Wunsch - Lied, Trink - Lied]

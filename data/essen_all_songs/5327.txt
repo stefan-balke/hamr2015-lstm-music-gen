@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Es welken alle Blaetter,]
+CNR[sie fallen alle ab, fallen ab,]
+REG[Osteuropa, Ungarn, Kalocsa, Hajos]
+SRC[8, S. 110
+    1984 aufgezeichnet]
+KEY[Q0155r 08  F 4/4]
+MEL[-5_  1_.-5-3_-5_  1_3_3_
+    3_  2_.1-7_1_  2_-5-5-5_
+    12  3_.33_.3  3_5_43
+    23  4_.44_4_  4_6_5_
+    54  3_3_2_4_  3__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Anhaengsel an der zweiten Zeile.]

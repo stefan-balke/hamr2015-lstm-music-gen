@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    Es wollt ein Maedchen zum Balle gehn,]
+CNR[schneeweiss war sie gekleidet;]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Kr. Koeln, Sinthern]
+SRC[6, S. 246
+    1928 aufgezeichnet]
+KEY[Q0138D 16  G 3/4]
+MEL[1_  1_3_3__2_1_  -7_2_2__.
+    2_  2_5_5__.3_  3_2_2__.
+    23  4_6_6_.56__  5_4_34565_.
+    3  2_3_4__5__  4__3__0_ //] >>
+FCT[Ballade, verlorene Unschuld, Moral]

@@ -1,0 +1,20 @@
+BOEHME
+CUT[KOMM FEIN LIEBCHEN KOMM ANS FENSTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0411  08  G 6/8]
+MEL[  1_-71_-7  1_23_1
+    5_4#5_4#  5_0__
+    1_-71_-7  1_23_1
+    4_34_5  6_0
+    +1_.  +153542  1_0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[KOMM FEIN LIEBCHEN KOMM ANS FENSTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0411  08  G 6/8]
+MEL[  1_-71_-7  1_23_1
+    5_4#5_4#  5_0__
+    1_-71_-7  1_23_1
+    4_34_5  6_0
+    +1_.  +153542  1_0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

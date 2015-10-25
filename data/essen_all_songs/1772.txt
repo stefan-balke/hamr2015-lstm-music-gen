@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Hammerschmiedssohn
+    Es wollt' ein Maedchen frueh aufstehn,]
+CNR[wollt' auf die Wiesen grasen gehn;]
+REG[Suedosteuropa, Jugoslawien, Batschka, Sotin]
+SRC[4, S. 353
+    1938 aufgezeichnet]
+KEY[Q0088A 08  F 3/4]
+MEL[-512  3_.423  1_0
+    -513  5_.645  3_0
+    111  6_.7+16  5_0
+    335  5_.645  3_0 //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft, Mord]

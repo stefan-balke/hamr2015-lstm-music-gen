@@ -1,0 +1,9 @@
+FINK
+CUT[ES WOLLT EIN KOENIG WOHL REISEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0873  08  F 6/8]
+MEL[3  5_5535  3_.1_
+    1  2_2-7_-7  1_35_
+    3  5_35_3  5_32_
+    2  2_2212  3_53_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade]

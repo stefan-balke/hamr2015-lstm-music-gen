@@ -1,0 +1,13 @@
+BOEHME
+CUT[DER KAISER STREIT'T FUERS LAENDELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0577  08  C 4/4]
+MEL[-3-4  -5_1_-6_1_  -5_.-4-3_
+    -5_  -5_-4-3-4_-6_  -6_-5_-5_
+    -3-4  -5_1_-6_1_  -5_.-4-3_
+    3_  3_2_-6_-7_  1__0_
+    -3-4  -5_1_-6_1_  -5_.-4-3_
+    -5-5  -5_-4-3-4_-6-6  -6_-5-4-5_
+    -3-4  -5_1_-6_1_  -5_.-4-3_
+    33  3_2_4_-7_  1__0_ //] >>
+FCT[Soldaten -, Scherz -, Trink - Lied]

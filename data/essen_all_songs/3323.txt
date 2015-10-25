@@ -1,0 +1,8 @@
+F[ERK2
+CUT[ICH KANN UND MAG NICHT FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Bergstrasse]
+KEY[E0766A 16  G 3/4]
+MEL[-5_1_2_  1__3__3213  2__.
+    3_1_2_  3_.54_3_2_1_  2_.65_
+    421_-7_  1_.23_321_-7_  1__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

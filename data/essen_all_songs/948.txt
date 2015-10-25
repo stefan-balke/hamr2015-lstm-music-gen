@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Das Voegelein"
+    VOEGELEIN IM TANNENWALD PFEIFFET SO HELL]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1213  16  G 3/8]
+MEL[123_4_  5_6_5_  6_5_4_  3_+1+1+1_
+    123_4_  5_6_5_  6_5_4_  3__.
+    3_5_5_  5_4_4_  4_3_3_  3_222_
+    123_4_  5_6_5_  6_5_4_  3__. //] >>
+FCT[Liebes - Lied]

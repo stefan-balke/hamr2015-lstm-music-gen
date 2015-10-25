@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Osterlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0562  04  F 4/2]
+MEL[1__  1_5_3_1_  2_4_3__
+    5__4_3_  2__1__
+    4__4_4_  4_2_3_4_  5__
+    4_3_  2__1__
+    5__6_.5  4_3_2__  1___  0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Constanzer Gsgb 1600 fol. 76.]

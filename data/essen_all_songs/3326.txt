@@ -1,0 +1,10 @@
+F[ERK2
+CUT[SCHATZ MEIN SCHATZ REIS NICHT SO WEIT]
+REG[Europa, Mitteleuropa, Deutschland, Baden; Elsass; Schleswig; Hessen]
+KEY[E0766D 16 Eb 4/4 3/4]
+MEL[1_1_3_  5__5__6_.65_4_  3__0_
+    1_1_1_  4_6_+1_+1_7_6_  5_+1_3_
+    5_6_5_  7__.6_5_4_  3__0_
+    1_1_1_  4_6_+1_+1_7_6_  5_+1_3_
+    5_6_5_  7__.6_5_4_  3__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

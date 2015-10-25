@@ -1,0 +1,12 @@
+DVA
+CUT[Lazarus und der Prasser
+    Der Lazarus leit auf dem Mist und schlief,]
+CNR[da schickte Gott ein Engel, der ihnen aufrief.]
+REG[Europa, Mitteleuropa, Lothringen, Gebenhausen]
+KEY[D0024  16  F 2/4]
+MEL[-5_  1_.11_2_  3__5_4_  3__2__  1__.
+    1_  2_.22_2_  2__3_4_  5__4_3_  2__0_
+    1_  3__3_4_  5__.5_  4_3_2_1_  4__0_
+    2_  5__4_2_  1_5_4_2_  3__2_-5_  1__0_ //] >>
+FCT[Legenden - Lied]
+CMT[Inzipit =  Variante]

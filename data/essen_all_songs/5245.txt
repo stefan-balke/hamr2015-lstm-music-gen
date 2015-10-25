@@ -1,0 +1,11 @@
+BOEHME
+CUT[ES IST EIN SCHNITTER DER HEISST TOD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0772  08  G 4/4]
+MEL[-5  1_1_-7_-7_  -6_-6_-5_.
+    -5  1_.1-7_1_  2_2_3_0
+    3  3_212_-5-5  3_212_-5
+    -5  3_234_22  2_123_10
+    5_.31_1_  2_2_3__
+    5_+153_5_  4_2_1_0 //] >>
+FCT[Trost - Lied, Tod, religioes]

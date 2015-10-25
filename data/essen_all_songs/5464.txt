@@ -1,0 +1,9 @@
+KINDER
+CUT[RINGLE RINGLE REIHE]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt]
+KEY[K2063  16  F 2/4]
+MEL[  5_5_6_6_  5__3_
+    1_  5_5_666_  5__3_
+    1_  5_5_676_  5_5_3_
+    1_  5_5_6_6_  5_5_5_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

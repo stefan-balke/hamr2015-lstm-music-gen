@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Y a bien longtemps brunette]
+CNR[que je ti fais l'amour.]
+REG[Mitteleuropa, Frankreich]
+SRC[2, S. 133
+    1906 gedruckt in Paris]
+KEY[Q2042F 08  A 6/8 3/8]
+MEL[-5  1_3b2_1  1_-7-5_
+    -5  1_3b5_4  3b2
+    -7  1_3b2_1  1_-7-5_
+    -5  1_3b5_4  3b2_
+    3b42-7_2  1_.^0 //] >>
+FCT[Ballade, Braut - Werbung, Betrug]
+CMT[Franzoesische Fassung der Ballade.]

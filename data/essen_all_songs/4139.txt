@@ -1,0 +1,11 @@
+F[ERK3
+CUT[MIT FROHEM MUTH UND HEITERM SINN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar]
+KEY[E1606  08  C 4/4]
+MEL[-1-3  -5_.-31_-7-6  -6-5-5_-5_
+    1_  2_.-5-5_32  1__0_
+    -1-3  -5_.-31_-7-6  -6_-5_-5_
+    1_  2_2_2-5-5_  1_.23_
+    -5_  -3_-6_-5_-5_  3_.21_
+    -6_  -5_2_1_-7_  1__0_ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

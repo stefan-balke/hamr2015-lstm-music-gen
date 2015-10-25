@@ -1,0 +1,13 @@
+BOEHME
+CUT[ZWISCHEN FRANKREICH UND DEM BOEHMERWALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0538  16  C 3/4]
+MEL[3_4_  5__.+1_7_6_  5_.35_
+    5_4_3_  2__5__.4_  4__3__
+    3_4_  5__.+1_7_6_  5#___
+    4#_3_  6__.+1_7_6_  +3___
+    +1_+2_  +3__+1__7_6_  5_.35_
+    5_4_3_  2__5__.4_  4__3_5_
+    +1_+2_  +3__+1__7_6_  5_.35_
+    5_4_3_  2__5__.-7_  2__1__ //] >>
+FCT[Wander -, Heimat - Lied]

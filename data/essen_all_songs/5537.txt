@@ -1,0 +1,12 @@
+KINDER
+CUT[SCHLUPPT ALLE DURCH]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt]
+KEY[K2295  08  D 2/4]
+MEL[1  5531  553
+    1  +1765  5_3
+    1  5531  553
+    1  +1765  5_3
+    1  5_31  5_3
+    1  5531  553
+    1  +1765  5_3 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

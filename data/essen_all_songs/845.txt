@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Die harrende Braut"
+    DER FRUEHLING KAM UND DIE NACHTIGALL]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1110  08  F 4/4]
+MEL[12  3_3_3_54  3_3_3_
+    23  4_4_4_54  3__0_
+    23  4_444654  3_3_3_
+    23  4_4_4654  3_3_3_
+    54  3_543_54  3_0__
+    43  2_432_43  2_0__
+    13  5_555+176  5_543_
+    23  4_4_5_43  2__0_
+    32  1__.23  3_4_3_2_  1__0_ //] >>
+FCT[Romanze, Ballade, verlassene Liebe]

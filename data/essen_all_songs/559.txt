@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ICH WEISS EIN FEIN BRAUNS MAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0143  08  C 4/4]
+MEL[1_  1_1_5_5_  5_5_5_
+    5_  4_5_6_5_  5_4_3_
+    3_  4_4_5_3_  4_3_5_
+    3_  4_4_5__  4_3__21  2__1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

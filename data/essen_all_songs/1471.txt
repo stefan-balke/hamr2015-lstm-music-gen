@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Und wollt das Maderl in der Fruah aufstehn,]
+CNR[wollt ins Braunbirlbrokken gehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Bayern, Bayerischer Wald, Zwiesel]
+SRC[7, S. 73
+    1935 aufgezeichnet (?)]
+KEY[Q0147B 16  G 6/8]
+MEL[1_  3__3_5_.533  4__4_5__.
+    4__2_5__4_  3__3_3__
+    1_  3__3_5_.53_  4__5_7__
+    77  +2__777__+4_  +3__+1_5__
+    3_  4__5_7_.54_  3__.0__ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Dreistimmig notiert, Oberstimme kodiert.
+    Vierte Zeile refrainartig.]

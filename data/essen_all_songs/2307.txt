@@ -1,0 +1,11 @@
+FINK
+CUT[KUCKUK KUCKUK RUFT AUS DEM WALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0776  08  G 3/4]
+MEL[  5__30  5__30
+    543_2_  1__0_
+    2_2_3_  4__20
+    3_3_4_  5__30
+    5__30  5__30
+    543_2_  1__0_ //] >>
+FCT[Geselligkeits -, Jahreszeiten - Lied, Fruehling]

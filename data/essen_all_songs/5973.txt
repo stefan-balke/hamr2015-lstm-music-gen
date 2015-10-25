@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Herr von Falkenstein
+    Ick sach mijn heere van valckensteyn]
+CNR[to siner Borg op rieden,]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[1, S. 223
+    1539 gedruckt in Antwerpen]
+KEY[Q0021  08  D FREI]
+MEL[1_  5_5_3b_1_  2_3b_4_
+    5_  6_7b_+17b7b_  6__5_
+    5_  6_7b_+1_1_  3b_6b_5_
+    5_  3b_456b_5_  4_3b21_ //] >>
+FCT[Ballade, Gefangenschaft, Ehe, Befreiung; geistlich]
+CMT[Geistliche Kontrafaktur. Original in Choralnotation.]

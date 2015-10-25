@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Strassburger Sohn"
+    ES KAM EIN ABENTEURER ZU REITEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1035  16  G 4/4]
+MEL[1__  1_5_5_5_5__6_+1_  7b__6__5__0_
+    6_  7b__5_5_5__2_3_  4__3__2__0_
+    5_  5__5_3_1__.3_  5_4_4_3_2__.
+    3_  4_3_2_1_-7__1__  2__.321__ //] >>
+FCT[Romanze, Ballade]

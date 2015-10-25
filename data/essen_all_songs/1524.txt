@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt ein Jaeger jagen]
+CNR[drei Viertelstunden vor Tagen]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 215
+    1856 gedruckt in Berlin]
+KEY[Q0152F 16  G 6/8]
+MEL[13  5_.65_3_.23_  4__3_2__
+    13  5_.65_3_.23_  4__3_2__
+    5_  3_.43_2_.12_  1_.23_2__
+    5_  3_.43_2_.12_  1__.0__ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]

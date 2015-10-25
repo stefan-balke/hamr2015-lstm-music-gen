@@ -1,0 +1,12 @@
+DVA
+CUT[In Hamburg steht ein Haus,
+    in Hamburg steht eine Villia,]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0269  16  C 2/4]
+MEL[ 5__  +1_5_3_1_  5__
+    +3__  +2_+1_7_6_  5__
+    6__  5_.43_44  5_5_5__
+    5_.43_4_  5_5_5_
+    +1_  7_7_6_7_  +1__ //] >>
+FCT[Tanz - Lied, Spiellied]
+CMT[Inzipit = Variante zum Lied]

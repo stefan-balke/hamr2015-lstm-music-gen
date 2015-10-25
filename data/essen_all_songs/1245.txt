@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Solemnis dies advenit]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S 294
+    1646 Handschrift Kloster Seeon]
+KEY[Q3053G 04  F 4/4 6/4]
+MEL[112  3532  1_0
+    156  75+16  5_0
+    +176  5654  3_0
+    654  3122  1 //] >>
+FCT[geistlich ?]
+CMT[Melodievergleich zu Q0053 , anderes Lied.]

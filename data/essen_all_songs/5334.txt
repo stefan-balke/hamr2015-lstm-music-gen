@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Wy klommen op hooge bergen,]
+CNR[en wy keken te zeewaert in;]
+REG[Mitteleuropa, Niederlande]
+SRC[8, S. 285
+    1903 gedruckt in 's Gravenhage]
+KEY[Q2155y 16  G 6/8]
+MEL[-5_  1_1_2_3b__2_  1__.-5__
+    11  3b_3b_3b_4_3b_4_  5__.^__
+    5_  5_5_5_6b__5_  5__4_2__
+    4_  4__6b_5__5_  5_4_3b_2__
+    2_  4_5_6b_1__2_  1__.^__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Niederlaendische Fassung der Ballade.
+    Schlusston rhythmisch korrigiert.]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Rebner]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0329  02  F 3/2]
+MEL[111  3_3  5_5  33
+    6  5_5  336  5_5  33
+    3  333  3_3  4_3  222  1_-7  1_
+    3  333  3_3  4_3  222  1_-7  1_. //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Forster II (1540) No. 54.]

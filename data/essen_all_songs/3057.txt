@@ -1,0 +1,9 @@
+F[ERK1
+CUT[JETZT KOMMT DIE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0537B 08  G 4/4]
+MEL[-5_  1_-5_3_21  -7_.12_
+    54  3_2_1_3_  2__0_
+    23  4_6_4_2_  3_5_3_
+    13  2_4_2_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

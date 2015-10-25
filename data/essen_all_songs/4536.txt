@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die neue Jagd]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0448  08  D 3/8]
+MEL[-5  1_1  212  31
+    1  3_3  2_2  1_
+    -5  1_1  212  31
+    1  3_3  2_2  1_
+    3  5_3  3_5  42
+    2  4_4  3_3  2_
+    -5  1_1  212  31
+    1  3_3  2_2  1_ //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Bueschings Volkslieder 1807 No. 74.]

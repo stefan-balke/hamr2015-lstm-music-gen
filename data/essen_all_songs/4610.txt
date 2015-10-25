@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ansingelied zum Neujahre]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0530B 02  C 3/1]
+MEL[1_  -5-61_2_  121_
+    3_  432_-5_  -6-71_0
+    2  223_2_  1-6-5_
+    5_  432_1_  1-71_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Leisentrits Gsgb. 1584.]

@@ -1,0 +1,11 @@
+F[ERK2
+CUT[EINST LEBT ICH SO GLUECKLICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oberhessen; Nassau]
+KEY[E0737  08 Eb 3/4]
+MEL[12  3_3_23  4_4_
+    23  466_65  5__
+    13  5_5_65  542_
+    5_  7_.654  3__
+    13  5_5_65  542_
+    5_  7_.654  3__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

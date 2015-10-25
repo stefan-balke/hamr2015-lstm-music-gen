@@ -1,0 +1,12 @@
+F[ERK3
+CUT[JAENSKEN VON BREMEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1164  04  G 3/4]
+MEL[  554  3b21  -712  -5_
+    5  6b54  3b25  -5_-7  10
+    5  554  3b21  -712  -5_
+    5  6b54  3b25  -5_-7  10
+    5  -5_-7  105  -5_-7  10
+    5  6b54  3b25  -5_-7  10
+    5  -5_-7  105  -5_-7  10_ //] >>
+FCT[Trink -, Zech - Lied]

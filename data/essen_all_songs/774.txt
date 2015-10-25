@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der wilde Ritter"
+    ES FLOH EIN RITTER MIT SEINER DAM]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1039  08  A 4/4]
+MEL[-6-7b  1_.11_23  4_321_
+    23  4_.21-7b-6-7b  1__-6_0
+    -6  -5_-5-6-5_-6-7  1_-7-6-5_.
+    3  2_.1-7_12  1_-7_-6_
+    1_  -7_-5-5-6_-7_  1__1_ //] >>
+FCT[Romanze, Ballade, Tod]

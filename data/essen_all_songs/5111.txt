@@ -1,0 +1,13 @@
+BOEHME
+CUT[WENN MEIN PFEIFCHEN DAMPFT UND GLUEHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0648  16  G 3/4]
+MEL[  -5__.3_1_1_  4_4_2__0__
+    -5__.3_2_1_  -7_2_5__0__
+    3__.3_3_3_  54342__0__
+    5_5_6_.4422-7  2__1__0__
+    -7_2_5__.4_  3_231__0__
+    -7_2_5__.4_  3_2_1__0__
+    -5__.3_3_3_  54342__0__
+    5_.56_.4422-7  2__1__0__ //] >>
+FCT[Moral -, Lob - Lied auf den Tabak]

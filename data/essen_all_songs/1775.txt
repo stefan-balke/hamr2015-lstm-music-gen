@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Hammerschmiedssohn
+    Erstanden ist der Herre Christ,]
+CNR[Alleluia, Alleluia,]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 358
+    1559 gedruckt]
+KEY[Q1088D 04  C 6/4]
+MEL[+1  +1_+17_7  +16_5_
+    5  6_+17_6  5_43_
+    3  3_35_4  32_1_
+    1  5655_5  42_1_ //] >>
+FCT[geistlich, Triller]
+CMT[Melodievergleich zu Q0088, anderes Lied.]

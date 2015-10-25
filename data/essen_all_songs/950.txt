@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Die Versucherin"
+    ULLI, MEIN ULLI, KOMM DU ZU MIR CHILT]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1215  08 Ab 3/4]
+MEL[1_  1_.321  -7-5-5_
+    1_  3_1353  2__
+    1_  1_.321  -7-5-5_
+    1_  3_1353  2__
+    34  5_3_53  4_2_
+    34  5_3_53  4_2_
+    46  5_.342  1__ //] >>
+FCT[Liebes - Lied]

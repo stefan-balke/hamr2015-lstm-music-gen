@@ -1,0 +1,7 @@
+F[ERK3
+CUT[WIR KOMMEN DAHER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Schoenau]
+KEY[E1198A 04  G 4/4]
+MEL[-5  1111  135
+    5  5556  523 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige]

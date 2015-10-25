@@ -1,0 +1,18 @@
+BOEHME
+CUT[WALDESLUST WALDESLUST O WIE EINSAM]
+REG[Europa, Mitteleuropa, Deutschland, Hunsrueck; Kreis Wetzlar]
+KEY[B0175  16 Eb 3/4]
+MEL[  5_.43__0__  5_.43__0__
+    5_+1_7__.6_  6_.55_
+    +1_+2_+1_  +1_.77_+1_7_6_  6_.55_
+    5_6_5_  5_.44_6_5_4_  3__0___ //] >>
+FCT[Natur - Lied]
+BOEHME
+CUT[WALDESLUST WALDESLUST O WIE EINSAM]
+REG[Europa, Mitteleuropa, Deutschland, Hunsrueck; Kreis Wetzlar]
+KEY[B0175  16 Eb 3/4]
+MEL[  5_.43__0__  5_.43__0__
+    5_+1_7__.6_  6_.55_
+    +1_+2_+1_  +1_.77_+1_7_6_  6_.55_
+    5_6_5_  5_.44_6_5_4_  3__0___ //] >>
+FCT[Natur - Lied]

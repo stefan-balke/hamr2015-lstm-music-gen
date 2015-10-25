@@ -1,0 +1,13 @@
+FINK
+CUT[WENN EINST DER ALTE KNOCHENHAUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0518  08  G 4/4]
+MEL[-5_  1_.12222  3_1_0
+    333  2_31-7_-6_  -5__0_
+    -5_  1_.12222  3_1_0
+    333  2_31-7_-6_  -5__0_.
+    5  5_.36_.5  5440__
+    4  4_.25_.4  4330__
+    5  5_.5+1_.3  5420_
+    432  5_1_3_2_  1_0__ //] >>
+FCT[Studenten - Lied, Trink - Spruch]

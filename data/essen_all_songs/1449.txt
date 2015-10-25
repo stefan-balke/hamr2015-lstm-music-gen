@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Nebenbuhler (Jan Willem en Betje)
+    Ik ben er de groenelands straatjes]
+CNR[zoo dikwijls ten einde gegaan,]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[7, S. 26
+    1951 gedruckt in s'-Gravenhage]
+KEY[Q2143H 08  G 6/8]
+MEL[1  222552  3_.1_
+    3  555543  2_.^_
+    2  466666  5_.3_
+    3  222432  1_.^_ //] >>
+FCT[Ballade, Liebes - Klage]
+CMT[Flaemische Fassung der Ballade.]

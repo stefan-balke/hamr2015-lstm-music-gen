@@ -1,0 +1,22 @@
+BOEHME
+CUT[VOM ALTEN DEUTSCHEN MEER UMFLOSSEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0028  08 Bb 4/4]
+MEL[-5-5-5  1_1_3_1-5  -5_-5_0
+    -5-5-5  2_2_4_2-7  1__0
+    111  1-6-6-4#-2_-21  -7-5-5_0
+    -5-5-5  -7_.-51_-5_  2-7-5_0_
+    -5_  1_.13_1_  1_.-6-6_0
+    -6  2_.-64_32  1__3_2_  1__0 //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[VOM ALTEN DEUTSCHEN MEER UMFLOSSEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0028  08 Bb 4/4]
+MEL[-5-5-5  1_1_3_1-5  -5_-5_0
+    -5-5-5  2_2_4_2-7  1__0
+    111  1-6-6-4#-2_-21  -7-5-5_0
+    -5-5-5  -7_.-51_-5_  2-7-5_0_
+    -5_  1_.13_1_  1_.-6-6_0
+    -6  2_.-64_32  1__3_2_  1__0 //] >>
+FCT[politisch, national, Vaterlands - Lied]

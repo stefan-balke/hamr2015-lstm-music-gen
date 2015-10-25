@@ -1,0 +1,10 @@
+F[ERK1
+CUT[JOSEPH LIEBER JOSEPH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0056  04  F 4/4]
+MEL[3b  3b155  5_3b
+    3b  2221  2_0
+    2  23b45  6_5
+    4  3b_22  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Kinds - Mord
+    Ballade ?]

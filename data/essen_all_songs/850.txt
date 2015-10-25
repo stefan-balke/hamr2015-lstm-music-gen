@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Gertrud"
+    ES IST KEIN AEPFELCHEN SO ROTH]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1115  16 Ab 2/4]
+MEL[32  1_1-71235  2_212_
+    32  211-71234  2__0_
+    23  4_4_4_32  3_531_
+    1_  24323_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Maria, geistlich]

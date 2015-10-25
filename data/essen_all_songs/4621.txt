@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Alter Ruf zu Christo]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0540  02 Bb 3/2]
+MEL[+1  +1+1+1  76+1  756  3_
+    +1  +1+1+1  76+1  756  3_
+    6  565  313  565  3_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Mainzer Cantual 1605.]

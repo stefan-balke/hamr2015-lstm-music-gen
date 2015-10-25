@@ -1,0 +1,18 @@
+BOEHME
+CUT[ZUR SCHMIEDE GING EIN JUNGER HELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0104  08 Bb 4/4]
+MEL[-5_  1_1_1_2_  3_2-71_.
+    -5  2_2_2_3_  4_312_
+    -5_  3_21-7_-6_  -5_-4_-3_.
+    -5  -6_-6_4_32  1_-7_1_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[ZUR SCHMIEDE GING EIN JUNGER HELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0104  08 Bb 4/4]
+MEL[-5_  1_1_1_2_  3_2-71_.
+    -5  2_2_2_3_  4_312_
+    -5_  3_21-7_-6_  -5_-4_-3_.
+    -5  -6_-6_4_32  1_-7_1_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[SAG MIR DAS WORT]
+REG[Europa, Mitteleuropa, Deutschland; Irland]
+KEY[B0728  08  F 4/4]
+MEL[  1_123_34  5_653_0_
+    5_432__  4_321__
+    1_123_34  5_653_0_
+    5_432__  4_321__
+    5_432_-5-5  4_321_0_
+    5_432_-5-5  4_321_0_
+    1_123_34  5_653_0_
+    5_432_32  1__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

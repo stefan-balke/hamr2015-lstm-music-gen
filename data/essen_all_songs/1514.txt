@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Jaeger im Tannenholz
+    Es wollt ein Jaeger jagen]
+CNR[wohl in dem Dornenholz.]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hadeln, Ottendorf]
+SRC[7, S. 170
+    1929 aufgezeichnet]
+KEY[Q0151B 16  D 6/8]
+MEL[4_  3__4_4__3_  3__.2__
+    5_  6__5_2__4_  3__.0_
+    1_1_  1_1_3_5__+1_  +3__.+1__
+    7_  6__555__4_  3__.0__ //] >>
+FCT[Ballade, abgewiesener Freier, Abschied]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WIE D WOLKEN AM HIMMEL]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[E0636  08  E 3/4]
+MEL[1_  3-51_3_  565_
+    5_  35+1_3_  5__
+    5_  4_-7254  351_
+    3_  2-7-5432  1__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Geburt im Walde
+    Es wundert und wundert mich immer so sehr,]
+CNR[dass unsre schoene Tochter die Farbe so verliert,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[1, S. 70
+    1914 aufgezeichnet]
+KEY[Q0007C 16  G 3/8]
+MEL[12  3b_5_4_  5_5_5_  5_4_3b_  2__
+    3b_  4_4_55  3b_3b_3b_  2_2_11  5__
+    -5_  1_1_22  3b_5_4_  3b_3b_22  1__ //] >>
+FCT[Ballade, Geburt, Tod, Moral]

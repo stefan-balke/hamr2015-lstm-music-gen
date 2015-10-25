@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Herori matori!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0244  02  F 3/2]
+MEL[1  1_1  2_3  4_4  2_4  323  11
+    1  5_5  5_5  3_3  2_
+    5  2_3  2_3  432  1_1  345  42_  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 32.]

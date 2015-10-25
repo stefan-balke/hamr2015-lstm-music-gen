@@ -1,0 +1,9 @@
+BOEHME
+CUT[EIN REISLEIN AM HUTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0662A 16  G 3/8]
+MEL[3_  3_2_1_  -5_0_-5_  -5_-6-711#  2__
+    2_  4_3_2_  1_-7_-6_  -5_-6_-7_  1__
+    1_  1_1_1_  2_1_1_  2_2_2_  3_2_
+    2_  3_3_3_  4321-7-6  -5_-6_-7_  1__ //] >>
+FCT[Wander -, Moral - Lied, Vergaenglichkeit]

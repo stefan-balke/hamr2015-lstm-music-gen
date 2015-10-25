@@ -1,0 +1,26 @@
+BOEHME
+CUT[GUTER MOND DU GEHST SO STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0468  08  G 4/4]
+MEL[54  3_3_3456  542_0_
+    54  3_3_2123  1__0_
+    54  3_3_3456  542_0_
+    54  3_3_2123  1__0_
+    23  4_2_0_34  5_3_0_
+    55  6_.56543  3_2_0_
+    54  3_3_3456  542_0_
+    54  3_3_2123  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[GUTER MOND DU GEHST SO STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0468  08  G 4/4]
+MEL[54  3_3_3456  542_0_
+    54  3_3_2123  1__0_
+    54  3_3_3456  542_0_
+    54  3_3_2123  1__0_
+    23  4_2_0_34  5_3_0_
+    55  6_.56543  3_2_0_
+    54  3_3_3456  542_0_
+    54  3_3_2123  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

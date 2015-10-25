@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Es wollt ein Koenig ausreiten]
+CNR[mit seinen vielen Leuten]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen, Schoenbirk]
+SRC[2, S. 197
+    1925 aufgezeichnet]
+KEY[Q0048  08  D 3/4]
+MEL[1  11545_  43b2_0
+    1  3b21_5_  43b3b_
+    3b2  1_5_13b  3b21
+    112  3b_1_3b2  1_05(43b2)  1_0_. //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Anhaengsel in der letzten Zeile.]

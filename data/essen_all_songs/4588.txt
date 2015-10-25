@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Ein gut gesang von eim wachter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0512A 04  D FREI]
+MEL[1_1_1_1_5_6_7b_5_5_4_5  1_3b_4_3b_2_1_-7_1_
+    7b_5_4_3b_2_1_-7_1_3b_2_1_1_
+    1_1_1_1_5_6_7b_5_5_4_5  1_3b_4_3b_2_1_-7_1_
+    7b_5_4_3b_2_1_-7_1_3b_2_1_1_
+    1_2_3b_4_5_4_3b_4_  41_2_3b_4_5_4_3b_4_1_  3b_43b_2_-7_1_
+    5_4_3b_2_2_1_-7_1_3b_2_1_1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Spoerls Liederhs. Ende 14. Jh. fol. 222b]

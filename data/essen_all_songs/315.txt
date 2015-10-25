@@ -1,0 +1,20 @@
+BOEHME
+CUT[DICH SANFTER JUENGLING LIEBT MEIN HERZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0372  08 Eb 3/4]
+MEL[  5_5_5_  5_+3_+1_  +17+2_4_  4_3_0_
+    5_5_5_  5_6543  (234)3_0_
+    5_6_7b_  7b_6_+16  5_6_7b_  7b_6_0_
+    6_7_+1_  +1_7_+27  6_7_+1_  +1_7_0_
+    +2_+1765  +1__64  3__2_  1_0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[DICH SANFTER JUENGLING LIEBT MEIN HERZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0372  08 Eb 3/4]
+MEL[  5_5_5_  5_+3_+1_  +17+2_4_  4_3_0_
+    5_5_5_  5_6543  (234)3_0_
+    5_6_7b_  7b_6_+16  5_6_7b_  7b_6_0_
+    6_7_+1_  +1_7_+27  6_7_+1_  +1_7_0_
+    +2_+1765  +1__64  3__2_  1_0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

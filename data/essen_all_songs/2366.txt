@@ -1,0 +1,11 @@
+FINK
+CUT[MAEDEL SCHAU MIR INS GESICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0909  16  A 2/4]
+MEL[5_.3  1_1_2_23  1__
+    5_.3  1_1_2_23  1__
+    -7123  4_2_3_1_  2_-5_
+    -7123  4_2_3_1_  2_-5_
+    3_.4  5_5_3_.4  5__
+    (6_4_2_)  (5_3_1_)(4_2_-7_)  1__ //] >>
+FCT[Liebes - Lied]

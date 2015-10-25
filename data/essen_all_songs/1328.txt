@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Bie vrie ischt auf schian's And'rle,]
+CNR[schian's And'rle, schian's Shneidarle!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 99
+    ????]
+KEY[Q0057K 08  G 4/4]
+MEL[42  3_.21-51_  2_1_-5_
+    -5-7  2_4_3432  1_2_1_ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT["Typische Unterstimme"]

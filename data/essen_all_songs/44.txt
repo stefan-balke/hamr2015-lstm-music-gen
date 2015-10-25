@@ -1,0 +1,30 @@
+BOEHME
+CUT[HERAUS HERAUS DIE KLINGEN LASST ROSS UND KLEPPER SPRINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0053  16  F 6/8 2/4]
+MEL[1_  1__1_1__1_  1__.-5__
+    -5_  3__3_3__3_  3__.1__
+    1_  2__2_4#__4#_  5__.0__
+    6_  7__5_6__4#_  5__0__.
+    5_  5__3_6__5_  5__.4__
+    4_  4__2_5__4_  4__.3__
+    1_  1__1_+1__6_  5__.
+    4__.  3__3_5__5_  1___
+    5_.4  3_3_2_2_  1_0_
+    5_.4  3_3_2_2_  1_0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[HERAUS HERAUS DIE KLINGEN LASST ROSS UND KLEPPER SPRINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0053  16  F 6/8 2/4]
+MEL[1_  1__1_1__1_  1__.-5__
+    -5_  3__3_3__3_  3__.1__
+    1_  2__2_4#__4#_  5__.0__
+    6_  7__5_6__4#_  5__0__.
+    5_  5__3_6__5_  5__.4__
+    4_  4__2_5__4_  4__.3__
+    1_  1__1_+1__6_  5__.
+    4__.  3__3_5__5_  1___
+    5_.4  3_3_2_2_  1_0_
+    5_.4  3_3_2_2_  1_0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

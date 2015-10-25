@@ -1,0 +1,8 @@
+F[ERK2
+CUT[DIEWEIL ER UNSER SCHWESTER HAT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0946  04  F 4/4]
+MEL[5  312-7  132
+    5  312-7  132_  121 //] >>
+FCT[Tanz - Lied, Reigen]
+CMT[Fragment]

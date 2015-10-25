@@ -1,0 +1,10 @@
+FINK
+CUT[TRAURIG SEHEN WIR UNS AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0480  16  G 3/4]
+MEL[  -5_1_1__3__  21-712__0__
+    3_4_5__6__  5_4_3__0__
+    5_2_2__3__  54433__2__
+    5_2_2__3__  54433__2__
+    5__.4_4321  1__3_2_1__ //] >>
+FCT[Studenten - Lied, Abschied]

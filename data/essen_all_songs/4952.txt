@@ -1,0 +1,9 @@
+BOEHME
+CUT[SO LEB DENN WOHL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0489  08 Eb 3/4]
+MEL[54#5  6_.24-7  1_0
+    54#5  7_.654  3_0
+    54#5  7_.567  +1_.
+    323  6_.542  1_0 //] >>
+FCT[Abschieds - Lied]

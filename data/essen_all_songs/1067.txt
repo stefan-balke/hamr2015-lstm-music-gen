@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Wunsch"
+    WENN I E BUURE CHAETZLI WAER]
+REG[Europa, Mitteleuropa, Schweiz; Elsass]
+KEY[Z1333  16  F 2/4]
+MEL[-5_  3_1_4_2_  5_565_.
+    4  3_314_42  5__5_
+    4_  3_5_5432  1_111_
+    1_  2_2_21-7-6  -5_-5-5-5_
+    -5_  3_.55432  1__1_
+    3_  2_3_421-7  1__1_ //] >>
+FCT[Zech -, Schalks - Lied; Wunsch -, Kilt - Lied]

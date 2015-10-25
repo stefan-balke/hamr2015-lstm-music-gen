@@ -1,0 +1,9 @@
+KINDER
+CUT[SCHLAF KINDCHEN WOHLE]
+REG[Europa, Mitteleuropa, Deutschland, Untertaunus, Niederreifenberg]
+KEY[K0024  16  F 2/4]
+MEL[  5__4_2_  1__-5__
+    555_442_  1__-5__
+    111_222_  3_6_5__
+    4_2_3_1_  2_2_1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

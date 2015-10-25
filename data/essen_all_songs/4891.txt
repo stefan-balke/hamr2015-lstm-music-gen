@@ -1,0 +1,11 @@
+DVA
+CUT[Der Honef di wor gor klin, gor klin,
+    de Kegder dae woren gor schin, gor schin]
+REG[Europa, Suedosteuropa, Rumaenien, Siebenbuergen]
+KEY[D0200  16  D 6/8]
+MEL[5_  +1_7_6_5__3_  2__3_1__
+    5_  +1_7_6_5__3_  2__3_1__
+    1_  4_.56_5__1_  4__6_5__
+    5_  +1_7_6_5_6_5_  4_3_2_1_0_ //] >>
+FCT[Scherz - Lied]
+CMT[Inzipit = Transposition zum Lied]

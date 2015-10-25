@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MEINE SCHUHE SIND ZERISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[E1623  08  G 3/4]
+MEL[-5-5  1_5_31  -7_5_
+    2-7  1_5_31  2__
+    23  466_6_  5_3_
+    3_  255_4_  3__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied]

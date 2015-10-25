@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Graf mit einer Magd,]
+CNR[sie spielten alle beide,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Wetterau]
+SRC[3, S. 13
+    1856 aufgezeichnet (vor)]
+KEY[Q0055D 08  G 3/4]
+MEL[-512  3_.234  5_.
+    345  6_5_4_  3_0
+    135  2_.435  1_.
+    234  5_3_2_  1_0 //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Moeglicher Taktwechsel zum 2/4 angemerkt.]

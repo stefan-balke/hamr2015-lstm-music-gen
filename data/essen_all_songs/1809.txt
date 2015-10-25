@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt ein reicher Kaufmannssohn]
+CNR[zu Kolberg an dem Rheine,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Grossenhain]
+SRC[6, S. 108
+    1929 augezeichnet (vor)]
+KEY[Q0127J 16  G 2/4]
+MEL[13  5_5_5_+1_  3_3_3_
+    1_  3_.13_5_  4_.32_
+    4_  3_5_2_4_  3_5_2_
+    6_  5_4_3_3_  2__1_ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

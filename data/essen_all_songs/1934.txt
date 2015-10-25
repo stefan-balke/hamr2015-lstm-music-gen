@@ -1,0 +1,9 @@
+FINK
+CUT[ANKE VAN THARAW]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0137  08  A 3/4]
+MEL[  5_5_2_  3_3_2_  1_123_  2__0_
+    5_5_2_  3_3_2_  1_123_  2__0_
+    3_3_4_  5_5_4_  3_2123  1__0_
+    3_3_4_  5_5_4_  3_2123  1__0_ //] >>
+FCT[Liebes - Lied, Treue]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[IN GLUCKGLUCK LEB ICH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1626  08  F 3/4]
+MEL[53+1  6666+16  5_3
+    523  444424  4_3
+    53+1  6666+16  5_3
+    523  444424  4_3 //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Trink - Lied]

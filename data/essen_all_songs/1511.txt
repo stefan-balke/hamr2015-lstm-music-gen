@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Jaeger auf koeniglicher Heide
+    Es ging ein Jaeger jagen]
+CNR[wohl auf die Lueneburger Heid, eins, zwei!]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland - Pfalz, Pruem,
+    Hallschlag]
+SRC[7, S. 160
+    1928 aufgezeichnet (1926/28)]
+KEY[Q0150B 16  G 6/8]
+MEL[1_  1_-6_-6_-6_-7_1_  -5__.-5__
+    1_  -7__-6_-5_-5_-7-7  3__2_3_0_
+    2_  1__-7_-6__-4_  -5__.-4__
+    1_  -7__2_-6_-6_-7-7  1__1_1_0_ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre; Kinder - Spiel]
+CMT[Anhaengsel an der zweiten und letzten Zeile.]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[MARIA DURCH NEN DORNWALD GING]
+REG[Europa, Mitteleuropa, Deutschland, Eichsfelde]
+KEY[E1193  08  G 4/4]
+MEL[-5_  1_.23b_5_  3b_212__
+    3b_3b3b4__  5__0_
+    3b4  5_.45_6b5  4_.3b4_
+    54  3b_.23b_43b  2_.12__
+    1_.23b_5_  3b21__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Silvester, Namenstag
+    und Taufe Jesu]

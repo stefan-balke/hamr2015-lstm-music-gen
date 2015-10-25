@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Waise und Stiefmutter
+    Ein armes Maedchen war,]
+CNR[die eine Waise war,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau, Steinperf]
+SRC[5, S. 299
+    1922 aufgezeichnet]
+KEY[Q0116B 08  G 6/8]
+MEL[-5  1_-7-6_-5  -4_.^_
+    -5  -7_-6-5_-4  -3_.^_
+    -5  3_32_3  4_.^_
+    -6  -5_22_3  1_.^_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

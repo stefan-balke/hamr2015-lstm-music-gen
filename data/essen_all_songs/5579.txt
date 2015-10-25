@@ -1,0 +1,11 @@
+KINDER
+CUT[WER HAT DEN SCHLUESSEL ZUM GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2606  16  C 2/4]
+MEL[1_  5_5_666_  5__3_0_
+    5_4_3_1_  5_4_3_1_
+    5_5_666_  554_3_1_
+    5_4_3_1_  5_4_3__
+    5_4_3__  5_4_3__
+    5_5_666_  554_3__ //] >>
+FCT[Kinder - Lied, Gesellschafts - Spiel]

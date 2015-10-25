@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Kyrillischer Text]
+REG[Osteuropa, UdSSR, Ukraine]
+SRC[4, S. 32
+    1896 gedruckt]
+KEY[Q2072L 08  A FREI]
+MEL[111-6b  -6b13b_.2b
+    1_5_5_7b5  6b_5_4_1_42
+    3b_2b17b_7b_  123b_4_  1__0_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Ukrainische Fassung der Ballade. Vorsaenger - Chor.
+    Taktarten 3/4 4/4 5/4 6/4 vorgezeichnet. In FREI geaendert.
+    Phrasen - Einteilung und Tonart unklar.]

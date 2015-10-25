@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Die Beruhigte"
+    WANN I HALT FRUA AUFSTEH]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1234  08  G 3/4]
+MEL[1_3-513  5_+113_
+    2_4-5-7_  1_3-51_
+    1_3-513  5_+113_
+    2_442_  1_
+    331_  2_442_  1_
+    331_  2_442_  1__
+    55  +1_5343  1_0__ //] >>
+FCT[Liebes - Lied]

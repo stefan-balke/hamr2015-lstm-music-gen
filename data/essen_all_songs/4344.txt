@@ -1,0 +1,13 @@
+F[ERK3
+CUT[IN SCHWARZ WILL ICH MICH KLEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Muenchen]
+KEY[E1967  08  F 3/4]
+MEL[5_  5__6_  4__5_  3_.45_  2__
+    1_  1_.23_  3_2__  1__.  0__
+    5_  5__6_  4__5_  3_.45_  2__
+    1_  1_.23_  3_2__  1__.  0__
+    3_  4__4_  5_.43_  2_.34_  2__
+    4_  5_.43_  3_.21_  2__.  0__
+    5_  5__6_  4__5_  3_.45_  2__
+    1_  1_.23_  3_2__  1__ //] >>
+FCT[geistlich, Fest - Lied, Biblischer Stoff, Passion]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[WENN WIR DURCH DIE STRASSEN ZIEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0563  08 Eb 4/4]
+MEL[3_3_  5_.33212  3_1_
+    3_.3  2_5_7_.6  5__
+    3_3_  5_.33212  3_1_
+    3_.3  2_5_7_.6  5__
+    5_5_  65656565  5+1+1_
+    +1543  2_.25_4_  3__
+    5_5_  65656565  5+1+1_
+    +1543  2_6_5_.-7  1__ //] >>
+FCT[Studenten -, Wander -, Liebes - Lied]

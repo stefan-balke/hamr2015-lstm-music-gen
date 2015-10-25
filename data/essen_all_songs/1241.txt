@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Es wohnt ein' Witfrau in Oesterreich,]
+CNR[die hat ein kleines Toechterlein;]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Zips, Einsiedel
+    bei Goellnitz]
+SRC[2, S. 284
+    1923 aufgezeichnet]
+KEY[Q0053C 04 Bb 6/4]
+MEL[3  5_5234  3_-71_
+    1  6_6+176  5_23_
+    5  +1+1+157b7b  640_.
+    6  666555  4_53_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]
+CMT[Grundton in der kleinen Oktave. Modulation.]

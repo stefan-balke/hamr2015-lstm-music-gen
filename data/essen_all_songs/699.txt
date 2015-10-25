@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[NACHTIGALL ICH HOER DICH SINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0282  08  F 4/4]
+MEL[-5_-5_  1_3_3_21  2_-5_
+    -5_-5_  2_4_4_32  3_1_
+    -5_-5_  1_3_3_21  2__
+    4_4_  3_421_-7_  1__ //] >>
+FCT[Lyrisches Lied, Romanze]

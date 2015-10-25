@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Koenig und Marquise
+    Lou Rey desumpey calkey dzour,]
+CNR[Lou Rey desumpey calkey dzour,]
+REG[Mitteleuropa, Frankreich]
+SRC[2, S. 30
+    1904 gedruckt in Paris]
+KEY[Q2035C 16  E 2/4]
+MEL[4_3b4  5_+1_7b_6b_  5__
+    4_3b4  5_+1_7b_6b_  5__
+    5_6b7b  +1_+1_7b_.6b  5__
+    7b_6b5  4_3b_4_3b2  1__
+    4_3b4  5_+1_7b_(56b5)  4__ //] >>
+FCT[Ballade, Frauenraub]
+CMT[Verzierung (Vorschlag) in der letzten Zeile. Franzoesische Version
+    der Ballade.]

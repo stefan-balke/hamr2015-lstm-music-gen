@@ -1,0 +1,9 @@
+BOEHME
+CUT[WIE EIN SCHIFFLEIN AUF DEM MEER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0667  16 Eb 4/4]
+MEL[  3__3__5__.4_  3__4__2___
+    1__1__4__3__  2_.32_.32___
+    5__5__+1__7__  6_.7+1_6_5___
+    4__3__6__5__  4__2__1___ //] >>
+FCT[Moral - Lied, Vergaenglichkeit]

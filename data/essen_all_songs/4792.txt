@@ -1,0 +1,11 @@
+DVA
+CUT[Sieben Straeuss
+    Es wollt ein Maedchen zum Tanze gehn.]
+CNR[Sieben Straeusselein hat es im Wasser stehn]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0034  08  D 3/4]
+MEL[5_5_4_  3b_.45_  543b_2_  ^__.
+    44445_  1_.23b_  2_1_-7b_  ^__
+    -7b_  3b__4_  5__43b  2__.  1__. //] >>
+FCT[Ballade, vergebliche Werbung]
+CMT[Inzipit = Variante zum Lied]

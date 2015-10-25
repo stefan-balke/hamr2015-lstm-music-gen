@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DREI LAUB AUF EINER LINDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0404  08  F 3/4]
+MEL[1_  1__1_  1__2_  3__.  5__.
+    1__1_  1__-7_  -6__.  -5__
+    5_  5__.  3__
+    3_  6__5_  4__3_  2__.  3__
+    3_  1__1_  4__4_  2_.34_  5__
+    5_  5__4_  3_2__  1__.  0__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war ein Pfalzgraf an dem Rhein,]
+CNR[der hatt' drei schoene Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+SRC[4, S. 112
+    1931 gedruckt in Wiesbaden - Biebrich]
+KEY[Q0075e 32  F 2/4]
+MEL[5__  3__5__3__5__  6__6__6_5_
+    4_3_  2__4__2__4__  5__5__5_4_
+    3_.2  1___.2__  3___.+1__  7__6__6__6__  5___. //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

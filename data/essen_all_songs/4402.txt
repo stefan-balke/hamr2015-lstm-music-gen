@@ -1,0 +1,9 @@
+F[ERK3
+CUT[NUN WILL ICH MARIA GRUESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Merzhausen]
+KEY[E2081  08  F 4/4]
+MEL[  244_2_-5_  355_3_1_
+    244_2_-5_  355_3_1_
+    6__+1_6_  5__+1_
+    5_  3_3_2123  1__0__ //] >>
+FCT[geistlich, Marien - Lied]

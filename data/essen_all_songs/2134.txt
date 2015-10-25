@@ -1,0 +1,9 @@
+FINK
+CUT[WAS DONNERN DIE KANONEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0432  08  G 4/4]
+MEL[-5_  3_3_3_42  5_.43_
+    3_  2_554#_56  5_0__
+    5_  4_4_2_34  5_5_1_
+    1_  4_4_2_23  1_0__ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Krieg]

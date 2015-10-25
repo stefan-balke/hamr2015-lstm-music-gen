@@ -1,0 +1,26 @@
+BOEHME
+CUT[MARIE SASS TRAURIG IM GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Wetzlar, Schwalbach]
+KEY[B0486  16 Bb 6/8]
+MEL[-5_  -3_.-3-3_-6_-6_-6_  -5_-5__0__
+    -5_  -3_.-3-3_-5_-5_-5_  -4__.0__
+    -5_  -5_.-5-5_-5__-5_  -6_-6__0__
+    -6_  -4_.-4-4_-6__-6_  -5__.0__
+    -5_  -3__-5_3__2_  2_1__0__
+    1_  1__1_-7__1_  2__.0__
+    1_  -7__-6_-5__-4_  -7_-7__0__
+    -6_  -5__-6_-4__-5_  -3__.0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[MARIE SASS TRAURIG IM GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Wetzlar, Schwalbach]
+KEY[B0486  16 Bb 6/8]
+MEL[-5_  -3_.-3-3_-6_-6_-6_  -5_-5__0__
+    -5_  -3_.-3-3_-5_-5_-5_  -4__.0__
+    -5_  -5_.-5-5_-5__-5_  -6_-6__0__
+    -6_  -4_.-4-4_-6__-6_  -5__.0__
+    -5_  -3__-5_3__2_  2_1__0__
+    1_  1__1_-7__1_  2__.0__
+    1_  -7__-6_-5__-4_  -7_-7__0__
+    -6_  -5__-6_-4__-5_  -3__.0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    'Mamma, ich will Prot!']
+CNR['Wart, main Kind, wart, main Kind,]
+REG[Osteuropa, UdSSR, Wolgakolonien, Rothammel]
+SRC[5, S. 275
+    1958 aufgezeichnet]
+KEY[Q0115B 08  G 2/4]
+MEL[  5545  3_0_
+    666_  555_
+    5445  333_
+    1133  5_5_
+    5445  333_ //] >>
+FCT[Ballade, Hunger, Tod]
+CMT[Kleinere Melodieverianten (Strophenvarianten ?) abgedruckt.
+    Mehrere Verzierungen (Glissandi) .]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Steh ich auf hohe Felsen,]
+CNR[schau hinunter ins tiefe Taln,]
+REG[Osteuropa, Ungarn, Tata, Tatabanya]
+SRC[8, S. 103
+    1976 aufgezeichnet]
+KEY[Q0155o 16  G 6/8]
+MEL[-5_  1__1_1__3_  2__.2__
+    -5-5  3_3_3_5_4_3_  2__.0__
+    2_  4_4_4_4_3_2_  1__2_3__
+    1_  -5_3_3_3__2_  1__.0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]

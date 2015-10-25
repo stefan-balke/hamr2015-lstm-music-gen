@@ -1,0 +1,11 @@
+DVA
+CUT[Der Nachtjaeger
+    Es blaset ein Jager wohl in sein Horn]
+CNR[er blaset das Wilper wohl aues das Korn]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0015  16  G 2/4]
+MEL[-5_  1__-7_-6_  -5__-5_-5_  4__4__  3__.
+    3_  3_2_4_2_  1__1_3_  2__2_-7_  1__.
+    11  -7_2_2_22  1_3_5_4_  3__2_2_  1__. //] >>
+FCT[Ballade, Zauber]
+CMT[Inzipit = entfernte Variante ??]

@@ -1,0 +1,9 @@
+KINDER
+CUT[HANSELEMANN HAT STEFELE AN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Unter - Elsass]
+KEY[K3033  08  G 4/4]
+MEL[  3_333_1_  -7_-7-7-7_
+    -5_  -5_.-73_2_  2__1_0_
+    1_1_1_-7_  -6_-6_-6_
+    -5_  -5_.-73_2_  2__1_0_ //] >>
+FCT[Kinder - Lied, Reiter - Spiel]

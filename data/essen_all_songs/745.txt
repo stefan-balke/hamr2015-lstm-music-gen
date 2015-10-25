@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Ritt ins Feenland "
+    DIE KOENIGIN IST DAS SCHOENSTE WEIB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1010  16  G 6/8]
+MEL[3b_  3b_.2-7b_3b__4_  5__4_5__
+    56b  7b_.6b545__4_  3b__0__.
+    4_  4__3_4__6b5  4__3_4__0_
+    4__.5__.  6b_.543b2_.43b2  1__.0__ //] >>
+FCT[Romanze, Ballade]

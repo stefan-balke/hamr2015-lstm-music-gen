@@ -1,0 +1,9 @@
+F[ERK1
+CUT[CHOEN ULERICH UND HANSELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Breslau]
+KEY[E0042C 08  G 2/4]
+MEL[1  1353  645
+    3  5542  132
+    -5  1125  3_2-7  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

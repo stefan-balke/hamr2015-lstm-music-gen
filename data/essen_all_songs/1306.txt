@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    Als wie die Sonn' am Himmel glaenzt]
+CNR[(Lied vom jungen Napoleon)]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 80
+    18?? gedruckt (Fliegendes Blatt) in Saargemuend (Mitte d. 19. Jh.)]
+KEY[Q1056F 16  G 3/4]
+MEL[-5_-6_-5_  3__.1_2_1_  -7__0_
+    -5_-6_-5_  4__3_2_2__  1__0_
+    1_-7_2_  5__4_2_1_3_  3_432_
+    1_-7_2_  5__4_2_2__  1__0_ //] >>
+FCT[historisches Lied, Napoleon]
+CMT[Melodievergleich mit Q0056 , anderes Lied.]

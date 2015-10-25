@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ACH WAS THUT MIR MEIN HERZCHE SO WEH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0574A 08  F 4/4]
+MEL[  1_.23_53  32221_0
+    2  32356555  544_3_0
+    4  355+16_.
+    5  54465_.
+    4  32345_5
+    5  4_5_3__ //] >>
+FCT[Liebes - Lied]

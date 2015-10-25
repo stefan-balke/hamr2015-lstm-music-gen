@@ -1,0 +1,14 @@
+DVA
+CUT[De Kerw
+    Was haetten unsre Bauern denn,]
+CNR[wenn die liebe Kerw nicht waer]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0175  16  G 2/4 3/4]
+MEL[-5_  1_.11_1_  1_3_1__0_
+    33  2_.1-7_-6_  -5__0_
+    55  5_5_4_2_  1__0_
+    3_  5_5_4_2_  5_5_3_
+    1_  2_2_3_.2  1_3_5_
+    3_  5_5_4_2_  5_5_3_
+    1_  2_2_3_.2  1__0_ //] >>
+FCT[Brauchtums - Lied]

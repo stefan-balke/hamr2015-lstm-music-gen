@@ -1,0 +1,11 @@
+FINK
+CUT[WENN MAN MIR EIN MAEDCHEN NENNT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0958  16  G 6/8]
+MEL[  1__1_4__3_  6__4_5__.
+    1_.21_6__5_  5_4_3_3__2_
+    1__1_4__3_  6__4_5__.
+    5_.65_+1__5_  5_4_3_3__2_
+    4__4_4_.6+1_  3__+1_2__.
+    2__6_5_.+11_  2_1_-7_1__. //] >>
+FCT[Liebes - Lied]

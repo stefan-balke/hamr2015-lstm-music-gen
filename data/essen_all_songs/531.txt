@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[EIN KAEFER AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland, Mecklenburg]
+KEY[Z0116  16  G 3/4]
+MEL[-5_  1_.-71_.23_.1  -7_.-6-5___  -7__1__.
+    -5_  2_.1#2__2__  5_.55__.
+    1_  -7_.12__-5__  4_.32___  -7__1__. //] >>
+FCT[Erzaehlung, lustige Romanze]

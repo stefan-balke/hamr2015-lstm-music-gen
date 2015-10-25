@@ -1,0 +1,12 @@
+KINDER
+CUT[PIPKEN PIPKEN SAPE]
+REG[Europa, Mitteleuropa, Deutschland, Elberfeld]
+KEY[K0932  08  G 2/4]
+MEL[  5566  5_3
+    4  5566  5_3_
+    5556  5434
+    5556  5434
+    5556  543
+    5  6543  5_3
+    6  5_36  5_30 //] >>
+FCT[Kinder - Lied, Pflanzen]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Alter Reihen um das erste Veilchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0280A 02  G 4/2]
+MEL[1  1_11  2_2
+    2  3b2-7b2  3b_0
+    1  23b42  3b_2
+    2  123b2  -7b_
+    -5_  -7b122  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Babst Gsgb 1553 II No. 35.]

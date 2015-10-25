@@ -1,0 +1,11 @@
+F[ERK3
+CUT[SOLDATISCHES LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oberhessen; Limburg]
+KEY[E1399  16  G 6/8]
+MEL[-5_  -5_1_1_1_2_3_  3_2_2_2__
+    2_  3_.45_5_4_3_  3__.2__
+    2_  2_2_3_4_.32_  3__4_5__
+    2_  2_2_3_4_.32_  3__4_5__
+    34  5_5_5_6_5_4_  3__4_5__
+    54  3_.43_2_1_2_  1__.0__ //] >>
+FCT[Staende -, Soldaten - Lied]

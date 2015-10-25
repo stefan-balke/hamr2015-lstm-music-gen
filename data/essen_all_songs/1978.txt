@@ -1,0 +1,10 @@
+FINK
+CUT[HURRE HURRE HURRE SCHNURRE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0202  16  G 2/4]
+MEL[  1_-5_1_-5_  12321_0_
+    2_-5_2_-5_  23432_0_
+    5_2_5_2_  56765__
+    +1_5_+1_5_  56543__
+    5_.+15342  1_.21_0_ //] >>
+FCT[Spinnstuben - Lied]

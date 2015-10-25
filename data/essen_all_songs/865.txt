@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Festgesang"
+    WO WIR IN DEM FESTGEWAND IMMER AUCH UNS FINDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1130  16  C 3/4]
+MEL[1_.-5-5__1__  -6_.-6-6__0__
+    -7_.12__-5__  1_3_1__0__
+    1_.-5-5__1__  -6_.-6-6__0__
+    -7_.12__-5__  1_3_1__0__
+    -7_.12__5__  3_1_2___
+    -7_.12__5__  3_1_2___
+    1_-7_-6__4_2_  3__2__1__
+    1_-7_-6__4_2_  3__2__1__ //] >>
+FCT[Vaterland und Wehr]

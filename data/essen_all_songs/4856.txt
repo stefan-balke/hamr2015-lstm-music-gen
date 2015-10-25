@@ -1,0 +1,24 @@
+DVA
+CUT[Lied der Floesser vom Rotmain
+    Lustig ist das Floesserleben,]
+CNR[wenn wir all beisammen sein]
+REG[Europa, Mitteleuropa, Deutschland, Oberfranken]
+KEY[D0143  16  G 4/8 2/8]
+MEL[     1_1_1_1_  1_-6_-5_-5_  1_-6_-5_-5_
+    1_2_3_3_  2_2_1__
+    1_2_3_3_  2_2_1_
+    -5_  1_1_1_1_  1_-6_-5__  1_-6_-5__
+    1_2_3_3_  2_2_1__
+    1_2_3_3_  2_2_1__  0_
+    12  3_.33_23  4_2_4_2_  0_
+    23  4_.44_34  5_3_5_3_
+    -5__  1_1_1_1_  1_-6_-5__  1_-6_-5__
+    1_2_3_3_  2_2_1__
+    1_2_3_3_  2_2_1__
+    5__  33345__  33345__
+    5_4_4_4_  6_5_5_
+    5_  33345__  33345__
+    5_4_4_4_  3__ //] >>
+FCT[Staende - Lied]
+CMT[Wechselgesang solo - Gruppe; Sequenzen; In der fuenften Zeile
+    rhythmisch korrigiert; Inzipit = Variante zum Lied]

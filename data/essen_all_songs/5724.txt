@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kuckuks Fall]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0168  02  G 3/2]
+MEL[1  1_1  1_2  3b_3b  3b_
+    3b  3b_3b  54_  3b_.  3b_
+    3b  3b_3b  3b_3b  2_1  -7b_
+    1  2_3b  4_3b  12_  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Joh. Ott III 1544 No. 30]

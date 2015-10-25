@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HIMMELSAU LICHT UND BLAU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2041  08  A 2/4]
+MEL[  1_1_  2_0_  3_54  2__
+    5_5_  5_.4  3_2_  1_0_
+    1_1_  2_0_  2_2_  3__
+    3_3_  5_43  2_32  1_0_ //] >>
+FCT[geistlich, Wallfahrts - Lied]

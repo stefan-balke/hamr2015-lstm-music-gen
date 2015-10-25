@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und schaut ins tiefe Tal,]
+REG[Suedosteuropa, Rumaenien]
+SRC[8, S. 288
+    ???? aufgezeichnet]
+KEY[Q01558 08  G 2/4]
+MEL[-5  11-7-6  -6_-5
+    -5  1124  3_0_
+    -5__  3235  5_4
+    3  2-5-54  4_3
+    2  1-532  1_0_
+    -5__  3235  5_4
+    3  2-5-54  4_3
+    2  1-532  1_0 //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebes - Lied]
+CMT[Fermatenton zu Beginn der dritten und sechsten Zeile entsprechend
+    der Taktart zur Halben verlaengert.]

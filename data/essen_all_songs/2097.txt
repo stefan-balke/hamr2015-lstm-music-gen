@@ -1,0 +1,11 @@
+FINK
+CUT[DER LENZ IST ANGEKOMMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0360  08 Bb 6/8]
+MEL[-5  1_23_4  5_.3_
+    5  5_43_2  3_.10
+    2  2_221-6  -7_32_
+    2  2_221-6  -7_32_
+    -5  1_23_4  5_5
+    543  2_.232  1_0_. //] >>
+FCT[Jugend - Lied, Jahreszeiten, Fruehling]

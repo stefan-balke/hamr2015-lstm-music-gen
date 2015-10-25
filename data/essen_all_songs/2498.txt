@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES FREIT EIN HERR SO REICHE]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E0002B 16  G 6/8]
+MEL[-5_  1__1_1_-7_1_  3_2_0_0__
+    -5_  1__1_1_-7_1_  3_2_0_0__
+    1_  5__2_4_3_2_  1__322__
+    2_  1__1_4_3_2_  1_3_2_1__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

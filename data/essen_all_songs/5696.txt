@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Liebeshoffnung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0128A 02  F 4/2 6/2]
+MEL[1  1321  -7_-6_
+    -5_  11_32_  1_0
+    1  1321  -7_-6_
+    -5_  11_32_  1_0
+    1  3344  5_5_
+    4_  51_3_2  1_0
+    1  3344  5_1_0
+    2  3321  -7_-6_
+    -5_  11_32_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Locheimer Liederbuch (Hs. c. 1450) No. 7.]

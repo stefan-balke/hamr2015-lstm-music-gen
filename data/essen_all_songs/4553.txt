@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Bauer ins Holz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0472A 04  D 4/2]
+MEL[1_  1_1_5_6_  7b__6_
+    5_  +1_5_5_43b  2_2_2_
+    1_  1_1_5_6_  7b__6_
+    5_  5_4_3b_2_  1_1_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Pet. Schoeffer II 1536 No. 56.]

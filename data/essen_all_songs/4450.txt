@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Schuettensam]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0373B 02  G 3/1]
+MEL[111  5__6_  7b__6_  4__
+    5_  7b_6_.5  5__4_  5_. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Fragment bei Forster II. 1540 No. 60.]

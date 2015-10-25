@@ -1,0 +1,15 @@
+FINK
+CUT[AUF DEM RASEN IM WALDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0971  16  E 3/8]
+MEL[34  5_3_6_  5_3_
+    5_  6_+1_6_  5__
+    34  5_3_6_  5_3_
+    1_  6_4_3_  2__
+    23  4_.567  +1_5_
+    3_  6_.54_  5_0_
+    11  2_2_3_  456_0
+    5  4_2_5_  3_0_
+    11  2_2_3_  456_0
+    6  5_3_25  1__ //] >>
+FCT[Natur - Lied, Wald]

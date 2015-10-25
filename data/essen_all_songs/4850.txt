@@ -1,0 +1,12 @@
+DVA
+CUT[Hahnpfalzlied
+    Es fangt schon das Frauhjahr an,]
+CNR[s' folzt schon der Auerhahn]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Bad Kreuth]
+KEY[D0121  08  C 3/4]
+MEL[1_  2_4_-7_  1_3_1_
+    6_4_6_  5_+135_
+    +2_5_5_  +3_.+13_
+    5_2_5_  1__ //] >>
+FCT[Jaeger - Lied]
+CMT[Inzipit = Variante zum Lied]

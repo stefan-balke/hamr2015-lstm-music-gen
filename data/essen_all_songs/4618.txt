@@ -1,0 +1,14 @@
+ALTDEU
+CUT[In der finstern Metten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0539A 02  C 4/2]
+MEL[5  5555  6_5
+    5  4432  1_0
+    5  5555  6_40
+    4466  7b65_
+    5555  +1_5
+    5  6655  4_0_
+    5556  5_3
+    3  4422  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Spoerls Liederhs. 1392 - 1400.]

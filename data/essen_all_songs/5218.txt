@@ -1,0 +1,9 @@
+BOEHME
+CUT[UMSONST SUCHST DU DIR FREUDENQUELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0746  16  C 4/4]
+MEL[-5__  1__.-5_-4_-3_-2_-1_  -1__--7__0_
+    -5_-5_-7_  2__.-4_-6_-6_-5_-4#_  -5___0__
+    -5__  1__1_.13_2_1_-7_  -7__-6__0_
+    -4_-4_-2_  -7__.-6_-5__-4__  -3___0__ //] >>
+FCT[Moral - Lied, religioes]

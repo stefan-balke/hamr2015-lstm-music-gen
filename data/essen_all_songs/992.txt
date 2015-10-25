@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Nimm dich in Acht"
+    ICH WEISS EIN MAEDLEIN HUEBSCH UND FEIN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1257  08  A 6/8]
+MEL[-5  1_23b_1  5_55_.  5_.22
+    -5  1_23b_1  5_55_
+    -5  1_23b_1  5_55_.
+    5_3b3b_.  5_22_
+    2  -5_.-7_.  1_.0_
+    2  -5_.-7_.  1_.0_ //] >>
+FCT[Liebes - Lied; +++ Phrasen geaendert (2.7.89)]

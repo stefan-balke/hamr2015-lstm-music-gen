@@ -1,0 +1,9 @@
+DVA
+CUT[Eischterliedji]
+REG[Europa, Mitteleuropa,Schweiz, Kt. Wallis, Brigersberg]
+KEY[D0092  16  G 4/4]
+MEL[1_.2  3__3__3_.23_.4  5__5__0__
+    6_.5  5__4__6_5_4__  3___0__
+    1_.2  3__3__3_.23_.4  5__5__0__
+    6_.5  5__4__6_5_4__  3___0__ //] >>
+FCT[Jodel - Lied]

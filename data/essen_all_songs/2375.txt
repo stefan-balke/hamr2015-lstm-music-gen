@@ -1,0 +1,13 @@
+FINK
+CUT[WIR HABEN UNS DURCH GOTTES HAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0931  08  F 4/4]
+MEL[3_  4_323_5_  +1_.76_
+    6_  +2_+1_6_4_  3__2_
+    3_  4_323_5_  +1_.76_
+    6_  +1_6_3_56  7_.65_
+    5_  +2_765_43  4_243_
+    5_  +2_765_43  4_243_
+    34  6_5_+1_.7  7__6_
+    6_  +2_+1_6_4_  3__.2_  1__0_ //] >>
+FCT[Liebes - Lied, religioes]

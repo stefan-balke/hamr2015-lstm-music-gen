@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[O DU DEUTSCHLAND, ICH MUSS MARSCHIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0182  08  G 3/4]
+MEL[12  3_.342  655_
+    35  4_2254  3_0_
+    12  3_.342  655_
+    35  4_2254  3_0_
+    53  322_64  4_3_
+    53  3_2_64  433_
+    12  3_.342  6_5_
+    35  4_4_54  3_0_ //] >>
+FCT[Soldaten - Lied]
+CMT["Soldatenlied vom Jahre 1813"]

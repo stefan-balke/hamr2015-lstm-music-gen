@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WENN WIR FAHREN AUF DIE SEE]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[E1895  16  C 2/4]
+MEL[  5_5_5_5_  5_+3_+1__
+    +2_.+17_6_  6__5_0_
+    5_5_5_5_  5_+3_+1__
+    +2_.+17_6_  6__5_0_
+    5__3__  5__3__  5__+3__  +1__0_
+    7_  +2__+2_+1_  7__7_6_  5__+1__  3__0__ //] >>
+FCT[Kinder - Lied, Tanz, Reigen]

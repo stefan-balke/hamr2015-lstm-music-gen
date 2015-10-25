@@ -1,0 +1,9 @@
+F[ERK2
+CUT[EINST GIENG ICH IM TANNENWALD HER]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend]
+KEY[E0629  16  C 6/8]
+MEL[1_  5_.55_6_5_4_  3__0__.
+    1_  5_.55_6_5_4_  3__0__.
+    5_  +1__5_5__5_  6_.66_6__
+    6_  5__556_5_4_  3__0__. //] >>
+FCT[Liebes - Lied]

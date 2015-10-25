@@ -1,0 +1,10 @@
+FINK
+CUT[NIMM SIE BEI DER SCHNEEWEISSEN HAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0682  16  D 2/4]
+MEL[  5_+1_+1_+1_  +1_6_5_
+    5_  6_5_4_3_  2_2_1__
+    1_3_555_  6_6_5__
+    1_3_555_  6_6_5__
+    4_4_3_3_  2__1_0_ //] >>
+FCT[Geselligkeits - Lied, Reigen - Tanz]

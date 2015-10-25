@@ -1,0 +1,22 @@
+BOEHME
+CUT[IM WALDE MOECHT ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0176A 08  F 4/4]
+MEL[-5_  1_2_3_4_  5_.65_
+    3_  4_3_4_5_  3__0_
+    34  5_5_5_45  6_.7+1_
+    76  5_3_5432  1__0_
+    5_  5_345_45  6_.7+1_
+    76  5_+1_+2_7_  +1__0_ //] >>
+FCT[Natur - Lied, Wald]
+BOEHME
+CUT[IM WALDE MOECHT ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0176A 08  F 4/4]
+MEL[-5_  1_2_3_4_  5_.65_
+    3_  4_3_4_5_  3__0_
+    34  5_5_5_45  6_.7+1_
+    76  5_3_5432  1__0_
+    5_  5_345_45  6_.7+1_
+    76  5_+1_+2_7_  +1__0_ //] >>
+FCT[Natur - Lied, Wald]

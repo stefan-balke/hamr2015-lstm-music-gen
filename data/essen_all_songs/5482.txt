@@ -1,0 +1,13 @@
+KINDER
+CUT[WIR TRATEN AUF DIE KETTE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Laubenheim]
+KEY[K2102  08  F 4/4]
+MEL[1_  1_3_5_6_  5__3_0_
+    5_4_3_2_  1__0_
+    1_  1_3_5_6_  5__3_0_
+    5_4_3_2_  1__0_
+    5_  5_4_3_0_  5_4_3_0_
+    5_5_6_6_  5_4_3__
+    5_5_5_3_  +1__0_
+    55  5_3_5_5_  1__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

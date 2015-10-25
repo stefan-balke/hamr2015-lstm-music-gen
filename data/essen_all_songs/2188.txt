@@ -1,0 +1,17 @@
+FINK
+CUT[ICH NEHM MEIN GLAESCHEN IN DIE HAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0528  08  G 2/4]
+MEL[-5  1234  555_
+    64+16  655_
+    64+16  655
+    5  5444  433_
+    2652  433_
+    265-7  211_
+    64+16  655_
+    4254  433_
+    2777  +1_1_
+    64+16  655_
+    4254  433_
+    2777  +1_1 //] >>
+FCT[Studenten -, Trink - Lied]

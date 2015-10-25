@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ES WARN EINMAL ZWEI JUNGE KNABN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.M.]
+KEY[E0065  08  G 4/4]
+MEL[-5_  -5_1_1_2_  -7_-6_-5_0
+    -5  1_3_2_5_  3__0_
+    -5_  -5_1_1_2_  -7_-6_-5_0
+    -5  1_3_2_5_  3__0_
+    13  5_556543  4_2_0_
+    23  4_445432  3_1_0_
+    1_  2_2_-5_-6-7  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord, Hinrichtung
+    Ballade ?]

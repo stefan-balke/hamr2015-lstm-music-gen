@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WIR WOLLEN VERGNUEGT UND EINSAM LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Taunus, Wuerges]
+KEY[E0602B 08  G 3/4]
+MEL[-5_  1_-5_3_  3_1_
+    56  5_4_3_  3_2_
+    5_  4_2_-5_  1_3_
+    5_  4_2_-5_  1_3_
+    1_  6_6_6_  5_.4
+    35  4_3_2_  1__ //] >>
+FCT[Liebes - Lied]

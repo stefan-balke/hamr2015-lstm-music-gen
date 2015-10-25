@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Bluechers Mahlzeit"
+    AUF EINEM SCHOENEN GRUENEN RASEN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1134  08 Eb 3/4 4/4]
+MEL[111  1_.123  3_2
+    223  4_.254  4_3_
+    34  5_.365  4_3_
+    5_  3_5_5_  +1_5_5_  4_6_6_  +1_7_
+    6_  6_5_5_  +1_5_4_  4_3_3_  3_4_
+    5_  6__7_7_  +1__6_.4  3__2__  1__0 //] >>
+FCT[Vaterland und Wehr]

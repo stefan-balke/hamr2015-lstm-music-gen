@@ -1,0 +1,14 @@
+KINDER
+CUT[DROBEN AUF GRUENER WALDHEID]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[K1261  16  G 6/8 3/8]
+MEL[  1_.-71_2_1_2_  3__.
+    5__.  3_3_22  2_2_
+    22  3_3_2_  1__
+    -5_  1_.-71_2_1_2_  3__.0__
+    13  5__5_4__5_  3__0___
+    3_3_2_  3_332_
+    1_.-71_2_1_2_  3__.
+    5__.  3_3_22  2_2_
+    22  3_3_2_  1__. //] >>
+FCT[Kinder - Lied, Zaehl - Geschichte]

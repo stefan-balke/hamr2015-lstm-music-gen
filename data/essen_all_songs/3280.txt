@@ -1,0 +1,11 @@
+F[ERK2
+CUT[VATER UND MUTTER WOLLNS NICHT LEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen]
+KEY[E0722C 08 Eb 3/4]
+MEL[34  5_1_+16  5_3_
+    55  643_2_  1__
+    34  5_1_+16  5_3_
+    55  643_2_  1__
+    55  6_.222  5_1_
+    5+1  643_2_  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

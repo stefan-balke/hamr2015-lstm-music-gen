@@ -1,0 +1,13 @@
+FINK
+CUT[ROSENSTOCK HOLDERBLUETH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[F0203A 08  C 3/4]
+MEL[  3_.21-3  -6_-5-4-2_
+    -6_-5-4-2_  -6_-5-3-1_
+    3_.21-3  -6_-5-4-2_
+    -5_-6_-7_  1__0_
+    432__  321__
+    -5_-6_-7_  1-7123_
+    432__  321__
+    -5_-6_-7_  1__0_ //] >>
+FCT[Tanz - Lied, Liebe]

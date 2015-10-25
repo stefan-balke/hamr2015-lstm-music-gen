@@ -1,0 +1,13 @@
+FINK
+CUT[AUF IHR BRUEDER FRISCH UND FROH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0553  08  D 4/4]
+MEL[  1_.23_4_  5_3_6__
+    5_.56_7_  +1__1_0_
+    1_.23_4_  5_3_+1__
+    5_.54#_6_  6__5_0_
+    6_5_4_5_  6_.54_0_
+    5_4_3_4_  5_.43_0_
+    1_.35_+1_  +1__6_0_
+    5_5_6_4_  2__1_0_ //] >>
+FCT[Studenten -, Wander - Lied]

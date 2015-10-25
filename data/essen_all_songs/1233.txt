@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Trau, faines Maedelein, trau nie zu sehr]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen]
+SRC[2, S. 266
+    ????]
+KEY[Q1051I 16  G 4/4]
+MEL[-5_  1__1_-7_-6_.-6-6__  2__2_-7_-5__0_
+    -5_  1__1_2_3__3_1_  3_2_2_-7_1__0_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0051H, anderes Lied.]

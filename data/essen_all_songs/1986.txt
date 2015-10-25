@@ -1,0 +1,8 @@
+FINK
+CUT[O WIE WOHL IST MIR AM ABEND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0213  04  F 3/4]
+MEL[  1_2  3_1  4_3  321  4_3  321
+    3_4  5_3  6_5  543  6_5  543
+    1_.  1_.  1_.  1_.  1_.  1_. //] >>
+FCT[Tageszeiten - Lied, Abend; Kanon]

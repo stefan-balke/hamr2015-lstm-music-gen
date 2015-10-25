@@ -1,0 +1,26 @@
+BOEHME
+CUT[BURGUNDER HER BURGUNDER HER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0333  16  C 2/4]
+MEL[34  5_1_1_1_  +1_5_5_
+    5_  +3_+2+17_+1_  +275_0_
+    34  5_1_1_1_  +1_5_5_
+    5_  +3_+2+17_+1_  +275_0_
+    56  7_5_5_5_  +2_5_5_
+    5_  5_2_2_34  3_231_
+    3_  4_3_2_1_  4#__5_
+    +1_  +1__3_4_  5__1_ //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[BURGUNDER HER BURGUNDER HER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0333  16  C 2/4]
+MEL[34  5_1_1_1_  +1_5_5_
+    5_  +3_+2+17_+1_  +275_0_
+    34  5_1_1_1_  +1_5_5_
+    5_  +3_+2+17_+1_  +275_0_
+    56  7_5_5_5_  +2_5_5_
+    5_  5_2_2_34  3_231_
+    3_  4_3_2_1_  4#__5_
+    +1_  +1__3_4_  5__1_ //] >>
+FCT[Trink - Lied]

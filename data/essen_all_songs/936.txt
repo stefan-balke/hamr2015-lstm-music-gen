@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Rechter Geschmack"
+    MADL MAGST ANN ROSOLI]
+REG[Europa, Mitteleuropa, Ober - Oesterreich]
+KEY[Z1201  08  G 3/4]
+MEL[-51  (351)1__  246246  -7__
+    -5-7  (24-7)-7__  135135  1__
+    -51  (351)1__  246246  -7__
+    -5-7  24-7_-7_  1__ //] >>
+FCT[Liebes - Lied]

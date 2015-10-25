@@ -1,0 +1,11 @@
+FINK
+CUT[BUNT SIND SCHON DIE WAELDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0277  08  C 6/8]
+MEL[  1_11-71  2_.1_.
+    3_3323  4_.3_.
+    2_213-4#  -5_.0_.
+    3_21_-7  -6_.-6_.
+    4_3231  -7_.-7_.
+    135-5-6-7  1_.0_. //] >>
+FCT[Jugend - Lied, Jahreszeiten, Herbst]

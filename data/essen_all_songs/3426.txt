@@ -1,0 +1,9 @@
+F[ERK2
+CUT[BRAUT WO IST DEIN KRAENZCHEN HIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau]
+KEY[E0873A 08  F 4/4]
+MEL[  5_.43_1_  321-71__
+    -71234_4_  3_5_2__
+    5_.44321  4_6_5__
+    4_.53_1_  321-71__ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

@@ -1,0 +1,11 @@
+FINK
+CUT[WAS IST DAS GOETTLICHSTE AUF DIESER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1037  16 Bb 4/4]
+MEL[-5__  3__.3_2_1_-7_-6_  -5_.-3-5__0_
+    -5_-5_1_  1__-7__1_1_-7_1_  3__2__0__
+    2__  4#__.3_2_1_-7_-6_  1_.-72__0_
+    2_1_2_  3__3__4_3_4_2_  5__3__0_
+    -5_1_2_  3__3__4_3_4_2_  5__3__0__1__  6__4__0_
+    4_4_3_  2__3__5_4_3_2_  1___.3_2_  1___0__ //] >>
+FCT[Erbauungs - Lied, religioes, Moral]

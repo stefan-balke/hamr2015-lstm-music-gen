@@ -1,0 +1,11 @@
+DVA
+CUT[Die Mutter ist das groesste Glueck auf Erden,
+    was je ein Menschenherz besitzen kann.]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Gleiwitz]
+KEY[D0192  16  G 4/4]
+MEL[   5_5_4_  3__.5_+1_7_6_3_  5__4__0_
+    4_4_3_  2__.5_5_5_6_5_  3___0_
+    +1_+1_+1_  6__.7_+2_.+17_6_  6__5__0_
+    +1_+1_+3_  2__5__7_.65_4_  3___0_ //] >>
+FCT[Mutter - Lied]
+CMT[Sonderzeichen in der Notation; Inzipit = Variante zum Lied]

@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[AUF DIESER WELT HAB ICH KEIN FREUD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0250  16  A 3/4]
+MEL[-5_  1_-7-6-5__-6__  -5_-5-4-3_
+    -5_1_3_  3__3_5_2_3_  1__.
+    1_-7_-7_  -6__-2_2_1#_2_  -7__-5_
+    -5_1_2_  3__.5_2_3_  1__0__. //] >>
+FCT[Soldaten -, Abschieds - Lied]

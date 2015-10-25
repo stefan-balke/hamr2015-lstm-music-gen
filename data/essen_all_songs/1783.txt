@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Sangeslohn
+    O Christe Morgensterne,]
+CNR[leucht uns mit hellem schein,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 60
+    1586 gedruckt]
+KEY[Q0124B 08  F 6/4]
+MEL[1_  1__1_1__-6_  -5__2_2__
+    2_  3__4__2_2_  1__.^__
+    3_  4__4_4__3_  2__.2__
+    2_  3__5_5_.43_  2__.^__
+    2_  3__4__2_2_  1__.^__ //] >>
+FCT[geistlich]
+CMT[Tonangabe zur Ballade "Sangeslohn" - moegliche Melodie (??) .
+    Taktart von "3er" in 6/4 geaendert. Dabei Notenwerte halbiert und
+    zwei Notenwerte rhythmisch korrigiert.]

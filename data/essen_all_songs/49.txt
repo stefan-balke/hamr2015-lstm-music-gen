@@ -1,0 +1,22 @@
+BOEHME
+CUT[WAS BLASEN DIE TROMPETEN HUSAREN HERAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0060  16  G 4/4]
+MEL[-5_  1_.11_1_5__3_1_  1_-6_-6_-6_-6__0_
+    4_  4_3_2_1_-7_2_5_-7_  2_1_1_1_1__0_
+    3_  5_4_2_2_2__1_2_  3__1_1_1__.
+    5_  5_4_2_2_4_3_2_1_  5__5_5_5_4_3_
+    2_  1__1_1_5__3_1_  1_-6_-6_-6_-6__.
+    4_  4_3_2_1_-7_2_5_-7_  2_1_1_1_1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[WAS BLASEN DIE TROMPETEN HUSAREN HERAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0060  16  G 4/4]
+MEL[-5_  1_.11_1_5__3_1_  1_-6_-6_-6_-6__0_
+    4_  4_3_2_1_-7_2_5_-7_  2_1_1_1_1__0_
+    3_  5_4_2_2_2__1_2_  3__1_1_1__.
+    5_  5_4_2_2_4_3_2_1_  5__5_5_5_4_3_
+    2_  1__1_1_5__3_1_  1_-6_-6_-6_-6__.
+    4_  4_3_2_1_-7_2_5_-7_  2_1_1_1_1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

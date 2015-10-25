@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es reit' ein Reiter wohlgemut,]
+CNR[es reit' ein Reiter wohlgemut,]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Deutsch - Proben, Gaidel]
+SRC[3, S. 258
+    ????]
+KEY[Q1068F 16  G 2/4]
+MEL[-5__  1__3__  2__.5_  4_3_2_
+    1_  1_3_2_1_  -7_-6_-5_
+    -5-5  1_3_2_1_  3__4_2_  1__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0068A, anderes Lied "Der Gluecksjaeger" .]

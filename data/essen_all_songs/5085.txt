@@ -1,0 +1,11 @@
+BOEHME
+CUT[ES GEHT DURCH ALLE LANDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0625  08  F 4/4]
+MEL[5_  3_5_3_5_  +1__5_
+    5_  6_5_4_3_  2__0_
+    5_  3_5_3_5_  +1__7_
+    7_  +1_6_5_4#_  5__0_
+    5_  +1_.53_1_  6_.44_
+    6_  5_4_3_2_  5__5423  1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

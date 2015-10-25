@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GLUECK AUF DER STEIGER KOEMMT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1512  16  G 4/4]
+MEL[  1___-7__2__  1___0___
+    3___2__4__  3___0__
+    1_2_  3__3__3__2_3_  4__2_.22__
+    2_3_  4__4__4__3_4_  5__3_.33__
+    2__  1___-7___  1__6__5__
+    4_2_  3___2___  1___0___ //] >>
+FCT[Staende -, Bergmanns - Lied]

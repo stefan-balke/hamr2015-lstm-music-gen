@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und schaute hinab in das Tal]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Siegkreis]
+SRC[8, S. 294
+    1934 aufgezeichnet (vor)]
+KEY[Q0155Z.08  G 3/4]
+MEL[5_  5__5_  5__5_  3__.  3__0
+    3  4_4_4_  4_5_6_  5__.  ^__0
+    5  5_+1_+1_  +1_7_6_  6__.  5__.  4__5_  3__
+    5_  5_6_5_  4_2_5_  3__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Stark "zersungene" Fassung.]

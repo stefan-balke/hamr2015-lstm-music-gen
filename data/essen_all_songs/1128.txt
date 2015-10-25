@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Koenig und Marquise
+    Nun hoeret zu und schweiget still,]
+CNR[ich will euch singen vom Graff Backevill,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Saargemuend,
+    Grossrederchingen]
+SRC[2, S. 30
+    1880 aufgezeichnet]
+KEY[Q0013C 16  G 3/4 2/4]
+MEL[3_3_2_  1__.1_2_2_  3__.
+    3_3_2_  1_.11_1_2_2_  3__
+    3_3_3_3_  2__.34  5__.4_
+    3__3_3_  2_1_2_3_3_21  2__
+    2_54  311_3_4_3_2_  2__1_ //] >>
+FCT[Ballade, Krieg, Gefangenschaft, Ehe, Heimkehr]
+CMT[Melodievariante zu Q0035: anderes Lied "Graf Backenweil" , deshalb
+    der Balladengruppe Q0013 zugeordnet.
+    Kleinere Melodievarianten aus anderer Quelle abgedruckt.]

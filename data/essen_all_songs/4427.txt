@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GUTER FREUND ICH FRAGE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Dill - Kreis]
+KEY[E2131B 16  F 2/4]
+MEL[  3_.33_.3  3_5_5__
+    5_.44_.4  5_4_3__
+    3_.33_.5  5__4__  3__0__
+    3_.33_.3  3_5_5__
+    4_.44_4_  5_3_3_
+    3_  3_.33_5_  5__4__  3__0__ //] >>
+FCT[geistliches Lied, Curiosum]

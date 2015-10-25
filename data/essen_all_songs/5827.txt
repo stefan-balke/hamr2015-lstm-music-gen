@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ringeltanz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0285  02  F 3/2]
+MEL[   1_1  3_4  5_5  5_
+    5  111  3_4  5_.  5_
+    5  6_5  5_4  3_3  3_
+    3  222  2_2  5_3  42_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Geistl Ringeltentze 1550 No. 12.]

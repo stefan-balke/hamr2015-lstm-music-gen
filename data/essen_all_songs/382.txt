@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH KLAGE HIER DIR ECHO DIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0456  16  G 2/4]
+MEL[65  5_.31_65  5_.32_
+    53  1_1_2123  1__0_
+    53  2_.43_.5  542-71_
+    53  2_.43_.5  542-71_
+    65  5_.31_65  5_.32_
+    53  1_1_2123  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[ICH KLAGE HIER DIR ECHO DIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0456  16  G 2/4]
+MEL[65  5_.31_65  5_.32_
+    53  1_1_2123  1__0_
+    53  2_.43_.5  542-71_
+    53  2_.43_.5  542-71_
+    65  5_.31_65  5_.32_
+    53  1_1_2123  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

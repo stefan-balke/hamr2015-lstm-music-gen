@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Vom jungen Grafen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0037  04  D 6/4]
+MEL[5  1_23b_4  5_54_
+    5  6b_543b4  5_.^0
+    5  56b7b7b6b5  5_44_
+    4  3b45543b  3b_22_
+    5  543b21-7  1_.^0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie zuerst in Fr. Reichardts Musikal. Kunstmagazin 1782 S. 154.]

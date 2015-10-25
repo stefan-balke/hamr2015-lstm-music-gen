@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Entfuehrung unterm Tanz
+    Z vecera se Marko ozenio,]
+CNR[do sveta mu bela kniga dosla.]
+REG[Suedosteuropa, Jugoslawien, Kroatien]
+SRC[5, S. 51
+    1881 gedruckt in Zagreb]
+KEY[Q3092C 08  G 3/4 2/4]
+MEL[  144_3b_  3b23b_2_  1_20
+    13b3b_2_  3b22_1_  -7b_1__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0092, anderes Lied - textlich verwandt.]

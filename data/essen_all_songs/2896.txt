@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ZUM DONNER ZUM DONNER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0338  08  F 3/4]
+MEL[1_  3__1_  3__1_  3__4_  5__
+    3_  2__2_  5__4_  3__2_  1__
+    1_  3__1_  3__1_  3__4_  5__
+    3_  2__2_  5__4_  3__2_  1__
+    1_  2_2_3_  4_4_2_  3__+1_  5__
+    3_  2__3_  4_4_2_  3__+1_  5__
+    12  3_3_1_  3_3_1_  3_3_4_  5__
+    3_  2__2_  5__4_  3__2_  1__ //] >>
+FCT[historisches Lied, Krieg gegen Franzosen (1792)]

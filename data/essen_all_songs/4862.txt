@@ -1,0 +1,20 @@
+DVA
+CUT[St. Martinslied
+    Sente Maertes Voegelken]
+CNR[Haet son rot rot Koegelken]
+REG[Europa, Mitteleuropa, Deutschland, Niederfranken]
+KEY[D0152  08  C 4/4]
+MEL[5_5_6_6_  5_5_3__
+    5_5_6_6_  5_5_3_
+    6_  5__3_6_  5__3_3_  555_3__
+    5_5_6_6_  5_5_3__
+    5__6_6_  5__3__
+    5_5_6_6_  5__3__
+    5_5_5_33  6_6_6__
+    5_5_5_6_  4_4_4__
+    5__3__  5__3__
+    5_5_6_6_  5__3__
+    5_5_5_3_  6_6_6__
+    44444_5_  3_3_3__ //] >>
+FCT[Ansinge - Lied]
+CMT[haeufig wiederholte Taktformeln; Inzipit = Variante zum Lied]

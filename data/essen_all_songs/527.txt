@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[AUF GEBET UNS DAS PFINGSTEI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0112  08  G 2/4]
+MEL[-5  123b4  5_4_
+    7b_65  64#5
+    6b  543b2  3b21_
+    1_1-7  123b_
+    543b2  3b21 //] >>
+FCT[Sagen - Lied, Romanze]

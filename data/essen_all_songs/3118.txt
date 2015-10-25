@@ -1,0 +1,9 @@
+F[ERK1
+CUT[MYS LIEB WE DU ZUR CHILCHE THUEST GA]
+REG[Europa, Mitteleuropa, Schweiz, Bern]
+KEY[E0584  08  A 3/8]
+MEL[  1_.  345  432  1-7-6  -5_.
+    1_.  234  345  2_.
+    1_.  345  432  1-7-6  -5_.
+    1_.  234  345  1_. //] >>
+FCT[Liebes - Lied]

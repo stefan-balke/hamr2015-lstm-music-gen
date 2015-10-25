@@ -1,0 +1,9 @@
+F[ERK1
+CUT[EIN MAEDCHEN VON ACHTZEHN JAHREN]
+REG[Europa, Mitteleuropa, Deutschland, Nordsee, Budjadinger - Land]
+KEY[E0211A 16  F 4/4]
+MEL[1_3_  5__5_.65__4_2_  1__.3_2__
+    2__  3__+1_.+17__6_.4#  5___0__
+    5__  +1__+1_.+17__5__  6___5__0__
+    4#__.6_5__0_3_  5__1_.33_2_2_-7_  1___0__ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Untreue]

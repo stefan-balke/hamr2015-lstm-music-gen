@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Kuhreigen"
+    AUF MEINER ALP DA LEB ICH]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1291  16  G 3/8]
+MEL[1_3_4_  5__(654)  5__(654)  531_2_  1__0_
+    1_3_4_  5__(654)  5__(654)  531_2_  1__0_
+    2_-5_-5_  3__1_  2_-5_-5_  3__1_  2_-5__
+    1_3_4_  5__(312)  -5__.
+    1_3_4_  5__(312)  1__. //] >>
+FCT[Handwerker -, Bauern - Lied]

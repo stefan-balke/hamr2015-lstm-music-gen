@@ -1,0 +1,11 @@
+BOEHME
+CUT[A A A DER WINTER DER IST DA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0637  08  G 2/4]
+MEL[  3_4_  5_0
+    4  3322  1_0_
+    5544  3322
+    5544  3322
+    3_4_  5_0
+    4  3322  1_0_ //] >>
+FCT[Kinder -, Jahreszeiten - Lied, Winter]

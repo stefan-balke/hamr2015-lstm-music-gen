@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DORT OBEN VOR DER HIMMLISCHEN THUER]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Bodensee]
+KEY[E2035  16 Ab 3/4]
+MEL[-5__  -6_-5_-5__-5__  -6_-5_-5__
+    1_2_  3__3__3_5_  2___
+    2_3_  4_2_2_.22_4_  3_1_1__
+    1_3_  2__1__-7__  1___
+    2_3_  4_2_2_.22_4_  3_1_1__
+    1_3_  2__1__-7__  1___ //] >>
+FCT[geistlich, Wallfahrts - Lied]

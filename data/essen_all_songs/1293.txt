@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit einer Dam',]
+CNR[sie spielten beide lange;]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Strehlen, Krummendorf]
+SRC[3, S. 63
+    ????]
+KEY[Q0055j 16  G 2/4]
+MEL[1_4_3_  221_-7_-7_  1__
+    5__  6_5_4_2_  2__1_0_  0_
+    1_4_3_  2_1_-7_-7_  1__
+    5__  6_5_4_2_  2__1_0_  0_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Pausen am Ende der dritten und letzten Zeile eingefuegt.]

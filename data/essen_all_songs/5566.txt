@@ -1,0 +1,9 @@
+KINDER
+CUT[KOMM WIR WOLLEN WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Dresden]
+KEY[K2445  08  F 2/4]
+MEL[  5556  5_3
+    1  5556  5_3_
+    5353  +1_0
+    6  5342  1_0_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

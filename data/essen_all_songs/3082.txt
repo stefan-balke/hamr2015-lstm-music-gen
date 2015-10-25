@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DAS LIEBEN BRINGT GROSS FREUD]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0558  08  G 4/4]
+MEL[-5_  1_.23_46  5__0_
+    13  5_5_4_54  3__0_
+    13  5_5_5_65  54434_
+    5_  3_3_3543  2-7-712_
+    12  3__0_46  5__0_
+    13  5_5_4_54  3__0_ //] >>
+FCT[Liebes - Lied]

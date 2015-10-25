@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES GIENG EIN MATROSE WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[E0069A 08  F 6/8]
+MEL[-5  113531  -7_242
+    -7  135543  2_.0_
+    5  546+176  53+15_
+    +1  765432  1_.0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

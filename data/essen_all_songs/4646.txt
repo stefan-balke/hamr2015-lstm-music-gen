@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ostergesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0554B 02  F 3/1]
+MEL[+1_  +1__+1_  7__7_  +1__6_  5__
+    5_  6_.7+1_  7__6_  5__4_  3__
+    2_  3__4_  5__4_  3_2__  1__
+    4_  3_2_.1  1__-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Coelner Gsgb 1526 S. 204]

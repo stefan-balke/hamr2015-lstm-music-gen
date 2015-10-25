@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ritter Ulrich]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0013A 08  E 6/4]
+MEL[1_  1__4_4__3b_  4__5_6b__
+    5_  4__4_3b_2b_1_  4__3b2b1__
+    45  6b_5_4_3b__4_  1__-7b_-6b__0_
+    3b__2b_1_2b_3b_  4_5_4_3b__4_  2b__.1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie nach Nicolai, Almanach II, No 21, S.210]

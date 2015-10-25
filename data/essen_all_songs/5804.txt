@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Das Lied vom Scheiden]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0262  04  C 4/2 6/2 4/1]
+MEL[1__  5_5_6_7_  +1__+1__
+    +3__  +2__7_+1_.7656_6_  5__0_
+    5_  +1__+1_7_7_65  6__3__
+    +1__  7_6_.35_4__  3__0_
+    3_3_3_  5__4_3__212_2_  1__0
+    41_  5__6_7_.+1+27  +1__5__
+    +1__  7_6_.35_4__  3___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III 1549 No. 17]

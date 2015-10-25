@@ -1,0 +1,9 @@
+BOEHME
+CUT[LUSTIG SEID IHR LIEBEN BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0730E 16  C 4/4]
+MEL[  -5_-5_-5_-5_1_-5_-3_-1_  1_-712_123___
+    -5_-5_-5_-5_1_-5_-3_-1_  1_-712_123___
+    3_3_321-7-6_-6_-6__  2_2_2321-71-7-6-5_
+    -5_  1_1_2_2_3__-7_-7_  1____ //] >>
+FCT[Trink - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Totenamt
+    Het daghet in den oosten,]
+CNR[die sonne scijnt overal;]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 162
+    1539 gedruckt in Antwerpen]
+KEY[Q2061D 08  G 4/4]
+MEL[2_  -5_-7b_1_1_  3b__2_
+    5_  (4_4_3b_)1_2_  (4_3b_1_)2_
+    2_  5_4_4_3b_  1_1_3b_2_  1__
+    2_2_  (-5_-5_-7b_)-7b_1_  3b21-7b1_ //] >>
+FCT[Ballade, Liebe, Eifersucht, Tod; geistlich]
+CMT[Geistliche Kontrafaktur der Ballade. Original in Choralnotation.]

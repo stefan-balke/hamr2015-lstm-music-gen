@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    ohne Text]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+SRC[4, S. 118
+    ????]
+KEY[Q0075t 16  F 3/4]
+MEL[1_1_5_  5__.3_3_.2  2__0_
+    2_4_6_  6__.5_4_.3  3__0_
+    1_1_+1_  +1__.6_5_.6  7__.
+    3_2_6_  5__.5_4_2_  1__. //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

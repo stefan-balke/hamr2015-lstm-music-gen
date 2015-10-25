@@ -1,0 +1,12 @@
+F[ERK5
+CUT[Daer was een edel Pfalzgravin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0082  16  D 2/4]
+MEL[5  5_.+1+1_+1_  +1_.7b7b_0
+    7b  +1_.55_5_  5_.4450
+    5  7b_.7b7b_+1_  7b_.6b5_0
+    5  +1_.55_.5  4_.3b2_0
+    1  1_.23b_4_  5_.45_.
+    5  5_.7b7b_7b_  +1_.7b+1_0 //] >>
+FCT[Lied]
+CMT[Coussemaker Nr. 62]

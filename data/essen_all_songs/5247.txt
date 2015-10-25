@@ -1,0 +1,11 @@
+BOEHME
+CUT[ES IST BESTIMMT IN GOTTES RATH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0774  08  D 4/4]
+MEL[5_  4_.33_+1_  7b_.66_
+    6_  2_3_4_6_  5_.43_
+    5_  2_.43_5_  2_.43_
+    3_  +1_7_6_.5  5_.4#4#_
+    2_  7_6_5_.4#  4#_.33_
+    5_  2_.43_5_  2_.43_5_  2__.4_  3__. //] >>
+FCT[Abschieds - Lied, religioes]

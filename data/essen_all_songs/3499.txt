@@ -1,0 +1,8 @@
+F[ERK2
+CUT[ICH HAB MEINEN WEIZEN AM BERGE GESAET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0980  16  D 3/8]
+MEL[-1_  -1_-3_-5_  1_.-7-6_  -6_.-5-5_  -6_.-5-5_
+    -3_-3_-3_  -5_.-2-2_  -4_.-3-3_  -4_.-3-3_
+    -1_-3_-5_  1__3_  2__-7_  1__ //] >>
+FCT[Tanz - Lied, Reigen; Besenbinder - Lied]

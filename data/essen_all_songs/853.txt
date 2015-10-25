@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Die feste Burg"
+    EIN FESTE BURG IST UNSER GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1118  04  D 4/4]
+MEL[+1_  +1_+1_  567_  +176_  5_
+    +1_  7_6_  5_65  432_  1_
+    +1_  +1_+1_  567_  +176_  5_
+    +1_  7_6_  5_65  432_  1_
+    1_  5_6_  5_4#_  5_
+    1_  5_3_  6_7_  +1_
+    7_  +1_7_  6__  5_
+    6_  6_5_  6_4_  3_
+    +1_  7_6_  5_65  432_  1_ //] >>
+FCT[religioeses Lied]

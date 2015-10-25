@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war einmal ein Maegdelein,]
+CNR[das wollt so gerne Dienstmagd sein.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+SRC[4, S. 118
+    ????]
+KEY[Q0075v 08  F 4/4]
+MEL[1_  1_5_543_  3_.22_
+    2_  2_6_654_  4_.53_
+    1_  1_+1_+176_  6_.553
+    5_  5_5_654_  4_5_3_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

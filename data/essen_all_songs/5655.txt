@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ritter und Maedchen]
+REG[Europa, Mitteleuropa, Deutschland, Niederlande]
+KEY[A0070  04  D 4/2 2/2]
+MEL[0_1_1_1_  3b__3b__  4_4_5__
+    0_5_5_5_  +1_.7b6b_5_  6b__7b__
+    0_7b_7b_7b_  5456b7b_5_  4_4_3b__
+    0_7b_+1_+1_  7b_5_5__  4_3b_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus den Souterliedekens 1540 ad Ps.14.]

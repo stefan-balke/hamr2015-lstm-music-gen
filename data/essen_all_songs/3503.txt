@@ -1,0 +1,13 @@
+F[ERK2
+CUT[O DU LIEBER AUGUSTIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0984  08  G 3/4]
+MEL[  5_.654  3_1_1_
+    2_-5_-5_  3_1_1_
+    5_.654  3_1_1_
+    2_-5_-5_  1_0__
+    2_-5_-5_  3_1_1_
+    2_-5_-5_  3_1_1_
+    5_.654  3_1_1_
+    2_-5_-5_  1_0__ //] >>
+FCT[Tanz - Lied, Reigen]

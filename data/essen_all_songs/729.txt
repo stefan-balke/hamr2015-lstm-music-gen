@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[SCHOENSTES KIND ZU DEINEN FUESSEN LIEG ICH HIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0311  08  C 6/4 5/4 3/4%%2+3%]
+MEL[53+16565_4_3_  5+1645_2_1_
+    53+16565_4_3_  5+1645_2_1_  0__
+    23  4_2_34  5_3_
+    23  4_2_34  5_3_0_
+    53+165_4_3_  5+1643_2_1_ //] >>
+FCT[Lyrisches Lied, Romanze, Verlassenheit]

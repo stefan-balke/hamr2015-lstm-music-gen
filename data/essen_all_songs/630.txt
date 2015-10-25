@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ES TAGET VOR DEM WALDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0214  08  G 3/8]
+MEL[5  5_5  5_5  7b_.  3b_.
+    5_5  7b_6  5_.  0_
+    5  5_5  7b_7b  3b_.  5_.
+    4_4  442
+    3b_1  -7b_-7b  5_5
+    7b_.  6_.  5_3b  42_  1_.
+    5_3b  42_  1_ //] >>
+FCT[Jaeger - Lied]

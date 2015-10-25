@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ACH SUESSER SCHATZ AUF DIESER ERD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0475  08  G 3/4]
+MEL[  1_1_1_  -6_.-71_  2_.1-7_  -6__.
+    -7_.12_  1__-7_  -6_.-5-6_  -5__.
+    1_1_1_  -6_.-71_  2_.1-7_  -6__.
+    -7_.12_  1__-7_  -6_.-5-6_  -5__.
+    3_3_3_  1_.23_  2__1_  -7__.
+    5_.43_  2__1_  -7_.12_  1__. //] >>
+FCT[Liebes - Lied]

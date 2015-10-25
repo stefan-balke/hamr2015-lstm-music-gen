@@ -1,0 +1,10 @@
+FINK
+CUT[EINSAM BIN ICH NICHT ALLEINE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0047  16  D 6/8]
+MEL[  5__3_+1__5_  4__2_+2__5_
+    5_+1_+1_+1_7_5_  5_+3_+2+1+1_7__
+    5__+1_+2_.+164  4#__+2_+3_.+275
+    +3__7_5__3_  2__654__3_
+    3_5_+1_+3_.+153  5_.4321__0_ //] >>
+FCT[Liebes - Lied]

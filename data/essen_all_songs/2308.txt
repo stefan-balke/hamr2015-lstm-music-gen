@@ -1,0 +1,13 @@
+FINK
+CUT[O WIE LIEBLICH ISTS IM KREIS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0781  08  A 4/4]
+MEL[  1_.-51_3_  2_3_4__
+    3_.56543  3_.22_0_
+    1_.-51_3_  2_3_4__
+    3_.65_4#_  4#_.55_0_
+    2_312_31  2_234__
+    3_423_42  3_345__
+    6_.66_6_  5__3_0_
+    4_.43_2_  2__1_0_ //] >>
+FCT[Geselligkeits -, Moral - Lied]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Eifersucht"
+    IN DEN GARTEN WOLLN WIR GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Lothringen]
+KEY[Z1161  08  D 3/8]
+MEL[135  135  165  5_4
+    2_2  2_5  5_4  433
+    222  432  135  +1_.
+    6_6  5_3  542  1_0 //] >>
+FCT[Liebes - Lied]

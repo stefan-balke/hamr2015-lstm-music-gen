@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Liebestod (Tristan und Isolde)
+    Es barait bahrlein zboai scheanai Liebai,]
+CNR[es barait bahrlein zboai scheanai Liebai,]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Ober - Pockstein]
+SRC[1, S. 79
+    1908 aufgezeichnet]
+KEY[Q0009  04 Bb 3/4]
+MEL[1  333  2_2  266  5_
+    3  5+16  5_1  232  1_ //] >>
+FCT[Ballade, Liebe, Tod]

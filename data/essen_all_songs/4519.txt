@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Schenkenbachs Reuterlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0426B 02  F 4/2 6/2]
+MEL[1  1155  6_5_
+    +1_  55432_  1_0
+    +1  +1_+1+1+1+1  7_5_0
+    5  3_34_4  5_0 //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Schmeltzel 1544 Quodl. 20.]

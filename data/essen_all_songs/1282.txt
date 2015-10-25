@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es fing ein Graf zum spielen an]
+CNR[vom Abend bis am Morgen]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 60
+    ????]
+KEY[Q0055Y 08  C 6/8]
+MEL[-5  1_-71_2  3_43_
+    1  2_12_3  2_.1_
+    -5  1_-71_2  3_43_
+    1  2_12_3  2_.1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Grundton in der zweigestrichenen Oktave.
+    Dritte Zeile = Refrain auf sinnfreie Silben.]

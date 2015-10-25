@@ -1,0 +1,8 @@
+ZUCCAL
+CUT["Trennung"
+    DA UNTEN IM THALE LAEUFTS WASSER SO TRUEB]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1189  08  E 3/4]
+MEL[12  3_3_.4  6_.55_  5_.44_  4_30
+    33  3_20_2  2_10_3  4_.-7-7_  1_0_ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

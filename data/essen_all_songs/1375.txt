@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Totenamt
+    Het daghet in den oosten,]
+CNR[het lichtet overal,]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 154
+    1540 gedruckt in Antwerpen]
+KEY[Q2061  08  G FREI]
+MEL[1__  -5_-5_-7b_1_  3b__2__0_
+    5__  4__3b_1__2_  4_.3b212__0_
+    2_  3b_4_5__4_5_  3b__2__3b_.2  1__0__
+    2__  -5__-6_-7b__1_  3b_.21-7b1__ //] >>
+FCT[Ballade, Liebe, Eifersucht, Tod; geistlich]
+CMT[Geistliche Kontrafaktur der Ballade.]

@@ -1,0 +1,15 @@
+FINK
+CUT[ZU DES LEBENS FREUDEN SCHUF UNS DIE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0264  16  G 6/8]
+MEL[  3__3_3__4_  5__.3__0_
+    4__3_4__5_  3__.0__.
+    3__3_4_.34_  5__.2__.
+    2__5_4#_.34_  5__.0__.
+    2__2_3__3_  4__.2__.
+    1__1_2_.12_  3__.0__.
+    4__4_3__3_  6__2_2__.
+    2__3_4__5_  3__.0__.
+    4__4_3__3_  6___5_4_
+    3__3_4__2_  1__.0__. //] >>
+FCT[Jugend - Lied, Belehrung, Natur]

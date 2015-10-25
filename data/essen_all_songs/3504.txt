@@ -1,0 +1,10 @@
+F[ERK2
+CUT[SA BOER GAET NAER DEN DANS]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[E0986  08  C 6/8]
+MEL[  1_.-5_-5  -6_-71_.
+    1_.-5_-5  -6_-71_.
+    2_22_3  4_32_.
+    3_11-71  2_2-5_.
+    -6_-6-7_-7  1__0_ //] >>
+FCT[Tanz - Lied, Reigen, Gesellschafts - Spiel]

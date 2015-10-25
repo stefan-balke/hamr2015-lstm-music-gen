@@ -1,0 +1,11 @@
+F[ERK2
+CUT[MUEDE KEHRT EIN WANDERER ZURUECK]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dill - Kreis]
+KEY[E0672  08  G 4/4]
+MEL[-5-5  3_.21-713  -5__0_
+    -5-7  2_.1-7254  3__0_
+    12  3_.54321  -6__0
+    432  -5_.1-7265  3__0_
+    12  3_.54321  -6__0
+    432  -5_.1-7265  1__0_ //] >>
+FCT[Liebes - Lied]

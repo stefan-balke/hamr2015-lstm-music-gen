@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SUF[ERK3RUT IM HAEFELE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1020A 16  C 3/8]
+MEL[  3_3_4_  5_.65_
+    +1_7_6_  5_.65_
+    6_5_4_  3_.43_
+    4_3_2_  1__0_ //] >>
+FCT[Tanz - Lied]

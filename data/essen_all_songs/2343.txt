@@ -1,0 +1,13 @@
+FINK
+CUT[JETZT GEH ICH ANS BRUENNELE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0861  16  G 3/8]
+MEL[-5_  1_.-712  3_.43_
+    322_23  1_0_
+    1_  3_.234  5_.65_
+    544_45  3_0_
+    5_  544_44  3_543_
+    2_2_2_  3_0_
+    5_  544_44  3_543_
+    2_2_2_  3_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Liebe]

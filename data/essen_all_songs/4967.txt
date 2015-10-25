@@ -1,0 +1,10 @@
+BOEHME
+CUT[WIE SCHEINEN DIE STERNLEIN SO HELL]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0502A 08  G 6/8]
+MEL[-5  -5-3-4-513  3_2-7_
+    -5  123543  2__0
+    2  232165  5_43_
+    3  2_34_5  3__0
+    2  -7_12_3  1__0 //] >>
+FCT[Abschieds - Lied]

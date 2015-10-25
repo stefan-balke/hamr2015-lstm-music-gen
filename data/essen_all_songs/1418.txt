@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es fuhr ein Schifflein wol ueber den Rhein,]
+CNR[es fuhre zu einem Markgrafen hinein,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[3, S. 258
+    1842 gedruckt in Leipzig]
+KEY[Q0068G 16  G 6/8]
+MEL[12  3_.23_1_2_3_  4_.34_2__
+    23  4_2_5_3_.21_  2_.32_1__
+    23  4_2_5_3_.21_  2_.32_1__ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

@@ -1,0 +1,24 @@
+BOEHME
+CUT[IM SCHATTEN GRUENER BAEUME]
+REG[Europa, Mitteleuropa, Deutschland, Fulda]
+KEY[B0165A 08  G 6/8]
+MEL[-5  1_11-71  3_21_
+    -5  2_22_3  4_32_
+    5  5_-7123  2_.0_
+    2  2_52_1  1-70_.
+    2  2_52_1  -720_.
+    -5  1_11-71  3_.1_
+    1  24321-7  1__0 //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[IM SCHATTEN GRUENER BAEUME]
+REG[Europa, Mitteleuropa, Deutschland, Fulda]
+KEY[B0165A 08  G 6/8]
+MEL[-5  1_11-71  3_21_
+    -5  2_22_3  4_32_
+    5  5_-7123  2_.0_
+    2  2_52_1  1-70_.
+    2  2_52_1  -720_.
+    -5  1_11-71  3_.1_
+    1  24321-7  1__0 //] >>
+FCT[Ballade, Romanze]

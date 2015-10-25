@@ -1,0 +1,11 @@
+F[ERK3
+CUT[EH DASS WIR SCHEIDEN MUESSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1410  16  C 4/4]
+MEL[5__  +1__3_4_6__.5_  5__4_5_3__
+    5__  +1__3_4_6__.5_  5__4_5_3__
+    5__  4#__.4#_5__6__  7___6__
+    5__  4#__.4#_5__6__  7___6__
+    5__  +1__.5_+3__.5_  4__6_5_3__0_
+    5_  +1__.5_+3_.+2+1_6_  5__4_2_1__ //] >>
+FCT[Staende -, Soldaten - Lied, Krieg; Studenten - Lied]

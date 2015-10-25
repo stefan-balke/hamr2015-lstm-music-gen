@@ -1,0 +1,26 @@
+BOEHME
+CUT[BEI WOEBBELIN IM FREIEN FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0091  08  A 4/4]
+MEL[-5-5-5  1_1_2_2_  2__.
+    2_  3b_.3b4_.3b  3b_2_0
+    -5-5-5  1_1_2_2_  2__.
+    2_  3b_.3b4_.3b  3b_2_0
+    222  5_5_5_5_  5__.
+    5_  6b_.6b7b_.5  3_4_0
+    -4-4-5  -6b_-5-4-5_-6-7  1_23b4_3b
+    2  5_5_4_43b  3b__2__  1__0 //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[BEI WOEBBELIN IM FREIEN FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0091  08  A 4/4]
+MEL[-5-5-5  1_1_2_2_  2__.
+    2_  3b_.3b4_.3b  3b_2_0
+    -5-5-5  1_1_2_2_  2__.
+    2_  3b_.3b4_.3b  3b_2_0
+    222  5_5_5_5_  5__.
+    5_  6b_.6b7b_.5  3_4_0
+    -4-4-5  -6b_-5-4-5_-6-7  1_23b4_3b
+    2  5_5_4_43b  3b__2__  1__0 //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

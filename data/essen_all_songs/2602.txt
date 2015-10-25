@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES LIEGT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Mosel]
+KEY[E0061H 16  D 3/4]
+MEL[1_  1_355__4_2_  1_.33__2_
+    1_  1_355__4_2_  4_5_3__0_
+    5_  5_7+2+2__7_5_  6_7_+1__
+    +1__  6_6_5__3__  4_5_3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

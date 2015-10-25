@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Pfingstlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0567B 02  F 4/1]
+MEL[1__  2_2_1_1_  -6_-5_-6_1_  1_0_
+    3_5_  6_5_3_1_  -6_1_1_0_
+    3_.33_2_  3__1_1_  2_2_3__  1__
+    2_2_  3__1__  -6__1_1_  2_1_-7_-6_
+    -6_.-71__  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Leisentrit 1567 I. fol. 183]

@@ -1,0 +1,16 @@
+ZUCCAL
+CUT["Die Entfuehrung"
+    AUF SCHAETZELEIN MACH AUF]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1174  16  G 3/4]
+MEL[  1___.  2___5__  5___.
+    3_4_5__2__  1___0__
+    5_4_3__5__  6_5_4_3_4__
+    4_3_2__5_5_  3__.4_3__
+    1___.  2___6__  5___.
+    3_4_5__2__  1___0__
+    5_4_3__5__  6_5_4_3_4__
+    4_3_2__5__  3__.4_3__
+    1___.  2___6_.5  5___.
+    3_4_5__2__  1___. //] >>
+FCT[Liebes - Lied]

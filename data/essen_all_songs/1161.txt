@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Hannchen, komm mit mir in Wald,]
+CNR[da singen die Voegel jung und alt.]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[2, S. 112
+    1857 aufgezeichnet]
+KEY[Q0041a 08  G 4/4]
+MEL[5_  5_.43_3_  3_1_1_
+    3_  2_222346  5_-7_1_
+    5_  5_.43_3_  3_1_1_
+    3_  2_222346  5_-7_1_
+    5_  +1_+1_7_+1_  +2_.7+1_
+    5_  5_+1+16_54  3_2_1_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Eingeklammerte Note kodiert.]

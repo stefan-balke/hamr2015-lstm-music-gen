@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH KANN NICHT SITZN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Oderbruch; Coethen]
+KEY[E0816  08  F 3/4]
+MEL[-5  135_.3  234_.
+    5  321353  322_0
+    1  116_+26  655_.
+    3  23465-7  211_0 //] >>
+FCT[Kilt - Lied]

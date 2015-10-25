@@ -1,0 +1,7 @@
+F[ERK3
+CUT[MEI SCHATZ IS E REITER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E1055A 16  F 3/8]
+MEL[-1_  -3_-2_-3_  -4_-2_-2-3  -4_-3_-4_  -5__
+    -3-4  -5_-5_-5_  -6_-6_-6_  -7_-7_-7_  1__ //] >>
+FCT[Tanz - Lied, Jodler]

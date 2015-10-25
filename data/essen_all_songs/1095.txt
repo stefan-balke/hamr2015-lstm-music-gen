@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Mann"
+    WILLE WILLE WILL DER MANN IST KOMMEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1361  16  D 2/4]
+MEL[32345030  40605010
+    32345030  40201_0_
+    +17b+1+1+1030  40605010
+    +17+17+1060  54321_0_ //] >>
+FCT[Kinder - Lied]

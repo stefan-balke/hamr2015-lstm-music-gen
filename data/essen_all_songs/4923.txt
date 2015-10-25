@@ -1,0 +1,16 @@
+DVA
+CUT[Und's Deandl is wunderschoe, i muass's aufrichti sagn,
+    im ganz'n Land Tirol g'fallt koani mir so wohl]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0287  32 Eb 3/4]
+MEL[+1__+1__+1__  5__.5_3__0_3_3__3__  4__.4_-7__
+    7__7__.7_  6__.6_2__-7__1__-7__  5__.5_3__
+    +1__+1__+1__  5__.5_3__0_3_4__5__  6__+1__+1__
+    +1__7__6__  6__5__7__6__5__4__  3___0___0___
+    (3__5__+1__)(5__.4_3__)+1__.3_  (2__4__7__)6__2__7___
+    (2__4__7__)6__2__7__4__  3___5___+1___
+    1_1_1__3_3_3__5_5_5__  +3___+4_.+3+2_+1_7_+2__.  5____0___
+    (3__5__+1__)(5__.4_3__)+1__.3_  (2__4__7__)6__2__7___
+    (2__4__7__)6__2__7__4__  3___5___+1___  +3___0__ //] >>
+FCT[Scherz- und Spott - Lied, Jodler]
+CMT[Zweistimmig notiert (Terzparallelen ); Inzipit = Variante zum Lied]

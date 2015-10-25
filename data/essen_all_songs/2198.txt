@@ -1,0 +1,11 @@
+FINK
+CUT[BRUEDER NUETZT DAS FREIE LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0541  08 Bb 3/2]
+MEL[1_-5_  -6__-7__1231  -5__-3__
+    -5_1_  -6__4__321-7  1__0__
+    1_-5_  -6__-7__1231  -5__-3__
+    -5_1_  -6__4__321-7  1__0__
+    -7_1_  2__5__2_-7_  12345_0_
+    6_6_  5__.3_5432  2__1_0_ //] >>
+FCT[Studenten -, Trink - Lied]

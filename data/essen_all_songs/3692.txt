@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Waise und Stiefmutter
+    Ein kleines Maedchen zart]
+CNR[von einer Waisen Art,]
+REG[Osteuropa, Ungarn, Munkacz, Erwinsdorf]
+SRC[5, S. 285
+    1943 aufgezeichnet]
+KEY[Q0116A 08  G 6/8]
+MEL[-5  1_11-71  2_.0_
+    -5  2_2212  3_.0_
+    5  3_3323  4_.0_
+    4  3_12_-7  1_.0_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

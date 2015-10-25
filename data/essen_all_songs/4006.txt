@@ -1,0 +1,11 @@
+F[ERK3
+CUT[AN DER WEICHSEL GEGEN OSTEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen; Rheinland]
+KEY[E1427  16  F 3/4]
+MEL[1_.1  1__-5__3_.3  3__1__0_
+    -5_  1_-5_1_-5_1_6_  6_5_5_
+    5_6_5_  4_2_4__5_4_  3_1_3__
+    3_.3  4_4_4_4_5_.4  3__0_
+    5_6_5_  4_2_4__5_4_  3_1_3__
+    3_.3  4_4_4_4_5_.4  3__0__ //] >>
+FCT[Staende -, Soldaten - Lied]

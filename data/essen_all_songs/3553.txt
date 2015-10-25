@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    O, jaj nekem Marianak,]
+CNR[fajj, keserves egy anyanak.]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 86
+    ????]
+KEY[Q3095G 08  G FREI]
+MEL[  2234  543  2_.0
+    5431  432_  1__0_ //] >>
+FCT[Begraebnis - Lied]
+CMT[Melodievergleich zu Q0095, anderes Lied. Verzierung (Vorschlag) .]

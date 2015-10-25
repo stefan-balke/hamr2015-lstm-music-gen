@@ -1,0 +1,9 @@
+F[ERK3
+CUT[IN GLUCKGLUCK LEB ICH]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[E1626A 08  F 3/4]
+MEL[53+1  6666+16  5_3
+    565  542654  433
+    53+1  6666+16  5_3
+    565  542654  433 //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Trink - Lied]

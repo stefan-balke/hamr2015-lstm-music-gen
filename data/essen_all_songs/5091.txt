@@ -1,0 +1,11 @@
+BOEHME
+CUT[TRARIRA DER SOMMER DER IST DA]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+KEY[B0630A 16  C 2/4]
+MEL[  1__3__  2__0_
+    -5_  -6_-5_-6_-7_  1__0_
+    -5_  -5_3_3_2_  1_-6_-5_
+    -5_  -6_-7_1_2_  -5_1_0__
+    1__3__  5__.
+    31  -5_-5_3_2_  1__0__ //] >>
+FCT[Kinder -, Jahreszeiten - Lied, Sommer]

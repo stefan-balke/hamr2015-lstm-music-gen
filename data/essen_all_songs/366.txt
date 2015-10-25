@@ -1,0 +1,22 @@
+BOEHME
+CUT[IM DOERFCHEN WO ICH LEBTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0434  16  G 3/4]
+MEL[-5__  3_.33__4_-7_  2_1_1__
+    1__  4_.56__.6_  6_2_2_2_5_.4  3__0__
+    1__  6__.7_+1765#  6__0__
+    6__  6__.5_4_3_  2__0_
+    6_5_.4  3__4__-7__  1__0_
+    1_1_1_  6__0__-7__  1__0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[IM DOERFCHEN WO ICH LEBTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0434  16  G 3/4]
+MEL[-5__  3_.33__4_-7_  2_1_1__
+    1__  4_.56__.6_  6_2_2_2_5_.4  3__0__
+    1__  6__.7_+1765#  6__0__
+    6__  6__.5_4_3_  2__0_
+    6_5_.4  3__4__-7__  1__0_
+    1_1_1_  6__0__-7__  1__0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

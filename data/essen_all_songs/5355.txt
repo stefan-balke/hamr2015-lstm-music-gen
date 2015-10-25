@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Mit jammervollen Blicken]
+CNR[von tausend Sorgen schwer,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Conradsdorf]
+SRC[8, S. 291
+    1840 aufgezeichnet]
+KEY[Q1155J.16  G 6/8]
+MEL[-5_  1__-5_-3_-5_1_  1_-7_0__.
+    -5-7  2__4_4_.32_  3__.0__
+    -5_  1__1_3_2_1_  -7_-6_0__.
+    -6_  -5__-5_-5_-7_2_  1__.0__
+    -5_  1__1_3_2_1_  -7_-6_0__.
+    -6_  -5__-5_-5_-4_-2_  -1__0__. //] >>
+FCT[Klage - Lied ???]
+CMT[Melodievergleich zu Q0155M. ff., anderes Lied (genetisch verwandt ?).
+    Pause am Ende der vierten Zeile ergaenzt.]

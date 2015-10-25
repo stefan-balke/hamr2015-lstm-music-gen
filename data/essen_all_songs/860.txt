@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Engellied zu Weihnachten"
+    IHR HIRTEN ERWACHT]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Deutschland]
+KEY[Z1125  16  F 2/4]
+MEL[5__  +1__6_6_  5_.65_
+    4_  3__3_2_  1__
+    2__  3_.45_4_  345__
+    4_  3_.45_4_  345__
+    5_  +1__6_.5  5_.65_
+    4_  3__3_2_  1__ //] >>
+FCT[religioeses Lied, Weihnachts - Lied]

@@ -1,0 +1,13 @@
+FINK
+CUT[ICH KENNE EIN BLUEMLEIN SO EINFACH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0247  08 Bb 3/4]
+MEL[1_  1_.12_  4_.3
+    1_  2_2_32  2__
+    2_  2_.23_  5_.4
+    3_  321_-7_  1__
+    3_  2_2_21  -7_-7_
+    21  -7_-7_-6_  -5__
+    2_  2_2_3_  5_.4
+    3_  321_-7_  1__ //] >>
+FCT[Jugend - Lied, Natur, Pflanzen]

@@ -1,0 +1,10 @@
+KINDER
+CUT[HUSSE BUSSEE DAT ERSTE JAHR TWEE]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland, Holstein]
+KEY[K0112  08  G 3/4]
+MEL[  3_3_2_  1_0_
+    1_  3_3_2_  1_0_
+    1_  3_3_3_  4_4_4_
+    222_2_  5_5_5_
+    3_3_2_  1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

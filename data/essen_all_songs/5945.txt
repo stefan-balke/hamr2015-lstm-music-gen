@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Tannhaeuser
+    Wele gross Wunder schauwen will,]
+CNR[der gang in gruenen Wald uhsen.]
+REG[Mitteleuropa, Schweiz, Luzern, Entlebuch, Escholzmatt]
+SRC[1, S. 148
+    1830 aufgezeichnet]
+KEY[Q0015B 08  C 3/4]
+MEL[-5  1-71_.2  -7-4#-5_.
+    1  45431_  1_2_0
+    1  345_.1  234_.
+    1  312_1_  -7_1_0 //] >>
+FCT[Ballade, Wallfahrt, religioes]
+CMT[Grundton in der zweigestrichenen Oktave]

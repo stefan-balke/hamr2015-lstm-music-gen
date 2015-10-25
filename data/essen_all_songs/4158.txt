@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HEUT NOCH SIND WIR HIER ZU HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1627  08  G 4/4]
+MEL[  -5_.11_1_  1_-7-72_0_
+    -5_.22_2_  2_123_0_
+    1_.33_5_  5__3_0_  5__3_0_
+    6_.55_4_  4__3_0_
+    1_.33_5_  5__3_0_  5__3_0_
+    6_.55_4_  4__3_0_ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Wanderschaft]

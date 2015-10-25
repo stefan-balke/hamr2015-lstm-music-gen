@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Wo bist du denn mit der Kunkel gewesen,]
+CNR[Madlenel, mein herziges Kind?']
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+SRC[4, S. 212
+    1933 gedruckt in Heidelberg]
+KEY[Q0079V 08  G 3/4]
+MEL[-5_  1__.  2_1_22  3_3_5_  1_1_
+    1_  4_4_4_  3_3_3_  2__.  ^_0_
+    2_  4_4_44  6_4_.4  3_3_3_  5_3_
+    1_  2__.  4_2_-7_  1__.  ^_0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite und vierte Zeile = Refrain.]

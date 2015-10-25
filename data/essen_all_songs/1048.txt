@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Der Kuckuck"
+    DER KUCKUK AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz, Elsass]
+KEY[Z1314  16  G 2/4]
+MEL[-5_  1_.35_+1_  6_6_5__  5_.53_0
+    3  3_3_3_5_  4_4_2_.
+    2  4_444_6_  5_5_3_33  5_2_1_ //] >>
+FCT[Zech -, Schalks - Lied]

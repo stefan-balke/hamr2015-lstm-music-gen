@@ -1,0 +1,12 @@
+F[ERK3
+CUT[BERGLEUT SIND DIE SCHOENSTEN LEUT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Ober - Lahn - Kreis;
+    Dill - Kreis; Hannover, Bantorf]
+KEY[E1532  16  G 2/4]
+MEL[  1_1_1_2_  -7_-6_-5__
+    -6__-7__  1__0_
+    5_  4_3_2_23  4_3_2_
+    23  4_3_2_1_  -7_-6_-5__
+    1__2__  5_.65_
+    4_  3_3_5_2_  1__0__ //] >>
+FCT[Staende -, Bergmanns - Lied]

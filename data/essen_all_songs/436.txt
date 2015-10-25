@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ACH ELSELEIN, LIEBES ELSELEIN MEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0022  16  G 3/8]
+MEL[1_  1_.23b_  2__1_  2_.3b4_  5__
+    5_  4__2_  3b_.21_  -7b__0_  0__
+    5_  4_.3b2_  3b__1_  -7b__0_  0__
+    -7b_  1_.23b_  4_3b_2_  1_2_3b_  2__
+    1_  -7b__-5_  1__-7b_  1__0_  0__
+    -7b_  1_.23b_  4_3b_2_  1_2_3b_  2__
+    1_  -7b__-5_  1__-7b_  1__ //] >>
+FCT[Sagen - Lied, Romanze]

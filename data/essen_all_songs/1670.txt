@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Mariele, wo bist du mit der Kunkel gewesen,]
+CNR[Mariele, mein einziges Kind?']
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+SRC[4, S. 210
+    1933 gedruckt in Heidelberg]
+KEY[Q0079S 08  G 3/4]
+MEL[5_  355_5_  5_5_66  5_4_4_  4_4_
+    5_  333_3_  2_1_2_  3__.  ^_0_
+    5_  3_5_5_  5_5_6_  5_4_4_  4_4_
+    5_  333_3_  2_1_2_  1__.  ^_0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite und vierte Zeile = Refrain.]

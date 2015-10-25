@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Ich weiss ein ewiges Himmelreich.]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 272
+    1692 gedruckt in Stuttgart]
+KEY[Q0024G 08  F 6/4]
+MEL[1_  1__2_3__4_  5__5_3__
+    5_  5__3_4__3_  2__.1__
+    5_  2__543__2_  1__-7_-6__
+    -5_  1__345_.43_  2__.1__ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung; geistlich]
+CMT[Taktart von 3/2 in 6/4 korrigiert. Melodie = geistliche Kontrafaktur.]

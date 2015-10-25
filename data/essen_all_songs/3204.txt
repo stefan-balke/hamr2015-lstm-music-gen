@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ES GIEBT JA KEINE ROSE OHNE DORNEN]
+REG[Europa, Mitteleuropa, Deutschland, Nahegegend, Hennweiler; Nussbaum]
+KEY[E0673  16  G 4/4]
+MEL[-5__  -3_-5_3_3_3_3_2_1_  1__-7__0__
+    -5__  2_2_2_2_5_5_4_2_  3__3__0__
+    -5_-5_  5__5__6__5__  4___0_
+    4_3_2_  1_.-5-5_-5_3__2__  1___0__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,14 @@
+BOEHME
+CUT[KOMMT WIR WOLLEN UNS BEGEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0680  16  C 2/4]
+MEL[  1_.-5-6-712  1_-7_
+    1_.-5  -6-712-7__
+    1_.-5-6-712  1_-7_
+    1_.-5  -6-712-7__
+    3_.14_3_  2_1_-7-6-5_
+    3_.14_3_  2_-4#_-5__
+    -5_.-52_.-5  -5_.-52_-5_
+    1_1_4_.3  2_-5_3__
+    1_1_4_.3  2_-7_1__ //] >>
+FCT[Scherz - Lied, Maerchen]

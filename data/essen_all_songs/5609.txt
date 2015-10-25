@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Der Bremberger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0023A 04  G 4/2]
+MEL[1_1_.1  3b_3b_5_5_  5__4__  3b__0__  0__.
+    3b_  3b_21-7b_3b_  2__1__  -7b__0__  0__.
+    -7b_  -7b__-6b_-5_  -7b__3b__  1__-7b__  1__0_
+    3b_  4_3b21_-7b_  -6b___  -5___  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aeol mit phryg Schluss. Text, blos diese Strophe in den Grasliedlin
+    1535 No 13. Melodie von mir aus den drei vorhandenen Stimmen (Dis-
+    kant, Alt, Bass) zu construieren versucht, da der Tenor mit der
+    Hauptmelodie leider verloren gegangen ist.]

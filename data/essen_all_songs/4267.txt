@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SCHACKE SCHACKE REITERPFERD]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E1824  16  C 2/4]
+MEL[  +1_+1_+2_+2_  +1_+1_5__
+    +1_+1_+2_+2_  +1_+1_5__
+    +1_+1_+2_+2_  +3_+3_+2_0_
+    +1_.55_3_  2_.11_0_ //] >>
+FCT[Kinder -, Schaukel -, Reiter - Lied]

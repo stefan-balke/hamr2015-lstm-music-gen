@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Des Nachts, wohl um es die halbe Nacht]
+CNR[der junge Knab' an seine Liebe gedacht',]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
+SRC[2, S. 266
+    ????]
+KEY[Q0051E 08  G 6/8]
+MEL[-51_2  3b212_1  -7b-6
+    -5112  11-5-6-5-4#  -5_
+    11-7b1  3b2121-7  1_ //] >>
+FCT[Ballade, Hochzeit, Tod]

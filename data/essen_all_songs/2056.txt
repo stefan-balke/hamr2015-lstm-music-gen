@@ -1,0 +1,13 @@
+FINK
+CUT[FLUECHTIGER ALS WIND UND WELLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0307  08 Bb 4/4]
+MEL[  +1_321_-5_  3_54433_
+    2_.1#2342  +1_321_0_
+    +1_321_-5_  3_54433_
+    2_.1#2342  +1_321_0_
+    2_-712_-71  24355_4_
+    3_.45_.3  65433_20
+    +1_321_-5_  3_54433_
+    2_.1#2342  +1_321_0_ //] >>
+FCT[Jugend - Lied, Belehrung, Moral, Lebenslauf]

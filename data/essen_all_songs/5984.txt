@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    In Oestreich stand ein hohes Schloss,]
+CNR[ein wundervolls Gebaeude]
+REG[Mitteleuropa, Schweiz, Rheinfelden, Moehlin]
+SRC[1, S. 253
+    1912 aufgezeichnet]
+KEY[Q0024B 16  C 3/4]
+MEL[5_  5_+1_3__.3_  3_5_2__.
+    5_  5_5_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_+1__.
+    +3_  +2+1765__.4_  4__3__0_ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Kleinere Melodievariante aus anderer Quelle abgedruckt.]

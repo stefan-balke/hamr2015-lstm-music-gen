@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Schlaefert dich noch?]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0237  04  D 3/2]
+MEL[1_  1__1_  2__2_  3b_.21_  -7b__
+    -7b_  -3b__-3b_  -7b__-7b_  1_.23b_  2__0_
+    -5_.-6-7_  1__0_  -5_.-6-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II No. 66.]

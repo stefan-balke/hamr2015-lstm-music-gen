@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Rache im Zweikampf
+    Pres de chez nous il-y-a un capitaine]
+REG[Mitteleuropa, franzoesische Schweiz, Wallis]
+SRC[5, S. 105
+    1917 gedruckt in Bale und Lausanne]
+KEY[Q2097C 16  C 6/8]
+MEL[  +1_+1_+1_+2_+1_7_  +1_7_6_5__3_
+    +1_+1_+1_+2_+1_7_  +1_7_6_5__
+    5_  5__4_3__.  5_+1_+2_+3_+2_+3_  +2__.+1__
+    +3+3  +2__+1_5__.  +2_+3_+2_6__7_  +1___. //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache]
+CMT[Schweizerische Fassung der Ballade.]

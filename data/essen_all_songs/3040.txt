@@ -1,0 +1,9 @@
+F[ERK1
+CUT[HOERT IHR NICHT DEN JAEGER BLASEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Hennethal]
+KEY[E0528B 08  G 4/4]
+MEL[  1_2_2_2_  2345431_
+    -6_1_1_1_  1_43322_
+    -4-6123_1_  -72477__
+    5_754_2_  4_432__ //] >>
+FCT[Liebes - Lied]

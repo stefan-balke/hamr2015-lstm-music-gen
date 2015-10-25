@@ -1,0 +1,13 @@
+F[ERK3
+CUT[VIVAT ES LEBE DAS PREUSSISCHE HEER]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Anclam]
+KEY[E1368  08  G 4/4]
+MEL[12  3_3_3_3_  3_5_3_
+    3_  5_4_2_5_  3__0_
+    12  3_3_3_3_  3_5_3_
+    3_  5_4_2_-7_  1__0_
+    -71  3_2_2_12  3__0_
+    -71  2_2_2_12  3__0_
+    12  3_3_3_3_  3_5_3_
+    3_  5_4_2_-7_  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

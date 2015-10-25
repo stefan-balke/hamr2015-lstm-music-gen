@@ -1,0 +1,26 @@
+BOEHME
+CUT[AUF DEM SCHEITERHAUFEN KLAGET BITTERLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0129  08  E 3/4]
+MEL[-5-5  123b_55  43b2_
+    3b2  1_3b_2-7  1_0_
+    -5-5  123b_55  43b2_
+    3b2  1_3b_2-7  1_0_
+    3b4  5_5_6b5  544_
+    54  3b_5_43b  2__
+    3b2  123b_23b  544_
+    3b2  1_3b_2-7  1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[AUF DEM SCHEITERHAUFEN KLAGET BITTERLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0129  08  E 3/4]
+MEL[-5-5  123b_55  43b2_
+    3b2  1_3b_2-7  1_0_
+    -5-5  123b_55  43b2_
+    3b2  1_3b_2-7  1_0_
+    3b4  5_5_6b5  544_
+    54  3b_5_43b  2__
+    3b2  123b_23b  544_
+    3b2  1_3b_2-7  1__ //] >>
+FCT[Ballade, Romanze]

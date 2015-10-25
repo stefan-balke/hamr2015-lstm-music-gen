@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Bergen]
+CNR[schaut runter ins tiefe Thal.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Liegnitz,
+    Gross - Laewitz]
+SRC[8, S. 292
+    1840 aufgezeichnet]
+KEY[Q0155X.16  G 4/4]
+MEL[1__  5__.+1_5_6_5_4_  3___2_1_
+    2__  3_.33__4__6__  5___0__
+    5__  +1__+1__7__+2_7_  6___5__3__  4___3__
+    5__  +1__5_4_3__2__  1___0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

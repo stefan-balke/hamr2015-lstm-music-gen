@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Daer was er een koning zeer rijk van goed,]
+CNR[he vrijde Abrahams dochter van elf jaer oud:]
+REG[Mitteleuropa, Niederlande, Ost - Flandern, Nevele]
+SRC[2, S. 285
+    1864 gedruckt in Gent]
+KEY[Q2053D 16  G 6/8]
+MEL[1_2_1_-7_  1__4_454_3_  4__
+    444_1_4_  5_4_5_6_5_4_  5__.
+    5_4_4_  4_4_5_6__5_  432__
+    5_.432  1__234__3_  2_1_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]
+CMT[Niederlaendische Fassung der Ballade.]

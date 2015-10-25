@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[WAER ICH EIN BRUENNLEIN KLAR, BOET ICH DIR KUEHLUNG DAR]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0302  08  G 3/4]
+MEL[3_.23_  5_.43_
+    2_1_2_  3_2_1_
+    3_3_2#_  3_0__
+    3_2_34  6_.543
+    3_2_34  6_.543
+    322_43  2_.0_.
+    3_5432  1_.0_. //] >>
+FCT[Lyrisches Lied, Romanze]

@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Herzog Ernst]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0004B 04  A FREI]
+MEL[4_4_  44_4  6b44_
+    045_5  6b_5  544
+    6b  5_4  3b_2  1_1_ //] >>
+FCT[Romanze, Ballade, Lied]

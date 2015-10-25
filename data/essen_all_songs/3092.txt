@@ -1,0 +1,9 @@
+F[ERK1
+CUT[MAEDCHEN WENN ICH DICH ERBLICKE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0566  08  F 4/4]
+MEL[  1_.35_5_  4_2_1-7-6-5
+    11113_5_  2__0__
+    4_.26_54  3_3_5_43
+    22224_32  1__0__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Nonnenlied"
+    ICH ESSE NICHT GERNE DIE GERSTE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1248  08  A 6/8]
+MEL[-5  -511123  3_.2_
+    1  1334_2  1__0
+    3  4444_5  4_24_5
+    1_.-5_.  1_35_
+    6  531232  1_.0_ //] >>
+FCT[Liebes - Lied]

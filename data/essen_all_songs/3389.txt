@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ES ISCH ES MEITSCHI IN DIESEM ZWING]
+REG[Europa, Mitteleuropa, Deutschland, Schweiz]
+KEY[E0827  16 Bb 2/4]
+MEL[12  3_1_1_23  4_2_2_
+    13  3_1_1_23  4_2_2_5_  2__0_
+    3_  4_2_3_1_  2__2_
+    3_  4_2_3_1_  2__2_
+    1_  2__1_-7_  1__. //] >>
+FCT[Kilt - Lied]

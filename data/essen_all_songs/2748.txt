@@ -1,0 +1,10 @@
+F[ERK1
+CUT[EIN BETTELMANN KAM AUS HUNGERLAND HER]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[E0139A 16  D 6/8 2/4]
+MEL[5_  +1_.76_5__5_  +1_.76_5__0_
+    +1__6_5__5_  5_6_5_5_3_3_  3_2_2_1__0_
+    5_.7+2_.+1  7_.65__
+    3_.45_.4  3_.21__ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann
+    Ballade ?]

@@ -1,0 +1,11 @@
+BOEHME
+CUT[AUF HOHER ALP]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0644  16 Eb 3/4]
+MEL[3_3_.3  5___3__  6__.5_4_3_  5___
+    3__  2__.4_3_5_  4___
+    2__  3__.5_4#_.6  5_.76_.+1#7_.
+    +2  +1_7_+1_6_4#_6_  5__.
+    5_5_.5  7__.5_5_.5  +1___
+    3__  6__.5_4_3_  5__4__2__  1___.  ^__0_ //] >>
+FCT[Kinder - Lied, Natur, religioes]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DER MEISCHTER SCHICKT DER JOCKELE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1745  16  G 2/4]
+MEL[-5_  -5_1_1_1_  -7_222_
+    2_  3_3_5_3_  2__2__
+    2_2_3_4_  5__5__  +1___  5___
+    3_332_2_  1_-7_1_ //] >>
+FCT[Scherz -, Spiel - Lied, Zaehl - Geschichte]

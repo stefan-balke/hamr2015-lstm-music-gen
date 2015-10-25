@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Wo bist du denn gewesen,]
+CNR[Herztoechterlein?']
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 192
+    1922 gedruckt in Leipzig und Berlin]
+KEY[Q0079B 16  G 2/4]
+MEL[1_  3_.33_2_  1__1__
+    5__5_4_  3__0_
+    1_  6_.66_6_  5__1__
+    3__2_2_  1__0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite Zeile und letzte Zeilen = Refrain.]

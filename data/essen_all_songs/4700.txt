@@ -1,0 +1,13 @@
+ALTDEU
+CUT[St. Christoph]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0614  04  D 3/2]
+MEL[1_  1__1_  5__6_  7b__6_  5__
+    6_  7b__6_  5__4_  3b_212_  1__
+    4_  2__3b_  4__5_  3b_2__  1__
+    1_  5__6_  7b__+1_  7b_656_  5__
+    +1_  6__7b_  5__4_  5_3b_4_  3b__
+    5_  7b__6_  5__4_  3b_212_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Notenbuchers Bergkreien 1551 No. 26 und Praetorius, Mus. Sion.
+    VII. 1609 No. 182 von Boehme unterlegt.]

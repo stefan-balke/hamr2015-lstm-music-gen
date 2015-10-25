@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    'Ade, mein Schatz, jetzt reis' ich fort,]
+CNR[reis' in die weite Fremde.]
+REG[Mitteleuropa, Schweiz, Aargau]
+SRC[3, S. 80
+    1911 gedruckt in Basel]
+KEY[Q0056D 16  G 3/4]
+MEL[-5_  -5_.33__2_1_  1_2_-5__0_
+    -5_  -5_.44__3_2_  2__1__0_
+    1-7  -6_.-71__-7_-6_  -5_1_3__0_
+    3_  2_3_5__4_2_  2__3__0_
+    1-7  -6_.-71__-7_-6_  -5_1_3__0_
+    3_  2_3_5__4_2_  2__1__0_ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

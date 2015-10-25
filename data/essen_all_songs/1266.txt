@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es schlaeft ein Graf bei seiner Magd]
+CNR[bis an den hellen Morgen,]
+REG[Osteuropa, Ungarn, Nemetker Komitat Tolnau]
+SRC[3, S. 17
+    1935 aufgezeichnet (aeltere Fassung, vgl. Q0055J)]
+KEY[Q0055I 08  G 2/2]
+MEL[1_  3_1_1_3_  2_21-7_
+    -6_  1_-6_1_-6_  -5_1_-5_
+    -5-5  -6_-4-4-4_-6-6  -5_-5-4-3_
+    -5_  1_1_3_1_  2__1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

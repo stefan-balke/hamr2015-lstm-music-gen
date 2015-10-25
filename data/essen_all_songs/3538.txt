@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Der ehebrecherische Gatte
+    Bie vrie ischt auf dai scheane Kine!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Lichtenbach]
+SRC[5, S. 52
+    1895 gedruckt in Graz]
+KEY[Q0093  08  G 3/4]
+MEL[13  54#5__  432_3_  432_-7_  1__ //] >>
+FCT[Ballade, Ehebruch, Mord]
+CMT[Andere rhythmische Deutung auf S. 57 angenommen.]

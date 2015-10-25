@@ -1,0 +1,7 @@
+FINK
+CUT[DIE GLOCKE ZU KAPERNAUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0344  08  C 2/4]
+MEL[-5  1122  3b3b2
+    2  1_-7_  1-5-5 //] >>
+FCT[Jugend - Lied, Geselligkeit, Scherz, Kanon]

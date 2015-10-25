@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[MEINST DU DENN ICH SOLL MICH KRAENKEN UEBER DEINE FALSCHE TREU]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[Z0268  08  D 3/4]
+MEL[34  5_.365  5-72_
+    23  4_.254  3__
+    34  5_.365  5-72_
+    23  4_.25-7  1__
+    35  5+4+2_75  5+3+1_
+    +13  5+4+2_75  5+3+1_
+    +13  5+4+2_75  5+3+1_
+    +13  5+4+2_5+3  +1__ //] >>
+FCT[Lyrisches Lied, Romanze]
+CMT[Die letzten 8 Takte werden auf die Silbe 'ai' gesungen.]

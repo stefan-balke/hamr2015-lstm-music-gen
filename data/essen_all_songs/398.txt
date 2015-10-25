@@ -1,0 +1,26 @@
+BOEHME
+CUT[ZERDRUECK DIE THRAENE NICHT IN DEINEM AUGE]
+REG[Europa, Mitteleuropa, Deutschland, Nassau, Rheinland; Elsass]
+KEY[B0471  08  F 4/4]
+MEL[-512  3_.33543  5_2_0
+    432  1_.1-7-5-6-7  1__0
+    -512  3_.33543  5_2_0
+    432  1_.1-7-5-6-7  1__0
+    222  3_.3221-6  -5_-725
+    2-75  4#_.3221-6  -5__0
+    -512  3_.33543  5_2_0
+    432  1_.1-7-5-6-7  1__0 //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[ZERDRUECK DIE THRAENE NICHT IN DEINEM AUGE]
+REG[Europa, Mitteleuropa, Deutschland, Nassau, Rheinland; Elsass]
+KEY[B0471  08  F 4/4]
+MEL[-512  3_.33543  5_2_0
+    432  1_.1-7-5-6-7  1__0
+    -512  3_.33543  5_2_0
+    432  1_.1-7-5-6-7  1__0
+    222  3_.3221-6  -5_-725
+    2-75  4#_.3221-6  -5__0
+    -512  3_.33543  5_2_0
+    432  1_.1-7-5-6-7  1__0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

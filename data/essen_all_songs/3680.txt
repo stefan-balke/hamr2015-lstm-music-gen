@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es fahrt ein Hirt den Wald hinein,]
+CNR[was hoert er schrein? Ein Kindelein.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[5, S. 272
+    1926 gedruckt in Heidelberg]
+KEY[Q0114c 08  G FREI]
+MEL[-5_-5-6-7_  1__.-5_123_  2__.
+    4_3_2_  1__.-5-6-7b_-6_  -5__0_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]
+CMT[Vom Hg. als Vierzeiler klassifizert.]

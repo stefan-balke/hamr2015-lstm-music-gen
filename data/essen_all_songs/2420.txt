@@ -1,0 +1,8 @@
+FINK
+CUT[ACH TREUER VATER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1040  08  F 4/4]
+MEL[1_  -7_.24_.2  1_3_5_
+    3_  4_.66_.4  4__3_ //] >>
+FCT[Trost - Lied]
+CMT[Strophenvariante zu F1039]

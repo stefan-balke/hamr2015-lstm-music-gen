@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Volksmeldie des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0302  08  C 3/4]
+MEL[1__2_  3__1_  4_3_2_  121__
+    553432  121__  +1__76  565__
+    565432  121_5_  6_543_  4_3_2_  121__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Musikal. Lehrcompendium des H. de Zeelandia (15.Jh). Mitgetheilt
+    in W. Ambros, Gesch. d. Musik II, 277.]

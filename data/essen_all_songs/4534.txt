@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Jagd - und Liebeslied des Herzogs Ulrich von Wuertemberg]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0443  08  F 4/2 6/2]
+MEL[5__  3__4__5__3__  6__5__4___  3___0__
+    5__6__+1__  7__6_5__432__  1___.
+    5__  3__4__5__3__  6__5__4___  3___0__
+    5__6__+1__  7__6_5__432__  1____  0__
+    1__3__4__  5___0__5__6__7__  +1___0__
+    5__  6__6__5__+1__  7_+1_6__5__0_
+    +1_  7__6__5__0_6_  5__4__3___  0__
+    5__6__+1__  7__6_+2__+176__  5___. //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Arnt von Aich 1519 und Forster IV 1556 No. 12.]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ACH KOENNT ICH MOLLY KAUFEN FUER GOLD UND EDELSTEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0375  16  G 2/4]
+MEL[5_  3_3_3_3_  4_.32_
+    54  3_1_1-713  2__0_
+    5_  3_3_3_3_  4_.32_
+    54  3_1_1-713  2__0_
+    2_  5_5_4#_6_  5__2_
+    2_  -7_2_1_-6_  -7__0_
+    5_  3_3_3_3_  4_.32_
+    4_  3_5_2_5_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ACH KOENNT ICH MOLLY KAUFEN FUER GOLD UND EDELSTEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0375  16  G 2/4]
+MEL[5_  3_3_3_3_  4_.32_
+    54  3_1_1-713  2__0_
+    5_  3_3_3_3_  4_.32_
+    54  3_1_1-713  2__0_
+    2_  5_5_4#_6_  5__2_
+    2_  -7_2_1_-6_  -7__0_
+    5_  3_3_3_3_  4_.32_
+    4_  3_5_2_5_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Schaefersohn"
+    ES TRIEB EIN SCHAEFER WOHL UEBER DIE BRUECK]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1086  08  G 6/8]
+MEL[-5  1_1123b  221-7_0
+    -72443b4  3b_21_
+    1  4_11_-7b  -7b_-6b-5_.
+    -6b-5-4-5_.  -6b-5-4-5_.
+    1_-711-5  -6b_-51_ //] >>
+FCT[Romanze, Ballade]

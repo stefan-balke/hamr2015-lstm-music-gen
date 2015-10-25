@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DER MEIE BRINGT UNS BLUEMLEIN VIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0931  08  G 4/4]
+MEL[1_  5__5_1_  5__5_
+    7b_  6_5_4_3_  45645_
+    5_  3_3_4_4_  5__3_
+    3_  4_4_5_5_  3__1_
+    1_  4_4_2_2_  1__0_ //] >>
+FCT[Tanz - Lied, Reigen; Liebe]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Es fuhr ein Schifflein wohl ueber den Rhein,]
+CNR[es fuhre zu einem Markgrafen hinein.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[2, S. 237
+    1842 gedruckt in Leipzig]
+KEY[Q1049E 16  G 6/8]
+MEL[123_.23_  1_2_3_4_.34_  2__
+    234_2_5_  3_.21_2_.32_  1__
+    234_2_5_  3_.21_2_.32_  1__ //] >>
+FCT[Ballade, ???]
+CMT[Melodievergleich zu Q0049 ff., anderes Lied, Ballade
+    "Grausamer Bruder".]

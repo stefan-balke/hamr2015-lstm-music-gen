@@ -1,0 +1,11 @@
+F[ERK1
+CUT[GANZ VERGNUEGT UND EINSAM]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0522E 16  F 3/4]
+MEL[1_3_  5_5_5_5_6_.5  5__3__
+    6_.5  5_4_4_6_5_4_  4__3__
+    5_5_  4_4_2__6_6_  5_5_3__
+    5_5_  4_4_2__6_6_  5_5_3__
+    1_3_  5_5_5_5_6_.5  5__3__
+    6_.5  5_4_4_6_5_4_  4__3__ //] >>
+FCT[Liebes - Lied]

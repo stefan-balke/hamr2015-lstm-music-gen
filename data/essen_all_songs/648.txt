@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[WIR HABEN UNS BESONNEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0232  16  G 3/4]
+MEL[1_3_  5_.65__4__  3__.4_5__
+    5_5_6_5_4_3_  2__-7__-5__
+    5_565_4_3__  5_6_5_4_3__
+    2_2_2_2_1_2_  4__3__ //] >>
+FCT[Schiffer -, Handwerker - Lied]
+CMT[Reiselied]

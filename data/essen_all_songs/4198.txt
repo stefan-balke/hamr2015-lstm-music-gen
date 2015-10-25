@@ -1,0 +1,10 @@
+F[ERK3
+CUT[JUNGFER LIESCHEN SCHLIEF DA DROBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Kreis; Wetterau;
+    Frankreich, Elsass]
+KEY[E1732A 08  G 3/4]
+MEL[13  5_3_56  542_
+    5_  3_3_53  2__
+    32  1_3_2_  3_5_
+    46  5_3_2_  1__ //] >>
+FCT[Scherz - Lied]

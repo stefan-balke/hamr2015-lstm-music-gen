@@ -1,0 +1,11 @@
+F[ERK3
+CUT[SCHAEFER SAG WO WILLST DU WEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Bergstrasse]
+KEY[E1491A 16  C 3/4 2/4]
+MEL[-1_-3_  -5__.-5_-5_1_  1_-3_-3__
+    -3_-5_  -5__.-4_-4_-6_  -6_-5_-5__0__
+    -3_-5_-5_-5_  -3_-5_-5_-5_
+    1_.-7-6_-5_  -5_-4_-4_-4_
+    -6__-5__-4__  -3_-4_-5__0_
+    -5_  -5_1_3__3__  2_-7_1__ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

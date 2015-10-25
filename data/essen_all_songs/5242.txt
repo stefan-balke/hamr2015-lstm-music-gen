@@ -1,0 +1,11 @@
+BOEHME
+CUT[WO FINDET DIE SEELE DIE HEIMAT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0769  04 Eb 4/4]
+MEL[5  5_36  5_35  4_24  3_0
+    3  3_46  5_35  4_24  3_0
+    5  +1_76  5_35  5645  3_0
+    5  +1_76  5_35  5645  3_0_
+    5_3_  4_2_  1_46  5_0
+    5  +1_76  5_35  5432  1_0 //] >>
+FCT[religioes]

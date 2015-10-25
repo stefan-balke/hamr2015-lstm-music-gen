@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Von Gott will ich nicht lassen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0642B 04  G 4/4]
+MEL[1  123b1  2_-7b
+    -7b  1122  -5_0
+    1  123b1  2_-7b
+    -7b  1122  -5_0
+    5  43b3b2  3b_0
+    3b  3b453b  4_2
+    2  3b3b11  2_-7b
+    -5  -611-7  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Dermantius 1611]

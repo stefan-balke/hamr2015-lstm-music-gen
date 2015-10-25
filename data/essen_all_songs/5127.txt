@@ -1,0 +1,12 @@
+BOEHME
+CUT[NUR EIN WANDERN IST DAS LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0663  16  F 3/4]
+MEL[1_2_  3__3__4_3_  3_2_2__
+    2_3_  4__.325_.4  3___
+    6_.5  5_.44__4_.3  3_.22__
+    2_2#_  3__.654_.4  3___
+    5_.5  +1__.765_4_  3___
+    2_6_  5__.432_65  5___
+    1_2_  3__3__2_43  1___ //] >>
+FCT[Wander -, Moral - Lied, Vergaenglichkeit]

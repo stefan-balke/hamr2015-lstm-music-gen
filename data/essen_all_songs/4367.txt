@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH TRAU AUF GOTT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+KEY[E2017  08  G 2/4]
+MEL[12  3b_43b  2_5_  4_3b_  2__
+    3b_21  -7_13b  2__  -5_
+    12  3b_43b  2_5_  4_3b_  2__
+    3b_21  -7_13b  2__  -5_0_
+    5_43b  4_-7b_  5_43b  4_-7b_
+    123b4  5_12  3b_2_  1_ //] >>
+FCT[geistlich, Gebet, Jesus - Lied]

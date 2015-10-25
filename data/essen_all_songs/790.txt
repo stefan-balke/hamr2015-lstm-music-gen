@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Versuchung"
+    FEINSLIEBCHEN DU SOLLST MIR NICHT BARFUSS GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1055  08  A 2/4]
+MEL[-5  -511-7  1_12  3b-7b-7b_  -7b_
+    12  3b_-5-5  -6b_-5-4  -5_.-4  -3b_0_
+    -7b_-7b-5  -7b_0_  1_3b2  3b_
+    3b5  4_3b3b  2_11  -5_.-7  1_0 //] >>
+FCT[Romanze, Ballade]

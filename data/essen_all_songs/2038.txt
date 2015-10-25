@@ -1,0 +1,11 @@
+FINK
+CUT[WIE RUHEST DU SO STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0285  16  G 2/4]
+MEL[2_  3_.34_-7_  2_1_0_
+    3_  4_.44_3_  3_2_0_
+    2_  3_.65_4#_  5__0_
+    5_  2_.23_3_  3_4_0_
+    2_  1_.11_2_  4_3_0_
+    3_  4_3_6__  ^_543_2_  1__0_ //] >>
+FCT[Jugend - Lied, Jahreszeiten, Winter]

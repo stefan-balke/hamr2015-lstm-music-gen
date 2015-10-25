@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Jaegerlied"
+    IN HITZE UND KAELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1283  16  F 3/8]
+MEL[-5_  1_.32_  3__1_  3_.54_  5_0_
+    5_  6_.46_  5__3_  4_.25_  3__
+    3_  2_4_3_  3_2_3_  2_4_3_  3_2_
+    5_  6_5_4_  5__5_  6_6+17_  +1_0_-7_  1__ //] >>
+FCT[Jaeger - Lied]

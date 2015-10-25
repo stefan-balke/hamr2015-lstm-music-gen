@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es wollt' sich ein stolzer Schuhknecht freien gehn,]
+CNR[er freit sich ja ein Koenigstoechterlein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 260
+    1933 gedruckt in Heidelberg (?)]
+KEY[Q1068N 16  F 4/4]
+MEL[-5__  1_.11__2__3_4_  4_5_4_3_2__0_
+    23  4__4_3_2__.3_  1_.11_-6_-6__0_
+    2_  2__2__1__4_.4  3_.32_-7_1__ //] >>
+FCT[Ballade, ???]
+CMT[Melodievergleich zu Q0068J, anderes Lied "Der Schuhknecht" .
+    Schlusspause korrigiert.]

@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Das Dutzend voll"
+    DIE MUTTER ZEIHT MICH]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1187  08 Ab 3/4]
+MEL[12  3_1_3_  2_-7_1_  -6_0_2_  -5_0_
+    12  3_1_4_  331_2_  -6_0_-7_  1_0_
+    12  3_1_4_  331_2_  -6_0_-7_  1_0_ //] >>
+FCT[Liebes - Lied]

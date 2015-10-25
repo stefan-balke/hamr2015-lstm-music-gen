@@ -1,0 +1,15 @@
+DVA
+CUT[Uebers Loaterl, da steig i net aufi,
+    da Gangsteig der is ma z' hoch drobn]
+REG[Europa, Mitteleuropa, Deutschland, Bayernalpe]
+KEY[D0074  16  F 3/4]
+MEL[3_3_  3_5_+1__.3_  5__.4_3__  5_2_4__0_
+    4_  4_5_7__.4_  6__5__4__  3__0__0_
+    3_  3_5_+1__.3_  5__4__3__  5_2_4__.
+    4_  4_5_7__.4_  6__5__4__  3__0__0__
+    2_222__-5_0_  3_+1_5__+1_5_  7__.6_4__  3__0__0__
+    2_222__-5_0_  3_+1_5__+1_5_  7__.6_4__  3__0__
+    5_5_  6__.5_3__  5__.4_2__  7__.6_4__  6__.5_3__
+    6__.5_3__  5__.4_2__  7__.6_5_4_  3__0__ //] >>
+FCT[Kilt - Lied]
+CMT[Unterstimme vorwiegend in Terzen; Verzierung; Inzipit = Variante]

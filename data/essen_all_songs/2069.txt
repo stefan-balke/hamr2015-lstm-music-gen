@@ -1,0 +1,10 @@
+FINK
+CUT[ICH BIN VOM BERG DER HIRTENKNAB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0321  08  C 4/4]
+MEL[-5-5-5  3_.32_.2  1_0_.
+    -7b-7b-7b  -6-5-4-3-2_-1_  -5_0_.
+    -5-5-5  1_.11_1_  -7_0_.
+    -5-5-5  3b_.3b3b_3b_  2_0_
+    4_2-7  1_-3_-5__  -1_0_. //] >>
+FCT[Jugend - Lied, Natur]

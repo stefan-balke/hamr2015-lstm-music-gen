@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Ich han in ainem garten gesehen]
+CNR[czwo rosen gar in liechtem schein;]
+REG[Mitteleuropa, Oesterreich, Salzburg, Mondsee]
+SRC[2, S. 294
+    13?? Handschrift (Ende d. 14. Jh.)]
+KEY[Q1053E 08  F 4/4 6/4]
+MEL[11_5_  3_1_1_2_  1_1
+    13_4_  5_+1_7_6_  5_.
+    5+1_+1_  (5__5_)(5__5_)  330_
+    5_5_  (1__1_)(3__4_)  3__5__3__  2__1_2_  1_. //] >>
+FCT[???]
+CMT[Verzierung (Nachschlag) in der ersten Zeile. Melodievergleich
+    zu Q0053 , anderes Lied. Takteinteilung chaotisch. Hier Taktwechsel
+    kodiert.]

@@ -1,0 +1,9 @@
+FINK
+CUT[ICH GING IM MONDENSCHIMMER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0918  16 Eb 2/4]
+MEL[5_  5_335432  211_
+    3__  6_2_2_34  4_3_0_
+    5_  5_4#_+1_.+1  744_
+    3__  6_421_-72  2_1_0_ //] >>
+FCT[Liebes - Lied]

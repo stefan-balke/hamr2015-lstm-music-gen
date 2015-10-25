@@ -1,0 +1,26 @@
+BOEHME
+CUT[DORT AN JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.d. Oder, Seelow]
+KEY[B0370  08  F 3/4]
+MEL[  123_2_  135__
+    6_5_4_  3_421_
+    5_5_2_  57+2__
+    +1_7_6_  5__0_
+    556543  4_6__
+    432_1_  5_.65_
+    5_4_3_  21+1__
+    314_2_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[DORT AN JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.d. Oder, Seelow]
+KEY[B0370  08  F 3/4]
+MEL[  123_2_  135__
+    6_5_4_  3_421_
+    5_5_2_  57+2__
+    +1_7_6_  5__0_
+    556543  4_6__
+    432_1_  5_.65_
+    5_4_3_  21+1__
+    314_2_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

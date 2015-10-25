@@ -1,0 +1,9 @@
+FINK
+CUT[AM STILLEN HAIN IM MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0934  16 Ab 3/4]
+MEL[-5__  3_.33__.-5_  4_.44__.
+    33  2__(^_1#_2_)(2_3_4_)  5__(^_4#_5_)(5_3_1_)
+    +1___7b_6b_  5__.3_
+    5_+1_  +1__7_4_6_5_  5___.  ^__0__ //] >>
+FCT[Liebes - Lied]

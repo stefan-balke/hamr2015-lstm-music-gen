@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Ich sach mir einen blauen Storchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0071A 04  G 6/4]
+MEL[5  5_556b6b  5_54_
+    4  +1_7b_6b4  5_15_
+    5  5_6b_7b5  4_.1_
+    2  3b_3b_22  1_-51_ //] >>
+FCT[Lied]
+CMT[Baseler Hs., 1544]

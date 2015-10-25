@@ -1,0 +1,8 @@
+F[ERK3
+CUT[AUF EINEM BAUM EIN KUCKUK]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Barmen]
+KEY[E1739  16  G 2/4]
+MEL[5__  3_1_3_5_  5_4_2__
+    1_111_1_  1_112_-7-7  -5__
+    5__  3_1_3_5_  5_4_2__  1__ //] >>
+FCT[Scherz -, Spiel - Lied, Pfaenderspiel, Vexierspiel]

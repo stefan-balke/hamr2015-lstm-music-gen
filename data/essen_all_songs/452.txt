@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES TAGET AUS DEM OSTEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Niederlande]
+KEY[Z0038  08  G 4/4]
+MEL[1_  -5_-5_-7b_1_  3b__2_
+    5_  4__3b_1_  2_4_.3b21  2__0_
+    2_  3b_4_5_5_  4_5_3b__  2__3b_2_  1__.
+    2_  -5_-5_-6_-7b_  1__3b21-7b  1__. //] >>
+FCT[Sagen - Lied, Romanze]

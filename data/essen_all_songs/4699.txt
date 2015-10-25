@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Von dem heiligen Ritter sanct Joergen (Georg)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0613  04  G 4/2]
+MEL[1_  4_4_1_1_  4_4_5_.
+    4  5__4_6_  5__4__  0_
+    4_4_6_  5_5_1_2_  1__
+    3b_.4  5__4_.3b  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 II No. 73.]

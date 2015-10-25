@@ -1,0 +1,11 @@
+FINK
+CUT[FEINDE RINGSUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0402  08  F 4/4]
+MEL[  -1__-3_.-1  -5__0__
+    -5__-6_.-7  1__0__
+    -6_-6-6-6-41-6  -6_-5_0__
+    -6_-6-6-6-41-6  -6_-5_0__
+    -6__-6-5-4-3  -2__0__
+    -5__-6_.-7  1_0__. //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Krieg]

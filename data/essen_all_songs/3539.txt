@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Der ehebrecherische Gatte
+    Bie vrie ischt auf deu scheane Liane!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 57
+    ????]
+KEY[Q1093A 08  G 3/4]
+MEL[1_  5_6_54  3_1_1_  3_3_2_  1__ //] >>
+FCT[Ballade, ???]
+CMT[Melodievergleich zu Q0093, anderes Lied.]

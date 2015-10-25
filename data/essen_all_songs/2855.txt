@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ZU FRANKFURTH  STAND EIN SCHIENES HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0209B 16  D 2/4]
+MEL[12  3_3_3_3_  2_1_1_
+    12  3_3_5_3_  2__1_
+    12  3_3_3_3_  2_1_2_
+    12  3_3_3_3_  2_1_2_
+    12  3_3_5_3_  2__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Geiz]

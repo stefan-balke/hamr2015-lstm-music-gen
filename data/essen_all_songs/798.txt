@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Brombeeren"
+    ES WOLLT EIN  MAEDCHEN FRUEH AUFSTEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein]
+KEY[Z1063  08  D 4/4]
+MEL[12  3_321_23  4_432_
+    34  5_.43_21  2__0_
+    12  3_321_23  4__2__
+    -7__-5__  5__3_
+    3_  544_2_4_  3__0_ //] >>
+FCT[Romanze, Ballade, Jaeger - Lied]

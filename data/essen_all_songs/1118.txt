@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der keusche Dienstknecht
+    Es hat ein Herrchen ein wunderschoenes Weibchen,]
+CNR[hat schwarzbraune Aeugelein, stolz mit dem Leibchen.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Kreis Saargemuend, Roth]
+SRC[2, S. 11
+    1913 aufgezeichnet]
+KEY[Q0033  08  F 3/4]
+MEL[111  5_.66_  5_4_55  3_1_
+    1_  1_1_5_  4_.32_  1_2_3_  2_-5_0_
+    -5_-6_-7_  2__5_  3_2_3_  1_0 //] >>
+FCT[Ballade, Verfuehrung, Tod, Ehe, Moral]

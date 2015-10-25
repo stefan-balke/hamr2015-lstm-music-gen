@@ -1,0 +1,11 @@
+FINK
+CUT[SCHLUMMRE KINDCHEN SCHLUMMRE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0232  16  F 3/4]
+MEL[  3_2#_3__.6_  5_2_3__
+    3_5_  +1___6__  5_2_3__
+    3_.4#  5_4#_3__.4#_  5__0__
+    5_7_  +1_4#_5__2_2#_  3__0__
+    +1_7_  7_6_6__3__  4__0__
+    6_5_  5__.1_3_2_  1___0__ //] >>
+FCT[Wiegen - Lied, religioes]

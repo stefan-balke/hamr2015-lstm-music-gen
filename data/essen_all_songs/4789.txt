@@ -1,0 +1,11 @@
+DVA
+CUT[Das Zauberross
+    Es wollt' ein Maedchen frueh aufstehn,]
+CNR[frisch Wasser wollt' es holen gehn.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0031  08  G FREI]
+MEL[-512  3_3_22  1_0
+    113  5_5_665
+    432  1_5_42  1_. //] >>
+FCT[Ballade, magisch, mythisch]
+CMT[Taktart in ' FREI ' korrigiert]

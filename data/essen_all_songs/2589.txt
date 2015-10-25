@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOHNTE EINE WITWE]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+KEY[E0057A 08  G 3/4]
+MEL[1_  5_.42_  1_3_
+    5_  4_3_5_  2_0_
+    1_  5_5_31  6_6_
+    4_  3__2_  1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

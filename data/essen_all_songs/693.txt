@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[WENN DU BEI MEIN SCHAETZCHEN KOMMST, SAG: ICH LIESS SIE GRUESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z0276  16  D 2/4]
+MEL[+1_765_4_  3_4_5__
+    +1_765_4_  3__2__
+    +1_765_4_  3_4_5__
+    3_1_2_-7_  1__1__
+    1_3_1_3_  1_3_5__
+    -7_2_-7_2_  -7_2_4__
+    1_3_1_3_  1_3_5__
+    3_1_2_-7_  1__1__ //] >>
+FCT[Lyrisches Lied, Romanze, Scherz - Lied]

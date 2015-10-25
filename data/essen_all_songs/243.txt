@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH BIN VERGNUEGT IM SIEGESTON VERKUEND ES MEIN GEDICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0291  08 Eb 6/8]
+MEL[-5  1_1-71-7  -6-71-5_
+    -5  -5-4-3-2-1-2  -3_.0_
+    -5  3_321-7  -6_-71_
+    2  -7-6-5-2-7-6  -5_.0_
+    2  2_11-7-6  -6-5-4-3_
+    1  -5_-3-1_-3  -2_-3-1_ //] >>
+FCT[Stimmungs - Lied, Freude]
+BOEHME
+CUT[ICH BIN VERGNUEGT IM SIEGESTON VERKUEND ES MEIN GEDICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0291  08 Eb 6/8]
+MEL[-5  1_1-71-7  -6-71-5_
+    -5  -5-4-3-2-1-2  -3_.0_
+    -5  3_321-7  -6_-71_
+    2  -7-6-5-2-7-6  -5_.0_
+    2  2_11-7-6  -6-5-4-3_
+    1  -5_-3-1_-3  -2_-3-1_ //] >>
+FCT[Stimmungs - Lied, Freude]

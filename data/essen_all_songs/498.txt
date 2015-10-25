@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[WELLE GROSS WUNDER SCHAUEN WILL]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z0083  08  C 3/4]
+MEL[-5  1-71_.2  -7-4#-5_.
+    -7  45431_  1_.2_
+    -5  1-71_.2  -7-4#-5_.
+    -7  45431_  1_.2_
+    1  345_.1  234_.
+    1  312_1_  -7_.1_ //] >>
+FCT[Sagen - Lied, Romanze]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[GUTEN ABE VRENELI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E0590  16  A 2/4]
+MEL[  1_.35_3_  3_2_2__
+    2_.46_4_  4_3_3__
+    1_.35_3_  3_2_2__
+    4_-7_1_-7_  1__0__ //] >>
+FCT[Liebes - Lied, Kilt - Lied]

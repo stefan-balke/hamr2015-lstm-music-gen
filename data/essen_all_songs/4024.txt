@@ -1,0 +1,12 @@
+F[ERK3
+CUT[WAS KANN EINEN MEHR ERGOETZEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Sachsen; Schlesien]
+KEY[E1451  08  G 4/4]
+MEL[  1_123_3_  2_2_1_-5_
+    3_345_5_  4_4_3__
+    1_123_3_  2_2_1_-5_
+    3_345_5_  4_4_3__
+    5_5_6_6_  4_465__
+    3_3_4_0_  2_2_3_0_
+    1_135_5_  4_4_3_0_ //] >>
+FCT[Staende -, Jaeger - Lied]

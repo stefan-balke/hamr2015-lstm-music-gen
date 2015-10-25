@@ -1,0 +1,11 @@
+FINK
+CUT[O WUNDERBARES GLUECK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0590  08 Bb 2/4]
+MEL[  1_-7-6  -5-4-3_
+    -5_-64  2-71
+    1  3111  2_-7
+    -5  3111  2_-70
+    1_-7-6  -5-4-3_
+    -5_-64  2-710 //] >>
+FCT[Soldaten - Lied, Klage]

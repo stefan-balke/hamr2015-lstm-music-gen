@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Devojcica se igrala]
+CNR[zmladim gospodinom]
+REG[Suedosteuropa, Jugoslawien, Kroatien]
+SRC[3, S. 65
+    ????]
+KEY[Q2055p 16  G 2/4]
+MEL[  1_.-5-5_-5_  1_1_1_
+    3_  2_.1-7_-6_  -6__-5__
+    -5_.-6-5_-4_  -3_3_3__
+    4_-7_-6_-7_  1__1_0_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Kroatische Fassung der Ballade.
+    Dritte und vierte Zeile = Refrain, dritte Zeile auf sinnfreie Silben.]

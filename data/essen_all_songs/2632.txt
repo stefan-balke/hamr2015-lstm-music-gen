@@ -1,0 +1,22 @@
+F[ERK1
+CUT[ACH SCHIFFMANN DU FEIN GUTER MANN]
+REG[Europa, Mitteleuropa, Deutschland, Halle]
+KEY[E0078A 08  F 2/4 3/4]
+MEL[3  5333  322
+    2  1356  6553  533
+    3  5333  322
+    2  1356  655
+    3  5333  322
+    4  3123  1_0
+    3  5333  322
+    2  1356  6553  533
+    3  5333  322
+    2  1356  655
+    3  5333  322
+    4  3123  1_0
+    3  5333  322
+    2  1356  6553  533
+    111  4_6666  653
+    +155  333332  2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

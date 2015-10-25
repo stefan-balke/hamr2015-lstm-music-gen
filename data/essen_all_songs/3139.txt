@@ -1,0 +1,9 @@
+F[ERK1
+CUT[I WOASS A SCHOENI GLOCKN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Bayern]
+KEY[E0604  08 Bb 3/4]
+MEL[-5-4  -3-4-5-6-71  -622_.
+    1  -765_42  13-5_.
+    -4  -31-5315  6543
+    21  -765_42  1__ //] >>
+FCT[Liebes - Lied]

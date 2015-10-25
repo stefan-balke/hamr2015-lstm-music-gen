@@ -1,0 +1,9 @@
+KINDER
+CUT[TRAUER TRAUER UEBER TRAUER]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[K2208  16  C 3/4]
+MEL[1_3_  5__3__+1_6_  5__3__
+    3_5_  4__2__5_5_  3___
+    1_3_  5__3__+1_6_  5__3__
+    3_5_  4__2__5_54  3___ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

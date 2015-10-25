@@ -1,0 +1,10 @@
+F[ERK3
+CUT[LASST UNS DAS KINDLEIN WIEGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1940  08  G 3/4]
+MEL[1_  1__2_  3__4_  2_.12_  3__
+    1_  1__2_  3__4_  2_.12_  3__
+    3_  5__4_  3__2_  3_.23_  2__
+    3_  5__4_  3__2_  3_.23_  2__
+    2_  -5_.-6-7_  1__3_  2_.12_  1__ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

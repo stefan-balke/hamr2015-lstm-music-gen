@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+CNR[wollt' auf einen Kirchhof gehn streiten.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[5, S. 20
+    1936 aufgezeichnet]
+KEY[Q0089K 16  G FREI]
+MEL[-5_-5_-5_1__2_1_-7b__1_2_3b__.
+    (2__2_)1_2_1_-5_-5__-5__-6_-7_1___0__
+    3b__2_3b_4_5_4__3b_2_2_1_1_.21_-7b_^___0_
+    -5__-5_-5_1__.3b_2__1_-7_1___ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]
+CMT[Transkription einer Tonaufnahme.]

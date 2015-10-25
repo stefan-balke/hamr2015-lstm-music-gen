@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Spottlied auf den 1574 aus Krakau entflohenen Polenkoenig]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0412  04  G 4/4]
+MEL[-5  1122  3_2
+    2  311-7  1_0
+    -5  1122  3_2
+    2  311-7  1_0
+    3  3322  332
+    2  3322  332_  0231  1-71 //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Werlin 1646 S. 2292.]

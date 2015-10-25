@@ -1,0 +1,15 @@
+F[ERK2
+CUT[BAEURIN DU SOLLST HEIMEGEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0910D 08  F 6/8]
+MEL[  -5_-5-7-6-5  321#2_
+    2  321#2_2  321#2_
+    2  322765  54#4#65
+    5  651-725  65-7130
+    -5-5-71_1  2123_0
+    4321_1  -7-6-71_
+    5  651-725  65-7130
+    -5-5-71_1  2123_0
+    4321_1  -7-6-71_0 //] >>
+FCT[Ehestands - Lied]
+CMT[Modulierend]

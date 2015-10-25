@@ -1,0 +1,9 @@
+FINK
+CUT[SCHLAF SUESSER KNABE HOLD UND MILD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0186  16  F 6/8]
+MEL[32  1__1_1__32  1__1_1__
+    43  2__2_2__54  3__3_3__
+    56  5_4_3_3_4_5_  6__6_6__
+    6_  5_4_3_2_1_-7_  1__1_1__ //] >>
+FCT[Wiegen - Lied, Scherz]

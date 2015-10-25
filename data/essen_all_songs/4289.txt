@@ -1,0 +1,8 @@
+F[ERK3
+CUT[ACH LIEBER IGEL LASS MICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1869  08  G 4/4]
+MEL[1_  1_1_5_5_  1_1_1_1
+    1  2_3_4_4_  3_3_2_2_
+    1_2_3_3_  2__1_ //] >>
+FCT[Kinder - Lied, Abzaehl - Reim]

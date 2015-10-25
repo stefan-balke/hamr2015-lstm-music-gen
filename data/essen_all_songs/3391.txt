@@ -1,0 +1,11 @@
+F[ERK2
+CUT[LIEBES MAEDCHEN ICH STEH DRAUSSEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+KEY[E0830  08 Bb 4/4]
+MEL[  1_1_21-71  322_1-7-6-5
+    3_3_3_3_  2__0__
+    4_.21-7-6-5  3_.11-5-5_
+    -6_4_3_2_  1__0__
+    4_.21-7-6-5  3_.11-5-5_
+    -6_4_3_2_  1__0__ //] >>
+FCT[Kilt - Lied]

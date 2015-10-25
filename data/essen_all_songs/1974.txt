@@ -1,0 +1,11 @@
+FINK
+CUT[BLAU BLAU BLAU SIND ALLE MEINE FARBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0198  08  G 4/4]
+MEL[  -5_1_3_.3  21231_-50
+    -5_1_3_.3  21231_.0
+    -6_4_6_.6  3_3_5__
+    2_2_4_.2  -7_-7_1_.0
+    -6_4_6_.6  3_3_5__
+    2_2_4_.2  -7_-7_1_.0 //] >>
+FCT[???]

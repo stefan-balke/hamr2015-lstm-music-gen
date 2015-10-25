@@ -1,0 +1,26 @@
+BOEHME
+CUT[IHR STAEDTER SUCHT IHR FREUDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0182  08 Bb 6/8]
+MEL[-5  1_12_2  3_.2_
+    3  4_32_1  2_.0_
+    -5  1_12_2  3_.2_
+    5  5_3432  1_.0_
+    -5  2_23_3  2_.3_
+    4  5_3543  2_.0_
+    -5  1_12_2  3_.2_
+    5  5_3432  1_.0_ //] >>
+FCT[Natur - Lied, Land - Leben]
+BOEHME
+CUT[IHR STAEDTER SUCHT IHR FREUDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0182  08 Bb 6/8]
+MEL[-5  1_12_2  3_.2_
+    3  4_32_1  2_.0_
+    -5  1_12_2  3_.2_
+    5  5_3432  1_.0_
+    -5  2_23_3  2_.3_
+    4  5_3543  2_.0_
+    -5  1_12_2  3_.2_
+    5  5_3432  1_.0_ //] >>
+FCT[Natur - Lied, Land - Leben]

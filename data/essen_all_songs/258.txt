@@ -1,0 +1,18 @@
+BOEHME
+CUT[HIER SITZ ICH AUF ROSEN MIT VEILCHEN BEKRAENZT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Westerwald]
+KEY[B0307A 08  G 3/4]
+MEL[-5_  1_.234  5_.65_  544_5_  3__
+    -5_  1_.234  5_.65_  544_5_  3__
+    11  266_6_  6_.544  355_56  5_.4
+    3_  255_4_  3__ //] >>
+FCT[Geselligkeits -, Trink - Lied, Freude]
+BOEHME
+CUT[HIER SITZ ICH AUF ROSEN MIT VEILCHEN BEKRAENZT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Westerwald]
+KEY[B0307A 08  G 3/4]
+MEL[-5_  1_.234  5_.65_  544_5_  3__
+    -5_  1_.234  5_.65_  544_5_  3__
+    11  266_6_  6_.544  355_56  5_.4
+    3_  255_4_  3__ //] >>
+FCT[Geselligkeits -, Trink - Lied, Freude]

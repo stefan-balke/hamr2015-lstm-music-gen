@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Die Engel singen suessen sang,]
+CNR[das es im hohen Himmel klang.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Andernach]
+SRC[4, S. 227
+    1608 gedruckt]
+KEY[Q1080J 08  F 6/4]
+MEL[1_  5__6_5__2_  5_4_3_2__
+    1_  -7__1_2__3_  2343_21__ //] >>
+FCT[Marien - Lied, geistlich]
+CMT[Melodievergleich zu Q0080I, anderes Lied.]

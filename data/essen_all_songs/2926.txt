@@ -1,0 +1,11 @@
+F[ERK1
+CUT[UND ALS DER ERSTE SCHUSS]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E0359A 08  C 4/4]
+MEL[-5_  1_.-5-3_-1_  -5__0_
+    -71  2_1_-7-6-5-4  -3__0_
+    1_  2_222_12  3_2_1_
+    1_  2_222_12  3_2_1_
+    -5_  1_11321-7  -6__0_
+    -6_  -5_-5_-5_-6-7  1__0_ //] >>
+FCT[historisches Lied, Krieg gegen Napoleon (1815)]

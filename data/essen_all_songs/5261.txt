@@ -1,0 +1,9 @@
+F[ERK5
+CUT[Es waren drei Schelmen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0057  08  G 4/4]
+MEL[3_  -6_-712_1-7  1_2_3__  0_
+    123_21  -7_-6_0_
+    1_  2_235432  3_1_1_1_  2_3_1_ //] >>
+FCT[Lied]
+CMT[Aus dem Siebengebirge vor 1860]

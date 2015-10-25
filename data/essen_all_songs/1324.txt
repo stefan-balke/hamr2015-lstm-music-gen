@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es ritt ein Reiter wohlgemut,]
+CNR[er trug zwei Federn auf seinem Hut.]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[3, S. 99
+    ????]
+KEY[Q0057G 16  G 6/8]
+MEL[-5_3__2_  1__35+1__54  3__
+    5_2__3_  4_4_2_3__2_  1__
+    5_2__3_  4_4_2_3__2_  1__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Eigentlich Vierzeiler.]

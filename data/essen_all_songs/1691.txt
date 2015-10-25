@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Der ausgeweidete Jaeger
+    Et nopfaz, et nopfaz, mein Brueed'rle.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[4, S. 233
+    ????]
+KEY[Q1082A 04  G 3/4]
+MEL[1  424  321  -7_2  1_ //] >>
+FCT[Passions - Lied, geistlich]
+CMT[Melodievergleich zu Q0082, anderes Lied.]

@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Lied der Geisselbrueder"
+    ES GING SICH UNSRE FRAUE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1382  16  A 2/4]
+MEL[-5_  1_-7_1_2_  3b_1_2_0
+    -5  1_-7b_-7b-6b-5_  -5-4-3b_0_
+    -5_  1_-7_1_2_  3b_1_2_0
+    -5  1_-7b_-7b-6b-5_  -5-4-3b_0_
+    22  3b542-7b_.1  1-71_2_
+    -5_  1_2_3b_2_  1__2_
+    2_  3b542-7b_1_  1-71_2_
+    -5_  1-7123b213b  2__1_ //] >>
+FCT[Erzaehlung, Romanze, religioes]

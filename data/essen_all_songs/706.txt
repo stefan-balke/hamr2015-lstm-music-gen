@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[STERBEN IST EIN HARTE BUSS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0289  04  G 4/4]
+MEL[  543b2  1-5-5_
+    543b2  1-5-5_
+    3b3b55  3b3b5_
+    6b_5_  4_3b_  221_ //] >>
+FCT[Lyrisches Lied, Romanze, Tod]

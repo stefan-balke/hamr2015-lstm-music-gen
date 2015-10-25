@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ostergesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0554A 02  F 3/2]
+MEL[+1  +1_+1  7_7  +1_6  5_
+    5  67+1  7_6  5_4  3_
+    2  3_3  5_5  3_2  1_
+    1  3_4  32_  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Triller 1555]

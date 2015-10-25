@@ -1,0 +1,18 @@
+BOEHME
+CUT[KOMMT LASST UNS AUSSPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0265  08 Bb 6/8]
+MEL[-5  1_11-71  2_-7-5_
+    -5  1_1212  3_.0_
+    -5  3_3323  4_.3_
+    3  234-5-6-7  1_.0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Liebe]
+BOEHME
+CUT[KOMMT LASST UNS AUSSPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0265  08 Bb 6/8]
+MEL[-5  1_11-71  2_-7-5_
+    -5  1_1212  3_.0_
+    -5  3_3323  4_.3_
+    3  234-5-6-7  1_.0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Liebe]

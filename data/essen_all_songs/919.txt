@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Enttaeuschung"
+    DER WALDBEERSTRAUCH DER WAECHST WOHL AUS DER ERDEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1184  16 Bb 2/4]
+MEL[1_  2_-7_1_1_  32-7_1_
+    1_  2_3_4_5_  4_3_2_
+    2_  2_.34_2_  3_4_5__
+    1_3_2__  1_-7_-6_
+    -5_  1_2_3_.1  2__1_ //] >>
+FCT[Liebes - Lied]

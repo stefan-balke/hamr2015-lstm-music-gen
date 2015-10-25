@@ -1,0 +1,9 @@
+BOEHME
+CUT[HABT IHR ES NOCH NIE ERFAHREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0753  04 Eb 4/4]
+MEL[  -3-4-51  -7-6-5-3  1-6-5-3
+    -2-4-3-6  -5_-4#_  -5_.0
+    -712-7  1-5-4-2
+    -3-4-51  1_-7_  1_.0 //] >>
+FCT[religioes]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Trinklied"
+    HEREIN ZUM WIRTSHAUS EIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1330  08 Eb 4/4]
+MEL[5_  5_.43_.4  5__
+    6__  655_544_  3_0__
+    5_  544_2_.2  32345_
+    +1_  544_2_.2  32345_
+    +1_  6_.7+1_6_  5_.43_
+    35  544_4345  3__0_ //] >>
+FCT[Zech -, Schalks - Lied]

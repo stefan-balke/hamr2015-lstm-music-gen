@@ -1,0 +1,12 @@
+DVA
+CUT[Schneider - Verschwoerung
+    Es haben sich sieben und siebzig Schneider verschworen,]
+CNR[nach Frankfurt wollen sie reisen,]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0063  16  A 3/4]
+MEL[-4__  -4__1__1__  1_111__2__  1__-7b__-7b__  -7b__-7b__
+    -7b__  -7b___3b__  3b__3b__3b__  3b___.  3b___
+    3b_.3b  2__.2_2__  1__1__1__  1___ //] >>
+FCT[Spott - Lied]
+CMT[rezitativisch, Vortragsbezeichnung: lustig, schalkhaft
+    Verzierung; Inzipt = Variante zum Lied]

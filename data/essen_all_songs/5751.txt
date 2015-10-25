@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Von einem stolzen Dirnelein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0201A 02  F 3/2 4/2]
+MEL[111  5_3  4_2  3_.
+    111  5_3  4_2  3_
+    1  1111  1_2
+    3  4_2  1_3  4_2  1_
+    1  3344  5_43  2_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[J Werlin Hs. 1646 S. 234.]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[NICHT BLOS FUER DIESE UNTERWELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0296  08  G 4/4]
+MEL[5_  3_.45_5_  2_.14_
+    4_  3_5_6543  3__2_0
+    -5  4_4_3_3_  67+165_.
+    4  3_421_-7_  1__0_ //] >>
+FCT[Stimmungs - Lied, Freude, Freundschaft]
+BOEHME
+CUT[NICHT BLOS FUER DIESE UNTERWELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0296  08  G 4/4]
+MEL[5_  3_.45_5_  2_.14_
+    4_  3_5_6543  3__2_0
+    -5  4_4_3_3_  67+165_.
+    4  3_421_-7_  1__0_ //] >>
+FCT[Stimmungs - Lied, Freude, Freundschaft]

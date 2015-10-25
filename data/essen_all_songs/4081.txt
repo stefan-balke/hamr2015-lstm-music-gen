@@ -1,0 +1,10 @@
+F[ERK3
+CUT[WIE KOENNTE DENN HEUTE DIE WELT NOCH BESTEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetzlar]
+KEY[E1528  16  F 6/8]
+MEL[-5_  1_.-71_3_.21_  5_.65_3_.2
+    1_  2__6_5__-7_  1__+1_5__
+    3_  2_.26_5__-7_  1__.^__0_
+    6__.+1__.  5__.+1__
+    3_  2_.26_5__-7_  1___0_ //] >>
+FCT[Staende -, Bergmanns - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Letzter Versuch]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0232A 04  F 4/2]
+MEL[5__5_5_  5_5_4_5_  3__1__
+    3_.45_6_  ^_5__4_  3___
+    5__5_5_  5_5_4_5_  3__1__
+    3_456_5_  5_432_2_  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[J. Ott 1544 No. 7, Forster III. 1549 No. 60.]

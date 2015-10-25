@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Haehnchen und Huehnchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0505  08  C 4/4]
+MEL[    -6_-6_1_1_  -6_-6_-5_
+    -5_  1_1_2_2_  3__0__
+    3_.33_3_  5__3_
+    3_  2_1_1_-7_  1__0__ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[M. Franck, Fasc. Quodl. 1611 No. 6.]

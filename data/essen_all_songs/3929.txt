@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES IST NICHTS SCHOENRES AUF DER WELT]
+REG[Europa, Mitteleuropa, Deutschland, Goettingen]
+KEY[E1345  16  C 2/4]
+MEL[-5_  1_.-5-3_-5_  1_1_1_
+    3_  2_.1-7_-6_  -5__0_
+    -5_  2_2_2_12  3_3_3_
+    23  4_2_1_-7_  1__0_
+    -5_  2_2_2_12  3_3_3_
+    23  4_2_1_-7_  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

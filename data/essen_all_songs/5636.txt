@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Schoen Elselein oder das Schwabentoechterlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0051  04  D 4/2]
+MEL[5_  6b_6b_7b_7b_  +1_+1_5_
+    5_  +1_+1_+1_5_  +1__7b_
+    5_  6b_6b_5_5_  4_4_1_
+    1_  3b_.45_6b_  7b_.6b547b_  ^_6b54__  3b___
+    5_.6b7b_7b_  4_3b_1_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Fuenfte Zeile: Refrain. Melodie in: Reutterliedlin 1535 No. 2.]

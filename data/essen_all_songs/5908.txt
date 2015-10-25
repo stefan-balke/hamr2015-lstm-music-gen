@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Meererin (Die schoene Kate)
+    Vrie ischt auf dai scheane Kate,]
+CNR[vrie ischt auf dai scheane Kate.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Lichtenbach]
+SRC[1, S. 39
+    1895 gedruckt in Graz]
+KEY[Q0004B 16  G 3/4 2/4]
+MEL[1_3_  5_4#_5__2_4_  3__2__
+    1_2_  3_1_3_5_  5_421_3_  2__1__ //] >>
+FCT[Ballade, Braut - Werbung, Entfuehrung]
+CMT[Anhaengsel am Ende der zweiten Zeile (Text: Luess she sheinen!)]

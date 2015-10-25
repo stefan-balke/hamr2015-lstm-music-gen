@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Gebeth thut noth"
+    BET, KINDCHEN, BET]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1366  08 Eb 2/4]
+MEL[3_22  1_0_
+    3423  1_0_
+    5555  666_
+    4444  555_
+    3_22  1_0_ //] >>
+FCT[Kinder - Lied]

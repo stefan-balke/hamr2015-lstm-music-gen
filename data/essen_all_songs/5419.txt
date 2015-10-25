@@ -1,0 +1,9 @@
+KINDER
+CUT[S IST EIN MANN IN BRUNN GEFALLN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K0338  08  C 2/4]
+MEL[  1234  555_
+    1234  555_
+    1234  555_
+    4431  2_10 //] >>
+FCT[Kinder -, Schaukel -, Kniereiter -, Spiel - Lied]

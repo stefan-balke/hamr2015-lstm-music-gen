@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES GIENG EIN KNAB SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0131A 08 Bb 4/4]
+MEL[-5_  1_-7-6-5_1_  2__1_
+    1_  3_.21_3_  2__0_
+    12  3_3_3_43  2_.12_
+    32  1_1_21-7-6  -5__
+    1__  -3_-3_-5_-5_  1__
+    2_.4  3_1_21-7_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Vergewaltigung
+    Ballade ?]

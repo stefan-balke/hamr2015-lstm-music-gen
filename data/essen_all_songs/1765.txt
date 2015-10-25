@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wollt ein Mueller frueh aufstehn,]
+CNR[wollt in den gruenen Wald reingehn,]
+REG[Osteuropa, Polen, Galizien]
+SRC[4, S. 345
+    ????]
+KEY[Q0086V 08  G 6/8]
+MEL[-7b  3b23b-7b12  3b23b-7b_
+    4  543b2_-5  3b_21_
+    1  -7b121_-5  3b_21_
+    1  -7b121_-5  3b_21_ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[DAS FEUERROHR AUS ERZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1330  08  C 2/4]
+MEL[-5  1_-7-6  -5_.-5  -6-5-6-7  1_-5
+    -5  -6_-5_  -4_-3_  -2_-5_  -3_0
+    -5  1_-7-6  -5_.-5  -6-5-6-7  1_-5
+    -5  -6_-5_  -4_-3_  -2_-5_  -3_0
+    -5  -3-5-5-5  -6-5-5
+    -5  -3-5-5-5  -6-5-5
+    -5  1_2_  3_.1  2_-7_  1_0 //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

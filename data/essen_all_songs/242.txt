@@ -1,0 +1,18 @@
+BOEHME
+CUT[WER WOLLTE SICH MIT GRILLEN PLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Pommern; Brandenburg; Sachsen]
+KEY[B0290A 16  F 4/4]
+MEL[-5__  1__.3_2_1_2_3_  1__5_.43__0_
+    1_  2__.3_4_3_4_5_  4__3__0__
+    1_3_  5__.3_5_3_5_+1_  7_6_5__0__
+    3__  2__.3_4_6_5_-7_  2__1__0__ //] >>
+FCT[Stimmungs - Lied, Freude]
+BOEHME
+CUT[WER WOLLTE SICH MIT GRILLEN PLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Pommern; Brandenburg; Sachsen]
+KEY[B0290A 16  F 4/4]
+MEL[-5__  1__.3_2_1_2_3_  1__5_.43__0_
+    1_  2__.3_4_3_4_5_  4__3__0__
+    1_3_  5__.3_5_3_5_+1_  7_6_5__0__
+    3__  2__.3_4_6_5_-7_  2__1__0__ //] >>
+FCT[Stimmungs - Lied, Freude]

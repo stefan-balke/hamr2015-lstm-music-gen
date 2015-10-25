@@ -1,0 +1,10 @@
+BOEHME
+CUT[ES GEHT BEI GEDAEMPFTER TROMMEL KLANG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0586  16 Eb 4/4]
+MEL[1_  1__1_.11__3__  2__2_.32__0_
+    2_  2__2_.22__4_.4  3__3_.43__0_
+    1_  6__6_.6+1__7_6_  5_4_3_.45__0_
+    5_  5__4_3_6_5_4_3_  2__3_4_3__0_
+    5_  +1__5_.+1+3__+2_.+1  7__+1_.+2+1__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Klage, Tod]

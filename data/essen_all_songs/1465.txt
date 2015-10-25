@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Winterrosen
+    Es wollt' ein Maedchen Wasser hol'n]
+CNR[an einem kuehlen Brunnen,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+SRC[7, S. 61
+    ????]
+KEY[Q0145H 08  G 3/4]
+MEL[-5  135_31  -722_.
+    -5  135_31  3_2_0
+    5  57+2754  35+1_.
+    3  246_52  4_3_0 //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Pause am Ende der 2. Zeile ergaenzt.]

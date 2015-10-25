@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Martinslied des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0349  04  E 4/4]
+MEL[1_  2b12b2b  -7b_12b  1_-7b_  2b2b44  3b3b2b2b  1_
+    +1_  6b56b7b  +1_7b+1  7b6b56b  7b7b7b7b  6b_4_  6b_4_  2b_
+    43b  2b1-7b_  2b2b2b3b  443b2b  1_-7b_
+    2b2b2b2b  2b2b1_  46b4_  3b_2b_  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Lambacher Hs. (15. Jh.) fol 169.]

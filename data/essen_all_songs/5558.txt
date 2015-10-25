@@ -1,0 +1,12 @@
+KINDER
+CUT[IHR TAEUBCHEN KOMMT ALLE ZU MIR]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2401  08  E 6/8]
+MEL[-6b  3b3b3b444  3b3b21_
+    4  3b_21_4  3b_21_
+    4  3b_21_4  3b_.1_
+    4  3b_21_4  3b_.1_
+    4  3b_21_4  3b_21_
+    4  3b_21_4  3b_21_
+    -6b  3b3b3b444  3b3b21_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

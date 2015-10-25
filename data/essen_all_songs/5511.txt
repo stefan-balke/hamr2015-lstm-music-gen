@@ -1,0 +1,13 @@
+KINDER
+CUT[AUF EINER HOHEN MAUER]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[K2224  16  D 2/4]
+MEL[5_  5_5_6_6_  5__3_
+    3_  4_4_2_4_  3__0_
+    5_  5_5_6_6_  5__3_
+    3_  4_4_2_4_  1__0_
+    3_  5_5_6_6_  5__0_
+    5_  5_5_6_6_  5__0_
+    33  4_4_2_22  3_3_1_
+    11  2_2_-7_-7_  1__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

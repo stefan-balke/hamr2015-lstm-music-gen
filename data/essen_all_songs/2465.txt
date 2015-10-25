@@ -1,0 +1,7 @@
+VARIANT
+CUT[Es geht nix ueber die Gemuetlichkeit, ja, ja, ja, ja]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Kuemmersreuth]
+KEY[V0002F 16  G 2/4]
+MEL[-5_  1_1_1112  1_-7_-7_2_  -6__0_-7_  -5__0_
+    -5_  111_1112  1-7-7_-7_2_  -6__0_-7_  -5__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]

@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Der junge Held
+    De bloemties die in t' Kooren staen]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 152
+    1700 gedruckt (vor)]
+KEY[Q2060C 08  D 6/4]
+MEL[1_  1__2_3b__4_  5__5_1__
+    5_  5__4_5__6_  7b_.67b_4__
+    4_  7b_.67b_5_.67b_  +1__.+2_.+1
+    7b_  6_.7b5_6_.54#_  5__.^__
+    7b_  7b_.67b_5_.67b_  +1__.5__
+    +1_  7b__5_6b__4_  5__.3b__
+    3b_  4__5_6b_5_4_  5__.4__
+    3b_  2__1_2__-7_  1__.^__ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied]
+CMT[Niederlaendische Fassung der Ballade. In der Edition untextiert.
+    Wiederholungen nicht gespielt (fehlender Text) .]

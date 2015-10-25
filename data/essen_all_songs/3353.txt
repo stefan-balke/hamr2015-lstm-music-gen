@@ -1,0 +1,13 @@
+F[ERK2
+CUT[MUSS I DENN MUSS I DENN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Remstal]
+KEY[E0785  16  F 2/4]
+MEL[12  3_354_46  5_543__  5_543_
+    35  4_4_2_5_  3__0_
+    12  3_354_46  5_543__  5_543_
+    35  4_4_2_5_  3__0_
+    13  2_.34_2_  3_.45_
+    55  6_6_+1_76  5__0_
+    13  5_565_5+1  5_543__  5_543_
+    35  4_4_2_5_  3__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

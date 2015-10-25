@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HERMANN FLA LAERM AN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Dortmund]
+KEY[E1279  04  C 4/4]
+MEL[  5_35  6_5
+    5  5_35  6_5
+    5  6_55  5_3
+    5  6_55  5_3
+    5  6_55  5_3_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

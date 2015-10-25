@@ -1,0 +1,9 @@
+KINDER
+CUT[JAKOB HAT KEIN BROT IM HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K0600  08  G 2/4]
+MEL[  -5111  -721_
+    -5-724  351_
+    334_  223_
+    1122  -7-71_ //] >>
+FCT[Kinder -, Spiel - Lied]

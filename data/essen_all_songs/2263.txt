@@ -1,0 +1,11 @@
+FINK
+CUT[WIR SIND DIE FUESILIERE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0668  08  A 4/4]
+MEL[-5_  1_.-5-5_1_  3__1_
+    3_  3_.11_3_  5__3_
+    3_  2_5_4#_6_  5__0_
+    -5_  4_.34_.3  4__2_
+    -5_  5_.4#5_.4#  5__3_
+    1_  +1__6__  5__.3_  2_.1#2_3_  1_0__ //] >>
+FCT[Soldaten, Kriegs - Lied, national]

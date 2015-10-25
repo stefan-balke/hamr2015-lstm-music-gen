@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ICH HAB ZU DIR GESAGT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster; Hildesheim]
+KEY[E0643A 08  G 2/4]
+MEL[-5  1234  320
+    3  421-7  1_0
+    -5  1234  320
+    3  421-7  1_0
+    3  5435  540
+    3  4564  430
+    -5  1234  320
+    3  421-7  1_0 //] >>
+FCT[Liebes - Lied]

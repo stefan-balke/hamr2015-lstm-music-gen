@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die Raubritter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0380  04  G 4/2 6/2]
+MEL[1__  3b_4_5_6_  7b__5__
+    4__  5__3b_4_2__  1__
+    1__  3b_4_5_6_  7b__5__
+    4__  5__3b_4_2__  1__0_
+    3b_  2_.3b4_5__4_  3b__2__0_
+    3b_  2__3b_4__3b2  1__-7b__
+    1__  2__3b_2__1-7b  -6__-5__
+    5__  5__3b_4_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Hs. auf einem Vorsatzblatt aus dem Anfang des 16. Jh.]

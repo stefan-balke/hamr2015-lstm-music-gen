@@ -1,0 +1,18 @@
+BOEHME
+CUT[O WIE IST ES KALT GEWORDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0222  08 Eb 3/4]
+MEL[12  3_3_34  3_2_
+    23  4_.154  3__
+    54  2_2_34  6_5_
+    +16  5_3_54  3__ //] >>
+FCT[Jahreszeiten - Lied, Winter]
+BOEHME
+CUT[O WIE IST ES KALT GEWORDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0222  08 Eb 3/4]
+MEL[12  3_3_34  3_2_
+    23  4_.154  3__
+    54  2_2_34  6_5_
+    +16  5_3_54  3__ //] >>
+FCT[Jahreszeiten - Lied, Winter]

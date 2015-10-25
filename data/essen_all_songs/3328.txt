@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ADE JETZT MUSS ICH SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0767  08  F 4/4]
+MEL[-5_  1_1_5_5_  3_5_1_
+    3_  2_4_-7_2_  1__0_
+    -5_  1_1_5_5_  3_5_1_
+    3_  2_4_-7_2_  1__0__
+    3__1_3_  5_432__
+    3__1_3_  5_432_
+    -5_  1_1_5_5_  3_5_1_
+    3_  2_4_-7_2_  1__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

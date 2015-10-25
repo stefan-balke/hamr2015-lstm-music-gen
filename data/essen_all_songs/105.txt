@@ -1,0 +1,26 @@
+BOEHME
+CUT[LENORE FUHR UMS MORGENROTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0135  16  A 2/4]
+MEL[-5_  1_2_3_4_  5_4_4_
+    5_  5_432_1_  1_-7_1_
+    -5_  1_2_3_4_  5_4_4_
+    5_  5_432_1_  1_-7_1_
+    2_  5_2_2_3_  4_2_3_
+    1_  2_-7_1_3_  4_2_3_
+    5_  5_.44_4_  4_3_
+    3__  4_3_2_1_  2__1_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[LENORE FUHR UMS MORGENROTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0135  16  A 2/4]
+MEL[-5_  1_2_3_4_  5_4_4_
+    5_  5_432_1_  1_-7_1_
+    -5_  1_2_3_4_  5_4_4_
+    5_  5_432_1_  1_-7_1_
+    2_  5_2_2_3_  4_2_3_
+    1_  2_-7_1_3_  4_2_3_
+    5_  5_.44_4_  4_3_
+    3__  4_3_2_1_  2__1_ //] >>
+FCT[Ballade, Romanze]

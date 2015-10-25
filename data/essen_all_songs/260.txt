@@ -1,0 +1,26 @@
+BOEHME
+CUT[WIEDERUM HAT STILLE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0309  16 Eb 2/4]
+MEL[  3_.32_2_  1_1_4__
+    3_.55464  3__2_0_
+    3_.32_2_  1_1_4__
+    3_.55464  3__2_0_
+    5_.22_3_  45643_2_
+    3_.33_4#_  56765_0_
+    1_1_4_4_  3_.36__
+    5_+157654  3_2_1_0_ //] >>
+FCT[Geselligkeits - Lied, Freude, Freundschaft, Freimaurer - Gesang]
+BOEHME
+CUT[WIEDERUM HAT STILLE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0309  16 Eb 2/4]
+MEL[  3_.32_2_  1_1_4__
+    3_.55464  3__2_0_
+    3_.32_2_  1_1_4__
+    3_.55464  3__2_0_
+    5_.22_3_  45643_2_
+    3_.33_4#_  56765_0_
+    1_1_4_4_  3_.36__
+    5_+157654  3_2_1_0_ //] >>
+FCT[Geselligkeits - Lied, Freude, Freundschaft, Freimaurer - Gesang]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SENTER KLOS ES EN BRAVE MANN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+KEY[E1271  08  G 2/4]
+MEL[  1122  3210
+    1122  321
+    -5  3321  3_3
+    3  2223  1_10 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sankt Nikolaus]

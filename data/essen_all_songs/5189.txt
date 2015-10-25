@@ -1,0 +1,13 @@
+BOEHME
+CUT[BRUEDER LASST UNS GEHN ZUSAMMEN]
+REG[Europa, Mitteleuropa, Deutschland; Polen]
+KEY[B0725  16  C 3/4]
+MEL[  -5_.-53__.2_  1_-3_-6__-5__
+    -5_.-5-6__-7__  1_2_3__1__
+    -5_.-53__.2_  1_-3_-6__-5__
+    -5_.-5-6__-7__  1_2_3__1__
+    6_.52___  4_.31___
+    3_.2-6__-7__  1_.23__4__
+    6_.52___  4_.31___
+    3_.2-6__-7__  1_.31___ //] >>
+FCT[Freiheits - Lied, politisch]

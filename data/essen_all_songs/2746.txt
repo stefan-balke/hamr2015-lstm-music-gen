@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WAS WOLLN WIR ABER HEBEN AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0137  04  F 6/4]
+MEL[1  1_23_3  4_23_
+    3  4_56_6  5_.4_
+    5  5555_3  4653_
+    3  2_3434  2_.1_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

@@ -1,0 +1,11 @@
+F[ERK2
+CUT[ICH GING IM NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[E0650  08  A 4/4]
+MEL[-5-5-5  1_.11_-71  322_0_
+    -71  2_.22212  3_543_0
+    5  2_.5221-6  -5__0_
+    -52  2_.21-7-6-5  311_0_
+    13  5_.36543  422_0_
+    6_  5-7123_2_  1__0 //] >>
+FCT[Liebes - Lied]

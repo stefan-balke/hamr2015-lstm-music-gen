@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die Frau von Luxemburg]
+REG[Europa, Mitteleuropa, Deutschland, Niederlande]
+KEY[A0035  08  G 4/4]
+MEL[1_1_1_  2__2_3b_  1__-7b__  0_
+    -7b_3b_.4  5_.45_43b  2_
+    5_5_5_  4_5__42  -7b__.
+    1_  2_3b_4__  4_3b_2_.1  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie: Souterliedekens 1540 ad Ps. 137 (vgl. A0034), vereinfacht.]

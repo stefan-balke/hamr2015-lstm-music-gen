@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    Ein Juengling wollt' zum Kampfe gehn,]
+CNR[sein' Braut fing an zu weinen,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Wuppertal, Beyenburg]
+SRC[3, S. 70
+    ????]
+KEY[Q0056C 08 Eb 3/4]
+MEL[1  135_43  522_0
+    2  265_2_  4_3_0
+    5  57+2_.4  35+1_.
+    +1  765_2_  4_3_0 //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

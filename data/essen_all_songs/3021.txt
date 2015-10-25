@@ -1,0 +1,9 @@
+F[ERK1
+CUT[GEH MEIN HANSEI]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Bayern]
+KEY[E0519  08  D 4/4]
+MEL[  5_.36_.5  5_.4-7_-7_
+    5_.46_.5  5_.31_-5_
+    1234567+1  +2_.+16_
+    22  7_.65465  1_0__. //] >>
+FCT[Liebes - Lied]

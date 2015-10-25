@@ -1,0 +1,9 @@
+KINDER
+CUT[SCHLAF KINDLEIN SCHLAF]
+REG[Europa, Mitteleuropa, Deutschland, Taunus, Niederreifenberg]
+KEY[K0008  16  F 2/4]
+MEL[  5__4_2_  1__0_
+    13  5_5_4_2_  1__0_
+    32  1_1_5_5_  6_6_5__
+    4_2_3_1_  2_2_1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

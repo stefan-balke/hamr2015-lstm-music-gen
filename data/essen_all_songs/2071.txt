@@ -1,0 +1,9 @@
+FINK
+CUT[BEI DER STILLEN MONDESHELLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0325  08  F 4/4]
+MEL[  1_1_5_5_  43453_1_
+    24325_1_  4_3_2__
+    1_1_5_5_  6+1765_3_
+    43453_1_  21231_0_ //] >>
+FCT[Jugend - Lied, Natur, Wander - Lied]

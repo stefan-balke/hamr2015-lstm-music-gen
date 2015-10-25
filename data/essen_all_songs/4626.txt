@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Jesus im Garten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0542B 02  F 4/2]
+MEL[5  5654  321_  0
+    134  5234  5_0
+    3  4565  434_  0
+    323  4554#  5_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Speiersches Gsgb. 1617 fol 33b.]

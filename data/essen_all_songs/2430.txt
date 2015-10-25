@@ -1,0 +1,14 @@
+FINK
+CUT[SELIG DIE TODTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1060  04  C 4/4]
+MEL[  -5_-3-3  -5-4-3
+    -5  -5131  1-7-7
+    -7  2_-4-4  -6b_-5
+    -5  1_-4#-4#  -5_-5
+    -5  2_-7-7  3_2
+    2  1_-7b_  -6_0
+    2  2_.2  1_-6
+    -6  -5_-6-7  1_.
+    1  1_11  31-72  1_.0 //] >>
+FCT[Trauer -, Bregraebnis -, Trost - Lied]

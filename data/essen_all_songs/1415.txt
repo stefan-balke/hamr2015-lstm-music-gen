@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es kam herein ohn allen spot, ohn allen spot,]
+CNR[ein guten Abend geb' euch Gott,]
+REG[Osteuropa, Polen, Bielitz]
+SRC[3, S. 258
+    ????]
+KEY[Q1068D 08  G 6/8]
+MEL[-5  1_23b_5  4_3b2_5  4_3b2_
+    2  3b_45_4  3b_21_
+    2  3b_45_4  3b_21_ //] >>
+FCT[Dreikoenigs - Lied, Brauchtum]
+CMT[Melodievergleich zu Q0068A, anderes Lied. Anhaengsel in der ersten
+    Zeile.]

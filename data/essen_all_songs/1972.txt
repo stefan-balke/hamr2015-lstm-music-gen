@@ -1,0 +1,9 @@
+FINK
+CUT[IN GLUCKGLUCK LEBE ICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0196  08  F 3/4]
+MEL[  -5_-3_1_  -6-6-6
+    -61-6  -5_-3
+    -5-2-3  -4-4-4
+    -4-2-4  -4_-3_0_ //] >>
+FCT[Scherz - Lied]

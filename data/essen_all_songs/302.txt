@@ -1,0 +1,26 @@
+BOEHME
+CUT[ES WAR EIN ALTER KOENIG EIN KOENIG AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0353  08  F 4/4]
+MEL[-5_  1_1_1_3_  5__1_
+    1_  4_4_6_6_  5__0_
+    3_  4_4_4_2_  3__3_
+    2_  1_1_-7_-7_  -6__0_
+    1_  6_6_6_6_  5__3_
+    1_  6_543_2#_  3__0_
+    3_  3_3_3_3_  4__3_
+    3b_  2_2_2_-5_  1__0_ //] >>
+FCT[Trink - Lied, Sage]
+BOEHME
+CUT[ES WAR EIN ALTER KOENIG EIN KOENIG AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0353  08  F 4/4]
+MEL[-5_  1_1_1_3_  5__1_
+    1_  4_4_6_6_  5__0_
+    3_  4_4_4_2_  3__3_
+    2_  1_1_-7_-7_  -6__0_
+    1_  6_6_6_6_  5__3_
+    1_  6_543_2#_  3__0_
+    3_  3_3_3_3_  4__3_
+    3b_  2_2_2_-5_  1__0_ //] >>
+FCT[Trink - Lied, Sage]

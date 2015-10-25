@@ -1,0 +1,12 @@
+KINDER
+CUT[O DU KLEINER KLADRIAN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[K0641  08  G 2/4]
+MEL[  11-7-5  11-5
+    -5  11-72  1_-50
+    11-7-5  222_
+    11-72  1_-5
+    -5  11-5-5  11-5_
+    11-7-5  222
+    2  11-72  1_-50 //] >>
+FCT[Kinder -, Tier - Lied]

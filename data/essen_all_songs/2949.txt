@@ -1,0 +1,10 @@
+F[ERK1
+CUT[MIT LUST THAET ICH AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0418  08  G 4/4]
+MEL[1_  1_1_1_1_  2__2__
+    5__5_2_  5_4__3b_  2__0_
+    5_  5_5_5_5_  4_2__
+    3b_  1__2_4_  ^3b212__  1__
+    5__  7b_5_.3b4_  2_1__ //] >>
+FCT[Liebes - Lied]

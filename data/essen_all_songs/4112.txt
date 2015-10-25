@@ -1,0 +1,13 @@
+F[ERK3
+CUT[HOERT IHR HERRN UND LASST EUCH SAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland, Havel, Zehdenick]
+KEY[E1580  08 Eb 4/4]
+MEL[  1_135_5_  54243_1_
+    +1_+1_+2_.7  +2+1765_2_
+    5_.3+1_.5  54342__
+    +2_7_+1_3_  4_5_1__
+    1_135_5_  54243_1_
+    +1_+1_+2_.7  +2+1765_2_
+    5_.3+1_.5  54342__
+    +2_7_+1_3_  4_5_1__ //] >>
+FCT[Staende - Lied, Nachtwaechter]

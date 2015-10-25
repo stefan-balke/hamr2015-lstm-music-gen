@@ -1,0 +1,12 @@
+F[ERK1
+CUT[AUF ERDEN ALLEZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0114A 08  G 4/4]
+MEL[-5_  1__3_1_  2__4_
+    2_  3_3_5_3_  2__0_
+    12  3_3_3_23  4_.54_
+    43  2_2_2_34  5_.65_
+    1_  1__-7_2_  2__1_
+    3_  3_3_4_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied
+    Ballade ?]

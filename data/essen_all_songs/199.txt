@@ -1,0 +1,22 @@
+BOEHME
+CUT[DER MOND IST AUFGEGANGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0237  04  G 4/4]
+MEL[1  2143  2_1
+    3  3365  4_3
+    3  3343  2_0
+    1  2143  2_1
+    3  3365  4_3
+    3  3343  221 //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[DER MOND IST AUFGEGANGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0237  04  G 4/4]
+MEL[1  2143  2_1
+    3  3365  4_3
+    3  3343  2_0
+    1  2143  2_1
+    3  3365  4_3
+    3  3343  221 //] >>
+FCT[Tageszeiten - Lied, Abend]

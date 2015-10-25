@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der junge Held
+    Des Nachts beim hellen Mondenschein]
+CNR[da geseh ich schwarzbraunes Maedelein]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 152
+    1933 gedruckt in Heidelberg (nach)]
+KEY[Q0060G 08  D 4/4]
+MEL[1_  5_5_3b_6b_  5_4_3b_
+    3b3b  6b_5_4_3b3b  3b21_-7b_
+    -7b_  3b_3b_43b4_  5__0_
+    6b_  5_1_3b_2_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied]

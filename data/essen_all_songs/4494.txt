@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Das Meydenburger Lied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0405  04  F 4/2]
+MEL[1_  1_2_3_4_  5__5_
+    5_  4_3_4_54  3__0_
+    3_  3_5_4_3_  2_.1-7_
+    1_  3_4_3_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Coelner Gsgb. 1610.]

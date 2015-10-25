@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WIE STEHT IHR ALLE HIE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0934A 04  G 4/4]
+MEL[1_  3234  5_.6  5_3_  1_
+    1_  3234  5_.6  5_3_  1_
+    5_  3_2_  1_-5_  2343  1_
+    5_  3_2_  1_-5_  2343  1_ //] >>
+FCT[Tanz - Lied, Reigen, geistlich]

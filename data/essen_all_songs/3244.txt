@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WILLST DU MICH DENN NICHT MEHR LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dill - Kreis]
+KEY[E0699B 08  F 3/4]
+MEL[-5-7  2_4_32  135_
+    31  2_4_42  6_5_
+    55  5+1+1_54  355_
+    53  2_6542  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

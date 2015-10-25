@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WENN ICH GANZ ERMUEDET BIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Birklar]
+KEY[E1463  16  G 6/8]
+MEL[  -5__-5_-5__-5_  -5__3_3__0_
+    2__3_4__-7_  2__3_1__0_
+    -5__-7_2__5_  3__3_2__0_
+    -5__-7_2__5_  3__3_2__0_
+    -5__4_4__5_  3__6_5__0_
+    3__6_5__3_  2__231__0_ //] >>
+FCT[Staende -, Jaeger - Lied]

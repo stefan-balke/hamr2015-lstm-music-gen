@@ -1,0 +1,14 @@
+F[ERK1
+CUT[EI DU FEIN LIEBER SCHIFFSMANN MEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0136B 08  E 2/4]
+MEL[  5_54  35+13  5_4_  3_10
+    5_54  35+13  5_4_  3_10
+    1_35  1_35  64+16  5_0_
+    7_7_  +1_34  5__  3_0_
+    1_35  1_35  4_6+1  5__
+    2_46  1_35  5_+3+2  +1_0_
+    1_35  1_35  4_6+1  5__
+    2_46  1_35  5_+3+2  +1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

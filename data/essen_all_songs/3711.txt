@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das boese Stiefmuetterlein
+    Es war einmal ein Kindlein klein,]
+CNR[es war einmal ein Kindlein klein,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Grossenhain, Basslitz]
+SRC[5, S. 311
+    1929 aufgezeichnet]
+KEY[Q0119  08  G 3/4]
+MEL[-5  1-51_3_  212_0
+    -5  2-52_5_  4#65_0
+    5  22244_  321_
+    5_  22244_  321_0
+    5  22244_  321_
+    5_  22244_  321_0 //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

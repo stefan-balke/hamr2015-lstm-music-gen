@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der junge Held
+    Het was een jonger Helt,]
+CNR[sijn hert was hem gestelt]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 150
+    1566 gedruckt]
+KEY[Q2060B 04  A 4/4]
+MEL[1  1-7b12  3b_.
+    3b  43b21  -7b_.
+    2  3b543b  2_1
+    -5  1-7b1-6b  -5_.
+    1  3b23b4  2_.
+    5  243b4  2_1 //] >>
+FCT[geistlich, Choral]
+CMT[Melodievergleich zu Q0060, Tonangabe ?? Vom Hg. mit dem Balladentext
+    unterlegt.]

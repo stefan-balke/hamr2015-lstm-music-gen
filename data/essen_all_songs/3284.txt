@@ -1,0 +1,13 @@
+F[ERK2
+CUT[IN STUECKE MOECHT ICH MICH ZERREISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Taunus]
+KEY[E0726  08  F 4/4]
+MEL[13  5_.65654  4_3_0_
+    1_  6_6_+1_76  6_5_0_
+    13  5_.65654  4_3_0_
+    1_  6_6_+1_76  6_5_0_
+    5_  +1_7_6_5_  6_.54_
+    3_  2_6_5_.4  4_3_0_
+    5_  +1_7_6_5_  6_.54_
+    3_  2_6_5_.4  4_3_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Zank]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[MEIN FEINES LIEB VERLIESS MIT MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0298  04  B 6/4]
+MEL[5  1_3b2_4  3b_21_
+    5  6b_54_5  4_3b2_
+    5  6b_54_5  4_3b2_
+    2  3b_21_2  3b_45_
+    5  7b_6b5_4  6b_54_.  3b_.^_
+    5  1_23b_4  5_.^_
+    5  1_23b_4  5_.^_
+    5  6b_42_4  5_3b2_.  1_.^_ //] >>
+FCT[Lyrisches Lied, Romanze, verlassene Liebe]

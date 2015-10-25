@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Ulrich"
+    ULRICH GING AUS SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1015  16  D 3/4]
+MEL[  1_3_5__6__  5_543_
+    2_1_3_  5__4_3_3__  2_2_2_
+    2_1_3_  5_4_3_3_2__  2_3_1__0__ //] >>
+FCT[Romanze, Ballade, Tod, Blaubart - Sage]

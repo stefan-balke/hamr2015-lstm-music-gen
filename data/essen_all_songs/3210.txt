@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ES DUNKELT IN DEM WALDE]
+REG[Europa, Mitteleuropa, Deutschland, Pommern]
+KEY[E0679C 08 Bb 6/8]
+MEL[-5  -5_11-7-6  -6_-5-5_
+    1  1-3-6-5-5-4  -3_.0_
+    -5  -5-3-5-5-3-5  1_23_
+    3  422-7-6-7  1_.0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

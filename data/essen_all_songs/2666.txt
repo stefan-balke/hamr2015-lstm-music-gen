@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ICH WOLLT EINMAL RECHT FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau; Fraustadt]
+KEY[E0096C 16  G 3/4]
+MEL[-5_1_32  1_-5_-3_3_4321  2__0_
+    -5_1_32  1_-5_-3_3_4321  2__0_
+    543_5_  5_434_
+    432_4_  4_323_
+    543_2_  1_.23_
+    543_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

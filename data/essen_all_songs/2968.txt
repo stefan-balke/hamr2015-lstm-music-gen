@@ -1,0 +1,9 @@
+F[ERK1
+CUT[MIR IST EIN ROTH GOLDFINGERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0434  08  F 3/4]
+MEL[1_  3__4_  5_+1_6_  3__4_  5__
+    5_  +1__7_  6_5_+2_  +1_756_  5__
+    5_  +1__5_  5_3_5_  4_312_  1__
+    3_  5__31  2_1_5_  4_312_  1__ //] >>
+FCT[Liebes - Lied]

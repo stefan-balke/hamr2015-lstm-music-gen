@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Koenig und Marquise
+    Hourah les fill' a quat' deniers,]
+CNR[Hourah les fill' a quat' deniers.]
+REG[Mitteleuropa, Frankreich]
+SRC[2, S. 30
+    1889 gedruckt]
+KEY[Q3035B 16  E 6/8]
+MEL[5_5_4_3b_  4__4_7b__7b_  5__
+    5_5_4_3b_  4__4_7b__7b_  5__
+    5_+1__+1_  7b__+1_5__4_  3b_0_
+    5_5_.43b_  4_.54_3b__2_  1__ //] >>
+FCT[Matrosen - Lied]
+CMT[Franzoesische Melodievariante von Q0035: anderes Lied.]

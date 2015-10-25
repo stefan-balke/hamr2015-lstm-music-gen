@@ -1,0 +1,20 @@
+BOEHME
+CUT[EINST HAT MIR MEIN LEIBARZT GEBOTEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Pfalz]
+KEY[B0349  16  C 6/8]
+MEL[-5_  1_.-1-1_-1_--7_-1_  -3_-2_0__.
+    -2_  2_.1-7_-6_-5_-4_  -3__0__.
+    -5_  1_.11_3_2_1_  1__-6_-6__
+    -6_  -5_.-5-5_-5_-6_-7_  1__.2_.1
+    -7-6  -5_.-5-5_-5_-4_-2_  -1__0__. //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[EINST HAT MIR MEIN LEIBARZT GEBOTEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Pfalz]
+KEY[B0349  16  C 6/8]
+MEL[-5_  1_.-1-1_-1_--7_-1_  -3_-2_0__.
+    -2_  2_.1-7_-6_-5_-4_  -3__0__.
+    -5_  1_.11_3_2_1_  1__-6_-6__
+    -6_  -5_.-5-5_-5_-6_-7_  1__.2_.1
+    -7-6  -5_.-5-5_-5_-4_-2_  -1__0__. //] >>
+FCT[Trink - Lied]

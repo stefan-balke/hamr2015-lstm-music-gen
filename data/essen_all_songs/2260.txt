@@ -1,0 +1,15 @@
+FINK
+CUT[ICH SCHIESS DEN HIRSCH IM WILDEN FORST]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen]
+KEY[F0665  16  F 2/4 6/8]
+MEL[3_  3_.-6-6_.-6  -6_.-6-6_.
+    -3  -6_.-71_.-7  -6__0_
+    3_  3_.-6-6_.-6  -6_.-6-6_.
+    -6  -5_.-53_.2  1__0_.
+    3  3_.-66_.4  3_.1-6_.
+    3  3_.-66_.4  3__0_
+    -5_  1__2_3__4_  6__5_3__
+    3_  3__2_4__3_  -6__.
+    -5_  1__2_3__4_  6__5_3__
+    3_  3__2_4__3_  1__.0__ //] >>
+FCT[Staende -, Jaeger - Lied]

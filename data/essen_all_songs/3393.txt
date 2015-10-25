@@ -1,0 +1,13 @@
+F[ERK2
+CUT[SIEH AN MEINES LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter- Lahn- u. Dillkreis]
+KEY[E0831A 08  G 3/4]
+MEL[  -5_1234  5_543_
+    5_6_5_  4_3_0_
+    -5_1234  5_543_
+    5_6_5_  4_3_0_
+    5_5_5_  6_.42_
+    234_4_  355_0_
+    5_5_5_  5_67+1_
+    6_5_3_  2_1_0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

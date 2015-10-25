@@ -1,0 +1,11 @@
+F[ERK1
+CUT[GESTERN ABEND IN DER STILLEN RUH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Hessen]
+KEY[E0522F 08  C 4/4]
+MEL[-5-5  1_-5_1_-5_  1_3_-5_
+    33  2_.-721-7-6  -5_-5_-5_
+    -5-5  -4_2_21-7-6  -5_3_3_
+    -5-5  -4_2_21-7-6  -5_3_3_0_
+    -5_-5_-6_-7_  1_3_-5_
+    33  2_.-721-7-6  -5_-5_-5_ //] >>
+FCT[Liebes - Lied]

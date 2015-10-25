@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war sich ein Pfalzgrafen an dem Rhein.]
+CNR[Schoene Waldvoegelein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[4, S. 104
+    1939 gedruckt in Kassel]
+KEY[Q0075H 08  F 4/4]
+MEL[-5_  113_2_11  -6_-6_1__
+    -7_-721-7-6_  -5__0_
+    -5_  1_1_2_5_  5_423_
+    1_  2_321_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Refrain in der zweiten und vierten Zeile. Eingeklammerte Note
+    weggelassen.]

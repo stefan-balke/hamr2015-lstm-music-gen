@@ -1,0 +1,13 @@
+BOEHME
+CUT[WIE SIE SO SANFT RUHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0776  16 Bb 3/4]
+MEL[  1__2__1__  1_-7_-7__0__
+    2__1__-7__  -7_.11__0__
+    5__4__3__  3__2__1__
+    2__4_.23_.1  3__2__0__
+    5__4__3__  3_4_4__0__
+    4__3__2__  2_3_3__0__
+    -6__-6__5__  5__4__3_
+    1_  -6_.21__-7__  -7_1_1__0__ //] >>
+FCT[Trost - Lied, Tod, Begraebnis - Gesang, religioes]

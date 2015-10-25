@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[AN SCHLOSSER HAT AN G'SELLEN G'HOT]
+REG[Europa, Mitteleuropa, Deutschland, Nuernberg]
+KEY[Z0176  08  G 2/4]
+MEL[-5  1234  655
+    5  4325  3_.
+    -5  1234  655
+    5  4325  3_.
+    1  2233  445
+    5  4321  -5_.
+    -5  1234  655
+    5  4325  1_. //] >>
+FCT[Schiffer -, Handwerker - Lied]

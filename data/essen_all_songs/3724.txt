@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DREI TAG GEH MER NET HAN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Ulm]
+KEY[E1001  16  F 3/8]
+MEL[  5_.43_  5_.43_  2_1_2_  1__
+    3_  2_2_2_  2_3_4_  3__4_  5__
+    3_  2_2_2_  2_3_4_  3__4_  5__.
+    5_.43_  5_.43_  2_1_2_  1__. //] >>
+FCT[Tanz - Lied]

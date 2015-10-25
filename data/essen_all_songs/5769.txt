@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Feinslieb von Flandern]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0217  08  G 4/4]
+MEL[5_  5_3_4_5_  6_.54_
+    6_  5_4_3_2_  1__0_
+    5_  5_3_4_5_  6_.54_
+    6_  5_4_3_2_  1__0_
+    3_  4_4_2_3_  43212_
+    2_  32345_3_  65432_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus Fragmenten hergestellt, die bei M. Franck, Fasc.
+    quodl. 1611 No. 4 vorkommen.]

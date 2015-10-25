@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Buchsbaum und Felbinger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0273B 04  G 6/2 4/2]
+MEL[1_1_1_  2__3__  4__4_4__
+    4_  4__4__  3_.23_2__1_  2___  0_
+    2_-7b_-7b_  -6__-6_-5_  -5-4-5-6-7b_-7b_  1___  0__
+    3__  4_.32_1_  2__1__  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzel Quodl.XI 1544]

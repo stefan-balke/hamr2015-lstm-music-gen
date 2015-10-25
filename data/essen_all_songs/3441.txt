@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ES WAR EIN KLEINER MANN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[E0895  08  F 3/4]
+MEL[  1_3_5_  4_4-7-7_
+    5__6_  5__.
+    +1+1+1+1+1_  7_765_
+    666+176  5_543_
+    4_2_5_  1__0_ //] >>
+FCT[Ehestands - Lied, Spott]

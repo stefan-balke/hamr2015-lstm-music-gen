@@ -1,0 +1,26 @@
+BOEHME
+CUT[SINGE WEM GESANG GEGEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0316  16  G 3/4]
+MEL[  3_.21_2_3_4_  5__3__
+    4_3_  2_3_4__5__  3___0__
+    3_.21_2_3_4#_  6__5__
+    4#_3_  2_5_6__4#__  5___0__
+    4_.34_3_2_1_  3_.22__
+    2_2_  5__.3_4_3_  4___0__
+    4_.32_3_4_4#_  5__3__
+    4_2_  1_3_5__.-7_  1___0__ //] >>
+FCT[Geselligkeits - Lied, Freude]
+BOEHME
+CUT[SINGE WEM GESANG GEGEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0316  16  G 3/4]
+MEL[  3_.21_2_3_4_  5__3__
+    4_3_  2_3_4__5__  3___0__
+    3_.21_2_3_4#_  6__5__
+    4#_3_  2_5_6__4#__  5___0__
+    4_.34_3_2_1_  3_.22__
+    2_2_  5__.3_4_3_  4___0__
+    4_.32_3_4_4#_  5__3__
+    4_2_  1_3_5__.-7_  1___0__ //] >>
+FCT[Geselligkeits - Lied, Freude]

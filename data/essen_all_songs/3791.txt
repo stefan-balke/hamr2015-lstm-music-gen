@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HEUT IST EIN FREUDENREICHER TAG]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[E1066  08  C 3/4]
+MEL[1_  1__2_  1__-6_  -5__-5_  -2__
+    -3_  -4__-4_  -4__-6_  -5__-5_  -1__
+    -5_  -5__-4_  -3__-2_  -1__
+    -5_  -5_.-6-6_  1__ //] >>
+FCT[Wett - Lied, Streit zwischen Sommer und Winter]

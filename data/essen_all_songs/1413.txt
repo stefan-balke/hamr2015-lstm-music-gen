@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    'Markrygrafen, kann ich jue Dochter wol krieg'n?']
+CNR['Mine Dochter dei kriegest du nicht;]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hannover, Gifhorn]
+SRC[3, S. 245
+    1874 aufgezeichnet]
+KEY[Q0068B 16  F 6/8]
+MEL[-5_  -5_1_1_1_2_3_  3_2_1_2__
+    -5-5  4__5_3_.213  2_.1-7_1__
+    3_  4_.54_3_.213  2_.1-7_1__
+    3_  4_.54_3_.213  2_.1-7_1__ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

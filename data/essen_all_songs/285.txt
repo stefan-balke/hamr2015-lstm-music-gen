@@ -1,0 +1,22 @@
+BOEHME
+CUT[AUS FEUER IST DER GEIST GESCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0337  08  F 4/4]
+MEL[554  3_.33_.3  544_0
+    443  2_.25_.4  4_3_0
+    554  3_.33_.3  544_0
+    443  2_.25_.4  4_3_0
+    555  6_.47_.5  +1__0
+    666  5_.13_2_  1__0 //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[AUS FEUER IST DER GEIST GESCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0337  08  F 4/4]
+MEL[554  3_.33_.3  544_0
+    443  2_.25_.4  4_3_0
+    554  3_.33_.3  544_0
+    443  2_.25_.4  4_3_0
+    555  6_.47_.5  +1__0
+    666  5_.13_2_  1__0 //] >>
+FCT[Trink - Lied]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WAT HAEWWK DENN MIENEM SCHAETZCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hannover]
+KEY[E0652  16  G 2/4]
+MEL[-5_  1_3_5_3_  2_.22_
+    -5_  1_3_5_3_  2__0__
+    5__-5__  1_.11_
+    1_  1_3_5_3_  1__0_ //] >>
+FCT[Liebes - Lied]

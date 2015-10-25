@@ -1,0 +1,13 @@
+BOEHME
+CUT[WAS FANG ICH ARMER TEUFEL AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0566  16  F 3/4 4/4]
+MEL[1_  1_3_5__.3_  3_.22__.
+    2_  2_6_5__.4_  4__3__0_
+    1_  1_3_5__.3_  3_.22__.
+    2_  2_6_5__.4_  4__3__0_
+    5_  5_.5+1_5_3_1_  5_.55__.
+    5_  5_.5+1_5_3_1_  5_.55__.
+    5_  5__.3_6__.5_  5__4__0__.
+    4_  4__.2_5__.-7_  2__1__0__. //] >>
+FCT[Studenten -, Burschenschafts -, Wander - Lied]

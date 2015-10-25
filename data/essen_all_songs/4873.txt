@@ -1,0 +1,19 @@
+DVA
+CUT[Hoer an, mein liebes Kind, was ich muss leiden,
+    was mich von Herzen freut, das muss ich meiden]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0171  08  D 3/4]
+MEL[13  5_+1_55  3__0_
+    6_5_.2  4_3_
+    13  5_+1_55  3__0_
+    6_5_.2  4_3_
+    22  2_2_.2  23465_
+    5_6_+16  655_
+    13  5_+1_55  543_0_
+    6_5_.2  4_3_
+    22  2_2_.2  23465_
+    5_6_+16  655_
+    13  5_+1_55  543_0_
+    6_5_.2  4_3_ //] >>
+FCT[Liebes - Lied]
+CMT[Rhythmische Korrekturen (Pausen weggelassen) ; Inzipit = Variante]

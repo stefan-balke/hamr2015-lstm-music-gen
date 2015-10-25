@@ -1,0 +1,14 @@
+FINK
+CUT[DIE TREUE DIE UNS BRUEDER BAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0482  08  F 4/4]
+MEL[-5_  1_.23_4_  5_.31_
+    5_  6_5_4_3_  5__.
+    -5_  1_.23_4_  5_.31_
+    5_  6_5_4_3_  5__.
+    5_  2_.35432  3_5_+1_
+    5_  6_5_4_3_  5__0_
+    -5_  1_.23_4_  5_.31_
+    6_  5_.35432  3_465_
+    +16  5_.35432  1__0_ //] >>
+FCT[Studenten - Lied, national]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Trotz dem Tode"
+    KOMM ZU MIR IN GARTEN, KOMM ZU MIR IN'S GRAS]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1151  08  G 3/4]
+MEL[-5_  123_21  2-7-5_
+    5_  4_3_21  2__
+    23  4_3_21  1-71_
+    24  321_-7_  1__ //] >>
+FCT[Liebes - Lied]

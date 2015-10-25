@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Die Wise van Potteren]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0084  04  A 4/2 6/2]
+MEL[5_5_5_  6b_5__4_5__  4__0_
+    5_5_5_  6b_5__4_5__  4__0_
+    4_  5_5_5_6b_  7b_6b54__  3b__0_
+    5_  6b_6b_6b_5_5_55  4_4_4_1__
+    1_  -7b__4__  3b__6b_5_43b2_  1__.0__.  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 149.]

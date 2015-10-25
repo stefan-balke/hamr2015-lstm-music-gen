@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Der Schlemmer"
+    IN HOLLAND UND BRABANT DA SIND VIEL SCHOENE STAEDT]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1337  08  G 4/4]
+MEL[-5_  1__-7_1_  2__1_2_  3_5_4_2_  1__0_
+    12  3_3_3_23  4_.54_43  2_222_3_  5_.65_
+    5_  1__0_3_  2__0_12  3_3_542_  1__0_ //] >>
+FCT[Zech -, Schalks - Lied]

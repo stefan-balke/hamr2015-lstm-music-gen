@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ICH WEISS EIN SCHOENES ENGELSPIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2174  04  F 3/2]
+MEL[-5_  -6-71_2_  -6-71_
+    1_  345_4_  5_2_
+    2_  345_3_  434_2_  323_
+    2_  113_2_  -6-71_ //] >>
+FCT[geistlich, Moral - Lied, Auferstehung]

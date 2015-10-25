@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[MAEDCHEN, WARUM WEINEST DU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0260  08  G 2/4]
+MEL[3333  355_  244_  355_
+    3333  355_  2444  3_0_
+    2444  3+155  2444  3+155
+    3333  355_  2444  3_0_ //] >>
+FCT[lyrisches Lied, Romanze]

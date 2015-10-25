@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[DU! DU! LIEGST MIR IM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0264  08  G 3/8]
+MEL[3_0  3_0  323  54#4
+    2_0  2_0  234  3_0
+    3_0  3_0  323  54#4
+    222  332  1_0
+    5_0  54#4  3_0
+    222  432  1_0 //] >>
+FCT[lyrisches Lied, Romanze]

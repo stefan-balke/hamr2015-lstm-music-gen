@@ -1,0 +1,9 @@
+BOEHME
+CUT[ROSEN PFLUECKE ROSEN BLUEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0652  08  G 6/8]
+MEL[  5_53_3  5432_0
+    3_34#_4#  5_.0_.
+    4_43_3  4_56_0
+    5_3542  1_.0_. //] >>
+FCT[Moral - Lied, Vergaenglichkeit]

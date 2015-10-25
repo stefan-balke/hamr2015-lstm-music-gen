@@ -1,0 +1,9 @@
+F[ERK3
+CUT[GRUENES GRAS UNTER MEINEN FUESSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1885  08  G 2/4]
+MEL[  533_  533_
+    6543  2_10
+    5536  5530
+    6542  2_10 //] >>
+FCT[Kinder - Lied, Spiel]

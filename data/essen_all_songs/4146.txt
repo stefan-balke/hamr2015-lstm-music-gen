@@ -1,0 +1,13 @@
+F[ERK3
+CUT[FRISCH LUSTIG UND FROEHLICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E1614A 08 Eb 3/4]
+MEL[1_  1_-5_3_  3_1_
+    5_  5_6543  3_2_
+    1_  1_-5_3_  3_1_
+    5_  5_6543  3_2_
+    55  67+1_76  5_3_
+    5_  67+1_76  5__
+    5_  5+3+3_+3_  +3+2+2_
+    +2_  +2+3+4_7_  +1__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

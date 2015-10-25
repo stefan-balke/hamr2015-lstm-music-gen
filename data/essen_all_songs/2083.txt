@@ -1,0 +1,9 @@
+FINK
+CUT[LORENZ LORENZ LORENZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0343  08  D 4/4]
+MEL[  1__4__  5__1_0_
+    5__6__  7__+1_0_
+    +3_+3+3+4_+4_  +2+2+2+2+3_0_
+    +1_+1+1+2_+2_  5555+1_0_ //] >>
+FCT[Jugend - Lied, Geselligkeit, Scherz, Kanon]

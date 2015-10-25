@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Treue"
+    MEIN SCHATZ DER GING DEN BERG HINAUF]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1186  08  C 6/8]
+MEL[-5  1_1-7_-7  -6_-6-5_.
+    -4_-4-3-3-5  -5_-71_.
+    1-71321  212433
+    3_3321  2_.1_ //] >>
+FCT[Liebes - Lied]

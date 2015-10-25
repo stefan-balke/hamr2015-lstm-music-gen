@@ -1,0 +1,10 @@
+F[ERK3
+CUT[WAS WOLLEN DIE HAUSAREN ESSEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1325  16  G 2/4]
+MEL[-5_  1_1_1_1_  1__-7_1_  2__-7__  0__
+    -7_1_  2__2_2_  2__1_2_  3__1__  0__
+    5_.5  5__3_.3  3__6_.5  5__4__  4__
+    2_3_  4_.44_4_  4_6_5_4_  3_.33_3_  3__
+    3_.4  5___  6__4_.4  4__5__  3__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

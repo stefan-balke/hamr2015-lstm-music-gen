@@ -1,0 +1,9 @@
+FINK
+CUT[WILLKOMMEN SCHOENER JUENGLING]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0299  16 Bb 6/8]
+MEL[3_  3__1_4__3_  3__2_1_0_
+    5_  5__1_-7__1_  2__.0__
+    2_  2__-5_3__1_  4_.5342_0_
+    6_  5__3_2__3_  1__.0__ //] >>
+FCT[Jugend - Lied, Jahreszeiten, Fruehling]

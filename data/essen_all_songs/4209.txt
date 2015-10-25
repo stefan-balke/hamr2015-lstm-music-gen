@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WENNS DIBBE ABER NUN E LOCH HAT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Gegend]
+KEY[E1741A 08  G 3/4]
+MEL[55  665544  4_3_
+    33  3_2_44  4_3_
+    5_  6_5544  4_3_
+    33  3_2_55  1__ //] >>
+FCT[Scherz -, Spiel - Lied]

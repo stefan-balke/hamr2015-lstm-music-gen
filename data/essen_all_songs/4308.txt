@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WER DIE GANS GESTOHLEN HAT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1896  08  F 2/4]
+MEL[  1234  555
+    5  6_+1_  5_0
+    5  6_+1_  5_0
+    5  5444  433
+    3  2_5_  1_0
+    3  2_5_  1_0_ //] >>
+FCT[Kinder - Lied, Tanz, Spiel]

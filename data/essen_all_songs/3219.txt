@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WOL UNTER EINER LINDE SCHLIEF]
+REG[Europa, Mitteleuropa, Deutschland, Vormark, Priegnitz]
+KEY[E0683A 16  G 2/4]
+MEL[-5_  1_.-51_2_  3_1_2__
+    3__212_  1__0_
+    34  5_5_5_34  5_3_1__
+    3__542_  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

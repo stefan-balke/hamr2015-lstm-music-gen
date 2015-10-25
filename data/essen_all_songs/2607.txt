@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ECK FACH MUINEN HEREN VAN FALKENSTEUN]
+REG[Europa, Mitteleuropa, Deutschland, Lippe - Detmold]
+KEY[E0062A 08  F 6/8]
+MEL[1  565321  4565_
+    1  5_5+176  6_.50
+    1  565321  4565_
+    1  5_5+176  6_.5_5  2_.1_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

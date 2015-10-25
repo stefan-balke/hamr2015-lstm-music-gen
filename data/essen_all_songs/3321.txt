@@ -1,0 +1,11 @@
+F[ERK2
+CUT[MAEDCHEN WARUM WEINEST DU]
+REG[Europa, Mitteleuropa, Deutschland, Rheinprovinz; Unter - Taunus]
+KEY[E0764  08  F 2/4]
+MEL[  3333  355_
+    5444  3_0_
+    2444  3555
+    2444  3555
+    3333  355_
+    5444  3_0_ //] >>
+FCT[Abschieds - Lied, Liebe]

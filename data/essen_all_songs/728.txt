@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES SOLL SICH JA KEINER MIT DER LIEBE ABGEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[Z0310A 08  G 3/4]
+MEL[-5_  1_1_2_  3_3_54  3_3_2_  1_1_
+    -5_  1_1_2_  3_3_54  3_3_2_  1_1_
+    5_  +1_+1765  4#32_+1_  765_4#_  5__
+    4_  3_3_2_  1__
+    54  3_3_2_  1__ //] >>
+FCT[Lyrisches Lied, Romanze, verlassene Liebe, Tod]

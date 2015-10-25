@@ -1,0 +1,13 @@
+FINK
+CUT[GLUECKLICH WER IM HOLDEN BUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0750  08  C 3/8]
+MEL[  3_2  1_-7  -6-71  -6_-5
+    4_2  3_1  -7_1  2_0
+    343  322  121  1-7b-7b
+    -6-71#  234  342  1_0
+    1_1  -5_-5  3_3  1_1
+    4_2  3_1  -7_1  2_0
+    3_3  2_2  4_4  3_3
+    6_6  5_3  432  1_0 //] >>
+FCT[Geselligkeits -, Trink - Lied, Rundgesang]

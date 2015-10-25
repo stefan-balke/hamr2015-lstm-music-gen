@@ -1,0 +1,12 @@
+FINK
+CUT[ICH WOLLT ICH WAER EIN FISCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0101  16  G 3/8]
+MEL[34  5_5_34  5_0_
+    +15  3_3_2_  1_0_
+    32  2_2_2_  5_2_
+    -71  2_2_2_  5_2_
+    56  7_.+176  6550
+    34  5_5_34  5_0_
+    +15  3_3_2_  1__ //] >>
+FCT[Liebes - Lied]

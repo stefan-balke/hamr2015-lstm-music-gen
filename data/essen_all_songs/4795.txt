@@ -1,0 +1,13 @@
+DVA
+CUT[Der verkleidete Reiter
+    Es war einmal ein Reiter,]
+CNR[ein Reiter von achtzehn Jahr]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0036  08  G 6/8]
+MEL[1  1_1121  -7b_.1_
+    2  3b2143b2  1_.^_
+    1  3b_-7b3b_4  5_.54
+    4  555121  -7b_.1_
+    2  3b2143b2  1_.^_ //] >>
+FCT[Ballade]
+CMT[Notenwert in Zeile 261 korrigiert]

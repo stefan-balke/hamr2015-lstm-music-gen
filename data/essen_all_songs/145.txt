@@ -1,0 +1,20 @@
+BOEHME
+CUT[WIE LIEBLICH SCHALLT IM GRUENEN WALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0174  08  G 6/8]
+MEL[-5  1232_-5  2343_
+    3  5_3543  2__0
+    -5  4_43_1  6_65_
+    5  3_32_2  1__0
+    5  3_32_2  1__0 //] >>
+FCT[Natur -, Wander -, Kinder - Lied, Wald]
+BOEHME
+CUT[WIE LIEBLICH SCHALLT IM GRUENEN WALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0174  08  G 6/8]
+MEL[-5  1232_-5  2343_
+    3  5_3543  2__0
+    -5  4_43_1  6_65_
+    5  3_32_2  1__0
+    5  3_32_2  1__0 //] >>
+FCT[Natur -, Wander -, Kinder - Lied, Wald]

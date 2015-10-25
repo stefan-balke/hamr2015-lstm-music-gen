@@ -1,0 +1,11 @@
+F[ERK3
+CUT[NUR IMMER LANGSAM]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Erfurt]
+KEY[E1432  16  D 4/4]
+MEL[5_5_4_  3__1_.11_+1_+1_7_  6__4_.44__
+    4_.3  2__2_.25__5__  3__2_.21__
+    5__  3__5__3__5__  6_5_4_3_4__
+    4__  2__4__2__4_4_  5_4_3_2_3_
+    5_5_4_  3__1_.11_+1_+1_7_  6__4_.44__
+    4_.3  2__2_.25__5__  3__2_.21_ //] >>
+FCT[Staende -, Soldaten - Lied, Spott]

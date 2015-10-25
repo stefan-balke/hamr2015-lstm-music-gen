@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Tritt har, tritt har, Tschellin liebai insh'r.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[4, S. 224
+    ????]
+KEY[Q1080D 08  G 3/4]
+MEL[-5_  1__3_  5__11  2_5_4_  3__ //] >>
+FCT[Hochzeits - Lied]
+CMT[Melodievergleich zu Q0080A, anderes Lied.]

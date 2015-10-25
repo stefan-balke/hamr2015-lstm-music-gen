@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[I HOB ENK A HAEUSERL AM ROAN]
+REG[Europa, Mitteleuropa, Deutschland, Mitteleuropa, Schweiz]
+KEY[Z0133  16  G 6/8]
+MEL[-5_  -5_1_1_-7_.-6-7_  1__0__.
+    1_  4_.44_3_2_3_  4__0__.
+    3_  3_5_5_5_5_04  5_4#_4_4_4_
+    4_  4_.34_6_.54_  3__0__.
+    3_  2_.1#2_4_3_2_  1__0__. //] >>
+FCT[Erzaehlung, lustige Romanze]

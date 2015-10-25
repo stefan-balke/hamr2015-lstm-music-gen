@@ -1,0 +1,24 @@
+BOEHME
+CUT[ZU AUGSBURG STEHT EIN HOHES HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0153  08  G 4/4]
+MEL[-5_  1_.-71_2_  3_425_0
+    4  3_.33254  3__0_
+    -5_  1_.-71_2_  3_425_0
+    4  3_.33254  3__0_
+    5_  2_3_2_05  2_432_0
+    2  3__4346  5__0_
+    6_  5__4342  1__0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ZU AUGSBURG STEHT EIN HOHES HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0153  08  G 4/4]
+MEL[-5_  1_.-71_2_  3_425_0
+    4  3_.33254  3__0_
+    -5_  1_.-71_2_  3_425_0
+    4  3_.33254  3__0_
+    5_  2_3_2_05  2_432_0
+    2  3__4346  5__0_
+    6_  5__4342  1__0_ //] >>
+FCT[Ballade, Romanze]

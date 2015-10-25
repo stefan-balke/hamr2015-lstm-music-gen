@@ -1,0 +1,11 @@
+F[ERK3
+CUT[STIEGLITZ STIEGLITZ ZEISERL IS KRANK]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[E1828  08  G 3/8]
+MEL[  5_3  5_3
+    542  1_0
+    223  4_3
+    223  4_2
+    334  5_3
+    442  111 //] >>
+FCT[Kinder - Lied, Trost]

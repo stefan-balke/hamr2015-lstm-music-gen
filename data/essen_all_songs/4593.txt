@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Himmelsrose]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0516  04  D 4/2]
+MEL[5_  6b_4_6b_7b_  +1_+17b+1_
+    5_  4_+1_7b_6b_  5__0_
+    +1_  +1_+1+17b_+1_  7b_6b54_
+    7b7b  5_3b_4_3b2  1__0_
+    6b_  543b21_-7b_  3b_4_5_3b2  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Speiersches Gsgb. 1617 fol. 31.]

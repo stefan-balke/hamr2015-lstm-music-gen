@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Liederkraenzchen"
+    AF UNSERN WAIHADAMM]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1273  08 Bb 6/4]
+MEL[-5_  1_2_3_2__1_  -7__0__.
+    -7_  3_4_5_5_4#_6_  5__0__.
+    -5_  1_2_3_2__1_  -7__0__.
+    -7_  3_4_5_5_4#_6_  5__0__.
+    54  3_4_5_3_5_43  2_2_12-7_-5_
+    -5-7  1_5_432__-7_  1__0__. //] >>
+FCT[Natur und Welt]

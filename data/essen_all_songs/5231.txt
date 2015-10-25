@@ -1,0 +1,9 @@
+BOEHME
+CUT[GOTT DEINE KINDLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0758  08  G 4/4]
+MEL[-5_  1_2_3_54  3__2_
+    34  5_1_-7_1_  2__0_
+    23  4_3_2_34  5_4_3_
+    6_  5_123_2_  1__0_ //] >>
+FCT[religioes]

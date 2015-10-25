@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ES ES ES UND ES]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1592  08  G 4/4]
+MEL[  3__2__  1_-7-6-5_
+    -5_  1_1_2_2_  3__0__
+    3__2__  1_-7-6-5_
+    -5_  1_1_2_2_  3__0_
+    12  3_3_3_43  2_2_2_
+    32  1_1_1_21  -7_-6_-5_
+    -5_  1_1_2_2_  3_.45_
+    4_  3__2__  1__0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft]

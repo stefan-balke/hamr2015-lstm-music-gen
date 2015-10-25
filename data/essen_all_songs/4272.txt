@@ -1,0 +1,12 @@
+F[ERK3
+CUT[BACKE BACKE KUCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Thueringen]
+KEY[E1830  16  F 2/4]
+MEL[  5_5_6_6_  5__3_
+    3_  5_5_6_6_  5__3_0_
+    5_5_6_6_  5_5_3_3_
+    5_5_6_6_  5_5_3_3_
+    555_3__  555_3__
+    5_5_3__  5_5_6_6_  5_5_3__
+    +1__5_3_  2_1_1__ //] >>
+FCT[Kinder - Lied]

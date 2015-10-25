@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ach was soll denn schoener sein]
+CNR[als das zarte Jungfraeulein,]
+REG[Mitteleuropa, Oesterreich, Burgenland, Pamhagen]
+SRC[8, S. 72
+    1929 aufgezeichnet]
+KEY[Q0155U 04  G 4/4]
+MEL[13  5545  3_
+    13  5545  3_
+    22  334#2  55
+    22  334#2  55
+    +15  5434  5_
+    54  3322  1_ //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe, Glueck]

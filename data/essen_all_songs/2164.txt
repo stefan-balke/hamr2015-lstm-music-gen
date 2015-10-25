@@ -1,0 +1,16 @@
+FINK
+CUT[ICH TRINKE TAEGLICH MEIN NEKTARVOLLES GLAESCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0491  16 Eb 2/4]
+MEL[1_  5__5_4_  4_3_3_
+    5_  6_5_4_3_  3_2_2_
+    5_  5__5_4_  4_3_3_
+    5_  6_5_4_3_  3__2_0_
+    2_.32_1_  -7_2_5__
+    2_.32_1_  -7_2_5_
+    -5_  1_3_5_-5_  1_3_5_
+    -5_  1_3_5_-5_  1_3_5_
+    -5_  1_3_5_-5_  1_3_5__
+    +1_765_4_  5__-5__  1___
+    +1_765_6_  5__5__  1___ //] >>
+FCT[Studenten -, Trink - Lied]

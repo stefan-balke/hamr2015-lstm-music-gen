@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Das Schloss im Oberland (Falkenstein)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0028  08  F 4/2 7/2]
+MEL[1__  1__2__3__4__  5__5__1__
+    2__  3__6__5__1__  1__.-7-6-7__1__  -6__-5__0__
+    5__  5__5__5__4__  4__3__2__
+    6__  5__2__3__1__  -7__1__2__3__2_1_2___  1___0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Die Melodie bei Joh. Ott 1544 No. 8. Sie ist nur eine
+    Variante von: Es ligt ein schloss in Oesterreich.]

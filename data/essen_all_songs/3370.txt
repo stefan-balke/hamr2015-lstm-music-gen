@@ -1,0 +1,15 @@
+F[ERK2
+CUT[EIN JUNGER KNAB GASSATEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Meiningen; Coburg]
+KEY[E0813  08  G 3/4]
+MEL[-5_  1-71_.3  212_.
+    3  434_6_  3_3_
+    -5_  1-71_.3  212_.
+    3  434_6_  3_3_0
+    1  345_.3  456_.
+    6  565_.3  212_.
+    3  434_6_  3_3_.
+    1  345_.3  456_.
+    6  565_.3  212_.
+    3  434_6_  3_3_ //] >>
+FCT[Tage - Lied, Kilt - Lied]

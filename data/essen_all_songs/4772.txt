@@ -1,0 +1,14 @@
+DVA
+CUT[Abgewiesene Freier ( Drei Gesellen )
+    Es war'n mal drei junge Gesellen,]
+CNR[die taeten, was sie woellen]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0014  08  G 2/4]
+MEL[-5  1_-5-5  1_32  1_-5
+    -5  1_-5_  1_32  1_-5
+    3  3333  3_.3  2343  2_.
+    1  -7222  2554  3222  1_.
+    3  3333  3_.3  2343  2_.
+    1  -7222  2554  3222  1_. //] >>
+FCT[Ballade, Werbung]
+CMT[Takt - und Zeilenwiederholung;Inzipit = entfernte Variante zum Lied]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Der geistliche Ackermann]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0588  02  G 4/2 6/2]
+MEL[1  123b4  3b21_0
+    1  (3b3b4)(5_2)  3b45_0
+    5  (7b57b)(554)  3b_2_0
+    -7b  3b_42_1  3b_45_
+    4  3b2123b3b  2_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 II No. 39.]

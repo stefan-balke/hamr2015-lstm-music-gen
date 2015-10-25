@@ -1,0 +1,13 @@
+F[ERK2
+CUT[SIEH AN MEIN SCHOENSTES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Frankfurt, Dreieichenhain]
+KEY[E0831  08  G 3/4]
+MEL[  5_3_5_  5_432_
+    6_5_4_  4__3_
+    5_3_5_  5_432_
+    6_5_4_  4__3_
+    2_2_3_  4_.32_
+    3_3_4_  5__3_
+    6_6_6_  5_.43_
+    3_5_.2  2__1_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

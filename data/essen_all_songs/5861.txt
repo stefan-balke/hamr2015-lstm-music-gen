@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Der Botenbube]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0314  04  G 4/2]
+MEL[1_1_1_-5_  121_-7__
+    2_3b_4_3b_  2_2_1__
+    1_1_1_-5_  121_-7__
+    2_3b_4_3b_  2_2_1__
+    2_2_2_1_  2_3b_4__
+    2_2_2_1_  2_3b_4__
+    5__4_3b_  2__1__  -7b1-7b_1_-7b_  -6__-5_
+    5-5  3b45_4_3b_  2_2_1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Hainhofer, Lautenbuch II. 1603. Bl. 28.]

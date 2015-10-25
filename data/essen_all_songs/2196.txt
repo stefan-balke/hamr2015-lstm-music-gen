@@ -1,0 +1,13 @@
+FINK
+CUT[WIR STUDENTEN LEBEN TAEGLICH MUNTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0538  16  G 3/4]
+MEL[  1_.11__-5__  3_.33__1__
+    3_.45__.6_  5_.44__3_0_
+    1_.11__-5__  3_.33__1__
+    3_.45__.6_  5_.44__3_0_
+    5_.55__1__  6_.66__.0_
+    5_.55__4_3_  3_.22__.0_
+    5_.53__5_7b_  6_.66___
+    5_.43__4_-7_  2_.11__.0_ //] >>
+FCT[Studenten -, Trink - Lied]

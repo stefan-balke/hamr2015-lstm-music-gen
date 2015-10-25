@@ -1,0 +1,30 @@
+BOEHME
+CUT[AN DER QUELLE SASS DER KNABE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0464  16  A 3/4]
+MEL[-5_-5_  3__.2_3_.2  1__-5__
+    -7_1_  2__.1_2_3_  1___
+    -5_-5_  3__.2_3_.2  1__-5__
+    -7_1_  2__.1_2_3_  1___
+    3_3_  3__.2_1_-7_  -6__-6__
+    3_3_  3_4_5__3__  2___
+    -7_-6_  -5__.-7_2_4_  6__5__
+    3_5_  5__.4_2_3_  1___
+    -7_-6_  -5__.-7_2_4_  6__5__
+    3_5_  5__.4_2_3_  1___ //] >>
+FCT[Liebes - Lied, Leid, Klage, Sehnsucht]
+BOEHME
+CUT[AN DER QUELLE SASS DER KNABE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0464  16  A 3/4]
+MEL[-5_-5_  3__.2_3_.2  1__-5__
+    -7_1_  2__.1_2_3_  1___
+    -5_-5_  3__.2_3_.2  1__-5__
+    -7_1_  2__.1_2_3_  1___
+    3_3_  3__.2_1_-7_  -6__-6__
+    3_3_  3_4_5__3__  2___
+    -7_-6_  -5__.-7_2_4_  6__5__
+    3_5_  5__.4_2_3_  1___
+    -7_-6_  -5__.-7_2_4_  6__5__
+    3_5_  5__.4_2_3_  1___ //] >>
+FCT[Liebes - Lied, Leid, Klage, Sehnsucht]

@@ -1,0 +1,14 @@
+F[ERK2
+CUT[O WIE WOHL ISTS JEDEM MENSCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt,
+    Wiesenbreidenbach]
+KEY[E0660  08  G 3/4]
+MEL[12  3_3_1-7  2_2_
+    32  1_.354  3_0_
+    12  3_3_1-7  2_2_
+    32  1_.354  3_0_
+    12  3_3_24  3_5_
+    43  2_.232  1_0_
+    12  3_3_24  3_5_
+    43  2_.232  1_0_ //] >>
+FCT[Liebes - Lied]

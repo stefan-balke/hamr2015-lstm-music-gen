@@ -1,0 +1,15 @@
+F[ERK3
+CUT[MAETEN ES EN GOOD MANN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Barmen]
+KEY[E1269  08  F 2/4]
+MEL[  5556  5_30
+    5556  553
+    4  5556  5_3
+    4  5556  5_0_
+    5436  543_
+    5556  543_
+    5555  6_5
+    5  4435  2_10
+    5_30  5_30
+    6543  2_10 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sankt Martin]

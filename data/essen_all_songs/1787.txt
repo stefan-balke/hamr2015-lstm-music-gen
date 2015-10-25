@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die schoene Magdalena
+    Hyet ich die gnad, so wolt ich mich auf schwingen]
+CNR[hoch in ain stat zw ainer kuenigenne.]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 71
+    1460 Handschrift aus Hohenfurt (ca.)]
+KEY[Q0125B 04  F 6/4]
+MEL[1  5_55_5  6_+17_6  5_.3_
+    5  4_31_1  3_45_4  2_.3_
+    5  4_31_1  3_45_4  2_.1_ //] >>
+FCT[geistlich]
+CMT[Moeglicherweise Ton, in dem die Ballade gesungen wurde. (??)
+    Taktart entsprechend den Taktstrichen in 6/4 geaendert.]

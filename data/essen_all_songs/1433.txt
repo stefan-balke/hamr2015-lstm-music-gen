@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Bai Raedder
+    'Skon Guldborg, I drage af Landet med mig.']
+CNR[udi Lunden.]
+REG[Nordeuropa, Daenemark]
+SRC[3, S. 280
+    ????]
+KEY[Q3071A 08  D FREI]
+MEL[-5  1_11  5_55  6b_54  4_
+    3b_4  5_5_0_.
+    5  6b_54  5_22  3b_21  -7_
+    12  3b_21  3b21-7  1_1_ //] >>
+FCT[Ballade, ???]
+CMT[Melodievergleich zu Q0071, anderes Lied "Ribold og Guldborg" .
+    Zweite und vierte Zeile: Refrain.]

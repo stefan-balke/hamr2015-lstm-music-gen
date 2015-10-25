@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HOPP MARJAENCHE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[E1833  08  G 6/8]
+MEL[  3_11-71  3_11-71
+    2_2234  6_55_
+    3  3_11-71  3_11-7
+    1  234-5-6-7  2_.1_0 //] >>
+FCT[Kinder - Lied, Tanz]

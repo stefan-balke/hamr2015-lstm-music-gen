@@ -1,0 +1,30 @@
+BOEHME
+CUT[DIR FOLGEN MEINE TRAENEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0483  08  F 6/8]
+MEL[-5  1_13_5  5_42_
+    -5  1_12_3  1_.0_
+    5  6_4+176  5_31_
+    3  2_25_-7  1_.0_
+    3  2_23b_3b  3b_22_
+    2  3b_3b3b21  5_.^_
+    -5  1_13_5  5_42_
+    -5  1_12_3  1_.0_
+    5  6_4+176  5_31_
+    3  2_25_-7  1_.0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[DIR FOLGEN MEINE TRAENEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0483  08  F 6/8]
+MEL[-5  1_13_5  5_42_
+    -5  1_12_3  1_.0_
+    5  6_4+176  5_31_
+    3  2_25_-7  1_.0_
+    3  2_23b_3b  3b_22_
+    2  3b_3b3b21  5_.^_
+    -5  1_13_5  5_42_
+    -5  1_12_3  1_.0_
+    5  6_4+176  5_31_
+    3  2_25_-7  1_.0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Alte niederlaendische Tanzmelodie]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0309A 04  G 4/2]
+MEL[1_  1_.13_.3  5_.53_.
+    3  5_.53_.4  5__5_
+    1_  1_.13_.3  5_.53_.
+    3  5_.53_.4  5__5_
+    5_  5_.55_.5  3_.32_.
+    2  3_.21_.-7b  -6_.-7b1_.2  3__2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 132]

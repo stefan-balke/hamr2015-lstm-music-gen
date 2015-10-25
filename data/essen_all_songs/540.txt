@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ES HATT EIN BAUR EIN JUNGES WEIB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0125  16  A 2/4]
+MEL[-5_  1_.21_.2  -7_.-6-5_.
+    -5  -6_.-6-7_.-7  1__0_
+    -5_  1_.21_.2  -7_.-6-5_.
+    -5  -6_.-6-7_.-7  1__0_
+    2_  3_.23_.1  4__0_
+    3_  2_.22_.2  5_.55_.
+    3  3_.33_.3  6_.66_.
+    4  3_.32_.2  1__. //] >>
+FCT[Erzaehlung, lustige Romanze]

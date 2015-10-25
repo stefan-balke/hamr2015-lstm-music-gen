@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ein Kinderlied auf die Weihnachten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0518  02  F 4/1]
+MEL[+1  7_6_7_5_  6_7_+1_0
+    +1  +1_5_5_3_  5_4_3_0
+    3  6_6_5_7_  +1_6_5_0
+    +1  7_6_5_6_  432_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Schumanns Gsgb 1539 fol. 3 (Luther?)]

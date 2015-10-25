@@ -1,0 +1,11 @@
+F[ERK1
+CUT[HEU MARTIS ALEA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0314  08  C 2/2]
+MEL[1_  1_.11_2_  3__0_
+    3_  3_.33_2_  3_.32_
+    3_  3#_3_2_1_  2__0_
+    2_  2_.32_1_  -7_1_2_
+    2_  2_.32_1_  -7_1_2_
+    -5_  -6_1_1_-7_  1__. //] >>
+FCT[historisches Lied, Dreissigjaehriger Krieg]

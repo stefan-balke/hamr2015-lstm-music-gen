@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Gretlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0053B 08  G 6/4]
+MEL[1_  5__5_4__3_  1__2_1__
+    1_  5__5_4__3_  2_.34_3__
+    2_  1__1_-7__-5_  -6__-7_1__
+    3_  2__2_1_-7_-6_  -5__.
+    5__.  5__5_4_3_2_  1__.^_0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Nach Boehme die vermutete volkstuemliche Form von A0053A.]

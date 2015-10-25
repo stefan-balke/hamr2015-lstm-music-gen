@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Was wuentschen wir's dem Hean]
+CNR[zu diesem naien Jar?]
+REG[Osteuropa, Ungarn, Tolnau]
+SRC[5, S. 127
+    1929 gedruckt]
+KEY[Q1100I 04  G 4/4]
+MEL[-5  1112  3_1
+    3  3223  1_. //] >>
+FCT[Neujahrs - Lied]
+CMT[Melodievariante zu Q0100, anderes Lied.]

@@ -1,0 +1,18 @@
+F[ERK2
+CUT[ALS ICH NUN NACH HAUSE KAM]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Unter - Taunus]
+KEY[E0900  16  G 2/4]
+MEL[22  2_3_2_3_  2__.
+    -5_  4_4_2_2_  3_3_1_
+    1_  2_2_2_2_  5__.
+    -5_  4_4_2_2_  3_3_1_
+    1_  2_2_5_5_  3__0_
+    2_  2_3_2_3_  2__0_
+    2_  2_3_2_3_  2__0_
+    2_  2_3_2_3_  2__0_
+    2_  2_3_2_3_  2__0_
+    -5_  4_4_2_2_  3_3_1_
+    1_  2_2_2_2_  5__.
+    -5_  4_4_2_2_  3_3_1_
+    1_  2_2_5_5_  1__0_ //] >>
+FCT[Ehestands - Lied, betrogener Ehemann]

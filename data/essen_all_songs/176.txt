@@ -1,0 +1,18 @@
+BOEHME
+CUT[WIE HERRLICH LEUCHTET MIR DIE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0210  08  F 3/4]
+MEL[555  5_3123  1_0
+    -513  255767  5_0
+    567  +133345  6_0
+    456  5+15342  1_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[WIE HERRLICH LEUCHTET MIR DIE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0210  08  F 3/4]
+MEL[555  5_3123  1_0
+    -513  255767  5_0
+    567  +133345  6_0
+    456  5+15342  1_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

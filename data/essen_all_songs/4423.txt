@@ -1,0 +1,9 @@
+F[ERK3
+CUT[EEN SOUDAEN HAT EEN DOCHTF[ERK3EN]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[E2127B 16  G 3/4]
+MEL[1_  1_1_1__2__  3b_21-7b__0_
+    3b_  3b_4_5__5__  4_3b_2__0_
+    2_  3b_4_5__5__  1_23b4__0_
+    3b_  2_1_3b__.1_  -7__1__0_ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

@@ -1,0 +1,8 @@
+F[ERK2
+CUT[AUF AUF SCHAETZLE STEH AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0820  16  G 6/8]
+MEL[  1__0_2__0_  3_4_2_1__0_
+    3_5_5_5_434_  2_4_4_4_323_
+    1__0_2__0_  3_4_2_1__0_ //] >>
+FCT[Kilt - Lied]

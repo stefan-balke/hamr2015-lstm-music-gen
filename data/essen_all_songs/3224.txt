@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ICH WILL MICH UMSCHAUEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Homburg]
+KEY[E0685A 08  G 3/4]
+MEL[13  5_5_64  433_
+    42  5_312_  1__
+    13  5_5_64  433_
+    42  5_312_  1__
+    13  5_3213  2_2_
+    13  5_3213  2__
+    13  5_5_64  433_
+    42  5_312_  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Trennung]

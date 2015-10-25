@@ -1,0 +1,10 @@
+F[ERK3
+CUT[O JESULEIN ZART]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1939  08  F 3/4]
+MEL[1_  1_.11_  2__-7_  1_.-7-6_  -5__
+    5_  3__2_  1__2_  -5_-6_-7_  1__
+    3_  4__4_  2__2_  3__3_  1__
+    1_  2__2_  -7__-7_  1__1_  -6__
+    2_  -5_-6_-7_  1__3_  2_1_-7_  1__ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

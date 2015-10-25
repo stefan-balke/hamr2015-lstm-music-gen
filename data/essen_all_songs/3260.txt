@@ -1,0 +1,11 @@
+F[ERK2
+CUT[EINST SASS ICH IN DER LAUBE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Ober - Lahnkreis; Hanau]
+KEY[E0708A 08  F 2/4]
+MEL[-5  1335  5_6
+    5  5443  2_0
+    1  -7234  6_5
+    4  4335  5_0
+    -5  135+1  +1_7
+    6  5345  3_0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

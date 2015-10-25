@@ -1,0 +1,8 @@
+F[ERK2
+CUT[DER KUCKUK UP DEN TUNE SATT]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Granzow]
+KEY[E0880B 08  A 4/4]
+MEL[-5_  1_-5_1_5_  43231_
+    3_  2_2_-6_2_  1-7-6-7-5_
+    -5_  1_1_322_  -5_-6-71_ //] >>
+FCT[Hochzeits -, Ehestands - Lied, Ansinge - Lied]

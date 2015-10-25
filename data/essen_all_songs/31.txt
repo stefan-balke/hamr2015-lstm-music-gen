@@ -1,0 +1,26 @@
+BOEHME
+CUT[HOCH VOM DACHSTEIN AN WO DER AAR NOCH HAUST]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[B0036  16  F 3/4]
+MEL[1_2_  3_-5_3__2_1_  2_-6_2__
+    4_6_  5_2_5_6_2_4_  3___
+    1_2_  3_-5_3__2_1_  -7_2_7__
+    6_5_  4#_5_6_7_+1_4#_  5___
+    5_5#_  6_4_+1__7_6_  6_.53__
+    5_5#_  7_6_5_6_4_2_  3___
+    5_5#_  6_4_+1__7_6_  4#_5_+3__
+    +2_+1_  7_5_6_5_4_-7_  1__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[HOCH VOM DACHSTEIN AN WO DER AAR NOCH HAUST]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[B0036  16  F 3/4]
+MEL[1_2_  3_-5_3__2_1_  2_-6_2__
+    4_6_  5_2_5_6_2_4_  3___
+    1_2_  3_-5_3__2_1_  -7_2_7__
+    6_5_  4#_5_6_7_+1_4#_  5___
+    5_5#_  6_4_+1__7_6_  6_.53__
+    5_5#_  7_6_5_6_4_2_  3___
+    5_5#_  6_4_+1__7_6_  4#_5_+3__
+    +2_+1_  7_5_6_5_4_-7_  1__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

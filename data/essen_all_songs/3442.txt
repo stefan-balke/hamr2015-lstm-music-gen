@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DE JAOR DAO WASKNE SINE BRUT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0896  16  F 2/4]
+MEL[-5  -5_1_1_1_  -7_2_1_0_
+    -7_2-71__
+    2_2_2_2_  -7_-6_-5_0_
+    -6_-6-7-5_0_
+    -6_-6-71_-6_  -5_-7_1_0 //] >>
+FCT[Ehestands - Lied, Klage +++ 262: Laenge angepasst. +++]

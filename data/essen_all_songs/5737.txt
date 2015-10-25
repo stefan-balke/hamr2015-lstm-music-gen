@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Sichelein - Rauschen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0180A 04  G 4/2 6/2]
+MEL[1__  1_3_2_1_  5__5__0_
+    1_  5_5_4_3_215_  2___  0__
+    5__  4_3_2_1_  4_325_
+    3_2_3_  1_.23_4_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster V 1556 No. 35.]

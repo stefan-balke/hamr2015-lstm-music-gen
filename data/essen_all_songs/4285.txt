@@ -1,0 +1,7 @@
+F[ERK3
+CUT[LIEWEN HERR SCHMIET EN KOERNSCHE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs, Neukirchen]
+KEY[E1857  16  A 3/8]
+MEL[  5_.43_  5_.43_  12334_
+    5_.43_  5_.43_  1_2_3_  510__ //] >>
+FCT[Kinder - Lied, Tier - Lied]

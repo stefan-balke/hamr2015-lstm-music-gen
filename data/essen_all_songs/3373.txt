@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ICH WUENSCHT ES WAERE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0814  08 Bb 3/4]
+MEL[-5_  1_-3_-5_  1__
+    31  2_.342  3__.
+    232_-5_  1_.23_
+    232_-5_  1_.23_
+    423_2_  1__ //] >>
+FCT[Kilt - Lied]

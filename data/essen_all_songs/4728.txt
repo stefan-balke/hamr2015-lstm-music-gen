@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Trostlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0637  02  E 4/1]
+MEL[1__3b_3b_  4_6b_5_5_  4__0_+1_  7b_6b_5__  0_
+    6b_5_4_  3b_12b3b42b_  1___
+    1__3b_3b_  4_6b_5_5_  4__0_+1_  7b_6b_5__  0_
+    6b_5_4_  3b_12b3b42b_  1___  0__
+    3b__  46b_56b_+1_  7b_7b_6b__  0_
+    +1_6b_6b_  4_7b_5_5_  3b__0_3b_  5_6b_7b_4_  5__4__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Phryg. mit aeol. Schluss
+    Forster I 1539 No. 102]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    'Liebe Mutter, es hungert mich,]
+CNR[gib mir Brot, sonst sterbe ich!']
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[5, S. 280
+    1911 gedruckt in Habelschwerdt]
+KEY[Q0115C 16  G 2/4]
+MEL[  -5_1_1_11  1_3_3__
+    2_3_4_-7_  2_1_1__
+    5_3_3_1_  1__-6__
+    4_3_2_1_  -7_-6_-5__
+    -5_1_1_1_  1_3_3__
+    2_3_4_-7_  2_1_1__ //] >>
+FCT[Ballade, Hunger, Tod]

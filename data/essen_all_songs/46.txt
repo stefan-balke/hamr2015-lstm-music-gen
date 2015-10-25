@@ -1,0 +1,26 @@
+BOEHME
+CUT[FRISCH AUF ZUM FROEHLICHEN JAGEN ES IST NUN AN DER ZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0055  16 Bb 6/8 3/8]
+MEL[-5_  1__1_1_-7_1_  2_1_
+    2_  3__3_2_1_2_  1__.0__
+    -5_  1__1_1_-7_1_  2_1_
+    2_  3__3_2_1_2_  1__.0__
+    34  5__3_3_2_3_  4_2__0__
+    5_  4__4_3_4_3_  2___0_
+    -5_  1__1_1_-7_1_  2_1_
+    2_  3__3_2_1_2_  1__.0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[FRISCH AUF ZUM FROEHLICHEN JAGEN ES IST NUN AN DER ZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0055  16 Bb 6/8 3/8]
+MEL[-5_  1__1_1_-7_1_  2_1_
+    2_  3__3_2_1_2_  1__.0__
+    -5_  1__1_1_-7_1_  2_1_
+    2_  3__3_2_1_2_  1__.0__
+    34  5__3_3_2_3_  4_2__0__
+    5_  4__4_3_4_3_  2___0_
+    -5_  1__1_1_-7_1_  2_1_
+    2_  3__3_2_1_2_  1__.0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Die heilige Familie auf der Flucht nach Egypten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0523  02  C 3/2]
+MEL[1  1_1  1_2  4_4  5_
+    4  3_2  3_
+    1  1_1  1_2  4_4  5_
+    4  3_2  3_
+    1  1_2  334  5_5  3_
+    5  4_3  2_1  3_2  1_
+    3  4_3b  21_  -7b_.  0_
+    -5  -7b_-7b  1_1  3b_3b  2_
+    5  4_3  2_1  2_.  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[H. von Themar, Schoene christenliche Catholische Weinacht...
+    Augspurg 1590 No. 4.]

@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DIE ROSEN UND DIE NELKEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar, Burgsolms]
+KEY[E0647  08  G 6/8]
+MEL[-5  1_1-7_1  2_55_
+    5  4_43_5  2__0
+    2  2_46_5  4_33_
+    3  2_25_4  3__0
+    3  -6_21_-7  1__0 //] >>
+FCT[Liebes - Lied]

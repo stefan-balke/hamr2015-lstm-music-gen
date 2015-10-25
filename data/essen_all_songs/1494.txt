@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Die Holvinger Maedchen,]
+CNR[Die wollen grasen gehn;]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[7, S. 148
+    1918 aufgezeichnet]
+KEY[Q0149G 08  G 2/4]
+MEL[-5  1_-71  2_1
+    2  3153  2_.0
+    2_54  321-6  -5_.0
+    1_2_  3_33  2_
+    3_  5432  1_. //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Vierte Zeile = Refrain auf sinnfreie Silben.]

@@ -1,0 +1,13 @@
+FINK
+CUT[BEFIEHL DU MEINE WEGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1031  08  D 4/4]
+MEL[3_  6_5_4_3_  2__3_
+    7_  +1_+1_767_  6__.
+    3_  6_5_4_3_  2__3_
+    7_  +1_+1_767_  6__.
+    +1_  765_6_7_  +1__+1_
+    5_  6_5_434_  3__.
+    +1_  7+1+2_+1_7_  6__7_
+    3_  4_3_2_5_  3__. //] >>
+FCT[Erbauungs - Lied, religioes, Choral]

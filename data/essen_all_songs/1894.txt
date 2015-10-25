@@ -1,0 +1,11 @@
+FINK
+CUT[EIN HELLER UND EIN BATZEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0042  16  G 2/4]
+MEL[-5_  1_.-71_2_  3__1_
+    1_  3_.23_4_  5__0_
+    3_  4_6_5_4_  3_5_4_
+    3_  2_3_4_2_  3_4_5_
+    43  2_3_4_34  5_0__
+    4_  3_3_2_2_  1__0_ //] >>
+FCT[Trink -, Wander - Lied]

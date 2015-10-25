@@ -1,0 +1,22 @@
+BOEHME
+CUT[VON ALLEN LAENDERN IN DER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0031  16  D 4/4]
+MEL[-1__  -3__-1__-5__-6_-7_  1__2__3__
+    1_.-7  -6__-6__-5__-6__  -4__-5_.-5-3__0_
+    -3_  -2__-5__-5_.-4#-5_.-6  -7___-6___  -5___0__
+    -5__  -5__-2__-2__-3__  -4__-5_.-3-4__0_
+    -4_  -7__-5__1__-5__  2__-7_.23__.
+    2_  1_.-7-6_.21__-7__  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[VON ALLEN LAENDERN IN DER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0031  16  D 4/4]
+MEL[-1__  -3__-1__-5__-6_-7_  1__2__3__
+    1_.-7  -6__-6__-5__-6__  -4__-5_.-5-3__0_
+    -3_  -2__-5__-5_.-4#-5_.-6  -7___-6___  -5___0__
+    -5__  -5__-2__-2__-3__  -4__-5_.-3-4__0_
+    -4_  -7__-5__1__-5__  2__-7_.23__.
+    2_  1_.-7-6_.21__-7__  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

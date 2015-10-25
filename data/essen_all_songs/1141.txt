@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es zogen drei Saenger wohl ueber den Rhein,]
+CNR[sie sangen ein lustiges Liedelein,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Ziegenhain, Willingshausen]
+SRC[2, S. 85
+    1926 aufgezeichnet]
+KEY[Q0041G 08  G 3/4]
+MEL[-5_  1_.11_  -6_-7_1_  2_5_.4  3_0_
+    -5_  1_.11_  -6_-7_1_  2_5_.4  3_0_
+    34  5_3_5_  5_3_6_  5__3_  1_0_
+    11  6_6_55  4_4_2_  5__4_  3_0_
+    34  5_3_5_  5_3_6_  5__3_  1_0_
+    11  6_6_55  4_4_2_  5__4_  3_0_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

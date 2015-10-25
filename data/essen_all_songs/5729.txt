@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Kaeuzlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0173  08  G 6/4]
+MEL[1_  1__1_3__3_  1__2_3__
+    4_  5__4_3__2_  1__.^__
+    1_  1__1_3__3_  1__2_3__
+    4_  5__4_3__2_  1__.^__
+    1_  1__3_2__2_  -5_.-6-7_1__
+    1_  3_5_4_3__2_  1__.^__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III 1549 No. 64.]

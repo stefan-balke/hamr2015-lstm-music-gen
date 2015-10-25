@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[FINSTER IST DIE MITTERNACHT]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+KEY[Z0091  16 Ab 4/4]
+MEL[1_.1  1__.-5_-5__.-4_  -4__-3__0__
+    1_.-6  -6__-5___1_.-6  -6__-5___0__
+    2__.1_-7_-6_-5_-4_  -3_-5_1___0__
+    3__.1_3_1_5_3_  3___2__0__
+    5___.+1__  6___.5_4_  3___.2__  1___0__ //] >>
+FCT[Sagen - Lied, Romanze, Sage]

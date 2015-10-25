@@ -1,0 +1,11 @@
+BOEHME
+CUT[FAHR MICH HINUEBER]
+REG[Europa, Mitteleuropa, Deutschland; Italien]
+KEY[B0719  08  F 3/4]
+MEL[556  5_.445  4_3
+    334  3_.2-6-7  1_0
+    135  +1_.7+2+1  7_6
+    234  6_.523  1_0
+    135  +1_.7+2+1  7_6
+    234  6_.523  1_0 //] >>
+FCT[???]

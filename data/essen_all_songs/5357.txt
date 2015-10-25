@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich habe den Fruehling gesehen,]
+CNR[und habe die Blumen gepflueckt.]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Dransfeld]
+SRC[8, S. 291
+    1865 aufgezeichnet (vor)]
+KEY[Q1155L.08  G 3/4]
+MEL[-5_  1_1_-5_  -3_-5_1_  3_2__  0__
+    -5_  -5_-7_2_  4_.2-7_  1__.  0__
+    3_  3_.33_  3_.21_  1_-6__  0__
+    4_  3_.21_  2_.1-7_  1__.
+    -1_-3_-5_  1__.  -5_-7_2_  4__
+    5_  3_.21_  2_.1-7_  1__.
+    -1_-3_-5_  1__.  -5_-7_2_  4__
+    5_  3_.21_  2_.1-7_  1__.  0__ //] >>
+FCT[Klage - Lied ???]
+CMT[Melodievergleich zu Q0155M., anderes Lied (genetisch verwandt ?).
+    Refrain auf sinnfreie Silben in der fuenften und siebten Zeile.
+    Schlusspause ergaenzt.]

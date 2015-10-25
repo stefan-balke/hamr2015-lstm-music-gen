@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt es ein Jaegerlein jagen,]
+CNR[drei Stuendelein vor es tut tagen,]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+SRC[7, S. 219
+    1940 gedruckt (Umbruchexemplar)]
+KEY[Q0152R 16  C 4/4]
+MEL[5__  3_5_5__3_3_5__  6___6__
+    4__  2_2_4__2__2_4_  5___5_
+    +1_+1_+1_  +1_.+1+1__+1_.+1+1__  6_+1_7_+1_+2_+1_7_
+    6_  5_.5+1__+3_.+3+2__  +1___.
+    5_.5  3__5_.53__5_.5  6__6__6__
+    4_4_  2_2_4_2_2__4__  5__5__5__
+    +1__  +1_.+1+1__+1_.+1+1__  6_+1_7_+1_+2_+1_7_
+    6_  5_.5+1__+3_.+3+2__  +1___. //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott; Trink - Lied]
+CMT[Sauf - Refrain in Zeile 5 und 6.]

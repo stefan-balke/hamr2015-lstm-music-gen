@@ -1,0 +1,10 @@
+FINK
+CUT[DER HIMMEL UNSER HORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0427  16  G 4/4]
+MEL[3__  5__.4_3__2__  1___0__
+    1__  4__.3_4__5__  6___
+    6___  ^__6_.54__3__  2__-5__
+    5___  ^__.6_3__2__  1__
+    1__+1___  ^_5_3_1_5__5__  1___0__ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Krieg]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[LEBE WOHL ES NAHT DIE STUNDE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Weissenburg]
+KEY[E1413  16 Ab 3/4]
+MEL[1_.2  3__.4_3_.2  3__1_
+    3_5_1_  2__.3_4_3_  2___0__
+    2_.1-7_-6_-5_-4_  -3_-5_3__
+    -5_-5_  4_.-73__2__  1___0__
+    1__1__1__  6__4__
+    1__  4__.5_6__  5__3__0__
+    3__2__3__  5__4__
+    -5__  3__.3_2__  1___ //] >>
+FCT[Staende -, Soldaten - Lied, Krieg, Abschied]

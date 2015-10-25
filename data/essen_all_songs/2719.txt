@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN MAEDCHEN WASSER HOLN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0117B 16  F 6/8]
+MEL[-5_  1__3_3_2_1_  -7__2_4__
+    2_  3__5_5_.43_  3__.2__
+    13  5__3_5__+1_  5__4_3__
+    4_  3__1_5_.43_  2__.1__ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

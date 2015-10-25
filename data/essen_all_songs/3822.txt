@@ -1,0 +1,10 @@
+F[ERK3
+CUT[DEM HERRN UND GUTEN FREUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1128  04  C 3/4]
+MEL[1  1_1  1_-6  -5_.  -5_
+    -5  -6_-6  -7_-7  1_
+    1  1_1  1_1  2_2  -7_
+    -7  -7_-6  -7_-7  1_1  -6_
+    1  -7_-6  -6_-5  -5_.  0_ //] >>
+FCT[Trink -, Zech - Lied]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Vater unser]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0630B 02  D 3/2]
+MEL[5  5_3b  4_5  3b_2  1_
+    5  5_4  7b_5  3b_4  5_
+    5  7_+1  +3b_+2  +1_7  +1_
+    +1  +2+2+1  7b_6b  5_4  5_
+    +1  7b_6  7b_5  5_4  3b_
+    5  6b_5  3b_4  3b_2  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Babsts Gsgb 1545 II No. 26]

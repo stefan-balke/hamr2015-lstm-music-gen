@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WENN ALL DIE BAECHLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Brauerschwend]
+KEY[E0429C 08  G 4/4]
+MEL[-5_  -5_1_1_3_  5_3_2_
+    6_  543_2__  1__0_
+    1_  1_3_5_56  5_434__
+    3__5_43  5_2_2_
+    6_  543_2__  1__0_ //] >>
+FCT[Liebes - Lied]

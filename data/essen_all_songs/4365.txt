@@ -1,0 +1,13 @@
+F[ERK3
+CUT[JESU WUNDEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glatz]
+KEY[E2015  04  G 4/4]
+MEL[  1_2_  433_
+    5_43  322_
+    2_32  1_23
+    4_3_  2_0_
+    2_34  322_
+    4_3_  2_0_
+    1_2_  3_54
+    3_2_  1__ //] >>
+FCT[geistlich, Gebet, Jesus - Lied]

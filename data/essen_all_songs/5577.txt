@@ -1,0 +1,9 @@
+KINDER
+CUT[ALLE DIE DAS RINGLEIN LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Berlin; Dessau]
+KEY[K2603  16  G 2/4]
+MEL[  5_5_5_4_  3_3_3_1_
+    2_2_3_3_  54321_0_
+    5_5_5_3_  3_3_3_1_
+    2_2_3_3_  54321_0_ //] >>
+FCT[Kinder - Lied, Pfaender - Spiel]

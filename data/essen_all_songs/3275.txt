@@ -1,0 +1,9 @@
+F[ERK2
+CUT[SCHWARZES BAND DU MUSST VERGEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0720  16  G 3/4]
+MEL[1_-5_  1__3__2_1_  2__4__
+    3_2_  3__5__4_3_  2__0__
+    5_4_  3_4_5_5_6543  2__4__
+    3_2_  1__3__2_.1  1__0__ //] >>
+FCT[Liebes . Lied, Klage, Trost]

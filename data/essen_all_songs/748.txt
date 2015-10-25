@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der verrathene Ritter "
+    GAR HEIMLICH GEHT DER MOND AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1013  16  C 2/4]
+MEL[-5_  1_2_3b_1_  -7_1_2_0_
+    1__5__  4_5_1_
+    1_  2_2_5_5_  3b_23b1__
+    1_-712__  1_-712__
+    1__5_5_  3b_23b1_ //] >>
+FCT[Romanze, Ballade]

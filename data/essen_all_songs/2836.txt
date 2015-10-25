@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES KAM VON EINER NEUSTADT HER]
+REG[Europa, Mitteleuropa, Deutschland, Glogau, Liegnitz]
+KEY[E0200  08  F 3/4]
+MEL[-5  1-5135_  421_0
+    1  -712_5_  54#5_0
+    3  456_.5  465_.
+    4  321243  321_0 //] >>
+FCT[erzaehlendes Volks - Lied, Tod, Toten - Sage, Grabesstimme]

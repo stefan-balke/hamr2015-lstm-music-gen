@@ -1,0 +1,14 @@
+ALTDEU
+CUT[St. Ursula, Koenigstochter von England]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0619  02  F 3/2]
+MEL[112  3_2  1-7-6  -5_.
+    112  3_2  3_.
+    112  3_2  1-7-6  -5_.
+    112  3_2  3_.
+    321  4_3  2_1  2_.
+    321  4_3  2_1  2_.
+    -712  3_1  -7_-6  -7_.
+    543  2_1  -7_-7  -6_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[ F - Dur mit d - moll Schluss. Coelner Gsgb 1625 S. 1625]

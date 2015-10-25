@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit seiner Magd]
+CNR[bis an den hellen Morgen.]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Franken]
+SRC[3, S. 60
+    1855 gedruckt in Leipzig]
+KEY[Q0055Z 16  F 6/8]
+MEL[123__3_  1_1_2_3__3_  1__
+    2_3__3_  4_3_2_2__3_  1__
+    123__33  1__123__3_  1__
+    123__3_  4_.32_2__3_  1__ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

@@ -1,0 +1,13 @@
+F[ERK2
+CUT[AUF DEM BERGE WACHSEN REBEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Weissenburg]
+KEY[E0793  16 Bb 2/4]
+MEL[-1_-3_  -5_.-5-5_-5_  -5_.-5
+    -6_-7_  2_.11_-3_  -5_-5_
+    -6_-3_  -5_.-4-4_-4_  -4_.-4
+    -5_-5_  -7_.-6-5_-4_  -3__
+    -3_.-4  -5__-3_.-4  -5__-5_-5_  3__.2_  1__
+    1_3_  2__4_2_  -7_-7_-6_-7_  1__
+    -3_.-4  -5__-3_.-4  -5__-5_-5_  3__.2_  1__
+    1_3_  2__4_2_  -7_-7_-6_-7_  1__ //] >>
+FCT[Abschieds - Lied, Freundschaft]

@@ -1,0 +1,23 @@
+F[BALLADE
+CUT[Herzog Ernst
+    Ez was ein herre erenrich,]
+CNR[geheizen keiser Friderich,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[1, S. 85
+    1555 gedruckt in Breslau]
+KEY[Q0010  08  E FREI]
+MEL[4_4_4_4_5_6b_4_4__0_
+    6b_6b_6b_5__4_5_4_4__
+    4_5__4_3b_2b_1_1__0_
+    4_4_4_4_5_6b_4_4__0_
+    6b_6b_6b_5__4_5_4_4__
+    4_5__4_3b_2b_1_1__0_
+    1_1_1_3b_3b_4_444_
+    4_4_4_3b_2b_1_-6b_0_
+    -6b_3b_3b_3b_3b_4_4_4__
+    4_4_4_3b_2b_1_1__0_
+    1_1_1_3b_3b_1_-7b_-6b__0_
+    -6b_3b_3b_4_5_6b__5_4__3b2b1__
+    4_5__4_3b__2b_1__-6b_-7b__1___ //] >>
+FCT[Ballade, geistlich]
+CMT[Melodie: Geistliche Kontrafaktur. Kein eigenstaendiger Text gedruckt.]

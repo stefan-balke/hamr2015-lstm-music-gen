@@ -1,0 +1,18 @@
+BOEHME
+CUT[NACHT UND STILL ISTS UM MICH HER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0246  04  G 3/4]
+MEL[  1_1  3_3  212  1_0
+    3_3  5_5  434  3_0
+    2_2  4_4  234  5_.
+    432  1_1  -7-6-7  1_0 //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[NACHT UND STILL ISTS UM MICH HER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0246  04  G 3/4]
+MEL[  1_1  3_3  212  1_0
+    3_3  5_5  434  3_0
+    2_2  4_4  234  5_.
+    432  1_1  -7-6-7  1_0 //] >>
+FCT[Tageszeiten - Lied, Abend]

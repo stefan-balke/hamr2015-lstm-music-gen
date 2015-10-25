@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN JAEGER FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[E0096G 16  F 3/4]
+MEL[-5_1_3_  5__+1__654_  3__0_
+    5_5_5_  5_434_
+    234_4_  4_323_
+    3_542_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

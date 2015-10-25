@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WOL IN DER HAUPTSTADT DANZIG]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau]
+KEY[E0215A 16  D 2/4]
+MEL[1_  5_5_654_  3__54
+    3_  4_4_6_4_  4__3_
+    1_  6_6_+176_  5__65
+    4_  3_3_542_  2__1_
+    1_  6_6_+176_  5__65
+    4_  3_3_542_  2__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe]

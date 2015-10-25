@@ -1,0 +1,15 @@
+KINDER
+CUT[ES REGNET AUF DER BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[K2170  08  F 2/4]
+MEL[-5  1234  5_3
+    3  4_5_  3_0
+    -5  1234  5_3
+    3  4_5_  3_0
+    5  4422  333
+    5  4422  333_
+    4_2_  3_1_
+    4422  3_1_
+    1234  5_0
+    6  5432  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

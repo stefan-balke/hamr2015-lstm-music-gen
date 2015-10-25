@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit einer Dam',]
+CNR[sie spielten beide beisammen]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[3, S. 61
+    ????]
+KEY[Q0055b 16  G 2/4]
+MEL[-5_  1_1_111_  2_-7_-5_0
+    1  -5_-5_-6-6-6_  -7_1_1_
+    33  3_334_22  1_1_1_0
+    1  -5_.-5-6-6-6_  -7_1_1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

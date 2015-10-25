@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Kleiner feiner Almanach"
+    NUR EIN GESICHT AUF ERDEN LEBT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0274  16  C 6/8]
+MEL[-5_  1__314__3_  2__425__
+    4_  3__214__3_  2__.0__
+    -5_  1__314__3_  2__425__
+    4_  3__214__3_  2__.0__
+    -5_  2__312__5_  5__432__
+    4_  3_.21_2_.432  1__.0__ //] >>
+FCT[Lyrisches Lied, Romanze]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die zehnte Tochter
+    Es hiet a muetr nain teachtrlain,]
+CNR[es hiet a muetr nain teachtrlain.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 63
+    1895 gedruckt in Graz]
+KEY[Q0094A 08  G 3/4]
+MEL[-5_  5__3_  2_2_-5_  5__3_  2__
+    23  4_2_31  1_-5_13  2_4_-7_  1__ //] >>
+FCT[Ballade, mythologisch, Vertreibung]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[IN DER STADT HAGENAU GENANNT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein; Elsass]
+KEY[E0215  08  G 3/4]
+MEL[134  5_.654  3_0
+    234  5_.654  3_0
+    353  2_.343  2_0
+    555  5_.342  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe]

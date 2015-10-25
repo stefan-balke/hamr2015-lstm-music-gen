@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[EINST REIST ICH IN DIE WELT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Halle]
+KEY[Z0148  08  F 4/4]
+MEL[-5  11111_02  33333_0
+    4  55554444  3333222
+    4  33221_0 //] >>
+FCT[Erzaehlung, lustige Romanze]

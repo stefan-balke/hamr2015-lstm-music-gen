@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Dorica pase pisano prase]
+REG[Suedosteuropa, Jugoslawien, Kroatien]
+SRC[4, S. 224
+    ????]
+KEY[Q3080C 16  G 6/8]
+MEL[  5_3_1_5__5_  5_432_1__1_ //] >>
+FCT[Liebes - Werbung]
+CMT[Melodievergleich zu Q0080A, anderes Lied.]

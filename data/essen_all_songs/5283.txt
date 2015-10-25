@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich steh auf einem hohen Berg]
+CNR[seh' nunter ins tiefe Thal,]
+REG[Mitteleuropa, Deutschland]
+SRC[8, S. 23
+    1782 gedruckt]
+KEY[Q0155  08  C 6/8]
+MEL[5  1_23b_4  5_54_
+    5  6b_543b4  5_.^_
+    5  56b7b7b6b5  5_44_
+    4  3b45543b  3b_22_
+    5  543b21-7  1_.^_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

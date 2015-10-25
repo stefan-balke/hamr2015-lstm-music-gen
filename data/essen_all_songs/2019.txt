@@ -1,0 +1,11 @@
+FINK
+CUT[HOPP HOPP HOPP MEIN KINDCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0256  08 Eb 2/4]
+MEL[  1356  5_+1
+    1  1356  5_+1
+    5  +2754  35+1
+    5  +2754  351_
+    4567  +10_
+    5  4342  1_0_ //] >>
+FCT[Jugend - Lied, Kinder, Spiel, Kniereiter - Lied]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Unglueckliche"
+    DEN MANN DEN I NIT MAG]
+REG[Europa, Mitteleuropa, Steiermark]
+KEY[Z1210  08  A 3/4]
+MEL[  1_6_6_  6_545_
+    -7_4_4_  4_323_
+    1_6_6_  6_545_
+    -7_4_14  3__. //] >>
+FCT[Liebes - Lied, verlassene Liebe]

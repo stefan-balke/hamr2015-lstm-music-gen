@@ -1,0 +1,13 @@
+BOEHME
+CUT[TREU UND HERZINNIGLICH ROBIN ADAIR]
+REG[Europa, Mitteleuropa, Deutschland; Irland]
+KEY[B0727  16 Bb 3/4]
+MEL[  -5__-6__-7__  1__.2_3__
+    -51_.-61_.-72_.  1___0__
+    -5__-6__-7__  1__.2_3__
+    -51_.-61_.-72_.  1___0__
+    3__3__3__  4__.-6_-6__
+    -5__3__.2_  1__.-6_-5__
+    5__4_3_2_1_  1__.2_3__
+    -51_.-61_.-72_.  1___0__ //] >>
+FCT[Liebes - Lied]

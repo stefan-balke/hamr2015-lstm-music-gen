@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES LEUCHTET SCHON WIEDER]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Fiddichow, Brusenfelde]
+KEY[E0538A 08  C 3/4]
+MEL[56  5_3_+1+2  +3_5_
+    +1+2  +1_.7+16  6_5_
+    +1+2  +1_.7+16  653_
+    +15  542_65  4_3_
+    +1+2  +1_.7+16  653_
+    +15  542_65  4_3_ //] >>
+FCT[Liebes - Lied]

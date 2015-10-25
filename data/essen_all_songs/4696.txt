@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Geistliche Lieder im Jacobston]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0611C 02  A 4/2]
+MEL[    1_3b2  3b455  5_
+    5_  456b5  434_
+    4_54  3b3b1_  -7b__
+    5_3b3b  1143  4_
+    5_  3b213b  2_1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[M Praetorius Mus. Sion. Vii. No. 187]

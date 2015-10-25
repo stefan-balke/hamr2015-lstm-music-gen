@@ -1,0 +1,12 @@
+F[ERK2
+CUT[ET GIENG EN PATF[ERK2E]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E0977  16  C 2/4]
+MEL[-5_  1_3_2_1_  -7_-6_-5__
+    -6_.-5-6_-7_  1__0_
+    -5_  1_3_2_1_  -7_-6_-5__
+    -6_.-5-6_-7_  1__0_
+    1_  2_2_2_3_  4_3_2__
+    3_1_1-71_  2_-7_-5__
+    -6_.-5-6_-7_  1__0_ //] >>
+FCT[Tanz - Lied, Reigen]

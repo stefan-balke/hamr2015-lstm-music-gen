@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HOERT IHR HERRN UND LASST EUCH  SAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen]
+KEY[E1582  08  C 4/4]
+MEL[  1_.15_5_  3_5_3_1_
+    1_1_5_.5  3_5_3_1
+    1  1_1_5_5_  3_5_1_.
+    1  1_1_5_.5  3_5_1__
+    1_1_1_.1  1___ //] >>
+FCT[Staende - Lied, Nachtwaechter]

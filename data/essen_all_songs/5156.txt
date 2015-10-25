@@ -1,0 +1,10 @@
+BOEHME
+CUT[SWAR EINER DEMS IN HERZEN GING]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0690  16  D 2/4]
+MEL[5_  +1_.55_5_  6_.55_05  6_.55_0
+    1  1_.23_.4  3_.22_04  3_.22_0
+    5  6_5_4_3_  2__1_0
+    1  1_.33_.5  5_.+1+1_0
+    5  6_5_4_3_  2__1_ //] >>
+FCT[Scherz - Lied]

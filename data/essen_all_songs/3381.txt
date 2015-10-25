@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ES IST BALD ZEIT ZUM SCHLAFEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahntal; Limburg;
+    Westerwald]
+KEY[E0816E 08  G 4/4]
+MEL[-5_  1_5_5_53  2_321_.
+    2  3_.45_5_  6_543_
+    53  2_5_3_5_  456_5_
+    5_  6_543_5_  3_321_ //] >>
+FCT[Kilt - Lied]

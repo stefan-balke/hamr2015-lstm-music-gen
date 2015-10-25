@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Griechischer Text .....]
+REG[Suedosteuropa, Griechenland]
+SRC[2, S. 239
+    1905 gedruckt in Athen]
+KEY[Q2049L 08  G 7/8        %4+3]
+MEL[4  4__1_-7b  1_2b3_2b_  1__^0_
+    1_2b2b-7b_.  1_2b32b-7b_  1__^0_
+    1_2b2b-7b_.  1_2b32b-7b_  1__^0 //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]
+CMT[Griechische Fassung der Ballade. Pause (Wiederholung) korrigiert.]

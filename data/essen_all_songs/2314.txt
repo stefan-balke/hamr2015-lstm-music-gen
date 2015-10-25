@@ -1,0 +1,13 @@
+FINK
+CUT[AUF DER BERGE FREIEN HOEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0798  08 Eb 4/4]
+MEL[  1_1_3_3_  5_.43_2_
+    1_2_345_  45432_0_
+    1_1_3_3_  5_.43_1_
+    4#_2_5_5_  7654#5_0_
+    -7_1_2_-7_  21234_2_
+    3_.45_5_  4_3_2__
+    3_.21_1_  2_3_4_2_
+    5_6_4_3_  6__-7__  1__0__ //] >>
+FCT[Geselligkeits -, Trink - Lied]

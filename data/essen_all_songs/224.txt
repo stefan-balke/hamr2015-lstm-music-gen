@@ -1,0 +1,18 @@
+BOEHME
+CUT[VOEGLEIN EINSAM IN DEM BAUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0267  16  G 6/8]
+MEL[  -5__1_3b__3b_  3b__2_1__-5_
+    1__2_3b__12  3b__4_5__.
+    4_5_4_3b__3b_  2_3b_2_1__-5_
+    -6b__-4_-5_1_3b_  3b__2_1__. //] >>
+FCT[Stimmungs - Lied, Trauer]
+BOEHME
+CUT[VOEGLEIN EINSAM IN DEM BAUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0267  16  G 6/8]
+MEL[  -5__1_3b__3b_  3b__2_1__-5_
+    1__2_3b__12  3b__4_5__.
+    4_5_4_3b__3b_  2_3b_2_1__-5_
+    -6b__-4_-5_1_3b_  3b__2_1__. //] >>
+FCT[Stimmungs - Lied, Trauer]

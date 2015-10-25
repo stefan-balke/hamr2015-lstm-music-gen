@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es warn einmal zwei Bauernsoehn,]
+CNR[die wollten in den Krieg hinziehn,]
+REG[Mitteleuropa, Deutschland / Polen , Pommern]
+SRC[4, S. 308
+    ????]
+KEY[Q0085O 08  G 3/4]
+MEL[-5_  -511_1_  -7-6-5_.
+    -5  -5-72_2_  2-7-5_.
+    -4  -3-5-5_-5_  -511_.
+    1  123_3_  2-71_ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

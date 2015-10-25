@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Sont trois jolis garcons; s'en vont a la prom'nade.]
+CNR[Sont trois jolis garcons; s'en vont a la prom'nade.]
+REG[Mitteleuropa, Frankreich, Savoie]
+SRC[6, S. 312
+    1910 gedruckt in Paris]
+KEY[Q2139P 16  G 2/4]
+MEL[-5_  1_.-71_2_  3__.2_  5_.43_2_  2__1_
+    -5_  1_.-71_2_  3__.2_  5_.43_2_  2__1_
+    5_  5__5_4_  3__.3_  5_5_4_3_  2__0_
+    -5_  1_.-71_2_  3_3_4__  3_.43_.2  1__. //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Franzoesische Fassung der Ballade. Zweistimmig notiert, Unter- bzw.
+    Mittelstimme kodiert. Notenwert in der letzten Zeile rhythmisch
+    korrigiert.]

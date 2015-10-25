@@ -1,0 +1,11 @@
+FINK
+CUT[HOERT DIE LERCHE SIE SINGT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0281  16  D 6/8]
+MEL[  3__3_4_.34_  5__.+1__0_
+    +3_.+2+1_+1_.76_  5__.3__0_
+    +3_.+2+1_+1_.76_  5__.3__0_
+    2_.34#_5_.64#_  5__.4__.
+    3_.23_4_.34_  5__+1_+3__.
+    +1_5_3_5_4_2_  1__.^__0_ //] >>
+FCT[Jugend - Lied, Natur]

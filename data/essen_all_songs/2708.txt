@@ -1,0 +1,11 @@
+F[ERK1
+CUT[NUN SCHUERZ DICH GRETLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E0113  08  F 3/4 4/4]
+MEL[5_  5__5_  ^_4_3_  1__2_  1__
+    1_  5__5_  ^_4_3_  2_.34_  3__
+    2_  1_1_-7_-5_  -6__-7_  1__
+    3_  2__1_  -7_-6__  -5__.  ^_0_
+    5_  5__4_  3_2__  1__.  ^_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, betrogene Liebe
+    Ballade ?]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[MEIN TRAUTEL HAELT MICH FUER UND FUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0699  16  G 2/4]
+MEL[13  5_5_4_4_  3_3_2_
+    2_  1_1_2_2_  3__1_
+    13  5_5_4_4_  3_3_2_
+    2_  1_1_2_2_  3__1_
+    3_  2_5_4_3_  2_6_5_
+    4_  3_4#_5_6_  7__5_
+    5_  +1_+1_7_6_  5_5_4_
+    3_  2_6_5_-7_  1__-5_ //] >>
+FCT[Scherz -, Spott - Lied]

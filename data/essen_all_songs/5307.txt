@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge,]
+CNR[schaute hin und schaute her,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Eder, Kleinern]
+SRC[8, S. 77
+    1931 aufgezeichnet]
+KEY[Q0155X 16 Eb 3/4]
+MEL[1__  3__.3_3_3_  2_5_5__
+    3_.2  1__.2_3_5_  2__.
+    1_1_2_  5__3_.56_.5  5_4_2__
+    6_6_  5__.3_4_2_  1__.
+    1_1_2_  5__3_.56_.5  5_4_2__
+    6_6_  5__.3_4_2_  1__.0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe]
+CMT[Schlusspause korrigiert.]

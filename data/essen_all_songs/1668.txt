@@ -1,0 +1,21 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'What'll ye leave to your mother,]
+CNR[Henry, my son?]
+REG[Westeuropa, England]
+SRC[4, S. 210
+    1925 gedruckt in Aberdeen]
+KEY[Q2079Q 08  G 2/4]
+MEL[(-5-5-5)  1_2-7  1_3_
+    5_66  5_
+    (-5-5-5)  1_2-7  1_3_
+    5_42  1_
+    3_  4564  35
+    53  4_32  1-7
+    -6-5  1_2-7  1_
+    34  5_42  1-7
+    -6-5  1_2-7  1_
+    34  5_42  1_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Englische Fassung der Ballade.
+    Zweite und vierte Zeile = Refrain.]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Hauptmannstochter
+    Dje mi to drincken gaue,]
+CNR[ic songhe hem een nieuwe liet,]
+REG[Mitteleuropa, Niederlande]
+SRC[5, S. 138
+    1934 gedruckt]
+KEY[Q3101C 08  G 6/4]
+MEL[1_1_1_  2__2_3b_1__  -7b__
+    -7b_3b__4_  5__4_5__43b  2__.
+    5_5_5_  3b_4__3b_2_1_  -7b__0_
+    1__2_  3b_4__3b_2__  1___.  0__. //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0101D, anderes Lied. Uebertragung von Q0101B
+    auf den Balladentext "Frau von Weissenburg" . Schlusspause ergaenzt.]

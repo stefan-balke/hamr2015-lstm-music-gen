@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Ein guter Hirt im Walde hut',]
+CNR[der hoerte schrein ein Kindelein.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[5, S. 268
+    1842 gedruckt in Leipzig]
+KEY[Q0114M 08  G FREI]
+MEL[5_  +153_43  5_231_
+    2_  1-51_2_  5_23  1_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

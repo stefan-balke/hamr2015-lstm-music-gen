@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ALLE LEUTE SOLLENS WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0619B 08  F 3/4]
+MEL[12  3_3_42  233_
+    34  5_4321  -722_
+    23  4_.654  3_0_
+    5+1  6__54  3_.42_  1_0_ //] >>
+FCT[Liebes - Lied, Abschied]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Jaeger und Graefin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0438  04  F 4/2 6/2]
+MEL[1_  1_1_1_1_  -7__-5__0_
+    -5_  1__2_3__4_  2__.
+    1_  1_1_1_1_  -7__-5__0_
+    -5_  1__2_3__4_  2__.
+    2_  3_3_4_4_  5__5__0_
+    5_  4_.32_3_  ^_4_2__  1___
+    3__  5__3_4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Forster IV 1556 No. 17.]

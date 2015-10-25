@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Einst stand ich auf hohen Felsen]
+CNR[und schaute hinunter ins Tal,]
+REG[Osteuropa, Tschechoslowakei, Boehmen, Egerland, Hostau, Muttersdorf]
+SRC[8, S. 102
+    1960 aufgezeichnet]
+KEY[Q0155n 08  E 6/8]
+MEL[-5  3211-71  22_0_
+    -5  432212  3_.0_
+    -5  3211-71  -6_443
+    2  1-71322  1_.0_
+    -5  3211-71  -6_443
+    2  1-71322  1_.0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]
+CMT[Pause in der vierten und letzten Zeile ergaenzt.]

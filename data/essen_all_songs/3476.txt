@@ -1,0 +1,8 @@
+F[ERK2
+CUT[SCHAU WOL TRITT DER HANSLEIN DAHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0944  08  F 3/4]
+MEL[  3__3_  1__1_  2_.22_  1__
+    1_  3__3_  1__1_  2__2_  1__
+    4_  3_.21_  2_.1-7_  1_1_2_  1__. //] >>
+FCT[Tanz - Lied, Reigen]

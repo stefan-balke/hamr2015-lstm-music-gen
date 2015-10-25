@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Graf von Rom
+    Gott hat den mensch fur allen]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[1, S. 144
+    1555 gedruckt in Breslau]
+KEY[Q0014C 04  F FREI]
+MEL[1  113_1  3_45_
+    5  65_434  5_0_
+    1  113_1  3_45_
+    5  65_434  5_0_
+    5  555_5  4_2_
+    5_  4_231_  -7_0
+    5  555_1  3_45_
+    6  5_342_  1_ //] >>
+FCT[Ballade, Pilger - Reise, Gefangenschaft, Befreiung, Ehe, Liebe;
+    geistlich]
+CMT[geistliche Kontrafaktur mit Tonangabe des "Bruder-Veiten-Ton" , der
+    ebenfalls zu dieser Ballade gesungen wurde.
+    Eingeklammerte Pausen kodiert.]

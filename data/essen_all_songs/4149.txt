@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ZU FRANKFURT AN DER ODER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Limburg, Nauheim]
+KEY[E1618  16 Eb 6/8]
+MEL[-5_  1__1_1_-7_1_  2_2_0__.
+    -7_  2__2_2_3_4_  5__.0__
+    3_  5__5_5__5_  6_6_0__.
+    6_  6_.66_6_5_4_  3__.0__
+    5_  5__442_3_4_  6_5_5_5_4_
+    3_  5__5_5__+1_  6_6_0__.
+    6_  6_.66_6_5_4_  3__.0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied]

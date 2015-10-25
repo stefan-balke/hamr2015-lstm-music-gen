@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Ach Mutter, liebe Mutter mein,]
+CNR[lasst mich nur noch ein Jahr daheim,]
+REG[Osteuropa, Tschechoslowakei, sudetendeutsch]
+SRC[2, S. 187
+    1865 gedruckt in Troppau]
+KEY[Q0047I 08  D 4/4]
+MEL[1_  1_3_3_5_  5_5_6_
+    5_  5_4_4_3_  656_5_
+    42  1_354_2_  3_2_1_ //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]
+CMT[Pause im Schlusstakt korrigiert (weggelassen) .]

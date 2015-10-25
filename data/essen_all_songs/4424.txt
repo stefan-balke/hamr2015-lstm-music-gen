@@ -1,0 +1,11 @@
+F[ERK3
+CUT[EIN SULTAN HATT EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+KEY[E2128  16  G 3/4]
+MEL[1_  1_3_5__4_2_  1_3_3__.
+    2_  1_3_5__4_3_  3__2__
+    5__  3_4_5__.31  4_4_+1__.
+    6_  +1_3_3__4_2_  2__1__0_
+    5_  3_4_5__.31  4_4_+1__.
+    6_  +1_3_3__4_2_  2__1__0_ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

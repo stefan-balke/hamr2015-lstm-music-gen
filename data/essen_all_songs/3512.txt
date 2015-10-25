@@ -1,0 +1,14 @@
+F[ERK2
+CUT[SYV SPRING]
+REG[Europa, Mitteleuropa, Daenemark, Vendsyssel]
+KEY[E0992C 08  G 2/4]
+MEL[-5  1234  5_3
+    5  4_24  3_3
+    2  1234  5_3
+    5  42-72  1_0_
+    2_2_  2_
+    23  21-7-6  -5-6-71
+    2_2_  2_
+    23  21-7-6  -5__
+    5__  1__  5__  1_0 //] >>
+FCT[Tanz - Lied, Reigen, Siebensprung]

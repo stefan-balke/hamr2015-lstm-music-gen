@@ -1,0 +1,10 @@
+F[ERK3
+CUT[MARTIN WAR EIN FROMMER MANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1270A 04  F 4/4]
+MEL[  5_3_  5_3_
+    1234  553_
+    1234  553_
+    1234  553_
+    6543  221_ //] >>
+FCT[Ansinge -, Kinder -, Brauchtums - Lied, Kirchen - Fest, Sankt Martin]

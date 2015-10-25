@@ -1,0 +1,10 @@
+FINK
+CUT[HILDEBRAND UND SEIN SOHN HADUBRAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0824  08  G 2/4]
+MEL[  111_  313_  5_.5  5_0_
+    111_  212_  3_.3  3_0_
+    (432)(1-7-6)  -5#_-6_
+    (-712)(123)  5_3_
+    (432)(1-7-6)  3__  3__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Hildebrand - Lied]

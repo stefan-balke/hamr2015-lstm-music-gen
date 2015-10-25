@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ANNA SASS AUF EINEM STEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[E0042M 08  F 2/4]
+MEL[5  6542  133_
+    244_  355
+    5  6542  5_5_  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage, Kinder - Lied
+    Ballade ?]

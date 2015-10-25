@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es wollt' ein Maegdlein einen Freier habn,]
+CNR[und sollt' sie ihn aus der Erde grabn]
+REG[Mitteleuropa, Deutschland / Polen, Soldin, Adamsdorf]
+SRC[2, S. 269
+    ????]
+KEY[Q1051L 16  G 6/8 5/8    %%3+2%]
+MEL[-5_1_2_  3_.2112_2_  -5__
+    -7_2_3_  4_3_2_3_3_  -5__.
+    1__-3_  -5_-5_-5_2__-5_  1_121_
+    -5_1_2_  3_2_1_2_1_-7_  1__0_ //] >>
+FCT[Hochzeits - Lied]
+CMT[Melodievergleich zu Q0051E, anderes aber textverwandtes Lied.
+    Dritte und vierte Zeile Refrain, dritte Zeile auf sinnfreie Silben.]

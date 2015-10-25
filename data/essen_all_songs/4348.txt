@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ALL WELT SOLL BILLIG FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1978  04  C 3/4]
+MEL[+1  +1_+1  +1+3+2  +176  5_
+    7  +1_7  6_5  6+1+1  7_
+    5  345  6_5  5_3  1_
+    2  3_2  3_6  654  3_ //] >>
+FCT[geistlich, Fest - Lied, Ostern]

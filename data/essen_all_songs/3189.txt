@@ -1,0 +1,9 @@
+F[ERK2
+CUT[AFM WASSA BIN I GFOAHRN]
+REG[Europa, Mitteleuropa, Deutschland, Oesterreich]
+KEY[E0656  08  G 3/4]
+MEL[1_  -7_247+2  +3+15_.
+    6  544_4-7  1_3-5
+    1_  -7_247+2  +3+15_.
+    6  544_4-7  1__ //] >>
+FCT[Liebes - Lied]

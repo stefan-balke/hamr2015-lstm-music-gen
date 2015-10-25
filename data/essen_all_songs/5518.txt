@@ -1,0 +1,12 @@
+KINDER
+CUT[WOLLT IHR WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Dillkreis; Lahnkreis]
+KEY[K2239A 16  G 3/4]
+MEL[1_3_  5__5__6_5_  5_.43__
+    1_3_  5__5__6_5_  5_.43__
+    1_1_  3__2__-5__  1___
+    1__  5___6_5_  5_.43__
+    (1_1_1_)  3__2__-5__  1___
+    1__  5___6_5_  5_.43__
+    (1_1_1_)  3__2__-5__  1___. //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

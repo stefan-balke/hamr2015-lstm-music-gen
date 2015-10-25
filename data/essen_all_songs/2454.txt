@@ -1,0 +1,12 @@
+FINK
+CUT[WOHL IN DEM HOLDEN MAIENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1131  08  G 4/4]
+MEL[-5_  1_123_34  5_4#65_
+    1_  4_146_46  +1_.65_
+    3_  3__2_6_  7__5_
+    55  6__4#__  5_0__
+    2_  4_.32_4_  6_.54_
+    4_  3_.45_+1_  +1_765_
+    4_  3__3_2_  1__. //] >>
+FCT[Liebes - Lied]

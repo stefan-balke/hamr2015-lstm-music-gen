@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DER KUCKUK AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0881  08  A 6/8]
+MEL[-5  1_1321  2_-71_
+    5  3_52_5  11-71_
+    3  2_2-7_2  1-7-6-5_
+    -5  1_12_2  3_.54
+    2  1_1332  1_0_. //] >>
+FCT[Hochzeits -, Ehestands - Lied]

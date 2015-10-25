@@ -1,0 +1,13 @@
+BOEHME
+CUT[SCHOENE MINKA]
+REG[Europa, Mitteleuropa, Deutschland; Russland (Melodie)]
+KEY[B0721  08  A 4/4]
+MEL[  1_.-71_.-7  1_3b_2_1_
+    -7_.-6-7_.-6  -7_2_1_-7_
+    1_.-71_.-7  1_3b_2_1_
+    -72255_.-7  1__0__
+    3b_.23b_.2  3b_5_4_3b_
+    2_.12_.1  2_4_3b_2_
+    1_.-71_.-7  1_3b_2_1_
+    -72255_.-7  1__0__ //] >>
+FCT[Liebes - Lied, Abschied]

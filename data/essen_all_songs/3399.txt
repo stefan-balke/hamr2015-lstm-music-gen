@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ACH MUTTER S HAT FREIER HIER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Liegnitz]
+KEY[E0837  08  C 3/8]
+MEL[-5  113  111  -5-5-5  1_
+    -5  113  111  -5-5-5  1_
+    -5  222  1-6-5  333  2_
+    5  222  333  -6-6-7  1_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

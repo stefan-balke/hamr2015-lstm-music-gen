@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Berge]
+CNR[und schau ins tiefe Tal,]
+REG[Suedosteuropa, Rumaenien, Bukowina, Alt - Fratautz]
+SRC[8, S. 95
+    1941 aufgezeichnet in einem Rueckwandererlager]
+KEY[Q0155j 08  F 6/8]
+MEL[-5  3_32_2  1_.2_
+    2  3_36_6  5_.0_
+    5  555+176  6_.5_
+    5  565425  3_.0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]

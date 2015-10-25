@@ -1,0 +1,13 @@
+ALTDEU
+CUT[So trinken wir alle]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0330  04  F 4/2]
+MEL[1_  3_3_4__  5__3__
+    4_4_5_43  2__1__
+    4_4_4_2_  3_3_3_
+    1_  2_1_4_3_  2__1__
+    4_4_4_2_  3_3_3_
+    1_  2_1_4_3_  2__1_
+    1_  1__-5_1_  1__-5_1_  1__-5_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[H. Finck 1536 No. 45.]

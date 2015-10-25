@@ -1,0 +1,13 @@
+KINDER
+CUT[BLAUER BLAUER FINGERHUT]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt]
+KEY[K2186  08  C 2/4]
+MEL[  5566  553_
+    5566  553_
+    5566  5_3
+    1  5566  5_3_
+    5566  5_3_
+    5_66  5_3_
+    5566  553_
+    5566  5_30 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

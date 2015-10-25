@@ -1,0 +1,9 @@
+FINK
+CUT[SCHOENSTER SCHATZ MEIN ENGEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0928  16  F 3/8]
+MEL[3_4_  5__+1_  5_3_0_
+    5_3_5_  4__5_  3__0_
+    5_3_1_  2__54  3_1_0_
+    5_3_1_  2_.123  1__0_  0_ //] >>
+FCT[Liebes - Lied, Klage]

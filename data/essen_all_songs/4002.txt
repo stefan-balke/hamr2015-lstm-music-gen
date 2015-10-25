@@ -1,0 +1,10 @@
+F[ERK3
+CUT[KATHRINCHEN TRAU NUR NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Lahn - Gegend]
+KEY[E1423  08  G 4/4]
+MEL[-5_  1_.23_4_  5__0_
+    6_  5_.34_5_  3__0_
+    5_  3_5_6_.5  6_5_0_
+    43  2_6_5_.6  5_3_0_
+    6_  5_5_3_6_  5_5_3_ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe]

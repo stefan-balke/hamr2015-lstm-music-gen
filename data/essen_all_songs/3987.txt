@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ZUM SOLDAT BIN ICH GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Marburg, Ziegenhain,
+    Dill - Kreis; Westfalen, Kreis Wittgenstein]
+KEY[E1405  08  G 3/4]
+MEL[-5-5  1_.233  2_1_
+    34  5_.435  2_0_
+    23  4_.654  3_2_
+    13  2_5_44  3_0_ //] >>
+FCT[Staende -, Soldaten - Lied, Invaliden]

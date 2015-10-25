@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ES REISTEN DREI SCHAEFER AUS BRESLAU RAUS]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Liegnitz]
+KEY[E1492  16  G 3/4]
+MEL[-5__  1_1_1__3__  3_.22__.
+    1_  2_.22__4__  4__3__
+    -5__  1_1_1__3__  3_.22__.
+    1_  2_.22__4__  4__3__0_
+    1_  5_.56__.5_  5_.44__.
+    4_  3_.33__1__  2_.22__
+    3__  4___3__  5___
+    4__  3_.35_4_3__  2__1__ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

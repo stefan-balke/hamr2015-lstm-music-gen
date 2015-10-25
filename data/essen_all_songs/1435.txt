@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Bai Raedder
+    Ohne Text]
+REG[Mitteleuropa, Deutschland (BRD) , Nordsee, Foehr]
+SRC[3, S. 282
+    1924 aufgezeichnet]
+KEY[Q0071C 04  G 4/4]
+MEL[-5  1111  1-6-5
+    -5  -6-6-7-4  1_.
+    -5  1111  1-6-5_  1-6-5_  1-6-5_
+    -6-6-7-4  1_. //] >>
+FCT[Ballade, Verleumdung, Moral, Mord]
+CMT[Ohne Textunterlegung. Phraseneinteilung etwas unklar.]

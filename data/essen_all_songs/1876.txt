@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Het klokje sloeg halef elven,]
+CNR[toen kwam er de ruiter ja zelven.]
+REG[Mitteleuropa, Niederlande, Provinz Noord - Brabant, Ospel]
+SRC[6, S. 283
+    ????]
+KEY[Q2139K 16  G 4/4]
+MEL[-5_  1__-7_-6_2__3_.2  1__-5__0__.
+    -5_  1__-7_-6_2__3_2_  1__-5__0__.
+    3_  3_3_3_3_3_1_0_3_  335_4_3_2__0_
+    2_  2_2_2_2_3_2_1_.3  2_2_-6_-7_1__0_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Transkription einer Tonaufnahme. Ein Taktstrich in der 1. Zeile
+    weggelassen. Niederlaendische Fassung der Ballade.]

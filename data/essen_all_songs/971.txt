@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Bitte und Gewaehrung"
+    DU HEARZIG SCHOENS SCHATZERL]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1236  08  F 3/4]
+MEL[1_  21-712-7  1_35
+    1_  654#564#  5_7+2
+    5_  5+4+2_.5  5+3+1_.
+    3  6_434-7  1_0_ //] >>
+FCT[Liebes - Lied]

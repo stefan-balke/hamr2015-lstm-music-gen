@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Es welken alle Blaetter,]
+CNR[sie fallen all auf mich,]
+REG[Mitteleuropa, Deutschland (BRD) , Franken, Haselbach v.d. Rhoen]
+SRC[8, S. 82
+    1933 aufgezeichnet]
+KEY[Q0155a 16 Bb 2/4]
+MEL[-5_  1_.-5-3_-5_  1_3_3_
+    5_  2_.1-7_1_  2__0_
+    12  3_.33_.3  3_5_4_
+    33  2_.44_.4  4_6_5_
+    54  3_3_2_2_  3__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[BRUEDER LASST UNS LUSTIG SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1688B 16  D 3/4]
+MEL[  1_.-5-5__.1_  -6_-6_-6___
+    -7_.12__-7__  1__-1__0__
+    1_.-5-5__.1_  -6_-6_-6___
+    -7_.12__-7__  1__-1__0__
+    -7_.12__2__  3_.12___
+    -7_.12__2__  3_.12___
+    1_.-7-6__4_2_  1_-7_1___ //] >>
+FCT[Staende -, Studenten - Lied]

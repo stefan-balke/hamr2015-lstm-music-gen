@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Prinz Eugen vor Ryssel"
+    LILGE DU ALLERSCHOENSTE STADT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1142  16  G 4/4]
+MEL[  1__-5_.-5-3__-5__  1__1__1__0__
+    3__3__2__3__  4__3__2__0__
+    2__2__5__5__  2_1_-7_-6_-7__-5__
+    2__2__5__5__  2_1_-7_-6_-7__-5__
+    1__1__2__2__  3__3__2__0__  3__3__2__0__
+    5__.4_3__3__  2__2__1__0__ //] >>
+FCT[Vaterland und Wehr]

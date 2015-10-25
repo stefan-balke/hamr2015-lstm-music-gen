@@ -1,0 +1,10 @@
+KINDER
+CUT[ES SITZT NE FRAU IM RINGELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K2067  08  G 2/4]
+MEL[-5  1133  221
+    1  3355  443
+    3  556_  445
+    3  334_  223
+    5  2_15  2_1 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

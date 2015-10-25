@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ZU PRESSBURG STELL ICHS MEIN UNGLUECK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1396  16 Bb 2/4]
+MEL[-5_  1__-7_1_  2__1_
+    2_  3_3_2_3_  4_3_20
+    3_  3_3_2_3_  4__0_
+    3_  2_2_1_2_  3__0_
+    2_  3_3_2_2_  1__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Deserteur]

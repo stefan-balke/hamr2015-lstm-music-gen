@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES SPIELT EIN GRAF MIT EINER MAGD]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau]
+KEY[E0110D 08  G 3/4]
+MEL[-5  123_.2  3b45_.
+    3b  456_5_  4_3b_0
+    1  352_.4  3b51_.
+    2  345_3_  2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

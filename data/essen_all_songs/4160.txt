@@ -1,0 +1,15 @@
+F[ERK3
+CUT[DIE SCHNEIDER HIELTENS GRINDELFEST]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E1634  16  G 2/4]
+MEL[-5_  -5_1_1_1_  -7_.-6-5_
+    -5_  1_1_2_2_  3__0_
+    -5_  -5_1_1_1_  -7_.-6-5_
+    -5_  1_1_2_2_  3__0_
+    3_  3_.33_3_  3__5__
+    2_.22_2_  2__5_.
+    4  3_3_2_2_  1__0_
+    3_  3_.33_3_  3__5__
+    2_.22_2_  2__5_.
+    4  3_3_2_2_  1__0_ //] >>
+FCT[Staende -, Handwerker - Lied, Schneider]

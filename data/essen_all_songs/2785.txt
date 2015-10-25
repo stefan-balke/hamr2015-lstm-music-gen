@@ -1,0 +1,9 @@
+F[ERK1
+CUT[NAECHTEN ALS ICH SCHLAFEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0173  08  G 3/4]
+MEL[-5  1-51_1_  -712_.
+    2  321_2_  432_0
+    4  352_.4  351_.
+    2  315_31  2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen, Liebe]

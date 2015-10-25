@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Bie vrie ischt auf d'r Edelmonnsch Shuhn!]
+CNR[Bie vrie ischt auf d'r Edelmonnsch Shuhn!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 218
+    1907 aufgezeichnet]
+KEY[Q0048M 08 Ab 3/2]
+MEL[1_  3_-7_1__3__  331_3__.
+    2_  1_-7_1__2__  11-7_1__. //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]

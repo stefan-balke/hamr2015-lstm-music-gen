@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Og Greven har sovet hos Jomfru'n i Nat,]
+CNR[og hun blev saa ilde bedaaret.]
+REG[Nordeuropa, Daenemark]
+SRC[3, S. 56
+    1891 gedruckt]
+KEY[Q2055S 08  A 4/4]
+MEL[-5  1-71-6-5_-5-5  1-71-6-5_.
+    -5  1-7123_53  2__10_
+    -5  1-71-6-5_.-5  1-71-6-5_.
+    -5  1-7123_53  2__10_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Daenische Fassung der Ballade. Dritte Zeile = Refrain auf
+    sinnfreie Silben.]

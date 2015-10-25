@@ -1,0 +1,9 @@
+F[ERK2
+CUT[SOLL SICH DER MOND NICHT HELLER SCHEINEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+KEY[E0819  08 F# 3/4]
+MEL[-512  3b_2_45  3b21
+    13b4  5_3b543b  2_0
+    256  7b_5_6b5  4_2
+    23b4  5_3b_23b  1_0 //] >>
+FCT[Kilt - Lied]

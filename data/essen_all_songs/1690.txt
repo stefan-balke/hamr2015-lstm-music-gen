@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der ausgeweidete Jaeger
+    Bie vrie ischt auf khluains Jagerle.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Oberwetzenbach]
+SRC[4, S. 230
+    1909 aufgezeichnet]
+KEY[Q0082  04  C 3/4]
+MEL[1  424  311  -722  1_ //] >>
+FCT[Ballade, Magie]
+CMT[Grundton in der zweigestrichenen Oktave. Melodie wird durch
+    Wiederholung (Text + Musik) zum Zweizeiler.]

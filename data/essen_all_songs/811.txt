@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Auf der Lauer"
+    ALS ICH AN EINEM SOMMERTAG]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1076  16  E 3/4]
+MEL[-5_1_2_  3__.4_2_3_  1_-7_1_
+    2_3_4_  5__.6_4_5_  3__.
+    -5_1_2_  3__.4_2_3_  1_-7_1_
+    2_3_4_  5__.6_4_5_  3__.
+    1_1_1_  6_7_+1_6_6_6_  5_.43_
+    5_5_5_  4__.4_5_5_  3__.
+    1_1_1_  6_7_+1_6_6_6_  5_.43_
+    5_5_5_  4__.4_5_5_  3__0_ //] >>
+FCT[Romanze, Ballade, Jaeger - Lied]

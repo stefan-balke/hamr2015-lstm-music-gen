@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Neujahrslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0529A 02  D 4/1]
+MEL[   1_5_2_4_  3b_2_1_0
+    1  556_7b_6_  5_4#_5_0
+    5  +1_6_7b_5_  4_3b_2_0
+    2  1_552_4_  3b_2_1_0
+    1  -7b_112_1_  4_2_3b_
+    5_  43b213b_2_  1__0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Obsequale. Ingolstadt 1570 No. 12.]

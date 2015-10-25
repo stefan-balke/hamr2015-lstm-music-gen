@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DU DU LIEGST MIR IM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+KEY[E0578  08  F 3/8 6/8]
+MEL[  3_.  3_.  323  5_4
+    2_.  2_.  212  3_0
+    3_.  3_.  323  5_4
+    234  65-7  1_.  0_.
+    6_.5_.  7_.+1_0
+    23465-7  1_.0_. //] >>
+FCT[Liebes - Lied]

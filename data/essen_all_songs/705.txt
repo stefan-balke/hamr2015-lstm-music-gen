@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[DIE SONNE SCHEINT NICHT MEHR SO SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland, Westrich]
+KEY[Z0288  16  G 2/4 3/4]
+MEL[32  1_-5_1_2_  3__.
+    32  1_1_3_4_  5__.
+    5_  5_5_+1_6_  5__65
+    4_  3_3_2_2_  1__0_
+    -5_  1_3_5_3_+1_6_  5_3_1__.
+    -5_  3_3_5_3_+1_6_  5_3_1__.
+    -5_  1_3_5__+1__  6__.
+    6_5_4_  3___2__  1___0_ //] >>
+FCT[Lyrisches Lied, Romanze, Trennung]

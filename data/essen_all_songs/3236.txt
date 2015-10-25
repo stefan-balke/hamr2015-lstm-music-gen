@@ -1,0 +1,13 @@
+F[ERK2
+CUT[WO GEHST DU HIN DU STOLZE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Alsfeld]
+KEY[E0696  08  D 6/8]
+MEL[1  1_35_6  5_+13_
+    5  5_42_-7  1_.0_
+    1  1_35_6  5_+13_
+    5  5_42_-7  1_.0_
+    5  4#_2234#  5_77_
+    7  +1_6+2+16  5_.^_
+    4  3_55_6  5_+13_
+    5  6_54_2  1_.0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

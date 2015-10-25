@@ -1,0 +1,20 @@
+BOEHME
+CUT[WO MAN SINGET LASS DICH RUHIG NIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0317  16 Eb 4/4]
+MEL[3_4_  6_5_3__5_5_+1_7_  7__6__0__
+    6_6_  5__.3_2_2_6_5_  4__3__0__
+    5_5_  5_-7_-7__5_5_6_7_  +1___0__
+    5_5_  5_7_7__5_5_6_7_  +1___0__
+    5_.5  5__+1__7_.54_.2  2__1__0__ //] >>
+FCT[Geselligkeits - Lied, Freude]
+BOEHME
+CUT[WO MAN SINGET LASS DICH RUHIG NIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0317  16 Eb 4/4]
+MEL[3_4_  6_5_3__5_5_+1_7_  7__6__0__
+    6_6_  5__.3_2_2_6_5_  4__3__0__
+    5_5_  5_-7_-7__5_5_6_7_  +1___0__
+    5_5_  5_7_7__5_5_6_7_  +1___0__
+    5_.5  5__+1__7_.54_.2  2__1__0__ //] >>
+FCT[Geselligkeits - Lied, Freude]

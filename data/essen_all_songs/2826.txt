@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES FIEL EIN REIF IN FRUEHLINGSNACHT]
+REG[Europa, Mitteleuropa, Deutschland, Nieder - Rhein ?]
+KEY[E0192  16  G 6/8]
+MEL[-5_  1__3b_2_1_-7b_  3b__4_5_.4
+    5_  1__3b_2_1_-7b_  3b__4_5__
+    5_  5_.43b_4_2_5_  1__1_-7__
+    -7b_  3b__4_5_4_3b_  2_3b_2_1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

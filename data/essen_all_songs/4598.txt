@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Marias Wiegenlied und das Resonet]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0521B 04  F 6/4]
+MEL[   5_31_3  5_65_.
+    5_31_3  5_65_.
+    4_44_5  4_32_
+    3  5_31_3  2_12_3  1_-71_.
+    5_.3_.  5_.3_.  1_23_4  3_23_.
+    1_23_4  3_23_3  1_-71_.
+    5_55_5  +1_76_
+    5  +1_76_5  5_4#5_.
+    1_23_4  5_43_
+    2  3_21_-7  1_.^_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[J. Walthers Gsgb. 1544 No. 40.]

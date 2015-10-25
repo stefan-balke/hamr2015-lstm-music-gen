@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Der weltliche Rosenkranz - Ton]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0355  02  F 3/1]
+MEL[5_  5__5_  1__1_  4__3_  2__
+    2_  6__6_  5__4_  3_.453  4_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzel 1544 Quodl. 8.]

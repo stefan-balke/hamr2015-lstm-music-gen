@@ -1,0 +1,13 @@
+F[ERK1
+CUT[JOSEPHUS DER ROEMISCHE KAISER]
+REG[Europa, Mitteleuropa, Deutschland, Odenwald]
+KEY[E0337  08  G 6/8]
+MEL[-5  -511123  3_.2_
+    5  533422  3__0
+    -5  -511123  3_.2_
+    5  533422  3__0
+    1  1_33_5  5_34_
+    3  322234  4_23_
+    -5  -511123  3_.2_
+    5  533422  2_.10 //] >>
+FCT[historisches Lied, Tod Kaiser Joseph II (1790)]

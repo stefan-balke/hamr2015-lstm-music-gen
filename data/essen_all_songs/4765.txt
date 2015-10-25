@@ -1,0 +1,12 @@
+DVA
+CUT[Haescher des Herodes
+    Jetzt kraehen die Hahne, jetzt wird es bald Tag,]
+CNR[da wollen wir gehoeren, was Maria sprach]
+REG[Europa, Mitteleuropa, Lothringen, Morsbach ( Kr. Forbach )]
+KEY[D0007  08  E FREI]
+MEL[-7b2  3b_3b_21  -7b_-7b_
+    3b4  5_3b_423b__
+    5_  4_4_543b_1_
+    2_3b_1_2_1__ //] >>
+FCT[Legenden - Lied, Weihnachten]
+CMT[Inzipit = Variante zum Lied; Verzierung]

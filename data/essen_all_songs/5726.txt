@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Alte Kuckukslieder (Kuckuks Verachtung)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0170B 08  F 3/4]
+MEL[1_  3__2_  3__4_  5__
+    5_  5_.43_  4_3_2_  1__
+    3_  4__4_  3__1_  2__2_  1_1_
+    1_  4__4_  3__1_  2__2_  1_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus Fragmenten in Schmeltzels neuntem Quodlibet (1544) von mir
+    zusammengefuegt. Anders und ohne alle musikalische Ruecksicht
+    von Uhland No. 14 zusammengesetzt.]

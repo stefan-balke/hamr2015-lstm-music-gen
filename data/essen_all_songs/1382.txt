@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Als ich ein kleines Buewelein war,]
+CNR[da lehrt' mich mein Vatere geigen;]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Rechicourt]
+SRC[3, S. 167
+    1937 aufgezeichnet]
+KEY[Q0062  16  F 6/4]
+MEL[  5__3__2__1___1_2_  3__.3_4__5___
+    1_5_  5__5__5__+1__.+2_+1_7_  6__.+1_5_6_5__0__
+    5__  +1__.7_+1_7_6__.5_4__  4__5__6__5___
+    1_3_  3__.5_5__5__4__3_.4  2___1__1___. //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied, Strafe, Gnade]

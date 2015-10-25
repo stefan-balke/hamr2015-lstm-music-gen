@@ -1,0 +1,11 @@
+FINK
+CUT[VOR ALLEN LANDEN HOCHGEEHRT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0439  16 Eb 4/4]
+MEL[5__  +1__.5_5_4_3_2_  1__1__1__
+    3__  2__.5_7_6_5_4#_  5___0__
+    5_4_  3__3__3__.5_  5_4_4_3_4__
+    4_3_  2__2__2__.4_  4_3_3_2_3__
+    5__  +1__.5_4_3_2_1_  5___
+    7___  +1__.6_5_4_3_2_  1__3_.31__ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

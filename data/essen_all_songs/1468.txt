@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Winterrosen
+    Es wollt' ein Maedchen Wasser hol'n]
+CNR[aus einem kuehlen Brunnen,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Altlandsberg]
+SRC[7, S. 63
+    1842 aufgezeichnet]
+KEY[Q0145K 16  G 2/4]
+MEL[-5_  1_.11_.3  5_.22_.
+    2  5_.22_.1  -7_.-6-5_0_
+    -5_3_1_0_  -5_4_2_
+    -5_  1_.15_.4  3_.21_ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Refrain auf sinnfreie Silben in der dritten Zeile.]

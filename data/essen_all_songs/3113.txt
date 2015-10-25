@@ -1,0 +1,13 @@
+F[ERK1
+CUT[VOEGELE IM TANNENWALD]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0576  16  F 3/8]
+MEL[  123_4_  5_6_5_
+    6_5_4_  3_+1+1+1_
+    123_4_  5_6_5_
+    6_5_4_  3__0_
+    3_555_  5_4_4_
+    4_3_3_  3_222_
+    123_4_  5_6_5_
+    6_5_4_  3__. //] >>
+FCT[Liebes - Lied]

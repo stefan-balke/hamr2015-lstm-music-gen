@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Es hatt' ein Soldat ein Toechterlein,]
+CNR[die wollte nicht mehr dienen,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[4, S. 52
+    1842 gedruckt in Leipzig]
+KEY[Q0073L 16  G 3/4]
+MEL[-5_  1_335__.3_  3_2_2__0_
+    2_  4_4_6__.4_  4_3_3__0_
+    5_  5_5_6__.5_  442_5__0_
+    4_  332_4__3_2_  2__1__0_ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HAMBURG IST EIN SCHOENES STAEDTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E1416  08  G 4/4]
+MEL[  -5_1_-6_2_  1-7-6-71_3_
+    -5_1_-6_2_  1-7-6-71__
+    4_.32__  5_.31_
+    3_  24-721__ //] >>
+FCT[Staende -, Soldaten - Lied]

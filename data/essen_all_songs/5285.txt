@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohem Berge,]
+CNR[sah in den tiefen Rhein,]
+REG[Mitteleuropa, Deutschland]
+SRC[8, S. 30
+    1818 gedruckt in Berlin]
+KEY[Q0155B 08  G 2/4]
+MEL[1  3153  3_2
+    1  3153  2_0
+    1  5555  531_  4_6_  531
+    5  542-7  1_0 //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Anhaengsel an der dritten Zeile.]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[DIE STERNE UEBERM THALE STEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0155  04 Eb 6/4]
+MEL[-5  1_3321  2_443
+    2  3_5543  320_.
+    5  5_33_5  5432_
+    4  35124-7  210_. //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[DIE STERNE UEBERM THALE STEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0155  04 Eb 6/4]
+MEL[-5  1_3321  2_443
+    2  3_5543  320_.
+    5  5_33_5  5432_
+    4  35124-7  210_. //] >>
+FCT[Ballade, Romanze]

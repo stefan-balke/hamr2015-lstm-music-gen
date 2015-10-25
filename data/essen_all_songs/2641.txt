@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ET WASSEN TWE KUENIGESKINNER]
+REG[Europa, Mitteleuropa, Deutschland, Muensterland]
+KEY[E0084C 08  F 4/4]
+MEL[-5_  3_33322_  2_.11_
+    -5_  4_444353  2__0_
+    -5_  5_555444  3_.+154
+    32  1_11322_  1__
+    2_.4  3_33542_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Graf von Rom
+    An Gott hats nie gemangelt]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 144
+    1609 gedruckt in Wolfenbuettel]
+KEY[Q0014A 08  F FREI]
+MEL[1_  1_1_3_1_  5__5__0_
+    5_  6_5_7b_5_  6__5__0_
+    5_  3_3_4_6_  5__5__0_
+    5_  3_5_5_3_  2__1__0_
+    5_  5_.65_5_  3__2__0_
+    2_  1__1_1__2_  3__2__0_
+    -5_  1_1_2_2_  32345__0_
+    5_  5_3_2_3_  2__1__ //] >>
+FCT[Ballade, Pilger - Reise, Gefangenschaft, Befreiung, Ehe, Liebe;
+    geistlich]
+CMT[geistliche Kontrafaktur mit Tonangabe des "Graf von Rom"]

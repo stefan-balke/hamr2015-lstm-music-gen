@@ -1,0 +1,13 @@
+F[ERK2
+CUT[GUDEN ABEND SPELMANN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Langenberg]
+KEY[E0983  16  G 3/8]
+MEL[-5-5  3_3_2_  1__
+    -5_  3_3_3_  1__
+    11  3_3_2_  1_1_
+    11  3_3_2_  1__
+    3_  5_5_5_  6_6_
+    4_  4_4_6_  5__
+    4_  3_3_3_  5_5_
+    3_  2_2_2_  1__ //] >>
+FCT[Tanz - Lied, Reigen]

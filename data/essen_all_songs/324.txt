@@ -1,0 +1,24 @@
+BOEHME
+CUT[ALLES LIEBT UND PAART SICH WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0381  16  G 2/4]
+MEL[-5-5  1_.11_.1  1-7-7_0_
+    -5-7  2_.22432  211_0_
+    -5-5  3_.21-713  3_2_0_
+    42  1-7-6-5-5_-6-7  211__
+    42  1-7-6-5-5_-6-7  211__
+    33  3242211-7  5__.
+    43  3242211-7  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ALLES LIEBT UND PAART SICH WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0381  16  G 2/4]
+MEL[-5-5  1_.11_.1  1-7-7_0_
+    -5-7  2_.22432  211_0_
+    -5-5  3_.21-713  3_2_0_
+    42  1-7-6-5-5_-6-7  211__
+    42  1-7-6-5-5_-6-7  211__
+    33  3242211-7  5__.
+    43  3242211-7  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

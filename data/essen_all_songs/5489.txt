@@ -1,0 +1,11 @@
+KINDER
+CUT[WER DIE GANS GESTOHLEN HAT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K2163A 16  C 2/4]
+MEL[  1_.23_4_  5_.55_
+    5_  6__6__  5___
+    4_.44_5_  3_3_3_.
+    3  2__5__  1___
+    5__3_1_  2_-7_1__
+    5__3_1_  2_-7_1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

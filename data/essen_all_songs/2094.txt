@@ -1,0 +1,13 @@
+FINK
+CUT[LIEBER TAG SEH ICH DICH WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0357  08  F 4/4]
+MEL[  5_+1_5_34  54323_1_
+    43216_5_  543_2__
+    5_244321  5_.44_3_
+    3_6_+1_76  5_4#65__
+    5_2_2_3_  54433_2_
+    5_7_+1_5_  543_2__
+    1_1_2-71_  2_.3431_
+    6_1_-6432  1_-7_1__ //] >>
+FCT[Jugend - Lied, Geburtstag]

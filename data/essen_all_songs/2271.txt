@@ -1,0 +1,13 @@
+FINK
+CUT[HINWEG MIT DEN SORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0690  08  C 6/8]
+MEL[-5  1_.-5_-5  -3_.-1_
+    3  2__12  3__0
+    2  1__-7-6  2__1
+    -7  -6__-7-6  -5_.0_
+    -5  2_.323  4_.2_
+    2  3_.434  5_.^_
+    4  3__21  1__-7
+    -6  -5__-6-7  1_.0_ //] >>
+FCT[Geselligkeits -, Tageszeiten - Lied, Morgen]

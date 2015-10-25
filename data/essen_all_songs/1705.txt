@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es hatte ein Gastwirt einen Sohn,]
+CNR[der hatte was gelernet schon,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Mark]
+SRC[4, S. 307
+    ????]
+KEY[Q0085E 16  G 3/4]
+MEL[1__  113_5__3__  4_3_2__.
+    3_  4_2_-7_1_2_-7_  1_-6_-5__.
+    -5_  1_-7_1__3__  2__1__0_
+    -5_  1_-7_1__3__  2__1__ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

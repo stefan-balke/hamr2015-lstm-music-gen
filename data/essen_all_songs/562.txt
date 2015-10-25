@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ANDRES, LIEBER SCHUTZPATRON]
+REG[Europa, Mitteleuropa, Deutschland, Pommern]
+KEY[Z0146  16  F 3/4 4/4]
+MEL[  1_3_5_3_1_+1_  +1__7__
+    7_+1_  +2__4__4654  4__3__
+    4321  6__5__4321  1__-7__
+    -5_-7_  2_-7_-5_-7_2_4_  4__3__
+    4321  6__5__6_+2_  +1__.765__
+    2___.3_4_  3___.0__ //] >>
+FCT[Erzaehlung, lustige Romanze, Frage- Antwort - Lied, Echo, Tod]

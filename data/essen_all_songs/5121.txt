@@ -1,0 +1,12 @@
+BOEHME
+CUT[RAEDCHEN RAEDCHEN GEHE GEHE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0659  08  D 3/8]
+MEL[  5_3  1_1  212  3_1
+    1_3  5_+1  767  +1_5
+    +17+1  7+1+2  +176  5_.
+    5_5  6_5  54#5  +2_7
+    54#5  +1_+1  +2+1+2  +3_+1
+    +17+1  54#5  323  6_0
+    +176  565  432  1_0 //] >>
+FCT[Moral - Lied]

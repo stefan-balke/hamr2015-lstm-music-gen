@@ -1,0 +1,9 @@
+VARIANT
+CUT[Siehst du wohl, da kimmt er, grosse Schritte nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Schauenstein]
+KEY[V0003H 16  F 2/4]
+MEL[-5_.-5-6_-5_  -7__-7__
+    -5_-5_-6_-5_  1__1__
+    3_.34_3_  3_2_2__
+    2_.23_2_  2_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]

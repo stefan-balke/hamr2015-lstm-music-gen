@@ -1,0 +1,34 @@
+BOEHME
+CUT[WO EIN ALTAR STEHT DEN DER LENZ BEKRAENZT]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0027  08 Eb 4/4]
+MEL[  1_3_2_4_  3_.45__
+    5_.65_3_  2__.0_
+    2_5_4#_6_  5__+1__
+    7_.54#_76  5__0_
+    55  5__6_7_  +1__7_6_
+    5_.34_6_  2__.0_
+    3_.35_5_  6_+1_7654
+    3__5_4_  3__0_
+    55  5__6_7_  +1__7_6_
+    5_.34_6_  2__.0_
+    3_.34_5_  6_+1_7654
+    3__5_4_  3__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[WO EIN ALTAR STEHT DEN DER LENZ BEKRAENZT]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0027  08 Eb 4/4]
+MEL[  1_3_2_4_  3_.45__
+    5_.65_3_  2__.0_
+    2_5_4#_6_  5__+1__
+    7_.54#_76  5__0_
+    55  5__6_7_  +1__7_6_
+    5_.34_6_  2__.0_
+    3_.35_5_  6_+1_7654
+    3__5_4_  3__0_
+    55  5__6_7_  +1__7_6_
+    5_.34_6_  2__.0_
+    3_.34_5_  6_+1_7654
+    3__5_4_  3__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

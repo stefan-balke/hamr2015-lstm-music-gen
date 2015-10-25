@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[MEI MUTTER MAG MI NET, UND KEIN SCHATZ HAN I NET]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0110  16  B 3/8]
+MEL[3_3_3_  3_.22_  4_4_4_  4_.33_
+    5_6543  6_.65_  3_3_54  2__0_
+    2_2654  4_.33_  6_+1_76  5_.43_
+    1_-7_24  3__0_  5_5654  3__0_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

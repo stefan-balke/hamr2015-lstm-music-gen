@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES STAND EIN BAEUMLEIN IM TIEFEN THAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0007  16  A 2/4]
+MEL[-5_  -5_1_1_3_  3_2_2__
+    12345_3_  2__0_
+    1_  1_3_3_5_  5_4_4_
+    3_  3_3_5_3_  2_1_2__
+    1_.-71_3_  2_.12_
+    5_  32123_2_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

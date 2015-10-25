@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der sterbende Krieger"
+    LEBET WOHL, IHR LIEBEN ALLE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1040  08  G 3/4]
+MEL[12  3_3_46  655_
+    65  544_54  3_0_
+    12  3_3_46  655_
+    65  544_54  3_0_
+    35  544_26  655_
+    35  544_26  655_
+    12  3_3_46  655_
+    65  4_4_54  3_0_ //] >>
+FCT[Romanze, Ballade, Tod (Prinz Ludwig von Preussen)]

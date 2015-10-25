@@ -1,0 +1,11 @@
+F[ERK1
+CUT[EIN SCHAEFER TRAEGT SORGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Niederlausitz]
+KEY[E0508B 08  F 3/4]
+MEL[53  1_1_24  3_1_
+    5_  6_5_4_  4_3_
+    11  6_6_+16  5_3_
+    5_  5_4_24  4_3_
+    11  6_6_+16  5_3_
+    5_  5_4_23  2_1_ //] >>
+FCT[Liebes - Lied]

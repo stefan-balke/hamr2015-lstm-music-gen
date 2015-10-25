@@ -1,0 +1,26 @@
+BOEHME
+CUT[AN DER QUELLE SASS DER KNABE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0464A 08  G 4/4]
+MEL[32  1_.11_.-7  -7-6-6_0_
+    -6-6  -5_.-54_.-7  1__0_
+    32  1_.11_.-7  -7-6-6_0_
+    -6-6  -5_.-54_.-7  1__0_
+    -71  2_.25_42  433_0_
+    23  5_424_31  2__0_
+    32  1_.11_.-7  -7-6-6_0_
+    -6-6  -5_.-54_.-7  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Sehnsucht]
+BOEHME
+CUT[AN DER QUELLE SASS DER KNABE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0464A 08  G 4/4]
+MEL[32  1_.11_.-7  -7-6-6_0_
+    -6-6  -5_.-54_.-7  1__0_
+    32  1_.11_.-7  -7-6-6_0_
+    -6-6  -5_.-54_.-7  1__0_
+    -71  2_.25_42  433_0_
+    23  5_424_31  2__0_
+    32  1_.11_.-7  -7-6-6_0_
+    -6-6  -5_.-54_.-7  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Sehnsucht]

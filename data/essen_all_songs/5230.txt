@@ -1,0 +1,11 @@
+BOEHME
+CUT[VATER UNSER BETEN WIR]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[B0757  08  F 4/4]
+MEL[12  3_3_3_4_  5__0_
+    55  +17655443  3_2_0_
+    12  3_3_3_4_  5__0_
+    55  +17655443  3_2_0_
+    -71  2_2_2_3_  4__0_
+    44  3_543_2_  1__0_ //] >>
+FCT[geistliches Volks - Lied, religioes, Gebet]

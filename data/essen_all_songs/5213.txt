@@ -1,0 +1,11 @@
+BOEHME
+CUT[HOFFE HERZ NUR MIT GEDULD]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Sachsen, Hessen]
+KEY[B0741  16  G 4/4]
+MEL[  1_3_3_5_5__.6_  5__2_4_4__3__
+    5__.3_6_.54_3_  3__2__0___
+    1_3_3_5_5__.6_  5__2_4_4__3__
+    5__.3_6_.54_3_  3__2__0___
+    2__.4_3__.5_  2__.4_3___
+    6__.6_5__6_54  3__2__1___ //] >>
+FCT[Moral - Lied, religioes]

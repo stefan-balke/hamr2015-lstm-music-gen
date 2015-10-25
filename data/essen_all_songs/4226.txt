@@ -1,0 +1,14 @@
+F[ERK3
+CUT[ALS DER LIEBE GOTT]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Niederlausitz]
+KEY[E1760  08  D 3/4]
+MEL[32  1111-71  220_
+    43  222254  330_
+    33  222234#  5_0_
+    55  4#567+14#  5_0_
+    57  +2+17654  35+1_
+    7+1  +2+17654  35+1_
+    55  +13654-7  1_0_
+    32  1111-71  2_0_
+    43  22225-7  1_0_ //] >>
+FCT[Scherz - Lied, biblischer Stoff]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ALS JUENGSTENS HERR MERCURIUS IM HIMMEL REFERIRTE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0085  08  G 2/4]
+MEL[-5  1122  334
+    4  312-7  110
+    -5  1122  334
+    4  312-7  110
+    1  2222  311
+    3  2222  311
+    -5  1122  330
+    4  312-5  110 //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[ALS JUENGSTENS HERR MERCURIUS IM HIMMEL REFERIRTE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0085  08  G 2/4]
+MEL[-5  1122  334
+    4  312-7  110
+    -5  1122  334
+    4  312-7  110
+    1  2222  311
+    3  2222  311
+    -5  1122  330
+    4  312-5  110 //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

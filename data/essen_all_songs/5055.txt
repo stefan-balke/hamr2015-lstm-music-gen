@@ -1,0 +1,9 @@
+BOEHME
+CUT[ES GINGEN DREI JAEGER WOHL AUF DIE BIRSCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0592  16  D 6/8]
+MEL[1_  1_.35_+1_.76_  6_.55_3__
+    3_  3_.23_5_.22_  4_.33_1__
+    1_  3_.5+1_+3_.+2+1_  +2_.+17_+1__
+    +3_  +1__+3_+1__5_  +1___0_ //] >>
+FCT[Staende -, Jaeger - Lied]

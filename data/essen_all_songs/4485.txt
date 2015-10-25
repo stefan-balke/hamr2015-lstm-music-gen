@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Frisch auf, in Gottes Namen!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0398B 04  G 4/4]
+MEL[5  5555  2_2
+    5  4322  1_0
+    5  5555  2_2
+    5  4322  1_0
+    5  5564  5_3
+    6  5433  2_0
+    2  5533  4_2
+    2  5533  4_25  4322  1_0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Werlin (Hs. von 1646) S. 2951. Entstanden 1540]

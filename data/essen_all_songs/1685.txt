@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Visoko nebo zvjezdama,]
+CNR[visoko nebo zvjezdama.]
+REG[Suedosteuropa, Jugoslawien, Kroatien]
+SRC[4, S. 227
+    1952 gedruckt in Zagreb]
+KEY[Q2080I 08  F 4/4]
+MEL[  3_553_5_  543_2__
+    54321_4_  3_211__ //] >>
+FCT[Ballade, Magie, Verwuenschung]
+CMT[Kroatische Fassung der Ballade.]

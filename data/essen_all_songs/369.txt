@@ -1,0 +1,20 @@
+BOEHME
+CUT[IM MAIEN IM MAIEN BLUEHN SUESSE BLUEMELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0440  16  G 6/8]
+MEL[1_  1__.-5__3_  3__.1__
+    34  5__6_4__5_  3___0_
+    1_  -7__2_1__3_  2_5_4_3__
+    2_  1#__3_2__4_  3_6_5_4__
+    6_  5__.2__3_  1__0__. //] >>
+FCT[Liebes - Lied, Liebes - Lust, Fruehling]
+BOEHME
+CUT[IM MAIEN IM MAIEN BLUEHN SUESSE BLUEMELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0440  16  G 6/8]
+MEL[1_  1__.-5__3_  3__.1__
+    34  5__6_4__5_  3___0_
+    1_  -7__2_1__3_  2_5_4_3__
+    2_  1#__3_2__4_  3_6_5_4__
+    6_  5__.2__3_  1__0__. //] >>
+FCT[Liebes - Lied, Liebes - Lust, Fruehling]

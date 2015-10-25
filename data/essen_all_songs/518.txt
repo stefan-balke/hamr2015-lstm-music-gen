@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ARM SEELCHEN WAS WEINEST DU SO SEHR]
+REG[Europa, Mitteleuropa, Deutschland, Nieder - Deutsch]
+KEY[Z0103  16  F 3/8]
+MEL[13  5_.654  3_.2
+    3_  444_3_  2_0_
+    13  5_.654  3_.2
+    3_  444_3_  2_0_
+    31  1_.234  2_2_
+    54  3_3_2_  3_0_
+    32  1_.234  2_2_
+    54  3_3_2_  1__ //] >>
+FCT[Sagen - Lied, Romanze]

@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Daheim]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0660  04  D 4/2]
+MEL[1_  4_3b1-7b_-7b_  3b_4_5_
+    3b_  6b_541_4_  142_1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Strassburger Hs. 1430.]

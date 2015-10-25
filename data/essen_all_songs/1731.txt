@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es hat ein Gastwirth einen Sohn,]
+CNR[er liess ihn auch was lernen schon,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[4, S. 312
+    1842 gedruckt in Leipzig]
+KEY[Q0085e 08  G 4/4]
+MEL[3_  1_-5_1_2_  4_.32_
+    3_  1_-5_1_2_  4_.32_
+    3_  4_.25_3_  2__1_
+    3_  5_3_3_5_  65434_
+    5_  321_3_5_  2_1_2_
+    3_  4_.25_3_  2__1_ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

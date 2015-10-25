@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kranzsingen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0281  02  F 4/1]
+MEL[1  5_5_6_5_  5_4_3_0
+    4  5_5_5_4_  3_2_1_0
+    1  1_2_3_.2  1_2_3_0
+    5  5_5_5_.4  3_2_1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[J. Ott 1544 No. 3.]

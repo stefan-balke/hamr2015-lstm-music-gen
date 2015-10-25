@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    's waren einmol drei G'soellein,]
+CNR[sie taetein, wos sie wollein.]
+REG[Osteuropa, Ungarn, Solymar]
+SRC[6, S. 280
+    1959 aufgezeichnet]
+KEY[Q0139J 16  G 2/4]
+MEL[-5_  (1__-7__-6__)  -5__3__  4__.5_  3__0_
+    -5_  (1__-7__-6__)  -5__1__  4__.5_  3__0_
+    3_  3_.45_5_  5__.3_  4_5_6_5_  4__0_
+    2_  4_.44_4_  4__3_2_  3_.45_4_  3__0_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Transkription mit Verzierungen, Betonungen, etc. 6 weitere
+    Strophenvarianten abgedruckt. Nur erste Strophe kodiert.
+    Perkussionston im zweiten Takt durch "richtigen" Ton ersetzt.]

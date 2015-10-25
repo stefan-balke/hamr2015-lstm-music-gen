@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[FAHRET HIN, FAHRET HIN, GRILLEN GEHT MIR AUS DEM SINN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0218  08  A 2/4]
+MEL[533_  422_
+    1234  555_
+    533_  422_
+    1355  3_.0
+    2222  234_
+    3333  345_
+    533_  422_
+    1355  1_.0 //] >>
+FCT[Jaeger - Lied]

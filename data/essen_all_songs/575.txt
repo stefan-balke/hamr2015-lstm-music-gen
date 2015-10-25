@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[FRAU DU SOLLST ZU HAUSE KOMMN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0159  16  G 3/4]
+MEL[  -5_1_1__1__  -7_2_2__0_.
+    -5  2__1__2__  3__0___
+    -5_2_2__0__  1_5_5__
+    5_4_  3_2_1_-7_-6_-6_  -6__0__
+    -5_-5_  -5__-6_-7_1_2_  1__0__
+    5_4_  3_2_1_-7_-6_-6_  -6__0__
+    -5_-5_  -5__-6_-7_1_2_  1__0___ //] >>
+FCT[Erzaehlung, lustige Romanze]

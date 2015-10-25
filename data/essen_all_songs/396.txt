@@ -1,0 +1,26 @@
+BOEHME
+CUT[ALLES KOMMT ZU SEINEM ENDE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[B0469  08  D 4/4]
+MEL[+17  +1_1_1+176  5_4_3_
+    55  5_643_42  1__0_
+    +17  +1_1_1+176  5_4_3_
+    55  5_643_42  1__0_
+    -71  2_.55_43  3_2_0_
+    -71  2_.55_43  3_2_0_
+    +17  +1_1_1+176  5_4_3_
+    55  5_643_42  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[ALLES KOMMT ZU SEINEM ENDE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[B0469  08  D 4/4]
+MEL[+17  +1_1_1+176  5_4_3_
+    55  5_643_42  1__0_
+    +17  +1_1_1+176  5_4_3_
+    55  5_643_42  1__0_
+    -71  2_.55_43  3_2_0_
+    -71  2_.55_43  3_2_0_
+    +17  +1_1_1+176  5_4_3_
+    55  5_643_42  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

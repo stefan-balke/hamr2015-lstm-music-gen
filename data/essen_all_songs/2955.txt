@@ -1,0 +1,13 @@
+F[ERK1
+CUT[SIST EBENE MOENSCH UF ERDE]
+REG[Europa, Mitteleuropa, Schweiz, Kanton Bern]
+KEY[E0420  16  A 2/4]
+MEL[-5_  1_1-71_2_  3b_1_2__
+    3b_3b12__  5__0_
+    -5_  1_1-71_2_  3b_1_2__
+    3b_3b12__  5__0_
+    5_  2_21-7_1_  2_23b2_
+    5_  43b21-7_11  2123b2_
+    12  3b_3b3b4_4_  5__4_
+    4_  3b_1_2_23b  1__. //] >>
+FCT[Liebes - Lied]

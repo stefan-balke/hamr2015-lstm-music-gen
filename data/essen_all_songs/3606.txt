@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    ohne Text]
+REG[Suedeuropa, Italien]
+SRC[5, S. 160
+    1774 gedruckt in Rom]
+KEY[Q3103E 32  G 2/4]
+MEL[-5__  1__.1_1__.3_  3__.2_2__.5_  3___0__
+    -5__  1__.1_1__.3_  3__.2_2__.5_  3___0__
+    3__  3__.5_5__.5_  5__.4_4___
+    3__.3_3__.45  2__.2_2__.
+    5_  3__.3_2__.12  1___0__ //] >>
+FCT[Tanz, Tedesca]
+CMT[Melodievergleich zu Q0103A, anderes Lied.]

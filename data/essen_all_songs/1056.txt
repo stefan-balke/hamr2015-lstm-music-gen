@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Schlemmhimmel"
+    O WIE GEHTS IM HIMMEL ZU]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1322  08  C 2/4]
+MEL[-5111  -7220
+    3142  1-710
+    -5111  -722_
+    3142  1-71_
+    1323  4320
+    1323  432_
+    -5111  -722_
+    3142  1-71_ //] >>
+FCT[Zech -, Schalks - Lied]

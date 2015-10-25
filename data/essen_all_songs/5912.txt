@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der verkleidete Markgrafensohn
+    Es freiet ein reicher Kaufmannssohn]
+CNR[an einer Koenigstochter;]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach]
+SRC[1, S. 53
+    1927 aufgezeichnet  (17. Jh. ?)]
+KEY[Q0006C 08  G 6/8]
+MEL[-5  111123  3231_
+    -5  432321  -7_21_
+    2  222234  3231_
+    1  432321  -7_21_ //] >>
+FCT[Ballade, Braut - Werbung]

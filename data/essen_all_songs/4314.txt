@@ -1,0 +1,11 @@
+F[ERK3
+CUT[KOMM WIR WOLLEN WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Wesel]
+KEY[E1901A 16  C 2/4]
+MEL[5_  5_+1_+1_+1_  +1_6_5_0_
+    7_+1_7__  +1__0_
+    5_  +1_+1_+1_+1_  +1_765_0_
+    6_0_6_0_  6_543_0_
+    5_+1_7_65#  6__. //] >>
+FCT[Kinder - Lied, Wander - Spiel]
+CMT[modulierend]

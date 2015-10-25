@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Baenkelsaengerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0291  02  F 6/2]
+MEL[1  1_13_3  5_.5_
+    5  5_56_6  5_.3_
+    1  1_13_3  5_.5_
+    5  5_56_6  5_.7_
+    7  +1_+17_6  5_.3_
+    3  5_56_6  5_.4_
+    4  3_32_2  1_.^_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Locheimer Liederbuch No. 42]

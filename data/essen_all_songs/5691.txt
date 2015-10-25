@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Harter Entschluss]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0117  04  F 4/2 6/2]
+MEL[1_  1_3_2_1_  -7__1_
+    2_  3__3_4_2__  1__.
+    1_  1_3_2_1_  -7__1_
+    2_  3__3_4_2__  1__.
+    1_  3_2_3_4_  5__1_
+    4_  3_3_3_21  -7__1_
+    2_  3_4_5_3_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III. 1549 No. 61.]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Schoen Adelheid
+    Skoen Anna hon kasta en halver gullring,]
+CNR[och unga bruden kasta den andra.]
+REG[Nordeuropa, Schweden]
+SRC[4, S. 66
+    1934 gedruckt in Helsingfors]
+KEY[Q2074E 16  G 4/4]
+MEL[-5_  -5_.-6-7b_1_2__-7b_2_  4__3b_2_1__.
+    1_  1_2_3b_4_5__4_3b_  -7b_2_2__.0__
+    2_  5__4_3b_2__-7b_2_  4__3b_2_1__.
+    -5_  1_2_3b_4_5__3b_3b_  2__1__.0__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Wiederfinden]
+CMT[Schwedische Fassung der Ballade.]

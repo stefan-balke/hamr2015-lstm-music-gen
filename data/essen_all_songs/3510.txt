@@ -1,0 +1,10 @@
+F[ERK2
+CUT[SPIELT MIR MAL DIE SIEBEN SPRUENGE]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Grenzow]
+KEY[E0992A 08  G 2/4]
+MEL[  1353  4231
+    1353  421_
+    2222  2-7-5_
+    2222  2-7-5
+    5  3_.5  3__ //] >>
+FCT[Tanz - Lied, Reigen, Siebensprung]

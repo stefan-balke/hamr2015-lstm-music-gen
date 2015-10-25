@@ -1,0 +1,12 @@
+DVA
+CUT[Petrus und Pilatus
+    " Wo gehn wir dann hin wandren ?" sprach Petrus.]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0019A 16  G 2/4]
+MEL[-5_  1_7_1_2_  3b__7b__
+    3b__4__  5__0_
+    5_  6b_5_5_44  5__3b_
+    5_  4_3b_2_1_  2__-5__  ^__
+    1_1_  -7__1__  1__. //] >>
+FCT[Kinder - Spiel]
+CMT[Variante zu D0019]

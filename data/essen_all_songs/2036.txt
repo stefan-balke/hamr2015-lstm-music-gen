@@ -1,0 +1,9 @@
+FINK
+CUT[WENN FROMME KINDLEIN SCHLAFEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0282  16  F 2/4]
+MEL[3_  5_3_2_-6_  1_.-7-7_
+    -5_  -6_-7_1_-7_  1_2_3_0_
+    5_432__  5_432__
+    1_-713_2-6  2_.11_ //] >>
+FCT[Jugend - Lied, religioes]

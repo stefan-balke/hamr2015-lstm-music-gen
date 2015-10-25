@@ -1,0 +1,9 @@
+BOEHME
+CUT[DU LIEBER FROMMER HEILGER CHRIST]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0641  08  G 2/4]
+MEL[1  3_1_  4_3_  2123  1_0
+    -5  1_3_  2_.-7  21-7-6  -5_0
+    -5  4_.2  1-7-6-5  1_3_  5_.
+    4  3_5_  5432  1_-7_  1_0 //] >>
+FCT[Kinder -, Weihnachts - Lied, religioes]

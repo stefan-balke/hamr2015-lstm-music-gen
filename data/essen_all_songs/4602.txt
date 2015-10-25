@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Wiegenlied am Christkripplein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0525  01  F 3/1]
+MEL[3  3_1  542  123  1_.
+    5_.  3_.  5_.  3_.
+    123  543  1_-7  1_
+    5  5_4  3_6  543  2_
+    5  234  5_1  1_-7  1_
+    4  432  345  2_3  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Paderborner Gsgb 1609 S. 33]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Gerstebinden]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0192  04  G 4/2]
+MEL[1_  1_1_1_1_  2_2_2__
+    6__7b_.6  5__4__  5___  0_
+    5_6__  6_6__6_  7b__6__
+    5__4__  2__3_4_  5__0__
+    5_5_4_3_  1__0_1_  2_.34_5_  ^_6_5_4_  ^_3_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Joh. Ott 1534 No. 34. Tons. von L. Senfl.]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ES WAR EINMAL EIN ARMER MANN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge; Hessen;
+    Nassau]
+KEY[E2109  08  G 4/4]
+MEL[12  3_3_3_23  4_4_4_
+    3_  2_2_2_12  3_3_3_
+    12  3_3_322_  1__0_
+    12  3_3_322_  1__0_ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

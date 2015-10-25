@@ -1,0 +1,24 @@
+BOEHME
+CUT[HEIL DIR IM SIEGERKRANZ]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[B0015  08  G 3/4]
+MEL[  1_1_2_  -7_.12_
+    3_3_4_  3_.21_
+    2_1_-7_  1__0_
+    5_5_5_  5_.43_
+    4_4_4_  4_.32_
+    3_4321  3_.45_
+    643_2_  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied, Hymne]
+BOEHME
+CUT[HEIL DIR IM SIEGERKRANZ]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[B0015  08  G 3/4]
+MEL[  1_1_2_  -7_.12_
+    3_3_4_  3_.21_
+    2_1_-7_  1__0_
+    5_5_5_  5_.43_
+    4_4_4_  4_.32_
+    3_4321  3_.45_
+    643_2_  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied, Hymne]

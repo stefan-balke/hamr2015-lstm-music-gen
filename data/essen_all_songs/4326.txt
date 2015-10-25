@@ -1,0 +1,11 @@
+F[ERK3
+CUT[VOM HIMMEL HOCH IHR ENGEL KOMMT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1938  04  F 3/4]
+MEL[3  321  5_3  123  1_.
+    5_.  3_.  5_.  3_.
+    123  543  1_-7  1_
+    5  5_4  3_6  543  2_
+    5  234  5_1  1_-7  1_
+    4  432  345  3_2  1_ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

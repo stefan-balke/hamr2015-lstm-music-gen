@@ -1,0 +1,11 @@
+FINK
+CUT[DIE LUFT IST BLAU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0978  16  G 2/4]
+MEL[5_  5_.43_3_  34321_
+    5_  +1_765_.3  23453_
+    3_  2_.57654#  6__5_
+    -5_  4_.32_2_  56543_
+    34  5_345_34  5__3_
+    5_  +1_.56543  2__1_ //] >>
+FCT[Natur -, Jahreszeiten - Lied, Fruehling]

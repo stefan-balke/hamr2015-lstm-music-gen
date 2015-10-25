@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DER LIPP UND DER LENZ]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E1044  16  F 3/8]
+MEL[1_  3_1353  2_-7_
+    2_  4_2464  3_1_
+    1_  3_1353  2_-7_
+    -7_  2_-7242  1_0_ //] >>
+FCT[Tanz - Lied, Dreher]

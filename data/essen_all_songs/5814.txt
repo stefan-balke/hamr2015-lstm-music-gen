@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Sommergewinn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0272  02  C 3/2]
+MEL[+1  +1_+2  +1_6  5_5  3_
+    3  4_4  4_6  5_5  1_
+    5  5_4  3_2  1_
+    5  567  +1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Werlin Hs. 1646 S. 1502.]

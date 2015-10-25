@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Der Tannhaeuser
+    Danuser war ein wundrige Knab,]
+CNR[grauss Wunder got er go schaue;]
+REG[Mitteleuropa, Schweiz, Kt. Luzern, Escholzmatt, Entlebuch]
+SRC[1, S. 150
+    1912 aufgezeichnet]
+KEY[Q0015C 16 Bb 2/4 3/4]
+MEL[-5_  -5_.-6-6_.-5  -5_111__.
+    -7_  1_2_(3_.34_)  3_2_1__0_
+    -5_  -5_.-6-6_-5-5  -5_.11__.
+    -7_  1_1_2_3_.34_  3_2_1__0_
+    -7_  1_2_3__.2_  1_-7-7-6__0__
+    2__.33221_  -7_-6_-5__0_
+    -7_  1_223__.2_  1_-7_-6__0_
+    2_  2__.55442_  1_-7_1__0_ //] >>
+FCT[Ballade,  Wallfahrt, religioes]
+CMT[Eine weitere Variante (S.161), die sich von diesem Lied nur durch die
+    (angeblich) falsche Takteinteilung unterscheidet, wurde nicht kodiert.
+    In der zweiten Zeile Triole eingefhrt (in der Notation = Dreiergruppe).]

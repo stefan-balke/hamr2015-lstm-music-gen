@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Am Brunnen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0063  02  G 4/2]
+MEL[111  5544  5_0
+    5  123b4  2_2_  0
+    111  5544  5_0
+    5  123b4  2_2_  0
+    2-7b1  23b42  1
+    122  -7b-7b1_  -5_0
+    -5  -7b123b  421
+    1  3b454  2_43b  1_3b2  -7_1_  0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei J. Ott 1534 No.59.]

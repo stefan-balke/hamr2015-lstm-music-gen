@@ -1,0 +1,11 @@
+DVA
+CUT[A Dirndel geht um Holz in Wald,
+    recht zeitig in der Frueeh]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0164A 08  G 6/8]
+MEL[-5  3_32_1  4_42_
+    -5  4_43_2  5_0_.
+    3  5_54_3  6_62_
+    5  7_65_4  3_0_. //] >>
+FCT[Jaeger - Lied, Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]

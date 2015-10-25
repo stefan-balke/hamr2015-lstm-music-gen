@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Waldlust"
+    WAS KANN EINEN MEHR ERGOETZEN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsan(!)]
+KEY[Z1287  16  A 2/4]
+MEL[1_123_3_  2_2_1_-5_
+    3_345_5_  4_4_3__
+    1_123_3_  2_2_1_-5_
+    3_345_5_  4_4_3__
+    5_5_6_.5  4_4_5__
+    3_3_4__  3_3_2__
+    3_3_4_4_  56543__ //] >>
+FCT[Jaeger - Lied]

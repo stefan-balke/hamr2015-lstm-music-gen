@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HABT IHR LUST IHR LIEBEN BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1605  08  G 3/4]
+MEL[32  1_1-512  3_1_
+    23  4_3_21  2__
+    32  1_1-512  3_1_
+    23  4_3_21  2__
+    43  2_1_-71  2__
+    54  3_3_22  1__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

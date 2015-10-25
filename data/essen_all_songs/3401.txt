@@ -1,0 +1,15 @@
+F[ERK2
+CUT[TANZ LIEBCHEN TANZ]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Schweighausen]
+KEY[E0838A 16  D 2/4]
+MEL[  -5__1_.-6  -5__0_
+    -5_  -6_.-5-4_-3_  -2__0_
+    -2_  -2_.-3-4_.-5  -6__-6_0
+    1  -7_.-7-6_-7_  1__0_
+    -5_  -3_.-5-5_-5_  -3_-5_-5_
+    -5_  -3_.-5-5_-5_  -3_-5_-5_
+    -5_  -6__-7__  1__0_
+    -5_  -3_.-5-5_-5_  -3_-5_-5_
+    -5_  -3_.-5-5_-5_  -3_-5_-5_
+    -5_  -6__-7__  1__0__ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Die Unbestechliche
+    Het was een rudder wael ghedaen,]
+CNR[Voer spelen duer sijn lant.]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[7, S. 35
+    1395 Handschrift]
+KEY[Q2144B 04  D 3/4]
+MEL[+1  6b_5  +1_+2  +154  5_
+    3b  5_3b  13b4  5_
+    +1  6b_5  +1_+2  +154  5_
+    3b  5_3b  13b4  5_
+    +1  6b_5  +1_+2  +154  5_
+    3b  5_3b  13b4  5_
+    +1  +3b_+1  +1_5  3b_2  1_
+    +1  +3b_+1  +1_5  3b_2  1_ //] >>
+FCT[Ballade, Liebes - Handel]
+CMT[Melodie aus Strichnotation uebertragen. Pausen an den Zeilenenden
+    weggelassen. Ursprung der Ballade?]

@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Entfuehrung unterm Tanz
+    ohne Text]
+REG[Osteuropa, UdSSR, Russland]
+SRC[5, S. 51
+    1960 gedruckt in Berlin]
+KEY[Q3092B 08  G FREI]
+MEL[1_3b_4_3b_1_  3b_3b21_3b_  1__ //] >>
+FCT[Helden - Lied, episch]
+CMT[Melodievergleich zu Q0092, anderes Lied.]

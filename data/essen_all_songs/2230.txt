@@ -1,0 +1,9 @@
+FINK
+CUT[HOLDE NACHT DEIN DUNKLER SCHLEIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0592  16 Bb 4/4]
+MEL[-5_.-5  1__.1_1_1_1_1_  3_2_1_-7_-6__
+    -5__  1__.1_1_3_5_.3  3__2__0__
+    -5_-5_  4__.4_4_4_5_.4  4_3_3__0__
+    1_1_  -6__.4_5_4_3_2_  2__1__0__ //] >>
+FCT[Soldaten - Lied]

@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ES RITT EIN GSELL SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0818  08  A 2/4]
+MEL[-5  1-5-3-5  1_1
+    3  2-71-6  -5_0
+    -5  3131  3_5
+    3  2-72-7  2_4
+    4  3322  1_0 //] >>
+FCT[Kilt - Lied]

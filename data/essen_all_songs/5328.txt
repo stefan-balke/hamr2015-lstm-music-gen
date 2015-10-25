@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Steig ich auf das Berglein]
+CNR[und schau' ins tiefeste Tal,]
+REG[Osteuropa, Ungarn, Felsoeszentivan, Csavoly]
+SRC[8, S. 112
+    1985 aufgezeichnet]
+KEY[Q0155s 08  E 6/8]
+MEL[  3b_21_1  55_0_
+    5  4_5+1+16b  5_.0_
+    5  +1+157b6b5  4_.5_
+    -7b  3b3b3b43b2  1_.0_
+    5  +1+157b6b5  4_.5_
+    -7b  3b3b3b43b2  1_.0_. //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Eingeklammerte Noten (Strophenvariante) nicht gespielt.]

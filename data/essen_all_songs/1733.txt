@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es hat ein Wirtsmann einen Sohn,]
+CNR[er wollte ihn was lernen lon.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[4, S. 312
+    ????]
+KEY[Q0085g 08  G FREI]
+MEL[-5  1_1_2_2_  331_0
+    3  355_4_  352_0
+    1  3153  2_1_0
+    1  3153  2_1_0 //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]
+CMT[Schlusspausen in der Wiederholung korrigiert.]

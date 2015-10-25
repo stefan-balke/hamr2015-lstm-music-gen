@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es soll ein Maedel fruh aufstehn]
+CNR[und soll in Walde gehn.]
+REG[Osteuropa, Tschechoslowakei, Slowakei, Dt. Proben, Kremnitz,
+    Glaserhaeu]
+SRC[7, S. 77
+    1930 aufgezeichnet]
+KEY[Q0147D 08  D 6/8]
+MEL[3  5_55_6  5_43_
+    5  +1_+17_6  4_0_.
+    7  +2+16+2+16  5_+15_
+    +1  7_6545  3_0_.
+    5  +2+16+2+16  5_+15_
+    +1  7_6545  3_0_. //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Vierte und siebte Zeile refrainartig.]

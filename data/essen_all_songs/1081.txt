@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Der Himmel"
+    NACH KREUZ UND AUSGESTANDNEN LEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Koeln; Bayern]
+KEY[Z1347  16  G 4/4 6/8]
+MEL[-5_  1__.1_1_1_1_3_  2__1__3__0_
+    1_  1__.1_1_1_1_2_  -6__-5__2__
+    -5-5-5-5  2_1_4#__0_1_1_11  3__2__5__.
+    34  5_3_+1_6_4_+1_  5__.0__
+    3_  3_3_335_4_2_  1__0__.
+    34  5_3_+1_6_4_+1_  5__0__.
+    4_  3_3_335_3_2_  1__0__. //] >>
+FCT[Zech -, Schalks - Lied, Spott - Lied, anti - klerikal]

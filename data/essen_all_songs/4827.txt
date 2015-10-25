@@ -1,0 +1,11 @@
+DVA
+CUT[Als Gott die Welt erschaffen hat
+    und allerlei Getier]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0070  08  D 2/4]
+MEL[1  1234  555
+    5  67+16  650
+    5  5442  133
+    3  2342  1_0 //] >>
+FCT[geistliches Scherz - Lied]
+CMT[Inzipit = Variante zum Lied]

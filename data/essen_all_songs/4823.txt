@@ -1,0 +1,12 @@
+DVA
+CUT[Schlangenkoechin
+    " Wo bist Du gewesen, meine Tochter Marjae ?"]
+CNR[" Bei meiner Stiefgothe, O Mama, wie weh !"]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0067  08  F 3/4]
+MEL[34  5_3_56  4_2_
+    44  3_1_3_  2__
+    -5_  1_1_2_  3_3_
+    4_  5_4_7_  1__ //] >>
+FCT[Ballade]
+CMT[Inzipit = Variante zum Lied]

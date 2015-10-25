@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es kam ein betruebter Reiter daher,]
+CNR[der reitet wol fuer der Frau Wirtin ihre Thuer]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen]
+SRC[4, S. 34
+    1879 gedruckt in Magdeburg]
+KEY[Q0072Q 16  F 4/4]
+MEL[3_2_  1__1_.11_2_3_4_  5__5_.55__
+    6__  5__4_.44__5_4_  4_3_3__3__
+    5__  3__2__2__1_2_  3__3__3__
+    5__  5__2__2__1_2_  3__3__3__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]

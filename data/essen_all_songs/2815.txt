@@ -1,0 +1,7 @@
+F[ERK1
+CUT[ES FUHR EIN SCHIFFLEIN WOL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0186C 16  G 6/8]
+MEL[12  3_.23_1_2_3_  4_.34_2__
+    23  4_2_5_3_.21_  2_.32_1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte, Mord]

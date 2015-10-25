@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Heirathslust]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0232B 08  G 4/4]
+MEL[1_  3b_3b_4_4_  5_5_5__
+    3b45_3b45_  4_3b_2_
+    5_  5_2_3b_1_  1_1_2__
+    3b_2_1_1_  1_-7_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M Franck, Fasc. quodl. 1611 No. 3]

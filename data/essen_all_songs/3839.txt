@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WER HOFFAHRT TREIBT MIT FREMDEN GUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1176  04  F 4/4]
+MEL[566  5342  1_0
+    +1  7654  5_6_  5__  0
+    566  5342  1_0
+    +1  7654  5_6_  5__  0
+    5+1+1  7564  3_0
+    5  3451  2_1_  0
+    134  5467  +1_0
+    1  1531  5_6_  5__  0 //] >>
+FCT[Zech -, Spott - Lied]

@@ -1,0 +1,13 @@
+F[ERK5
+CUT[Es wohnet Lieb bei Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0086  04  D 3/2]
+MEL[1_  3b_3b4_4  5_5_
+    5_  7b_7b6b_4  5_4_
+    4_  5_55_7b  6b_5_
+    5_  4_3b5_3b  2_1_
+    5_  4_43b_1  23b4_
+    4_  4_44_5  6b_5_
+    5_  4_3b5_3b  2_1_ //] >>
+FCT[Lied]
+CMT[1581]

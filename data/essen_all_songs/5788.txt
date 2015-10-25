@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Brautlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0239  04  G 4/2 6/2]
+MEL[1_  3b_3b_4_5_  4_3b_2_
+    6_  7b_+1_7b_6_  5_4#_5__0_
+    5_  +1_7b_6_5_  7b_6_5_
+    5_  5_.55_3b_  1_.23b_
+    3b_  2_1_1_1_  -7_1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Beuttner 1602 II No. 89.]

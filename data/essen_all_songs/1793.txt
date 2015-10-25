@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das mannstolle Maedchen
+    Ein meydlin an dem laden lag,]
+CNR[vnd es schrey ueberlaut:]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 76
+    1535 gedruckt in Frankfurt a.M.]
+KEY[Q0126  08  G FREI]
+MEL[1_  1_2_3_4__  3_2__1_
+    1_  5_2__5__4_  5__0_
+    5__  4_2_3_4_  5__4__
+    32  1__1_2_.34_  5__
+    5_4_  321__23456_5_.3  4_2__1___ //] >>
+FCT[Ballade, Werbung, Betrug]
+CMT[Zaesuren vom Abdruck auf S. 92 uebernommen.]

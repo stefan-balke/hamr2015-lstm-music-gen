@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der falsche Schreiber
+    Es zog ein Herr wohl in den Krieg,]
+CNR[uebergab dem Schreiber seine Liebste.]
+REG[Mitteleuropa, Deutschland / Polen, Pommern, Greifenhagen]
+SRC[5, S. 181
+    1893 gedruckt in Leipzig]
+KEY[Q0105  16  G 2/4]
+MEL[1_  4_6_6_42  1_5_5_
+    11  4_4_3153  2__1_ //] >>
+FCT[Ballade, Ehe, Treue, Verleumdung, Mord, Selbstmord]

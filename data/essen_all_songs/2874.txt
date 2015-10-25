@@ -1,0 +1,13 @@
+F[ERK1
+CUT[DER DEUTSCH-FRANZOS BEKLAGT SICH SEHR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0311  04  F 4/4]
+MEL[3  2123  432
+    3  21-71  2_1
+    3  2123  432
+    3  21-71  2_1
+    1  2343  212
+    3  21-71  2_1
+    1  -6-711  231
+    3  21-71  2_1 //] >>
+FCT[historisches Lied, Spott - Lied]

@@ -1,0 +1,11 @@
+BOEHME
+CUT[WIEDERSEHN WORT DES TROSTES]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0780  16 Eb 4/4]
+MEL[  5___.3__  3___0__
+    1_3_  5__.5_5_6_7_+1_  7___0__
+    7_6_  5__.6_5__4__  4__3__0__
+    3_.2  2__.1_1__.-7_  -6__-7__1__
+    2_3_  4__.2_4_3_2_1_  2___0___
+    6__.4_7__.5_  +1__.5_5__3_1_  5___.-7__  1____ //] >>
+FCT[Trost - Lied, Abschied]

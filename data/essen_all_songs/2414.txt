@@ -1,0 +1,15 @@
+FINK
+CUT[DES JAHRES LETZTE STUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1021  08 Eb 4/4]
+MEL[-5_  1_3_5_5_  5__3_
+    21  2_2_2_-5_  3__0_
+    1_  3_5_+1_+1_  +1__6_
+    54  5_5_7_6_  5__0_
+    2_  5_6_7b_7b_  7b__6_
+    5_  4_3_2_1_  3__2_
+    -5_  1_3_5_5_  +1_.+1+1_
+    1_  2_3_4_3_  -6__-7__  1__0_
+    1_  3_1_5_3_  +1__.+1_  +1__.
+    1_  2_3_4_3_  6__-7__  1__0_ //] >>
+FCT[Erbauungs - Lied, religioes, Fest, Neujahr]

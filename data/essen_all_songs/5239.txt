@@ -1,0 +1,15 @@
+BOEHME
+CUT[KOMM TROST DER NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0766  04  D 4/4]
+MEL[1  5315  665
+    5  67+17  665
+    3  6543  2_1
+    1  5315  665
+    5  67+17  665
+    3  6543  2_10
+    5_3_  5_3_
+    4323  4323
+    432_  1_
+    +17  6543  2_1 //] >>
+FCT[Trost -, Tageszeiten - Lied, Abend, religioes]

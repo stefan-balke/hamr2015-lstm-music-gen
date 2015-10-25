@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der Baer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0460  02  F 3/2]
+MEL[1  112  3_1  334  5_
+    5  555  554  312  1_
+    5  555  554  312  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 75.]

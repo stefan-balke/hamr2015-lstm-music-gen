@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ACH, ACH, ICH ARMES KLOSTERFRAEULEIN!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0109  08  G 4/4]
+MEL[3_  5_.43212  3_6_5_0
+    5  5+1765_4#4#  5__0_
+    5_  5_435_43  6__5_
+    4_  3_.32_54  3__0_
+    5_  5_435_43  +1__7_
+    6_  5_432654  3__0_ //] >>
+FCT[Sagen - Lied, Romanze]

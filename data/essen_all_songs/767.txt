@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Schwestern"
+    ES WAR EINMAL EIN KUEPPER SCHLAU]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1032  08  C 3/2]
+MEL[-5_  -5__1_1_-7_1_  2__3b21__
+    24  3b_2_1_-7_-6_-5_  1_.23b_2__
+    2_  2_1_23b4_3b_2_  3b_2_1_1_-7_
+    -6_  -5_-6_-7_1_2_3b_  2__.1_0_ //] >>
+FCT[Romanze, Ballade]

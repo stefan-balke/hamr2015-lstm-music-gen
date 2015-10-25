@@ -1,0 +1,16 @@
+F[ERK3
+CUT[FROEHLICH ZU SEIN IN EHREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1147  04  G 4/4]
+MEL[5  5555  6_5
+    3  4322  1_0
+    5  5555  6_5
+    3  4322  1_0
+    5  6654  333
+    5  6654  333
+    5  7b654#  5_0
+    6  7b654#  5_0
+    3  3234  5_2
+    2  3234  5_2
+    4  3322  1_0 //] >>
+FCT[Trink -, Zech - Lied]

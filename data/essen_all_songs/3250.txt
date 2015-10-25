@@ -1,0 +1,9 @@
+F[ERK2
+CUT[SCHOENE AUGEN SCHOENE STRAHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Brandenburg]
+KEY[E0701  08  C 3/4]
+MEL[  1-71-6-5-6  -5_-4_-3_
+    1-71-6-5-6  -5_-4_-3_
+    133331  -72222-7
+    1-6-5_-7_  1_0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

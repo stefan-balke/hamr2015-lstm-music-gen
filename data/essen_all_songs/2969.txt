@@ -1,0 +1,9 @@
+F[ERK1
+CUT[EINEN RING TRAG ICH VON DIR]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0435  08  F 4/4]
+MEL[  5_5_3_1_  2_321_0_
+    5_5_+1_3_  5_.43_0_
+    1_1_+1_+1_  4_655_0_
+    3_1_5_3_  2_321_0_ //] >>
+FCT[Liebes - Lied, Treue]

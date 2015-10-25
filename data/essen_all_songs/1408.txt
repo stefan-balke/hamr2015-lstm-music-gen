@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Koenig von Mailand
+    Als ich ein kleines Maedchen war,]
+CNR[stirbt mir mein Vater und Mutter,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 234
+    1928 gedruckt in Heidelberg]
+KEY[Q0041c 08  D FREI]
+MEL[5_5_4_3b_.45_  5_543b__
+    5_4_4_1_.14_  3b21_-7b__
+    -7b_3b_4_5_.24_  3b_2_1__ //] >>
+FCT[Ballade, Verfuehrung, Mord, Rache]
+CMT[Melodievergleich zu Q0067, anderes Lied "Maedchenmoerder" , deshalb
+    in die Balladengruppe Q0041 eingeordnet. Schon kodiert ?]

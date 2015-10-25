@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Koenig von Mailand
+    Ich sachs eins mals den lichten morgensterne:]
+CNR[bei meinem bulen so waer ich alzeit gerne.]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 234
+    1480 Handschrift Glogau]
+KEY[Q1067D 08  D FREI]
+MEL[1_  3b_5_4_5__5_  6b55_4_6b53b_
+    4_  5_3b543b1_5_43b  1_3b_1_-7b_
+    1_  3b__4_5_3b_1_  5_453b12_  1__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0067, anderes Lied.]

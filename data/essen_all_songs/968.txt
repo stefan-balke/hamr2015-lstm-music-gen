@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Liebeskummer"
+    DASS IM WALD FINSTER IS]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1233  08  G 3/4]
+MEL[  (35+1)1__  -511335  5_.4-7_
+    (247)-7__  -5-7-7_-7_  5__
+    54  (35+1)1__  -511335  5_.4-7_
+    (247)-7__  -5-7654-7  1__0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

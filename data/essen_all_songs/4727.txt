@@ -1,0 +1,12 @@
+ALTDEU
+CUT["Kommt her zu mir" spricht Gottes Sohn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0636B 04  G 4/2]
+MEL[    1__2_1_  5__.4_  5_3b_2__  0_
+    2_3b_2_  3b_5_4_3b_  2__0_
+    2_  1_1_4_.3b  2_3b_1__  -7b__0__
+    2__3b_2_  3b_5_4_3b_  2__0_
+    2_  3b_2_3b_5_  4_3b_2__  0__
+    4__  3b_2_3b_1_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Einzeldruck von 1530.]

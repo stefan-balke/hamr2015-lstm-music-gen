@@ -1,0 +1,18 @@
+BOEHME
+CUT[GIB MIR DIE BLUMEN GIB MIR DEN KRANZ]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0383  16  G 3/8]
+MEL[  1_2_3_  5_4_2_  3_1_3_  2__0_
+    2_3_4_  6_5_3_  5_4_2_  1__0_
+    2_2_2_  2_7_5_  4#_3_4#_  5__.
+    3_3_3_  5_.43_  2_1_2_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[GIB MIR DIE BLUMEN GIB MIR DEN KRANZ]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0383  16  G 3/8]
+MEL[  1_2_3_  5_4_2_  3_1_3_  2__0_
+    2_3_4_  6_5_3_  5_4_2_  1__0_
+    2_2_2_  2_7_5_  4#_3_4#_  5__.
+    3_3_3_  5_.43_  2_1_2_  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

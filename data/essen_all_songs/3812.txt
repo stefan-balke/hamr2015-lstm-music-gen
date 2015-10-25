@@ -1,0 +1,12 @@
+F[ERK3
+CUT[DEN LIEBSTEN BUHLEN DEN ICH HAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1119  04  F 6/4]
+MEL[-5  1_12_2  3_32_
+    5  3_12_-7  1_.1_
+    -5  1_12_2  3_32_
+    5  3_12_-7  1_.1_
+    3  5_52_2  3_32_
+    2  5_52_2  3_32_
+    5  3_21_4  3_.2_.  1__0 //] >>
+FCT[Trink -, Zech - Lied]

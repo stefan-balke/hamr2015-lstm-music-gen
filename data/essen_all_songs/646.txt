@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[OLL MANN WULL RIEDEN, WOHL HAD HE KEEN PEERD]
+REG[Europa, Mitteleuropa, Deutschland, Pommern]
+KEY[Z0230  16  F 3/8]
+MEL[1_1_2_  -7_-6_-5_
+    1_1-713  2__.
+    4_4_44  3_2_1_
+    1_2_3_  1_-7-6-5_
+    1_1_3_  2_1_0_ //] >>
+FCT[Erzaehlung, lustige Romanze, Spott - Lied]

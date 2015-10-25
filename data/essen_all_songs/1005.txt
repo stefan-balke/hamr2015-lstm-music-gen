@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Entschuldigung"
+    'N MONTAG HAT'S G'REGNET]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1270  08  G 3/4]
+MEL[-5_  -533_21  1-7-7-6
+    -7_  -744_32  21
+    1-71_  155_43  3221#2_
+    266_54  3__ //] >>
+FCT[Natur und Welt]

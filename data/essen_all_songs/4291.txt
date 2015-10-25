@@ -1,0 +1,10 @@
+F[ERK3
+CUT[LANGE LANGE REIGE]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Thueringen]
+KEY[E1871  08  C 2/4]
+MEL[  1113  1_-5_
+    1113  1_-5_
+    1113  11-5_
+    1113  11-5_
+    1113  1_-5_ //] >>
+FCT[Kinder - Lied, Tanz, Ringelreihen]

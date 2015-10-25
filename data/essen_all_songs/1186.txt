@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Es freit' ein edler Reicher,]
+CNR[er freit sich seines Gleichen,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[2, S. 186
+    1842 aufgezeichnet]
+KEY[Q0047G 16  G 6/8]
+MEL[-5_  1__1_1_-7_1_  2_1_0__.
+    -5_  1__1_1_-7_1_  2_1_0__.
+    1_  5__5_4_4_4_  3__3_2_4_
+    32  1__2_3_3_2_  1__2_1__ //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]
+CMT[Verzierungen (Vorschlaege) in fast jeder Zeile.]

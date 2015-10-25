@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Nachtjaeger
+    Der Jaeger, er jagte ein wueldes, wueldes Schwein,]
+CNR[er jagte bei der Nacht, bei hoellem Mondenschein,]
+REG[Osteuropa, Tschechoslowakei, Boehmerwald, Muttersdorf]
+SRC[6, S. 168
+    1961 aufgezeichnet]
+KEY[Q0133E 16  G 4/4]
+MEL[5_  5__3_+1_+1__7_.6  6_.55_+1_5__0_
+    3_  3_.22_6_6__5_2_  4_.33_6_5__0_
+    5_  +1_.+1+1_+3_+2_+3_+4_+2_  7_5_6_7_+1__0_ //] >>
+FCT[Ballade, Jagd, Flucht, Vergewaltigung, Tod]
+CMT[Verzierungen (Glissandi) .]

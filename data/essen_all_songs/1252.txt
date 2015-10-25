@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Uns ist gborn ein Kindelein]
+CNR[von einr Jungfraun reine,]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 298
+    1609 gedruckt in Wolfenbuettel]
+KEY[Q1053N 04  F 6/4]
+MEL[1_2  3_4323  1_.
+    5_6  567+167  +1_.
+    1_2  3_4323  1_.
+    5_6  567+167  +1_.
+    +1_+2  +1_7656  5_
+    35_4  3231-6-7  1_. //] >>
+FCT[geistlich, Weihnachts - Lied]
+CMT[Melodievergleich zu Q0053B, anderes Lied]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ES WOLLT EIN MAEDCHEN BRECHEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0071  08  F 2/4]
+MEL[-5  1111  311
+    1  5111  2_1
+    -5  1111  311
+    1  5111  2_1
+    1  4444  644
+    4  4222  5_-5
+    -5  1111  311
+    1  +1111  2_1 //] >>
+FCT[Sagen - Lied, Romanze]

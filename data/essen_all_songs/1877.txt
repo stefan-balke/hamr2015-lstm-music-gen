@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Er was laastmaal een ruitere]
+CNR[die in een wijnhuis zat.]
+REG[Mitteleuropa, Niederlande]
+SRC[6, S. 284
+    1879 gedruckt in Bruges]
+KEY[Q2139L 16  G 6/8]
+MEL[1_  1_-5_3_3_1_5_  5__543__
+    5_  5__6_6_5_6_  5__.0__
+    5_  5__+1_+1_7_+1_  5__.3_0_
+    5_  5__4_4_3_4_  3__.0__
+    3_  3__.2__.  3_4_5_+1_7_6_  5__.4__.  3__.0__
+    5_  +1__7+15__6_  5_+1_
+    7_6_5_4_  3__.2__.  1__.^__ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Schlusspause weggelassen. Niederlaendische Fassung der Ballade.]

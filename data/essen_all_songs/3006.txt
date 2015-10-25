@@ -1,0 +1,13 @@
+F[ERK1
+CUT[SIND WIR GESCHIEDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0509  08  G 2/4]
+MEL[-7b  3b_4_  5_4
+    5  6b543b  4_.
+    -7b  3b_4_  56b7b
+    6b  53b42  3b_.
+    4  4_4_  21-7b
+    5  5_5_  3b21
+    1  6b543b  2_.
+    4  3b12-7  1_. //] >>
+FCT[Liebes - Lied]

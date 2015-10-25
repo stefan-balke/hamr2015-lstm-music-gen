@@ -1,0 +1,11 @@
+F[ERK3
+CUT[SCHAETZCHEN SAG WAS FEHLT DENN DIR]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Frankfurt a.M.; Giessen]
+KEY[E1419  08  G 4/4]
+MEL[  1_1_-7_1_  21-7-6-5__
+    3_3_2_3_  4_3_2_
+    11  2_2_2_1-7  1_5_3_1_
+    2_2_2_1-7  1_5_3_1_
+    4_6_5_.3  322_135_
+    4_6_5_.3  322_1_0_ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe]

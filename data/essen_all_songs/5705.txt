@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Herzens Schluessel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0135A 02  F 4/2 6/2]
+MEL[1_11  3355  3
+    555  432_  1__
+    1_11  3355  3
+    555  432_  1_.
+    5  5554  3_2_  0_
+    3_  4_45_3  2__  0_
+    5_  6553  1_53_
+    5  55432_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder. Nuernberg c. 1542 No. 21.]

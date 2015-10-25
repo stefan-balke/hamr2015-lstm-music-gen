@@ -1,0 +1,11 @@
+BOEHME
+CUT[WINTER ADE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0626  16  G 3/8]
+MEL[  3_3_2_  1__.
+    3_3_2_  1__.
+    3_4_5_  5_434_
+    2_3_4_  4_323_
+    3_3_4_  5__.
+    3_3_2_  1__. //] >>
+FCT[Kinder -, Jahreszeiten - Lied, Winter]

@@ -1,0 +1,20 @@
+DVA
+CUT[Lied der Siegerlaender Hammerschmiede
+    Es ist kein Doerfchen so kleine]
+CNR[ein Hammerschmied muss drinnen seine]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0266  08  G 6/8 4/4]
+MEL[-5  1_11-7-6  -5_.-3_
+    -5  1111-7-6  -5_.-3_0
+    3_3_333_  33655_4_
+    222_2222  22655_4_  0___
+    1_111_-5_  5_553_0_
+    333333  3235_4
+    222222  2123_.
+    333333  3235_4
+    222222  2121_ //] >>
+FCT[Trink - Lied, Zech - Lied]
+CMT[rhythmische Korrekturen in Zeile 261, 262 und 263 (Pause ergaenzt) ;
+    263 und 265; Tonrepetitionen ; Pause - Takt in Zeile 262 fuer
+    szenisches Spiel vorgesehen; Refrain (ab Zeile 264) mehrstimmig
+    Inzipit = Variante zum Lied (?)]

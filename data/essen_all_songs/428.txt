@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ES IST EIN WIRTHSHAUS AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0014  16  F 2/4 3/8]
+MEL[  -5__1_3_  5__.3_  2_3_2_  1__.
+    +1__7_6_  5__5__  4_6_5_  5__.
+    -5__1_3_  5__.3_  2_3_2_  1__.
+    +1__7_6_  5__5__  4_6_5_  5__.  0__
+    5__  3_5_5555  +1_+1_6_6_
+    6_6_6+176  6_5_5_
+    5_  5_5_6543  4__5__  1__0__ //] >>
+FCT[Sagen - Lied, Romanze]

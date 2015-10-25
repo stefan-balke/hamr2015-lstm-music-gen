@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es ritt ein Reiter durch ein Ried,]
+CNR[der sang ein wunderschoenes Lied,]
+REG[Mitteleuropa, Schweiz]
+SRC[2, S. 112
+    190? aufgezeichnet (Anfang d. Jh.)]
+KEY[Q0041Q 08  G 6/8]
+MEL[1  3_1135  2_-7-5_
+    -7  2_-7-5-72  3_11_
+    -5  1-7-6-5-4-3  -5_43_
+    2  1-7-6-5-4-3  -5_-71_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

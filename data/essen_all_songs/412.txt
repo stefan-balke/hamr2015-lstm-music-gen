@@ -1,0 +1,26 @@
+BOEHME
+CUT[HEITER WAR DER FRUEHLING]
+REG[Europa, Mitteleuropa, Deutschland, Hildburghausen]
+KEY[B0485  08 Eb 4/4]
+MEL[54  3_.11165  544_0_
+    43  2_.34654  3__0_
+    54  3_.11165  544_0_
+    43  2_.34654  3__0_
+    55  +1_.56543  6_6_0_
+    +16  5_.36543  2__0_
+    55  +1_.56543  6_6_0_
+    +16  5_.36542  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[HEITER WAR DER FRUEHLING]
+REG[Europa, Mitteleuropa, Deutschland, Hildburghausen]
+KEY[B0485  08 Eb 4/4]
+MEL[54  3_.11165  544_0_
+    43  2_.34654  3__0_
+    54  3_.11165  544_0_
+    43  2_.34654  3__0_
+    55  +1_.56543  6_6_0_
+    +16  5_.36543  2__0_
+    55  +1_.56543  6_6_0_
+    +16  5_.36542  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

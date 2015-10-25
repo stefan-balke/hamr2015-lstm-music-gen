@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DIE REISE NACH JUETLAND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Gegend]
+KEY[E1429  08 Bb 3/4]
+MEL[-3_  -5_-3_-5_  -533_
+    1_  1_.23_  2__
+    23  4_.254  3_.2
+    1_  2_1_-7_  5__
+    65  4_.254  3_.2
+    1_  2_1_-7_  1__ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe, Abschied]

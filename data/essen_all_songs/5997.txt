@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Es stand ein Schloss in Oest'reichs Landen]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+SRC[1, S. 274
+    1892 gedruckt in Neuwied]
+KEY[Q0024O 16  D 3/4]
+MEL[1_  1_355__4_2_  1_.33__2_
+    1_  1_355__4_2_  4_5_3__0_
+    5_  5_7+2+2__7_5_  6_7_+1__
+    +1__  6_6_5__3__  4_5_3__0_ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Vgl. Q0024L und M]

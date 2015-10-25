@@ -1,0 +1,9 @@
+F[ERK2
+CUT[SCHOENE AUGEN SCHOENE STRAHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Ruppin, Roennebeck]
+KEY[E0701A 16  C 3/4]
+MEL[  1_.21_-5_-6-71-6  -5__-4__-3__
+    1_.21_-5_-6-71-6  -5__-4__-3__
+    1_3_3_3_3_1_  -7_2_2_2_2_-7_
+    1__-6__2__  1__0___ //] >>
+FCT[Liebes - Lied, Leid, Klage]

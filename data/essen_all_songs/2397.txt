@@ -1,0 +1,11 @@
+FINK
+CUT[WALDVOEGELEIN WO SINGST DU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0982  08  E 6/8]
+MEL[  1-5-4#-5_1  3_.1_.
+    2-5-6-7_2  4_.2_.
+    321-7-71  2_.3_.
+    321-7-71  2_.3_.
+    1_.-5_.  3_.1_
+    1  1-5-5311  2_51_0 //] >>
+FCT[Natur - Lied, Tier]

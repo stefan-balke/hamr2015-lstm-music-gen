@@ -1,0 +1,9 @@
+FINK
+CUT[IN DIESER WOELBUNG DES BUSENS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0316  16  E 6/8]
+MEL[3_  5__3_1_1_1_  2_.12_3__
+    3_  6_3_3_+1_.76_  5__.3__
+    3_  -5_-5_-5_-5_.31_  1_1_1_6__
+    +1_  5_.43_2_2_5_  3__.1__ //] >>
+FCT[Jugend - Lied, Belehrung, Moral]

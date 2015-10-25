@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    De keizer van Zweden had brieven geschreven,]
+CNR[al naar 'tmooi meisje van Parijs,]
+REG[Mitteleuropa, Niederlande, Flandern]
+SRC[4, S. 34
+    1879 gedruckt in Bruges]
+KEY[Q2072N 08  G 3/4]
+MEL[12  3_3_2_  1_1_5_  4_3_2_  3_3_
+    12  3__32  1__5_  4_3_2_  3_0_
+    3_  2_4_2_  1_1_3_  2_4_2_  3_0_
+    3_  2_4_2_  1_1_3_  2_4_2_  1__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Flandrische Fassung der Ballade. Verzierungen (Vorschlaege) in der
+    ersten und zweiten Zeile.]

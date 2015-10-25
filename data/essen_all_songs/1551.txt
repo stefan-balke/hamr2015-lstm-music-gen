@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es reitet ein Reiter wohl durch das Land.]
+CNR[Frau Wirtin war ihm unbekannt.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Walschbronn]
+SRC[4, S. 31
+    1928 gedruckt in Heidelberg]
+KEY[Q0072H 08  G 3/8]
+MEL[1  133  321  2_3  20
+    3  321  2_5  432  10
+    3  5_3  565  432  10
+    1  334  5_3  232  10 //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]

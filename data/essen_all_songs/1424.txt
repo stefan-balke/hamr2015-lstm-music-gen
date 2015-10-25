@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Wir lobn die Heilig und die rein,]
+CNR[wir lobn die Heilig und die rein,]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 260
+    1631 gedruckt]
+KEY[Q1068M 04  D 6/4]
+MEL[1  1_-7b3b_3b  4543b_
+    1  1_-7b3b_3b  4543b_
+    7b  7b_45_2  3b421_
+    7b  7b_45_2  3b421_ //] >>
+FCT[geistlich, Ruf]
+CMT[Melodievergleich zu Q0068L und J, anderes Lied.]

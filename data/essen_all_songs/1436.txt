@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Vater und Tochter
+    Es wollt ein Jaeger jagen,]
+CNR[und so sprach er,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[7, S. 10
+    1854 aufgezeichnet]
+KEY[Q0142  16  G 2/4]
+MEL[-5_  1_1_1_3_  2_-7_-5_
+    -5_  1__-6__  -5__.
+    -5_  1_1_3_4_  5_3_1_
+    -5_  1_1_2_2_  5_.31_
+    -5_  1_1_322_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verwechslung]
+CMT[Zweite Zeile refrainartig.]

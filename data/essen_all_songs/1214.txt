@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Ins hiet a Mueter zbian Teachterlein,]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 238
+    ????]
+KEY[Q1049J 16  G 2/2]
+MEL[-5__1__2__  3_.-72__1__-7__  -6__
+    -5__-6__-7__  1_.23__-7__2__  1__ //] >>
+FCT[Ballade, ??]
+CMT[Melodievergleich zu Q0049B, anderes Lied: Ballade "Die Stiefmutter"]

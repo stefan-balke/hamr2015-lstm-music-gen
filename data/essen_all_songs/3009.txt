@@ -1,0 +1,19 @@
+F[ERK1
+CUT[WENN ZU MEIM SCHAETZEL KOMMST]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E0510B 16  G 3/8]
+MEL[  3_.23_  4_4_-5_
+    4_.46_  5__3_
+    3_.23_  4_4_-5_
+    4_.46_  5__3_
+    2_.32_  2_.32_
+    2_.323  4__.  3__.  2__.
+    3_3_3_  3_5__
+    5_4342  1_+1_5_
+    3_3_3_  3_5__
+    5_4342  1__0_
+    3_3_3_  3_5__
+    5_4342  1_+1_5_
+    3_3_3_  3_5__
+    5_4342  1__0_ //] >>
+FCT[Liebes - Lied; Studenten - Lied]

@@ -1,0 +1,12 @@
+F[ERK2
+CUT[KOMMT HER IHR LIEBEN SCHWESTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0939  04  F 4/4]
+MEL[1  5511  551
+    1  5511  551_
+    5_65  4322  1_0_
+    5_65  4322  1_0
+    2  2221  -712
+    2  2221  -712_  0
+    431  2211  1__ //] >>
+FCT[Tanz - Lied, Reigen, geistlich; Abend]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Dai Bochtel shluget in insher Valde.]
+CNR[Gott gib insch haier a guetes Juhr!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 238
+    ????]
+KEY[Q1049G 04  A 3/4]
+MEL[1  21-7  112  212  1_
+    2  3b21  -712  1_-7  1_
+    1  21-7  112  212  1_
+    2  3b21  -712  1_-7  1_ //] >>
+FCT[Brauchtums - Lied, religioes]
+CMT[Melodievergleich zu Q0049B, anderes Lied.]

@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Mahnung"
+    BIST SCHON LANG MAI SCHATZERL GWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1231  08 Bb 3/4]
+MEL[-53  3_2-542  2_1_
+    34  5_4264  4_3_
+    -53  3_2-542  2_1_
+    34  5_4264  4_3_
+    35  5_4264  4_31
+    53  3_2-542  2_1_
+    35  5_4264  4_31
+    53  3_2-542  2_1_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

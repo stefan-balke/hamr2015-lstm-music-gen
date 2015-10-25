@@ -1,0 +1,13 @@
+BOEHME
+CUT[OSEN AUF DEN WEG GESTREUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0653  08 Bb 4/4]
+MEL[  1_-5_-5_-4-3  -6_-6_-6__
+    -7_.12_-7_  1_3_1__
+    1_-5_-5_-4-3  -6_-6_-6__
+    -7_.12_-7_  1_3_1__
+    3_212_-5_  1_-7-6-7__
+    3_.4#5_-5-6  -7_-6_-5_0_
+    1_-5_-5_-4-3  -6_-6_-6__
+    4_321_-7_  1__-1_0_ //] >>
+FCT[Moral - Lied, Vergaenglichkeit]

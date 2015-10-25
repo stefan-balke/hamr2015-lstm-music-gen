@@ -1,0 +1,9 @@
+F[BALLADE
+CUT[Das neue Grab
+    Es hot shi der maren in an naien Grube:]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Ober Wetzenbach]
+SRC[5, S. 226
+    1909 aufgezeichnet]
+KEY[Q0110A 04  G 3/4]
+MEL[-7  1_2  1_-7  1_2  1_ //] >>
+FCT[Ballade, Tod, Geburt]

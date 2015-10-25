@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Sehnsucht"
+    'S ISCH EBEN E MENSCH UF ERDE]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1219  16  A 4/4]
+MEL[-5__  1_1-71_2_3b_1_2__  3b_3b12___0_
+    -5_  1_1-71_2_3b_1_2__  3b_3b12__5_0__
+    5_  2_21-7_1_2_23b2_5_  43b21-7_112123b2_
+    12  3b_3b3b4_4_5__4_4_  3b_1_2_23b1__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt' ein Maedchen in der Frueh aufstehn]
+CNR[dreiviertel Stund vor Tag,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Kerbach]
+SRC[7, S. 71
+    1980 aufgezeichnet]
+KEY[Q0147  08  G 4/4]
+MEL[-5_  1_1_1111  -6_-6_-5_
+    -5_  -5_4_3_2_  1__0_
+    12  3_.13_5_  5_4_2_.
+    5  5_.77_.6  6_5_3_
+    55  5_4_-6_-7_  11321_
+    12  3_.13_5_  5_4_2_.
+    5  5_.77_.6  6_5_3_
+    55  5_4_-6_-7_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Zwei Notenwerte in der 5. Zeile rhythmisch korrigiert.
+    Vierte und siebte Zeile refrainartig.]

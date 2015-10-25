@@ -1,0 +1,13 @@
+KINDER
+CUT[DREIMAL UM DAS KAESTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2166  08  G 2/4]
+MEL[  5566  5_3
+    1  5555  +1_0
+    1  5566  5_5_
+    5_5_  +1_0
+    1  5526  553
+    1  5551  5_5
+    1  5551  555
+    1  5565  5_5_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

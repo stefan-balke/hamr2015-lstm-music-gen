@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Ein alter Ruf, wenn man zu Unser Lieben Frawen kirchfahrten thut]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0604  04  C 4/2]
+MEL[1_  1_2_1_-7_  -6__-5_
+    -5_  1_1_2_4_  3__0_
+    2_  3_4_5_3_  3_5_4_
+    3_  2_1_3_1_  -6_-7_1__
+    -6_-6-6-7__  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 No. 30]

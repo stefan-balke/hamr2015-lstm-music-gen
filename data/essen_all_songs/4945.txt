@@ -1,0 +1,14 @@
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Franken, Bamberg Stadt,
+    Neustadt a.S.]
+KEY[D1017  08  G 4/4]
+MEL[-5-5  3_.21-713  -5__.
+    -5-7  2_.1-7265  3__.
+    12  355__43  21-6__
+    1-7  -6-51-716_5  3__.
+    12  355__43  21-6__
+    1-7  -6-51-716_5  3__. //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 190 014]

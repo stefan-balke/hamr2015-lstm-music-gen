@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der Faltenrock]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0461  08  F 4/4]
+MEL[1_  5_556_6_  5_5_3_
+    1_  5_556_6_  5_5_3_
+    5_  4_3_2_5_  4_3_2_4_  3_2_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Nic. Zange 1620 No. 25.]

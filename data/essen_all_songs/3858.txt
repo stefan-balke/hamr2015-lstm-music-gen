@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HIER TRETEN WIR HER]
+REG[Europa, Mitteleuropa, Deutschland, West - Holstein, Ditmarschen]
+KEY[E1201A 08  C 3/4]
+MEL[-5_  1_.-713  2_.1
+    -71  2_.-71-6  -5_0_
+    4_  3_5_1_  4__
+    2_  1_1_-7_  1__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige]

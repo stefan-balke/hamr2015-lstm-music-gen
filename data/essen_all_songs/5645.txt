@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Die Maid vom Rosenthal]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0057  02  A 3/2]
+MEL[1  1_1  1_2  3b_3b  3b_
+    3b  111  3b_3b  1_.  -7b_
+    -7b  3b_4  5_5  5_5  5_
+    5  5_5  5_5  2_.  4_
+    4  3b_1  2_1  1_-7  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie: H. Finck 1536 No. 47.]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt ein Jaegerli jagen]
+CNR[drei Stuendeli vor dem Tagen]
+REG[Mitteleuropa, Schweiz]
+SRC[7, S. 215
+    ????]
+KEY[Q0152J 16  G 6/8]
+MEL[-5_  1__1_3_.21_  -7__1_2__
+    -5_  1_.21_3_2_1_  -7__1_2__
+    34  5_.31_1_-7_1_  2__-7_-5__
+    34  5_.31_2_.1-7_  1__0__. //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]

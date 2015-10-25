@@ -1,0 +1,12 @@
+DVA
+CUT[Aber Montag, da ist a Knoedltag,
+    wenns nur all Tag Montag Knoedltag waere]
+REG[Europa, Mitteleuropa, Deutschland, Oberfranken]
+KEY[D0144  08  G FREI]
+MEL[-5_-5_3__1__.-5_-5_-5_3_3_1__.0_
+    -5_  3_3_3_3_3_333_5__4__
+    2_  4_444_444_6_6_5__3__
+    1_  3_333_333_5__4__3__.0_ //] >>
+FCT[Scherz - Lied]
+CMT[zweistimmig notiert (parallele Terzen) ; Inzipit  = entfernte
+    Variante zum Lied]

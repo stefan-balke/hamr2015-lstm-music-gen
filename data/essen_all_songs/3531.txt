@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es wollt' ui Knaeblein ausreite,]
+CNR[es wollt' ui Knaeblein ausreite]
+REG[Suedosteuropa, Rumaenien, Banat, Sathmar]
+SRC[5, S. 21
+    ????]
+KEY[Q0089L 04  G 3/4]
+MEL[-7b  3b_2  3b3b4  3b_.  2_
+    -7b  3b_2  3b3b4  3b_.  2_
+    3b  1_1  5_5  444  5_
+    3b  2_1  5_4  3b3b2  1_ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]
+CMT[Wechselgesang VorsaengerIn - Gruppe.]

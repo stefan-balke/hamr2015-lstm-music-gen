@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ZU STRASBURG AUF DER SCHANZ]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben; Rheinland]
+KEY[Z0004  16  G 4/4]
+MEL[1__  3__3__3__3__  2___0__
+    2__  4__4__4_6_5_4_  3___0_
+    3_3_4_  5_5_4_3_+1__6__  6__.5_5__
+    3__  3_.22_2_2_6_5_4_  4__.3_3__
+    1_3_  5___4___  3___0__ //] >>
+FCT[Sagen - Lied, Romanze]

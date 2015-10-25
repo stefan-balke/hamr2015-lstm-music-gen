@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HE HE FERNDIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1563  16  A 6/8]
+MEL[1_  1__5_5__4_  5_.43b_2__
+    3b_  1_.-71_2__3b_  1_-7_1_2__
+    3b_  1_-7_1_2__
+    5_  5__2_3b__2_  1__.0__ //] >>
+FCT[Staende -, Bauern - Lied, Flachsbrechen, bei der Arbeit]

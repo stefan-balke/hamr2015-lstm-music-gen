@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES WAR EINMAL EIN MUELLERIN]
+REG[Europa, Mitteleuropa, Deutschland, Taunus; Elsass]
+KEY[E0156A 16  F 2/4]
+MEL[-5_  1_.23_4_  5_.65_
+    3_  4_.34_5_  3__0_
+    13  5_3_5_3_  5_+1_6_
+    5_  4_2_4_2_  4_6_5_
+    4_  3_.23_4_  5_+1_7_
+    6_  5_.34_5_  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank
+    Ballade ?]

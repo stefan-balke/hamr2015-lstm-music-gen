@@ -1,0 +1,15 @@
+DVA
+CUT[Im Wald, im Wald, im Wald
+    da ist mein Aufenthalt]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0182  16  D 6/8]
+MEL[ 5_  5__5_5__+3_  +1__.^__
+    5_  5__5_6__5_  4__.^__
+    +3_  +2__+3_+2__+3_  +2__.^__
+    +1_  7__6_5__4_  3__.^__
+    55  +3_+2_+1_+1_7_6_  5_5_5_5_5_
+    +1_  7_7_7_7_7_+2_  +1_+1_+1_+1_+1_
+    55  +3_+2_+1_+1_7_6_  5_5_5_5_5_
+    +1+1  7_7_5_+3_+3_+2_  1__.^__ //] >>
+FCT[Jaeger - Lied]
+CMT[Inzipit = Variante zum Lied; Sequenzen]

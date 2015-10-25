@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Tanhuser]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[A0022  08  C 3/4]
+MEL[-5  1-71_2_  -7-4#-5_.
+    1  45431_  2_3_0
+    1  345_.1  234_.
+    1  312_1_  -7_1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus der Schweiz nach  muendlicher Ueberlieferung 1830 durch
+    Prof. Stalder aufgezeichnet.]

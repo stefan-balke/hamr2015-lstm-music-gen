@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Kuhreigen"
+    Z' BASEL IS GAR GRUEELI LUSTI]
+REG[Europa, Mitteleuropa, Schweiz, Basel]
+KEY[Z1307  08  F 6/8]
+MEL[1_35_6  5_43_1
+    1345_6  5433_2
+    234#5_7  4#34#5_.
+    57+1+2+3+2  +134#5_
+    7  634#5_7  634#5_. //] >>
+FCT[Handwerker -, Bauern - Lied]

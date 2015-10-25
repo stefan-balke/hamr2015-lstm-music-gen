@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WENN ICH EIN KLEINS WALDVOEGLEIN WAER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse, Waltorf]
+KEY[E0512  16  G 3/8]
+MEL[  5_5313  3_212_
+    2_-7-54_  4_323_
+    55654_  3_2_0_
+    234_2_  365_.3
+    234_2_  365_.3
+    3_2_.1  1__0_ //] >>
+FCT[Liebes - Lied]

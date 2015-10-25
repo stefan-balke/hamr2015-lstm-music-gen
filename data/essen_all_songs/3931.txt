@@ -1,0 +1,10 @@
+F[ERK3
+CUT[LUSTIG ISTS SOLDATENLEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E1347  08  G 4/4]
+MEL[  -5_.11_1_  1_-712_-5_
+    3_3_3_3_  3_5_4_3_
+    2_.1-7_1_  2_3_2_
+    -5_  4_6_5_3_  2_231_0_
+    2_2_3_1_  4_6_5_3_  2_231__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

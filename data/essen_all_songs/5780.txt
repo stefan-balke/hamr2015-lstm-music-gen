@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Mutter und Tochter dasselbe gefaellt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0227  04  C 4/4]
+MEL[5  312-5  132
+    2  3554#  5_0
+    2  3453  423
+    -5  -611-7  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Franck, Fasc. quodl. 1611 No. 6.]

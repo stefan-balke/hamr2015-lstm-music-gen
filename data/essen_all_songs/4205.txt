@@ -1,0 +1,8 @@
+F[ERK3
+CUT[DER KUCKUK AUF DEM ZAUNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1738  16  G 2/4]
+MEL[5__  3_3_3_3_  5_4_2__
+    1_1_1_11  2_-7-7-5__  0__
+    5__  3_3_3_3_  5_4_2__  1__ //] >>
+FCT[Scherz -, Spiel - Lied, Pfaenderspiel, Vexierspiel]

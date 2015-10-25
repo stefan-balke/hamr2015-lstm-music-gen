@@ -1,0 +1,13 @@
+BOEHME
+CUT[ICH BIN DER DOKTOR EISENBART]
+REG[Europa, Mitteleuropa, Deutschland, Nassau, Rheinland]
+KEY[B0681A 16  C 2/4]
+MEL[-5_  3_.21_-6_  -6_-5_-5__
+    -5-5-5-5-6_-7_  1__0_
+    -5_  3_.21_-6_  -6_-5_-5__
+    -5-5-5-5-6_-7_  1__0_
+    3_  5_.55_4_  3_.33__
+    22223_2_  1_1_1_-5_
+    1_.11_3_  5_.55__
+    44445_4_  3__0_ //] >>
+FCT[Scherz - Lied]

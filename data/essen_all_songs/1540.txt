@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Verlorene Schlafdecke
+    Ein Leineweber ging spazieren aus,]
+CNR[da begegnet ihm ein Maedchen.]
+REG[Osteuropa, Polen, Galizien, Engelsberg]
+SRC[7, S. 222
+    1940 aufgezeichnet im Lager Trebendorf]
+KEY[Q0153  08  G 4/4]
+MEL[-5_  1_332_-7_  1_-6_-5_
+    -5-5  -6_-6_-7_-7_  1_1_0_
+    -5_  -5_2_3_3_  422_0_
+    5_  3_1_1_3_  2-5-5_0_
+    -5_  -6_-6_-7_-7_  1_0__ //] >>
+FCT[Ballade, verbotene Liebe, Schwangerschaft, Ehe]

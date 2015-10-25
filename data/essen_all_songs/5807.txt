@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Kein groesser Leiden als Scheiden]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0266  04  G 4/2]
+MEL[1_1_1_  -7_3b_2_1_  -7_0
+    -7-7-5-6-7  1_1_-6_-7_  1__0_
+    23b  4_3b_2_4_  -7b_2_3b_
+    3b_  2_1_-7_0
+    -7  -7-5-6-71_1_  -6_-7_1__  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Hainhofers Lautenbuch I Hs. von 1603.]

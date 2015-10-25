@@ -1,0 +1,16 @@
+DVA
+CUT[Gute Meinung
+    Wenn ich morgens frueh aufstehe]
+CNR[und zu meinr Arbeit gehe]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0068  08 Eb 4/4]
+MEL[12345_5_  67+16655_
+    54655_12  3432211_
+    3_.5544_  3153322_
+    3_.5544_  3153322_
+    12345_5_  67+165__
+    54655_12  34321_0_
+    12345_5_  67+165__
+    54655_12  34321_0_ //] >>
+FCT[geistliches Lied]
+CMT[Verzierungen; Inzipit = Variante zum Lied]

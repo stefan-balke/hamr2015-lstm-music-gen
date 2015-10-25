@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Ach, cerenko moja,]
+CNR[kaje's chodzila?]
+REG[Osteuropa, Tschechoslowakei, Slowakei]
+SRC[4, S. 206
+    1914 in Praha]
+KEY[Q2079H 08  D 2/4]
+MEL[  5555  5_3b_
+    7b7b6b4  5_0_
+    3b21_  44_5  6b54_  3b5_5
+    123b2  1_0_
+    3b21_  44_5  6b54_  3b5_5
+    123b2  1_0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Slowakische Fassung der Ballade. Verzierung (Nachschlag) in der
+    zweiten Zeile. Zweite, vierte und sechste Zeile = Refrain.]

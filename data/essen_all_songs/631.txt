@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[NICHTS KANN AUF ERDEN VERGLICHEN WERDEN  DES SCHAEFERS LUST]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0215  16 Bb 3/4]
+MEL[-5_1_3_  2_.31_1_3_5_  4_.53_5_6543  2__0_
+    5_6_5_  4_.32_4_5_4_  3_.21_
+    1_4_6_  5_+1_5_3_4_6_  5_+1_5_543_2_  1__0_
+    5_6_5_  4_.32_4_5_4_  3_.21_
+    1_4_6_  5_+1_5_3_4_6_  5_+1_5_543_2_  1__0_ //] >>
+FCT[Staende -, Schaefer - Lied]

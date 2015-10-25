@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Hyet ich die gnad, so wolt ich mich aufschwingen]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 225
+    14?? Handschrift (15. Jh.)]
+KEY[Q1080H 08  F 6/8]
+MEL[1  5_55_5  6_+17_6  5_.3_
+    5  4_31_1  3_45_4  2_.3_
+    5  4_31_1  3_45_4  2_.1_ //] >>
+FCT[Ballade, geistlich]
+CMT[Melodievergleich zu Q0080, anderes Lied. Kontrafaktur einer Ballade.]

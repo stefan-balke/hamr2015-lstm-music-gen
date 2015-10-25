@@ -1,0 +1,10 @@
+BOEHME
+CUT[EIN LANDSKNECHT WARD GEFANGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Westfalen]
+KEY[B0708  08  F 4/4]
+MEL[13  5_.65_4_  3_.45_
+    5_  6_5_4_3_  2__0_
+    13  5_5_5_+1_  6_.44_
+    4_  3_3_2_2_  12345_.
+    4  3_3_2_2_  1__0_ //] >>
+FCT[Scherz - Lied]

@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ES HATT EIN BAUR SEIN FRAU VERLOREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0154A 08  G 4/4]
+MEL[1_  1_1_1_1_  2_2_2_
+    1_  3_4_5_3_  2__1_
+    1_  1_1_1_1_  2_2_2_
+    1_  3_4_5_3_  2__1_
+    1_  5_5_5_4_  3_3_2_
+    2_  3_3_345_  3_4_2__  0_
+    1_2_1_  4__0_
+    6_  5_4_512_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann,
+    Spott auf den Klerus; Ballade ?]

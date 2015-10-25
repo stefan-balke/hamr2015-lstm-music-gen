@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Egy magas hegytetoeroel]
+CNR[egy voelgybe neztem at]
+REG[Osteuropa, Ungarn, Komitat Komarom, Oroszlany]
+SRC[8, S. 285
+    1981 aufgezeichnet]
+KEY[Q21551 08  G 6/8]
+MEL[  3b213b21  5_.0_
+    5  +1_7b3b_4  5_0__
+    6b6b6b5_2  4_.3b_
+    1  3b_52_3b  1_.0_. //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Ungarische Fassung der Ballade.]

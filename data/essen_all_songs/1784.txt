@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Sangeslohn
+    In dieser abendstunde]
+CNR[erheb ich meine Stimm',]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 60
+    1649 gedruckt]
+KEY[Q0124C 02  F 3/2]
+MEL[  111  1_-6  -5_2  2_
+    2  4_4  32_  1_.
+    444  4_3  2_.  2_
+    3  5_5  4_3  2_
+    2  4_4  32_  1_. //] >>
+FCT[geistlich]
+CMT[Tonangabe zur Ballade "Sangeslohn" - moegliche Melodie (??) .]

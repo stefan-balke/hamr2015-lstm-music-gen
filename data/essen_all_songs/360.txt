@@ -1,0 +1,24 @@
+BOEHME
+CUT[MAEDCHEN MIT DEN BLAUEN AUGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[B0427  16  G 2/4]
+MEL[  1_-5_3_1_  -6_-6_-6_-6_
+    4__-7__  1__0__
+    1_-5_3_1_  -6_-6_-6_-6_
+    4__-7__  1__0__
+    5_5_5654  4_3_3_3_
+    5_3_6543  3_2_2_2_
+    4__-7__  1_3_5_3_  4__-7__  1__0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[MAEDCHEN MIT DEN BLAUEN AUGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[B0427  16  G 2/4]
+MEL[  1_-5_3_1_  -6_-6_-6_-6_
+    4__-7__  1__0__
+    1_-5_3_1_  -6_-6_-6_-6_
+    4__-7__  1__0__
+    5_5_5654  4_3_3_3_
+    5_3_6543  3_2_2_2_
+    4__-7__  1_3_5_3_  4__-7__  1__0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

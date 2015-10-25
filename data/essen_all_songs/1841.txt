@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Gerstebinden
+    Es war eins Bauren Toechterlein,]
+CNR[wollt' Gersten aufbinden,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 208
+    1534 gedruckt in Nuernberg; Satz: Ludwig Senfl]
+KEY[Q0135C 08  G FREI]
+MEL[1_  1_1_1_1_  2_2_2__
+    6__  7b_.65__4__  5__0_
+    5_  6__6_6__6_  7b__6__
+    5__4__2__  3_4_5__
+    5_5_4_3_  1__0_
+    1_  2_.3_45__  6_5_4__3_2__  1___ //] >>
+FCT[Ballade, Beischlaf, Leiden]
+CMT[Tenor - Stimme in einem fuenfstimmigen Satz (cf.) von Ludwig Senfl.
+    Grundton in der kleinen Oktave. Fuenfte Zeile = Refrain auf
+    sinnfreie Silben.]

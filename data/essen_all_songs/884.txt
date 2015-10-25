@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Im Wald bei der Amsel"
+    GESTERN ABEND IN DER STILLEN RUH]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1149  16  A 3/4]
+MEL[111_1_  1__.-7_1_2_  1__.
+    1_2_3b_  4___3b__  3b_2_2__0__
+    2__.2_2_2_  2___.
+    2__.1_2_3b_  2___0__
+    2_3b_4__3b__  3b_.22__0__
+    1_2_3b__2__  2_.11__0__  0__. //] >>
+FCT[Liebes - Lied]

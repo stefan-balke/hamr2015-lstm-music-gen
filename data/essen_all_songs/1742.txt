@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es warn einmal zwei Bauerssoehn,]
+CNR[sie hatten Lust in Krieg zu ziehn,]
+REG[Osteuropa, Tschechoslowakei, Ober - Zips]
+SRC[4, S. 313
+    ????]
+KEY[Q0085p 04  G FREI]
+MEL[-5  1-71_5  53b2_.
+    2  3b23b_5  53b2_.
+    6b  5_4#5_3b  21_0_
+    6b  5_4#5_3b  21_0_ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]
+CMT[Verzierungen (Glissandi) in den letzten beiden Zeilen.]

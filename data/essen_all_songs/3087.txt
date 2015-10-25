@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH GIENG EINSTMALS UMS HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend; Westfalen]
+KEY[E0560B 16  C 3/4 4/4]
+MEL[5_  5_653__.3_  3_5_2__.
+    5_  +1_765__6_4_  4_5_2__0_
+    5_  5_.7+2_+2_+2_7_5_4_  3_5_+1_.+2+3__0_
+    +1_  6__+1_6_5__6_4_  4__5__3__0_ //] >>
+FCT[Liebes - Lied]

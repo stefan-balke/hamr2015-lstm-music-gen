@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Beim Herumtrinken]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0321  02  G 4/2]
+MEL[111  556b6b  4_
+    56b  7b+16b_  5_0
+    5  +1+16b6b  7b7b5_  421_
+    3b45_  3b45_  123b4  2_1_
+    3b45_  3b45_  123b4  2_1_
+    123b4  2_1_  0 //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Forster Lieder 4. Theil 1556]

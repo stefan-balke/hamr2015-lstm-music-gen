@@ -1,0 +1,12 @@
+F[ERK1
+CUT[TANZ TANZ BUTZEMANN]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt]
+KEY[E0005A 16  G 2/4]
+MEL[  1__3__  5_.65_
+    4_  3_3_2_2_  1__0__
+    1_1_1_1_  2_-5_-5_-5_
+    1_1_1_1_  2_-5_-5_-5_
+    1__3__  5_.55_
+    4_  3_3_2_2_  1__0__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

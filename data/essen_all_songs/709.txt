@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[SO WILL ICH FRISCH UND FROEHLICH SEYN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0292  08  G 3/8]
+MEL[1  313  535  +176  5_
+    4  3_2  1_3  2_.  -5_
+    1  313  535  +176  5_
+    4  3_2  1_3  2_.  -5_
+    -5  543  345  4_4  4_
+    3  4_3  4_3  2_1  5_.  -5_
+    5  543  345  4_4  4_
+    4  432  234  3_3  3_
+    5  4_3  2_1  2_.  1_ //] >>
+FCT[Lyrisches Lied, Romanze]

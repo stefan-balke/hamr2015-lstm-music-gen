@@ -1,0 +1,10 @@
+FINK
+CUT[ABEND WIRD ES WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0685  08 Eb 2/4]
+MEL[  -5-511  2_2_
+    3332  2_0_
+    -6-622  2_4_
+    3322  5_
+    14  3_2_  1__ //] >>
+FCT[Geselligkeits -, Tageszeiten - Lied, Abend]

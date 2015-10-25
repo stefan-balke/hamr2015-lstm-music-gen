@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Scheintod
+    Bie vrie ischt auf dai scheane Mare.]
+CNR[Mare bog pomagaj!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 120
+    1895 gedruckt in Graz]
+KEY[Q1058B 08  F 2/2]
+MEL[-5_1_2_  3_2_112_  3__
+    1_1_  4_321_2_  3_ //] >>
+FCT[Ballade, Maerchen]
+CMT[Melodievergleich zu Q0058A, anderes Lied. Rhythmisch korrigiert:
+    Notenwert im vorletzten Takt halbiert.]

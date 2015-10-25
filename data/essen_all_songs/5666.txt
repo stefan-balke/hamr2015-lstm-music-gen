@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der blaue Storch]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0087  02  A 3/2 3/1]
+MEL[5  5_5  56b6b  5_5  4_4
+    +1_7b_6b4  5_1  5_1  5_
+    5  5_6b_7b5  4_41_
+    2  3b_3b_22  1_-5  1_-5  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Baseler Tenor. Hs. von 1560-70 fol. 68b.]

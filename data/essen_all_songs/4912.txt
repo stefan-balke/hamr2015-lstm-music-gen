@@ -1,0 +1,12 @@
+DVA
+CUT[Wo e kleins Huettle steht, ist e kleins Guetle
+    Wo e kleins Huettle steht, ist e kleins Gut]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[D0241  16  F 3/8]
+MEL[-5_1_1_  -7_.-6-5_  4_2_-7_  2_1_0_
+    -5_1_1_  -7_.-6-5_  4_2_-7_  1__.
+    2_.32_  2_.32_  2_.32_  2_.32_
+    1_-7_-6_  -5_4__  5_5_54  3__0_
+    1_-7_-6_  -5_4__  5_5_54  3__0_ //] >>
+FCT[Liebes - Lied, Liebeslust]
+CMT[Inzipit = Transposition zum Lied]

@@ -1,0 +1,10 @@
+BOEHME
+CUT[ACH ANDREAS HEILGER SCHUTZPATRON]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Hessen, Sachsen]
+KEY[B0683  08  F 3/4]
+MEL[-5-5  1_.111  -72-5_
+    -5-7  2_.212  3_0_
+    -5-5  1_.111  -72-5_
+    -5-7  2_.212  3_0_
+    34  5_.123  2__.  1_0__  2__.  1_0_ //] >>
+FCT[Scherz - Lied (Echo)]

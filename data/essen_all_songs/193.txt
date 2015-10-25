@@ -1,0 +1,26 @@
+BOEHME
+CUT[SEHT WIE DIE SONNE DORT SINKET (SUESSER DIE GLOCKE NIE KLINGET)]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schlesien]
+KEY[B0228  16  F 6/8]
+MEL[  3_.33_3_2_3_  5__.2__.
+    2_.22_2_1_2_  3___0__
+    5_.43_3_2_1_  +1__.6__.
+    5_.65_5_4_2_  1__.0__.
+    2_.22_3_3_03  5_4_4_3__.
+    2_.22_3_3_03  5_4_4_3__.
+    5_.43_3_2_1_  +1__.6__.
+    5_.65_5_4_2_  1__.0__. //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[SEHT WIE DIE SONNE DORT SINKET (SUESSER DIE GLOCKE NIE KLINGET)]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schlesien]
+KEY[B0228  16  F 6/8]
+MEL[  3_.33_3_2_3_  5__.2__.
+    2_.22_2_1_2_  3___0__
+    5_.43_3_2_1_  +1__.6__.
+    5_.65_5_4_2_  1__.0__.
+    2_.22_3_3_03  5_4_4_3__.
+    2_.22_3_3_03  5_4_4_3__.
+    5_.43_3_2_1_  +1__.6__.
+    5_.65_5_4_2_  1__.0__. //] >>
+FCT[Tageszeiten - Lied, Abend]

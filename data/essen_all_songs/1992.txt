@@ -1,0 +1,13 @@
+FINK
+CUT[FROEHLICH UND WOHLGEMUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0224  16  G 3/8]
+MEL[  3_.21_  1_-5_-5_
+    0-5135_  0531-5_
+    4_.32_  2_-5_-5_
+    0-5-725_  052-7-5_
+    3_.45_  6_2_2_
+    4_2_-7_  1_3_1_
+    06666_  05555_
+    0_-7_-7_  1__0_ //] >>
+FCT[Abschieds -, Wander - Lied]

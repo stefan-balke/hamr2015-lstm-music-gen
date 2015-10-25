@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt wohl ein Koenig sich ane dem Rhein,]
+CNR[der hatt' sich drei liebliche Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+SRC[4, S. 104
+    1840 gedruckt in Berlin]
+KEY[Q0075E 08  F 2/4]
+MEL[2  5_22  5432  1_22  1_0
+    3  2_22  -6_-7-7  1_-7-6  -5_0
+    -5  1_1_  2_55  3_23  1_0 //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

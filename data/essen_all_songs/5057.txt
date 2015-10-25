@@ -1,0 +1,9 @@
+BOEHME
+CUT[IM FELDE SCHLEICH ICH STILL UND WILD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0594  08 Eb 6/8]
+MEL[-5  1_13_3  5_53_
+    3  1_12_2  3__0
+    5  5_22_5  5_33_
+    +1  5_31_2  3__0 //] >>
+FCT[Staende -, Jaeger - Lied]

@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt ein Maedchen frueh aufstehn,]
+CNR[dreiviertel Stund vor Tag.]
+REG[Mitteleuropa, Schweiz, Bern]
+SRC[7, S. 106
+    1915 aufgezeichnet (vor)]
+KEY[Q0147M 16  G 2/4]
+MEL[-5_  1_1_1_2_  -7_-6_-5_
+    -5_  1_1_2_4_  3__0_
+    2_  3_3_3_2_  3_4_5__  0_
+    2_2_1_  2_3_4_
+    5_  3_3_2_22  1__
+    1__  3_5_2_22  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Vierte Zeile refrainartig.]

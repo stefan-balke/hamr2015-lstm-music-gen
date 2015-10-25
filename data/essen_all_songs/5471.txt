@@ -1,0 +1,9 @@
+KINDER
+CUT[BAUER BAUE KESSEL]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[K2075  16  G 2/4]
+MEL[  1_1_1_3_  1__-5__
+    1_1_1_3_  1__-5__
+    1_1_1_3_  1_1_-5__
+    5_.43_2_  1_1_1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

@@ -1,0 +1,17 @@
+F[ERK3
+CUT[BLAKOHL SEIN DIE BESTEN PFLANZEN]
+REG[Europa, Mitteleuropa, Deutschland, Ruhla]
+KEY[E1241  08  C 2/4]
+MEL[  1_-5_  1_-5_
+    1-712  3_20
+    321-7  -6-71_
+    21-7-6  -6_-50
+    2_-7-6  -5_0_
+    21-7-6  -5_0_
+    2222  3_2
+    2  2222  3_2_
+    1_-5_  1_-5_
+    1-712  3_20
+    321-7  -6-71_
+    21-7-6  -6_-50 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sommer - Tags - Lied]

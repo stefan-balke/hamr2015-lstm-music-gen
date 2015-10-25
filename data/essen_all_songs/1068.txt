@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Schleifer"
+    ES CHUMMT E FROEMDE SCHLIFER]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1334  16  A 2/4]
+MEL[12  3_321_12  3_321_
+    2_  3_4_5_43  2_2_2_0_
+    2_232324  2_3_2_
+    12  3_5_3_1_  2_232_
+    12  3_531_2_  3_531_ //] >>
+FCT[Zech -, Schalks - Lied]

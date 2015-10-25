@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES HATT EIN BAUER EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken]
+KEY[E0109B 08  F 3/8]
+MEL[-5  1_1  313  5_5  3_
+    6  5_3  234  5_5  3_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

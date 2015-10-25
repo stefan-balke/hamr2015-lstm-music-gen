@@ -1,0 +1,11 @@
+KINDER
+CUT[WELCHES IST DIE SCHOENSTE UNTER DIESEN ALL]
+REG[Europa, Mitteleuropa, Deutschland, Starkenburg]
+KEY[K2515  08  F 2/4]
+MEL[  135+1  5_3_
+    5424  3_0_
+    5424  3_0_
+    5424  3_0_
+    135+1  5_3_
+    5425  1_0_ //] >>
+FCT[Kinder - Lied, Such - Spiel]

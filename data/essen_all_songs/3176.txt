@@ -1,0 +1,13 @@
+F[ERK2
+CUT[MAEDCHEN HAST DU LUST ZU TRUTZEN]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E0644  16  F 2/4]
+MEL[  1_-5_3_1_  -6_-4_-4_-4_
+    4__-7__  1__0__
+    1_-5_3_1_  -6_-4_-4_-4_
+    4__-7__  1__0__
+    5_5_5654  3_3_3_3_
+    5_5_5654  3_3_3_3_
+    5_3_6543  2_-5_-5_-5_
+    4__-7__  1__0__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Tochter als Faehnrich
+    Im Ungarland zu Grosswardein,]
+CNR[was einstens da geschehen sei,]
+REG[Osteuropa, UdSSR, Karpato - Ukraine]
+SRC[5, S. 94
+    1963 gedruckt in Linz]
+KEY[Q1096B 04  G 3/4]
+MEL[-5  1_2  3_3  432  1_
+    -5  1_2  3_3  432  1_
+    1  3_3  2_3  21-6  -5_
+    -5  1_2  321  2_2  1_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0096A, anderes Lied.]

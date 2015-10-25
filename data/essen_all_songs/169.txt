@@ -1,0 +1,18 @@
+BOEHME
+CUT[HINAUS HINAUS INS FREIE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0203  16  F 6/8]
+MEL[-5_  1__1_5__5_  3__.2__
+    2_  3__3_4_5_6_  5__.0__
+    5_  +1__+1_7_6_5_  6__.5__.
+    4__.3_5_+1_  5_.6543__2_  1__.0__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[HINAUS HINAUS INS FREIE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0203  16  F 6/8]
+MEL[-5_  1__1_5__5_  3__.2__
+    2_  3__3_4_5_6_  5__.0__
+    5_  +1__+1_7_6_5_  6__.5__.
+    4__.3_5_+1_  5_.6543__2_  1__.0__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

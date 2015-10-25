@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Felsen]
+CNR[und sah ins tiefe Tal.]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+SRC[8, S. 295
+    1855 gedruckt in Leipzig]
+KEY[Q0155d.16  G 2/4]
+MEL[-5_  1_1_5_3_  3_.22_
+    43  3_421_-7_  1__0_
+    -5_  1_1_5_3_  3_.22_
+    43  3_421_-7_  1__0_
+    1_  1_3_5_5_  5_.+1+1__
+    4__4_6_  5__6_
+    54  3_3_4_2_  2__1_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

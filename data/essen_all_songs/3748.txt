@@ -1,0 +1,13 @@
+F[ERK3
+CUT[SECHS BUCKEL HEUT HAWE TANZT]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1021  16  F 3/8]
+MEL[55  665544  3_
+    3333  222222  1__
+    55  665544  3_
+    3333  222222  1__.
+    3__54  3_543_
+    2__43  2_432_
+    3__54  3_543_
+    2_2_32  2_0_ //] >>
+FCT[Tanz - Lied]

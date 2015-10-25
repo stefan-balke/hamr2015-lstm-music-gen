@@ -1,0 +1,9 @@
+FINK
+CUT[FRUH FRUH DES MORGENS FRUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0653  16  F 3/4]
+MEL[  5_4_3_5_+1__  5__.4_3__
+    1_6_6__+1_6_  5__.6_5__
+    5_4_4__5__  3_.23_4_5__
+    5_4_3__4__  3__0___ //] >>
+FCT[Staende -, Jaeger - Lied]

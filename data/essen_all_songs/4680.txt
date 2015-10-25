@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Das Regina coeli deutsch, auf die osterliche Zeit zu singen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0595B 04  G 4/2]
+MEL[1  1_5_3_1_  234_3__
+    5_6_5432  1_0_
+    4_2_  3_1_2_1
+    3  2_1-7-6-71-7  -6_-5_
+    5_31  4_312_1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Strassb. Gsgb 1569]

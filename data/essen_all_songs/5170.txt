@@ -1,0 +1,13 @@
+BOEHME
+CUT[DIE HUSSITEN ZOGEN VOR NAUMBURG]
+REG[Europa, Mitteleuropa, Deutschland, Halle a.d. Saale]
+KEY[B0707  16  G 2/4]
+MEL[  -5_1_1_1_  1_1_3_1_
+    5_2_2_1_  -7_-6_-7_-5_
+    6_.44_4_  4_4_6__
+    5_.33_3_  3_3_5__
+    2_.34_-7_  2_1_0__
+    6_.44_4_  4_4_6__
+    5_.33_3_  3_3_5__
+    2_.34_-7_  2_1_0__ //] >>
+FCT[Baenkel -, Scherz - Lied]

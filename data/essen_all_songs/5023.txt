@@ -1,0 +1,13 @@
+BOEHME
+CUT[UEBERALL BIN ICH ZU HAUSE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0558  08  A 3/4]
+MEL[  1111-71  2_2_0_
+    222212  3_0__
+    111131  -7_-6_
+    -6-6  -513_2_  1_0__
+    225522  3_0_
+    11  6655-7-7  1_0__
+    225522  3_0_
+    11  6655-7-7  1_0__ //] >>
+FCT[Studenten - Lied]

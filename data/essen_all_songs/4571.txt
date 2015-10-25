@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Wiegenlied des 16. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0492  04  D 4/4]
+MEL[1_-6-7b  1_0
+    1  11-6-7b  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M. Franck. Fasc. Quodl. 1611 No. 2.]

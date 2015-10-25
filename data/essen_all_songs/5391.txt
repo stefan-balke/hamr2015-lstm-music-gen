@@ -1,0 +1,13 @@
+KINDER
+CUT[SAUSE LIEBE NINNE WAS RASCHELT IM STROH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[K0055A 08  G 3/4]
+MEL[    5_.432  1_1_
+    13  5_5_6_  5__
+    13  5_.432  1_1_
+    13  5_5_6_  5__
+    3_  2_.22_  2_3_
+    4_  5_.43_  2__
+    13  5_.432  1_1_
+    1_  2_3_2_  1__0_ //] >>
+FCT[Kinder -, Wiegen -, Schlaf - Lied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Es liegt ein Schloss in Oesterreich]
+CNR[und ist ganz schoen gebauet]
+REG[Mitteleuropa, Deutschland (DDR) , Niederlausitz]
+SRC[1, S. 272
+    1812 gedruckt]
+KEY[Q0024I 08  D 4/4]
+MEL[1_  5_5_5_3b_  7b_7b_5_
+    7b_  +1_5_4_3_  4_5__
+    7b6b  4_7b6b5_4_  3b_2_1_
+    2_  3b_4_5_43b  23b1__ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Schlusston rhythmisch korrigiert. Verzierung (Vorschlag) in der ersten
+    Zeile.]

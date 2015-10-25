@@ -1,0 +1,13 @@
+FINK
+CUT[ROSEN AUF DEN WEG GESTREUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0115  16  A 2/4]
+MEL[  1_-5_-5_-4-3  -6_-6_-6_0_
+    -7_.12342  1_.31_0_
+    1_-5_-5_-4-3  -6_-6_-6_0_
+    -7_.12342  1_.31_0_
+    3_212_5_  1_-7-6-7_0_
+    3_.4#5231  -7_-6_-5__
+    1_-5_-5_-4-3  -6_-6_-6_0_
+    -7_.12342  1_.31__ //] >>
+FCT[Moral - Lied, Vergaenglichkeit]

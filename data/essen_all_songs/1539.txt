@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging ein Jaeger jagen,]
+CNR[es ging ein Jaeger jagen,]
+REG[Mitteleuropa, Schweiz, Graubuenden]
+SRC[7, S. 220
+    1931 aufgezeichnet]
+KEY[Q0152U 16  G 2/4]
+MEL[1_  1_.33_3_  2_.34_.
+    2  2_.44_4_  3_.45_.
+    5  3__3_3_  2_3_4_
+    6_  5_5_4_5_  3__0_ //] >>
+FCT[Ballade, Verfuehrung, ??]
+CMT[Zugehoerigkeit zu dieser Balladengruppe ungeklaert.]

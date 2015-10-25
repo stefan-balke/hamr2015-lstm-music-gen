@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Herzog Ernst
+    Es was einmal ein reicher man,]
+CNR[mit sammet und seiden angethan,]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 87
+    1545 gedruckt in Leipzig]
+KEY[Q0010B 08  E FREI]
+MEL[4__4_1_4_4_4_5_6b_6b_5_4_
+    6b_6b6b6b_6b_6b_7b_6b_5_
+    4_6b6b5_4_4_1_1_
+    4__4_1_4_4_4_5_6b_6b_5_4_
+    6b_6b__6b_6b_7b_6b_5_
+    4_6b_5_4_4_1_1_0_
+    5_7b_6b_5_4_3b_3b_3b_1_-6b_
+    1_3b3b3b_3b_3b_4_3b_
+    4_5_6b_5_4_3b_4_1_2b_1___ //] >>
+FCT[Ballade, geistlich]
+CMT[Melodie: Geistliche Kontrafaktur. Kein eigenstaendiger Text gedruckt.]

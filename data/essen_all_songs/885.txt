@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Das Daennerl im Thal"
+    BIN DAS SCHOEN DAENNERL IM THAL]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[Z1150  08 Ab 3/4]
+MEL[  -511335  5_231_
+    -522__  3__0_
+    -511335  5_231_
+    -522__  3__0_
+    2_2123  2_5_0_
+    2_2123  1_-5_0
+    1  1_.111  -7_2__
+    -511335  4_6+15_
+    -511335  54231_ //] >>
+FCT[Liebes - Lied]

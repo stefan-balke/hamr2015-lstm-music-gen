@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Nachtgruss"
+    GUTEN ABEND GUTE NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1363  16 Eb 3/4]
+MEL[1_.1  5__.4_3__  3___
+    1__  2__2__2_4_  4___
+    3__  5__3__4__  5__.6_5__
+    5__3__4__  3___0__
+    2__4_3_4_2_  3_.45__0__
+    2__4_3_4_2_  3_.45__0__
+    5__5__3_3_  5__+1_3_
+    6_5_  5__4_3_4_2_  1___ //] >>
+FCT[Kinder - Lied]

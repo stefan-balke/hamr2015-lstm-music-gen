@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Tanz"
+    FIDLGUNGAS GAI GAI]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1369  16  G 3/8]
+MEL[53  1_1_1_  2_4_
+    42  -7_-7_-7_  1_5_
+    53  1_1_1_  2_4_
+    42  -7_-7_-7_  1__ //] >>
+FCT[Kinder - Lied]

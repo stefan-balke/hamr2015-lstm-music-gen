@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ALLE LEUTE SOLLENS WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Taunus, Wuerges]
+KEY[E0619  16  G 2/4]
+MEL[  5_3_5_3_  23454_3_
+    5_3_5_3_  23454_3_
+    6_6_+1_76  655_+1__
+    2345654_  433_3__ //] >>
+FCT[Liebes - Lied, Abschied]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[UND VON BERGEN RINGS UMGEBEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0273  16 Bb 3/4]
+MEL[-3_-4_  -5__1__-7_-6_  -5__-3_-3_-4_-2_  -1___
+    -3_-4_  -5__1__2_3_  4__-5__3_.2  1__0__
+    -5_.-3  -4__2__-5_.-4  -3_-5_1__
+    -5_-3_  -4__2__-5_-4_  -3_-5_1__
+    -3_-4_  -5_-5_1_1_-7_-6_  -5__1__
+    -7_-6_  -5_.-53_1_2_-7_  1___ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Abschied]
+BOEHME
+CUT[UND VON BERGEN RINGS UMGEBEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0273  16 Bb 3/4]
+MEL[-3_-4_  -5__1__-7_-6_  -5__-3_-3_-4_-2_  -1___
+    -3_-4_  -5__1__2_3_  4__-5__3_.2  1__0__
+    -5_.-3  -4__2__-5_.-4  -3_-5_1__
+    -5_-3_  -4__2__-5_-4_  -3_-5_1__
+    -3_-4_  -5_-5_1_1_-7_-6_  -5__1__
+    -7_-6_  -5_.-53_1_2_-7_  1___ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Abschied]

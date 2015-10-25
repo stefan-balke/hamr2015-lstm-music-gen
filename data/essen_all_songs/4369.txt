@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WER SICH DES MAIEN FREUET]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E2027  08 Bb 4/4]
+MEL[-5_  1_1_1_-5_  12342_0
+    3  2_1_-71-6_  -5__0_
+    -5_  1_1_1_-5_  12342_0_
+    2_2_3_1_  2_.32_0_
+    5_.43_2_  1__4__
+    323_2_.2  1__0_ //] >>
+FCT[geistlich, Wallfahrts - Lied]

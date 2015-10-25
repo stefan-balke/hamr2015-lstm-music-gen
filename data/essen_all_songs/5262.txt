@@ -1,0 +1,9 @@
+F[ERK5
+CUT[Da zu Mitterfasten es geschah]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0060  08  D 4/4]
+MEL[1__4__  5_4_2_3b_  1__2_3b_  4__0_
+    1_  -7b__4__  5__3b__  4__4__  3b__0_
+    2_  3b__4__  3b__1_2_  2_-7b_-6_2_  3b_1-7b-6__  -5___ //] >>
+FCT[Lied]
+CMT[Hs. des 15. Jh.]

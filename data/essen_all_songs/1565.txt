@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Ein Maedchen taet wohl immer sag'n:]
+CNR['Ich will so gerne dienen,]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Kr. Pr. - Eylau,
+    Paroesken]
+SRC[4, S. 41
+    1933 aufgezeichnet]
+KEY[Q0073A 08  C 3/4]
+MEL[1_  321_5_  54#5_
+    5_  +17+1_+2_  +176_
+    5_  +17+1_3_  465_
+    4_  315_3_  2_1_ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]

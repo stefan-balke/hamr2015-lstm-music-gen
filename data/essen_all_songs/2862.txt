@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES HUETET EIN SCHAEFER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oppenheim; Lerchheim]
+KEY[E0212B 08  A 6/8]
+MEL[-5  -511133  3555_5  3__0
+    -5  -511133  3555_5  3__0
+    3  3_55_5  6_53_5  3__0
+    3  3_55_5  6_53_
+    5  3112_-5  1__0 //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Rabenmutter]

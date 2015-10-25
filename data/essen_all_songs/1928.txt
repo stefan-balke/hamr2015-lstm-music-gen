@@ -1,0 +1,10 @@
+FINK
+CUT[WIE KOMMTS DASS DU SO TRAURIG BIST]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0129  16  F 3/8]
+MEL[-5  1_.234  555_.
+    5  6_.+176  5__0
+    5  544_.4  433_.
+    5  531_2_  3__0
+    5  531_2_  1__0 //] >>
+FCT[Scherz - Lied]

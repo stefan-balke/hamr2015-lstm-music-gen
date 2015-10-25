@@ -1,0 +1,15 @@
+ZUCCAL
+CUT[DIE PINSGAUER WOLLTEN WALLFAHREN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Mitteleuropa, Tirol]
+KEY[Z0135  08  C 4/4]
+MEL[-5_  1_1_1-7-6-5  1_132__
+    1__-6_2_  1_-7_1_
+    -5_  1_1_1-7-6-5  1_132__
+    1__-6_2_  1_-7_1_
+    -5_  1_1_1-7-6-5  1_132__
+    1__-6_2_  1_-7_1_
+    1_  33334_44  22225__
+    3_3_4_.4  22225_.
+    -5  121-7-6-712  1_-7_1_0
+    1  321-7-6-712  3_2_1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

@@ -1,0 +1,12 @@
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    beseligt von der ersten Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Rheinlamd Pfalz, Mosel, Mehring]
+KEY[D1015  08  G 4/4]
+MEL[-5-5  1_.-71-712  -5__0
+    -5-5-7  2_.1-7265  3__0_
+    13  5_.54321  6__0
+    432  5_.-5-5432  1_0__ //] >>
+FCT[Liebes - Lied]
+CMT[rhythmische Korrektur: in Takt 5 Punktierung ergaenzt
+    DVA-Signatur A 151 821]

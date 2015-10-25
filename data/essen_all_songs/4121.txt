@@ -1,0 +1,13 @@
+F[ERK3
+CUT[GUTE NACHT JETZT MUSS ICH SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E1591  08  F 4/4]
+MEL[  3_.2211_  5_.4433_
+    3_.32_5_  7654#5__
+    3_.2211_  5_.4433_
+    3_.32_5_  7654#5__
+    3_.45_+1_  6_.5544_
+    2_.34_6_  65433_2_
+    3_.2211_  5_.4433_
+    6_.7+1564  3_2_1__ //] >>
+FCT[Staende - Lied, Strassen - Raeuber, Schinderhannes]

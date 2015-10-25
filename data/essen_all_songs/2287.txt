@@ -1,0 +1,13 @@
+FINK
+CUT[VATER NOAH WEINERFINDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0738  08 Bb 4/4]
+MEL[-5-5  1_1_2_2_  321_0_
+    11  2_2_3_3_  2__0_
+    -5-5  1_1_2_2_  321_0_
+    11  2_2_3_3_  2__
+    321-7  -6_-71#2_3_  4__
+    4_32  21-7-6-5_-6-7  1__
+    321-7  -6_-71#2_3_  4__
+    4_32  21-7-6-5_-6-7  1__0_ //] >>
+FCT[Geselligkeits -, Trink - Lied]

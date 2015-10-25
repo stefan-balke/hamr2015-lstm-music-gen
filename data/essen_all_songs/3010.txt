@@ -1,0 +1,13 @@
+F[ERK1
+CUT[WENN DU BEI MEIN SCHAETZCHEN KOMMST]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen ?]
+KEY[E0510C 16  D 2/4]
+MEL[  +1_765_4_  3_4_5__
+    +1_765_4_  3__2_0_
+    +1_765_4_  3_4_5__
+    3_1_2_-7_  1__1_0_
+    1_3_1_3_  1_3_5__
+    -7_2_-7_2_  -7_2_4__
+    1_3_1_3_  1_3_5__
+    3_1_2_-7_  1__1_0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Bie vrie ischt auf dar aute Monn!]
+CNR[Bie vrie ischt auf dar aute Monn!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Brunnsee]
+SRC[5, S. 253
+    1895 gedruckt in Graz]
+KEY[Q0114C 04  G 4/4]
+MEL[-5  1-512  321
+    -5  3234  5_4_  3_0 //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

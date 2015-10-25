@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[S HAT SICH A KUKUK ZU TOD GESCHRIEN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0085  16  G 2/4]
+MEL[-5_  113_3_3_  -7_-7_-5_
+    -5_  1_1_3_3_  -7__-5_
+    5_  5_5_3_11  666_5_
+    5_  4_4_3_3_  2__1_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[SOHN DA HAST DU MEINEN SPEER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0081  16  D 4/4]
+MEL[  1__.1_1_.13_1_  5___0___
+    5__.5_4#_5_6_5_  3___0___
+    5__.3_1_3_5_+1_  7__6__0__
+    4_6_  6__.5_5__.4_  4__3__0___
+    5__.6_7_+1_+2_+1_  7__6__0__
+    4_6_  6__.5_5__.-7_  1___0___ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[SOHN DA HAST DU MEINEN SPEER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0081  16  D 4/4]
+MEL[  1__.1_1_.13_1_  5___0___
+    5__.5_4#_5_6_5_  3___0___
+    5__.3_1_3_5_+1_  7__6__0__
+    4_6_  6__.5_5__.4_  4__3__0___
+    5__.6_7_+1_+2_+1_  7__6__0__
+    4_6_  6__.5_5__.-7_  1___0___ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

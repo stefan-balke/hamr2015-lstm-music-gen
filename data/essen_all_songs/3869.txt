@@ -1,0 +1,11 @@
+F[ERK3
+CUT[IHR CHRISTEN FREUET EUCH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glogau]
+KEY[E1225D 16  F 3/4 4/4]
+MEL[  5__5__5__  6_.55__.
+    3_  4_.32__2__  3__1__0__
+    5__5__5__  6_.55__.
+    3_  4_.32__2__  3__1__0_
+    5_  5_5_5_5_5_5_5_5_  6_5_5__0_
+    3_  3_3_3_3_3_3_3_3_  5_4_3__0__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sommer - Tags - Lied]

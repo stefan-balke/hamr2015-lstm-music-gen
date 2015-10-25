@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der arme Reutersknab]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0428  02  D 3/1]
+MEL[+1_  +1_+1_+3b_  +2_+2_+1_  7b__5_  3b__
+    3b_  5__5_  7b__7b_  +1_.+2+3b_  +2__
+    +1_  7b__3b_  5__1_  2__.  1__ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Ott 1534 No. 93.]

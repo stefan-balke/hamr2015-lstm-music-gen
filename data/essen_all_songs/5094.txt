@@ -1,0 +1,13 @@
+BOEHME
+CUT[EIN LAEMMLEIN TRANK VOM FRISCHEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[B0633  16  F 2/4]
+MEL[13  5_5_5+135  4_2_0_
+    2_  3531242-7  1__0_
+    13  5_5_5+135  4_2_0_
+    2_  3531242-7  1__0_
+    2_  3_5_+1543  3_2_0_
+    12  3_5_+1543  3_2_0_
+    13  5_5_5+135  4_2_0_
+    4_  3531242-7  1__0_ //] >>
+FCT[Kinder - Lied, Tier; Moral]

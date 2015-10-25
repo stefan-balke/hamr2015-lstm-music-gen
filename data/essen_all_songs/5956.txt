@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Der Abendgang
+    Van liefden comt groot liden]
+CNR[ende onderwilen groot leyt:]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[1, S. 196
+    1539 gedruckt in Antwerpen]
+KEY[Q2019B 04  D FREI]
+MEL[1  3b3b44  55
+    66  7b7b665  4
+    4  55556b7b  6b5
+    4  4453b  3b21
+    5  443b24  3b3b1-7b
+    -7b  4455  7b5
+    55  4443b1  3b21 //] >>
+FCT[Ballade, Liebe, Trennung, Tod; geistlich]
+CMT[In modifizierter Choralnotation gedruckt. Melodie: geistliche
+    Kontrafaktur.]

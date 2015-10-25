@@ -1,0 +1,13 @@
+F[ERK1
+CUT[UND SCHAU ICH HIN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0607  16  A 2/4]
+MEL[1_  -7_1_2_1_  -7_1_2_
+    1_  1_-7b_5_-7b_  -7b_-6_4_
+    1_  -7_1_2_1_  -7_1_2_
+    1_  1_-7b_7b_.3  4__0__
+    -5__1__  3__.
+    34  3_2_2_23  2_1_1__
+    -5__1__  3__.
+    34  3_2_6_.5  1__0_ //] >>
+FCT[Liebes - Lied,]

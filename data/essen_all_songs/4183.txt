@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WIE MACHENS DENN DIE SCHNEIDER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus]
+KEY[E1714  16  D 2/4]
+MEL[13  5_5_6_.5  5__3_0_
+    5__4_2_  1__0_
+    13  5_5_6_.5  5__3_0_
+    5__4_2_  1__0__
+    6_6_6_6_  6_5_5_3_
+    5_4_4_2_  5_.43_3_
+    3__4_5_  6__0__
+    5__4_2_  1__0_ //] >>
+FCT[Spott - Lied auf verschiedene Handwerker]

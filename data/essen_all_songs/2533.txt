@@ -1,0 +1,12 @@
+F[ERK1
+CUT[UND ALS ICH AUF GRUEN HEIDE KAM]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0040B 08  F 4/4]
+MEL[-7b  -7b_.3b3b_1_  1_.-7b-7b_0
+    -7b  3b_.3b4_.4  5__.0
+    3b  2_.12_3b_  4__5__
+    1_.23b_1_  2_-5_-5_
+    3b_  2_.12_3b_  4__5_0
+    4  3b_1_2_-7_  1__0_. //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

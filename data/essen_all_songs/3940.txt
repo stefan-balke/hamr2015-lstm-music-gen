@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WOHL AUF IHR BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt; Ober- Lahnkreis]
+KEY[E1356  16  F 4/4]
+MEL[-5__  1__1__3_.21_.2  3__3_.33__
+    1_3_  5__.5_6_.54_.3  3__2__0__
+    2_.3  4__6__6__5_.4  3__5_.65__
+    4_.3  2__2__4_.43_2_  5_.55_4_3__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

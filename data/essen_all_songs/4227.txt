@@ -1,0 +1,13 @@
+F[ERK3
+CUT[DIE BINSGAUER WOLLTEN WALLFAHRTEN GAHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1761  08  G 4/4]
+MEL[-5_  1_121-7-6-5  1_132__
+    1_.-7-6_2_  1_-7_1_
+    -5_  1_121-7-6-5  1_132__
+    1_.-7-6_2_  1_-7_1_0
+    2  33334_43  22225__
+    3_3_4__  22225_0
+    -5  1-7-6-5-6-712  1_-7_1_0
+    -5  1-7-6-5-6-712  1_-7_1_ //] >>
+FCT[Spott - Lied auf Wallfahrt]

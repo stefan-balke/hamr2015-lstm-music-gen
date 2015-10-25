@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[IM SCHWOBENLAND A BAUER WOHNT]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0154  08  A 2/4]
+MEL[-5  1122  3b3b-7b
+    -7b  3b3b44  5_5_  5_55  5_.
+    3b  5555  4_4
+    5  3b12-7  1_11  1_0 //] >>
+FCT[Erzaehlung, lustige Romanze]

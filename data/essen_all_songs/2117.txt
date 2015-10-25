@@ -1,0 +1,11 @@
+FINK
+CUT[AUF TAPFERE BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0401  16 Eb 4/4]
+MEL[5__  +1__+1_.7+1__5__  6__6_.56__
+    3__  4__.3_4_.23_.1  5___.
+    +1__  7__.6_5__4#__  5__5_.4#5__
+    +1__  7__.6_5__4#__  5__5_.4#5__
+    3__  4___2___  5__.4_3__
+    5__  +1__4_.55__5__  1___0__ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Krieg]

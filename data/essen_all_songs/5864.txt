@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Die Katze auf dem Dach]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0317  02  G 3/2]
+MEL[3b  3b_3b  2_2  3b_3b  2_
+    2  3b_3b  4_3b  21-7  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M. Franck, Fasc. quodl. 1615 No. 5.]

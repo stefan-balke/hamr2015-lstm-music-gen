@@ -1,0 +1,11 @@
+FINK
+CUT[WAR EINST EIN JUNG ZIMMER GESELL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0098  08  F 6/8]
+MEL[-5  1_1321  22243
+    2  -6-6-61-7-6  3_.0_
+    5  5_4664  4435_
+    3  332334  5_.6_
+    5  5_4664  4435_
+    3  33244-7  1_.0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade]

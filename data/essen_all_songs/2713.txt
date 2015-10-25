@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH STAND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Lahnkreis; Dillkreis; Rheinland]
+KEY[E0115  08  G 3/4]
+MEL[1_  1_-5_33  3_1_
+    5_  6_5_44  3__
+    11  6_66+16  655_
+    5+1  6_5_44  3__ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, betrogene Liebe
+    Ballade ?]

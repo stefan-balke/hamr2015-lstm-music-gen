@@ -1,0 +1,17 @@
+F[ERK2
+CUT[VERDENK MIRS NICHT DASS ICH DICH MEIDE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0716A 08 Bb 3/4]
+MEL[  1_3_2_  3_1_0_
+    1_3_2_  3_1_0_
+    1_3_5_  5_4_0_
+    4_3_2_  2_1_0_
+    1_3_2_  3_1_0_
+    1_3_2_  3_1_0_
+    1_3_5_  5_4_0_
+    4_3_2_  2_1_0_
+    5_6543  4__0_
+    4_5432  3__0_
+    3_4321  2__0_
+    5_3_2_  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

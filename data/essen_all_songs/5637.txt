@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Schwabentoechterlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0052  04  G 4/2]
+MEL[    1__1_1_  2__1__  4__3__  4__0_
+    4_  4__4__  3_.21__  2__2__  5__0_
+    5_  4_.32_1_  2__1__  5_5_5_.4  3__2_2_  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Joh. Ott 1544 No. 45.]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[WENN ICH IN FREIHEIT LEBEN WILL]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0531B 08  F 4/4]
+MEL[13  5_+1_5342  1_3_3_
+    13  5_+1_5342  3__0_
+    33  3_3_2_54  4_.33_
+    5_  +15315_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

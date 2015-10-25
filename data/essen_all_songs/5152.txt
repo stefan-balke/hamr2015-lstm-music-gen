@@ -1,0 +1,9 @@
+BOEHME
+CUT[ES IST EIN SCHUSS GEFALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0685  08  D 2/4]
+MEL[-5  1122  3_1
+    5  5365  5_0
+    +1  +1555  5_3
+    5  312-5  1_0 //] >>
+FCT[Scherz - Lied]

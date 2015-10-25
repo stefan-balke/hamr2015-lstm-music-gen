@@ -1,0 +1,13 @@
+KINDER
+CUT[AUF DEM BERGE AUF DEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Bacharach am Rhein]
+KEY[K2254  08  C 3/4]
+MEL[55  5_3_55  5_3_
+    5_  4_2_4_  3_0_
+    55  5_3_55  5_3_
+    5_  4_2_4_  3_0_
+    55  5_3_55  5_3_
+    5_  4_2_4_  3_0_
+    55  5_3_55  5_3_
+    5_  4_2_4_  3_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

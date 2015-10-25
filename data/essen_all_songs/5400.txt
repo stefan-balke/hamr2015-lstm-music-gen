@@ -1,0 +1,9 @@
+KINDER
+CUT[SCHLAF KINDCHEN SCHLAF DEIN VATER IST EIN SCHAF]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Alsfeld]
+KEY[K0108  08  F 4/4]
+MEL[  3__2_2_  1__0_
+    23  4_4_3_5_  2__0_
+    13  5_5_+1_6_  6_5_5__
+    3_.24_2_  1_-7_1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

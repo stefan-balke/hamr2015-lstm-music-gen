@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und sah ins tiefe Thal,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Eisleben]
+SRC[8, S. 292
+    1839 aufgezeichnet]
+KEY[Q0155W.16  G 2/4]
+MEL[13  5_.+15342  3__2_
+    2_  3_+1_7_6_  5__0_
+    13  5_.+15342  3__2_
+    2_  3_+1_7_6_  5__0_
+    5_  +1_+1_767_  6__5_0_  4__3_
+    5_  6_543_2_  1__0_
+    5_  +1_+1_767_  6__5_0_  4__3_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Anhaengsel an der fuenften und siebten Zeile.]

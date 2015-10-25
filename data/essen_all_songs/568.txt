@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[I HA DAHEIM EN MAIDLI CHA, UNDS MAIDLI HAET MI LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Mitteleuropa, Schweiz]
+KEY[Z0152  16  C 2/4]
+MEL[5_  6_5_4_2_  3_5_+1_
+    5_  5_+4_6_7_  +1__.
+    5_  6_5_4_2_  3_5_+1_
+    5_  +4_.+26_7_  +1__0_
+    +3_  +3_+2_+2_+3_  +2_+1_+1_
+    +2_  +1_7_7_7_  +2_+1_+1_
+    +4+3  +1#_+2_+2_+3+2  7_+1_+1_
+    +3+1  7_5_6_7_  +1__0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

@@ -1,0 +1,7 @@
+KINDER
+CUT[WER STEHT DA DRAUSSEN VOR DER THUER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[K2216  08  C 3/4]
+MEL[-5  -5-5-5_1_  -6-6-6_0
+    1  -712_-5_  3_1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

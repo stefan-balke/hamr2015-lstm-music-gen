@@ -1,0 +1,9 @@
+F[ERK2
+CUT[VOGEL FIKS UND VOGEL FAKS]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0623  08  F 3/4]
+MEL[55  6_5_44  3_5_
+    3_  2_4_2_  3_5_
+    3_  6_5_4_  3_5_
+    33  2_4_2_  1_0_ //] >>
+FCT[Liebes - Lied]

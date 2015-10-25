@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Vater und Tochter
+    Es wollt ein Maedchen frueh aufstehn,]
+CNR[so sagt sie!]
+REG[Osteuropa, Polen, Galizien]
+SRC[7, S. 20
+    1940 aufgezeichnet]
+KEY[Q0142C 08  G 2/4]
+MEL[-5  1111  13-5_
+    -3_-5_  1_0
+    1  2122  243
+    1  21-7-6  -6-5-3
+    -5  -5-5-51  3_.
+    1  22-5-7  1_0 //] >>
+FCT[Ballade, Verfuehrung, Verwechslung]
+CMT[Zweite Zeile refrainartig.]

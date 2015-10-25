@@ -1,0 +1,18 @@
+BOEHME
+CUT[O WUNDERBARES TIEFES SCHWEIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0225  16 Eb 3/4]
+MEL[-5_3_.2  1__.3_6_.5  5_4_2__.
+    2_  3_.31__.1_  2_.2-5__0_
+    -5_  1_1_3_3_5_.5  5_+1_7__.
+    6_  5_.56_5_4_.2  1__0_ //] >>
+FCT[Tageszeiten - Lied, Morgen]
+BOEHME
+CUT[O WUNDERBARES TIEFES SCHWEIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0225  16 Eb 3/4]
+MEL[-5_3_.2  1__.3_6_.5  5_4_2__.
+    2_  3_.31__.1_  2_.2-5__0_
+    -5_  1_1_3_3_5_.5  5_+1_7__.
+    6_  5_.56_5_4_.2  1__0_ //] >>
+FCT[Tageszeiten - Lied, Morgen]

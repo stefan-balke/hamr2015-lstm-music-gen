@@ -1,0 +1,9 @@
+KINDER
+CUT[HEILE HEILE SAEJE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Unter - Elsass]
+KEY[K3026  08  G 2/4]
+MEL[  5656  5_3_
+    5656  5_3_
+    5655  +1_0_
+    5654  3_0_ //] >>
+FCT[Kinder - Lied, Heil - Spruch]

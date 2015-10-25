@@ -1,0 +1,17 @@
+DVA
+CUT[Johannistagslied
+    Ich bin ein lustiger Weidemann]
+CNR[und such mir ein Revier]
+REG[Europa, Mitteleuropa, Deutschland, Harz, St. Andreasberg]
+KEY[D0235  08  G 6/8]
+MEL[-5  1_1123  3222_5  3_3212  1_.0_
+    -5  1_1123  3222_5  3_3212  1_.0_
+    3  2_22_2  234#5_
+    3  2_22_2  234#5_.  x_00_
+    -5  1_33_5  5_.3_5  6_54_-7  2_.1_
+    -5  1_33_5  5_.3_5  6_54_-7  2_.1_ //] >>
+FCT[Ansinge - Lied]
+CMT[moduliert in die Dominanttonart; Sonderzeichen in der Notation
+    (Glissandi) ; metrisch freie Zeile 262 durch "laut gerufenen" Ton
+    mit Fermate; Inzipit = Variante zum Lied
+    Keine Variante zu den beiden folgenden Liedern !! (DVA-Signatur 235c)]

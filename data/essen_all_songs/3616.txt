@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Genovefa
+    Daer was een edel Palzgravin,]
+CNR[den Graef die stond naer haren zin;]
+REG[Mitteleuropa, Niederlande]
+SRC[5, S. 163
+    1694 gedruckt]
+KEY[Q2104  04  G 3/4]
+MEL[-5  1_2  3b_1  2_2  -5_
+    2  2_2  3b_5  4_3b  2_
+    3b  1_1  -7_-7  123b  2_.  ^_
+    -5  -7_1  2_5  4_3b  2_
+    1  -7_1  2_1  -7_.  1_ //] >>
+FCT[Ballade, Ehe, Treue, Verleumdung, Rettung]
+CMT[Kontrafaktur, Ton "Te Mey, als alle Vog'len singen" .
+    Niederlaendische Fassung der Ballade.]

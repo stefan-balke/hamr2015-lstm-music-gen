@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Geburt im Walde
+    Es war ein Maedchen von Farbe so bleich,]
+CNR[es war ihrer Mutter von Herzen so leid.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
+SRC[1, S. 62
+    1860 aufgezeichnet]
+KEY[Q0007  08  E 3/4]
+MEL[3b4  5__5_  5_5_54  3b_1_23b  4_0_
+    5_  3b_5_4_  2_2_23b  4_3b_2_  1__ //] >>
+FCT[Ballade, Geburt, Tod, Moral]

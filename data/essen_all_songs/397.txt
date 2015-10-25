@@ -1,0 +1,18 @@
+BOEHME
+CUT[MEI SCHATZERL IS GWANDERT]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol]
+KEY[B0470  08  G 3/4]
+MEL[3_  432_6_  5_.4
+    3_  4_-61-72  1_.2
+    3_  432_6_  5_.4
+    3_  4_-61-72  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[MEI SCHATZERL IS GWANDERT]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol]
+KEY[B0470  08  G 3/4]
+MEL[3_  432_6_  5_.4
+    3_  4_-61-72  1_.2
+    3_  432_6_  5_.4
+    3_  4_-61-72  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verunglueckte Muellerstochter
+    Mueller Meister, tut ansehen,]
+CNR[was in deiner Muehl' ist geschehen;]
+REG[Mitteleuropa, Oesterreich, Steiermark]
+SRC[5, S. 191
+    ????]
+KEY[Q0106B 16  G 4/4]
+MEL[1_2_  3__3__3_5_4_3_  3_2_2__0__
+    2_3_  4__4__4_6_5_4_  4_3_3__0__
+    3_4_  5__5_5_6_4_+1_6_  6__.5_5__
+    3_3_  3_.22__2_6_5_4_  4__.3_3__ //] >>
+FCT[Ballade, Unfall, Tod]

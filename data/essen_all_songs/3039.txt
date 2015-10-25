@@ -1,0 +1,11 @@
+F[ERK1
+CUT[IN DEN GARTEN WOLLN WIR GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0528A 08  F 6/8]
+MEL[  1_31_3  1_35_4
+    -7_22_2  2544_3
+    1355_3  4_6+1_.
+    6_+15_3  5421_0
+    1355_3  4_6+1_.
+    6_+15_3  5421_0 //] >>
+FCT[Liebes - Lied]

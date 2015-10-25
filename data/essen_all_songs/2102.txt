@@ -1,0 +1,13 @@
+FINK
+CUT[LASSET UNS SCHLINGEN DEM FRUEHLING BLUEMELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0371  08  D 3/4]
+MEL[  -5_-3_-5_  -5_-4-3-4_
+    -4_-2_-4_  -3-2-3-4-5_
+    -5_-3_-5_  1_.-7-6_
+    -5_-6_-4#_  -5__0_
+    -5_.-4-3_  -5_.-4-3_
+    1_-7_-6_  1_-7_-6_
+    -5_-5_-5_  3_.21_
+    2_.1-7_  2_1_0_ //] >>
+FCT[Jugend - Lied, Natur, Jahreszeiten, Fruehling]

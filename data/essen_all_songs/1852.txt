@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Dort oben vor meines Vaters Haus,]
+CNR[steht eine gruene Linde,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+SRC[6, S. 234
+    ????]
+KEY[Q0137G 08  C FREI]
+MEL[5_  +1_.+1+1_  5__5_  6__6_  5__
+    5_  5__+1_  7__+2_  +2_+1__
+    5_  +3__+3_  +3_+2_+1_  +5__+4_  +4__.
+    5_  +5__+5_  +5__+4_  +4_+3__ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]

@@ -1,0 +1,11 @@
+KINDER
+CUT[HINTERM OFEN HINTERM OFEN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2617  16  G 2/4]
+MEL[  1_-7-6-5_-5_  1_-7-6-5_-5_
+    -6_-6_-7_-7_  1__1_0_
+    1_3_3_5_  5_4_2__
+    2_4_4_6_  6_5_3__
+    1_-7-6-5_-5_  1_-7-6-5_-5_
+    -6_-6_-7_-7_  1__1_0_ //] >>
+FCT[Kinder -, Vexier - Lied, Gesellschafts - Spiel]

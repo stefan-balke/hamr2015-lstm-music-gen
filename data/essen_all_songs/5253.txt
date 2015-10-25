@@ -1,0 +1,13 @@
+BOEHME
+CUT[EINE HAND VOLL ERDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0778  08  F 2/4]
+MEL[  3344  5_30
+    4433  3_20
+    3344  5_30
+    55-7-7  2_10
+    3344  5_30
+    4433  3_20
+    3344  5+1_6
+    55-7-7  2_10 //] >>
+FCT[Trost - Lied, Tod, Klage, religioes]

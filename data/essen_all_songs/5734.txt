@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Espen - Zweiglein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0178A 08  G 4/2 6/2]
+MEL[0__1__1__1__  4__2__3__4__  5___0__
+    1__4__5__  6__5_4_3__4__  5___4__
+    4__  3__4__5__6__  6__5__4__.32  1___4___
+    2__.3_4__5__  ^__4__3__3__  2__1__2___  1___0___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III 1549 No. 27]

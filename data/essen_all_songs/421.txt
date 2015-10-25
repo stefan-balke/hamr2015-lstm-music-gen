@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ES WAR EIN MARKGRAF UEBERN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0007  08  A 3/4]
+MEL[-5-5-5  1_.3b21  -7_0
+    23b4  5_.43b2  1_0
+    -5-5-5  1_.3b21  -7_0
+    23b4  5_.43b2  1_0
+    555  5_.23b1  2_0
+    -513b  2_.43b2  1_0
+    555  5_.23b1  2_0
+    -513b  2_.43b2  1_0 //] >>
+FCT[Sagen - Lied, Romanze, Tod]

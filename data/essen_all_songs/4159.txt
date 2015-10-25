@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES WOLLT EIN SCHNEIDER WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E1632  08  G 4/4]
+MEL[-5_  1_.-5-3_-5_  1_3_3_
+    5_  2_.1-7_1_  2__0_
+    12  3_3_3355  4_2_2_
+    23  44444466  5_3_3_
+    5_  6_4_4_6_  5__
+    3__  4_4_5_54  3__0_ //] >>
+FCT[Staende -, Handwerker - Lied, Schneider; Wanderschaft]

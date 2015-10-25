@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DIE LIEBE MAIENZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0392  08  F 4/4]
+MEL[5_  5_.34_3_  2__
+    5__  5_.34_3_  2__0_
+    2_  2_.22_3_  1__1_
+    -7_  1_.12_3_  4__3_
+    3_  4_.43_2_  1#__2_
+    2_  3_4_5_1_  2__1_ //] >>
+FCT[Liebes - Lied, Jahreszeiten, Fruehling]

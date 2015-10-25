@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Lieber ins Wasser
+    Ich ging mal durch eine gruene Wies',]
+CNR[da fanden sie nichts andres als Wasser und Fliess,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
+    Weiler]
+SRC[6, S. 154
+    1928 aufgezeichnet]
+KEY[Q0132  08  E 6/4 9/4]
+MEL[-7b_  1__-7b_1__-7b-7b  3b_4_543b__
+    -7b_  3b_3b_446b_5_4_  3b_4_5_4__
+    43b  4__7b_6b_5_4_  3b__1_2b_1_
+    1_  2b_1_-7b_3b_2_3b_4__2_  1__.1__
+    43b  4__7b_6b_5_4_  3b__1_2b_1_
+    1_  2b_1_-7b_3b_2_3b_4__2_  1__.1__ //] >>
+FCT[Ballade, Noetigung, Flucht]

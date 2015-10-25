@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Nesselkranz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0222  02  G 3/2]
+MEL[1  334  5_5  5_5  4_
+    7b  665  4_
+    2  3_4  5_5  5_5  2_
+    4  32_  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Joh. Ott III 1544 No. 24.]

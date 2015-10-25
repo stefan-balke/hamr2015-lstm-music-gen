@@ -1,0 +1,10 @@
+BOEHME
+CUT[ES SCHEINEN DIE STERNLEIN SO HELL]
+REG[Europa, Mitteleuropa, Deutschland; Boehmen?]
+KEY[B0502  08  G 4/4]
+MEL[-5_  1_333_21  2_.32_
+    -5-7  2_446_54  3__0_
+    -5_  1_335_43  2_2_4_
+    32  3_.32_2_  5__.
+    54  3_.53_2_  1__0_ //] >>
+FCT[Abschieds - Lied]

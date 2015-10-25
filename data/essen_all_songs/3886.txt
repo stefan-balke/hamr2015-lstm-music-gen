@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WIR ZOGEN IN DAS FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1286  08  F 4/4]
+MEL[1_  1_5_5_3_  1__0_
+    3_  3_3_3_3_  3__0_
+    3_  3_3_3_3_  3_3_3__
+    3__2_1_  2___
+    1_.23_4_  5__6_
+    6_  5_3_4_2_  1__0__
+    1_.23_4_  5__6_
+    6_  5_3_4_2_  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied, Landsknechts - Marsch]

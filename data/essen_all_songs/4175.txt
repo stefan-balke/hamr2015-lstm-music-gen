@@ -1,0 +1,11 @@
+F[ERK3
+CUT[CA CA GESCHMAUSET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1692A 08 Bb 3/4]
+MEL[  5_3_5_  5_434_
+    4_2_4_  32343_
+    5_3_5_  +1_765_
+    6_5_4#_  5__0_
+    5_.43_  5_.43_  +1_7_6_  6_5_0_
+    5_5_5_  5_.43_  5_.43_  2_1_0_ //] >>
+FCT[Staende -, Studenten - Lied, Trink -, Tafel - Lied]

@@ -1,0 +1,10 @@
+KINDER
+CUT[NUN SCHLAF MEIN LIEBES KINDELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K0130  04  F 4/4]
+MEL[1  1131  555
+    5  6534  5_0
+    5  5553  553
+    5  4322  1_
+    3_  5322  1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

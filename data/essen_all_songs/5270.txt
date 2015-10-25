@@ -1,0 +1,12 @@
+F[ERK5
+CUT[Es waren zwei Gespielen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0070B 08  F 3/4]
+MEL[-5  135_2_  3_2_0
+    5  57+1_6_  7_5_0
+    5  57+1_+2_  +165_0
+    3  465_2_  3_1_0
+    5  57+1_+2_  +165_0
+    3  465_2_  3_1_0 //] >>
+FCT[Lied]
+CMT[Muendl. aus Schlesien]

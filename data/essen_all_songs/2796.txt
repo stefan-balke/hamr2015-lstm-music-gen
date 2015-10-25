@@ -1,0 +1,9 @@
+F[ERK1
+CUT[O DANNEBOM O DANNEBOM]
+REG[Europa, Mitteleuropa, Deutschland, Paderborn]
+KEY[E0175C 08  E 4/4]
+MEL[-5_  1_5_5_5_  5_4_4_
+    4_  3b_3b_5_43b  2__0_
+    2_  3b__5_3b_  4__6b_
+    4_  3b_3b_2_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Pflanzen - Maerchen]

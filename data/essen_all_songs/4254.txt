@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WENN DIE HOFFNUNG NICHT WAER]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Ulm]
+KEY[E1805  16  F 3/4]
+MEL[5_5_  +1__5__3__  1___
+    3__  4__2__5__  3___
+    2_2_  2__3__4#__  5___
+    6_6_  7__6__4#_.5  5___
+    2_.2  2__3__4__  3___
+    3_.3  3__4#__5__  4#___.  ^__0__
+    5_.5  +1__5__7b__  6___
+    6_6_  5__2__4__  3___ //] >>
+FCT[Moral - Lied]

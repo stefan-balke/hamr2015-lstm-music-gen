@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Weh, Windgen, weh!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0507  08  G 4/4]
+MEL[5_5_5_6_  5__3_2_  3_5_4_3_  2_.34_
+    3_  2_1_-7_1_  2__
+    -5__  1__2__  3_.45_
+    1_  2_3_4_2_  1___ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[Scheidt, Orgeltabulatur 1624 I, 7.]

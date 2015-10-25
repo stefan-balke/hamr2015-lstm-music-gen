@@ -1,0 +1,26 @@
+BOEHME
+CUT[LIEBES MAEDCHEN HOER MIR ZU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0410  08  D 2/4]
+MEL[  3355  442_
+    3343  3_2_
+    3355  4#4#6_
+    7654#  6_50
+    4422  553_
+    +1+166  7_50
+    3355  +1+15_
+    6+2+17  +2_+10 //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[LIEBES MAEDCHEN HOER MIR ZU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0410  08  D 2/4]
+MEL[  3355  442_
+    3343  3_2_
+    3355  4#4#6_
+    7654#  6_50
+    4422  553_
+    +1+166  7_50
+    3355  +1+15_
+    6+2+17  +2_+10 //] >>
+FCT[Liebes - Lied, Liebes - Lust]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es war einmal ein Gastwirtssohn,]
+CNR[der wollt in seiner Jugend schon]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Anhalt]
+SRC[4, S. 313
+    ????]
+KEY[Q0085m 08  G 4/4]
+MEL[1  1_4_5_.3  3_2_2_0
+    2  2_6_6_.3  4_3_3_0
+    1  1_5_5_3_  4_+1_+1_
+    +1_  7_6_5_1_  321_0_. //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Barmherziger gerechter Gott]
+CNR[uns dankhbar zu beweisen]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 50
+    1646 Handschrift Kloster Seeon]
+KEY[Q0073D 04  D 2/2 3/2]
+MEL[5  6b6b7b7b  +1+15_0
+    5  +1+1+15  +1_7b_0
+    5  6b6b55  441_0
+    1  3b456b  4_3b_0
+    5  6b543b  121__ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr; geistlich]
+CMT[Geistliche Kontrafaktur. Schlussnote rhythmisch korrigiert.]

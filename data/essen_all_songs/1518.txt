@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging sen ein Jaeger jagen]
+CNR[Drei Stuendlein vor dem Abend,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Hainau, Conradsdorf]
+SRC[7, S. 183
+    1829 aufgezeichnet]
+KEY[Q0152  16  G 3/8]
+MEL[34  5_.654  3_2_3_  4_.353  2__
+    34  5_.654  3_2_3_  4_.353  2__
+    4_  3_.53_  2_.12_  1_.234  5__
+    54  3_.53_  2_.12_  1__ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]

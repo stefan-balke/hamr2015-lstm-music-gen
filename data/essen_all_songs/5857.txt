@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Alter Hochzeitstanz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0310C 08  G 3/2]
+MEL[1__  2__2_2_2_2_  3__3__
+    2__  1-7123_3_2_1_  -7__0__
+    1__  2__.2_2_2_  3__3__
+    2__  1_2_1__-7__  1__0_
+    3_3_2_  3__0_3_3_2_  3__0_
+    3_2_2_  1-7132_1_1_-7_  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 150]

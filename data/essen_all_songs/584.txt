@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[AUS ENGLAND KAM EIN BETTLER HERAUS]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z0168  08  F 4/4]
+MEL[13  5_333456  54222_
+    34  65435432  6_5_3_
+    13  5_332456  54222_
+    34  43333456  54222_
+    34  65435432  1_5_3_ //] >>
+FCT[Erzaehlung, lustige Romanze]

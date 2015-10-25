@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Dr. Luthers Glaubens - und Heldenlied: Ein feste Burg]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0629  02  F 4/2]
+MEL[+1  +1_+1_  5_6+1  ^76_  5_0
+    +1  7_6_  5_64  ^32_  1_0
+    +1  +1_+1_  5_6+1  ^76_  5_0
+    +1  7_6_  5_64  ^32_  1_0
+    1  3456  ^5_4  5_
+    1_  5_6_  7_+1_  0_
+    7_  +1_7_  6_5_
+    6_6_  56_5  3_0
+    +1  7_6_  5_64  ^32_  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Strassburger Gsgb 1531]

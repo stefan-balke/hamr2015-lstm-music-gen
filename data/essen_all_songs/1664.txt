@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Hvar har du va't sa laenge?']
+CNR[Lilla dotterkind!]
+REG[Nordeuropa, Schweden]
+SRC[4, S. 210
+    1842 gedruckt in Stockholm (vor)]
+KEY[Q2079M 08  G 6/8]
+MEL[1  1_23b_-7  4#_.5_0
+    5_4#5_3b  2_.0_.
+    2_3b4_5  2_.3b_0
+    1_.1_1  -7_.0_.
+    1_.2_.  3b_.2_3b  1_1_0 //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Schwedische Fassung der Ballade.
+    Zweite, vierte und fuenfte Zeile = Refrain.]

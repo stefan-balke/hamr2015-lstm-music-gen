@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAR EINE REICHE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Limburg; Kreis Wetzlar]
+KEY[E0098F 08  G 6/8]
+MEL[-5  3_21_-6  -6-50_.
+    -5  1_13_1  2_.0_
+    -5  3_35_5  4_.-6_
+    -6  -5_13_2  1_.0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid
+    Ballade ?]

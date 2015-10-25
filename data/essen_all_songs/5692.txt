@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Meins Herzens Schoene]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0118  04  F 4/2 6/2]
+MEL[     0_1_1_1_  3_.21_1_  2__3__
+    3__  5__5_3__4_  2__1__
+    0_1_1_1_  3_.21_1_  2__3__
+    3__  5__5_3__4_  2__1__
+    3__  3__3_2__2_  1_-7-62__  2__0_
+    -5_  1__1_1__1_  2_2_1__0_
+    1_  2__2_2__2_  3_.4565__43  2_1_2__  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Triller 1555 "Ein Gesang von Christo und seiner heiligen Gemeinde
+    auf eine alte Tageweise"]

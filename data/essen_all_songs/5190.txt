@@ -1,0 +1,13 @@
+BOEHME
+CUT[LETZTE ROSE WIE MAGST DU SO EINSAM VERBLUEHN]
+REG[Europa, Mitteleuropa, Deutschland; Irland]
+KEY[B0726  16  F 3/4]
+MEL[1_.2  3__+1__6_.5  5__3_0_
+    1_.2  3_5__3_2_.1  1___
+    1_.2  3__+1__6_.5  5__3_0_
+    1_.2  3_5__3_2_.1  1___
+    5_.3  +1__.7_6_.5  5__3_0_
+    5_.3  +1__.7_6_5#_  6_67+1__
+    1_.2  3__+1_.76_.5  5__3_0_
+    1_.2  3_5__3_2_.1  1__0__ //] >>
+FCT[Jahreszeiten - Lied, Herbst]

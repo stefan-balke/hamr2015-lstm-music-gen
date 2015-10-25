@@ -1,0 +1,9 @@
+F[ERK2
+CUT[KOMM HERAUS DU TRAURIGE BRAUT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Limburg, Heringen]
+KEY[E0870  08  G 4/4]
+MEL[15  5_5_6_6_  56543_
+    15  5_5_6_6_  56543_
+    5_  2__.3_  1__
+    2__  35635_24  3__0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

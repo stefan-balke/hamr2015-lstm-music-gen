@@ -1,0 +1,13 @@
+F[ERK2
+CUT[DER WAECHTER AUF DEM THUERMLEIN SASS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E0812  08  G 4/4]
+MEL[-5_  1_3_2_5_  3_321_
+    13  5_5_6_6_  5_4_3_
+    13  5_5_5_65  4_434_
+    54  3_3_5_43  2_2_2_
+    12  3_3_5434  5__6543  2__1_
+    13  5_5_5_65  4_434_
+    54  3_3_5_43  2_2_2_
+    12  3_3_5434  5__6543  2__1_ //] >>
+FCT[Tage -, Kilt - Lied, Waechter - Lied]

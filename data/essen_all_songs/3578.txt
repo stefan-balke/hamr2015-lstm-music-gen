@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Jetzt kommt die Zeit, da ich sterben muss,]
+CNR[ueber alle meine Suenden weiss ich keine Buss.']
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[5, S. 127
+    1928 gedruckt in Heidelberg]
+KEY[Q1100G 08  G 2/4]
+MEL[1_  1_2_  3_43  2_32  1_
+    11  2222  5_43  2_32  1_ //] >>
+FCT[???]
+CMT[Melodievariante zu Q0100, anderes Lied.]

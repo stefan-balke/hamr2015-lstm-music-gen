@@ -1,0 +1,9 @@
+F[ERK3
+CUT[IK WEET MY EINE SCHONE MAGT]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland, Ditmarschen]
+KEY[E1090A 04  C 6/4]
+MEL[1  1_11_1  5_55_
+    5  4_56_5  5_43_0
+    4445_3  4_35_3
+    4445_3  2_.1_ //] >>
+FCT[Wunsch - Lied, Luegen - Maerchen]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[SAGT MIR O SCHOENSTE SCHAEFRIN MEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0193  08  C 6/8]
+MEL[5  1_31_3  1_32_
+    4  3_21_2  -5_.^_
+    5  1_31_3  1_32_
+    4  3_21_2  -5_.^_
+    1  4_44_4  3_21_
+    1  4_44_4  3_21_
+    3  1_31_3  1_.^_ //] >>
+FCT[Romanze]

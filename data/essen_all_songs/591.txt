@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES WAREN DREI GESELLEN]
+REG[Europa, Mitteleuropa, Deutschland, Pommern]
+KEY[Z0175  16 Bb 4/4]
+MEL[-5__  1__-7_-6_-5__1__  3_2_1__0__
+    -5__  1__-7_-6_-5__1__  3_2_1__0__
+    5_.4  3_3_3_3_3__5__  5_4_4_3_2__.
+    2_  2_2_2_2_5__5_4_  3_3_2_2_1__ //] >>
+FCT[Romanze, Tod]

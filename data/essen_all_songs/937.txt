@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Mondscheinlied"
+    WENN I IN D HEIMATH GEH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1202  16  G 3/4 4/4]
+MEL[1_.3  3_.22__2_.4  4_.33__
+    1_.3  5_.55_.55_.55_.5  5__3__
+    3_.5  5_.46_.-6-7_.2  2__1__ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

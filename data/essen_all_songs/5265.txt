@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Der Herr von Braunschweig]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0064  04  D 3/2]
+MEL[1_  3b45_1_  445_
+    +1_  7b+17b_6_  5_3b_0
+    3b  3b_5_3b_  221_0
+    1  3b45_3b_  2_1_ //] >>
+FCT[Lied]
+CMT[15. Jh.]

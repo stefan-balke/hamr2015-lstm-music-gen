@@ -1,0 +1,9 @@
+F[ERK3
+CUT[EI MEI LIEBES MALCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[E1558  08  E 3/4]
+MEL[  555_+1_  7b7b5_
+    7b_  44456b4  5__0
+    1  123b3b22  3b1-7b-7b3b
+    3b  223b3b54  3b3b2_-7_  1__0_ //] >>
+FCT[Staende -, Bauern - Lied, Flachsbrechen, bei der Arbeit]

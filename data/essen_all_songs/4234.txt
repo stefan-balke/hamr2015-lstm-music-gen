@@ -1,0 +1,11 @@
+F[ERK3
+CUT[TABAK IST MEIN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1778  08 Bb 4/4]
+MEL[  1_.-5-3_-5_  1__1_
+    1_  2_.1-7_1_  2__2_3_  2__2_
+    4_  3_3_2_2_  1__0_
+    3_  5_3_1_-7_  -6__-6_
+    -6_  4_3_2_1_  -7__-7_1_  -7__-7_
+    4_  3_3_2_2_  1__0__ //] >>
+FCT[Scherz - Lied, Tabak; Handwerksburschen - Lied]

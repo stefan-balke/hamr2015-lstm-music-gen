@@ -1,0 +1,18 @@
+BOEHME
+CUT[ALS KAISER KARL IM WEITEN ZUGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0132  16 Eb 4/4]
+MEL[-5_-3_-4_  -5__-5__1__.-3_  -3_-4_-4__0_
+    -4_-3_-2_  -3__-5__1__-7_-6_  -5___0__
+    -5__  -4__.2_1_-7_-6_-5_  -5_.11__0_
+    1_-7_1_  -6__2__1__-7__  1__0__. //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ALS KAISER KARL IM WEITEN ZUGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0132  16 Eb 4/4]
+MEL[-5_-3_-4_  -5__-5__1__.-3_  -3_-4_-4__0_
+    -4_-3_-2_  -3__-5__1__-7_-6_  -5___0__
+    -5__  -4__.2_1_-7_-6_-5_  -5_.11__0_
+    1_-7_1_  -6__2__1__-7__  1__0__. //] >>
+FCT[Ballade, Romanze]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Verschneiter Weg]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0164  08  F 4/2]
+MEL[1__  1__2__3__4__  5___5__
+    5__  2__3__4__5__  3__.2_1__
+    2__  2__.2_2__3__  4__.4_4__
+    3__  2__1__1__-7__  1__.-7-6-5__
+    2__  2__.2_2__3__  4__.4_4__
+    3__  2__1__1__-7__  1___0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder. Nuernberg bei Berg und Newber (c. 1542) No. 48.
+    Grassliedlein 1535 No. 6.]

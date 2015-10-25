@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Es war einmal ein feiner Knab,]
+CNR[der liebt sein Schaetzchen sieben Jahr.]
+REG[Mitteleuropa, Deutschland (BRD) , Niederrhein]
+SRC[4, S. 225
+    1856 gedruckt in Berlin]
+KEY[Q1080G 16  F 3/4]
+MEL[1_1_3_  5__3_5_6_5_  4__3_
+    5_3_3_  3__2_3_542_  2__1_ //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0080, anderes Lied "Der treue Knabe" .]

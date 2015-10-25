@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Es stand ein Schloss in Oesterreich]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen und Nassau]
+SRC[1, S. 274
+    1912 aufgezeichnet]
+KEY[Q0024P 16  D 3/4]
+MEL[5_  5_+1_3__.3_  3_5_2__.
+    5_  5_6_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_+1__
+    +3__  +2+1765__.4_  4__3__0_ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Vgl. Q0024L und M]

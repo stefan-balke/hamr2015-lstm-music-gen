@@ -1,0 +1,11 @@
+F[ERK3
+CUT[O WUNDERBARES GLUECK]
+REG[Europa, Mitteleuropa, Deutschland, Oderbruch, Gross - Neuendorf]
+KEY[E1402  08 Bb 2/4]
+MEL[1_  -7-6-5-4  -3_
+    -5_  -642-7  1_0
+    1  3111  2_-7
+    -5  3111  2_-7
+    1  -7-6-5-4  -3_
+    -5_  -642-7  1_ //] >>
+FCT[Staende -, Soldaten - Lied, Klage]

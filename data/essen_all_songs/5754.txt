@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Stete Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0204A 08  G 3/2]
+MEL[1__  3b___4__  5___7b__  6__5___  4___
+    4__  5___5__  3b__1__5__  4__.3b21__  -7b___
+    -7b__  3b___4__  5__3b__5__  4__.3b_2__
+    1__4__3b__  2_1_2___  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[J. Ott 1534 No. 67 und 68, J. Ott III 1544 No. 14. Tonsatz
+    von Heinr. Isaak, vermuthlich auch von ihm die Melodie erfunden
+    denn als Volksweise waere sie zu gekuenstelt.]

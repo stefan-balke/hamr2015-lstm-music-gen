@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Wurzgaertelein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0141  04  F 4/2 2/2]
+MEL[1__  1__1__  2__2__  3__3__  3___  0__
+    3__  5__5__  3__2__  3__.21  -7___
+    0_1_3_4_  5__3__  5_.43_2_  3_21  -7__
+    3__  2__1__  -7__-5__  1_.23_21  2__.4_  3_.21_-7_  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster V. 1556 No. 17.]

@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ACH WIE ISTS MOEGLICH]
+REG[Europa, Mitteleuropa, Deutschland, Hildburghausen]
+KEY[E0548  08  F 3/4]
+MEL[  5_5654  4_.33_
+    3_3432  2_.11_
+    2_2_2_  3_.45_
+    5_6543  3_2_0_
+    5_5_5_  6_.7+16
+    5_5654  32343_
+    1_3_5_  54243_
+    5_642-7  2_1_0_ //] >>
+FCT[Liebes - Lied, Treue]

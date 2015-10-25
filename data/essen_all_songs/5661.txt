@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der Reuter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0081  04  G 4/2]
+MEL[5  5_5_555_  6_5_4_0
+    3  555_3455  4_321_
+    3_  4_3_2_1_  -7__0_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus M. Framck, Fascic. quodl. 1611 No. 2.]

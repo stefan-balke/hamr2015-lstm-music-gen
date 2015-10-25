@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES RITT EIN HERR ZUM KUEHLEN WEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau; Liegnitz]
+KEY[E0185  08 Bb 3/4]
+MEL[-5  1-7-6_2_  -7-6-5_0
+    -5  123_2-7  1-6-5_0
+    -5  123_2-7  1-6-5_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

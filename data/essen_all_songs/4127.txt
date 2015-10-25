@@ -1,0 +1,9 @@
+F[ERK3
+CUT[O BERLIN ICH MUSS DICH LASSEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E1599  08  F 3/4]
+MEL[13  5_.+154  433_
+    23  4_.235  2_.0
+    13  5_.346  655_
+    +16  5_.345  3_.0 //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft]

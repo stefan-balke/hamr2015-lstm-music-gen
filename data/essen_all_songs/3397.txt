@@ -1,0 +1,11 @@
+F[ERK2
+CUT[MAEGDLEIN FREI DU NICHT SO FRUEH]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0835A 08  D 4/4]
+MEL[13  5_.34_4_  3__0_
+    34  5_.66_4_  3__0_
+    12  3_3_3_23  4_2_2_
+    1_  3_3_5_43  4_2_2_0
+    -5  12345_56  54321_0
+    2  32345_43  2_2_1_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[MUTTER ACH MUTTER ES HUNGERT MICH]
+REG[Europa, Mitteleuropa, Deutschland, Schoenbeck a.d. Elbe]
+KEY[E0189A 08  F 3/4 4/4 2/4]
+MEL[  1_3_5_  +1_7_6_  6_5_5_  3_0__
+    5_4_4_  2_0_2_  6_5_5_  3_0__
+    3_5_4_3_  2_0_
+    3_5_4_3_  2_1_-7_
+    -5_  -6_-6_-7_-7_  1_2_3_
+    3_  3_4_5_66  5__4__  3___ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Krist give at Dronningen hun var dod,]
+CNR[da skulde du baere Guldkronen rod.]
+REG[Nordeuropa, Daenemark, Faeroer]
+SRC[3, S. 260
+    1923 gedruckt in Kobenhavn]
+KEY[Q2068L 08  D 4/4]
+MEL[3b_  3b3b3b_-7b-7b2_  3b_4_3b_
+    5_  7b7b7b_553b_  3b_3b_1_ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]
+CMT[Daenische Fassung der Ballade.]

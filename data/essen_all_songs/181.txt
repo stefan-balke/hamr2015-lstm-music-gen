@@ -1,0 +1,24 @@
+BOEHME
+CUT[WENN DES FRUEHLINGS WACHEN ZIEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0216  08  A 2/4 3/4]
+MEL[  -5332  -5221
+    -5131  532_
+    -5332  -5221
+    -5131  532_
+    4#252  4#25-5
+    -71  -7-512  31
+    43  6432  3_2_  1_0_ //] >>
+FCT[Jahreszeiten - Lied, Fruehling; Krieg]
+BOEHME
+CUT[WENN DES FRUEHLINGS WACHEN ZIEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0216  08  A 2/4 3/4]
+MEL[  -5332  -5221
+    -5131  532_
+    -5332  -5221
+    -5131  532_
+    4#252  4#25-5
+    -71  -7-512  31
+    43  6432  3_2_  1_0_ //] >>
+FCT[Jahreszeiten - Lied, Fruehling; Krieg]

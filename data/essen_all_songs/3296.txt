@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WIE IN DEM FRUEHLING UND SO IM SOMMER]
+REG[Europa, Mitteleuropa, Deutschland, Hesssen, Dillkreis, Schwalbach]
+KEY[E0731C 16  E 3/4]
+MEL[1_1_3_  5__4_3_4_6_  6__5_
+    1_1_3_  5__4_3_4_6_  6__5_
+    5_5_67  +1__7_+2_+176_  5__0_
+    +1_6_5_  3__5__6_5_  3__. //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

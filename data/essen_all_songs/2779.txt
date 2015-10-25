@@ -1,0 +1,12 @@
+F[ERK1
+CUT[GESTERN ABEND GIENG ICH AUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0167  08  G 2/4]
+MEL[  -5111  -722_
+    3342  211_
+    5331  1-61_
+    4321  -7-6-5_
+    -5111  -722_
+    3342  211_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

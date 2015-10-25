@@ -1,0 +1,9 @@
+FINK
+CUT[DEUTSCHES HERZ VERZAGE NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0229  08  G 4/4]
+MEL[34  5_.34_2_  3__0_
+    33  2_5_6_.4#  5__0_
+    34  5_.54321  6__0_
+    44  3_5_4_.2  1__0_ //] >>
+FCT[Vaterlands - Lied, national]

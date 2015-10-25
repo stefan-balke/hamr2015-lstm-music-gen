@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Der Rheinschiffer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0080  04  F 3/2 4/2]
+MEL[1_  1_.23_  4__
+    3_  1_3__  2__.  0__
+    1_  1_.23_  4__
+    3_  1_3__  2__.  0_
+    1_-7_1_  2__1_-7_  -6__-5__  5__.43  2_
+    5_4_4_  3_.21_
+    3_  2__1__  0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus den Souterliedekens 1540 ad Ps. 130.]

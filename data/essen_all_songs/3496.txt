@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ROSA WILLEN WIJ DANSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0976  08  A 6/8]
+MEL[  1_5554  5_.3b_
+    3b  4_.3b_3b  4_.3b_.
+    1_3b3b21  -7b_-5-5_.
+    123b2_1  -7b_-5-5_
+    5  5_.2_.  1_.^_0 //] >>
+FCT[Tanz - Lied, Reigen]

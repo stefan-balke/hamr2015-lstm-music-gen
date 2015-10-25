@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Alter Ostergesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0552D 02  D 4/1 6/1]
+MEL[   5__4_5_  7b__+1__5__
+    5_4_5_3b_  2__3b__1_.
+    1  444_1_-7b_  3b__4__5__
+    5_4_5_3b_  2__3__1__
+    2__-7b_1_1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Schumanns ev. Gesangbuch 1539.]

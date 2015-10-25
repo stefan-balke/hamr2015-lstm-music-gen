@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ICH WEISS EINN JAEGER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[Z0185  16 Bb 6/8]
+MEL[-5_  1__3_2_2_1_  -7__1_2__.
+    1_.23_3_.21_  2__.^__
+    3_  3_4_5_5_4_3_  2_4_4_4__.
+    3_3_3_3_2_1_  -7_2_2_2__.
+    1_.23_3_2_1_  1__.^__ //] >>
+FCT[Soldaten -, Jaeger - Lied]

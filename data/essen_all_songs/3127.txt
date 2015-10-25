@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ICH HAB MIR EINS ERWAEHLET]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen]
+KEY[E0591B 08  G 4/4]
+MEL[-5_  1_-7_2_1_  4__3_
+    34  5_5_4345  3__0_
+    13  3221-7_
+    24  43321_
+    13  2_1_2_3_  4__.
+    54  3_3_2123  1__0_ //] >>
+FCT[Liebes - Lied]

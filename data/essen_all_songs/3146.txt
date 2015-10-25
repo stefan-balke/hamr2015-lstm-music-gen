@@ -1,0 +1,11 @@
+F[ERK1
+CUT[SCHOENSTER ABENDSTERN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0613  16  A 2/4]
+MEL[  1__5__  4_.3b2__
+    1_.23b23b1  -712-7-5__
+    4_4_4_4_  5_43b2__
+    1_.23b23b1  -712-7-5__
+    1__5__  6b_545_
+    4_  3b_1_3b21-7  1__0__ //] >>
+FCT[Liebes - Lied]

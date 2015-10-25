@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Der schelmische Bauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0082B 04  D 3/2 4/2]
+MEL[1_  1__1_  5__5_  3b__4_  5__
+    5_  5__5_  7b__5_  3b__2_  3b__0_  0_
+    3b_3b_3b_  2_1_213b_  3b21__-7_  1__0__  0__
+    1_  5_5_5_  7b_7b_5_  3b__2_  3b__0_  0_
+    3b_3b_3b_  2_1_213b_  3b21__-7_  1__0__  0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 86.]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Reiter und Hirtenmaedchen
+    Es huet' ein Maedchen die Laemmelein im Holze,]
+CNR[da kam ein Reiter geritten gar stolze:]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Blattersleben]
+SRC[7, S. 109
+    1910 aufgezeichnet]
+KEY[Q0148  16  G 4/4 6/8]
+MEL[1_1_1_  -6__2_2_1_-7_-6_-7_  1__-5__0_
+    1_1_1_  -6__2_2_1_-7_-6_-7_  1__-5__0_
+    -5_  3_.11_1_1_1_  2__3_4__
+    3_  2__-5_-5_.-5-5_  1__2_3__
+    2_  1__.-7__.  1__0__. //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]

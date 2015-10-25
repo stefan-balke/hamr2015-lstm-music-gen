@@ -1,0 +1,9 @@
+F[ERK1
+CUT[UND IN DEM SCHNEEGEBIRGE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau]
+KEY[E0429D 08  F 3/4]
+MEL[1  135_5_  6_5_0
+    4  321353  2__0
+    2  442_2_  135_0
+    +1  543_2_  1__0 //] >>
+FCT[Liebes - Lied]

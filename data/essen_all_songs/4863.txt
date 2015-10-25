@@ -1,0 +1,11 @@
+DVA
+CUT[Es war einmal ein kleiner Mann,
+    re - ri - rosa]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[D0156  08  G 2/4]
+MEL[-5  1111  1-5-5_
+    1_2_  3_1
+    1  3333  311_
+    222-7  1_. //] >>
+FCT[Ehestands - Lied]
+CMT[Inzipit = entfernte Variante ??]

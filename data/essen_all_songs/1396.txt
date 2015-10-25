@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    Graf Friederich wollt ausreiten]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 186
+    1926 gedruckt in Heidelberg]
+KEY[Q1063B 16  F FREI]
+MEL[-5__  1_1_1__2__.3_  4_3_2__
+    3_2_  1__-5__1_1_2_3_  4_5_2__
+    2__.  1_-7_-6_-5_.-6-5_-5_  1__2_2_3_1_2__
+    4_4_  3__2__1__-5__1_2_  3_3_2__1__ //] >>
+FCT[Ballade ???]
+CMT[Melodievergleich zu Q0063, anderes Lied "Graf Friedrich" .
+    Aehnliche Fassung schon aus anderem Balladenband kodiert ???]

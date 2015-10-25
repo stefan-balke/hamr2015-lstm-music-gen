@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigstochter
+    Om alla berg och dalar de voro utaf gull,]
+CNR[Allt vatten vore vaendt uti vin,]
+REG[Nordeuropa, Schweden]
+SRC[2, S. 66
+    1814 aufgezeichnet (vor)]
+KEY[Q2040A 08  A 4/4]
+MEL[-5  11123b_3b3b  211-7-5_0
+    -6  -7b-7b-7b-7b-7b-6b1-6b  -5_0__^
+    -5  2_2443b3b2  1-713b2_0
+    -4#  -5-5123b21-7  1_0__^ //] >>
+FCT[Ballade, Betrug, Ehe, Tod]
+CMT[Schwedische Fassung der Ballade.]

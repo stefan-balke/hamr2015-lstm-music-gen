@@ -1,0 +1,10 @@
+DVA
+CUT['s Konzellerer Doerfl is scheibnkuglrund
+    ja, da wenn ma auss'n ummigeht, nacha beisst oan koa Hund]
+REG[Europa, Mitteleuropa, Deutschland, Bayer. Wald, Konzell]
+KEY[D0134  08  A 3/4]
+MEL[   -5_  -64432_  13321_  -7223-7_  1_
+    123-5  -64432_  13321_  -722-532  1_
+    123-5  -64432_  13321_  -722-532  1_0_ //] >>
+FCT[Heimat - Lied]
+CMT[zweistimmig (Sextparallelen und Terzen) ; Inzipit = Variante zum Lied]

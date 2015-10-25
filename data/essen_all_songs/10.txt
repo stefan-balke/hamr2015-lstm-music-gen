@@ -1,0 +1,22 @@
+BOEHME
+CUT[STEHE FEST O VATERLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0009  08  D 4/4]
+MEL[  1_1_4_.3  2_5_3_0_
+    +1_5_6_.5  5_.43__
+    2_5_6_7_  6__5_0_
+    +2_+17+1_5_  +1_+3_+2__
+    +1_+1_7_7_  +1_+1_+2__
+    +3_+1_6_4_  3__2__  1__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[STEHE FEST O VATERLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0009  08  D 4/4]
+MEL[  1_1_4_.3  2_5_3_0_
+    +1_5_6_.5  5_.43__
+    2_5_6_7_  6__5_0_
+    +2_+17+1_5_  +1_+3_+2__
+    +1_+1_7_7_  +1_+1_+2__
+    +3_+1_6_4_  3__2__  1__0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

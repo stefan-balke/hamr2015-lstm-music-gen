@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Die Henne"
+    ACH MEIN HENNCHEN]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1362  16  G 2/4]
+MEL[1_.21-7-6-5  -61465__  -61465__
+    54324321  321-71__
+    5_.65_.6  54323_1_
+    5_.65_.6  54323_1_
+    1_.21-7-6-5  -61465__  -61465__
+    54324321  321-71__ //] >>
+FCT[Kinder - Lied]

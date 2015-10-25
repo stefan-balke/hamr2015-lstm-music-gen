@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ZWEI WEISSE BLUEMELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[E0638  16 Eb 3/4]
+MEL[5_5_.3  1__1_3_4_.3  2__2_
+    1_-7_2_  7_.77_.65_.4  3_5_+1_0
+    56_.5  1__1_3_4_.3  2__.
+    1_-7_2_  7_.65_.54_-7_  1__0_ //] >>
+FCT[Liebes - Lied, Treue]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[WO SOLL ICH MICH HINKEHREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0308  08  A 2/4]
+MEL[-5  123b4  5_2
+    2  3b212  -5_.
+    -5  123b4  5_2
+    2  3b212  -5_.
+    5  6b543b  2_.
+    5  3b12-5  1_.
+    5  6b543b  2_2
+    5  3b12-5  1_. //] >>
+FCT[Lyrisches Lied, Romanze, Verlassenheit]

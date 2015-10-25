@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[GAR LIEBLICH HAT SICH GESELLET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0307  16  G 2/4]
+MEL[1_  5_555_5_  5_6__
+    5_  4_3_4_5_  3__0_
+    1_  5_555_5_  5_6__
+    5_  4_3_4_5_  3__0_
+    5_  2_2_2_5_  2_2_2_
+    5_  6_5_4_3_  2__
+    5__  3_2_1_-7_  1__0_ //] >>
+FCT[Lyrisches Lied, Romanze, Liebes - Lied]

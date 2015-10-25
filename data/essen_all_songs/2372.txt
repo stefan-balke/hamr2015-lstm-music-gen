@@ -1,0 +1,9 @@
+FINK
+CUT[WENN D IN HIMMEL SAGT ER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0927  16 Eb 3/4]
+MEL[6_.5  3_1_1_1_6_5_  4_2_2_2_
+    5_.5  7_7_7_6_5_4_  3_1_1_1_
+    5_5_  3_1_1_1_+1_+1_  +1_2_2_2_
+    +1_+1_  +1_7_6_5_4_-7_  1___ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[AF AF EHS HIAERTN]
+REG[Europa, Mitteleuropa, Unter - Oesterreich]
+KEY[E1944  08  A 3/4]
+MEL[-5_  1__2_  1_32
+    1-7  -6_2_-6_  1__
+    -5_  1__2_  1_32
+    1-7  -6_2_-6_  1__0_
+    3_321-7  -6__.
+    2_21-7-6  -5__
+    -5_  1_1_2_  1_32
+    1-7  -6_2_-7_  1__ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

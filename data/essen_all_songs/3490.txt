@@ -1,0 +1,15 @@
+F[ERK2
+CUT[ROSENROTH IST MEINE NOTH]
+REG[Europa, Mitteleuropa, Deutschland, Hohen - Saathen a.d. Oder]
+KEY[E0969  16  C 2/4 3/8]
+MEL[  -5_-5_1_-5_  -3_-4_-5__
+    -5_-5_1_-5_  -3_-4_-5__
+    -5__-6__  -7__0__
+    -5_-6_-7_1_  2_3_2_
+    1_  -7_-7_-6_-6_  -5__0_
+    -5_  1_-5_-5_.-4  -3_-2_-1_0
+    -4  -3_-2_-3_-4_  -5_-5_0_
+    -5_  1_-5_-5_  -5_-3_
+    -5_  1_-5_-5_  -5_-3_0_
+    1_1_11  1_1_0_ //] >>
+FCT[Tanz - Lied, Reigen, Ostern, Pfingsten]

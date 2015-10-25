@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Das ganze Dorf versammelt sich]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 274  komponiert
+    1842 gedruckt]
+KEY[Q1024M 08  D 3/4]
+MEL[1  135342  3331
+    2-7  155443  3_2_0
+    5  57+2754  35+1_.
+    +1  +165342  2_1_0 //] >>
+FCT[Ballade, ??]
+CMT[Variante (Ursprung ?) von Q0024ON ff. Anderes Lied.]

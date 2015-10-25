@@ -1,0 +1,26 @@
+BOEHME
+CUT[IN EINEM THAL BEI ARMEN HIRTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0118A 08  G 4/4]
+MEL[-5-6-7  1_.33_.5  542_0
+    -5-6-7  1_31542-7  1__0
+    -5-6-7  1_.33_.5  542_0
+    -5-6-7  1_31542-7  1__0
+    555  43211-7-6-5  -611_0
+    555  4_2_3_1_  5__0
+    42-7  1_.33_.5  53-6_0
+    346  6531542-7  1__^ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[IN EINEM THAL BEI ARMEN HIRTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0118A 08  G 4/4]
+MEL[-5-6-7  1_.33_.5  542_0
+    -5-6-7  1_31542-7  1__0
+    -5-6-7  1_.33_.5  542_0
+    -5-6-7  1_31542-7  1__0
+    555  43211-7-6-5  -611_0
+    555  4_2_3_1_  5__0
+    42-7  1_.33_.5  53-6_0
+    346  6531542-7  1__^ //] >>
+FCT[Ballade, Romanze]

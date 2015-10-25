@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[MORGENROTH! MORGENROTH! LEUCHTEST MIR ZU FRUEHEM TOD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0196  16  G 3/4 6/4]
+MEL[-5_3_  3__2_0_-5_4_  4__3_0_
+    1_3_  5__.3_4_2_  2__1__0__
+    1_.33_3_3_3_5_.42__0__
+    2_.44_4_4_4_6_.53__0_13
+    5__.3_4_2_  2__1__0__
+    1_.33_3_3_3_5_.42__0__
+    2_.44_4_4_4_6_.53__0_13
+    5__.3_4_2_  2__1__ //] >>
+FCT[Soldaten -, Jaeger - Lied; Phrasen geaendert (2.7.89)]

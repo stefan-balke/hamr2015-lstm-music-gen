@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    ohne Text]
+REG[Suedeuropa, Italien, Sizilien]
+SRC[5, S. 207
+    1957 gedruckt in Palermo]
+KEY[Q3107C 16  G FREI]
+MEL[1_3_4_5__.5_(6b_7b_6b_)5__.4_3___3__
+    6b_6b__5__3__1__(4_5_4_)3b_.2b1__1___ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0107B, anderes Lied. Verzierung (Vorschlag) .]

@@ -1,0 +1,14 @@
+F[ERK3
+CUT[SCHON WIEDER TOENTS VOM SCHACHTE HER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E1530  08  C 6/8]
+MEL[-5  -5_1-3_-3  -3_-5-1_
+    -1  -6_-61-7-6  -6_.-50
+    -5  -5_-4-6_-4  -4_-3-5_
+    -5  -5_-5-5-6-7  2_.10
+    1  2_-5-5_-4  -3_-51_
+    1  2_-5-5_-4  -3_-51_
+    1  -6_-61-7-6  -5_.10
+    1  -7_.-6_-7  1_-3-6_
+    -5  -5_33_2  1__0 //] >>
+FCT[Staende -, Bergmanns - Lied]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[ES LEBE WAS AUF ERDEN STOLZIERT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0591  08  C 6/8]
+MEL[-5  -3_-5-5_1  1_.-5_
+    -5  1_11-71  2__0
+    2  2-722-72  2_.-5_
+    -5  3_3232  1__0
+    1  1_11-7-6  -6_.-7_
+    -7  21-621-6  -7__0
+    -7  1_11-7-6  -6_.-7_
+    -7  2_-5-6-7-6  -5_0_. //] >>
+FCT[Staende -, Jaeger - Lied]

@@ -1,0 +1,11 @@
+DVA
+CUT[Der lustige Nagelschmied
+    Willkomm, willkomm, Nagelschmied,]
+CNR[trio trio diralala]
+REG[Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )]
+KEY[D0046  16  G 2/4]
+MEL[1_1_3_3_  1_1_2__
+    3_1_5_55  3_2_1_0
+    1  1_1_3_3_  1_1_2__
+    3_1_5_55  3___ //] >>
+FCT[Staende - Lied]

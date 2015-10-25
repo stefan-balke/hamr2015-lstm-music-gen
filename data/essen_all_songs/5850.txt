@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Der lustige Bauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0306  04  F 4/2 3/2]
+MEL[5_.55_.5  5_5__6_  5__1__
+    5_.55_.5  5_5__6_  5__1__
+    0__1__  1__1_1_  ^_-7_-6_-6_  -5___
+    0__1__  1__1_1_  ^_-7_-6_-6_  -5___
+    1__-5_  1__2_  3__.  2__.
+    1__-5_  1__2_  3__4_  5__
+    5_  4__3_  4__2_  1__.  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder. Nuernberg 1542 bei Berg und Newber. No. 10.]

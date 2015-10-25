@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Kyrillischer Text ......]
+REG[Osteuropa, UdSSR, Galizien, Lemken - Gebiet]
+SRC[2, S. 294
+    ????]
+KEY[Q3053K 08  F 4/4]
+MEL[1_12  345_3_2_  1__
+    5_56  7_+1_7_6_  5__
+    +1_+15  6_5_664_  3__
+    1_12  345_332_  1__ //] >>
+FCT[Ballade, Braut - Werbung]
+CMT[Melodievergleich zu Q0053 , anderes Lied, textverwandt mit Q0006.]

@@ -1,0 +1,30 @@
+BOEHME
+CUT[SIND WIR VEREINT ZUR GUTEN STUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0012  08 Bb 4/4]
+MEL[-512  3_.32542  1-5-5_0
+    11-7  -6_.-62_2_  -5__0
+    -512  3_.32542  1-5-5_0
+    11-7  -6_.-62_2_  -5__0
+    -5-71  2_.-71353  2-7-5_0
+    -5-3-5  1_.11353  2__0
+    334  5_.4321-7  -7-6-6_0
+    423  4_5_3_2_  1__0
+    334  5_.4321-7  -7-6-6_0
+    423  4_5_3_2_  1__0 //] >>
+FCT[politisch, national, Vaterlands - Lied, Studenten - Lied]
+BOEHME
+CUT[SIND WIR VEREINT ZUR GUTEN STUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0012  08 Bb 4/4]
+MEL[-512  3_.32542  1-5-5_0
+    11-7  -6_.-62_2_  -5__0
+    -512  3_.32542  1-5-5_0
+    11-7  -6_.-62_2_  -5__0
+    -5-71  2_.-71353  2-7-5_0
+    -5-3-5  1_.11353  2__0
+    334  5_.4321-7  -7-6-6_0
+    423  4_5_3_2_  1__0
+    334  5_.4321-7  -7-6-6_0
+    423  4_5_3_2_  1__0 //] >>
+FCT[politisch, national, Vaterlands - Lied, Studenten - Lied]

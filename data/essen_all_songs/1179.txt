@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Es ritt ein Koenig wohl ueber den Rhein,]
+CNR[er freit' nach Koenigs Toechterlein,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Oranienburg,
+    Birkenwerder]
+SRC[2, S. 170
+    1841 aufgezeichnet (in den 1770er Jahren entstanden ?)]
+KEY[Q0047  08  G 3/4]
+MEL[-512  3b3b2_(111)  5_.
+    542  5_4_3b4  2_.
+    222  5_4453b  2_.
+    3b12  3b543b23b  1_. //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]

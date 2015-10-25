@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Zwist und Versoehnung"
+    EIN HAEFELEIN, EIN SCHUESSELEIN IST ALL MEIN KUECHENGESCHIRR]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z1190  16  C 2/4]
+MEL[+1_  +1_5_5_+1_  +1_6_6_
+    +2+1  7_5_6_7_  +1__0_
+    +1_  +1_5_5_+1_  +1_6_6_
+    +2+1  7_5_6_7_  +1__0_
+    +1_  7_+1_+2_7_  +1_+2_+3_
+    +1_  7_+1_+2_7_  +1_+2_+3_
+    +1_  +1_5_5_+1_  +1_6_6_
+    +2+1  7_5_6_7_  +1__0_ //] >>
+FCT[Liebes - Lied]

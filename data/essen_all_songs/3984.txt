@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES SAG EIN JEDER WAS ER WILL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E1401  16  F 3/4]
+MEL[1_1_3_  5__.5_6_5_  3__0_
+    5_5_2_  4__6_6_5_.4  3__0_
+    -5_1_3_  5__.5_5_+1_  6__5_
+    4_3_5_  4__.4_4_6_  5_4_3_
+    2_1_2_  3_4_5__6_.5  3__0_
+    5_5_23  4__6_6_5_4_  3__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Klage]

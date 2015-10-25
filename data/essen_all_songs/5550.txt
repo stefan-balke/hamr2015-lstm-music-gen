@@ -1,0 +1,13 @@
+KINDER
+CUT[ES WOLLT EIN JAEGER FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2356  16  G 3/4]
+MEL[5_  5_5_3__5__  4_3_2__0_
+    4_  4_3_2__6__  5_5_1__0_
+    5_  5_5_3__5__  4_3_2__0_
+    5_  5_5_5__5__  4_3_2__0_
+    5_  5_5_3__5__  4_3_2__0_
+    4_  4_3_2__6__  5_5-71__0_
+    5_  5_5_3__5__  4_3_2__0_
+    4_  4_3_2__6__  5_5-71__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Ballade]

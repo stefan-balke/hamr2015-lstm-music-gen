@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Schtupp und Pfaffer muhlet shi,]
+CNR[in lauter Weine laafet shi.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 136
+    0000]
+KEY[Q1042J 08  G 4/4]
+MEL[  3__5__  2__5__  3_1_-7_0_  0__
+    -5__  123_123_  221__0_ //] >>
+FCT[Ballade, Schwank ??]
+CMT[Variante zu Q0042E und H und I in Form und Kehrreim; anderes Lied.
+    Zweite Zeile = Kehrreim.]

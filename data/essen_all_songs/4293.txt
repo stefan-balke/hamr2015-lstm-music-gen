@@ -1,0 +1,12 @@
+F[ERK3
+CUT[DING DING THALERRING]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+KEY[E1874  08  G 2/4]
+MEL[  5_3_  553
+    1  1234  555_
+    5533  553
+    1  1234  5_3_
+    5533  5_3_
+    5533  5_3_
+    5432  1_0_ //] >>
+FCT[Kinder - Lied, Lauf - Spiel]

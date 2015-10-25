@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MAIKAEFER FLIEG]
+REG[Europa, Mitteleuropa, Deutschland, Weissenfels]
+KEY[E1850  08  G 2/4]
+MEL[  5_42  1_0
+    5  5542  1_0
+    3  3333  255
+    5  5542  1110 //] >>
+FCT[Kinder - Lied, Tier - Lied]

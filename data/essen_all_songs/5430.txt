@@ -1,0 +1,10 @@
+KINDER
+CUT[SEGG DOCH MUSEKAETTKEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Engste]
+KEY[K0669  08 Bb 3/4]
+MEL[  3_3_33  2_2_2_  1_-7_1_  -5__
+    -5_  3_3_3_  2_2_2_  1_-7_1_  -5__
+    3_  1_-7_1_  2__
+    3_  1_-7_1_  2__
+    5_  3_2_1_  2_1_-7_  1__-7_  1__0_ //] >>
+FCT[Kinder -, Tier - Lied]

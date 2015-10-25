@@ -1,0 +1,22 @@
+BOEHME
+CUT[UFM BERGLI BIN I GESAESSE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0397  08  C 3/4]
+MEL[-3-4  -531_-3-4  -531_
+    -5-6  -532_-7-4  -3__
+    -3-4  -532_-7-4  -31-7_
+    -4-2  --7-6-5_-4-2  -1__
+    (-3-51)  3_2_(-5-72)  4_3_
+    (135)  6_.523  1__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Erotik]
+BOEHME
+CUT[UFM BERGLI BIN I GESAESSE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0397  08  C 3/4]
+MEL[-3-4  -531_-3-4  -531_
+    -5-6  -532_-7-4  -3__
+    -3-4  -532_-7-4  -31-7_
+    -4-2  --7-6-5_-4-2  -1__
+    (-3-51)  3_2_(-5-72)  4_3_
+    (135)  6_.523  1__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Erotik]

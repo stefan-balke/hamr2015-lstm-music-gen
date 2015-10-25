@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DER N N HAT NE HOHE MUETZE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glogau]
+KEY[E1225B 08  F 2/4]
+MEL[1  5556  543
+    3  5556  543
+    3  5556  5_3
+    3  5556  5_3 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sommer - Tags - Lied]

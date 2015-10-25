@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Einsiedler"
+    ICH SEH WOHL UND MERKE]
+REG[Europa, Mitteleuropa, Steiermark]
+KEY[Z1208  08  C 3/4]
+MEL[34  5+3+3+2+13  422_
+    23  4+2+2+172  3-71_
+    34  5+3+3+2+13  422_
+    23  4+4+4+3+2-7  1_0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

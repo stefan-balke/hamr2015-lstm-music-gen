@@ -1,0 +1,15 @@
+FINK
+CUT[KOENIG CHRISTIAN LEBE WOHL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0442  08  G 4/4]
+MEL[1_3_  5_314_2-7  1_0_
+    21-7-6  -5_4_4_3_  2_0__.
+    5432121-7b  -6_1_4_-4_
+    654#32321  -7_2_5_-5_
+    1_(123)2_(234)  32345_0_
+    +15543_4_  3__0__
+    5432121-7b  -6_1_4_-4_
+    654#32321  -7_2_5_-5_
+    1_(123)2_(234)  32345_0_
+    +15543_4_  3_0_ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Frau von Weissenburg
+    Die mi te drincken gaue,]
+CNR[icsonghe hem een nieuwe liet]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[1, S. 301
+    1557 gedruckt in Antwerpen]
+KEY[Q0030  08  G FREI]
+MEL[1__1_1_  2__2_3b_1__  -7b__
+    -7b_3b__4_  5__4_5__43b  2__0_
+    5_5_5_  3b_4__3b_2_1_  -7b__0__
+    1_.2  3b_4__3b_2__  1__ //] >>
+FCT[Ballade, Ehebruch, Mord, Moral; geistlich]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.
+    Melodie = geistliche Kontrafaktur.]

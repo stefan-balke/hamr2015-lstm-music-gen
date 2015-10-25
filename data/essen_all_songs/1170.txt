@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Bie vrie ischt auf schianai Neashizo,]
+CNR[hei, hei, hopsasa!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Verdreng]
+SRC[2, S. 136
+    1908 aufgezeichnet]
+KEY[Q0042H 08  G 2/4]
+MEL[-5_  3_3_  5_44  3_2_  1_-5_
+    1__  3__  2_2_  1_ //] >>
+FCT[Ballade, Braut - Werbung, Betrug; Schwank, burlesk]
+CMT[Zweite Zeile = Refrain.]

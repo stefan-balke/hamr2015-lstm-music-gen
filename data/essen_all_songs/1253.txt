@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Maria die ist geritten aus,]
+CNR[Maria die ist geritten aus,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 298
+    193? aufgezeichnet]
+KEY[Q1053O 04  F 6/4]
+MEL[5556  5_+1+167  +1_
+    5+1+1+2  +1765_6  5_
+    5565  3231-6-7  1_
+    3565  3231-6-7  1_ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0053B, anderes Lied.]

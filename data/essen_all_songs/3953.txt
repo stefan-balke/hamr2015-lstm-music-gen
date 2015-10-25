@@ -1,0 +1,11 @@
+F[ERK3
+CUT[FRISCH AUF ZUM KAMPF]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oberhessen; Wetterau]
+KEY[E1369  08  G 4/4]
+MEL[-5-6-7  1_3_3323  422_0
+    -5-6-7  1_3_3321  2__0
+    223  4_5_6_5_  533_0
+    565  544_-5432  1__0
+    223  4_5_6_5_  533_0
+    565  544_-5432  1__0 //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Ach Gott in deinem hoechsten Thron]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0390B 04  C 4/2 6/2]
+MEL[+1_  +1_+1_7_+1_  +2_+1_7__0_
+    7_  +1_+2_+3_+1_  +2__.+17  6_5_6__  5__0_
+    5_5_6_  7__+1_7_  ^_656_5_  3__0_
+    6_  6_6_6_6_  5_3_1__  0_
+    1_5_6_  7_+1_+2_+2_  +1__0__
+    +1__7_6_  5_5_1_.2  345__43  2__1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Hs. aus dem 16. Jh.]

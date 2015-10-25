@@ -1,0 +1,10 @@
+FINK
+CUT[MEIN LIEBCHEN SIEHST DU DAS GAERTLEIN DORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0850  16  F 6/8]
+MEL[-5_  1__-5_-4_-5_-6_  -6__-5_-5_0_-2_  -3__.0__
+    -5_  1__-5_-4_-5_-6_  -6__-5_-5_0_-2_  -3__.0__
+    -3_  -3__-2_-4_-3_-6_  -5_1_-6_-5__
+    -3_  -3_-3_-2_-4_-3_-6_  -5_21-7-6-5_0_
+    -7b_  -6_0_-5_-4_0_-5_  -3__.0__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade]

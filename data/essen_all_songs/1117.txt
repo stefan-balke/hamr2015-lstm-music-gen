@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Vriesken
+    De Velden stonden groen en daertoe breydt,]
+CNR[tot reysen soo wasser den Vriesemann bereyt:]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[2, S. 3
+    1540 gedruckt in Antwerpen]
+KEY[Q0032  08  D FREI]
+MEL[1_  1__1_  5__5_  3b__4_  5__
+    5_  5__5_  7b__5_  3b__2_  3b__0_
+    3b_  3b_3b_  2_1_  213b_.21__-7_  1__0__
+    1_  5__5_  7b_7b_5_  3b__2_  3b__0__.
+    3b_  3b_3b3b2_1_  213b_.21__-7_  1__. //] >>
+FCT[Ballade, Ehebruch, Zweikampf, Tod]
+CMT[Melodie = geistliche Kontrafaktur. Kleinere Melodievariante aus
+    anderer Quelle abgedruckt.]

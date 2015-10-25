@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Unbestechliche
+    Je ne m'en puis conforter]
+CNR[por baler ne por joer:]
+REG[Mitteleuropa, Frankreich]
+SRC[7, S. 36
+    11?? Handschrift (Trouvere)]
+KEY[Q3144F 08  G 3/4]
+MEL[  4__4_  3__3_  1__3_  432_0_
+    2__1_  -7__-7_  -7__-6_  -7__0_
+    -6__-7_  1__2_  2_1_1-7  1__0_ //] >>
+FCT[Ballade, Liebes - Handel]
+CMT[Melodievergleich zu Q0144C, anderes Lied.]

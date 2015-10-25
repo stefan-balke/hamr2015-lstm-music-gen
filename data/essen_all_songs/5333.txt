@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich steig auf hohe Berge]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[8, S. 285
+    1909 gedruckt]
+KEY[Q0155x 08  G 4/4]
+MEL[-5_  1_.23b21_  5_.454
+    3b_  4_5_6b543b  2__0_
+    56b  7b6b5_543b_  4_.3b4__
+    3b_5_3b21_  2_.12_
+    5_  543b21_-7_  1__0_
+    5_  543b21_-7_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Vorletzten Takt der fuenften und sechsten Zeile gemaess der Taktart
+    rhythmisch korrigiert.]

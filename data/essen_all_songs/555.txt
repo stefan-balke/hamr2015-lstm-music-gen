@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[EY DU EDLER TANNENBAUM, DU BIST A  EDLER ZWEIG]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0139  08  G 3/4]
+MEL[    113b_1_  225_
+    5_  443b_1_  -7b_0_
+    -7b1  113b_1_  2_5_
+    5_  3b13b21-7  1__0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

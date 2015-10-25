@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WIE HOCH IST DER HIMMEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Messel]
+KEY[E0670A 04  G 3/4]
+MEL[-5  132  11
+    1  666  5_
+    2  21-6  -6-5
+    1  -7-6-7  1_ //] >>
+FCT[Liebes - Lied]

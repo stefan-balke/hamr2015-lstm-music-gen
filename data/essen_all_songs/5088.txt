@@ -1,0 +1,13 @@
+BOEHME
+CUT[ALLES NEU MACHT DER MAI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0628  08  A 2/4]
+MEL[  533_  422_
+    1234  555_
+    533_  422_
+    1355  3_0_
+    2222  234_
+    3333  345_
+    533_  422_
+    1355  1_0_ //] >>
+FCT[Kinder -, Jahreszeiten - Lied, Fruehling]

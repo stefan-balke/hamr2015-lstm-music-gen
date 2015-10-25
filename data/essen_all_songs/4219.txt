@@ -1,0 +1,8 @@
+F[ERK3
+CUT[HEY MUTTER DER FINK IST TODT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1752A 08  F 4/4]
+MEL[  5__3_33  2_2_1__
+    2_22333_  555_3_3_
+    222_111_  222_3_3_ //] >>
+FCT[Scherz - Lied]

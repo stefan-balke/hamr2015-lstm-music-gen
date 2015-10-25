@@ -1,0 +1,11 @@
+KINDER
+CUT[ZIEHE DURCH DURCH DIE GOLDNE BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen; Brandenburg]
+KEY[K2296  08  D 2/4]
+MEL[  553_  553_
+    5565  4_2
+    2  4422  442
+    2  4454  3_1
+    5  5_35  5_3
+    5  5565  432_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

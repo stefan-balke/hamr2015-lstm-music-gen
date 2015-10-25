@@ -1,0 +1,8 @@
+F[ERK5
+CUT[Es fuhr sich ein Pfalzgraf]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0039  08  D 2/4]
+MEL[2  5_56  7b_65  67b65  4_.
+    5  5_23b  4_43b  2_3b2  1_0 //] >>
+FCT[Lied]
+CMT[Aus Zuccalmaglios Nachlass]

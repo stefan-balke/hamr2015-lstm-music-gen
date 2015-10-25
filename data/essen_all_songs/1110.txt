@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Kos'liedchen"
+    KINNE WINNE WINNCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1376  16  G 2/4]
+MEL[1-71-71_-5_  1_232__
+    2_343__  3_456__
+    2_345__  1_234__
+    5_67+17+17  +1_1_0__ //] >>
+FCT[Kinder - Lied beim Anziehen]

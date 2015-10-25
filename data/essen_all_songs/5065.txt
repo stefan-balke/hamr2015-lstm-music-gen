@@ -1,0 +1,9 @@
+BOEHME
+CUT[NICHT MEHR LANGE GEHT ES HIER ZU LANDE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0602  16 Eb 4/4]
+MEL[1_3_  5__.5_5_5_3_1_  2__2__0_
+    2_2_3_  4__.3_2_4_6_5_  3___0__
+    3_4_  6_.55__5_5_3_1_  4__6__+1__
+    7_6_  5_+1_7_6_5_.54_-7_  1___0__ //] >>
+FCT[Staende -, Seemanns -, Soldaten - Lied]

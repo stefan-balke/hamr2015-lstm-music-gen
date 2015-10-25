@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES SPIELTE EIN RITTER MIT EINER MADAM]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Westerwald; Unter - Taunus]
+KEY[E0110F 08 Eb 6/8]
+MEL[-5  1135_6  5_31_
+    5  +1_+1765  6_.5_
+    5  666+176  5_433
+    6  5_24_4  4_53_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

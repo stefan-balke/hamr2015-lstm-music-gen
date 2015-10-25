@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es waren mal zwei Bauernsoehn'.]
+CNR[Sie hatten Lust in Krieg zu geh'n,]
+REG[Osteuropa, UdSSR, Russland, Wolga]
+SRC[4, S. 308
+    ????]
+KEY[Q0085R 16  D FREI]
+MEL[5_3_5_  1__.2_5_6_  5__0_
+    1_4_5_  6_+1_7b_6_  5__4_5_  2__.0_
+    5__.+1_  6_7b_6_5_  432_1__
+    5__.+1_  6_7b_6_5_  432_1__ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

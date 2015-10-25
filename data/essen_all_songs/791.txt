@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Dollinger"
+    ES REIT DER TUERK AUS TUERKENLAND NACH REGENSBURG IN DIE STADT]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1056  08  G 4/4]
+MEL[-5_  1_1_1_12  3b_.3b3b_.
+    6b  5_43b21-71  2_0__
+    12  3b_3b_3b_43b  3b22_2_
+    3b2  211_13b21  1-7-7_-7_
+    53b  1_1_2_2_  3b_.45_
+    53b  1_1_3b21-7  1__0_ //] >>
+FCT[Romanze, Ballade]

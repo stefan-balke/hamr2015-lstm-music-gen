@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Das ganze Dorf versammelt sich]
+CNR[zum Kirmestanz und Reihen;]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 274  Komponist: J.M. Miller
+    1799 gedruckt, 1772 komponiert]
+KEY[Q1024L 08  D 3/4]
+MEL[5  555342  3331
+    2-7  155443  3_2_0
+    5  5+1+3+153  42+2_.
+    7  +165342  2_1_0 //] >>
+FCT[Ballade, ??]
+CMT[Verzierung (Triller) in der zweiten Zeile. Variante (Ursprung ?)
+    von Q0024ON ff. Anderes Lied.]

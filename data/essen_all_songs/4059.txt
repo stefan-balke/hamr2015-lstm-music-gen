@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WENN DER SCHAEFER SCHEREN WILL]
+REG[Europa, Mitteleuropa, Deutschland, Halberstadt]
+KEY[E1488  08  G 4/4]
+MEL[  12345_5_  6_6_5_0_
+    4_443_33  2__1_0_
+    12345_5_  6_6_5_0_
+    4_443_33  2__1_
+    1_  3_.33_4_  3__2_
+    1_  3_.33_4_  3__2_0_
+    12345_5_  6_6_5_0_
+    4_443_33  2__1_0_ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

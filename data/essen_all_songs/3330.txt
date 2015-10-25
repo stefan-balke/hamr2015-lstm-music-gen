@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH WASS WOL WENNS GUT WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[E0769  08  F 2/4]
+MEL[1  1335  566_
+    5443  355_
+    3554  433_
+    3554  4_3_  3_. //] >>
+FCT[Abschieds -, Wander -, Handwerksburschen - Lied]

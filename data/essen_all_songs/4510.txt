@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Frisch auf, ihr Landsknecht alle!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0417D 08  D 6/4 4/4]
+MEL[5_  5__5_6__5_  4_.56_4__
+    4_  5__5_7b__6_  5__.^_0_
+    5_  5__5_6__5_  4_.56_4__
+    4_  5__4_3b__2_  1__.^_0_
+    1_  3b__4_5__4_  3b__1_-7b__
+    -7b_  3b__4_5__5_  7b_5_6_5__
+    5_  4_3b_4_5_  3b__1_
+    5_  4_3b_4_5_  3b__1_
+    5_  7b__6_5__3b_  4__3b_2__.  1__.^_0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Der von Boehme aus den verschiedenen Versionen herausgeschaelte
+    "volksthuemliche Kern" der Melodie.]

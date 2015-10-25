@@ -1,0 +1,22 @@
+DVA
+CUT[La Paloma
+    Mich rief es an Bord,]
+CNR[es wehte ein frischer Wind]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[D0229  16  C 2/4]
+MEL[     5_  5___  ^3_45_6_  7+1_67_5_  4___  ^__0_
+    5_  +2___  ^_+3_+1+27_  +17_65_4_  3___  ^__0_
+    5_  5___  ^3_45_6_  7+1_67_5_  4___  ^__0_
+    5_  +2___  ^+3_+1+2_7_  +17_65_4_  3___
+    +1+1_+1+1_7_  +2+2_+17_6_  6_5__.  ^___
+    77_77_6_  65_55_6_  543__.  ^___
+    +1+1_+1+1_7_  +2+2_+17_6_  6_5__.  ^___
+    77_77_6_  65_55_6_  543__.  ^_
+    5556_4#  5___  0_5555_6  7__
+    +2__  ^+3_+1+27_+1  67_+1+3_.+2  23_46_.5  3___  0_
+    5556_4#  5___  0_5555_6  7__
+    +2__  ^+4_+3+2+3_+1  +27_+1+3_.+2  23_46_.5  +1__. //] >>
+FCT[Staende - Lied, Seemannslied]
+CMT[moduliert in die Dominanttonart; mit Klavierbegleitung;
+    rhythmische Korrekturen in der zehnten Zeile und im Schlusstakt
+    Inzipit = Variante zum Lied]

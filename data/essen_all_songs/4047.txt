@@ -1,0 +1,8 @@
+F[ERK3
+CUT[HINTERM RIESEN VORN AM RIESEN]
+REG[Europa, Mitteleuropa, Schweiz, Kanton Bern, Siebenthal]
+KEY[E1473A 16  G 3/8]
+MEL[  5__65  5__65  5__65  5__65
+    3__5_  1__2_  3_2_1_  2_-5_-5_
+    3_1_1_  2_-5_-5_  3_1_1_  2_-5_-5_ //] >>
+FCT[Staende -, Hirten -, Alpen - Lied, Kuhreihen]

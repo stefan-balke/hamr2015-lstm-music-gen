@@ -1,0 +1,12 @@
+FINK
+CUT[MEIN GUTER MICHEL LIEBET MICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0060  16  G 2/4]
+MEL[-5_  1_.11_1_  1_3_1_0_  1_3_1_
+    3_  2_1_-7_-6_  -5_-7_2_
+    1_  -7_5_5_4#_  5__0_
+    -5_  4_4_2_2_  3_3_1_
+    1_  2_2_-7_-7_  1_3_5_
+    5_  4_4_2_2_  3_3_1_
+    1_  2_2_-7_-7_  1__0_ //] >>
+FCT[Liebes - Lied, Hochzeit]

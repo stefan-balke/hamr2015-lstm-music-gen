@@ -1,0 +1,9 @@
+VARIANT
+CUT[Die Kauernburger Lena, die hot so gutn Schnupftabak]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Foelschnitz]
+KEY[V0005B 16  C 2/4]
+MEL[1_  1_3_5_+1_  5__3_.
+    3  5_4_4_4_  6_.55_
+    1_  1_3_5_+1_  5_.33_
+    5_  5_4_4_5_  3__0__ //] >>
+FCT[Geselligkeits - Lied, Scherz]

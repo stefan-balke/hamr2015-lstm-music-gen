@@ -1,0 +1,9 @@
+ZUCCAL
+CUT['SASS A NAEHTERIN UND SIE NAEHT]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0040  16  G 2/4]
+MEL[1_1_111_  4__2__  3b__0__
+    4_5_6b6b5_  4_4_4_
+    -7b_  1_2_3b_5_  2_.2-7b__  1__0_
+    5_  4_.4-7b__  1__0__ //] >>
+FCT[Sagen - Lied, Romanze]

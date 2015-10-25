@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Vogelhochzeit]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0251  04  D 3/2]
+MEL[4_  +1__+1_  +1__4_  +1__.  +1__
+    4_  5__6_  7b__5_  4_.345  4__
+    56  7b__7b_  7b__6_  7b__7b_  7b__
+    6_  5__7b_  6__5_  1_.-712  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Hainhofer Lautenbuch II Bl 131 (Hs. in fol 1604)]

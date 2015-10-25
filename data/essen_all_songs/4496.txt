@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Klaglied ueber Kriegsnoth]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0407  02  F 3/1]
+MEL[3_  2__3_  4__5_  3__2_  1__
+    3_  2__3_  4__5_  3__2_  1__
+    1_  -6_.-71_  2_1_-7_  -6_-5_-6_  -5__
+    2_  2__2_  2_.34_  5_.43_  2__
+    2_  2__2_  2_.34_  5_.43_  2__
+    1_  1_.23_  4_3_2_  1__.  1__ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[M. Praetorius, Mus. Sion. VII. 1609 No. 277.]

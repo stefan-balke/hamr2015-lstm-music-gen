@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Ein Schaefer trieb mit Laemmern aus,]
+CNR[ein Schaefer trieb mit Laemmern aus,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+SRC[5, S. 269
+    1933 gedruckt in Leipzig]
+KEY[Q0114P 08  G 2/4]
+MEL[-5_  1-712  3_2_  3_.
+    2  3234  5_4#6  5__
+    4_32  3_1_  322-7  1_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

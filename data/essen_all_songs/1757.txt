@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wollt ein Mueller frueh aufstehn,]
+CNR[wollt in den Wald spazieren gehn,]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[4, S. 342
+    1931 gedruckt in Herrmannstadt]
+KEY[Q0086N 04  G 3/4]
+MEL[-5  1_-5  1_4  3_2  1_
+    -5  1_-5  1_4  3_2  1_0
+    5_+1  6_5  4_3  3_5  2_ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]
+CMT[Verzierungen (Vor- und Nachschlaege) . Taktart entsprechend
+    den Taktstrichen in 3/4 geaendert.]

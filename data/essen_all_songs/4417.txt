@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DER KAISER UND DER KOENIG]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E2119B 08  G 4/4]
+MEL[-5_  1_.243b21  -7-6-5_0_
+    5_  5_43b4_3b_  2__0_
+    2_  3b_3b45543b  4_.3b2_
+    5_  1_123b_2_  1__0_ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

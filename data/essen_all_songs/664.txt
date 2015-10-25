@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[AUS DEM KARLSRUH MUSS ICH REISEN, AUS DER ALLERSCHOENSTEN STADT]
+REG[Europa, Mitteleuropa, Deutschland, Baden]
+KEY[Z0248  08  G 3/4]
+MEL[13  5_.+154  433_
+    23  544_31  2_0_
+    23  4_.332  211_
+    (567)  +153_22  1__
+    23  4_.332  211_
+    (567)  +153_22  1__ //] >>
+FCT[Handwerker - Lied, Wanderschaft]

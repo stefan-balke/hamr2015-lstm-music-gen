@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Bie vrie ischt auf dos Schufhirtle!]
+CNR[Es schteangait schmoargaisch guer vrie auf.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Buehel]
+SRC[5, S. 254
+    1906 aufgezeichnet]
+KEY[Q0114D 08 Bb 3/4]
+MEL[1_  -7-6-5_1_  -7-6-5_
+    -5_  -7-7-5_2_  -721_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

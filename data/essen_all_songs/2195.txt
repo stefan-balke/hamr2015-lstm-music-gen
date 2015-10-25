@@ -1,0 +1,15 @@
+FINK
+CUT[SEHT WIE ER IM GLASE BLINKT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0535A 08  G 4/4]
+MEL[  3_3_321-7  -6_-6_-6_0_
+    4_.35_.4  3_2_1_0_
+    3_3_321-7  -6_-6_-6_0_
+    4_.35_.4  3_2_1_0_
+    5_5_5654  3_3_3_0_
+    5_.56543  254#65_0_
+    4_.35_.4  3_2_1_0_
+    5_5_5654  3_3_3_0_
+    5_.56543  254#65_0_
+    4_.35_.4  3_2_1_0_ //] >>
+FCT[Studenten -, Trink - Lied, Rundgesang]

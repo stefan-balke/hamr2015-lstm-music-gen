@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Was wird er mitte bringen]
+CNR[der Herzall'rliebste mein?]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kanth]
+SRC[8, S. 34
+    1840 aufgezeichnet]
+KEY[Q0155D 08  D 2/4]
+MEL[4  6545  4_3
+    3  5425  3_0
+    3  5323  4_3
+    3  5323  4_3
+    1  1111  +1_7
+    6  6364  4_3
+    3  5324  4_3
+    3  5324  4_3
+    1  1111  +1_7
+    6  5364  4_3 //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe, Glueck]

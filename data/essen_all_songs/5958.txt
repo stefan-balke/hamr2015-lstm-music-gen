@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Es warb ein schoner Juengling]
+CNR[uber ein braiten see]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 197
+    1540 gedruckt in Nuernberg]
+KEY[Q0020  08  G 6/4]
+MEL[1_  1__3b_2__1_  2_.3b4_5__
+    5_  4__2_3b_1__  -7b__.0__
+    -7b_  2__3b_4__3b_  1_.23b_2__
+    1_  -7b_-5__1__-7_  1__.0__ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Kleinere Melodievariante aus anderer Quelle abgedruckt.]

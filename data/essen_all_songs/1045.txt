@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Kuhreigen"
+    ES CHUNNT E MAITELI HURTIG HER]
+REG[Europa, Miteleuropa, Oberhaslithal]
+KEY[Z1311  32  G 6/8]
+MEL[1_2_  3___3_1_4___4_2_  5__.4_3_4_2___0__
+    2__-5__-5__3__1__1__  5___4__2___
+    1234  5__5__3__5__4_3_4_2_  5__.4_3_2_1___0__
+    2__2__-5__3__3__1__  2___-5__-5___
+    1234  5__5_+1_3__5__4_3_2_7_  5_3_4_2_1___0__ //] >>
+FCT[Handwerker -, Bauern - Lied]

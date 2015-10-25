@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    A ked' ty nam umres,]
+CNR[Marysko moja?]
+REG[Osteuropa, Tschechoslowakei, Maehren, Sued - Walachei, Tichov]
+SRC[4, S. 206
+    1949 aufgezeichnet]
+KEY[Q2079G 08  D 2/4]
+MEL[  1234  5_4_
+    567b6  5_0_
+    +1_7b_  6543  441_
+    4654  (343)2_  1_0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Maehrische Fassung der Ballade. Verzierungen (Nachschlaege) und
+    Quintole. Quintole in Triole plus Viertelnote geaendert.
+    Zweite und vierte Zeile = Refrain.]

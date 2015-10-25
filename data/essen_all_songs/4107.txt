@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HAT MIR MEIN VATER VIERZIG GULDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Giessen, Neiskirchen]
+KEY[E1575  16  F 3/8]
+MEL[  1_.11_  3_.33_  6_.55_
+    5_+1_3_  5_.44_  3__.
+    5_+1_3_  5_.44_
+    4_6_2_  4_.33_
+    3_3_3_  5_.34_  5_+1_3_
+    3_.33_  6_.55_  3__. //] >>
+FCT[Staende - Lied, Fuhrmann]

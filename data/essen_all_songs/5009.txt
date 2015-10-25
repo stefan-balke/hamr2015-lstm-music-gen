@@ -1,0 +1,13 @@
+BOEHME
+CUT[DEM TURNER WARD DAS SCHOENSTE ZIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0544  08 Bb 6/8]
+MEL[-5  1_13_3  5_53_
+    1  2_4#-7_2  1_.0_
+    -5  1_13_3  5_53_
+    1  2_4#-7_2  1_.0_
+    1  2_32_1  3_53_
+    1  2_12_5  3_.0_
+    -5  1_13_3  5_53_
+    1  2_25_5  1_.0_ //] >>
+FCT[Turner - Lied]

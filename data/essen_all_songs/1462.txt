@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Winterrosen
+    Es wollt ein Maedchen Wasser holen,]
+CNR[kam bei einem Brunnen.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kurhessen, Lenderode]
+SRC[7, S. 61
+    1931 aufgezeichnet]
+KEY[Q0145E 08  F 2/4 3/4]
+MEL[-5  1133  1133
+    224-7  2_1_
+    5_  662_4_  551_
+    3_  224_-7_  2_1 //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]

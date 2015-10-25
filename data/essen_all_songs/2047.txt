@@ -1,0 +1,11 @@
+FINK
+CUT[MAEDCHEN SIEH DAS VEILCHEN AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0295  08 Ab 4/4]
+MEL[  1_.23_-5_  2_.34_0_
+    3_.45_-71  3_2_0__
+    1_.23_-5_  2_.34_0_
+    3_.4#5_6_  5#_.4#5_0_
+    65432_-5_  3__
+    5432  1_.23_2_  1__0__ //] >>
+FCT[Jugend - Lied, Belehrung, Moral]

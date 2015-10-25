@@ -1,0 +1,18 @@
+ZUCCAL
+CUT["Hochzeitslied"
+    HEUT SAND NACHBARSLEUT WIEDER ALL VOLL FREUD]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z1325  08  G 3/4]
+MEL[31  -722-5-72  433-5
+    13  544-5-72  1_0_
+    31  -722-5-72  433-5
+    13  544-5-72  1_0_
+    -72  655-5-72  433-5
+    13  544-5-72  3_0_
+    -72  655-5-72  433-5
+    13  544-5-72  1_0_
+    (321)  -722_.4  653_.
+    1  542_.-7  431_
+    (321)  -722_.4  653_.
+    1  5424-72  1_0_ //] >>
+FCT[Zech -, Schalks -, Hochzeits - Lied; Staende -, Bauern - Lied, Jodler]

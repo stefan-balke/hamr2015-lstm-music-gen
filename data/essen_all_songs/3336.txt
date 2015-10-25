@@ -1,0 +1,11 @@
+F[ERK2
+CUT[JETZT WIRD DER BESCHLUSS GEMACHT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Thueringer Wald]
+KEY[E0772  08  F 4/4]
+MEL[-5  1_1_3_3_  5_+153_0_
+    5_.42_4_  65543_0_
+    3_3_2_.2  4_4_3_0_
+    5_.+16_54  3_2_1_0_
+    3_3_2_.2  4_4_3_0_
+    5_.+16_54  3_2_1_0 //] >>
+FCT[Abschieds - Lied, Liebe]

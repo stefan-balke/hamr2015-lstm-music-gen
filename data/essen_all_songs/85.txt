@@ -1,0 +1,24 @@
+BOEHME
+CUT[SAH EIN KNAB EIN ROESLEIN STEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0114  16  F 2/4]
+MEL[  1_1_1_1_  321_1__
+    5_5_3_1_  4__3_0_
+    1_1_1_1_  321_1__
+    3_3_3_3_  543_3__
+    5_5_3_1_  4__3_0_
+    5_3_5_3_  +1_5_5__
+    6_5_4_3_  2__1_0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[SAH EIN KNAB EIN ROESLEIN STEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0114  16  F 2/4]
+MEL[  1_1_1_1_  321_1__
+    5_5_3_1_  4__3_0_
+    1_1_1_1_  321_1__
+    3_3_3_3_  543_3__
+    5_5_3_1_  4__3_0_
+    5_3_5_3_  +1_5_5__
+    6_5_4_3_  2__1_0_ //] >>
+FCT[Ballade, Romanze]

@@ -1,0 +1,11 @@
+BOEHME
+CUT[UEBER DIE VERHEERTEN MATTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0588  08  C 4/4]
+MEL[  1_.-51_3_  2_.-7-5_-5_
+    1_.-51_3_  2_.-7-5_-5_
+    3_3_3231  -7_-6_-5_0_
+    -5_.-2-5_-7_  -6_.-2-6_1_
+    -7_.-5-7_2_  1_.-51_3_
+    4_4_3_42  1_-7_1_0_ //] >>
+FCT[Staende -, Soldaten - Lied, Klage, Heimweh, politisch]

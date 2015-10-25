@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Peter Unverdorben
+    Zu mitterfasten es beschach,]
+CNR[daz peter onuerdorben gefangen lag,]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 286
+    1439 Handschrift; vom Hg. metrisch interpretierte Fassung]
+KEY[Q0026A 08  D FREI]
+MEL[1_1_4_  5__4_2_3b__  1__0_
+    2_3b_4_  1_1_-7b_-7b_4_  5_5_3b_
+    3b_  4_4_3b_2__3b_  4_3b__0__ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung]
+CMT[Original in Mensuralnotation. Anderer Uebertragungsversuch als Q0026.]

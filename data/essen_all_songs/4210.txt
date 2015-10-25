@@ -1,0 +1,11 @@
+F[ERK3
+CUT[LAURENTIA LEBE LAURENTIA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1742  08  G 6/8]
+MEL[-5  1_11-71  2_-5-5_
+    -5  222212  3_11_
+    3  5_.3_
+    -5  1111-71  2_-5-5_
+    -5  2_2222  3_11_
+    3  5_.3_ //] >>
+FCT[Scherz -, Spiel - Lied, Zaehl - Geschichte]

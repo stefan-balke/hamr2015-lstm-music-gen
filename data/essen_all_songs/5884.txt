@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Trinklied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0340  02  C 4/2 3/1]
+MEL[-5  1122  3_1_
+    5_  65_555  5_3_
+    6_  5_432_  1__
+    5_3_6_  54532_  1__
+    5_3_6_  54532_  1_. //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Scandello 1567 No. 20.]

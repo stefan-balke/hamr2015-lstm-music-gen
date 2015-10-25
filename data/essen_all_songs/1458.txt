@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Winterrosen
+    Ein Maedchen wollte Wasser hol'n]
+CNR[aus einem tiefen Brunnen,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern, Stettin, Sandfoerde]
+SRC[7, S. 46
+    1930 aufgezeichnet (vor)]
+KEY[Q0145A 08 Bb 2/4]
+MEL[5  6555  655
+    5  6543  3_2_
+    1335  5__  355+1  +3__  0
+    +3+16  5_.7  +2__  +1_. //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben. Grundton in der kleinen
+    Oktave. Pause am Anfang der vierten Zeile weggelassen.]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Himmelfahrt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0566  02  D 4/1 2/1]
+MEL[   5__4_5_  7b_+1_5_0
+    5  5_4_5_3b_  2_3b_1_0
+    1  4_4_1_-7b_  3b_4_5_0
+    5  5_4_5_3b_  2_3b_1_2_  -7b12_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Walasser Kath. Gsgb 1561 fol. 180.]

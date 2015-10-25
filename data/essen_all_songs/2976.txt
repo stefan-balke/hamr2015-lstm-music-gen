@@ -1,0 +1,13 @@
+F[ERK1
+CUT[MIR IST EIN SCHOENSBRAUN MEIDELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0450  08  F 4/4]
+MEL[1_  1_1_2_3_  4_.32_
+    4_  3_1_2_2_  1__0_
+    1_  1_1_2_3_  4_.32_
+    4_  3_1_2_2_  1__0_
+    1_  2_3_4_2_  3_4_5_
+    5_  6_5_5_4_  5__0_
+    5_  5_5_3_5_  4_.32_
+    4_  3_1_2_2_  1__. //] >>
+FCT[Liebes - Lied]

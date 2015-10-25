@@ -1,0 +1,9 @@
+F[ERK1
+CUT[NU FALL DU REIF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0447  04  A 4/4]
+MEL[-5  1122  333
+    2  1234  5_.
+    5  3332  123
+    3  2112  1_. //] >>
+FCT[Liebes - Lied, Untreue]

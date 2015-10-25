@@ -1,0 +1,9 @@
+VARIANT
+CUT[Siehst du wohl, da kummt er, lange Schritte nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Grafengehaig]
+KEY[V0003B 16  F 2/4]
+MEL[-5_-5_-6_-5_  1__1__
+    -5_-5_-6_-5_  1__1__
+    3_.32_1_  1_-7_-7__
+    -7_.-6-7_-6_  -6_-5_-5__ //] >>
+FCT[Geselligkeits - Lied, Scherz]

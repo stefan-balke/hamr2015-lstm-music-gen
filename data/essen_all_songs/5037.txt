@@ -1,0 +1,11 @@
+BOEHME
+CUT[ICH HATT EINEN KAMERADEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0573  08  G 4/4]
+MEL[-5_  1_333_2_  1__-5_
+    12  3_5_5_4_  3__0_
+    12  3_3_3_2_  3_.45_
+    43  2_2_2_21  2_.34_
+    5_  3_3_2_2_  1__
+    2__  3_5_2_23  1__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Tod]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[IN DEN GARTEN WOLLN WIR GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland, Franken]
+KEY[E0528  08  G 4/4]
+MEL[  1_.23_3_  2_231_-5_
+    3_.45_5_  4_453_1_
+    5_5_6_6_  4_465__
+    3_354__  2_243__
+    1_.35_5_  544_3_0_ //] >>
+FCT[Liebes - Lied]

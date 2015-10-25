@@ -1,0 +1,9 @@
+F[ERK2
+CUT[GUTEN ABEND LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Thueringen]
+KEY[E0728  16  G 2/4]
+MEL[-5-71_2_  3__2__  1_
+    223_46  5__4__  3__0_
+    33  5_3_542_  3_
+    112_54  3__2__  1__0__  0_ //] >>
+FCT[Liebes - Lied, Leid, Klage; Gesang mit Pantomime]

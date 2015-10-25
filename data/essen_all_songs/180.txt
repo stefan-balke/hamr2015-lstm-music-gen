@@ -1,0 +1,22 @@
+BOEHME
+CUT[O DER SCHOENE MAIENMOND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0214  08  E 6/8]
+MEL[  1_-51_-5  -6_-4-5_.
+    -1_-1-1-2-3  -3_.-2_.
+    -2-3-4-2-3-4  -4_.-3_.
+    -3-2-1-5-6-7  1-6-4#-5_0
+    2_1-7_-6  -5_-4-3_.
+    3_1-642  -7-6-51_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[O DER SCHOENE MAIENMOND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0214  08  E 6/8]
+MEL[  1_-51_-5  -6_-4-5_.
+    -1_-1-1-2-3  -3_.-2_.
+    -2-3-4-2-3-4  -4_.-3_.
+    -3-2-1-5-6-7  1-6-4#-5_0
+    2_1-7_-6  -5_-4-3_.
+    3_1-642  -7-6-51_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

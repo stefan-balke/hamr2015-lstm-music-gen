@@ -1,0 +1,8 @@
+F[ERK2
+CUT[UND JETZUND GEHT DAS FRUEHJAHR AN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E0686  08  G 3/4]
+MEL[-5  1-51_3_  4-71_0
+    1  2-5135+1  665
+    342  135_4-7  1_0_. //] >>
+FCT[Liebes - Lied, Leid, Klage, Trennung]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' ein Bauer frueh aufstehn]
+CNR[Es wollt' ein Bauer frueh aufstehn]
+REG[Mitteleuropa, Deutschland / Polen, Westpreussen]
+SRC[5, S. 270
+    1965 gedruckt in Duesseldorf]
+KEY[Q0114S 08  G FREI]
+MEL[113  5_5_6_6_  5__0
+    113  5_5_6_6_  5__0
+    5+17  +1_+2_+16  5+17
+    654  3_5_23  1_. //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

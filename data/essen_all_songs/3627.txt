@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    ohne Text]
+REG[Osteuropa, UdSSR, Russland, mordwinisch]
+SRC[5, S. 206
+    ????]
+KEY[Q3107A 16  G 6/8]
+MEL[  13b4_.3b4_3b13b1
+    -7b_1_(4_3b)43b1_0_ //] >>
+FCT[historisches Lied]
+CMT[Melodievergleich zu Q0107, anderes Lied.]

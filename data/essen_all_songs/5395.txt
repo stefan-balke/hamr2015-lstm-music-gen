@@ -1,0 +1,7 @@
+KINDER
+CUT[EIA BOBAIA SCHLAGS GICKELCHE TODT]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt, Sachsenhausen]
+KEY[K0078  08  G 3/8]
+MEL[  111  555  666  5_0
+    444  333  225  1_0 //] >>
+FCT[Kinder -, Wiegen - Lied]

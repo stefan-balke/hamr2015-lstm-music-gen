@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Abendlied"
+    KEIN SCHOENER LAND IN DIESER ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1274  08  A 3/4]
+MEL[-5-5-5  1_3_21  2_0
+    -5-5-5  1_3_21  2_0
+    312  354321  24321-7  1_0
+    312  354321  24321-7  1_0 //] >>
+FCT[Natur und Welt]

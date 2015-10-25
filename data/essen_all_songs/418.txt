@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[O STRASBURG O STRASBURG DU WUNDERSCHOENE STADT]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+KEY[Z0003  16  G 2/4]
+MEL[-5_  1__-5_1_  2__-5_
+    2_  3_2_1_3_  2__.
+    -5_  1__-5_1_  2__-5_
+    2_  3_2_1_3_  2__.
+    1_  5_6_5_4_  3__3_
+    23  4_4_3_3_  2__.
+    -53  5_.65_4_  3__3_
+    23  4_6_5_4_  3__. //] >>
+FCT[Sagen - Lied, Romanze]

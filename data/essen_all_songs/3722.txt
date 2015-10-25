@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Das Traenenkrueglein
+    Meine Freude ist, wenn die Sonn' aufgeht,]
+CNR[wenn Tiroler Madle ueber die Huegel ziehn.]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Saaldorf]
+SRC[5, S. 334
+    1906 aufgezeichnet]
+KEY[Q1122D 16  G 3/4]
+MEL[-5_-5_  1_1_3__5_5_  4_-7_2__
+    -5_-5_  -7_-7_2_2_(5_5_5_)  5_1_3__
+    -5_-5_  1_1_3_.35_5_  4_-7_2__
+    5_5_  7_6_5_5_4_-7_  1__0__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0122A und B, anderes Lied.]

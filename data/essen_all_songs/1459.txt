@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Winterrosen
+    Es wollt ein maegdlein wasser holln]
+CNR[bey einem kueelen Brunnen]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 59
+    1530 Handschrift Muenchen]
+KEY[Q1145B 08  F 4/4]
+MEL[1_  1_1_2_2_  3_3_1_
+    1_  4_3_2_3_  ^_2_1-71_  2___  0_
+    2_4__  4_3__3_  2_2_1_.2  3_.21_-7-6  -7__
+    -5__  1_1_3__  2_1_2__  1__. //] >>
+FCT[???, Lyrik]
+CMT[Vergleich zu Q0145, anderes Lied mit gleichem Textinzipit.
+    Wahrscheinlich KEINE zur Balladengruppe gehoerende Melodie.
+    Letzten Notenwert rhythmisch korrigiert.]

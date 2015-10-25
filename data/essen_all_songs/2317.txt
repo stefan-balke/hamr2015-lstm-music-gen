@@ -1,0 +1,11 @@
+FINK
+CUT[MITTEN IM SCHIMMER DER SPIEGELNDEN WELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0801  16  A 6/8]
+MEL[1_.-7-6_  -5_-3_-5_1_.-7-6_  -5__-3_
+    3_.53_  2_1_-7_1_-7_-6_  -7__0_
+    1_.-7-6_  -5_-3_-5_1_.-7-6_  -5__-3_
+    3_.53_  2_1_-7_1_-7_-6_  -7__0_
+    2_3_4_  5_.43_5_4_3_  2__-5_
+    1_4_6_  5_.43_2_1_-7_  1__0_ //] >>
+FCT[Geselligkeits -, Moral - Lied]

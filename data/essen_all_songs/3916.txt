@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ES IST SCHON ALLES FERTIG]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E1335  16  G 4/4]
+MEL[-5__  1__.2_3_.23_.4  5__3__5__
+    6_.5  4__5__3__
+    -5__  1__.2_3_.23_.4  5__3__5__
+    6_.5  4__5__3__0__
+    1__3_.21__-5__  1__3__5__0__
+    1__3_.21__-5__  1__3__5__0__
+    1__.2_3_.23_.4  5__3__5__
+    6_.5  4__5__3__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

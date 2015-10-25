@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Bauernkalender]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0452  02  G 4/2]
+MEL[1  113b3b  2-71
+    2  3b3b22  1_0
+    1  113b3b  2-71
+    2  3b3b22  1_0
+    3b  2223b  25_
+    5  543b3b  2_0
+    2  3b425  5_3b
+    5  5544  5_51  43b22  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 51.]

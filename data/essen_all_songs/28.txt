@@ -1,0 +1,16 @@
+BOEHME
+CUT[ICH BIN EIN DEUTSCHES MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0033  08  G 4/4]
+MEL[1_3_.2  4_.32__  1_0
+    31_.1  4_.42_.2  5_.53_.3  6__
+    5__  4_.53_1_  2__5__  1_ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[ICH BIN EIN DEUTSCHES MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0033  08  G 4/4]
+MEL[1_3_.2  4_.32__  1_0
+    31_.1  4_.42_.2  5_.53_.3  6__
+    5__  4_.53_1_  2__5__  1_ //] >>
+FCT[politisch, national, Vaterlands - Lied]

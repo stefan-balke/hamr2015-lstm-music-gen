@@ -1,0 +1,13 @@
+F[ERK3
+CUT[DORT UNTEN IM THAELE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1053A 08  F 3/4]
+MEL[-5_  3_.33_  4_4_
+    -7_  4_.44_  5_5_
+    1_  5_5_+1_  6_+2_.
+    +1  7_6_5-7  1_0_
+    5_  6_+4_.6  5_+35
+    +1_  4_+247_  3_+13
+    5_  6_+4_.6  5_+35
+    +1_  4_+257_  +1_0_ //] >>
+FCT[Tanz - Lied]

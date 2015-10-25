@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Ess rytt eyn Ritter wol durch dz Ried,]
+CNR[er fing ess an eyn newes Lyd,]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 84
+    1778 gedruckt]
+KEY[Q0041F 16  G 6/8]
+MEL[2_  2__6_6_6_5#_  6__7_+1__
+    7_  6__6_5_4_3_  6__543__
+    67  +1_7_6_5__6_  3__2_1__0_
+    5__4_3_4_5_  6_7_6_5__6_  4__.3__ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Einschiebsel am Anfang der vierten Zeile.]

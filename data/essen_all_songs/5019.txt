@@ -1,0 +1,11 @@
+BOEHME
+CUT[GENIESST DEN REIZ DES LEBENS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0553A 08  F 6/8]
+MEL[-5  1_1321  1_-6-6_
+    -6  -5_-5-5-6-7  1_0_.
+    -5  1_1321  1_-6-6_
+    -6  -5_-5-5-6-7  1_35_
+    5  6_6+176  5_.30
+    3  24321-7  1_0_. //] >>
+FCT[Studenten -, Trink - Lied]

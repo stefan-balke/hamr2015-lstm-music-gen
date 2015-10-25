@@ -1,0 +1,13 @@
+F[ERK3
+CUT[EIN LIEDCHEN ZU SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus, Arnoldshain]
+KEY[E1467  16  G 3/8]
+MEL[-5_  -5_-6_-7_  133_
+    5_  4_2_-7-7  1_0_
+    -5_  -5_-6_-7_  133_
+    5_  4_2_-7-7  1_0_
+    11  1_6_5_  5_4_4_
+    225_4_  4_3_3_
+    1_-7_-6_  -5_.44_
+    -5_-6_-7_  1__ //] >>
+FCT[Staende -, Jaeger - Lied, Wilderer]

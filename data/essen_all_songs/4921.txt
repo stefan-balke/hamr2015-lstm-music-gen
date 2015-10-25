@@ -1,0 +1,17 @@
+DVA
+CUT[Von der hohen Alm auf die Niederalm,
+    von der Niederalm auf d'Tret ja]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0285  16  D 3/4]
+MEL[    1_.2  3_1_6__5_.4  4_-7_2__
+    2_3_  4_2_7__6__  5_1_3__
+    3_4_  5_+1_+3__+2_.+1  7_5_7__
+    (6_5_4_)  4_2_4_5_6_4_  3___
+    3_4_  5_+1_+3__+2_.+1  7_5_7__
+    (6_5_4_)  4_2_4_5_6_4_  3___
+    5_.3  4_+2_7_+2_4_.5  +1_+3_+1_+3_+1_.
+    5  7_+4_+2_+4_7_.+1  +1_+3_+1_+3_+1_.
+    +1  +1_+6_+5#_+6_+2_.+1  +1_+3_+1_+3_+1_.
+    +1  7_+4_+2_+4_7_+2_  1__0__ //] >>
+FCT[Hirten - Lied, Bauern - Lied, Kiltlied, Jodler]
+CMT[Dreistimmig notiert; Inzipit = Variante zum Lied]

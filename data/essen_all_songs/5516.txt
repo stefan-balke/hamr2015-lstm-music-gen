@@ -1,0 +1,9 @@
+KINDER
+CUT[ADAM HATTE SIEBEN SOEHNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K2238  08  C 2/4]
+MEL[  1234  5555
+    54+16  5_3
+    3  5444  433
+    3  2255  1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

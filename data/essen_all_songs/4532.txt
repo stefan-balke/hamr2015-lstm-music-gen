@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der wolgemute Jaeger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0441  04  F 4/2]
+MEL[1_  1_1_5__  2_3__4_  5___  0_
+    5_5_5_  3_1_3_4_  5__3_
+    5_  5_2_2_1-7  -6__-5__  0_
+    1_1_1_  3_1_3_4_  5__0_
+    5_  3_2_1_1_  5__5_
+    5_  6_.54_32  3_4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Forster III 1549 No. 72.]

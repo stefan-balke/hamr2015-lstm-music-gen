@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Das treue Maedchen"
+    IM GARTEN WOHL IN DEM KLAREN MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1091  16  A 4/4]
+MEL[-7b__  3b__3b_3b_3b__.1_  -7b_.-7b-7b_.-7b-7b__.
+    -5_  1__.2_3b__2_1_  2__-5__0__
+    -7b__  3b__-7b_-7b_3b__.5_  4_.3b2_.14__.
+    5_  5__.2_3b__.1_  -7__2__0__
+    2__  3b__3b_2_3b__.5_  4_.3b2_.14__.
+    5_  5__.2_3b__.1_  -5__1__0__ //] >>
+FCT[Romanze, Ballade, Tod]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Schoen Ullerich und Hanselein,]
+CNR[die wollt'n zusamm ein Maedel frein,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Neusalz, Rauden]
+SRC[2, S. 112
+    1841 aufgezeichnet]
+KEY[Q0041Z 08  G 4/4]
+MEL[34  5_5_5_+1_  +1_5_3_
+    13  5_.65432  1_.32_
+    5_  +1_+1_3_3_  322_1_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0042J 08 Eb 2/4]
+MEL[13  5555  43
+    23  5222  2_
+    13  5555  43
+    23  5222  2_
+    +16  5542  1_
+    11  6_66  5+17
+    6  5542  1_
+    13  5_-7-7  1_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

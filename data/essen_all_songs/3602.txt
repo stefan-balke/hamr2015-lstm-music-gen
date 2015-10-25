@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Soldat kommt aus dem Kriege, hurra!]
+CNR[Soldat kommt aus dem Kriege, hurra!]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau,
+    Kr. St. Goarshausen, Lierscheid]
+SRC[5, S. 147
+    ????]
+KEY[Q0103A 04  F 6/4]
+MEL[-5  1_11_1  -7_24_2  1_.^_
+    -5  1_11_1  -7_24_2  1_.^_
+    5  5_3335  5_44_
+    3  3322_6  6_55_4  3_.^_
+    5  5_3335  5_44_
+    3  3322_6  6_55_4  3_.^_ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Anhaengsel an einigen Zeilen.]

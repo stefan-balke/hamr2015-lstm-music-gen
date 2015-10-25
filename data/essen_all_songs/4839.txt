@@ -1,0 +1,12 @@
+DVA
+CUT[Mis Bueoeli
+    Mis Schaetzaeli geit ueber Sapuener Staeg]
+CNR[i wuenschaemae Wassaer in d' Schuae]
+REG[Europa, Mitteleuropa,Schweiz, Kt. Graubuenden, Chur]
+KEY[D0089A 16 Eb 6/8]
+MEL[5_  3_4_5_6_+1_6_  5__4_2__
+    5_  3_4_5_6_+1_6_  5__.0__
+    3_  2_3_2_1_2_3_  2_.32_1__
+    3_  5_6_5_2_3_2_  1__.0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]

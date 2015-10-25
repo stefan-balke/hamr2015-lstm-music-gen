@@ -1,0 +1,12 @@
+F[ERK2
+CUT[HANSEL DEIN GRETELEIN IST EIN FAULS SCHLAMPERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0836  08  D 3/4]
+MEL[  1_3_5_  4_42-7_
+    2_4_6_  5_543_
+    4_2_-7_  2__.  1__0_
+    3_5_+1_  +2_+2+17_
+    4#_6_+1_  7_765_
+    +1_6_4#_  6__.  5__0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]
+CMT[modulierend; Form: AA']

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verunglueckte Muellerstochter
+    Feinster Mueller, tu nachsehen,]
+CNR[was in deiner Muehl' ist geschehen;]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Unter - Franken]
+SRC[5, S. 193
+    ????]
+KEY[Q0106C 04  G 3/4]
+MEL[  1_2  3_.  3_.  5_5  6_5  5_.
+    1_2  3_.  3_.  6_5  5_5  5_.  3_.
+    1_5  5_.  3_.  5_.  5_.  3_.  5_+1  6_.  6_.  6_5  5_.
+    5_6  5_4  4_4  6_.  5_5  5_.  3_0 //] >>
+FCT[Ballade, Unfall, Tod]

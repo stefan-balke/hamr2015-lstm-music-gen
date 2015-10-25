@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Da geht das Dirnderl uebern Mist]
+CNR[und tritt auf einen scharfen Spiess.]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Boehmerwald, Heiligenkreuz]
+SRC[2, S. 219
+    ???? gedruckt in Wien]
+KEY[Q0049  04  G 3/2 2/2]
+MEL[313  1_3_44  2
+    424  2_4_32  1_0 //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]
+CMT[Fuenfertakt?]

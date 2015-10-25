@@ -1,0 +1,11 @@
+F[ERK5
+CUT[Es waren einmal drei Reiter gefangn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0065  08 Bb 4/4]
+MEL[-5_  1_1_1_3_  1_-5_-3_
+    -5_  3_.1322-7  1__0_
+    12  3_3_4321  2_.32_
+    -5-7  2_2_321-7  1_-5_-3_
+    -5_  3_.1322-7  1__0_ //] >>
+FCT[Lied]
+CMT[ab 1818]

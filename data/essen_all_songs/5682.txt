@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Morgenstern]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0109  02  F 3/2 6/2]
+MEL[1  1_11_-6  -5_22_
+    2  3_4_22  1_
+    3  4_44_3  2_.2_
+    2  3_5543  2_
+    2  3_4_22  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Frankf. Gsgb. von Gesius "O Christe Morgensterne" und bei M.
+    Praetorius, Mus. Sion. VII. 1609 No. 69.]

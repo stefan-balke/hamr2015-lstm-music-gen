@@ -1,0 +1,11 @@
+F[ERK3
+CUT[SCHAEFER SAG WO WILLST DU WEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus; Dillkreis]
+KEY[E1491  16  F 3/4 2/4]
+MEL[1_3_  5__5__6_5_  5_+1_3__
+    6_.5  5_4_4__2_.4  4__3__0__
+    2_3_4_2_  3_4_5_5_
+    2_3_4_2_  3_4_5_5_  0__
+    1_3_  5__5__6_5_  5_+1_3__
+    6_.5  5_4_4__2_.4  4__3__0__ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

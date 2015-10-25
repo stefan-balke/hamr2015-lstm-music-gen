@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[ES FLOGEN DREI SCHWAELBELEIN UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0098  08  F 2/4]
+MEL[13  5_25  5432  1_32  1_.
+    3  2222  -6_33  21-71  -5_0
+    -5  1-713  5__  3_.1  321-7  1_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

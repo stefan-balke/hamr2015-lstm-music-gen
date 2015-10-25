@@ -1,0 +1,9 @@
+BOEHME
+CUT[LASS DICH SCHNEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Waldbroel]
+KEY[B0773  08  F 6/8]
+MEL[  3_21_-5  5_43_1
+    2_2253  2_.0_0
+    3_4#5_5  3_4#5_5
+    +1_3432  1_.0_0 //] >>
+FCT[Stande - Lied, Bauern, religioes]

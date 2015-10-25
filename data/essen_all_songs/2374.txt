@@ -1,0 +1,9 @@
+FINK
+CUT[EINSAM WANDELT DEIN FREUND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0930  16  G 4/4]
+MEL[5_3_  1__1_1_1_1_3_5_  5_4_4__0__
+    4_2_  -7__2_-7_-5_6_5_4_  2#_3_3__0__
+    1_1_  +1__7_7_6_7_+1_76  5_.35_0_
+    5__5_-7_  2__1__0__ //] >>
+FCT[Liebes - Lied]

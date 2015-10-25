@@ -1,0 +1,11 @@
+F[ERK1
+CUT[MARLBRUCK ZOG AUS ZUM KRIEGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0325  08  G 6/8]
+MEL[3  3_33_2  4_.3
+    43  2_2212  3_.1_
+    1  3_33_2  4_.3_
+    5  3_3212  3_.0_
+    5  5_34_6  5_.0_
+    5  5_34_6  5_.0_ //] >>
+FCT[historisches Lied, Krieg, Marlborough (1709)]

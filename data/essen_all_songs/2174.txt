@@ -1,0 +1,11 @@
+FINK
+CUT[BRUEDER HIER STEHT BIER STATT WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0508  08  G 4/4]
+MEL[  1_.23_3_  25421_0_
+    3_.4655_  43453_0_
+    1_+1_+1_76  655_3__
+    +3_.65+164  3_2_1_0_
+    1_+1_+1_76  655_3__
+    +3_.65+164  3_2_1_0_ //] >>
+FCT[Studenten -, Trink - Lied, national]

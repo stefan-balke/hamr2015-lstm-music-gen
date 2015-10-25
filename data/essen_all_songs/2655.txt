@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES WAR EINAML EIN FEINER KNAB]
+REG[Europa, Mitteleuropa, Deutschland, Franken; Niederrhein; Odenwald]
+KEY[E0093  16  F 3/4]
+MEL[-5_1_3_  5__3_5_6_5_  4__3_
+    5_5_3_  3__2_3_542_  2__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

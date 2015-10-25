@@ -1,0 +1,12 @@
+BOEHME
+CUT[NACH DEM STURME FAHREN WIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0763  08  E 4/4]
+MEL[  1_3b_5_5_  4_56b5__
+    +1_7b6b5_4_  5__-5__
+    1_3b_5_5_  4_56b5__
+    +1_7b6b5_4_  5__-5__
+    +1_7b6b5_5_  7b_6b54__
+    6b_543b_3b_  5_43b2__
+    5__.3b4  5__.5_  +1_123b_2_  1__.0_ //] >>
+FCT[Staende -, Seemanns - Lied, religioes]

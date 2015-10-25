@@ -1,0 +1,11 @@
+F[ERK1
+CUT[SCHOENSTER SCHATZ AUF DIESER ERDE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0545A 16  G 4/4]
+MEL[  1__-5__3__1_3_  5__5__5_4_4__
+    3__.2_3__6__  5__4_3_2___
+    5__.4_3__5__  6_.54_.33_2_2__
+    5__.4_3__6__  5_.43_.21__0__
+    5__.4_3__5__  6_.54_.33_2_2__
+    5__.4_3__6__  5_.43_.21__0__ //] >>
+FCT[Liebes - Lied, Treue]

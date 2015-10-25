@@ -1,0 +1,13 @@
+F[ERK3
+CUT[EIN SCHIFFLEIN SAH ICH FAHREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1326A 08  F 4/4]
+MEL[-5_  1_3_322_  1__-5_
+    13  5_5_544_  3__0_
+    34  5_5_5_65  544_0_
+    54  33335_43  322_0_
+    54  3_1_1_54  3_1_1_
+    54  32343234  32345_
+    6_  5__4_44  3__2_
+    2_  3_2_3_44  5__1_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

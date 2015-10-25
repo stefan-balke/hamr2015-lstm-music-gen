@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Nebenbuhler (Jan Willem en Betje)
+    Ik h'en het groene straetje zoo dikwyls ten eynde gegaen.]
+CNR[Ik hebber myn lieftje verloren;]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[7, S. 26
+    1856 gedruckt in Gent]
+KEY[Q2143D 16  G 6/8]
+MEL[-5_  1__3_5_+1_5_  4_3_2_1_-7_1_  2_-7_-6_-5__
+    3_  4_4_6_6_5_4_  345__0__
+    3_  4_5_6_5_4_2_  1__.^_0_ //] >>
+FCT[Ballade, Liebes - Klage]
+CMT[Flaemische Fassung der Ballade.
+    Asymmetrische Form. Verzierung (Vorschlag) .]

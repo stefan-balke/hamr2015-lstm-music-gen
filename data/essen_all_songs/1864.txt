@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    Es wollt' ein Maedchen auf Kirwe gehn,]
+CNR[sieben Straeuss' hat es am Becher stehn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[6, S. 264
+    ????]
+KEY[Q0138G 16  G 2/4]
+MEL[5_  5_4_3b3b5_  4_5_1_
+    3b3b  3b_2_-5_-5_  3b_4_5_
+    5_  5_4_5_3b_  2__1_ //] >>
+FCT[Ballade, verlorene Unschuld, Moral]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Mit einem Marienkaeferlein"
+    MARIENWUERMCHEN SETZE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1372  08  F 4/4]
+MEL[-5-5-5  1_.12_.2  3__0
+    343  3_2_.232  2_1_.
+    123  4__2__  -7_1_0
+    113  5_.55_.3  1__0_
+    13  4_.44422  -7__0_
+    24  3_1_0_24  3_1_4_.2  -7_1_0 //] >>
+FCT[Kinder - Lied]

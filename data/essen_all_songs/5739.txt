@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Drei Fraeulein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0184  04  G 4/2]
+MEL[1_  1_1_1_1_  2__2__
+    5__5_2_  5_4__3b_  2___  0__.
+    5_  5_5_5_5_  4_2__
+    3b_  1__2_4_  53b212__  1___
+    5__7b_5_  53b4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Joh. Ott 1534 No. 41. Forster V 1556 No. 45.]

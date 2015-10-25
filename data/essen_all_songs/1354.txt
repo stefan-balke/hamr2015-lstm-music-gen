@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der Scheintod
+    Op eenen morghenstont]
+CNR[so yst, dat ick beghine (Tonangabe)]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 124
+    1540 gedruckt in Antwerpen]
+KEY[Q0058G 08  D FREI]
+MEL[1__  3b23b4546b_.55__4_  5__0__
+    5__5_5_  +1__7b_5_6b__  5__0_
+    7b_7b_.6b  5_.6b7b_5_6b543b  2__0__
+    5__5_5_  43b456b_5_43b212__  1__0_
+    5_123b43b_212__  1___ //] >>
+FCT[Ballade, Liebe, Enttaeuschung, Schein - Tod; geistlich]
+CMT[Tonangabe zu diesem Psalm steht auch bei einem Textnachweis der
+    Ballade. Geistliche Kontrafaktur. Eingeklammerte Noten und Pausen
+    kodiert.]

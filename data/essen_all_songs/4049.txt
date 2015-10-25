@@ -1,0 +1,17 @@
+F[ERK3
+CUT[HAR CHUELI ZUM BRUNNE]
+REG[Europa, Mitteleuropa, Schweiz, Bern]
+KEY[E1478  16  G 3/8]
+MEL[5_  5_535_  4_2_
+    5_  5_535_  4_2_
+    5_  2_2_23  1_1_
+    5_  2_2_23  1_1_
+    5_  2_2_3_  1__
+    -5_  1_1_12  3_3_0
+    1  3_.234  5_5_
+    5_  5_5_3_  4_2_
+    5_  5_5_3_  4_2_
+    5_  2_2_3_  1_1_
+    5_  2_2_3_  1_1_
+    5_  2__2_  3__3_  1__ //] >>
+FCT[Staende -, Hirten -, Alpen - Lied, Kuhreihen]

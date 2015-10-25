@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Reigen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0502  04  F 4/2]
+MEL[3_3_4_4_  5_5_2_
+    4_  3_.21__  0__.
+    2_  3_3_4_4_  5__2_4_  3_.21__ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[Schmeltztel, 1544 Quodl. No. 9]

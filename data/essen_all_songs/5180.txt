@@ -1,0 +1,14 @@
+BOEHME
+CUT[UEBER DIE BESCHWERDEN DIESES LEBENS]
+REG[Europa, Mitteleuropa, Deutschland; Niederlande]
+KEY[B0716  16  G 2/4]
+MEL[1234  5_+1_6_.6  655_
+    5424  3_5_2_5_  1__
+    1234  5_+1_6_.6  655_
+    5424  3_5_2_5_  1__
+    -7123  4_2_1_3_  2-72_
+    -7123  4_2_1_3_  2__
+    -7234  5_+1_6_.6  655_
+    5424  3_5_2_5_  1__
+    5424  3_5_2_5_  1__ //] >>
+FCT[Scherz -, Lob - Lied auf den Tabak]

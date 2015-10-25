@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DER WAECHTER AUF DEM THURME SASS]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[E0812A 16  G 2/4]
+MEL[-5_  1_1_2_5_  3_321_
+    34  5_5_6_6_  5_.43_
+    34  5_5_5_65  5_4_4_
+    5_  3_3_5_43  3_2_2_
+    -5_  1_1_2_2_  3__5_3_  2___  1__0_ //] >>
+FCT[Tage -, Kilt - Lied, Waechter - Lied]

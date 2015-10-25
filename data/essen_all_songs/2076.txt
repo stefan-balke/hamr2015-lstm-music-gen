@@ -1,0 +1,9 @@
+FINK
+CUT[ALLGUETIGER VERNIMM DER UNSCHULD FLEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0334  08 Ab 4/4]
+MEL[35-7  1_012343  3_2_0
+    256  7__^564#  5__0
+    542  1_.-71123  543_0
+    351  6__034-7  1__0 //] >>
+FCT[Jugend - Lied, religioes]

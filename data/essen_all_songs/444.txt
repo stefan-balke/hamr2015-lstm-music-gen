@@ -1,0 +1,7 @@
+ZUCCAL
+CUT[ES WAR EINMAL EIN SCHUHMACHERGESELL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0030  08  C 2/4]
+MEL[-6_  3_3_  222_  111_  -7_
+    -7_  1_1_  2_2_  3__  3_ //] >>
+FCT[Sagen - Lied, Romanze]

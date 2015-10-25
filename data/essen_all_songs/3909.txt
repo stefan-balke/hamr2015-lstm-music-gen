@@ -1,0 +1,13 @@
+F[ERK3
+CUT[STEH ICH IM FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1328  08  G 2/4]
+MEL[  1_-72  1_0_
+    3_24  3_0_
+    21-71  232_
+    -6_21  -7-6-5_
+    4_32  132_
+    5432  132_
+    3_23  4_60
+    5342  1_0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

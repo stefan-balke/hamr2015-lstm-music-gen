@@ -1,0 +1,10 @@
+KINDER
+CUT[WER EINE GANS GESTOHLEN HAT]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[K2163  08 Bb 2/4]
+MEL[-5  1111  1-6-5
+    -5  -6_-7_  1_0
+    -5  1111  1-6-5
+    -5  -6_-7_  1_0
+    5  312-7  1_0 //] >>
+FCT[Kinder - Lied, Reigen,  Tanz - Spiel]

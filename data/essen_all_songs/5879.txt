@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Muscatellerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0335A 04  F 6/4]
+MEL[-5  1_12_2  3_32_
+    5  3_12_-7  1_.1_
+    -5  1_12_2  3_32_
+    5  3_12_-7  1_.1_
+    3  5_52_2  3_32_
+    2  5_52_2  3_32_
+    5  5_32_4  3_21_ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Melodie von A0334 von Boehme in den Tripeltakt gesetzt.]

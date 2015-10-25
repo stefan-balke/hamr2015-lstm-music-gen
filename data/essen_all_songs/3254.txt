@@ -1,0 +1,13 @@
+F[ERK2
+CUT[WENN I ZUM BRUENNLE GEH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0704  08  F 3/4]
+MEL[  3_3_3_  3_.22_
+    4_4_4_  4_.33_
+    5_6543  6_.65_
+    3_3_54  2__0_
+    2_2654  4_.34_
+    4_+1_76  5_.43_
+    1_1_24  3__0_
+    5_5654  3__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

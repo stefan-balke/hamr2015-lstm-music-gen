@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Es waren zwei Koenigskinder,]
+CNR[die hatten einander so lieb,]
+REG[Mitteleuropa, Schweiz, Zuerich]
+SRC[1, S. 200
+    1912 aufgezeichnet]
+KEY[Q0020C 16  G 6/8]
+MEL[-5_  1_1_2_3b_.23b_  1__3b_2__
+    3b_  1_.-71_2_1_-5_  1__.^__
+    12  3b_.3b3b_5_4_3b_  2_.3b4_3b__
+    2_  1_.-71_2_1_-7_  1__.^__ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Unklares Wiederholungszeichen nicht beachtet.]

@@ -1,0 +1,13 @@
+KINDER
+CUT[ES KAM EIN REICHER VOGEL]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2165  16  G 3/4]
+MEL[5__  5_5_3__5__  2__5__0_
+    5_  5_5_3__5__  4__3__0_
+    4_  4_4_2__4__  4_3_2__0_
+    5_  5_5_3__6__  5__0__.
+    5_  5_5_3__5__  4_3_2__0_
+    5_  5_5_3__5__  4_3_2_
+    4_3_5_  4_.32__0_
+    5_  5_5_3__5__  4_2_1__0__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

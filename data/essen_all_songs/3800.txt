@@ -1,0 +1,11 @@
+F[ERK3
+CUT[IDS ELFIS ABE WOTT E FLOHNES]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E1095  16  A 2/4 3/8]
+MEL[32  1_1_1_-5_  1__2__  3__0_
+    32  1_1_1_-5_  1__2__  3__0_
+    12  3_345_43  2_-5_0_
+    34  5__3__  4_543_2_  3__0_
+    2_  1_.23_4#4#  5_-5_0_
+    35  5_.654  3_.21_  2__3_  1__ //] >>
+FCT[Wunsch - Lied, Luegen - Maerchen, Schlaraffenland]

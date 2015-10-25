@@ -1,0 +1,26 @@
+BOEHME
+CUT[SOLLEN NUN DIE GRUENEN JAHRE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0455  04  G 4/4]
+MEL[  1235  4322
+    3212  1-71_
+    1235  4322
+    3212  1-71_
+    -7122  1-7-6-6
+    -7123  432_
+    1235  4322
+    3212  1-71_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]
+BOEHME
+CUT[SOLLEN NUN DIE GRUENEN JAHRE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0455  04  G 4/4]
+MEL[  1235  4322
+    3212  1-71_
+    1235  4322
+    3212  1-71_
+    -7122  1-7-6-6
+    -7123  432_
+    1235  4322
+    3212  1-71_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

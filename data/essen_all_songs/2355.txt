@@ -1,0 +1,9 @@
+FINK
+CUT[ES TRIEB DER SCHAEFER DIE HEERDE HINAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0885  08  F 4/4]
+MEL[34  5_34554_  3_5_3_
+    11  +1_765_
+    34  553_554_  3_553_
+    55  6_555_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GOTT DES HIMMELS UND DER ERDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1991  04  G 4/4]
+MEL[  1235  1-7-6-5
+    -6-712  321_
+    1235  1-7-6-5
+    -6-712  321_
+    3323  432_
+    -6-712  321_ //] >>
+FCT[geistlich, Dank -, Lob - Lied; Morgen - Lied]

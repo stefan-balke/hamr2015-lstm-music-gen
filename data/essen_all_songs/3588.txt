@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Hauptmannstochter
+    Jesli te, ma mila, hlava boli]
+REG[Osteuropa, Tschechoslowakei, Maehren]
+SRC[5, S. 138
+    1895 gedruckt in Prag (vor)]
+KEY[Q3101E 16  G 3/8]
+MEL[  1_.12_  3b_.24_  3b21__  -7b__0_
+    3b_.3b4_  5_.53b_  654__  3b__0_
+    5_.42_  4_3b21_  3b21__  2_.2-5_
+    1_.12_  3b_2_3b_  43b2__  1__0_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0101D, anderes Lied.]

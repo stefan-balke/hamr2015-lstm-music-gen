@@ -1,0 +1,10 @@
+F[ERK1
+CUT[CHRISTINCHEN GIENG IN GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Hildesheim]
+KEY[E0002D 16  F 6/8]
+MEL[-5_  3__3_2_3_2_  1_-5_0__.
+    -5_  3__3_2_3_2_  1_-5_0__.
+    1_  1__1_+1__6_  6_.55_3__
+    3_  3__2_5__4_  4__3_3__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

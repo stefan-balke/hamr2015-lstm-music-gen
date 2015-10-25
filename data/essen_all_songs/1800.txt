@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    'Ach Tochter, liebe Tochter mein,]
+CNR[was reden doch die Leute?]
+REG[Osteuropa, UdSSR, Ukraine]
+SRC[6, S. 98
+    1930 gedruckt]
+KEY[Q0127A 08  G FREI]
+MEL[-5_  1_2_3_4_  5_3_1_
+    1_  6_6_+1_06  6_5_5_
+    6_4_4_4_  5_3_3_1_  5_
+    3_2_2_3_2_  1_3_5__.0_
+    6_4_4_4_  5_3_3_1_  5_
+    3_2_2_4_2_  2_1_1__. //] >>
+FCT[Ballade, verbotene Liebe, Flucht]
+CMT[Verzierungen (Vorschlaege) .  Grundton in der kleinen Oktave.]

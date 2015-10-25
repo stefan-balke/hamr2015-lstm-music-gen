@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES SPIELT EIN MARKGRAF MIT EINER SCHOENEN DAM]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+KEY[E0110G 08  F 4/4]
+MEL[1_  3_3_322_  1_3_5_
+    3_  5_5_5_+1_  3_2_4_
+    2_  1_1_3_4_  5_3_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

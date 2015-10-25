@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Elisabeth"
+    DIE HEILIGE ELISABETH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[Z1116  16  A 2/4]
+MEL[1_  1_-7b_-6b_-5_  -4_-3_-4_
+    -5_  -6b_-5_-6_-7_  1_1_0_
+    1_  1_-7_-6_-7_  1_2_3b_
+    4_  5_4_3b_5_  4_3b_0_
+    2_  4_3b_2_5_  4_3b_2_
+    3b_  4_3b_2_44  3b_2_1_
+    1_  2_1_4_3b3b  2__1_ //] >>
+FCT[Romanze, Ballade, geistlich]

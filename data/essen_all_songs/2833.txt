@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES GIENG EIN KNAB SPAZIEREN]
+REG[Europa, Mitteleuropa, Italien, Tirol, Meran]
+KEY[E0197B 16  F 2/4]
+MEL[13  5_5_5_31  6_5_0_
+    35  4_4_3_53  2__0_
+    23  4_4_4_32  345_0_
+    46  5_543_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Tod, Toten - Sage, Grabesstimme]

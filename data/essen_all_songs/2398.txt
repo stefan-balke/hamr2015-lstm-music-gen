@@ -1,0 +1,9 @@
+FINK
+CUT[ALLGEMACH AUS DAEMMERUNG UND NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0985  16 Eb 4/4]
+MEL[3_.4  5__.6_5_4_(3_4_2_)  1___.
+    1_1_  6__.5_4_3_4_65  3___0__
+    3_3_  +1__.7_6_7_+1_+2_  +2_.55__0__
+    (5_6_7_)  +1__.6_5_4_(3_4_2_)  2_.11__0__ //] >>
+FCT[Natur - Lied]

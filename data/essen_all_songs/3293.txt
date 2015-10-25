@@ -1,0 +1,9 @@
+F[ERK2
+CUT[AUF DEM SEE DA SCHWIMMT EIN SCHWANEN]
+REG[Europa, Mitteleuropa, Deutschland, Elberfeld]
+KEY[E0731  16  C 3/4]
+MEL[+1765  5_.43_3_4_6_  6__5__
+    +1765  5_.43_3_4_6_  6__5__0_
+    5_  5675+1_.+3+2_+1_  +17655_
+    +1_5654  3_.45__5424  4__3__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schoen Adelheid
+    Machelen ghi zijt so schoonen prieel]
+REG[Mitteleuropa, Niederlande]
+SRC[4, S. 66
+    1540 gedruckt in Antwerpen]
+KEY[Q3074C 08  G FREI]
+MEL[1_  1_1_2_2_  3b_3b_1_
+    1_  4_.3b2_3b__  2__1_2__0_
+    3b_  3b_3b_4_3b_  2_1_-7b_
+    3b_  2_1_1_2__  1_-7b-61-7b1__ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0074, anderes Lied.]

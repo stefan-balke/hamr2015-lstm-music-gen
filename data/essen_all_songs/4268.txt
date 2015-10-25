@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HOP HOP ZEHREN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+KEY[E1825  08  G 2/4]
+MEL[  1_2_  3_10
+    1_22  3_10
+    3_21  333_
+    2221  333_
+    2_2_  1_0_ //] >>
+FCT[Kinder -, Schaukel -, Reiter - Lied]

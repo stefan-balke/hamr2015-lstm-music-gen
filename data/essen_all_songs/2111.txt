@@ -1,0 +1,11 @@
+FINK
+CUT[AUF DEINEN HOEHN DU MEIN LIEB VATERLAND]
+REG[Europa, Mitteleuropa, Deutschland; Schottland]
+KEY[F0393  16 Eb 4/4]
+MEL[5_  +1__7_6_5__6_7+1  3_3_4_2_1__0_
+    5_  +1__7_6_5__6_7+1  3_3_4_2_1__0_
+    5_  3_.13_5_+1__6_7+1  7_5_6_4#_5__.
+    67  +1__7_6_5__6_4_  3_.34_2_1__0_
+    5_  3_.13_5_+1__6_7+1  7_5_6_4#_5__.
+    67  +2_+1_7_6_5__4#_56  3_3_4_2_1__0_ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

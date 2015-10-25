@@ -1,0 +1,11 @@
+FINK
+CUT[HOPP HOPP HOPP PFERDCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0245  08  G 2/4]
+MEL[  1_3_  5_0_
+    5432  1_0_
+    22-7-5  5531
+    22-7-5  5531
+    1234  5_0_
+    5432  1_0_ //] >>
+FCT[Jugend - Lied, Kinder, Spiel]

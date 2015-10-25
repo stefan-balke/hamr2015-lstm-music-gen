@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Springtanz der Ditmarsen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0292  04  D 4/2]
+MEL[1_  1_.-71-712  3b__2_
+    2_  1_2_1_-7b_  -6__0_
+    11  -5_-6_-7b_1_  2_1-7b-6_
+    2_  2123b5_4_  3b_21-7b_
+    1_  2_1_-7-61-7  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens ad Ps. 60.]

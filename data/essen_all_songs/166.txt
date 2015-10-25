@@ -1,0 +1,26 @@
+BOEHME
+CUT[NUN BRICHT AUS ALLEN ZWEIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0198  16  A 2/4]
+MEL[1_  -7_-5_1_2_  3__2_
+    3_  4_3_2_1_  -7_.-6-5_
+    1_  -7_-5_1_2_  3__2_
+    3_  4_.32_32  1__0_
+    3_  3_3_3_3_  2_.22_
+    4#_  5_4#_5_6_  2_.4#5_
+    1_  -7_-5_1_2_  3_.32_
+    3_  4_3_2_32  1__. //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[NUN BRICHT AUS ALLEN ZWEIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0198  16  A 2/4]
+MEL[1_  -7_-5_1_2_  3__2_
+    3_  4_3_2_1_  -7_.-6-5_
+    1_  -7_-5_1_2_  3__2_
+    3_  4_.32_32  1__0_
+    3_  3_3_3_3_  2_.22_
+    4#_  5_4#_5_6_  2_.4#5_
+    1_  -7_-5_1_2_  3_.32_
+    3_  4_3_2_32  1__. //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Wecker"
+    IM TIEFEN WALD IM DORNENHAG]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1029  08  G 2/4]
+MEL[  3b_21  -7_.-7  123b_
+    3b_21  -7_.-7  123b0
+    3b_23b  1_2-7  1_0_
+    3b_4_  5_0_  3b_4_  5_0_
+    5_43b  2_1_  2_1-7  1_0_ //] >>
+FCT[Romanze, Ballade, Brunhilde - Sage, Dornroeschen]

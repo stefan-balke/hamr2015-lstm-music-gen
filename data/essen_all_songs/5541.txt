@@ -1,0 +1,12 @@
+KINDER
+CUT[DIE MEIERSCHE BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2305A 08  D 6/8]
+MEL[5  555316  5_531
+    5  55531
+    6  5_.3_6  5_.3_
+    1  5_56_6  5_.3_
+    1  5556_6  5_431
+    6  5_43_6  5_43_
+    5  +3+15542  110_. //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

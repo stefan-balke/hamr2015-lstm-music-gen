@@ -1,0 +1,8 @@
+F[ERK2
+CUT[ICH KANN UND MAG NICHT TRAURIG SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0766B 16  G 3/4]
+MEL[-5_1_3_  5__4__3_53  1__0_
+    5_6543  4__2_4_5_4_  3__1_
+    3_5423  1__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

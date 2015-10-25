@@ -1,0 +1,22 @@
+BOEHME
+CUT[AUS DEINEN BLAUEN AUGEN STRAHLET LIEBE]
+REG[Europa, Mitteleuropa, Deutschland, Hannover; Frankreich, Elsass]
+KEY[B0403  08 Bb 4/4]
+MEL[-3-3-4  -5_.-5321-3  -5-4-4_0
+    -4-4-4  2_.1-7-6-5-4  -4-3-3_0
+    111  1-6-6_01-7-6  -6-5-5_0
+    1-5-3  -2_.-6-5-5-6-7  1_3_0
+    111  1-6-6_01-7-6  -6-5-5_0
+    1-5-3  -2_.-6-5-5-6-7  1_0_. //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[AUS DEINEN BLAUEN AUGEN STRAHLET LIEBE]
+REG[Europa, Mitteleuropa, Deutschland, Hannover; Frankreich, Elsass]
+KEY[B0403  08 Bb 4/4]
+MEL[-3-3-4  -5_.-5321-3  -5-4-4_0
+    -4-4-4  2_.1-7-6-5-4  -4-3-3_0
+    111  1-6-6_01-7-6  -6-5-5_0
+    1-5-3  -2_.-6-5-5-6-7  1_3_0
+    111  1-6-6_01-7-6  -6-5-5_0
+    1-5-3  -2_.-6-5-5-6-7  1_0_. //] >>
+FCT[Liebes - Lied, Liebes - Lust]

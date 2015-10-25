@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH LEBE ALS LANDMANN ZUFRIEDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Ziegenhain, Schoenau]
+KEY[E1551  16 Bb 6/8]
+MEL[-5_  3_.21_2_1_-6_  -5_-3_0__.
+    1_  -7_.-6-5_-5_-6_-7_  1__.0__
+    -5_  3_.21_2_1_-6_  -5_-3_0__.
+    1_  -7_.-6-5_-5_-6_-7_  1__.0__
+    3_  3_1_3_5_4_2_  2_1_2_3_1_
+    -5_  -6_4_3_2_1_-7_  1__.0__ //] >>
+FCT[Staende -, Bauern - Lied]

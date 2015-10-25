@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Passion]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0545  04  D 4/2]
+MEL[1_  5_5_5_5_  7b_.65_
+    3b_  5_7b_7b_6_  5__
+    1__  5_5_5_5_  7b_.65_
+    3b_  5_7b_7b_6_  5__0_
+    5_  567b_7b_65  4__1_
+    -7b_  3b_3b_4_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Corner, Gsgb. 1625 No. 200.]

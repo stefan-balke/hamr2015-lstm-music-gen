@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Bie vrie ischt auf der Mikola,]
+CNR[der Mikola, der Roschekhnacht!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Oberpockstein]
+SRC[5, S. 119
+    1907 aufgezeichnet]
+KEY[Q0100  04  A 3/4]
+MEL[-5  1_3b  5_3b  43b2  1_
+    -5  1_2  3b_4  3b_2  1_ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Heirat]

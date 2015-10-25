@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Jaeger - Romanze]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0437  04  C 6/2]
+MEL[1_  1__3_2__3_  1_.-7-6_-5__
+    5_  5__4_3_.21_  -7__1_2__4_  3__1__2_2_  1__.0__ //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[M. Franck, Fascic. quodl. 1611 No. 6.]

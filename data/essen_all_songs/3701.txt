@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die zwei armen Waislein
+    Es bar' amol zboai uermai Boaishlain.]
+CNR[Aube, aube, main de Boaishlain!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Verdreng]
+SRC[5, S. 304
+    1954 aufgezeichnet]
+KEY[Q0117A 16  G FREI]
+MEL[-5__  1__.0_-7_1_  2__.0_2_3_  4__4__3__1__
+    2_4_  3__.0_2__  1__.0_1_.3  2__1__ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]
+CMT[Transkription einer Tonaufnahme. Beginn der zweiten Strophe
+    (Variante) notiert. Zweite Zeile = Refrain.]

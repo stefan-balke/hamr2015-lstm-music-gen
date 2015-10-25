@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Ein Maedchen, die wohl frueh aufstand]
+CNR[und ging in Wald nach Gras,]
+REG[Osteuropa, Tschechoslowakei, Eger]
+SRC[7, S. 131
+    1935 aufgezeichnet]
+KEY[Q0149B 16  C 2/4]
+MEL[5_  5_3_3_3_  3_2_2_
+    3_  4_6_5_4_  4__3_
+    5_  1_55(5_5_5_)  5_3_+1_
+    5_  5_4_4_7_  +1_3_5_
+    5_  4_66(6_6_6_)  5__3_
+    5_  5_4_4_7_  +1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Anhaengsel an der vierten Zeile.]

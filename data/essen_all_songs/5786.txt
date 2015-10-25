@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Habenichts will freien]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0236  02  G 4/2 6/2]
+MEL[1  1234  5_2_
+    4_  43_42_  1_0
+    1  1234  5_2_
+    4_  43_42_  1_0
+    2  21-61  1-7b-5
+    2  -7b12-7b  -6_-5_  0_.
+    5  5424  431
+    5  3453  2_1 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Reutterliedlein 1535 No. 6.]

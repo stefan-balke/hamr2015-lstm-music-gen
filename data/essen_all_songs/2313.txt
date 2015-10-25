@@ -1,0 +1,15 @@
+FINK
+CUT[WAS KUEMMERT MICH DIE GANZE WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0796  16 Eb 2/4]
+MEL[13  5_6_5_13  5_6_5_0
+    5  4#_4_3_5_  2__0_
+    13  5_6_5_13  5_6_5_
+    +1_  +1_767_5#_  6_3__
+    +1_  7_656_4#_  5__0_
+    -5_  -5_-5_-5_-5_  -5_3_2_
+    32  1_321_-7-6  3__0_
+    +1_  7_6_5_34  5_4_3_
+    5_  5_4_3_2_  3_4#_5_
+    6_  5_3_4_2_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Scherz]

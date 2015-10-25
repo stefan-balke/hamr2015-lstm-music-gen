@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DORT OBN AUF JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Pommern]
+KEY[E0546  16  G 2/4]
+MEL[-5_  1_.-53_21  1-7-7_0_
+    -5_  2_-5_4_32  3__0_
+    3_  5_3_5_.-5  -5_4_4_.
+    2  4_2_4_-5_  -5_3_3_
+    42  1_1_212_  3__.
+    42  1_135_.-5  1__0_ //] >>
+FCT[Liebes - Lied]

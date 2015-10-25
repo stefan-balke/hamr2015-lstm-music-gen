@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Wol auf, mein sel, gehab dich wol!]
+CNR[Wir wellen uns ergeczen wol.]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 338
+    14?? Handschrift (? 15. Jh.)]
+KEY[Q1086G 04  G 6/4]
+MEL[1  3_45_5  43510
+    4  5_4213  1-6-7-50
+    -5  1-713_4  2121_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0086, anderes Lied.]

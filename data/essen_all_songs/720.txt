@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[UND ALS EINMAL WAR GEKOMMEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0303  16  G 6/8]
+MEL[-5_  1__2_3b_.21_  5__.-5__
+    4_  3b_.21_2_.1-7_  1__.0__
+    -5_  1__2_3b_.21_  5__.-5__
+    4_  3b_.21_2_.1-7_  1__.0__
+    -7b_  3b_.45_5_.43b_  7b__.-7b__
+    -5_  1__2_3b_.21_  5__.-5__
+    -5_  1__2_3b__2_  3b_.21_6b__
+    5_  4_.3b2_3b_.1-7_  1__.0__ //] >>
+FCT[Lyrisches Lied, Romanze]

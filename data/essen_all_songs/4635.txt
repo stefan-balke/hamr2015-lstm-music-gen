@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Rosengarten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0549  02  G 2/1]
+MEL[1  3b_3b_  4_4_  5_54  5_0
+    4  3b45_  5_5_  4_3_  4_0
+    4  5_54  3b_3b2  123b1  2_0
+    5  5_5_  3b_5_  4_3b_  4_0
+    5  3b21_  3b543b  212_  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner II 1602 No. 23. Variante von A0610.]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kranzsingen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0271B 02  F 4/1]
+MEL[5  5_5_6_5_  5_4_3_0
+    3  3_5_5_.4  3_2_1_0
+    1  1_2_3_.2  1_2_3_.
+    3  3_5_5_3_  4_2_1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Geistl Ringeltentze 1550 No. 2]

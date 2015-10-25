@@ -1,0 +1,9 @@
+F[ERK3
+CUT[RAEGE RAEGE TROPFE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1843  16  G 2/4]
+MEL[  5_6_5_6_  5__3__
+    5_6_5_6_  5__3__
+    5_6_556_  5_4_3__
+    5_6_556_  5_4_3_0_ //] >>
+FCT[Kinder - Lied, Regen - Lied]

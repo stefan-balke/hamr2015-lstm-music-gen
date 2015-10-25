@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Genoveva"
+    ACH ICH AERMSTE BIN GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1036  16  F 3/4]
+MEL[+1_.6  5__.6_5_.4  4__3__
+    3_.2  3__+1__3_.2  2__1__
+    +1_.6  5__.6_5_.4  4__3__
+    3_.2  3__+1__3_.2  2__1__
+    4_.3  3__.+1_7_.6  +1_5_5__
+    4_.3  3__.+1_7_67  +1__0__
+    +1_.6  5__.6_5_.4  4__3__
+    3_.2  3__+1__3_.2  2__1__ //] >>
+FCT[Romanze, Ballade, Tod, Verlassenheit, Genoveva - Sage]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Es wollt' sich ein Juengling erwerben,]
+CNR[erwerben in der Jugend sein Weib.]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass, Puberg]
+SRC[5, S. 140
+    1820 aufgezeichnet (vor)]
+KEY[Q0102  16 Bb 6/8]
+MEL[-5_  -3_.-51_-3_.-51_  3__.1_0_
+    3_  2_.1-7-71_-6_2_  -5__.^_0_
+    -5_  4_.32_1_-7_-6_  1_2_3_-5_0_
+    -5_  -6_.-6-6_1_-7_-6_  3__.
+    4__.  3_.21_2_.1-7_  1__.^_0_ //] >>
+FCT[Ballade, Ehe - Geloebnis, Betrug]

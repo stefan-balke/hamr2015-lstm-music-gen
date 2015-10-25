@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ES WOLLTE EIN MAEDCHEN IN DER FRUH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Odenwald; Bergstrasse]
+KEY[E0096D 08  F 3/4]
+MEL[-5_  1_3_2_  1_1_
+    56  5_.43_  2__0_
+    5_5_5_  3_.45_
+    654_43  2_.34_
+    543_2_  1__0_
+    5_5_5_  3_.45_
+    654_43  2_.34_
+    543_2_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

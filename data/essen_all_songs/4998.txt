@@ -1,0 +1,11 @@
+BOEHME
+CUT[O KOENNT ICH IN MEIN HEIMATHLAND]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.M.]
+KEY[B0532  08  D 4/4]
+MEL[13  5_535_63  5_.44_
+    24  7_.65_4_  3__0_
+    5+1  +3_+3_+4_.+3  +3_.+2+2_
+    6_  5_4#56_.4  3__0_
+    5+1  +4_+3_+2_+1_  7_.6+2+1
+    76  5_+1_7_.+2  +1__0_ //] >>
+FCT[Wander -, Heimat - Lied]

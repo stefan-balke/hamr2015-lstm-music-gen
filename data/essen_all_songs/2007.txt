@@ -1,0 +1,10 @@
+FINK
+CUT[NICHT SCHLIEF DIE MUTTER DIE LANGE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0241A 16  F 6/8]
+MEL[3_  3_0_3_3_.33_  4_0_4_4_0_
+    4_  4_.54_4_.54_  3__0__.
+    34  5_0_5_5_.55_  6_.7+1_+1_7_
+    6_  5_.65_4_3_2_  1__0__. //] >>
+FCT[Jugend - Lied, erzaehlend; Tod]
+CMT[Strophenvariante zu F0241]

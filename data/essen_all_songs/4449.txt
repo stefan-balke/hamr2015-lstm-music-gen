@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Schuettensam]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0373A 04  G 4/2 6/2]
+MEL[    1_1_1_  5_5_6_6_  4__0_
+    4_  5_.67b_+1_  ^_7b_6__  5__0_
+    5_  7b_.65_4_  3b23b45__
+    7b_.6  5_4__3b_2__  1__0_
+    5_5_5_  4_2_3b_1_  -7b__0_
+    7b_  7b_5_6_7b_  +1__7b_.6
+    567b65_43b  2__0_
+    1_  3b_4__3b_2__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Aus einem fliegenden Blatt von 1540.]

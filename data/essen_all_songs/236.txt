@@ -1,0 +1,26 @@
+BOEHME
+CUT[EIN HERZ DAS SICH MIT SORGEN QUAELT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Hessen; Brandenburg]
+KEY[B0285  08  D 6/8]
+MEL[-5  -5_1-3_-3  -3-2-3-1_
+    -5  -5_-4-4_-3  -3-20_.
+    -5  -5_1-3_-3  -3-2-3-1_
+    -5  -5_-4-4_-3  -3-20_.
+    -5  -4#_-2-5-42  1-6-4#-5_
+    -5  -4#_-2-5-42  1-6-4#-5_-4
+    -3-3-3-5-40  -2-2-2-6-50
+    1112_2  -5-6-71_ //] >>
+FCT[Stimmungs - Lied, Freude]
+BOEHME
+CUT[EIN HERZ DAS SICH MIT SORGEN QUAELT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Hessen; Brandenburg]
+KEY[B0285  08  D 6/8]
+MEL[-5  -5_1-3_-3  -3-2-3-1_
+    -5  -5_-4-4_-3  -3-20_.
+    -5  -5_1-3_-3  -3-2-3-1_
+    -5  -5_-4-4_-3  -3-20_.
+    -5  -4#_-2-5-42  1-6-4#-5_
+    -5  -4#_-2-5-42  1-6-4#-5_-4
+    -3-3-3-5-40  -2-2-2-6-50
+    1112_2  -5-6-71_ //] >>
+FCT[Stimmungs - Lied, Freude]

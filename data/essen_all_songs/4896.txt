@@ -1,0 +1,12 @@
+DVA
+CUT[Medsche waelt ta de Kanter nin ?
+    Ne, Motter, ne.]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0219A 16  F 2/4]
+MEL[    1_1_1_22  3_2_1__
+    2__-5_-5_  1__0_
+    5_  5_5_4#_5_  3_3_3__
+    3_3_2_3_  1_1_1__
+    2__-5_-5_  1__0__ //] >>
+FCT[Ehestands - Lied]
+CMT[Variante zu D0219]

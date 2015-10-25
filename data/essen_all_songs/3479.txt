@@ -1,0 +1,8 @@
+F[ERK2
+CUT[SO MUSS ER UNSER SCHWAGER SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0946A 04  G 4/4]
+MEL[5  312-7  111
+    5  5555  653 //] >>
+FCT[Tanz - Lied, Reigen]
+CMT[Fragment]

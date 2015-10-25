@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HAT EINS GESCHLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Dresden]
+KEY[E1899  08  G 6/8]
+MEL[-5  1_1113  111-5_
+    -5  1_1113  111-5_
+    -5  1_1111  5_0_.
+    -7  1_1111  5_0_.
+    -5  1_1115  1_0_. //] >>
+FCT[Kinder - Lied, Zaehl - Spiel]

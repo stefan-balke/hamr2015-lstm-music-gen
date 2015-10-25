@@ -1,0 +1,15 @@
+F[ERK2
+CUT[SEI NUR STILL HAST LANG GESCHWIEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0697A 08  D 4/4]
+MEL[1234  5_.567+16  6554
+    3_.4  5_.56543  3_2_
+    1234  5_.567+16  6554
+    3_.4  5_.56543  3_2_
+    5_.3  4_.2353_  2_0_
+    3234  543_
+    2_33  46543_2_  1_0_
+    5_.3  4_.2353_  2_0_
+    3234  543_
+    2_33  46543_2_  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

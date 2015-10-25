@@ -1,0 +1,15 @@
+F[ERK3
+CUT[LASST NUR DER JUGEND IHREN LAUF]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E1023A 08  G 3/4]
+MEL[  1_3_3_  3_5_.
+    3  2_4_.4  33655_
+    1_3_3_  3_5_.
+    3  2_2_55  3__0_
+    225577  7654#5_
+    2_5_7_  7654#5_
+    1_3_3_  3_5_.
+    3  2_4_.4  33655_
+    1_3_3_  3_5_.
+    3  2_2_55  3__0_ //] >>
+FCT[Tanz - Lied, Walzer]

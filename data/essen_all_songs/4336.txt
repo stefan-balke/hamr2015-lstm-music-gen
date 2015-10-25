@@ -1,0 +1,9 @@
+F[ERK3
+CUT[NU WOLLE GOTT DASS UNSER GSANG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1953  04  C 3/2]
+MEL[1_  -5-61_2_  121_0
+    3  432_-5_  -6-71_0
+    2  223_2_  1-6-5_
+    5_  432_1_  1-71_ //] >>
+FCT[geistlich, Fest - Lied, Neujahr]

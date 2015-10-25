@@ -1,0 +1,26 @@
+BOEHME
+CUT[DAS WASSER RAUSCHT DAS WASSER SCHWOLL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0112  08  F 6/8]
+MEL[-5  -5_-51_-5  -5_-52_
+    -5  3_14_2  1_.-7_
+    2  2_24#_2  5_22_
+    3  2_56_4#  5_.0_
+    2  2_34_1  1_23_
+    5  5_14_3  2_.0_
+    3  4_56_5  6_7+1_
+    6  5_12_-7  1_.0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[DAS WASSER RAUSCHT DAS WASSER SCHWOLL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0112  08  F 6/8]
+MEL[-5  -5_-51_-5  -5_-52_
+    -5  3_14_2  1_.-7_
+    2  2_24#_2  5_22_
+    3  2_56_4#  5_.0_
+    2  2_34_1  1_23_
+    5  5_14_3  2_.0_
+    3  4_56_5  6_7+1_
+    6  5_12_-7  1_.0_ //] >>
+FCT[Ballade, Romanze]

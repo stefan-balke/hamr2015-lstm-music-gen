@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Liebeshoffnung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0128C 02  F 4/2 6/2]
+MEL[1_3_21  -7_-6_
+    -5_  11_32_  1__
+    1_3_21  -7_-6_
+    -5_  11_32_  1_.
+    1  3344  5_5_
+    6_  54_32_  1_0
+    1  3344  5_1_
+    3321  -7_-6_
+    -5_  11_32_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Boehm. Bruedergsgb. 1531 Bl. 9 "Gott sah zu seiner Zeit"]

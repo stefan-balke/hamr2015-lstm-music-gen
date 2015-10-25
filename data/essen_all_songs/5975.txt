@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Herr von Falkenstein
+    Eck sach muinen Heren von Falkensteun]
+CNR[na suiner Borg up ruiten,]
+REG[Mitteleuropa, Deutschland (BRD) , Gegend von Lippe]
+SRC[1, S. 225
+    1843 aufgezeichnet]
+KEY[Q0021B 08  F 6/8]
+MEL[1  565321  4565_
+    1  5_5+176  6_.5_
+    1  565321  4565_
+    1  5_5+176  6_.5_5  2_.10_ //] >>
+FCT[Ballade, Gefangenschaft, Ehe, Befreiung]
+CMT[Anhaengsel in der letzten Zeile.]

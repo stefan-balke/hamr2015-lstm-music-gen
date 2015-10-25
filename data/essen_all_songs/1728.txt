@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es waren einst zwei Bauernsoehn,]
+CNR[die hatten Lust in Krieg zu gehn]
+REG[Mitteleuropa, Schweiz]
+SRC[4, S. 310
+    ????]
+KEY[Q0085b 08  G 3/4 2/4]
+MEL[112  21-5_12  3_0
+    1-72  2-7-5_12  3_0
+    333  536_24  3
+    213  535_24  3_. //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

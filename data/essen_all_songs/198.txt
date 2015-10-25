@@ -1,0 +1,20 @@
+BOEHME
+CUT[IM STILLEN HEITERN GLANZE TRITT ER SO MILD DAHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0236  04  F 4/4]
+MEL[1  5544  3_2
+    5  5143  2_0
+    2  4433  6_5
+    4  3322  1_0 //] >>
+FCT[Tageszeiten - Lied, Abend]
+CMT[Schlusston korrigiert (Druckfehler ?)]
+BOEHME
+CUT[IM STILLEN HEITERN GLANZE TRITT ER SO MILD DAHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0236  04  F 4/4]
+MEL[1  5544  3_2
+    5  5143  2_0
+    2  4433  6_5
+    4  3322  1_0 //] >>
+FCT[Tageszeiten - Lied, Abend]
+CMT[Schlusston korrigiert (Druckfehler ?)]

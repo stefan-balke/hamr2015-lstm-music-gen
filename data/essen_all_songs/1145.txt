@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es war einmal ein Reitersmann,]
+CNR[dazu, dazu ein junges Blut,]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Koenigsberg]
+SRC[2, S. 100
+    1830 aufgezeichnet]
+KEY[Q0041K 08  A 4/4]
+MEL[5_  1_1_1_1+1  +1_+16b5_0
+    4  3b_.21_23b  4543b20
+    2_  5_5_4_5_  3b_.21_23b  4543b2_
+    2_  5_5_4_5_  3b_.21_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Anhaengsel an der dritten Zeile.]

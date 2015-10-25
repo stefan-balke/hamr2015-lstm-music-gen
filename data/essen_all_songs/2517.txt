@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WELE GROSS WUNDER SCHAUEN WILL]
+REG[Europa, Mitteleuropa, Schweiz, Entlibuch, Escholdsmatt]
+KEY[E0018  08  C 3/4]
+MEL[-5  1-71_2_  -7-4#-5_.
+    1  45431_  1_2_0
+    1  345_.1  234_.
+    2  312_1_  -7_1_0 //] >>
+FCT[Maerchen -, Zauber - Lied, Tannhaeuser - Sage
+    Ballade ?]

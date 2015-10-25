@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DA KOM ALL EIN KANOENNEKEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1907  08  G 2/4]
+MEL[-5  1111  -7-6-5_
+    -6-6-7-7  1_0
+    -5  1111  -7-6-5_
+    -6-6-7-7  1_0 //] >>
+FCT[Kinder - Lied, Tanz, Spiel, Brautwerbung]

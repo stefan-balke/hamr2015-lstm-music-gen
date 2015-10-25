@@ -1,0 +1,10 @@
+F[ERK3
+CUT[KOMM WIR WOLLEN WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Halle]
+KEY[E1901  08  F 2/4]
+MEL[  5555  564_
+    342-7  1_0
+    5  5555  564_
+    4040  4530
+    132-7  1_0_ //] >>
+FCT[Kinder - Lied, Wander - Spiel]

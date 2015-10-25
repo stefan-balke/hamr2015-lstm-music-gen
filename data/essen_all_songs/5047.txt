@@ -1,0 +1,9 @@
+BOEHME
+CUT[GOTT GRUESS EUCH ALTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0583  08  D 4/4]
+MEL[5_  +1_.35432  211_0_
+    3_  2_.35432  3_0__
+    1_  6_.7+17+16  654_0_
+    43  2_.65_-7_  1_0__ //] >>
+FCT[Soldaten - Lied, Ballade]

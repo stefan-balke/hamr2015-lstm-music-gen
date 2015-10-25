@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Herr von Braunschweig
+    Het was een kint, soo kleynen kint,]
+CNR[en een kint van twaelef jaeren;]
+REG[Mitteleuropa, Niederlande]
+SRC[1, S. 242
+    1614 gedruckt in Antwerpen]
+KEY[Q0023A 04  F 3/4 4/4]
+MEL[11-7  -6_-5  123_
+    554  3_2  123_
+    332  1_3  5_4  3_
+    2  1123  2_1_
+    332  1_3  5_4  3_
+    2  1123  2_1_ //] >>
+FCT[Ballade, Hinrichtung, Tod, Vergeltung; geistlich]
+CMT[Melodie = geistliche Kontrafaktur.]

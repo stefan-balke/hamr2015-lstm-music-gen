@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SPRINH AUF FEINS HIRSCHELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Spessart; Odenwald]
+KEY[E1453  16  D 4/4]
+MEL[1_3_  5__5__5__6__  5__.4_3__
+    5_.+1  6__5__2__6__  5__.4_3__
+    5_.4  3_2_3_2_3__5_.4  3_2_3_2_3__
+    5_.+1  6__5__2__6__  5__.4_3__ //] >>
+FCT[Staende -, Jaeger - Lied]

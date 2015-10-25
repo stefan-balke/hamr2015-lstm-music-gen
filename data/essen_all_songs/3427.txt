@@ -1,0 +1,11 @@
+F[ERK2
+CUT[EM KUST MER UG EN MANTEL]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen]
+KEY[E0875  08  G 2/4]
+MEL[-5  1234  565_
+    4345  3_0_
+    1234  5654
+    1234  5654
+    3234  5_4_
+    3232  1_0 //] >>
+FCT[Hochzeits -, Ehestands - Lied]

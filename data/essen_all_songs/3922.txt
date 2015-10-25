@@ -1,0 +1,10 @@
+F[ERK3
+CUT[DES MORGENS ZWISCHEN DREI UND VIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1340  16  G 4/4]
+MEL[-5__  1_.11_2_3_3_4_4_  3___2__
+    2_3_  4_.44_4_4_6_5_4_  4___3__
+    3__  2__5__4#__2__  5___0__
+    4_.3  2__2_.34__4_.6  5___0__
+    1_2_  3__3__2__2__  1___0__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

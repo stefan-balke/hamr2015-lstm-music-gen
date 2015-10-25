@@ -1,0 +1,9 @@
+FINK
+CUT[AUF GOTTES WELT ISTS SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0254  08  A 2/4]
+MEL[5  312-7  1_0
+    1  3131  555_
+    222_  444
+    5  312-7  1_0 //] >>
+FCT[Jugend - Lied, Belehrung, religioes]

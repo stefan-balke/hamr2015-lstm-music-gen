@@ -1,0 +1,9 @@
+KINDER
+CUT[TANZE TANZE TELEMANN]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau, Bettenhausen]
+KEY[K2084  16  C 2/4]
+MEL[  5_5_6_6_  5_4_3_
+    1_  5_5_6_6_  5_4_3__
+    5_5_6_6_  5__3_
+    1_  5_5_666_  5__3_(+1+1+1)  +1___ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

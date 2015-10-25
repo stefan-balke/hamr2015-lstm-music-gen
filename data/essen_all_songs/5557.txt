@@ -1,0 +1,10 @@
+KINDER
+CUT[HAT EINS GESCHLAGEN KOMMT IMMER NOCH NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Dresden]
+KEY[K2375A 08  G 6/8]
+MEL[-5  2_211-5  222-7_
+    -5  2_211-5  222-7_
+    -5  1_1111  5_0_.
+    -5  1_1111  5_0_.
+    -5  1_1111  1_0_. //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

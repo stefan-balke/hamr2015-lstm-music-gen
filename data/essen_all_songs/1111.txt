@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Vorsorge"
+    WENN I MAL EN HAUS BEKOMM]
+REG[Europa, Mitteleuropa, Deutschland Schwaben]
+KEY[Z1377  08  A 2/4]
+MEL[-5  1234  553_
+    5_22  345_
+    345_  345_
+    345_  345_
+    3_44  565
+    4  3355  345_
+    3_44  565
+    4  3454  3_. //] >>
+FCT[Kinder - Lied]

@@ -1,0 +1,14 @@
+DVA
+CUT[Die Nachtpatrouille
+    Schoenster Schatz erlaub es mir]
+CNR[eine kleine Viertelstund]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0100  08  G 4/4]
+MEL[-5_.-4  -3_-5_1_3_  3__2__  0__0__
+    2__.1_  -7_-6_-5_-7_  1__
+    -5_.-4  -3_-5_1_3_  3_2_2__  0__0__
+    2__.1_  -7_-6_-5_-7_  1_2_3_0_  0__
+    1_35  5__3__  5_4_3_4_  3__
+    1_35  5__3__  5_4_3_4_  3__ //] >>
+FCT[Soldaten - Lied]
+CMT[Pause in der vierten Zeile eingefuegt; Inzipit = Variante zum Lied]

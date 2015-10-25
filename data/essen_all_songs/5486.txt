@@ -1,0 +1,12 @@
+KINDER
+CUT[DING DING THALERING]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Stotternheim]
+KEY[K2137  08  G 2/4]
+MEL[  5_3_  553
+    1  1234  5_3_
+    5533  553
+    1  1234  5_3_
+    5533  5_3_
+    5533  5_3_
+    5432  1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

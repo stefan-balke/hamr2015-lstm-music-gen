@@ -1,0 +1,11 @@
+FINK
+CUT[EINSAM EINSAM NEIN DAS BIN ICH NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0448  16  A 3/4]
+MEL[  1__2__0__  3_.44__0__
+    3__.5_-7_2_  1___0__
+    -6_1_1_1_21-7-6  -6_.-5-5__0__
+    1_3_43235_42  1_.2-7__0__
+    1_1_2_1_-7_1_  -7__-6__0__
+    -5_1_3__(5_4_2_)  1___0__ //] >>
+FCT[Heimat -, Wander - Lied]

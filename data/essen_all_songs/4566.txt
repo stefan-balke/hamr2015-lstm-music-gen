@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Am Bodensee]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0485A 02  F 4/2 6/2]
+MEL[1_  123_6_  542_
+    6_  5_53_1  234_0
+    5  4321  2_-5_0
+    -5  123_6_  531_0
+    3  465_43  2_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Ott, 1534 No. 88.]

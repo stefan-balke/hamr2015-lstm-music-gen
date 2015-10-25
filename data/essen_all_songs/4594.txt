@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Weihnachtslied des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0517  04  G 3/2 4/2]
+MEL[1_  1__1_  2__2_  3b_4_5_  5__
+    5_  4__4_  1__2_  3b_0_
+    3b_  5_7b_+1_+1_  7b6b543b_
+    4_  5_4_3b_2_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Andernacher Gsgb. 1608 No. 27]

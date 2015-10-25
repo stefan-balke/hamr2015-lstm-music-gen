@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ACH MANN DU SOLLST NACH HAUSE KOMMN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0910A 16  G 2/4]
+MEL[-5_  1_.23_1_  -6_-4_-4__
+    4_4_2_-7_  1__0_
+    -5_  1_.23_1_  -6_-4_-4__
+    4_4_2_-7_  1__0__
+    3_.55_4_  4_3_3__
+    5_5_6543  2_-5_-5_0
+    2  3_3_2_2_  1_.35_
+    4_  3_3_2_2_  1__0_ //] >>
+FCT[Ehestands - Lied]

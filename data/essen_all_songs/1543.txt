@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    O Goede iesu wes ons bi]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[4, S. 1
+    14?? Handschrift (15. Jh.)]
+KEY[Q0072  08  D FREI]
+MEL[5  5_7b_6_+1_  +1_6_5__0
+    5  +1_7b_7b_5_  (5_4_3b_)2__0
+    1  3b_45_56b_45_  (5_4_3b_)2__0
+    2  3b3b1_2_4_  (4_3b_2_)1__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr, geistlich]
+CMT[Vermutlich Melodie der Ballade. Geistliche Kontrafaktur ?]

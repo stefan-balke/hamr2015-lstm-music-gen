@@ -1,0 +1,11 @@
+FINK
+CUT[WINTER STREUT ZU FROHEM SPIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0293  16  G 4/4]
+MEL[  1_.-51_2_34345_3_  2_.343453__0__
+    +1_.76_5_54543_1_  2_.343453__0__
+    -5_.-6-7_1_23212_0_
+    1_.23_4_56545_0_
+    65645_1_65645_1_
+    1_345_123_2_1__ //] >>
+FCT[Jugend - Lied, Jahreslauf, Belehrung]

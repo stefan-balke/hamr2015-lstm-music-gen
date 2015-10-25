@@ -1,0 +1,8 @@
+F[ERK1
+CUT[IDT LICHT SICH EIN SCHLOESSKEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederdeutsch]
+KEY[E0061C 04  F 3/2]
+MEL[3_  3_.32_  3_.34_  5__5_  3__
+    5_  5_.55_  3_.21_  2__^_  3_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

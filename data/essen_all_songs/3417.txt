@@ -1,0 +1,13 @@
+F[ERK2
+CUT[MF[ERK2 AUF O CHRIST]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Lahnkreis, Becheln;
+    Kreis St. Goarshausen, Welterod]
+KEY[E0867  08  F 6/8]
+MEL[-5  1_1321  2_22_
+    3  1_1321  2_.
+    5_.  4_.3_.  2_.0_
+    2  2_3432  1_354
+    3  2_3432  1_354
+    3  2_.1_3  5_65_
+    4  3_.2_.  1_.0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied, Verlobung]

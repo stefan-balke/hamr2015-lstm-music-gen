@@ -1,0 +1,11 @@
+FINK
+CUT[LOBT DEN  HERRN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0364  08 Eb 4/4]
+MEL[  -1__-3__  -5___
+    -5_1__2-7  1__0_
+    -5_  -6_.-71_-6_  -6_-5_3__  3_
+    21-7-6-5-4  -3_.-6-5_-4_  -5__0__
+    -5__-7_.1  2_-6_-6_-7_  1_-5_1__  1_
+    -7_4_3_  -6_.21_-7_  1__0__ //] >>
+FCT[Jugend - Lied, Tageszeiten, Morgen, religioes, Lob - Lied]

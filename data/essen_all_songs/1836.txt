@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Gluecksjaeger
+    Es war ein Jaeger von stolzem Mut, stolzem Mut,]
+CNR[der trug eine Feder an seinem Hut, seinem Hut.]
+REG[Suedosteuropa, Rumaenien, Bukowina, Eichenau]
+SRC[6, S. 193
+    1937 aufgezeichnet (ca.)]
+KEY[Q0134C 16  C 3/8]
+MEL[-5_  1__1_  3_.21_  2_.1-7_  2_.1-7_
+    2_2_22  2__-6-6  -6_.-5-5_  -6_.-5-5_
+    1_-7_1_  -5_-6_-5_  1_-7_1_  -5_-6_-5_
+    1_1_11  3_.11_  2_.32_  1__ //] >>
+FCT[Ballade, Jagd, Flucht, Verfuehrung]
+CMT[Grundton in der zweigestrichenen Oktave.
+    Dritte Zeile = Refrain auf sinnfreie Silben.]

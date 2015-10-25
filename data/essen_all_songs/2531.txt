@@ -1,0 +1,12 @@
+F[ERK1
+CUT[STOLZ HEINRICH DER WOLLT FREIEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein; Siebengebirge]
+KEY[E0040  16  A 2/4]
+MEL[-5_  1_3b_2_1_  1_-7_-7_
+    -5_  1_2_3b_3b_  2__0_
+    1_  3b_2_3b_1_  3b__5__
+    1_.23b_1_  -7_-6_-5_
+    2_  3b_2_3b_1_  3b__5_
+    3b_  2_1_-7_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

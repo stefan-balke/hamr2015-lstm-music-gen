@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Das Glueck im Schlafe"
+    IN OESTERREICH DA STEHT EIN BAUM]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1017  16  D 6/8]
+MEL[1_  5__5_5__5_  6__7_+1__
+    6_  +2__+1_7_6_5_  6__.5_0_
+    5_  +1__+1_3__6_  5_.6543__
+    1_  2__345_.43_  2__.1__ //] >>
+FCT[Romanze, Ballade]

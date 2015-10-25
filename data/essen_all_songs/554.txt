@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[SEHT JI HERRENS SEHT]
+REG[Europa, Mitteleuropa, Deutschland, Niedersachsen]
+KEY[Z0138  08  F 2/4]
+MEL[  1234  5_.
+    3  4243  1__
+    4321  4321
+    4321  432_
+    4321  4321
+    4321  432-7  1__ //] >>
+FCT[Erzaehlung, lustige Romanze]

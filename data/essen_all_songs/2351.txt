@@ -1,0 +1,12 @@
+FINK
+CUT[DER STRAUSS DEN ICH GEPFLUECKET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0880  16  C 2/4]
+MEL[-5_  -3_-5_1_2_  3__2_0_
+    3_.21_-6_  -5_.-3-1_
+    -5_  -3_-5_1_2_  3__2_
+    1_  -7_1_-7_-5_  -3__0_
+    -5_  -6_-7_1_2_  3_5_5_
+    4_  3_2_-6_-7_  1__.
+    -5_  -5_-6_-5_-3_  -1__. //] >>
+FCT[Liebes - Lied]

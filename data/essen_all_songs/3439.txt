@@ -1,0 +1,11 @@
+F[ERK2
+CUT[WILLST DU DENN MEIN SOEHNCHEN HABEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0890  16  F 3/4 2/4]
+MEL[1_.3  5__5__+1_.6  6_5_5__
+    3_.5  4__2__5_4_  3__0__
+    3_5_  5_4_6_4_2_4_  4_3_5_3_
+    1_3_3_3_4_.2  2__1__
+    3_5_  5_4_6_4_2_4_  4_3_5_3_
+    1_3_3_3_4_.2  2__1__ //] >>
+FCT[Hochzeits -, Ehestands - Lied, Scherz - Lied, Bettelhochzeit]

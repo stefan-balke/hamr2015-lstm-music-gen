@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Bernauerin
+    Es reiten drei Herren zu Muenchen hinaus,]
+CNR[Sie reiten wol vor der Bernauerin ihr Haus:]
+REG[Mitteleuropa, Deutschland (BRD) , Bayern, Regensburg]
+SRC[3, S. 210
+    1817 gedruckt in Breslau]
+KEY[Q0065B 08  C 4/4]
+MEL[5  5+176567+1  +2_+17+1_0
+    5  5+176567+1  +2_+17+1_0
+    5  5+1+1_+1_+1+1  5+2+2_0_77  7+1+1_0_. //] >>
+FCT[Ballade, historisch (1435) , Standesunterschied, Liebe, Mord]
+CMT[Anhaengsel an der letzten Zeile.]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es waren mal drei Gesellen,]
+CNR[sie konnten, was sie wollten;]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Fremersdorf]
+SRC[6, S. 312
+    1932 gedruckt in Metz]
+KEY[Q0139S 16  G 3/8 4/4]
+MEL[-5_  1_-7_-6_  2_3_2_  1_-5_
+    -5_  1_-7_1_  2_3_2_  1_-5_
+    3_  1_.33_3_3__.1_  1_3_5_3_2__.
+    1_  -7_.22_222_5_5_4_  3_3_2_2_1__0_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]

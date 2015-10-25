@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es schlief ein Herr bei seiner Magd]
+CNR[bis an den hellen Morgen,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt,
+    Gegend von Halberstadt]
+SRC[3, S. 14
+    1847 aufgezeichnet]
+KEY[Q0055F 16  G 2/4]
+MEL[-5_  1_-5_-3_-5_  1_.-71_
+    3_  2_.-71_-6_  -6_-5_-5_
+    -5-5  -6_-6_-6_1-6  -6_-5_-5_
+    -5_  1_.23_1_  2__1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

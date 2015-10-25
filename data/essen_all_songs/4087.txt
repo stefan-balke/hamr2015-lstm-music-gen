@@ -1,0 +1,15 @@
+F[ERK3
+CUT[WENN MAN BIM BUREN DIENT]
+REG[Europa, Mitteleuropa, Deutschland, Hannover, Calenberg]
+KEY[E1541  08  F 3/4]
+MEL[  1_1_2_  3_.45_
+    4_3_2_  1__0_
+    4_4_2_  3_.21_
+    5_.43_  2__0_
+    2_2_1_  -7_.-6-5_
+    2_2_1_  -7_.-6-5_
+    1__34  5__
+    43  4_3_2_  5__.
+    1__34  5__
+    43  4_3_2_  1__0_ //] >>
+FCT[Staende -, Bauern - Lied, Spott]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ES LEBEN DIE ALTEN DIE WEIBER DER WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0310  08 Bb 3/4]
+MEL[-5_  1_1_1_  3_1_
+    1_  3_3_3_  5__
+    3_  544_2_  433_
+    1_  -7121-7-6  -5__
+    3_  2_2_3_  2_2_
+    3_  2_4353  2__
+    5_  543_3_  321_
+    1_  2_2123  1__ //] >>
+FCT[Geselligkeits - Lied, Freude]
+BOEHME
+CUT[ES LEBEN DIE ALTEN DIE WEIBER DER WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0310  08 Bb 3/4]
+MEL[-5_  1_1_1_  3_1_
+    1_  3_3_3_  5__
+    3_  544_2_  433_
+    1_  -7121-7-6  -5__
+    3_  2_2_3_  2_2_
+    3_  2_4353  2__
+    5_  543_3_  321_
+    1_  2_2123  1__ //] >>
+FCT[Geselligkeits - Lied, Freude]

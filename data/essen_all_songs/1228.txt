@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es hat ein Bauer schoens Toechterlein,]
+CNR[auf Erden kann sie es nit schoener sein.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saargemuend,
+    Eppingen]
+SRC[2, S. 259
+    1939 aufgezeichnet]
+KEY[Q0051D 08  G 3/4]
+MEL[-5_  1_.-71_  2_3_2_  1_.-71_  -5__
+    1_  -5_.-6-5_  3_2_1_  2_3_2_  1__ //] >>
+FCT[Ballade, Hochzeit, Tod]

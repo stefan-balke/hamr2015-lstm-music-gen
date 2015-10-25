@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Vom Osterlamb, so Christus der Herr gessen vor sein h. Passion]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0547  02  G 4/1]
+MEL[1  1_1_5_.4  543b_2_0
+    3b  44444_54  3b_2_1_0
+    5  5_43b2_4_  2-7b1_-7b_0
+    2  3b_213b_4_  5_5_1_.
+    2  3b_4_5_4_  3b42_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Variante von A0375.]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Sho Muet'r, sho geit insch Euer Teacht'rle!]
+CNR[Sho Muet'r, sho geit insch Euer Teacht'rle!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 127
+    ????]
+KEY[Q1100H 08  G 4/4]
+MEL[-5_  112_11-5-5  2_.21_
+    2_  334_3211  2_2_1_ //] >>
+FCT[???]
+CMT[Melodievariante zu Q0100, anderes Lied.]

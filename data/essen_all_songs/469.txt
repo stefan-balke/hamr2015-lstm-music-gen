@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[MIT LUST THAET ICH AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0055  08  G 4/4]
+MEL[1_  11112_2_  5_5254_3b  2__0_
+    5_  555542_3b  1_243b_21  2_1_0_
+    5_  7b_53b4_2_  1
+    5555_55  1_243b_21  2_1_0_
+    5_  7b_5_3b_42  1__0_ //] >>
+FCT[Sagen - Lied, Romanze]

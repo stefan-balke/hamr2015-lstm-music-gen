@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Jerman Weizers Frau
+    Was kan uns kommen an fuer noth]
+REG[Mitteleuropa, Deutschland (Text: Bayern, Nuernberg)]
+SRC[5, S. 216
+    1608 Handschrift (1603/08)]
+KEY[Q0108C 16  G 4/4]
+MEL[  1___1__3__  2__1__21234234  3__
+    1_2_3_1_3234  5__3__2___  1___1___
+    1___1__3__  2__1__21234234  3__
+    1_2_3_2_3234  5__3__2___  1___1___
+    3_2_3_4_3_3_2__  -7__1__-6__-5__
+    -5___1__1__  1_-7_1_2_3___
+    1_-7_1_2_3_2_3234  5__3__2___  1__1___. //] >>
+FCT[Ballade, Schein - Tod, Geburt, Grab, Auferstehen; geistlich, Choral
+    Zeitungs - Lied]
+CMT[Geistliche Kontrafaktur? Tonangabe des Chorals zu dieser Ballade.]

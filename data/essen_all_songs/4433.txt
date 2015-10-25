@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ES GIENG EIN JUNGFRAU ZARTE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E2154  08  G 3/4]
+MEL[-5_  -511_2_  135_
+    2_  353_2_  1__
+    -5_  -511_2_  135_
+    2_  353_2_  1__
+    2_  353_2_  1_2_
+    -5_  -511_2_  135_
+    2_  353_2_  1__ //] >>
+FCT[geistlich, Moral - Lied, Tod]

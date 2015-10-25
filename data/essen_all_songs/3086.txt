@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ACH SCHOENSTER SCHATZ MEIN AUGENTROST]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0560A 08  G 3/4]
+MEL[-512  3_3_22  1_0
+    234  565345  3_0
+    534  5_6543  4_0
+    532  354321  2_0
+    234  565345  3_0 //] >>
+FCT[Liebes - Lied]

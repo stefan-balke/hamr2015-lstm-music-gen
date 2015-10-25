@@ -1,0 +1,11 @@
+KINDER
+CUT[AEIE BUBAEIE DIE BAEBLE SIN GUET]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[K0089  16  G 3/8]
+MEL[  5_5432  1_1234  5_5_6_  5__.
+    4_4_2_  3_.21_  2_2_-7_  1__0_
+    5_5_3_  4_4_2_  3_1_1_  2__.
+    5_5_3_  4__2_  3_3_1_  2__.
+    5_5432  1_1234  5_5_6_  5__.
+    4_4_2_  3_.21_  2_2_-7_  1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

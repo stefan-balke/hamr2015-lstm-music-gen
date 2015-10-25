@@ -1,0 +1,13 @@
+F[ERK3
+CUT[O DU DEUTSCHLAND ICH MUSS MARSCHIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1375A 08  G 3/4]
+MEL[-5-5  1_1234  655_
+    35  544_54  3__
+    -5-5  1_1234  655_
+    35  544_54  3__
+    53  322_64  433_
+    53  322_64  433_
+    -5-5  1_1234  655_
+    35  544_54  3__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

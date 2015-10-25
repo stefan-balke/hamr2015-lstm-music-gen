@@ -1,0 +1,10 @@
+F[ERK3
+CUT[LOOF AN DE LENGE]
+REG[Europa, Mitteleuropa, Deutschland, Ost - Preussen, Koenigsberg]
+KEY[E1182  16  G 2/4]
+MEL[  -5__3_.2  1__-5_
+    -5_  -6_-6_-7_-7_  1__-5_
+    -5_  -6__-7__  1__-5_
+    -5_  -6__-7__  1__-5__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Weihnachten]
+CMT[Fragment]

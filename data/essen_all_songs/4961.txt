@@ -1,0 +1,11 @@
+BOEHME
+CUT[BALD SIND WIR AUF EWIG GESCHIEDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellershausen]
+KEY[B0498  16  C 4/4]
+MEL[5__  5__6_.55__6_.5  5__4__0__
+    7_+1_  +2_+1_7_6_5__6_.4  4__3__0__
+    1_3_  5__5_.55_+1_+3_+1_  7_6_6__0__
+    +1_6_  5__3_.55__4_.5  3___0__
+    1_3_  5__5_.55_+1_+3_+1_  7_6_6__0__
+    +1_6_  5__3_.55__4_.5  3___0__ //] >>
+FCT[Abschieds - Lied]

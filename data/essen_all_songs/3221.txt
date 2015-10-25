@@ -1,0 +1,11 @@
+F[ERK2
+CUT[HIER UNTER DIESEM BAEUMELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Gransee, Roennebeck]
+KEY[E0683C 16  F 6/8]
+MEL[-5_  1__2_3__4_  5__3_1__
+    1_  4__6_+1__6_  5__.0__
+    54  3__3_5__4_  2__6_5__
+    4_  3__.2__.  1__.0__
+    54  3__3_5__4_  2__6_5__
+    4_  3__.2__.  1__.0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

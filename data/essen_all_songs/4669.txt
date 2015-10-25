@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die Linde im Himmelreich]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0582  04  C 3/4]
+MEL[1  1_1  3_3  5_5  5_
+    5  6_+1  7_5  656  5_
+    5  6_+1  7_6  5_4  3_
+    3  5_5  3_2  1_.  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[H. v. Laufenbergs geistl. Lieder Hs.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Kuhreigen"
+    ES ISCH KEI SOLICHE STAMME]
+REG[Europa, Mitteleuropa, Emmenthal]
+KEY[Z1312  08  A 4/4]
+MEL[54#  5_4243b21  2_2_0_
+    54#  5_43b43b1_  2__0_
+    3b1  -7_-5_1-712  3b_1_0_
+    54#  5_43b43b2-7  1_0__ //] >>
+FCT[Handwerker -, Bauern - Lied]

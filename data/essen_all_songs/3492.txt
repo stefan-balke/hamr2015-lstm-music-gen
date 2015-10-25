@@ -1,0 +1,13 @@
+F[ERK2
+CUT[MICH HAT DAS GLUECK GEFUEHRT]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen - Saathen]
+KEY[E0973A 08  A 3/4]
+MEL[  1_-5_1_  1_-712_
+    3_-6_2_  -7_-6_-5_
+    1_-5_1_  1_-712_
+    3_-6_2_  -7_-6_-5_
+    2_2_2_  2_.12_
+    1_3_3_  3_2_0_
+    1_3_5_  1_-7-6-5_
+    1132-7_  2_1_0_ //] >>
+FCT[Tanz - Lied, Reigen]

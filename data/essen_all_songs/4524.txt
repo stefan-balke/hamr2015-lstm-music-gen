@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Reiters Trostlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0431B 04  G 4/2]
+MEL[1_1_1_  5_5_7b_6_  5__0_
+    5_  5_5_7b_5_  5__.43b  4_4_3b__  0_
+    5_5_5_  4_4_3b21_  -7b__0_
+    -7b_  1_2_3b_5_  4_4_3b__  0_
+    3b_5_6b_  7b_6b_56b7b6b  5__.
+    43b  2_1_2__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Dresdner Cod. M. 53 (um 1550).]

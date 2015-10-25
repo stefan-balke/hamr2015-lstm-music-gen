@@ -1,0 +1,22 @@
+BOEHME
+CUT[FROEHLICH UND WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0293A 16  A 3/8]
+MEL[  3_.21_  1_-5_-5_
+    4_.32_  2_-5_-5_
+    3_.45_  6_2_2_
+    4_2_-7_  2_.11_
+    3_.45_  6_2_2_
+    4_2_-7_  2_.11_ //] >>
+FCT[Stimmungs - Lied, Freude, Jugend]
+BOEHME
+CUT[FROEHLICH UND WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0293A 16  A 3/8]
+MEL[  3_.21_  1_-5_-5_
+    4_.32_  2_-5_-5_
+    3_.45_  6_2_2_
+    4_2_-7_  2_.11_
+    3_.45_  6_2_2_
+    4_2_-7_  2_.11_ //] >>
+FCT[Stimmungs - Lied, Freude, Jugend]

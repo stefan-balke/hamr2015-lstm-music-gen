@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Frau Wirtin haben Sie die Gewalt,]
+CNR[ein Reiter ueber Nacht behalt,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+SRC[4, S. 312
+    1911 gedruckt in Jena]
+KEY[Q0085j 08  G 3/4]
+MEL[-5  -533_21  222_.
+    -5  -544_32  133_.
+    1  155_.3  466_.
+    +1  765_13  2_1_. //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

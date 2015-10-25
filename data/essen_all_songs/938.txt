@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Herbstfreude"
+    SCHAUT AUSI WIE'S REGNET]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z1203  08  A 3/4]
+MEL[12  3_.33_  4_2_
+    23  4_.44_  5_0_
+    12  3_.33_  4_2_
+    23  4_.44_  3__ //] >>
+FCT[Liebes - Lied]

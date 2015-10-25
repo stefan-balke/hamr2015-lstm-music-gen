@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Von dem heiligen Bischof St. Martin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0616  02  C 3/2]
+MEL[5  5_5  6_7  +1_.  +1_
+    +3  +2_7  +16_  5__.  0_
+    5  5_6  7_+2  +1_.  5_
+    6  5_3  42_  1_.  0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Corner 1631 No. 323.]

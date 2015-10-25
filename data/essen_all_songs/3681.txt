@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Ich geh' in Wald um Roeselein,]
+CNR[ich hoer' ein kleines Kindlein schrein.]
+REG[Osteuropa, Tschechoslowakei, Slowakei]
+SRC[5, S. 272
+    ????]
+KEY[Q0114d 04  G FREI]
+MEL[-512  1-512  3
+    432  1432  1 //] >>
+FCT[Ballade, Kinds - Mord, Strafe]
+CMT[Vom Hg. als Vierzeiler klassifizert.]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Elsberger
+    Was sein die Griesemer Leit' so froh!]
+CNR[Die Griesemer Kerb' is do!]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen]
+SRC[3, S. 140
+    ????]
+KEY[Q1059F 16  G FREI]
+MEL[3_  3_3_3_335_4_  2__0_
+    2_  2_224_3_  1__ //] >>
+FCT[Brauchtum, Abholung der Kerb'   (???)]
+CMT[Melodievergleich zu Q0059B, anderes Lied.]

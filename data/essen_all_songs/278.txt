@@ -1,0 +1,24 @@
+BOEHME
+CUT[BRUEDER DAS IST DEUTSCHER WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0330  16  G 3/4 2/4]
+MEL[  1__.-5_-5_-5_  3_.21__0__
+    2__.-5_-5_-5_  4_.32__0__
+    -5__.3_3_3_  2_.34__-5__
+    -5__.4_4_4_  3_.45__1__
+    6__.4_1_6_  5_.3+1___
+    +1_.53_4_  6_.55__
+    6_.5-7_2_  6___5__  1___ //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[BRUEDER DAS IST DEUTSCHER WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0330  16  G 3/4 2/4]
+MEL[  1__.-5_-5_-5_  3_.21__0__
+    2__.-5_-5_-5_  4_.32__0__
+    -5__.3_3_3_  2_.34__-5__
+    -5__.4_4_4_  3_.45__1__
+    6__.4_1_6_  5_.3+1___
+    +1_.53_4_  6_.55__
+    6_.5-7_2_  6___5__  1___ //] >>
+FCT[Trink - Lied]

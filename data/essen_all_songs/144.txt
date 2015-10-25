@@ -1,0 +1,18 @@
+BOEHME
+CUT[IM GRUEN ERWACHT DER FRISCHE MUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0173  16  A 2/4]
+MEL[-5_  3_.21_2_  3_.21_
+    1_  -6_.23_2_  -7__0_
+    -5_  4_.32_1_  -7_-6_-5_
+    4_  3__.2_  1___  1_-7_-3_2_  1__0_ //] >>
+FCT[Natur -, Wander - Lied]
+BOEHME
+CUT[IM GRUEN ERWACHT DER FRISCHE MUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0173  16  A 2/4]
+MEL[-5_  3_.21_2_  3_.21_
+    1_  -6_.23_2_  -7__0_
+    -5_  4_.32_1_  -7_-6_-5_
+    4_  3__.2_  1___  1_-7_-3_2_  1__0_ //] >>
+FCT[Natur -, Wander - Lied]

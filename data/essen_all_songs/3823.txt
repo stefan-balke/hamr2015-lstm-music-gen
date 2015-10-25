@@ -1,0 +1,10 @@
+F[ERK3
+CUT[NUN GRUESS DICH GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1132  08  F 4/4]
+MEL[5__  3_1_5_6_  5_4_3_
+    2_  5_.43_2_  5_4_5_3_  2__0__
+    1__5_6_  5_4_3_2_  5_.43_
+    2_  5_4_5_3_  6__
+    5__  3_1_2__  1___  0__ //] >>
+FCT[Trink -, Zech - Lied]

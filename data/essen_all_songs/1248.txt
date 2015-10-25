@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Il est venu le petit oysillon]
+CNR[ce moys de may certeinement]
+REG[Mitteleuropa, Frankreich]
+SRC[2, S. 294
+    1921 gedruckt (Neuausgabe)]
+KEY[Q3053J 08  F 3/2 2/2]
+MEL[1__2_2_  3_1_5_433_22  1__
+    5__6_6_  5_7_+1_.+1756_  5_0
+    5+1_.7  6_.6534_  3_.
+    21_2_  3_6_5_.43322  1_.
+    -71_2_  3_6_5_.43322  1__ //] >>
+FCT[???]
+CMT[Ungenuegend dokumentiert. Melodievergleich zu Q0053 , anderes Lied.]

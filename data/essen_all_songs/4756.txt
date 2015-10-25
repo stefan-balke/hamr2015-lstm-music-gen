@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Christus, mein Leben!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0658  04  F 4/2]
+MEL[1_  3_2_3_4_  5__3_
+    6_  5_.43_2_  3__0_
+    5_  6_7_+1_7_  6__5_
+    3_  2_1_1_-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Vulpius' Gsgb 1609]

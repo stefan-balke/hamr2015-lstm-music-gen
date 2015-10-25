@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES ZOGEN DREI BURSCHE WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0067  08  D 2/4]
+MEL[1_  3_55  +1__  6_
+    6_  6_55  5__  0_
+    3_  3_44  5__  2_
+    2_  4_33  3__  0_
+    1_  3_55  +1_+1_
+    +3__  +2_+2+2  +1_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

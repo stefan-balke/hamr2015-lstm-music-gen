@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Halewyn]
+REG[Europa, Mitteleuropa, Brabant]
+KEY[A0015B 08  C 6/8]
+MEL[-7b-6-7b  1_.2_.  1_-7b-6_
+    -6  -7b_-6-5_-6  -7b_12_.  0_
+    23b_2  1_.2_.  1_-71_.  0_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie  1836 mitgeteilt]

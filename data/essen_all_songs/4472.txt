@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Benno, Bischof von Meissen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0388  02  D 4/2 6/2]
+MEL[+1+1+1  5_67b6_  5_0
+    457b  5_4544  3b_0
+    555  4_3b2  1_-7b_  0
+    -7b3b4  53b44  5_0
+    456  7b567b  7b_0
+    5  7b+1+25  7b+1+2_  +1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Breslauer Hs. 16. Jh.]

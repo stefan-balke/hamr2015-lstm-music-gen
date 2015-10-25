@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[DER JAEGER LAENGS DEM WEIHER GING]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0047  16 Bb 2/4]
+MEL[-5__  1_.11_.1  1_-7-6-5__
+    1__5_5_  3__.
+    3_  2_2_5_2_  1_-7-6-5__
+    1_111_11  1_1_1_
+    3_  21-7121-7-6  -5_-5_-5_
+    4_  3_3_2_2_  5__
+    6_4_  3_3_2_2_  1__ //] >>
+FCT[Sagen - Lied, Romanze]

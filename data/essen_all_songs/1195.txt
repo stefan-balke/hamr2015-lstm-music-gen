@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Was sind doch die Strassen so enge!]
+CNR[Das kommt von dem vielen Gedraenge.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen - Nassau, Eitelborn]
+SRC[2, S. 204
+    1927 aufgezeichnet]
+KEY[Q0048E 16  C 6/8]
+MEL[13  5_6_5_2_3_4_  5_3___
+    13  5_6_5_2_3_4_  5_3___
+    1_  6_.66_5_6_7_  +1_7_6_5__
+    +1+1  5_6_5_4_3_4_  6_5_4_3__ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ROSEL WENN DU MEINE WAERST]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0573  16  G 2/4]
+MEL[  5_.55_3_  1_3_3__
+    -5_2_2__  1_3_3__
+    5_.55_3_  1_3_3__
+    -5_2_2__  1__0__ //] >>
+FCT[Liebes - Lied]

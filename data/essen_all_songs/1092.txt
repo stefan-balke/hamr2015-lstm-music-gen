@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Ammen - Uhr"
+    DER MOND DER SCHEINT DAS KINDLEIN WEINT]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1358  08  A 6/8]
+MEL[5  5_33_1  2321_
+    5  5_33_1  2321_
+    3  2_44_2  1355_
+    3  2_44_2  1321_ //] >>
+FCT[Kinder - Lied]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Gerettete"
+    ALS ODILIA EIN KLEIN KIND WAR]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1028  08  E 3/4]
+MEL[-7b3b4  5_46b54  3b_.
+    -7b3b4  5_46b54  5_.
+    212  3b1453b2  1_.
+    -712  3b1453b2  1_0 //] >>
+FCT[Romanze, Ballade, Tod, Blaubart - Sage]

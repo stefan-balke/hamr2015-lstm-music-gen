@@ -1,0 +1,13 @@
+KINDER
+CUT[WIR WOLLN EINMAL SPAZIEREN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[K2372  08  G 2/4]
+MEL[-5  1111  1-6-5
+    -5  2255  3_1
+    -5  1111  1-6-5
+    -5  2255  3_1
+    1  22-7-5  22-7
+    1  22-7-5  22-7
+    -5  1_3_  5_0
+    3  5_3_  1_0 //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

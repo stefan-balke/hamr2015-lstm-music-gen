@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Jaeger"
+    SEH I EIN SCHOENS VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1295  08 Eb 3/4]
+MEL[(567)  +1_6_44  6_5_
+    (-513)  5_4_2_  6_5_
+    (567)  +1_6_44  6_5_
+    (-513)  5_4_-7_  1_0_
+    (-513)  5_4_24  6_5_
+    (-513)  5_4_24  6_5_
+    (567)  +1_6_44  6_5_
+    (-513)  5_4_-7_  1_0_ //] >>
+FCT[Jaeger - Lied, Liebe]

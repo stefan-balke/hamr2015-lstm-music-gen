@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WIR REISEN DURCH JERUSALEM]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[E1868  08  C 2/4]
+MEL[1  5566  553
+    4  5_6_  5_0
+    1  5555  +153
+    4  5_5_  1_0 //] >>
+FCT[Kinder - Lied, Abzaehl - Reim, Plumpsack - Spiel]

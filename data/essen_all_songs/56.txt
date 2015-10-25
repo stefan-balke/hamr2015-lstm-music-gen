@@ -1,0 +1,22 @@
+BOEHME
+CUT[HURRA DER ERSTE SIEGESTAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0072  08  C 4/4]
+MEL[-5_  1_.-1-1-1-3-1  -5__0_
+    -71  2_.1-7-6-5-4  -3__0
+    -5-6-7  1_.-52_.-5  3__0
+    21-7  -6_2_1_-7_  1__0
+    -5-6-7  1_.-52_.-5  3__0
+    21-7  -6_2_1_-7_  1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[HURRA DER ERSTE SIEGESTAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0072  08  C 4/4]
+MEL[-5_  1_.-1-1-1-3-1  -5__0_
+    -71  2_.1-7-6-5-4  -3__0
+    -5-6-7  1_.-52_.-5  3__0
+    21-7  -6_2_1_-7_  1__0
+    -5-6-7  1_.-52_.-5  3__0
+    21-7  -6_2_1_-7_  1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

@@ -1,0 +1,9 @@
+FINK
+CUT[ES GING WOHL UEBER DIE HAIDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0838  08  G 6/4]
+MEL[1_  1__1_3_3_3_  5__565__
+    5_  6_6_6_6__6_  +1__.0__
+    +1_  +2__2_2_2_2_  3__.7__
+    7_  7__3_5__3_  5___0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade; Tod]

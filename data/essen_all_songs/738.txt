@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Ritter und die Feine "
+    ES STUNDEN DREI ROSEN AUF EINEM ZWEIG]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1003  08  F 4/4]
+MEL[-5_  1_243_21  3_465_0_
+    +1__765_  6_5_0_
+    5_  +1_556_54  3_465_0_
+    4__321_  2_1_0_ //] >>
+FCT[Romanze, Ballade]

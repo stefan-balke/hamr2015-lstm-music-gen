@@ -1,0 +1,24 @@
+BOEHME
+CUT[WEINT MIT MIR IHR NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Lahn - Kreis, Dill - Kreis]
+KEY[B0140  16  G 4/4]
+MEL[4_3_  2__.321_-7_-6_-5_  3__1__0__
+    4_3_  2__.321_-7_-6_-5_  3__1__0__
+    1_-7_  -6__.-7_1_1_2_2_  -5___0__
+    -5_-7_  2__.2_1_-7_-6_-5_  1__3_5_5__
+    -5_-7_  2__.2_1_-7_-6_-5_  1__3_5_5__
+    4_3_  2_2_4_4_3__2__  5___.
+    4_3_  2_2_4_4_3__2__  1___0__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WEINT MIT MIR IHR NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Lahn - Kreis, Dill - Kreis]
+KEY[B0140  16  G 4/4]
+MEL[4_3_  2__.321_-7_-6_-5_  3__1__0__
+    4_3_  2__.321_-7_-6_-5_  3__1__0__
+    1_-7_  -6__.-7_1_1_2_2_  -5___0__
+    -5_-7_  2__.2_1_-7_-6_-5_  1__3_5_5__
+    -5_-7_  2__.2_1_-7_-6_-5_  1__3_5_5__
+    4_3_  2_2_4_4_3__2__  5___.
+    4_3_  2_2_4_4_3__2__  1___0__ //] >>
+FCT[Ballade, Romanze]

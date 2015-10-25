@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Huete du dich!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0200  02  F 3/1]
+MEL[1_  1_.13_  2__3_  4__3_  2__.  3__2_  1__
+    1_  3_.34_  5__5_  2__3_  4__
+    4_  3__4_  5__5_  2__3_  4__.  3__2_  1__.
+    3__4_  5__5_  2__3_  4__
+    4_  3_2__  1__4_  3_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder. Nuernberg bei Berg und Newber c. 1542 No. 33.]

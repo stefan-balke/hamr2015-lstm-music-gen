@@ -1,0 +1,11 @@
+BOEHME
+CUT[ES ZOG EIN MATROSE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0603  08  C 3/4]
+MEL[-5_  -5_-6_.-5  -5_-6_.-5  -5_-4_-3_  -4__
+    -4_  -7_-7_.-6  -7_-7_.-6  -6_-5_-4_  -3__
+    1_  21-7_.-6  -7-6-5_
+    -3_  -4_.-3-4-6  -5__
+    -5_  3_2_1_  -7-64_
+    -6_  -533_2_  1__ //] >>
+FCT[Staende -, Seemanns - Lied]

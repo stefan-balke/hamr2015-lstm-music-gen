@@ -1,0 +1,10 @@
+BOEHME
+CUT[AN DER SAALE HELLEM STRANDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0527  08  G 3/4]
+MEL[12  3_3_21  2_2_
+    12  345_43  2_0_
+    56  542_22  3_5_
+    56  542_22  3_5_
+    64  353_2_  1_0_ //] >>
+FCT[Wander - Lied]

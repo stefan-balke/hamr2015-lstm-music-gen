@@ -1,0 +1,9 @@
+F[ERK1
+CUT[HERZIG LIEB SCHAETZELE]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E0540  16  G 3/8]
+MEL[  1_1234  5_565_  4_3_4_  3__0_
+    1_1234  5_565_  4_3_4_  3__0_
+    5_565_  4_454_  3_343_  2_2_2_
+    1_1234  5_565_  4_3_4_  3__0_ //] >>
+FCT[Liebes - Lied]

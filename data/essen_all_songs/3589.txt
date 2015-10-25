@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Hauptmannstochter
+    Eli zijon w'oreho]
+REG[Osteuropa? (juedisch)]
+SRC[5, S. 138
+    1877 gedruckt in Frankfurt]
+KEY[Q3101F 04  G 3/4]
+MEL[-5  1_-7  102  3b21  -7b_0
+    3b_3b  505  454  3b_0
+    5_5  4_4  3b_3b  2_.
+    23b4  56b5  43b2  1_. //] >>
+FCT[religioes, Synagogen - Weise]
+CMT[Melodievergleich zu Q0101D, anderes Lied.]

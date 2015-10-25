@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WO SOLL ICH MICH HINWENDEN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land; Kleve]
+KEY[E1365  16  E 4/4]
+MEL[1_3_  5__5__3__+1_6_  5__.432__
+    4__  3__4_2_1__-7__  1___0__
+    1_3_  5__5__3__+1_6_  5__.432__
+    4__  3__4_2_1__-7__  1___0__
+    -7_1_  2__2__3_2_1_2_  3___0__
+    1_2_  3__3__5_4_3_4_  5___0__
+    1_3_  5__5__3__+1_6_  5__.432__
+    4__  3__4_2_1__-7__  1___0__ //] >>
+FCT[Staende -, Soldaten - Lied, anti - Kriegs - Lied]

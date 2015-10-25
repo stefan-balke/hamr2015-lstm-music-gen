@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Es reist ein Matrose vom Kriege heim, Kuckuck,]
+CNR[bei einer Frau Wirtin da kehrt er ein, Kuckuck.]
+REG[Osteuropa, UdSSR, Ukraine]
+SRC[5, S. 160
+    1931 gedruckt in Wien]
+KEY[Q0103K 16  G 6/8]
+MEL[-5_  1_1_1_1_2_3_  3__2_2_3_4_  3__.0__
+    -5_  1_1_1_1_2_3_  3__2_2_.34_  3__.0_
+    1_3_  5_5_5_6__5_  5__434__
+    5_  3__3_5__43  3__2_2_0_
+    5_  3_3_3_2_234_  3__.0__
+    13  5_5_5_6__5_  5__434__
+    5_  3__3_5__43  3__2_2_0_
+    5_  3_3_3_2_234_  3_.43_2_2_4_  3__.0__ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Verzierung. Pause am Ende der 2. Zeile korrigiert.
+    Anhaengsel; fuenfte und letzte Zeile = Refrain.]

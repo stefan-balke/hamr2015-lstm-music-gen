@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES WARN EINMAL ZWEI MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0209  16  F 2/4]
+MEL[1_  5_5_5_6_  5__3_6_  5__3_
+    3_  5_5_544_  3__0_
+    3_  5_5_544_  3__0_
+    3_  5_3_5_3_  5__6_
+    5_  4_2_4_2_  4__5_
+    3_  5_5_544_  3__0_
+    3_  5_5_544_  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Geiz]

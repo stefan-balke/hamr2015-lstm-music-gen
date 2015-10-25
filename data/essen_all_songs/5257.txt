@@ -1,0 +1,11 @@
+F[ERK5
+CUT[Kaisari nokkur maetur mann]
+REG[Europa, Island]
+KEY[L0031B 16  A 6/8]
+MEL[1_.23b_2_.1-7_  1_.23b_2__0_
+    2__2_3b__4_  5__.4__0_
+    3b__3b_3b__4_  5__5_4__.
+    4__3b_2__1_  2_.3b2_1__0_
+    3b__3b_1__1_  1__2_3b__4_  4__.^__3b_  2__0_^__. //] >>
+FCT[Lied]
+CMT[Island]

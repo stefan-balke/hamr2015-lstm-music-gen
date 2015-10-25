@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der geschlagene Mann"
+    S BEDLWAIBL WOLLT KIARISIARTN GEHN]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1338  16  F 3/8]
+MEL[11111_  -7-72-7-5_
+    1_3_5+1  5__0_
+    44664_  3_5_1_
+    -7_22-5_  1_3_-5_
+    -7_-765-7  1__0_ //] >>
+FCT[Zech -, Schalks - Lied]

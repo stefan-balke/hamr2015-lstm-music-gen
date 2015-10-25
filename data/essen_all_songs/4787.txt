@@ -1,0 +1,12 @@
+DVA
+CUT[Eleisonlied
+    Maria, die ging spazieren - Kyrieeleison.]
+CNR[Wohl unter einen alten Feigenbaum, Ave Maria.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0029A 32  G FREI]
+MEL[4__4__4__  +1___.7b__5__  6b__5__4___
+    5__  +1___7b__+1__5___0__
+    5__5_.55_.5  +1___7b__6b___4__  3b___
+    (4__5__6b__)  5___1__4__  3b_2_1___ //] >>
+FCT[Legenden - Lied]
+CMT[Taktart veraendert ( siehe Lied D0029) ; Variante zu Lied D0029]

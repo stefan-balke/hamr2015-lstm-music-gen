@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Hammerschmiedssohn
+    Erstanden ist der heilig Christ,]
+CNR[der aller weltt ein troester ist,]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 358
+    1601 gedruckt]
+KEY[Q1088C 08  C 4/4 6/4]
+MEL[1_  1_1_5_67  +1_6_5__0_
+    5_  6_7_+1_5_  6_54321
+    2  345_6_5_  432_1__0_ //] >>
+FCT[geistlich, Ruf]
+CMT[Melodievergleich zu Q0088, anderes Lied. Taktwechsel zum 6/4
+    ergaenzt.]

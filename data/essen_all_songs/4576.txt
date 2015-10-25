@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Reuzelied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0500  04  C 3/4]
+MEL[1_3  5_5  6_6  5_5  6_6  5_
+    5  432  3_5  4_2  3_4  3_2  1_
+    1  3_4  5_.  432  3_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[14. Jh.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Schaeferstunde"
+    ES WAR EINMAL EIN JUNGER KNAB]
+REG[Europa, Mitteleuropa, Deutschland, Wasgau]
+KEY[Z0171  16  G 3/4]
+MEL[-5_1_3_  5__3_5_6_54  4__3_.
+    43_3_  3__2_3_5_32  2__3_
+    -5_1_3_  5__3_5_6_54  4__3_.
+    54_3_  3__5__3_2_  2__1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

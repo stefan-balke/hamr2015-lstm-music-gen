@@ -1,0 +1,17 @@
+F[ERK3
+CUT[JAMMER JAMMER UEBER JAMMER]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Mettmann]
+KEY[E1882  08  C 3/4 2/4]
+MEL[12  3_3_43  2_2_
+    32  1_3_22  1_0_
+    12  3_3_43  2_2_
+    32  1_3_22  1_0_
+    12  3_3_43  2_2_
+    32  1_3_22  1_0_
+    3_13  2210
+    3_13  2210
+    3313  2_10
+    3313  2_10
+    55+1_  55+1_
+    5432  211_ //] >>
+FCT[Kinder - Lied, Tanz, Ringelreihen]

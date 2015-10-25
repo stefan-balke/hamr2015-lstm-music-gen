@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Emmenthaler Kuehreigen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0484B 08  E 4/4]
+MEL[+17  +1_7b67b654  5_1_0_
+    +17  +1_7b67b64_  5__0_
+    54  3_1_4345  6b_4_0_
+    +17  +1_7b67b64_  4__10 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Mitgetheilt in Bueschings Volksliedern 1807. Melodieheft S. 30.]

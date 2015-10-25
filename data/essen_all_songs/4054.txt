@@ -1,0 +1,13 @@
+F[ERK3
+CUT[GEN ALMA GEH I AUFI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1483A 16  G 2/4]
+MEL[3_  5_.35_.3  1_.31_0
+    3  2_.4-7_.2  1__0_
+    3_  5_.35_.3  1_.31_0
+    3  2_.4-7_.2  1__0_
+    -6_  -6_.-6-6_.-6  4_.44_0
+    2  2_2_2_2_  5__0_
+    5_  +1_.5+1_.5  3_.51_.
+    3  2_.4-7_.2  1__0_ //] >>
+FCT[Staende -, Hirten -, Alpen - Lied]

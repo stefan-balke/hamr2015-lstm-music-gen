@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es woen amol zwie Pauersien,]
+CNR[si hotten Lust, ai'n Krieg ze gien,]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen]
+SRC[4, S. 308
+    1938 gedruckt in Reichenberg]
+KEY[Q0085I 08  G 3/4]
+MEL[-5_  -5-71_.2  3b3b-7b_.
+    3b  3b3b2_1_  -5-6b-7b_.
+    1  -7b-6b-5_-6b_  -7b_-5_0
+    3b  23b2_1_  -7_1_ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

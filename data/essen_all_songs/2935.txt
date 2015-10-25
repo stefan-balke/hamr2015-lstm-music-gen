@@ -1,0 +1,13 @@
+F[ERK1
+CUT[MEIN HERZ HAT SICH GESELLET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0388  04  A 6/4]
+MEL[1  1_11_-6  -5_.2_
+    3  2_1-7_-6  -5_.^_
+    1  1_11_-6  -5_.2_
+    3  2_1-7_-6  -5_.^_
+    -5  1_1-7_-5  1_.2_
+    2  2_23_3  2_12_
+    3  5_43_2  1_.4_
+    2  3_21_-7  1_.^_ //] >>
+FCT[Liebes - Lied, Jahreszeiten, Fruehling]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Wir kommen daher an das Fenster getretn,]
+CNR[wir haben noch nicht um Erlaubnis gebetn.]
+REG[Mitteleuropa, Oesterreich, Egerland]
+SRC[2, S. 237
+    ????]
+KEY[Q1049C 08  G 6/8]
+MEL[1333  111243  2_
+    1222  224332  1_ //] >>
+FCT[Brauchtums - Lied]
+CMT[Melodievergleich zu Q0049 ff.; anderes Lied.]

@@ -1,0 +1,15 @@
+F[ERK2
+CUT[MEIN MUETTERLEIN DAS FRAGET ABER MICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0844  08  D 4/4]
+MEL[+1_  +1_+1_+1_+1_  5_5_5_
+    5_  +2_.+17b_6_  5__0__
+    +1_+1_+1_+1_  7b__5__
+    7b_.6b5_4_  3b__0__
+    3b_3b_4_4_  5__1_
+    +1_  7b_+1_+2__  +1__0_
+    +1_  +1_+1_+1_+1_  7b_.65__
+    +1_+1_+1_+1_  7b_.65_
+    4_  5_3b_2__  1__0_
+    4_  5_3b_2__  1__. //] >>
+FCT[Hochzeits -, Ehestands - Lied]

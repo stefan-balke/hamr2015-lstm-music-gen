@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es schlief ein Graf bei seiner Magd]
+CNR[bis an den fruehen Morgen,]
+REG[Mitteleuropa, Deutschland (BRD) , nordwest - deutsch ?]
+SRC[3, S. 19
+    1916 aufgezeichnet (1914/16)]
+KEY[Q0055K 08  C 4/4]
+MEL[13  5_5_5642  1_3_3_
+    3_  2_.34_5_  4_3_0_
+    5_  5_.3+1_.7  7_6_6_
+    6_  5_.+1+3_+2_  +2_+1_0_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

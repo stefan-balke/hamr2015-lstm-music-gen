@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH HABE DEN FRUEHLING GESEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Alt - Storken]
+KEY[E0739D 08  F 4/4]
+MEL[12  3_111_43  3_.21_
+    -71  2_556_54  3__0_
+    13  5_556_67  +1_.76_
+    5_  6_425_42  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

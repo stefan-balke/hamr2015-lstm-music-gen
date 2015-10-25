@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Jerman Weizers Frau
+    HOeret zu, jhr lieben Christenleuth,]
+CNR[ein Zeitung thu ich bringen,]
+REG[Mitteleuropa, Deutschland (Text: Bayern, Nuernberg)]
+SRC[5, S. 208
+    1646 Handschrift Kloster Seeon (ca.)]
+KEY[Q0108  02  G 3/2]
+MEL[1  1_-5  1_2  3b42  1_
+    1  3b_4  5_4  3b_2  1_
+    1  1_-5  1_2  3b42  1_
+    1  3b_4  5_4  3b_2  1_
+    1  5_4  7b_6  5_4#  5_
+    5  5_4  2_3b  1_2  -5_
+    -5  -7b_1  2_4  3b12  1_ //] >>
+FCT[Ballade, Schein - Tod, Geburt, Grab, Auferstehen; geistlich,
+    Ballade; Sterbe - Lied; Zeitungs - Lied]
+CMT[Geistliche Kontrafaktur? Tonangabe des Sterbelieds zu dieser
+    Ballade. Takteinteilung gemaess der Vorgabe (Dreier) selbst
+    durchgefuehrt.]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die scheintote Braut
+    Wer Wunderding will hoeren an,]
+CNR[der bleibe hier jetzunder stah'n,]
+REG[Mitteleuropa, Oesterreich, Niederoesterreich, Maria Taferl]
+SRC[5, S. 242
+    1819 aufgezeichnet]
+KEY[Q0113  08  C 4/4]
+MEL[5_  6__5__  +1__+2__  +3__+2_+1_  +1__.
+    5_  +1__5__  6__+1__  5__4_3_  3__.
+    5_  6__7__  +1__+2__  6___  5__
+    5__  6__5__  6__+1__  5__5_.4  4__
+    6__  6__+1__  5__3__  5__4_.3  3__.
+    5_  6__5__  +1__4_3_  2__.1_  1__. //] >>
+FCT[Ballade, Treue - Geloebnis, Schein - Tod, Rettung; Zeitungs - Lied]

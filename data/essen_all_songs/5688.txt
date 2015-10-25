@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Die Sonne ist verblichen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0116A 04  G 4/2 6/2]
+MEL[1_  1_5_7b_6_  5__2_
+    2_  1__2_5_  543b23b_3b_  1__.
+    1_  1_5_7b_6_  5__2_
+    2_  1__2_5_  543b23b_3b_  1__.
+    4_  4_4_4_3b_  2__1__
+    3b__  2__-7b_1_  1-7b-6-5-6_-6_  -5___
+    0_1_1_2_  3b_4_2__  1__
+    5__  7b__6_5__4_
+    5_.43b23b_  ^_21-7b_
+    -7b_  1_3b_2_4_  53b212_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III 1549 No. 42.]

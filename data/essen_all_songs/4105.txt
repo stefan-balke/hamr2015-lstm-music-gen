@@ -1,0 +1,8 @@
+F[ERK3
+CUT[ES WAR EINMAL EIN BAUER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau, Luebben]
+KEY[E1571  08  F 3/4]
+MEL[-5_  123b_2_  155_0
+    5  55+1_7_  6_5_0
+    5  55642-7  2_1_ //] >>
+FCT[Staende -, Bauern - Lied]

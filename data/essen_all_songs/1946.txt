@@ -1,0 +1,13 @@
+FINK
+CUT[EIN KOSAK RITT IN DEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland; Russland ?]
+KEY[F0157  16  A 2/4]
+MEL[  1_1_1_1_  1_3b_2_1_
+    -7_-7_-7_-7_  -7_2_1_-7_
+    1_1_1_1_  1_3b_2_1_
+    -7_5_5_-7_  1__0__
+    3b_3b_3b_3b_  3b_5_4_3b_
+    2_2_2_2_  2_4_3b_2_
+    1_1_1_1_  1_3b_2_1_
+    -7_2_543b2  1__0__ //] >>
+FCT[Kriegs - Lied, national; Liebe]

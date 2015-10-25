@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Markgraf uebern Rhein,]
+CNR[der hatte die schoen' Toechterlein]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Zips]
+SRC[4, S. 120
+    1943 gedruckt in Kassel]
+KEY[Q0075z 08  F 3/4]
+MEL[+153  1_6_65  530
+    +17+1  +2_5_+17  650 //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

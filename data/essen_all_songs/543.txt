@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[MUSKATELLER TRINK ICH GERN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinbayern]
+KEY[Z0127A 08  G 2/4]
+MEL[  1131  554_
+    3322  13-5_ //] >>
+FCT[Erzaehlung, lustige Romanze]
+CMT[Zwischenstrophe des Liedes Z0127]

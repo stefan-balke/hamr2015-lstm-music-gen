@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Faschingslied"
+    RAU RAU ROMMELSDOEPPEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1276  08  A 2/4]
+MEL[1-71-7  1-5-5-5
+    1-71-7  1-5-5-5
+    -6-71_  -6-71_
+    3b21-7  -5-71_
+    -6-71_  -6-71_
+    3b213b  2-71_ //] >>
+FCT[Natur und Welt, Brauchtums - Lied, Fastnahct]

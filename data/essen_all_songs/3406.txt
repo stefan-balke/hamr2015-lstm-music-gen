@@ -1,0 +1,11 @@
+F[ERK2
+CUT[ES WAREN DREI TAMBORN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dill - Kreis; Wetzlar]
+KEY[E0852  16  G 2/4]
+MEL[-5_  1_3_3_3_  3__.
+    5_  5_5_4_3_  5__4_
+    3_  5_2_2_2_  2__.
+    6_  6_6_5_4_  5__3_
+    33  3_333_33  3_3_3_
+    3_  3_3_2_3_  5__4__  3__0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

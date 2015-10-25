@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Ein Jaeger ging spazieren,]
+CNR[ein Jaeger ging spazieren,]
+REG[Osteuropa, Tschechoslowakei, Sudetenland]
+SRC[7, S. 220
+    1943 gedruckt in Kassel]
+KEY[Q0152S 04  G 4/4]
+MEL[-5  3353  2_4
+    -5  4464  3_5
+    1  6_66  5_3
+    5  5465  3_0 //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Zugehoerigkeit zu dieser Balladengruppe ungeklaert.]

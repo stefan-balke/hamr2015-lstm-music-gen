@@ -1,0 +1,9 @@
+F[ERK3
+CUT[KIMMT A VOGERL GEFLOGEN]
+REG[Europa, Mitteleuropa, Nieder - Oesterreich]
+KEY[E1051  08  G 3/4]
+MEL[34  5_3_3_  3_2_
+    23  4_2_22  3_0_
+    34  5_3_3_  3_2_
+    23  4_-7_-7_  1__ //] >>
+FCT[Tanz - Lied]

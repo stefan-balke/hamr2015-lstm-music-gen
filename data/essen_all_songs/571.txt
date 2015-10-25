@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[NUN LAT'T UNS SING'N DAT ABENDLIED, DENN WIE MOETEN GAHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0155  16  G 2/4]
+MEL[-5_  1_2_3_4_  5_5_5_3_  4_345_3_  1__.
+    -5_  1_2_3_4_  5_5_5_3_  4_345_3_  1__.
+    3_  4_4_4_2_  3__3_1_  2_345_3_  1__0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

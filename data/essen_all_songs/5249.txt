@@ -1,0 +1,12 @@
+BOEHME
+CUT[RUHIG IST DES TODES SCHLUMMER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0775  08  F 3/4]
+MEL[  3__2_  2_1_1_  5__4_  4_3_3_
+    +1_7_6_  5_4_35  5_4_3_  2__.
+    3__2_  2_1_1_  5__4_  4_3_3_
+    +1_7_6_  5_4_35  5_4_3_  2__.
+    2__3_  4_3_2_  3__5_  +1__0_
+    5__7_  +2_7_54  3__5_  +1__0_
+    6__7_  +1__4_  3__2_  1__0_ //] >>
+FCT[Trost - Lied, Tod, religioes]

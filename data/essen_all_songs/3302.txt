@@ -1,0 +1,11 @@
+F[ERK2
+CUT[EINST WAR ICH SO GLUECKLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0737A 08  C 3/4]
+MEL[12  3_3_.3  234_
+    23  4_.56_  5__
+    34  5_.365  542_
+    5_  7_.654  3__
+    34  5_.365  542_
+    5_  7_.654  3__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

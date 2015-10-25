@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es wollt ein Maedel grasen,]
+CNR[nach Grase wollt' sie gehn,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[7, S. 152
+    1842 gedruckt in Leipzig]
+KEY[Q0149Q 08  A 3/4]
+MEL[1_  -7-6-5_1_  -7-6-5_
+    1_  -7-5-6_2_  1__
+    -5_  135_56  542_
+    24  4331-72  211-7
+    1_  -7-5-6_2_  1__ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

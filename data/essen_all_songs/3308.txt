@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ICH FAHR DAHIN WANN ES MUSS SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0741  04  F 3/4]
+MEL[-7  1_1  -5_4  3_2  1_
+    1  -7_1  2_-5  -7_-6  -5_
+    -5  1_2  3_2  4_3  1_
+    1  3_4  5_6  5_3  1_
+    2  1-71  4_3  132  1_ //] >>
+FCT[Abschieds - Lied, Liebe]

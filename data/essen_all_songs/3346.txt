@@ -1,0 +1,9 @@
+F[ERK2
+CUT[NUN ADE MEIN SCHOENES LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Gransee, Roennebeck]
+KEY[E0781  08  G 4/4]
+MEL[  3_.43_2_  1_.21_-7_
+    4_.53_5_  2_5_3_0_
+    3_.45_.5  4_453_3_
+    2_234_.2  2_231_0_ //] >>
+FCT[Abschieds - Lied, Liebe]

@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es ging ein Maedchen gras schneiden,]
+CNR[gras schneiden wollt sie gehn;]
+REG[Osteuropa, Polen, Galizien, Mikulsdorf]
+SRC[7, S. 148
+    1940 aufgezeichnet]
+KEY[Q0149E 08  G 6/8]
+MEL[-5  1_1123b  2_.-5_
+    -5  1_12_3b  5_.0_
+    -5  1_1123b  2_.-5_
+    -5  1_12_3b  5_.0_
+    -5  5_6b5_4  3b_.5_
+    3b  2_43b_2  1_.0_
+    -5  5_6b5_4  3b_.5_
+    3b  2_43b_2  1_.0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

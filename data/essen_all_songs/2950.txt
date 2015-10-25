@@ -1,0 +1,9 @@
+F[ERK1
+CUT[DA DRUNTEN IN JENEM THALE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0419  16  G 6/8]
+MEL[-5_  1_.-71_2_1_2_  3__2_1__
+    12  3_.45_5_4_3_  2__.0__
+    4_  3_4_5_5_4_3_  4_.56_5__
+    4_  3_2_1_2_1_2_  1__.0__ //] >>
+FCT[Liebes - Lied, Abschied]

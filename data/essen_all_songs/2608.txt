@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES LIEGT EIN HAUS IM OBERLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0062B 16  F 4/4]
+MEL[1__  1__2__3__4__  5__5__1__
+    2__  3__6__5__1__  ^__.-7-6-7__1__  -6___-5___  0___.
+    5__  5__5__6__5__  5__4__3__
+    6__  5__2__3__1__  -7__1__
+    2__3__  3__2_1_2___  1___. //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

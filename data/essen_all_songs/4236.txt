@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ALLES WAS IN LUEFTEN SCHWEBET]
+REG[Europa, Mitteleuropa, Deutschland, Altenburg]
+KEY[E1781  16  F 3/4]
+MEL[1_2_  3__3__4_4_  7__5__
+    +1_6_  5__.4_3_1_  2___
+    1_3_  5__.4_3_1_  3__2__
+    1_3_  5__.4_3_1_  3__2__0__
+    5_5_+1_6_6_5_  5_5_+1_6_6_5_
+    6_543__(5_4_2_)  2__1__ //] >>
+FCT[Scherz - Lied]

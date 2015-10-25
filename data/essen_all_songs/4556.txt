@@ -1,0 +1,7 @@
+ALTDEU
+CUT[Der Bauer ins Holz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0472D 02  F FREI]
+MEL[6__3__5_4_  6__3__5_4_  35432__5__5__4__4__3312_21__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Locheimer Liederbuch 1452 S. 91 der Hs.]

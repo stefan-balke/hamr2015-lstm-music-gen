@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Kind, wo bist du hingewesen?]
+CNR[Kind, sage es mir!]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen]
+SRC[4, S. 210
+    1936 gedruckt in Leipzig]
+KEY[Q0079R 08  G 3/4]
+MEL[-5-5  1_1_24  3_1_
+    3_  2_.1-72  1_0_
+    -5_  1_1_24  321_
+    3_  2_.1-7_  1_0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite und vierte Zeile = Refrain.]

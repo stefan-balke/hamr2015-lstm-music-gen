@@ -1,0 +1,10 @@
+F[ERK1
+CUT[CHRISTINCHEN GIENG INN GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Corvey]
+KEY[E0002C 16 Eb 4/4]
+MEL[1_3_  5__.4_3__6__  5_.43__0__
+    1_3_  5__.4_3__6__  5_.43__0__
+    1_2_  3__1__1__3__  5__2_2_2__
+    2__  3__1__1__3__  5__2_3_1__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[SONNENGLANZ MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0441  08  G 3/4]
+MEL[  -5_1_3_  6_.55_
+    3_1_3_  5_.44_
+    -5_-7_2_  7_.65_
+    4_6_5_  3__. //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[SONNENGLANZ MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0441  08  G 3/4]
+MEL[  -5_1_3_  6_.55_
+    3_1_3_  5_.44_
+    -5_-7_2_  7_.65_
+    4_6_5_  3__. //] >>
+FCT[Liebes - Lied, Liebes - Lust]

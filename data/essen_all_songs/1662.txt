@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Vater unser der du bist]
+CNR[Kyrieleison!]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 210
+    1545 gedruckt in Leipzig]
+KEY[Q1079K 08  G FREI]
+MEL[1__2_-7b_1_  3b_4_2__
+    3b_4_5__  4_3b_2_0
+    2  4_2_3b_1_  3b_4_2__
+    1_1_-5__
+    -5_  -7b_1_2_21  3b_4_5_0
+    43b_3b3b43b23b  1_-7_1__ //] >>
+FCT[geistlich, Gebet]
+CMT[Melodievergleich zu Q0079A, anderes Lied. Kontrafaktur ?]

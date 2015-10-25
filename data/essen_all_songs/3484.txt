@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ZU MAIEN DIE VOEGELCHEN SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn, Kessenich]
+KEY[E0960  08  A 3/8]
+MEL[5  545  3b45  44-7b  3b3b
+    5  545  3b45  44-7b  3b3b
+    2  112  3b3b2  1_-7  11
+    2  112  3b3b2  1_-7  11 //] >>
+FCT[Tanz - Lied, Reigen, Mai - Tanz]

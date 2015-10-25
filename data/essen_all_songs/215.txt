@@ -1,0 +1,26 @@
+BOEHME
+CUT[DAS WAREN MIR SELIGE TAGE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0253  08  C 4/4]
+MEL[-5_  -53211-7-6-5  -5_.11_.
+    -5  3_211-7-6-5  -5_.11_
+    3_  31111_23  2__0_
+    2_  2-7-5-3-2_-3-4#  -5__0_
+    2_  2-7-7-7-7-5-5-5  -531__
+    1_  2-7-7-7-7-5-5-5  -531__
+    -5_  1_111_23  2__3_
+    21  1-7-6-5-5_-6-7  1__0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht]
+BOEHME
+CUT[DAS WAREN MIR SELIGE TAGE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0253  08  C 4/4]
+MEL[-5_  -53211-7-6-5  -5_.11_.
+    -5  3_211-7-6-5  -5_.11_
+    3_  31111_23  2__0_
+    2_  2-7-5-3-2_-3-4#  -5__0_
+    2_  2-7-7-7-7-5-5-5  -531__
+    1_  2-7-7-7-7-5-5-5  -531__
+    -5_  1_111_23  2__3_
+    21  1-7-6-5-5_-6-7  1__0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht]

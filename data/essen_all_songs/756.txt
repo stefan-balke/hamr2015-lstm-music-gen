@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Elftausend"
+    ES STANDEN VIEL DER SCHIFFE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1021  08  G 4/4]
+MEL[1_  1_5_543b_  2_2_0_
+    2_  3b45_543b_  2__0_
+    1_  5_5_7b654#  5__4_
+    2_  5_5_7b654#  5__43b
+    2_  3b_215_5_  1__0_ //] >>
+FCT[Romanze, Ballade, Tod, geistlich, Sage (Hl. Ursula)]

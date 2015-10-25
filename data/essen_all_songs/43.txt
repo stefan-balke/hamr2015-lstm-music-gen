@@ -1,0 +1,18 @@
+BOEHME
+CUT[WER IST EIN MANN WER BETEN KANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0052  16 Bb 4/4]
+MEL[  -1__-1_.-3-5__1__  4__1__-6__.
+    2_  -7__-5__1__1__  -7___.
+    -7__  3__.2_1__3__  5__.4_3__
+    2__  1__1_.23__2__  1___.0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[WER IST EIN MANN WER BETEN KANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0052  16 Bb 4/4]
+MEL[  -1__-1_.-3-5__1__  4__1__-6__.
+    2_  -7__-5__1__1__  -7___.
+    -7__  3__.2_1__3__  5__.4_3__
+    2__  1__1_.23__2__  1___.0__ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

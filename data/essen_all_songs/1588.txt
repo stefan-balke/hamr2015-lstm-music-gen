@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt' ein Pfalzgraf wohl an dem Rhein,]
+CNR[er hatte drei schoene Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Kr. Balingen, Eyach]
+SRC[4, S. 69
+    1925 aufgezeichnet]
+KEY[Q0075A 16  C 3/4]
+MEL[5_6_5_  3__1_1_3_3_  2__0_
+    7_777_  4__4__6_6_  5__0_
+    5_6_7_  +1__5_5_7_7_  6__0_
+    6_666_  5__5__4_5_  3__0_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Tanz - Anweisung abgedruckt.]

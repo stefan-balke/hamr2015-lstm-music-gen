@@ -1,0 +1,11 @@
+F[ERK2
+CUT[HERZIGS MARIANDEL]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0621  08  G 3/4]
+MEL[  1_1234  5_3_
+    3_  4_2_2_  3__0_
+    1_1234  5_3_
+    3_  4_2_2_  3__0_
+    3_3_3_  2_2_2_  1_1_1_  -5_-5_-5_
+    1__2_  3__0_  1_.232  1__0_ //] >>
+FCT[Liebes - Lied]

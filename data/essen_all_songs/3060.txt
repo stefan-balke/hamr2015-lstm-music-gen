@@ -1,0 +1,9 @@
+F[ERK1
+CUT[WILT DU MEI SEI]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0539  08  F 3/4]
+MEL[+16  655_42  211_
+    32  1_4_6_  5_0_
+    +16  655_42  211_
+    53  23421-7  1_0_ //] >>
+FCT[Liebes - Lied]

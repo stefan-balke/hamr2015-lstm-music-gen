@@ -1,0 +1,14 @@
+DVA
+CUT[Haensje klein geht allein
+    in de Ruett'gweiler Sportverein]
+REG[Europa, Mitteleuropa, Deutschland, Ottweiler, Welschbach]
+KEY[D1021  16  D 2/4]
+MEL[5_3_3__  4_2_2__
+    1_2_3_44  5_5_5_0_
+    5_333_03  4_222_0_
+    1_2_3_4_  5_5_5_0_
+    3_3_3_3_  6_5_5_0_
+    3_3_3_3_  3_5_5_0_
+    3_3_3_3_  6_3_3_0_ //] >>
+FCT[Kinder -, Scherz -, Neck - Lied]
+CMT[DVA-Signatur A 126 662]

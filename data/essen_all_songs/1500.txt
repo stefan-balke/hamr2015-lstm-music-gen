@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Ich hoer mir ein Sichelein rauschen,]
+CNR[Es rauscht wohl durch das Korn.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[7, S. 150
+    1926 gedruckt in Heidelberg]
+KEY[Q1149M 08  G 6/8]
+MEL[1  11123b4  5_.2_
+    2  5_5543b  2_.0_
+    5  4_23b21  4_.5_
+    1  123b53b2  1_.0_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0149K u.a., anderes Lied.]

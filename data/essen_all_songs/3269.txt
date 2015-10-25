@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH BIN SO MANCHEN WEG GEGANGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Dreieichenhain]
+KEY[E0715  16  F 3/4]
+MEL[-5_1_2_  3__.3_4_.3  3_2_2_
+    1_-7_2_  4__.5_4_2_  2_3_3_
+    -5_1_3_  5__.5_6_5_  2__.
+    1_-7_2_  5__6_5_4_-7_  1__. //] >>
+FCT[Liebes - Lied, Leid, Klage]

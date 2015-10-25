@@ -1,0 +1,9 @@
+BOEHME
+CUT[SCHLAFE KINDLEIN HOLD UND SUESS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0621  16  G 3/4]
+MEL[  1__.2_3_4_  6_5_3___
+    5_4_2__.2_  4_3_1__0__
+    5_4_2__.4_  6_5_3__0__
+    5__.3_4_2_  54322__1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ICH WOLLT EIN BAEUMLEIN STEIGEN]
+REG[Europa, Mitteleuropa, Deutschland, Harz; Hannover]
+KEY[E0527  08  A 4/4]
+MEL[1_  -5_-5_-5_1_  -6__-6_
+    1_  -7_1_2_-7_  1__0_
+    12  3_3_3_43  2_2_2_
+    2_  1_1_1_21  -7_-7-6-5_
+    -5_  1_1_2_2_  3_.45_
+    4_  3_3_2_2_  1__0_ //] >>
+FCT[Liebes - Lied]

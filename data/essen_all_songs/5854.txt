@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Albas Vertreibung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0309B 08  F 6/8]
+MEL[1  1_13_3  5_53_
+    3  5_53_4  5_.5_
+    1  1_13_3  5_53_
+    3  5_53_4  5_.5_
+    5  5_55_4  3_32_
+    2  3_1-7_-7  -6_-71_2  3_.2_.  1_.0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Willems 1848 No. 36.]

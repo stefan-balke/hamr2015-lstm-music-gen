@@ -1,0 +1,11 @@
+KINDER
+CUT[TING TANG TRALLALA WER IST IN MEINEM THORE]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2138  08  G 2/4 4/4]
+MEL[  5_6_  511
+    1  5566  5_3
+    1  5516  531_
+    5_6_  5__
+    5_5_3__  5_5_3__  5_5_3__
+    5_5_6_6_  5_5_3__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

@@ -1,0 +1,13 @@
+KINDER
+CUT[ES TANZT EIN BI BA BUTZEMANN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Hessen]
+KEY[K0439  16  G 2/4]
+MEL[-5_  1__3__  5__+1__  6_.66_
+    6_  5_4_3_2_  1_3_5_
+    -5_  1__3__  5__+1__  6_.66_
+    6_  5_4_3_2_  1__0_
+    3_  2_3_4_2_  3_4_5_
+    3_  2_3_4_2_  3_4_5_
+    -5_  1__3__  5__+1__  6_.66_
+    6_  5_4_3_2_  1__0_ //] >>
+FCT[Kinder - Lied, Lehre, Strafe, Zucht - Reim]

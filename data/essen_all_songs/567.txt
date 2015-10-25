@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ALS DIE JUDN DEN HERRN CHRISTUM GEFANGN GENOMMN GEHABT]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z0151  16  F 6/8]
+MEL[-5-5  1_1_113_2_11  -72-5__0__
+    -5_  1_1_1_3_2_1_  5__0__.
+    3_  4_4_4_6_5_4_  351__0__
+    3_  2_3_4_-5_-6_-7_  1__0__. //] >>
+FCT[Erzaehlung, lustige Romanze]

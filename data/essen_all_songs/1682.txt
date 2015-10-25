@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Dai scheane Greatle af huach'n Parglein,]
+CNR[af huach'n Parglein, in a naien Haeushlein.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[4, S. 225
+    ????]
+KEY[Q1080F 08  F 3/4]
+MEL[1_  3_1_3_  5__24  6_5_4_  3__
+    3_  5_5_4_  3__11  4_3_2_  1__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0080, anderes Lied "Scheane Greatle" .]

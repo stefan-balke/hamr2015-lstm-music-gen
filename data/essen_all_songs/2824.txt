@@ -1,0 +1,10 @@
+F[ERK1
+CUT[SOLDAT KAM AUS DEM KRIEGE]
+REG[Europa, Mitteleuropa, Deutschland, Oldenburg]
+KEY[E0191  08  G 6/8]
+MEL[-5  1_1321  2_5542  3_.0_
+    -5  1_1321  2_5542  3_.0_
+    3  3_1123  5_44_
+    4  4_2234  6_55_4  35
+    3242  1_.6_.  5_5542  1_.0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

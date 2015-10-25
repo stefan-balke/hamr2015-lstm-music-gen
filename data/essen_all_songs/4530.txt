@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Liebesjagd (Jaeger und Nonne)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0439  04  D 4/2 6/2]
+MEL[5_  5_5_7b_7b_  +1__5_
+    +1_  +2__+1_7b_6__  5__0_
+    +1_  7b_5_5_3b_  5__7b_
+    7b_  7b_5_5_3b_  1__3b_
+    3b_  3b_4_3b_2_  1__
+    5__  5_.43b_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Hs. des 15. Jh. Mitgetheilt in None, Anzeiger IV, 454. Die
+    Melodie das. VI. Jg Beil. II No. 4.]

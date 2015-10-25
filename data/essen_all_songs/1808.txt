@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es war einmal ein Fleischersmann]
+CNR[bei Kolberg an dem Rheine,]
+REG[Osteuropa, Polen, Mittelpolen, Kr. Nessau, Gross Rudzk]
+SRC[6, S. 108
+    1940 aufgezeichnet (vor)]
+KEY[Q0127I 16  G 6/8]
+MEL[3_  5__3_5__5_  4__4_4__
+    4_  3__3_5_.43_  2__.1__
+    3_  4__3_2_2_1_  4__3_2__
+    5_  6_.54_3__3_  2__.1__
+    3_  4__3_2_2_1_  4__3_2__
+    5_  6_.54_3__3_  2__.1__ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

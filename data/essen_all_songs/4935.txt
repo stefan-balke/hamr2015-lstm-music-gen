@@ -1,0 +1,11 @@
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Lieben Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg, Tiefenbach]
+KEY[D1007  08  G 4/4]
+MEL[32  1_.11114  4_0__
+    -5-7  1_.21265  3_0__
+    12  3_.54321  -6_0_.
+    -4-3-2  -5-6-726_5_  3_0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 37 192]

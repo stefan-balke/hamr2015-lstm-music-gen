@@ -1,0 +1,22 @@
+BOEHME
+CUT[LASST UNS IHR BRUEDER WEISHEIT ERHOEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0298  08  G 3/4]
+MEL[  1_3_53  2_-7_-5_
+    1_3153  2__0_
+    4_4_4_  3_.21_
+    2_1_-7_  12345_
+    6_6_6_  5_.43_
+    543_2_  1__0_ //] >>
+FCT[Stimmungs - Lied, Freude, Freundschaft, Freimaurer - Gesang]
+BOEHME
+CUT[LASST UNS IHR BRUEDER WEISHEIT ERHOEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0298  08  G 3/4]
+MEL[  1_3_53  2_-7_-5_
+    1_3153  2__0_
+    4_4_4_  3_.21_
+    2_1_-7_  12345_
+    6_6_6_  5_.43_
+    543_2_  1__0_ //] >>
+FCT[Stimmungs - Lied, Freude, Freundschaft, Freimaurer - Gesang]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollte ein Jaeger frueh jagen]
+CNR[dreiviertel Stunde vor Tage,]
+REG[Osteuropa, UdSSR, Krim, Neusatz]
+SRC[7, S. 187
+    1927 aufgezeichnet]
+KEY[Q0152C 08  G 3/4]
+MEL[13  5_.+154  3_.235  543_53  2_0_
+    13  5_.+154  3_.235  543_53  2_0_
+    55  3_5_2_  2_6542  1_+1_65  +1_0_
+    55  3_5_1_  2_6542  1_0_ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Grundton in der kleinen Oktave.]

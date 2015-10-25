@@ -1,0 +1,13 @@
+DVA
+CUT[Ich will dir mein Schicksal erzaehlen,
+    wie mir's in der Fremde erging]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[D0230  08  C 4/4]
+MEL[   5_  1_356_54#  6_5_0_
+    5_  1_356_5+1  7__0_
+    55  3_5+1+3_+2+1  +1_6_0_
+    +2+2  +1_5+17_67  +1__0_
+    55  3_5+1+3_+2+1  +1+4+4_0_
+    +2+2  +1_5+17_67  +1__0_ //] >>
+FCT[Staende - Lied, Dirne]
+CMT[moduliert in die Dominanttonart; Inzipit = Variante zum Lied]

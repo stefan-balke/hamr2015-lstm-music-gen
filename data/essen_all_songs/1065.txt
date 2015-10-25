@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Polterabend"
+    SCHENK EIN EIN VOLLES GLAS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1331  16  C 3/4]
+MEL[-5_-5_-6-7  1__2__-6_-7_  1__0_
+    -5_-5_-6-7  1__2__-6_-7_  1__0_
+    123_1_  -7_.12_2_321-7  -6_.-71_2_2_2_  -5__0_
+    123_1_  -7_.12_2_321-7  -6_.-71_1_2_-7_  1__0_ //] >>
+FCT[Zech -, Schalks - Lied]

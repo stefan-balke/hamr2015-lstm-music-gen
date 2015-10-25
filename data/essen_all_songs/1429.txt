@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es wollt' ein Herr und seine Frau,]
+CNR[es wollt' ein Herr und seine Frau,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Korkwitz]
+SRC[3, S. 262
+    1844 aufgezeichnet (vor)]
+KEY[Q0068Q 08  G 4/4]
+MEL[12  3__2__  1_1_2_2_  3__0_
+    12  3__2__  1_1_2_2_  3__0_
+    1_  3_3_5_3_  2_2_4_
+    2_  1_1_1_5_  3__2__  1__0_ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]
+CMT[Eingeklammerte Note kodiert.]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Geburt im Walde
+    Bie vrie ischt auf schianai Gerizo!]
+CNR[Bie vrie ischt auf schianai Gerizo!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Verdreng]
+SRC[1, S. 63
+    1907 aufgezeichnet]
+KEY[Q0007B 08  C 2/2 4/2]
+MEL[-5_  1_1_3_33  1__2__3__0_
+    1_  2_2_3_33  1__2__1__0_ //] >>
+FCT[Ballade, Geburt, Tod, Moral]
+CMT[Grundton in der zweigestrichenen Oktave]

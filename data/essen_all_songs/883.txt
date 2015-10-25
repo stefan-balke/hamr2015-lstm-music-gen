@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Trauer"
+    ACH IN TRAUERN MUSS ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1148  04 Eb 3/4]
+MEL[  135  535  654  433
+    135  535  654  3_0
+    6+16  543  464  433
+    6+16  5+13  65-7  1_0 //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

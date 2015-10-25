@@ -1,0 +1,20 @@
+BOEHME
+CUT[HEIDA DIE LIEBE MAIENZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0208  16  F 2/4]
+MEL[  5_556_6_  5_4_3_
+    1_  5_5_6_6_  5_4_3_0_
+    5_5_444_  3_3_2__
+    5_5_4_4_  3_332__
+    5_4_3_1_  1__1_0_ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[HEIDA DIE LIEBE MAIENZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0208  16  F 2/4]
+MEL[  5_556_6_  5_4_3_
+    1_  5_5_6_6_  5_4_3_0_
+    5_5_444_  3_3_2__
+    5_5_4_4_  3_332__
+    5_4_3_1_  1__1_0_ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

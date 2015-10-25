@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[DAS MAEDLEIN WILL EIN'N FREIER HAB'N]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[Z0236  08  D 6/8]
+MEL[5  +1_+1+1_+1  7_65_
+    3  6_66_6  5_43_
+    2  3_.4#_.  6_.5_ //] >>
+FCT[Erzaehlung, lustige Romanze, Hochzeits -, Ehestands - Lied]
+CMT[modulierend]

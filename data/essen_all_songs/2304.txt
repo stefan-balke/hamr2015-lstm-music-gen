@@ -1,0 +1,11 @@
+FINK
+CUT[JA LUSTIG BIN ICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0769  16  A 6/8]
+MEL[-5_  1__-5_3__1_  2__-5_4__
+    2_  3__1_5_4_3_  2__.0__
+    23  4__2_-7__-5_  5__3_1__
+    1_  4_.54_3__1_  4__5_6__
+    4_  3_.21_5__5_  5__
+    1_5__.  ^_.43_4_.32_  1__.0__ //] >>
+FCT[Geselligkeits -, Trink - Lied]

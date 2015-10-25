@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Reimlied"
+    EINS ZWEI DREI ALT IST NICHT NEU]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1356  08  F 2/4]
+MEL[1_1_  5__
+    4_2-7  1_0_
+    3_35  5_4_
+    2_24  3_0_
+    1_11  2_4_
+    3532  1_0_ //] >>
+FCT[Kinder - Lied]

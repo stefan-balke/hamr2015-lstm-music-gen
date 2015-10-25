@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Die Rabenmutter"
+    ES HUETET EIN SCHAEFER AN JENEM RAIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1097  08  G 3/4]
+MEL[  5_1_2_  1-71_0_
+    -5_3b_4_  543b_0_
+    5_7b_6b5  5_6b_5_  4__4_  3b_0__
+    5_5_4_  354_0_
+    5_6b_5_  4_5_0_
+    1-71_2_  3b45_43b  2__2_  1_0__ //] >>
+FCT[Romanze, Ballade, Tod]

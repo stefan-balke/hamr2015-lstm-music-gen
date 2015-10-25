@@ -1,0 +1,12 @@
+FINK
+CUT[ICH UND MEIN JUNGES WEIB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0160  16  A 3/8 2/4]
+MEL[  -511_-5_  -533-5-5_
+    -511_-5_  -531__
+    -511_-5_  -533-5-5_
+    -511_-5_  -531__
+    5_-5-5-5_  -5_-6-4#-5_
+    5_-5_-5_  -5_-6-4#-5_
+    1_-5_2_-5_  3_4_2_  1__0_ //] >>
+FCT[Bettler - Lied]

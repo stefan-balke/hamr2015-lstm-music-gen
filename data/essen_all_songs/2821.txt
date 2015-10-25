@@ -1,0 +1,9 @@
+F[ERK1
+CUT[KIND WO BIST DU HIN GEWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Bueckeburg]
+KEY[E0190  08  F 3/4]
+MEL[-5-5  1_1_24  3_1_
+    3_  2_.1-72  1_0_
+    -5_  1_1_22  3_1_
+    3_  2_.1-7_  1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

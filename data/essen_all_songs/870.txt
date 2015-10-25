@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Abschied"
+    VERLASSEN HAB ICH DEN HEIMATHORT]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1135  16  G 2/4]
+MEL[-5_  3__2_2_  1_1_-7_
+    -5_  1_1_3212  3__0_
+    -5_  3__2_2_  1_1_-7_
+    -5_  1_1_3212  3__0_
+    12  3_3_4_3_  3_2_2_
+    2_  1_1_2_1_  1_-7_-7_
+    -6-7  1_1_2_2_  3__4_
+    3_  2___  1__0_ //] >>
+FCT[Vaterland und Wehr]

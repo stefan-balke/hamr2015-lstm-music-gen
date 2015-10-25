@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Maria's Kirchgang "
+    MARIA WOLLT ZUR KIRCHE GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1019  16  A 3/4]
+MEL[-5__  1_.23__2_4_  3_2_1__0_
+    -5_  1_.23__2_4_  3_2_1__0_
+    2_  -5_-7_1_-6_2_3_  1_-7_-6__0_
+    2_  -5_-7_1_-6_2_3_  1_-7_-6__ //] >>
+FCT[Romanze, Ballade, Maria, Tod, geistlich]

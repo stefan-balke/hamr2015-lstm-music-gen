@@ -1,0 +1,17 @@
+F[ERK3
+CUT[WENN MIRS DER HERR NICHT FUER UNGUT]
+REG[Europa, Mitteleuropa, Deutschland, Schwedt a.d. Oder]
+KEY[E1064A 16  G 2/4]
+MEL[  1__1_2_  3__5_
+    3_  2__2_2_  1__-5_
+    -5_  3_.23_4_  5__+1_
+    5_  4__4__  3__0_
+    1_  5_.55_5_  6__6_
+    5_  4_.34_6_  5__.
+    4_  3_.13_5_  5_.43_
+    2_  3__2__  1__0_
+    1_  5_.55_5_  6__6_
+    5_  4_.34_6_  5__.
+    4_  3_.13_5_  5_.43_
+    2_  3__2__  1__0__ //] >>
+FCT[Raetsel - Lied]

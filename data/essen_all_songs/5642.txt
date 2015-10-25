@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Laemmerweide]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0056A 04  D 4/2 6/2]
+MEL[1_1_1_  5__6_7b_6__  5__0_
+    +1_  +1__+1_+1_+1_+1_  7b_5_3b456  7b__0_
+    5_  6b_5_4_3_  1__-7b__0_
+    7b_  7b_7b_6_7b_  +1__5__0_
+    +1_  7b_7b_5_3b__2_  3b_.45_5__43b  2__1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie in Souterliedekens 1540 ad Ps. 141.]

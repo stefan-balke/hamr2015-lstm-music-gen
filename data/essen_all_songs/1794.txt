@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Das mannstolle Maedchen
+    Brau's Medchen auf dere Laden sas,]
+CNR[hadd schrait und waint so sehr:]
+REG[Mitteleuropa, Luxemburg]
+SRC[6, S. 83
+    1894 gedruckt in Leipzig]
+KEY[Q0126A 08  G 2/4]
+MEL[-5_  1_.-7  1_23  1_1-7  1_
+    4_  3_23  1_3_  2__  0_
+    23  4_.3  2342  3_.1  2_0_
+    3_21  -7-6-5-6  -7_
+    1_  -7-6-5-6  -7_ //] >>
+FCT[Ballade, Werbung, Betrug]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[EIN GETREUES HERZ ZU WISSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0300  08  C 4/4]
+MEL[1_3_  5_.32345  433_
+    5_5_  +1_.76543  2__
+    5_7_  +2_.767+1+2  +177_
+    2_5_  3_+1_7_6_  5__
+    5_5_  +1_5_6_6_  5__
+    3_5_  +1_+3_+2_.7  +1__ //] >>
+FCT[Stimmungs - Lied, Freude, Freundschaft, Treue]
+BOEHME
+CUT[EIN GETREUES HERZ ZU WISSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0300  08  C 4/4]
+MEL[1_3_  5_.32345  433_
+    5_5_  +1_.76543  2__
+    5_7_  +2_.767+1+2  +177_
+    2_5_  3_+1_7_6_  5__
+    5_5_  +1_5_6_6_  5__
+    3_5_  +1_+3_+2_.7  +1__ //] >>
+FCT[Stimmungs - Lied, Freude, Freundschaft, Treue]

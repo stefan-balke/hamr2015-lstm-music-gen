@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ACH WAS WIRD MEIN SCHAETZCHEN DENKEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober- Hessen; Westfalen; Rheinland]
+KEY[E0514  08  G 4/4]
+MEL[  1_321_-5_  3_543_3_
+    2_.12_54  3_2_1__
+    1_321__  3_543__
+    2_.12_54  3_2_1__ //] >>
+FCT[Liebes - Lied]

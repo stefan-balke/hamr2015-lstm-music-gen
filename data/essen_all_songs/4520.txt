@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Reiterlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0427  04  G 6/2]
+MEL[1_  3b__2_3b__4_  5__.1__
+    +1_  7b__654#__5_  7b_6__5__
+    1_  3b__2_3b__4_  5__.1__
+    +1_  7b__654#__5_  7b_6__5__
+    4_  5__6b_7b__+1_  7b__5_3b_4__  3b__
+    4_5__3b_  4_2__1__
+    1_  5__3b_.23b_4_  5__5_
+    5__4_  5__6_7b__
+    +2_  +1__7b65__4#_  5__6_
+    7b_+1_6_  5___0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Peter Schoeffer 1513 No. 55.]

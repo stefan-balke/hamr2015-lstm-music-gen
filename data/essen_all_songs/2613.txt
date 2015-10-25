@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES STOT EIN LIND IM HIMMELREICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0067A 08  C 4/4]
+MEL[1_  3_5_5_6_  +1_75656_  5__0_
+    5_  6_+1_7_.6  5_.43_
+    5_  5_3_2_1_  1__0_
+    1_  3_5_5_6_  +1_75656_  5__0_
+    5_  6_+1_7_.6  5_.43_
+    5_  5_3_2_1_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

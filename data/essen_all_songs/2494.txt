@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES VERLIEBTE SICH EIN WILDER WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+KEY[E0001I 08  A 4/4]
+MEL[-5-5  11-5-51_2_  3_321_0_
+    3_.45_5_  544_3_
+    13  555_4_42  131_-5_
+    -5_  -6-6-6_-5_-7_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

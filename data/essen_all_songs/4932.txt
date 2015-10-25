@@ -1,0 +1,13 @@
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat stiller Liebe Glueck]
+REG[Europa, Mitteleuropa, Schweiz, Kt. Aargau, Wohlen - Zufikon]
+KEY[D1004  16  G 4/4]
+MEL[-5_-5_  3__.2_1_.-71_.2  -5___0__
+    -7_.1  2__.1_-7_2_6_5_  3___0__
+    1_.2  3_5_5__4_.32_1_  -6___0__
+    1_.-6  -5__1__-7_2_6_5_  3___0__
+    1_.2  3_5_5__4_.32_1_  4___0__
+    4_2_  5__.4_-5_4_3_2_  1___0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 24 689]

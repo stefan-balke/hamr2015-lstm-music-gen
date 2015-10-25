@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[GESTERN ABEND GING ICH AUS, GING WOHL IN DEN WALD HINAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0124  08  G 2/4]
+MEL[-5111  -722_  3342  211_
+    5331  1-6-6_  4321  -7-6-5_
+    -5111  -722_  3342  211_ //] >>
+FCT[Erzaehlung, lustige Romanze]

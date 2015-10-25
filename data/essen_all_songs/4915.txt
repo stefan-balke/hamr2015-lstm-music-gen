@@ -1,0 +1,13 @@
+DVA
+CUT[Was soll ich in der Fremde tun,
+    denn es ist ja hier so wunderschoen]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0264  16  F 4/4]
+MEL[ -5__  1__.-7_1__2__  3__.2_1__
+    3_3_  2__5__7__.6_  5___0__
+    3_3_  2__.3_4__6__  6__5__3__
+    5_5_  5__4__2__6_.6  6__5__3__
+    3_3_  2__.3_4__6__  6__5__3__
+    5_+1_  7__.6_5__4__  3___0__ //] >>
+FCT[Heimat - Lied]
+CMT[Inzipit = Transposition zum Lied]

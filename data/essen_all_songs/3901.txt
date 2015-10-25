@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WAS HELFEN MIR TAUSEND DUKATEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1321  08  F 6/8]
+MEL[-5  1-51313  5_+164
+    2  53142-7  1_.0_
+    -5  1-51313  5_+164
+    2  53142-7  1_.0_
+    5  522212  3_.0_
+    5  522212  3_.0_
+    -5  1-51313  5_+164
+    2  53142-7  1_.0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

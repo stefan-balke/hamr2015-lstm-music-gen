@@ -1,0 +1,30 @@
+BOEHME
+CUT[ICH UND MEIN FLAESCHCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0344  08  F 6/8 3/4]
+MEL[  333333  3235_4
+    222222  2123_0
+    333333  3235_4
+    222222  2123_0
+    3345_3  4_235+1
+    3345_3  4_23_0
+    2_2_.5  54#4#__
+    +1__4#4#  655_.4
+    3345_3  4_235+1
+    334553  4321_0 //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[ICH UND MEIN FLAESCHCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0344  08  F 6/8 3/4]
+MEL[  333333  3235_4
+    222222  2123_0
+    333333  3235_4
+    222222  2123_0
+    3345_3  4_235+1
+    3345_3  4_23_0
+    2_2_.5  54#4#__
+    +1__4#4#  655_.4
+    3345_3  4_235+1
+    334553  4321_0 //] >>
+FCT[Trink - Lied]

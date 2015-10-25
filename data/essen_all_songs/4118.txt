@@ -1,0 +1,15 @@
+F[ERK3
+CUT[UND DO ICH SASS IN MEINER ZELL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1584  04  F 4/4]
+MEL[1  1_3_  5_0
+    5  6554  3_0
+    3  3333  4_3
+    2  3221  2_0
+    2  -6-6-7_  1_0
+    1  3333  1_0
+    1  4444  4_3
+    2  3321  2_0
+    2  -6-6-7-7  1_1
+    1  3342  1_. //] >>
+FCT[Staende - Lied, Bettel - Moench]

@@ -1,0 +1,7 @@
+ALTDEU
+CUT[Der Benzenauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0381C 02  F 4/2 6/2]
+MEL[+1  7675  3_1_5_  6_5_.3  4_2__  1_. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Fragment bei Schmeltzel 1544 No. 6]

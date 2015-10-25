@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Liebesentzuecken"
+    MEIN MAEDEL HAT EINEN ROSENMUND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[Z1164  08 Bb 4/4]
+MEL[-5_  1_1_1_21  -7_.-6-5_
+    -5_  -6_-6_1_-7-6  -5_.-4-3_
+    -5_  1_1_2_2_  3_0__
+    12  3_3_3_5_  54432_
+    1_  22222_34  54321_.
+    3  32421_-7_  1_0__ //] >>
+FCT[Liebes - Lied]

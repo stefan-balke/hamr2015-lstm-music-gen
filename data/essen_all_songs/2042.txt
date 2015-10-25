@@ -1,0 +1,11 @@
+FINK
+CUT[SAMMELT EUCH IN TRAUTE REIHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0289  08  C 3/8]
+MEL[  131  -5_-5  131  -5_0
+    1_-5  -6_2  -7-6-7  1_0
+    2_2  3_1  -7_1  2-7-5
+    21#2  3_1  -7_1  2-7-5
+    1_1  3_3  -6_1  4_.
+    432  1_1  12-7  1_0 //] >>
+FCT[Jugend - Lied, patriotisch, Neujahr]

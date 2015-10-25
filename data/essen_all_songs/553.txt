@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[EN GOLDSCHMED SAT IN GOODER ROH]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[Z0137  08  F 2/4 4/4]
+MEL[-5  1111  -7-6-5
+    -5  1_5_  3_1_  22-7
+    -7  11-6-6  -7-7-5
+    -5  -6-6-7-7  1_
+    5_  312-7  1__
+    1__  2__1_1_  -7__1__  2__3__  1__
+    2__  2__3__  4__3_2_  1__2__  3__
+    1__  2__2__  3__2__  1__-7__  -6__
+    2__  3__2__  1__-6_-7_  1__2__  1__ //] >>
+FCT[Erzaehlung, lustige Romanze]

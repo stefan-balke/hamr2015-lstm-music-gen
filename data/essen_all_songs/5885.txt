@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Trink aus!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0341  04  F 4/2]
+MEL[     5__5_1_  555_5_
+    7b_  6_5_4_3_  2__1__
+    5__5_1_  555_5_
+    7b_  6_5_4_3_  2__1__
+    2_3_4_2_  3_2_1_0
+    1  2_3_4_2_  3_2_1__  0__.
+    5_  5__3_5_  5__3_5_  5__5__ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Scandellus 1570 No. 18. Scheinbar eine populaere Melodie.]

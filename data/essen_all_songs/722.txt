@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[SCHATZEL WAS HO ICH DIR LEIDES GETHAN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0305  08  G 3/8]
+MEL[  111  124  3b21  -7b_0
+    3b3b3b  43b4  545  3b_0
+    555  4_4  543b  2_
+    -7  1_2  3b24  2_-7  1_0 //] >>
+FCT[Lyrisches Lied, Romanze, verlassene Liebe]

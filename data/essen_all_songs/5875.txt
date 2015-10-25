@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Zecherlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0331  04  E 4/2]
+MEL[6b_  6b__5__  4__.7b_  7b_.56b_4_  3b__0_
+    3b_  6b__5__  4__1__  3b_3b_2b_2b_  1__0_
+    1_  1__1__  3b__.2b_  1__-7b__  -6b__0_
+    1_  3b_3b_3b__  3b_3b_3b__  4__.4_  4__0_
+    5_  6b_6b_5__  4__1__  3b__2b__  1__. //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Forster II (1540) No. 43]

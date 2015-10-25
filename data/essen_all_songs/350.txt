@@ -1,0 +1,18 @@
+BOEHME
+CUT[DUNKEL IST SCHON JEDES FENSTER]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Brandenburg; Niederrhein]
+KEY[B0412  08  D 4/4]
+MEL[  34345_5_  6567+1_5_
+    5_4_4_3_  2_0__.
+    7_.+2+1_5_  7_.+2+1_5_
+    +1_.65342  1_0__. //] >>
+FCT[Nachtwaechter - Lied, Staendchen]
+BOEHME
+CUT[DUNKEL IST SCHON JEDES FENSTER]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Brandenburg; Niederrhein]
+KEY[B0412  08  D 4/4]
+MEL[  34345_5_  6567+1_5_
+    5_4_4_3_  2_0__.
+    7_.+2+1_5_  7_.+2+1_5_
+    +1_.65342  1_0__. //] >>
+FCT[Nachtwaechter - Lied, Staendchen]

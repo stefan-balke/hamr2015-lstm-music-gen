@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH HABE DEN FRUEHLING GESEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Gransee]
+KEY[E073BC 08  F 4/4]
+MEL[-5_  3_321_65  5_.43_
+    21  -7_225_42  3__0_
+    54  3555+1765  4_6_+1_
+    76  5_556542  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

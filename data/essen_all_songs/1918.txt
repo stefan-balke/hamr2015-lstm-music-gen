@@ -1,0 +1,10 @@
+FINK
+CUT[WEINE NUR NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0095  16  D 3/8]
+MEL[  5__3_  +1__5_  4_4345  3_0__
+    6_5_4_  3__5_  4_4_3_  2_0
+    555  5_2777  7_5_0_  6_5_4#_  5_0_
+    55  5__3_  +1__5_  4_4345  3_0_
+    55  +1__5_  +3__+1_  543_2_  1_0__ //] >>
+FCT[Liebes - Lied, Untreue]

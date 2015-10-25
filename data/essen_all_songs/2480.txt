@@ -1,0 +1,9 @@
+VARIANT
+CUT[Dahaam bo meiner Mutter, do rumplt alles um und um]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Grafengehaig]
+KEY[V0005C 08 Bb 2/4]
+MEL[1  1236  5_3
+    3  5444  655
+    1  1346  5_3
+    3  5442  1_0 //] >>
+FCT[Geselligkeits - Lied, Scherz]

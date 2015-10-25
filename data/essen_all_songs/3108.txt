@@ -1,0 +1,8 @@
+F[ERK1
+CUT[PETERSILJE DU SCHOENES KRAUT]
+REG[Europa, Mitteleuropa, Deutschland, Grafsch. Ruppin, Gransen]
+KEY[E0573A 16  C 2/4]
+MEL[  5_+1_+17+16  5_531_
+    1_  2_243_35  542_1_0
+    3  2_.43_.5  542_1_0_ //] >>
+FCT[Liebes - Lied]

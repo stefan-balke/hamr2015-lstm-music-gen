@@ -1,0 +1,9 @@
+KINDER
+CUT[DER KIRSCHBAUM HAT SEIN LAUB VERLORN]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt]
+KEY[K2119A 08  D 4/4]
+MEL[1_  5_5_6_6_  5_.43_
+    1_  5_5_6_6_  5__3_
+    1_  5_5_6_6_  5_.43_
+    +1+1  5__3_+1+1  5__3_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

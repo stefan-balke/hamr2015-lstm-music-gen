@@ -1,0 +1,19 @@
+ZUCCAL
+CUT["Der Alpjaeger"
+    DIE JAEGER DIE HABN HALT A LEBEN]
+REG[Europa, Mitteleuropa, Tirol]
+KEY[Z1286  08 Eb 3/4]
+MEL[  -1_-1--7-1-2  -3_-3-2-3-4  -6__.  -5__.
+    -53311-5  -422-7-2-7  1__0_
+    -1_-1--7-1-2  -3_-3-2-3-4  -6__.  -5__.
+    -53311-5  -422-7-2-7  1__0_
+    -5_-4-3-4_  -422-7-7-4
+    -6_-5-4-5_  -53311-3
+    -5_-4-3-4_  -422-7-7-5
+    -53312-7  1__0
+    -5  -553_3-5  -531_.
+    -5  -542-72_  -52-7_.
+    -5  -553_.-5  -531_.
+    -5  -542-7-5-7  1__. //] >>
+FCT[Jaeger - Lied]
+CMT[Die letzten 8 Takte werden auf Silben gesungen.]

@@ -1,0 +1,9 @@
+FINK
+CUT[ACH GOTTES SEGEN UEBER DIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0952  08  C 6/8]
+MEL[3  1_-7-6_-5  1_23_
+    1  2_12_1  4_.3_
+    3  2_1-7_1  2_1-7_
+    1  -7_1-7_1  2_.10 //] >>
+FCT[Liebes - Lied]

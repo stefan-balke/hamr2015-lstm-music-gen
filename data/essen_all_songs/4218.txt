@@ -1,0 +1,11 @@
+F[ERK3
+CUT[O MODER DE FINKEN SIND DUD]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Koeln]
+KEY[E1752  16  F 3/8]
+MEL[  5__.  3_.43_  2_.12_  1__0_
+    5__.  3_.43_  2_.12_  1__
+    2_  2_2_2_  2_2_2_  3_5_3_  1_1_
+    1_  2_2_2_  2_2_2_  3_5_3_  1_1_0_
+    5__.  3_.43_  2_.12_  1__0_
+    5__.  3_.43_  2_.12_  1__0_ //] >>
+FCT[Scherz - Lied, Fastnacht]

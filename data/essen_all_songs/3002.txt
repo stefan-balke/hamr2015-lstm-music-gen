@@ -1,0 +1,11 @@
+F[ERK1
+CUT[EIN SCHAEFER TRAEGT SORGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau; Sueddeutschland]
+KEY[E0508  04 Bb 3/4]
+MEL[-5  133  35
+    5  244  35
+    -5  133  35
+    5  244  30
+    3  204  3_
+    3  254  3_ //] >>
+FCT[Liebes - Lied]

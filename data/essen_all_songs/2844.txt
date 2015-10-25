@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH GING WOL IN DIE SCHENKE]
+REG[Europa, Mitteleuropa, Deutschland, Halle, Loebejuen]
+KEY[E0203E 16  G 2/4]
+MEL[-5_  1_.-71_3_  5__3_
+    5_  5_4_2_-7_  1__0_
+    1_  6__6_6_  6_5_5_
+    3_  5__4__  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Todes - Ahnung; betrogene Liebe]
