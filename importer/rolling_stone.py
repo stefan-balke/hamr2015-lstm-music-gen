@@ -66,13 +66,13 @@ class ImporterRollingStone(ImporterBase):
             prev_note_idx_end = -1
             for cur_note in cur_notes:
                 metric_timing = cur_note[1] - int(cur_note[1])
-                #find the closest beat on the beat_grid
+                # find the closest beat on the beat_grid
                 note_idx_start = np.argmin(abs(metric_timing-beat_grid))
                 #if prev_note_idx_end > note_idx_start:
                     #print('bad!')
 
                 note_start_diff = (metric_timing - beat_grid)[note_idx_start]
-                duration = int(cur_note[4] / (1.0 / self.pr_bar_division))
+                duration = int((cur_note[4]+0.01)/ (1.0 / self.pr_bar_division))-1  # round
                 note_idx_end = note_idx_start + duration
                 cur_pitch = cur_note[2]
                 print('curPitch before key-justification and modding: ' + str(cur_pitch))
@@ -87,7 +87,6 @@ class ImporterRollingStone(ImporterBase):
                 prev_note_idx_end = note_idx_end
                 print(lowest_octave)
                 #print(cur_pitch)
-
 
                 # add to piano-roll
                 cur_bar_idx_start = cur_bar*self.pr_bar_division
