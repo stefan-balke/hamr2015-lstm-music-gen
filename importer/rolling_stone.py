@@ -6,16 +6,24 @@ import numpy as np
 import os
 import glob
 from base import ImporterBase
+import settings
 
 
 class ImporterRollingStone(ImporterBase):
     """Base Class for the dataset import.
     """
-    def __init__(self, path='../data/rock_corpus_v2-1/rs200_melody_nlt'):
+    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='../data/rock_corpus_v2-1/rs200_melody_nlt'):
+        super(ImporterRollingStone, self).__init__(beats_per_measure, melody_range, harmony_range, continuation_range, metric_range)
         self.path = path
         self.output = []
-        self.pr_n_pitches = 120
-        self.pr_bar_division = 16
+        self.melody_range = melody_range
+        self.harmony_range = harmony_range
+        self.continuation_range = continuation_range
+        self.metric_range = metric_range
+
+        #'pr' stands for piano roll
+        self.pr_n_pitches = melody_range[1] - melody_range[0]
+        self.pr_bar_division = beats_per_measure
 
         path_songs = os.path.join(self.path, '*.nlt')
 
@@ -82,7 +90,7 @@ class ImporterRollingStone(ImporterBase):
                 if pitch_class_diff < 0:
                     pitch_class_diff += 12
                 lowest_octave = int((pitch_range_start - pitch_class_diff) / 12) * 12
-                cur_pitch = cur_pitch - pitch_class_diff - lowest_octave
+                cur_pitch = (cur_pitch - pitch_class_diff - lowest_octave) % 36
                # print('curPitch after key-justification and modding: ' + str(cur_pitch))
                 prev_note_idx_end = note_idx_end
                 #print(lowest_octave)
@@ -106,4 +114,4 @@ class ImporterRollingStone(ImporterBase):
         pass
 
 if __name__ == '__main__':
-    data_rs = ImporterRollingStone()
+    data_rs = ImporterRollingStone(settings.BEATS_PER_MEASURE, settings.MELODY_INDICES_RANGE, settings.HARMONY_INDICES_RANGE, settings.CONTINUATION_FLAG_RANGE, settings.METRIC_FLAGS_RANGE)

@@ -4,13 +4,18 @@
 import numpy as np
 
 
-class ImporterBase:
+class ImporterBase(object):
     """Base Class for the dataset import.
     """
-    def __init__(self):
-        self.output = np.array()
-        self.import_piano_roll()
-        self.add_beat_flags()
+    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range):
+        self.melody_range = melody_range
+        self.harmony_range = harmony_range
+        self.continuation_range = continuation_range
+        self.metric_range = metric_range
+
+        #'pr' stands for piano roll
+        self.num_pitches = melody_range[1] - melody_range[0]
+        self.bar_divisions = beats_per_measure
 
     def import_piano_roll(self):
         raise Exception('import_piano_roll method must be implemented!')
