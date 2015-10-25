@@ -17,12 +17,10 @@ class ImporterEssen(ImporterBase):
         self.output = []
         all_songs = os.listdir(path)
         for song in all_songs:
-            song = all_songs[1]
             song = self.import_piano_roll(os.path.join(path, song))
             matrix = self.add_beat_flags(song[0], song[1], song[2], song[3])
             matrix = np.transpose(matrix)
             self.output.append(matrix)
-        print len(self.output)
 
     def import_piano_roll(self, path_to_file):
         # diatonic scale to chromatic
@@ -32,6 +30,7 @@ class ImporterEssen(ImporterBase):
         off_beat_size = -1
         song_matrix = np.array([])
         lines = open(path_to_file).readlines()
+        print lines
         [melody, basic_unit, meter_units_per_measure, meter_unit] = self.parseFile(lines)
         if(meter_unit<0):
             return [song_matrix, -1, -1, -1]  # we are not going to use songs with free meter for now
@@ -74,7 +73,7 @@ class ImporterEssen(ImporterBase):
                         if(len(song_matrix)==0):
                             bitmask[48]=1 #set continuation bit that it's a new note                            
                             song_matrix = [copy(bitmask)]
-                                                            
+                            continue      
                         elif(len(song_matrix)>0 and i==0):   
                             bitmask[48]=1
                         else:
@@ -85,7 +84,7 @@ class ImporterEssen(ImporterBase):
                     off_beat_size = len(song_matrix)
                 else:
                     off_beat_size = 0
-        return [song_matrix, off_beat_size, meter_unit*(16/meter_units_per_measure), 16/meter_units_per_measure]
+        return [song_matrix, off_beat_size, meter_units_per_measure*(16/meter_unit), 16/meter_units_per_measure]
         
         
     # still problematic:
@@ -140,6 +139,8 @@ class ImporterEssen(ImporterBase):
             if(row[48]==1):
                 if(ind>=off_beat_size): #we are in the measure 1 or further
                     position = ((ind+1) - off_beat_size)%measure_size #find position in measure
+                    print 'position ' + str(position)
                     number = self.get_metric_level_from_num_divisions(position, measure_size)
                     song_matrix[ind][49+number] = 1
         return song_matrix
+
