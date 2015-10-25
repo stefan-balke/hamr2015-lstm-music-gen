@@ -118,6 +118,7 @@ class Composer:
 
             print 'next_frame raw:', next_frame
 
+            # Winner-takes-all on melody to force monophonic, and force other floats in vector to 0 or 1.
             next_frame = self._winner_takes_all(next_frame, MELODY_INDICES_RANGE)
             next_frame = self._get_binary_vector(next_frame)
             next_frame = np.expand_dims(next_frame, axis=0)
