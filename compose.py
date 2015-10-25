@@ -165,14 +165,13 @@ class Composer:
                 argmax = i
         return argmax
 
-
     def _get_binary_vector(self, frame_vector):
         return np.array([1 if x >= 0.5 else 0 for x in frame_vector])
 
 
 if __name__ == '__main__':
-    rs_songs = ImporterRollingStone().output
+    data_rs = ImporterRollingStone(BEATS_PER_MEASURE, MELODY_INDICES_RANGE, HARMONY_INDICES_RANGE, CONTINUATION_FLAG_RANGE, METRIC_FLAGS_RANGE)
 
-    bach = Composer(rs_songs)
+    bach = Composer(data_rs.output)
     bach.train()
 
