@@ -12,7 +12,7 @@ import settings
 class ImporterRollingStone(ImporterBase):
     """Base Class for the dataset import.
     """
-    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='../data/rock_corpus_v2-1/rs200_melody_nlt'):
+    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='data/rock_corpus_v2-1/rs200_melody_nlt'):
         super(ImporterRollingStone, self).__init__(beats_per_measure, melody_range, harmony_range, continuation_range, metric_range)
         self.path = path
         self.output = []
@@ -46,7 +46,7 @@ class ImporterRollingStone(ImporterBase):
                     cur_event_list = [float(x) for x in cur_event.rstrip().split("\t")]
                     cur_melody_events.append(cur_event_list)
 
-            self.import_piano_roll(np.asarray(cur_melody_events))
+                self.import_piano_roll(np.asarray(cur_melody_events))
 
     def import_piano_roll(self, note_events):
         # get the number of total bars
@@ -58,7 +58,7 @@ class ImporterRollingStone(ImporterBase):
         pitch_range_start = np.min(note_events[:, 2])
         pitch_range_end = np.max(note_events[:, 2])
 
-        print(pitch_range_start, pitch_range_end, pitch_range_end-pitch_range_start)
+        # print(pitch_range_start, pitch_range_end, pitch_range_end-pitch_range_start)
 
         # set the note length as the interval between consecutive metric onsets
         # (suggested in the documentation)
@@ -67,7 +67,7 @@ class ImporterRollingStone(ImporterBase):
         # loop over bars
         beat_grid = np.linspace(0, 1, self.pr_bar_division + 1)[:-1]
         np.set_printoptions(precision=3)
-        #print(beat_grid)
+        # print(beat_grid)
         for cur_bar in range(int(note_events[0][1]), int(note_events[-1][1])):
             # get the notes which belong to the bar
             cur_notes = note_events[(note_events[:, 1] - cur_bar < 1) & (note_events[:, 1] - cur_bar >= 0), :]
@@ -106,8 +106,6 @@ class ImporterRollingStone(ImporterBase):
         #import matplotlib.pyplot as plt
         #plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
         #plt.show()
-
-
 
         # append to output list
         self.output.append(piano_roll)
