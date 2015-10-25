@@ -75,7 +75,7 @@ class ImporterRollingStone(ImporterBase):
                 duration = int((cur_note[4]+0.01)/ (1.0 / self.pr_bar_division))-1  # round
                 note_idx_end = note_idx_start + duration
                 cur_pitch = cur_note[2]
-                print('curPitch before key-justification and modding: ' + str(cur_pitch))
+                #print('curPitch before key-justification and modding: ' + str(cur_pitch))
                 cur_pitch_class = cur_note[3]
                 #we want to key-justify our absolute pitch
                 pitch_class_diff = cur_pitch % 12 - cur_pitch_class
@@ -83,9 +83,9 @@ class ImporterRollingStone(ImporterBase):
                     pitch_class_diff += 12
                 lowest_octave = int((pitch_range_start - pitch_class_diff) / 12) * 12
                 cur_pitch = cur_pitch - pitch_class_diff - lowest_octave
-                print('curPitch after key-justification and modding: ' + str(cur_pitch))
+               # print('curPitch after key-justification and modding: ' + str(cur_pitch))
                 prev_note_idx_end = note_idx_end
-                print(lowest_octave)
+                #print(lowest_octave)
                 #print(cur_pitch)
 
                 # add to piano-roll
