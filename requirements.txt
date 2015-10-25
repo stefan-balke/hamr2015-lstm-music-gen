@@ -1,2 +1,4 @@
 Theano
 keras
+music21
+sqlalchemy

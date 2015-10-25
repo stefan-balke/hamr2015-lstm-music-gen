@@ -9,6 +9,7 @@ import sys
 
 from importer.rolling_stone import ImporterRollingStone
 from importer.essen import ImporterEssen
+from exporter.neural_net_to_midi import MidiExporter
 
 from settings import *
 
@@ -67,7 +68,7 @@ class Composer:
         """
 
         # Chop up all songs in dataset into examples with window-size N
-        training_examples = self._get_training_examples()
+        training_examples = self._get_training_examples()  # [0:20]
         #print 'training_examples:', training_examples
         print '# training sequences:', len(training_examples)
 
@@ -93,7 +94,7 @@ class Composer:
         self._compile_model()
 
         # Train the model
-        for iteration in range(1, 60):
+        for iteration in range(1, 6000):
             print
             print '-' * 50
             print 'Iteration', iteration
@@ -105,9 +106,14 @@ class Composer:
     def compose(self, index, num_measures=16):
         """Use a pre-trained neural network to compose a melody.
         """
-        SEED = self.dataset[0].transpose()
-        melody = SEED[-(self.window_size-1):]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
+        np.set_printoptions(threshold=np.nan)
+
+        SEED = self.dataset[3].transpose()
+        melody = SEED[:self.window_size-1]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
         melody = np.expand_dims(melody, axis=0)
+        print "melody shape:", melody.shape
+        print "Seed length:", len(SEED)
+      
 
         print '----- Generating with seed:', melody
 
@@ -137,9 +143,9 @@ class Composer:
 
             print 'end of for'
 
-        print 'Final melody:', melody
+        print 'Final melody:', melody[0]
         print
-        exporter = MidiExporter(melody)
+        exporter = MidiExporter(melody[0])
         exporter.create_midi_file('random_%d.midi' % index)
 
     def _get_training_examples(self):
