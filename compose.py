@@ -105,17 +105,19 @@ class Composer:
         print '----- Generating with seed:', melody
 
         for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
-            x = np.array(melody[i:i + self.window_size])
+            print 'melody.shape', melody.shape
+            x = np.expand_dims(np.array(melody[0][i:i + self.window_size]), axis=0)
             print 'i:', i
             print 'x:', x
-            print x.shape
+            print 'x.shape', x.shape
 
-            next_frame = self.model.predict(x, verbose=0)[0]
+            next_frame = np.expand_dims(self.model.predict(x, verbose=0)[0], axis=0)
 
             print 'next_frame:', next_frame
-            print next_frame.shape
+            print 'melody.shape', melody.shape
+            print 'next_frame.shape', next_frame.shape
 
-            melody = np.concatenate([melody, np.array(next_frame)], axis=1)
+            melody = np.concatenate([melody, np.expand_dims(next_frame, axis=0)], axis=1)
             print 'Appended melody:', melody
 
             print 'end of for'
