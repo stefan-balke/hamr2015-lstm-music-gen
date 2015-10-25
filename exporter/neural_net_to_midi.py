@@ -2,8 +2,9 @@ __author__ = 'epnichols'
 
 from settings import *
 
-from music21 import stream, note, scale
+from music21 import stream, note, scale, duration
 import music21.midi as midi
+
 import numpy as np
 
 class MidiExporter(object):
@@ -37,6 +38,9 @@ class MidiExporter(object):
 
         s = stream.Stream()
 
+        num_frames = 0
+        prev_n = -1
+        new_note = None
         for frame in self.song:
             melody = frame[MELODY_INDICES_RANGE[0]:MELODY_INDICES_RANGE[1]]
             print melody
@@ -45,14 +49,28 @@ class MidiExporter(object):
                 if val == 1:
                     n = i
                     break
-            if n is not None:
-                new_note = note.Note(i + 60)
-                new_note.quarterLength = 1
-                s.append(new_note)
 
-            else:
-                # rest
-                pass
+            # If the pitch changes, commit previous note and start new one.
+            if n != prev_n:
+                prev_n = n
+                # commit the previous note.
+                if new_note:
+                    new_note.quarterLength = .25 * num_frames
+                    s.append(new_note)
+                # start a new note.
+                if n is not None:
+                    new_note = note.Note(i + 60)
+                else:
+                    # rest
+                    new_note = note.Rest()
+                num_frames = 1
+            else:  # TODO: test for continuity flag
+                # note is continued. Just add to the duration.
+                num_frames += 1
+
+        # Commit the final note
+        new_note.quarterLength = .25 * num_frames
+        s.append(new_note)
 
         mf = midi.translate.streamToMidiFile(s)
         mf.open(filename, 'wb')
