@@ -7,6 +7,8 @@ import numpy as np
 import random
 import sys
 
+from importer.rolling_stone import ImporterRollingStone
+
 from settings import *
 
 # A song is a numpy matrix, giving our boolean features at each 16th note time slice.
@@ -33,8 +35,8 @@ class Composer:
     dataset = None  # Format: list of numpy matrices with shape: (time_stamp, features)
     model = None
 
-    def __init__(self, window_size=DEFAULT_WINDOW_SIZE):
-        self.dataset = self._get_dataset()
+    def __init__(self, songs=SAMPLE_DATASET, window_size=DEFAULT_WINDOW_SIZE):
+        self.dataset = songs
         self.window_size = window_size
 
 
@@ -136,9 +138,6 @@ class Composer:
         print 'Final melody:', melody
         print
 
-    def _get_dataset(self):
-        return SAMPLE_DATASET
-
     def _get_training_examples(self):
         """Return N - window_size example matrices, each with window_size vectors.
         """
@@ -172,6 +171,8 @@ class Composer:
 
 
 if __name__ == '__main__':
-    bach = Composer()
+    rs_songs = ImporterRollingStone().output
+
+    bach = Composer(rs_songs)
     bach.train()
 

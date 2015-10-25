@@ -12,7 +12,7 @@ import settings
 class ImporterRollingStone(ImporterBase):
     """Base Class for the dataset import.
     """
-    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='../data/rock_corpus_v2-1/rs200_melody_nlt'):
+    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='data/rock_corpus_v2-1/rs200_melody_nlt'):
         super(ImporterRollingStone, self).__init__(beats_per_measure, melody_range, harmony_range, continuation_range, metric_range)
         self.path = path
         self.output = []
@@ -46,7 +46,7 @@ class ImporterRollingStone(ImporterBase):
                     cur_event_list = [float(x) for x in cur_event.rstrip().split("\t")]
                     cur_melody_events.append(cur_event_list)
 
-            self.import_piano_roll(np.asarray(cur_melody_events))
+            self.output = self.import_piano_roll(np.asarray(cur_melody_events))
 
     def import_piano_roll(self, note_events):
         # get the number of total bars
