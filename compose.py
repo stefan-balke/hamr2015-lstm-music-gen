@@ -170,6 +170,7 @@ class Composer:
     def _get_binary_vector(self, frame_vector):
         return np.array([1 if x >= 0.5 else 0 for x in frame_vector])
 
+
 if __name__ == '__main__':
     bach = Composer()
     bach.train()
