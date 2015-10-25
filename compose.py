@@ -9,6 +9,7 @@ import sys
 
 from importer.rolling_stone import ImporterRollingStone
 from importer.essen import ImporterEssen
+from exporter.neural_net_to_midi import MidiExporter
 
 from settings import *
 
@@ -27,6 +28,15 @@ SAMPLE_SONG_2 = np.matrix([[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,
 
 SAMPLE_DATASET = [SAMPLE_SONG_1, SAMPLE_SONG_2]  # Dataset is a list of songs.
 SEED = SAMPLE_SONG_1
+
+
+def sample(a, index_range, temperature=1.0):
+    # helper function to sample an index from a probability array
+    a = a[index_range[0]:index_range[1]]
+
+    a = np.log(a) / temperature
+    a = np.exp(a) / np.sum(np.exp(a))
+    return index_range[0] + np.argmax(np.random.multinomial(1, a, 1))
 
 class Composer:
     """Base Class for our deep composer.
@@ -67,7 +77,7 @@ class Composer:
         """
 
         # Chop up all songs in dataset into examples with window-size N
-        training_examples = self._get_training_examples()
+        training_examples = self._get_training_examples()  # [0:20]
         #print 'training_examples:', training_examples
         print '# training sequences:', len(training_examples)
 
@@ -98,49 +108,64 @@ class Composer:
             print '-' * 50
             print 'Iteration', iteration
 
-            self.model.fit(training_examples_X, training_examples_y, batch_size=128, nb_epoch=n_epoch)  # TODO: batch_size = 128
+            self.model.fit(training_examples_X, training_examples_y, batch_size=BATCH_SIZE, nb_epoch=n_epoch)
 
             self.compose(iteration)
+
 
     def compose(self, index, num_measures=16):
         """Use a pre-trained neural network to compose a melody.
         """
-        SEED = self.dataset[0].transpose()
-        melody = SEED[-(self.window_size-1):]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
-        melody = np.expand_dims(melody, axis=0)
+        np.set_printoptions(threshold=np.nan)
 
-        print '----- Generating with seed:', melody
+        for diversity in [0.2, 0.5, 1.0, 1.2]:
+            print
+            print '----- diversity:', diversity
 
-        for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
-            print 'melody.shape', melody.shape
-            x = np.expand_dims(np.array(melody[0][i:i + self.window_size]), axis=0)
-            print 'i:', i
-            print 'x:', x
-            print 'x.shape', x.shape
+            SEED = self.dataset[3].transpose()
+            #melody = SEED[-(self.window_size-1):]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
+            SEED = SEED[self.window_size-1:]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
+            melody = np.expand_dims(SEED, axis=0)
+            print len(SEED)
+            print len(melody)
 
-            next_frame = self.model.predict(x, verbose=0)[0]
+            print '----- Generating with seed:', melody
 
-            print 'next_frame raw:', next_frame
+            for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
+                print 'melody.shape', melody.shape
+                x = np.expand_dims(np.array(melody[0][i:i + self.window_size]), axis=0)
+                print 'i:', i
+                print 'x:', x
+                print 'x.shape', x.shape
 
-            # Winner-takes-all on melody to force monophonic, and force other floats in vector to 0 or 1.
-            next_frame = self._winner_takes_all(next_frame, MELODY_INDICES_RANGE)
-            next_frame = self._get_binary_vector(next_frame)
-            next_frame = np.expand_dims(next_frame, axis=0)
+                next_frame = self.model.predict(x, verbose=0)[0]
 
-            print 'next_frame normalized:', next_frame
-            print 'melody.shape', melody.shape
-            print 'next_frame.shape', next_frame.shape
+                print 'next_frame raw:', next_frame
+
+                if SAMPLE_FROM_MELODY_PROBS:
+                    # sample from melody probabilities.
+                    next_frame = self._sample_melody(next_frame, MELODY_INDICES_RANGE, diversity)
+                else:
+                    # Winner-takes-all on melody to force monophonic, and force other floats in vector to 0 or 1.
+                    next_frame = self._winner_takes_all(next_frame, MELODY_INDICES_RANGE)
+
+                next_frame = self._get_binary_vector(next_frame)
+                next_frame = np.expand_dims(next_frame, axis=0)
+
+                print 'next_frame normalized:', next_frame
+                print 'melody.shape', melody.shape
+                print 'next_frame.shape', next_frame.shape
 
 
-            melody = np.concatenate([melody, np.expand_dims(next_frame, axis=0)], axis=1)
-            print 'Appended melody:', melody
+                melody = np.concatenate([melody, np.expand_dims(next_frame, axis=0)], axis=1)
+                print 'Appended melody:', melody
 
-            print 'end of for'
+                print 'end of for'
 
-        print 'Final melody:', melody
-        print
-        exporter = MidiExporter(melody)
-        exporter.create_midi_file('random_%d.midi' % index)
+            print 'Final melody:', melody
+            print
+            exporter = MidiExporter(melody[0])
+            exporter.create_midi_file('random_%d_%.2f.midi' % (index, diversity))
 
     def _get_training_examples(self):
         """Return N - window_size example matrices, each with window_size vectors.
@@ -150,6 +175,16 @@ class Composer:
             song = song.transpose()
             song_data.extend(song[i:i+self.window_size] for i in range(0, len(song) - self.window_size + 1))
         return song_data
+
+    def _sample_melody(self, frame_vector, index_range, diversity):
+        # Copy vector and zero out the range we care about.
+        result = np.array(frame_vector)
+        for i in range(index_range[0], index_range[1]):
+            result[i] = 0
+
+        # Set the max value in that range to 1.
+        result[sample(frame_vector, index_range, diversity)] = 1
+        return result
 
     def _winner_takes_all(self, frame_vector, index_range):
         # Copy vector and zero out the range we care about.
