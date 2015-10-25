@@ -57,6 +57,14 @@ class Melody(Base):
     onset = Column(Float)
     pitch = Column(Float)
     duration = Column(Float)
+    period = Column(Integer)
+    division = Column(Integer)
+    bar = Column(Integer)
+    beat = Column(Integer)
+    tatum = Column(Integer)
+    subtatum = Column(Integer)
+    num = Column(Integer)
+    denom = Column(Integer)
 
 
 def get_melids():
