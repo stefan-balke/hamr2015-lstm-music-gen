@@ -77,7 +77,7 @@ class ImporterRollingStone(ImporterBase):
                 metric_timing = cur_note[1] - int(cur_note[1])
                 # find the closest beat on the beat_grid
                 note_idx_start = np.argmin(abs(metric_timing-beat_grid))
-                cur_metric_array = self.get_metric_array_from_num_divisions(note_idx_start, self.pr_bar_division)
+                cur_metric_array = self.get_metric_level_from_num_divisions(note_idx_start, self.pr_bar_division)
                 print('metric array for note: (' + str(metric_timing) + ', ' + str(note_idx_start) + ') is: ' + str(cur_metric_array))
                 note_start_diff = (metric_timing - beat_grid)[note_idx_start]
                 duration = int((cur_note[4]+0.01)/ (1.0 / self.pr_bar_division))-1  # round

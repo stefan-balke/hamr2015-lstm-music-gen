@@ -25,16 +25,14 @@ class ImporterBase(object):
     def add_beat_flags(self, off_beat_size, measure_size):
         raise Exception('add_beat_flags method must be implemented!')
 
-    def get_metric_array_from_num_divisions(self, cur_onset_divisions, total_bar_divisions):
+    def get_metric_level_from_num_divisions(self, cur_onset_divisions, total_bar_divisions):
         cur_metric_level_divisor = total_bar_divisions
         metric_array = []
+        level = 0
         while cur_metric_level_divisor >= 1:
-            is_part_of_current_level = False
             if (cur_onset_divisions % cur_metric_level_divisor) == 0:
-                is_part_of_current_level = True
-            metric_array.append(is_part_of_current_level)
-            if is_part_of_current_level == True:
                 break
+            level += 1
             cur_metric_level_divisor = cur_metric_level_divisor / 2
-        return metric_array
+        return level
 
