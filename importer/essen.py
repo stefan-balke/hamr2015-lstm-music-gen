@@ -7,11 +7,13 @@ from base import ImporterBase
 import os
 import re
 from copy import copy
-class Essen(ImporterBase):
+
+
+class ImporterEssen(ImporterBase):
     """Base Class for the dataset import.
     """
 
-    def __init__(self, path='/home/anna/HAMR2015 - LSTM music/essen/all_songs'):
+    def __init__(self, path='data/essen_all_songs'):
         self.output = []
         all_songs = os.listdir(path)
         for song in all_songs:
@@ -21,9 +23,10 @@ class Essen(ImporterBase):
             matrix = np.transpose(matrix)
             self.output.append(matrix)
         print len(self.output)
+
     def import_piano_roll(self, path_to_file):
-        #diatonic scale to chromatic        
-        #minus hundred is a rest 
+        # diatonic scale to chromatic
+        # minus hundred is a rest
         ds_to_ch = {0:-100, 1:0, 2:2, 3:4, 4:5, 5:7, 6:9, 7:11}
         
         off_beat_size = -1
@@ -31,15 +34,15 @@ class Essen(ImporterBase):
         lines = open(path_to_file).readlines()
         [melody, basic_unit, meter_units_per_measure, meter_unit] = self.parseFile(lines)
         if(meter_unit<0):
-            return [song_matrix, -1, -1, -1] #we are not going to use songs with free meter for now
+            return [song_matrix, -1, -1, -1]  # we are not going to use songs with free meter for now
         multiplication_parameter = 16/basic_unit
         measures = melody.split(' ')
         for measure in measures:
-            #32 for 3 octaves, 33 for continuity bit, 34 - 38 for position in measure 
+            # 32 for 3 octaves, 33 for continuity bit, 34 - 38 for position in measure
             single_notes = self.split_into_single_notes(measure)
             for note in single_notes:
                 bitmask = [0]*54
-                #we parse a single note which is in format -7b__. 
+                # we parse a single note which is in format -7b__.
                 matchObj = re.match(r'([-+]?)(\d)([b#]?)(_*)(\.?)', note)
                 if matchObj:
                     # octave modifier:   matchObj.group(1)
@@ -85,8 +88,8 @@ class Essen(ImporterBase):
         return [song_matrix, off_beat_size, meter_unit*(16/meter_units_per_measure), 16/meter_units_per_measure]
         
         
-    #still problematic: 
-    #triplets (1_2_3_)
+    # still problematic:
+    # triplets (1_2_3_)
     # I don't know what ^ means
     def split_into_single_notes(self, measure):
         pattern = re.compile(r'[-+]?\d[b#]?_*\.?')
@@ -140,4 +143,3 @@ class Essen(ImporterBase):
                     number = self.get_metric_level_from_num_divisions(position, measure_size)
                     song_matrix[ind][49+number] = 1
         return song_matrix
-    
