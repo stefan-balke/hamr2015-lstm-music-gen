@@ -73,36 +73,37 @@ class MidiExporter(object):
         new_note.quarterLength = .25 * num_frames
         s.append(new_note)
 
-        # Harmony stream.
-        s_harmony = stream.Stream()
-        prev_harmony = []
-        new_harmony = None
-        num_frames = 0
-        for frame in self.song:
-            harmony = frame[HARMONY_INDICES_RANGE[0]:HARMONY_INDICES_RANGE[1]]
-            print harmony
-
-            # If the set of pitch classes changes, commit previous chord and start new one.
-            if n != prev_n:
-                prev_n = n
-                # commit the previous note.
-                if new_note:
-                    new_note.quarterLength = .25 * num_frames
-                    s.append(new_note)
-                # start a new note.
-                if n is not None:
-                    new_note = note.Note(i + 60)
-                else:
-                    # rest
-                    new_note = note.Rest()
-                num_frames = 1
-            else:  # TODO: test for continuity flag
-                # note is continued. Just add to the duration.
-                num_frames += 1
-
-        # Commit the final note
-        new_note.quarterLength = .25 * num_frames
-        s.append(new_note)
+        #
+        # # Harmony stream.
+        # s_harmony = stream.Stream()
+        # prev_harmony = []
+        # new_harmony = None
+        # num_frames = 0
+        # for frame in self.song:
+        #     harmony = frame[HARMONY_INDICES_RANGE[0]:HARMONY_INDICES_RANGE[1]]
+        #     print harmony
+        #
+        #     # If the set of pitch classes changes, commit previous chord and start new one.
+        #     if n != prev_n:
+        #         prev_n = n
+        #         # commit the previous note.
+        #         if new_note:
+        #             new_note.quarterLength = .25 * num_frames
+        #             s.append(new_note)
+        #         # start a new note.
+        #         if n is not None:
+        #             new_note = note.Note(i + 60)
+        #         else:
+        #             # rest
+        #             new_note = note.Rest()
+        #         num_frames = 1
+        #     else:  # TODO: test for continuity flag
+        #         # note is continued. Just add to the duration.
+        #         num_frames += 1
+        #
+        # # Commit the final note
+        # new_note.quarterLength = .25 * num_frames
+        # s.append(new_note)
 
         # Write midi file to disk.
         mf = midi.translate.streamToMidiFile(s)
