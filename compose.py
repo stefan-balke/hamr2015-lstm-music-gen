@@ -100,9 +100,9 @@ class Composer:
 
             self.model.fit(training_examples_X, training_examples_y, batch_size=1, nb_epoch=n_epoch)  # TODO: batch_size = 128
 
-            self.compose()
+            self.compose(iteration)
 
-    def compose(self, num_measures=16):
+    def compose(self, index, num_measures=16):
         """Use a pre-trained neural network to compose a melody.
         """
         SEED = self.dataset[0].transpose()
@@ -140,6 +140,8 @@ class Composer:
 
         print 'Final melody:', melody
         print
+        exporter = MidiExporter(melody)
+        exporter.create_midi_file('random_%d.midi' % index)
 
     def _get_training_examples(self):
         """Return N - window_size example matrices, each with window_size vectors.
