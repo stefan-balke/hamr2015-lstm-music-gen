@@ -46,9 +46,10 @@ class ImporterRollingStone(ImporterBase):
         # reserve memory
         piano_roll = np.zeros([self.pr_n_pitches, self.pr_bar_division*n_bars])
 
-        # pitch_range_start = np.min(note_events[:, 2])
-        # pitch_range_end = np.max(note_events[:, 2])
-        # print(pitch_range_start, pitch_range_end, pitch_range_end-pitch_range_start)
+        pitch_range_start = np.min(note_events[:, 2])
+        pitch_range_end = np.max(note_events[:, 2])
+
+        print(pitch_range_start, pitch_range_end, pitch_range_end-pitch_range_start)
 
         # set the note length as the interval between consecutive metric onsets
         # (suggested in the documentation)
@@ -67,14 +68,25 @@ class ImporterRollingStone(ImporterBase):
                 metric_timing = cur_note[1] - int(cur_note[1])
                 #find the closest beat on the beat_grid
                 note_idx_start = np.argmin(abs(metric_timing-beat_grid))
-                if prev_note_idx_end > note_idx_start:
-                    print('bad!')
+                #if prev_note_idx_end > note_idx_start:
+                    #print('bad!')
 
                 note_start_diff = (metric_timing - beat_grid)[note_idx_start]
                 duration = int(cur_note[4] / (1.0 / self.pr_bar_division))
                 note_idx_end = note_idx_start + duration
                 cur_pitch = cur_note[2]
+                print('curPitch before key-justification and modding: ' + str(cur_pitch))
+                cur_pitch_class = cur_note[3]
+                #we want to key-justify our absolute pitch
+                pitch_class_diff = cur_pitch % 12 - cur_pitch_class
+                if pitch_class_diff < 0:
+                    pitch_class_diff += 12
+                lowest_octave = int((pitch_range_start - pitch_class_diff) / 12) * 12
+                cur_pitch = cur_pitch - pitch_class_diff - lowest_octave
+                print('curPitch after key-justification and modding: ' + str(cur_pitch))
                 prev_note_idx_end = note_idx_end
+                print(lowest_octave)
+                #print(cur_pitch)
 
 
                 # add to piano-roll
