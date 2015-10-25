@@ -204,11 +204,10 @@ class ImporterWJD(ImporterBase):
         lowest_octave = int((pitch_range_start - transposition_offset) / 12) * 12
         for note_event in solo.melodies:
             note_metric_index = (note_event.beat - 1) * 4 + note_event.tatum - 1
-            cur_bar_idx_start = note_event.bar * self.pr_bar_division
             idx_start = np.argmin(np.abs(frame_times-note_event.onset))
             idx_end = np.argmin(np.abs(frame_times-(note_event.onset+note_event.duration)))
 
-            cur_metric_level = self.get_metric_level_from_num_divisions(metric_index, self.pr_bar_division)
+            cur_metric_level = self.get_metric_level_from_num_divisions(note_metric_index, self.pr_bar_division)
             if n_pitch_classes:
                 cur_pitch = (note_event.pitch-transposition_offset - lowest_octave) % n_pitch_classes
             else:
@@ -216,8 +215,13 @@ class ImporterWJD(ImporterBase):
 
             cur_pitch_vector = np.zeros((self.pr_width, 1))
             cur_pitch_vector[cur_pitch] = 1.0
+
             solo_piano_roll[:, idx_start:idx_end] = cur_pitch_vector
-            solo_piano_roll[self.metric_range[0] + cur_metric_level, cur_bar_idx_start+note_metric_index] = 1
+            solo_piano_roll[self.metric_range[0] + cur_metric_level, idx_start] = 1.0
+
+        #import matplotlib.pyplot as plt
+        #plt.imshow(solo_piano_roll, cmap=plt.get_cmap('gray_r'))
+        #plt.show()
         return solo_piano_roll
 
 
@@ -225,7 +229,7 @@ class ImporterWJD(ImporterBase):
         solo = get_solo(cur_melid)
         transp_offset = get_transposition_offset(solo)
 
-        beats = get_solo_beats(solo, 2)
+        beats = get_solo_beats(solo, 4)
         solo_piano_roll = self.get_solo_pitch_shape(solo, beats, self.num_pitches, transp_offset)
 
         return solo_piano_roll
