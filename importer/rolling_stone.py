@@ -16,10 +16,6 @@ class ImporterRollingStone(ImporterBase):
         super(ImporterRollingStone, self).__init__(beats_per_measure, melody_range, harmony_range, continuation_range, metric_range)
         self.path = path
         self.output = []
-        self.melody_range = melody_range
-        self.harmony_range = harmony_range
-        self.continuation_range = continuation_range
-        self.metric_range = metric_range
 
         #'pr' stands for piano roll
         self.pr_n_pitches = melody_range[1] - melody_range[0]
