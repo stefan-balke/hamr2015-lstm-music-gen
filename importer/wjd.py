@@ -103,14 +103,18 @@ def get_solo_pitch_shape(solo, frame_times, n_pitch_classes=None, transposition_
     solo_length = solo.melodies[-1].onset + solo.melodies[-1].duration
     solo_piano_roll = np.zeros((n_pitches, len(frame_times)))
 
+    pitch_range_start = np.min([mel.pitch for mel in solo.melodies])
+    pitch_range_end = np.max([mel.pitch for mel in solo.melodies])
+
+    lowest_octave = int((pitch_range_start - transposition_offset) / 12) * 12
     for note_event in solo.melodies:
         idx_start = np.argmin(np.abs(frame_times-note_event.onset))
         idx_end = np.argmin(np.abs(frame_times-(note_event.onset+note_event.duration)))
 
         if n_pitch_classes:
-            cur_pitch = (note_event.pitch-transposition_offset) % n_pitch_classes
+            cur_pitch = (note_event.pitch-transposition_offset - lowest_octave) % n_pitch_classes
         else:
-            cur_pitch = note_event.pitch-transposition_offset
+            cur_pitch = note_event.pitch-transposition_offset - lowest_octave
 
         cur_pitch_vector = np.zeros((n_pitches, 1))
         cur_pitch_vector[cur_pitch] = 1.0
