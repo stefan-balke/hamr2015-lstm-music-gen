@@ -7,14 +7,16 @@ import os
 import glob
 from base import ImporterBase
 import settings
+import itertools as it
 
 
 class ImporterRollingStone(ImporterBase):
     """Base Class for the dataset import.
     """
-    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='data/rock_corpus_v2-1/rs200_melody_nlt'):
+    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='../data/rock_corpus_v2-1/rs200_melody_nlt', harmony_path='../data/rock_corpus_v2-1/rs200_harmony_clt'):
         super(ImporterRollingStone, self).__init__(beats_per_measure, melody_range, harmony_range, continuation_range, metric_range)
         self.path = path
+        self.harmony_path = harmony_path
         self.output = []
 
         #'pr' stands for piano roll
@@ -26,10 +28,30 @@ class ImporterRollingStone(ImporterBase):
 
         for cur_path_song in glob.glob(path_songs):
             cur_melody_events = []
+            cur_chord_events = []
 
             # prevent from trying to read empty files
             if os.stat(cur_path_song).st_size == 0:
                 continue
+
+            cur_path_basename = os.path.basename(cur_path_song)
+            harmony_files = os.path.join(self.harmony_path, cur_path_basename[:-7]+ '*')
+            harmony_annotations = glob.glob(harmony_files)
+            with open(harmony_annotations[0]) as cur_harmony:
+                for cur_event in cur_harmony:
+                    # ignore Error lines
+                    if 'Error' in cur_event:
+                        continue
+                    all_events = cur_event.rstrip().split("\t")
+
+                    cur_chord_list = []
+                    for idx, val in enumerate(all_events):
+                        if idx != 2:
+                            cur_chord_list.append(float(val))
+                        else:
+                            cur_chord_list.append(val)
+
+                    cur_chord_events.append(cur_chord_list)
 
             with open(cur_path_song) as cur_song:
                 for cur_event in cur_song:
@@ -42,9 +64,9 @@ class ImporterRollingStone(ImporterBase):
                     cur_event_list = [float(x) for x in cur_event.rstrip().split("\t")]
                     cur_melody_events.append(cur_event_list)
 
-                self.import_piano_roll(np.asarray(cur_melody_events))
+                self.import_piano_roll(np.asarray(cur_melody_events), np.asarray(cur_chord_events))
 
-    def import_piano_roll(self, note_events):
+    def import_piano_roll(self, note_events, chord_events):
         # get the number of total bars
         n_bars = int(note_events[-1][1])+1
 
@@ -98,10 +120,48 @@ class ImporterRollingStone(ImporterBase):
                 cur_bar_idx_end = (cur_bar+1)*self.pr_bar_division
                 piano_roll[cur_pitch, cur_bar_idx_start+note_idx_start:cur_bar_idx_start+note_idx_end] = 1
                 piano_roll[self.metric_range[0] + cur_metric_level, cur_bar_idx_start+note_idx_start] = 1
+
+        #add the harmony
+
+        for i in range(0, len(chord_events) - 1):
+            chord_events[i].append(chord_events[i + 1][1] - chord_events[i][1])
+
+        for cur_chord in chord_events:
+            if len(cur_chord) < 8:
+                break
+            cur_chord_bar = int(cur_chord[1])
+            chord_bar_idx_start = cur_chord_bar*self.pr_bar_division
+            chord_metric_timing = cur_chord[1] - int(cur_chord[1])
+            chord_metric_idx = np.argmin(abs(chord_metric_timing-beat_grid))
+
+            chord_duration = int((cur_chord[7]+0.01)/ (1.0 / self.pr_bar_division))-1  # round
+            chord_idx_end = chord_metric_idx + chord_duration
+
+            #get the harmony vector
+            chord_roman = cur_chord[2]
+
+            upper_vector = [char.isupper() for char in chord_roman]
+            is_major = any(upper_vector)
+
+            chord_root_pitch_class = cur_chord[3]
+            fifth_pitch_class = (chord_root_pitch_class + 7) % 12
+
+            third_pitch_class = -1
+            if is_major == True:
+                third_pitch_class = (chord_root_pitch_class + 4) % 12
+            else:
+                third_pitch_class = (chord_root_pitch_class + 3) % 12
+
+            piano_roll[chord_root_pitch_class + self.harmony_range[0], chord_bar_idx_start+chord_metric_idx:chord_bar_idx_start+chord_idx_end] = 1
+            piano_roll[third_pitch_class + self.harmony_range[0], chord_bar_idx_start+chord_metric_idx:chord_bar_idx_start+chord_idx_end] = 1
+            piano_roll[fifth_pitch_class + self.harmony_range[0], chord_bar_idx_start+chord_metric_idx:chord_bar_idx_start+chord_idx_end] = 1
+
+
+
         prev_note_idx_end = -1
-        #import matplotlib.pyplot as plt
-        #plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
-        #plt.show()
+        import matplotlib.pyplot as plt
+        plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
+        plt.show()
 
         # append to output list
         self.output.append(piano_roll)
