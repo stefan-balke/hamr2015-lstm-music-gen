@@ -98,13 +98,14 @@ class Composer:
             print '-' * 50
             print 'Iteration', iteration
 
-            self.model.fit(training_examples_X, training_examples_y, batch_size=1, nb_epoch=n_epoch)  # TODO: batch_size = 128
+            self.model.fit(training_examples_X, training_examples_y, batch_size=128, nb_epoch=n_epoch)  # TODO: batch_size = 128
 
             self.compose()
 
     def compose(self, num_measures=16):
         """Use a pre-trained neural network to compose a melody.
         """
+        SEED = self.dataset[0].transpose()
         melody = SEED[-(self.window_size-1):]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
         melody = np.expand_dims(melody, axis=0)
 
