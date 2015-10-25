@@ -79,7 +79,7 @@ class ImporterRollingStone(ImporterBase):
                 # find the closest beat on the beat_grid
                 note_idx_start = np.argmin(abs(metric_timing-beat_grid))
                 cur_metric_level = self.get_metric_level_from_num_divisions(note_idx_start, self.pr_bar_division)
-                print('metric array for note: (' + str(metric_timing) + ', ' + str(note_idx_start) + ') is: ' + str(cur_metric_level))
+                #print('metric array for note: (' + str(metric_timing) + ', ' + str(note_idx_start) + ') is: ' + str(cur_metric_level))
                 note_start_diff = (metric_timing - beat_grid)[note_idx_start]
                 duration = int((cur_note[4]+0.01)/ (1.0 / self.pr_bar_division))-1  # round
                 note_idx_end = note_idx_start + duration
@@ -103,9 +103,9 @@ class ImporterRollingStone(ImporterBase):
                 piano_roll[cur_pitch, cur_bar_idx_start+note_idx_start:cur_bar_idx_start+note_idx_end] = 1
                 piano_roll[self.metric_range[0] + cur_metric_level, cur_bar_idx_start+note_idx_start] = 1
         prev_note_idx_end = -1
-        import matplotlib.pyplot as plt
-        plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
-        plt.show()
+        #import matplotlib.pyplot as plt
+        #plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
+        #plt.show()
 
 
 
