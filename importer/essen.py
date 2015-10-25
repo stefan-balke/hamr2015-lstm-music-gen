@@ -16,7 +16,7 @@ class ImporterEssen(ImporterBase):
     def __init__(self, path='data/essen_all_songs'):
         self.output = []
         all_songs = os.listdir(path)
-        for song in all_songs:
+        for song in all_songs[:200]:
             song = self.import_piano_roll(os.path.join(path, song))
             matrix = self.add_beat_flags(song[0], song[1], song[2], song[3])
             matrix = np.transpose(matrix)
