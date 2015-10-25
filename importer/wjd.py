@@ -195,7 +195,8 @@ class ImporterWJD(ImporterBase):
 
         lowest_octave = int((pitch_range_start - transposition_offset) / 12) * 12
         for note_event in solo.melodies:
-            metric_index = (note_event.beat - 1) * 4 + note_event.tatum - 1
+            note_metric_index = (note_event.beat - 1) * 4 + note_event.tatum - 1
+            cur_bar_idx_start = note_event.bar * self.pr_bar_division
             idx_start = np.argmin(np.abs(frame_times-note_event.onset))
             idx_end = np.argmin(np.abs(frame_times-(note_event.onset+note_event.duration)))
 
@@ -208,7 +209,7 @@ class ImporterWJD(ImporterBase):
             cur_pitch_vector = np.zeros((self.pr_width, 1))
             cur_pitch_vector[cur_pitch] = 1.0
             solo_piano_roll[:, idx_start:idx_end] = cur_pitch_vector
-            solo_piano_roll[self.metric_range[0] + cur_metric_level, cur_bar_idx_start+note_idx_start] = 1
+            solo_piano_roll[self.metric_range[0] + cur_metric_level, cur_bar_idx_start+note_metric_index] = 1
         return solo_piano_roll
 
 
