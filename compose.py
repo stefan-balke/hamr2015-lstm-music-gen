@@ -7,8 +7,7 @@ import numpy as np
 import random
 import sys
 
-BEATS_PER_MEASURE = 16  # 16th note quantization
-DEFAULT_WINDOW_SIZE = 3  # number of frames per training window
+from settings import *
 
 # A song is a numpy matrix, giving our boolean features at each 16th note time slice.
 SAMPLE_SONG_1 = np.matrix([[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0],   # C / CMaj
