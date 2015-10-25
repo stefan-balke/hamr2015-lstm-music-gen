@@ -45,9 +45,9 @@ class Composer:
         # build the model: 2 stacked LSTMs
         print('Building the composer net...')
         print 'Expected vector length:', FEATURE_VECTOR_LENGTH
-        num_features = self.dataset[0].shape[1]
+        num_features = self.dataset[0].shape[0]
 
-        #assert (FEATURE_VECTOR_LENGTH == num_features)
+        assert (FEATURE_VECTOR_LENGTH == num_features)
 
         print 'num_features =', num_features
         self.model = Sequential()
@@ -144,6 +144,7 @@ class Composer:
         """
         song_data = []
         for song in self.dataset:
+            song = song.transpose()
             song_data.extend(song[i:i+self.window_size] for i in range(0, len(song) - self.window_size + 1))
         return song_data
 
@@ -172,7 +173,7 @@ class Composer:
 
 if __name__ == '__main__':
     data_rs = ImporterRollingStone(BEATS_PER_MEASURE, MELODY_INDICES_RANGE, HARMONY_INDICES_RANGE, CONTINUATION_FLAG_RANGE, METRIC_FLAGS_RANGE)
-    data_essen = ImporterEssen()
+    #data_essen = ImporterEssen()
 
     bach = Composer(data_rs.output)
     bach.train()

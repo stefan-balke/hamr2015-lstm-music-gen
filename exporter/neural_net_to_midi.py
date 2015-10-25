@@ -47,7 +47,7 @@ class MidiExporter(object):
                     break
             if n is not None:
                 new_note = note.Note(i + 60)
-                new_note.quarterLength = .25
+                new_note.quarterLength = 1
                 s.append(new_note)
 
             else:
