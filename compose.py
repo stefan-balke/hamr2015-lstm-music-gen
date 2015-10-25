@@ -41,7 +41,11 @@ class Composer:
     def _compile_model(self):
         # build the model: 2 stacked LSTMs
         print('Building the composer net...')
+        print 'Expected vector length:', FEATURE_VECTOR_LENGTH
         num_features = self.dataset[0].shape[1]
+
+        #assert (FEATURE_VECTOR_LENGTH == num_features)
+
         print 'num_features =', num_features
         self.model = Sequential()
         self.model.add(LSTM(50, return_sequences=True, input_shape=(self.window_size, num_features)))
@@ -110,11 +114,19 @@ class Composer:
             print 'x:', x
             print 'x.shape', x.shape
 
-            next_frame = np.expand_dims(self.model.predict(x, verbose=0)[0], axis=0)
+            next_frame = self.model.predict(x, verbose=0)[0]
 
-            print 'next_frame:', next_frame
+            print 'next_frame raw:', next_frame
+
+            # Winner-takes-all on melody to force monophonic, and force other floats in vector to 0 or 1.
+            next_frame = self._winner_takes_all(next_frame, MELODY_INDICES_RANGE)
+            next_frame = self._get_binary_vector(next_frame)
+            next_frame = np.expand_dims(next_frame, axis=0)
+
+            print 'next_frame normalized:', next_frame
             print 'melody.shape', melody.shape
             print 'next_frame.shape', next_frame.shape
+
 
             melody = np.concatenate([melody, np.expand_dims(next_frame, axis=0)], axis=1)
             print 'Appended melody:', melody
@@ -135,7 +147,30 @@ class Composer:
             song_data.extend(song[i:i+self.window_size] for i in range(0, len(song) - self.window_size + 1))
         return song_data
 
+    def _winner_takes_all(self, frame_vector, index_range):
+        # Copy vector and zero out the range we care about.
+        result = np.array(frame_vector)
+        for i in range(index_range[0], index_range[1]):
+            result[i] = 0
+
+        # Set the max value in that range to 1.
+        result[self._get_max_index_in_range(frame_vector, index_range)] = 1
+        return result
+
+    def _get_max_index_in_range(self, frame_vector, index_range):
+        max = -1
+        argmax = None
+        for i in range(index_range[0], index_range[1]):
+            if frame_vector[i] > max:
+                max = frame_vector[i]
+                argmax = i
+        return argmax
+
+
+    def _get_binary_vector(self, frame_vector):
+        return np.array([1 if x >= 0.5 else 0 for x in frame_vector])
 
 if __name__ == '__main__':
     bach = Composer()
     bach.train()
+
