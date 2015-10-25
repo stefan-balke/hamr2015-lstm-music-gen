@@ -1,4 +1,4 @@
-# HAMR 2015: Deep Music Generation
+# HAMR 2015: DeepComposer
 
 ## Authors
 
