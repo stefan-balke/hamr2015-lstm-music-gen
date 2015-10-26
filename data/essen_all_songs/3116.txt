@@ -1,0 +1,9 @@
+F[ERK1
+CUT[GUTEN TAG HERR GAERTNERSMANN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0582  08  G 2/4]
+MEL[  -5332  211_
+    -51-71  3_20
+    2465  544_
+    234-7  2_10 //] >>
+FCT[Liebes - Lied]

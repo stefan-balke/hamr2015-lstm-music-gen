@@ -1,0 +1,24 @@
+BOEHME
+CUT[DEN LIEBEN LANGEN TAG HAB I NUR SCHMERZ UND PLAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0460  16  G 3/4]
+MEL[-5_1_2_  3_.33_3_2_1_  5_.55_
+    -5_-6_-7_  1_.11_1_-7_-6_  3_.33__0_
+    3_  4_.44_4_5_2_  4__3_
+    5_4#_5_  6_.6-7_-7_-6_-5_  3_.31_
+    -5_-6_-5_  -5__-7_-5_-6_-5_  -5__1_
+    5_4#_5_  6_.6-7_-7_-6_-5_  3_.31_
+    -5_-6_-5_  -5__-7_-5_-6_-5_  -5__1_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]
+BOEHME
+CUT[DEN LIEBEN LANGEN TAG HAB I NUR SCHMERZ UND PLAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0460  16  G 3/4]
+MEL[-5_1_2_  3_.33_3_2_1_  5_.55_
+    -5_-6_-7_  1_.11_1_-7_-6_  3_.33__0_
+    3_  4_.44_4_5_2_  4__3_
+    5_4#_5_  6_.6-7_-7_-6_-5_  3_.31_
+    -5_-6_-5_  -5__-7_-5_-6_-5_  -5__1_
+    5_4#_5_  6_.6-7_-7_-6_-5_  3_.31_
+    -5_-6_-5_  -5__-7_-5_-6_-5_  -5__1_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

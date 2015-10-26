@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es war einmal ein Muellermann,]
+CNR[der ging im Wald spazieren,]
+REG[Osteuropa, UdSSR, Nord - Ukraine, Kol. Belowjesch]
+SRC[4, S. 317
+    1930 gedruckt]
+KEY[Q0086  08  F 3/4]
+MEL[-5  1-51_5_  432_0
+    2  321_2_  -7-6-5_0
+    -5  123143  2_1_0 //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Krauserlin, Mauserlin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0197B 04  G 4/2]
+MEL[1_  1__1_1_  2__.3_  4__.4_  4__0_
+    4_  4_4_3_4_  5__.4_  3_212__  1__0_
+    1_  1__1_1_  2__.3_  4__.4_  4__0_
+    4_  4_4_3_4_  5__.4_  3_212__  1__0_
+    1_  4__4__  3__4__  5_4_5__  4__0_
+    4_  3_4_2_4_  5_4_2_1_  4_.56_2_  5__.4_  3_4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Baseler handschr. Tenor. (Mitte des 16. Jh. Fol. 22)]

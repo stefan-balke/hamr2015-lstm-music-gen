@@ -1,0 +1,9 @@
+BOEHME
+CUT[HOERT IHR WIE SCHOEN HEUT DER POSTILLON BLAESET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0615  16  C 3/8]
+MEL[  1_3_5_  +1_5_3_  5_.55_  +1_5_
+    3_  1_3_5_  +1_5_3_  5_.55_  +1__0_  5_.55_  +1__0_
+    +1_.+1+1_  5_.55_  3_.33_  1__0_
+    1__.  1__.  1__. //] >>
+FCT[Staende - Lied, Postillon]

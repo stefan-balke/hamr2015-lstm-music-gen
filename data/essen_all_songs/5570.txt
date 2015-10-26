@@ -1,0 +1,9 @@
+KINDER
+CUT[IM KELLER IM KELLER ISTS FINSTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K2512  16  G 2/4]
+MEL[-5_  111_113_  1__-5_
+    -5_  111_113_  1__-5_
+    -5_  1_1_113_  1_1_-5_
+    -5_  1_11113_  1_1_-5_0_  5_0__. //] >>
+FCT[Kinder - Lied, Such - Spiel]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Erhebung"
+    BLENDET NICHT DEN FRISCHEN BLICK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1120  08  A 4/4]
+MEL[1_1_-7b_3b_  212_1__
+    1_3b_4_3b_  4_5_3b__
+    3b_4_5_3b_  4_3b21__
+    1_1_-7b_3b_  212_1__ //] >>
+FCT[religioeses Lied]

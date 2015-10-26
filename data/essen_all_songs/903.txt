@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Das Welt - Ende"
+    WENN ICH GLEICH KEIN SCHATZ NICHT HAB]
+REG[Europa, Mitteleuropa, Deutschland, Lothringen]
+KEY[Z1168  08  G 3/4]
+MEL[  -5-51_1_  1_-7-6-7_
+    -5-72_2_  2_1_0_
+    543_5_  5_434_
+    432_4_  4_323_
+    135_3_  2_1_0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

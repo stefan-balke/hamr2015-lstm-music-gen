@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und sah ins tiefe Tal,]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Zips]
+SRC[8, S. 287
+    1924 gedruckt]
+KEY[Q01556 08  G 6/8]
+MEL[-5  3b_3b2_2  1_.-7b_
+    -7b  3b_3b4_4  5_.0_
+    5  +1_56b_4  5_.1_
+    2  3b3b3b2_2  1_.0_
+    2  3b3b3b2_2  1_.0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

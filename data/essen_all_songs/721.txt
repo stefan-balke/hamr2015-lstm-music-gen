@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[MAEDL WENN DU MI WILLST HABE]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z0304  08  C 3/4]
+MEL[  1_.35+1  1_1_1_
+    +1_.7+16  56543_
+    4_6_54  3_5_43
+    2_4_32  1__0_
+    1_.35+1  1_1_1_
+    +1_7_(+2+16)  56543_
+    4_6_54  3_5_43
+    2_4_32  1__0_ //] >>
+FCT[Lyrisches Lied, Romanze]

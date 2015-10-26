@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die hoechste Freud]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0209  02  F 4/2 6/2]
+MEL[1  123_  0321  4_03  (3_2)(1-71)  2_1
+    1  123_  0321  4_03  (3_2)(1-71)  2_1
+    3  (2_1)(-712)(1-6_)  -5_0
+    1  123_  0321  4_03  (3_2)(1-71)  2_1 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 61.]

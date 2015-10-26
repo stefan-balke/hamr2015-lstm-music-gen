@@ -1,0 +1,11 @@
+FINK
+CUT[AUF MATROSEN DIE ANKER GELICHTET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0755  08  C 4/4]
+MEL[-5_.-5  1_111_-71  2_-5_
+    -5_-5-5  -5_-5_2_12  3_1_0__
+    1__-7_-7_  -6__0__
+    -6__-7_-7_  1__
+    1_-71  2_2_3212  3__
+    2432  1_111-7-6-7  1__0__  0__ //] >>
+FCT[Staende -, Matrosen - Lied]

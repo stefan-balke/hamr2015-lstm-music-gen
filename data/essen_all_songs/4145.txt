@@ -1,0 +1,13 @@
+F[ERK3
+CUT[FRISCH LUSTIG UND FROEHLICH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1614  08 Eb 3/4]
+MEL[1_  1_-5_3_  3_1_
+    5_  5_6543  3_2_
+    1_  1_-5_3_  3_1_
+    5_  5_6543  3_2_
+    55  67+1_76  5_3_
+    5_  67+1_76  5__
+    +1_  67+1_76  5+3+3_
+    +2+1  +2_+2_7_  +1__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

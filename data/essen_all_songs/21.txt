@@ -1,0 +1,30 @@
+BOEHME
+CUT[ES KLINGT EIN HELLER KLANG]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0024  08  D 4/4]
+MEL[-1_  -1_.-3-5_-5_  -5__.
+    -2_  -3_.-51_1_  -7__.
+    -5_  -6_.-62_2_  -5_.
+    -51_-5_  -1_-2_-3_-4#_  -5__.
+    -2_  -2__-2__  -5_.-7-7_.
+    2  2_.1-7_-6_  -5_-2_--7_
+    -2_  -2__-2__  -5_.-7-7_.
+    2  2_.1-7_-6_  -5_-2_--7_
+    -5_  1_.-7-6_-6_  -5_.-4-3_
+    -2_  -3_-5_-6_2_  1__-7__  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[ES KLINGT EIN HELLER KLANG]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0024  08  D 4/4]
+MEL[-1_  -1_.-3-5_-5_  -5__.
+    -2_  -3_.-51_1_  -7__.
+    -5_  -6_.-62_2_  -5_.
+    -51_-5_  -1_-2_-3_-4#_  -5__.
+    -2_  -2__-2__  -5_.-7-7_.
+    2  2_.1-7_-6_  -5_-2_--7_
+    -2_  -2__-2__  -5_.-7-7_.
+    2  2_.1-7_-6_  -5_-2_--7_
+    -5_  1_.-7-6_-6_  -5_.-4-3_
+    -2_  -3_-5_-6_2_  1__-7__  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]

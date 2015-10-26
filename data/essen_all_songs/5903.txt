@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Das juengere Hildebrandslied
+    'Ich wil zu Land aussreiten',]
+CNR[sprach sich meister Hildebrand;]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 18
+    1603 gedruckt in Nuernberg]
+KEY[Q0001A 16  D FREI]
+MEL[1___  3b__3b__4__4__  5___5___0__
+    5__5__  5___5__7b__5__  7b__6_5_+2__6_5_5___0__
+    5__  5__6__7b__5__  6b___5__
+    5__  4__3b__5__5__  4___3b___0__
+    3b__  3b___4__5___5__  6b___5__
+    5__  4__3b__3b__.2_  1__4__.3b_2_1_  2__-7b__0___
+    5_4_5_6b_  7b___7b__5___3b__  4_5_6b_545__
+    5__  4__3b__1_2_3b_4_  5__.4_3b__2_1_2___  1___. //] >>
+FCT[Ballade, Kampf
+    Kleinere Melodievarianten aus anderen Quellen abgedruckt.]

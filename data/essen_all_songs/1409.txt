@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Koenig von Mailand
+    Merkt fleissig auf, ihr Christenleut,]
+CNR[tut Buss, denn es ist grosse Zeit,]
+REG[Mitteleuropa, Oesterreich, Burgenland]
+SRC[3, S. 234
+    ????]
+KEY[Q1067C 08  D FREI]
+MEL[-7b_  3b_4_5_57b  4_4_3b__
+    4_  4_4_1_3b_4_3b_  2_4_-7b__
+    -7b_  3b_4_5__4__  3b_2_1__ //] >>
+FCT[Volks - Schauspiel - Lied]
+CMT[Melodievergleich zu Q0067, anderes Lied.]

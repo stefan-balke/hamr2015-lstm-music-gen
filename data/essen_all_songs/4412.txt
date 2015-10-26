@@ -1,0 +1,8 @@
+F[ERK3
+CUT[ODILIA DIE WAR BLIND GEBORN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E2113  08  G 4/4]
+MEL[-5_  1_3_2_54  3_2_1_0
+    3  2_21-7121  -7_-6_-5_0
+    -5  1_1_2_2_  5__4_3_  2__1_ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

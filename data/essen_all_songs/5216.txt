@@ -1,0 +1,12 @@
+BOEHME
+CUT[AUF DEN SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland, Oberlausitz]
+KEY[B0744  08  F 4/4]
+MEL[  1_1_123_  2_2_234_
+    3_.45_4_  3_2_1_0_
+    3_.45_5_  54344_3_
+    3_.45_5_  54344_3_
+    3_3_2_3_  4_3_2__
+    1_1_123_  2_2_234_
+    3_.45_4_  3_2_1__ //] >>
+FCT[Moral - Lied, Trost, religioes]

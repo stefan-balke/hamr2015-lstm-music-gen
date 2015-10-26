@@ -1,0 +1,13 @@
+BOEHME
+CUT[WENN SICH ZWEI HERZEN SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0501  16  E 2/4]
+MEL[  5_3b45_4_  6b__5_
+    +1_  7b_6b_5_6b_  2__.0
+    5  5_3b45_7b6b  5__4_
+    7b_  7b_.6b6b_+1_  4__.
+    4_  4_5_6b_7b_  6b_.55_
+    5_  6_7b_+1_+2_  +1_.77__
+    5_3b45_4_  6b__5_
+    +1_  5_3b_2_.3b  1__0__ //] >>
+FCT[Abschieds - Lied]

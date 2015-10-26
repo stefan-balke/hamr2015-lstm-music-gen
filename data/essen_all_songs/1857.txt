@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    Es wollt ein Maedel zum Tanze gehn,]
+CNR[sie ging gar wunderschoene.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Strehlen]
+SRC[6, S. 240
+    1842 gedruckt in Leipzig]
+KEY[Q0138  16  G 3/4]
+MEL[-5_  1_-7_1_1_2__  -7_-6_-7__0_
+    -5_  1_-7_1__3__  3_2_2__0_
+    1_  2_1_2__5__  4_3_2__0_
+    22  11-7_1__2__  -5_-7_1__0_ //] >>
+FCT[Ballade, verlorene Unschuld, Moral]

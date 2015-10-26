@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Geistliche Lieder im Jacobston]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0611D 04  G 4/2]
+MEL[1__  3b_3b_4_4_  5_545_.
+    4  3b_4_6b_55  43b23b4_.
+    4  5_5_4_4_  2__-7b__  0__
+    -7b__  3b_3b_5_5_  43b23b4_.
+    5  3b21_1_5_  3b_2_1__  0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Dresdner Hs. M. 53 (um 1560)]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[EI LIPPLE LOSS DER NO ROTHA]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[E0535  16  F 6/8]
+MEL[-5_  1__1_-7_.12_  1__.-5__
+    -5_  3__3_2_.34_  3__.0__
+    -5_  1__1_-7_.12_  1__.-5__
+    -5_  3__3_2_.34_  3__.0__.
+    5_4_3_6_.54_
+    4_3_2_5_.43_  -5_-6_-7_1__ //] >>
+FCT[Liebes - Lied]

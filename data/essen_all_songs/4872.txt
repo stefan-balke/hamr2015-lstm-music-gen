@@ -1,0 +1,13 @@
+DVA
+CUT[In einer glueckseligen Stund'
+    schlug tief in mein Herz eine Wund']
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0169  16  D 6/8]
+MEL[-5_  3_.21_1_2_3_  2__0_0__
+    5_  7_.65_4_2_5_  3__0_0__
+    1_  1_3_5_+1_7_.6  6_5_0_0__
+    5_  7_.65_442_5_  3__0_0__
+    1_  1_3_5_+1_7_.6  6_5_0_0__
+    5_  7_.65_442_5_  3__0_0__ //] >>
+FCT[Liebes - Lied]
+CMT[Grundton ? ; Inzipit = Variante zum Lied]

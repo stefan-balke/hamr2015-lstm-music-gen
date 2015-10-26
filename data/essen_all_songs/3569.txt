@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Antwerpener Kaufmannstochter
+    Andreas, Andreas kumm heuer zu mir,]
+CNR[werscht habn gute Jahre oan gute Tage bei mir.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz]
+SRC[5, S. 113
+    1911 gedruckt in Habelschwerdt]
+KEY[Q1098A 08  G 3/4]
+MEL[3_  5_5_5_  3_3_3_  6_6_6_  5_0_
+    5_  4_4_44  3_3333  2_2_2_  1__ //] >>
+FCT[Kinder - Lied ?]
+CMT[Melodievergleich zu Q0098, anderes Lied.]

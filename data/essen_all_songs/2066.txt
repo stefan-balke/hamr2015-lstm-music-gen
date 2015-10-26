@@ -1,0 +1,9 @@
+FINK
+CUT[KOMMT LASST UNS SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0317  08  A 6/8]
+MEL[-5  1_13_3  5_.3_
+    5  4_4323  2_.0_
+    2  4_43_3  6_.5_
+    3  24321-7  1_.0_ //] >>
+FCT[Jugend - Lied, Natur]

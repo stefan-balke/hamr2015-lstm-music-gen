@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Es hatt ein Schwab ein Toechterlein,]
+CNR[das wolt nicht lenger dienen,]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S. 52
+    1611 gedruckt in Coburg; Satz: Melchior Franck]
+KEY[Q0073H 16  G 2/4]
+MEL[1_  1_1_1_1_  2_2_2_
+    2_  3_5_4_3_  2__2_
+    2_  5_5_3_3_  1_1_4__
+    4__5__  6_.64_4_  3_1_2_2_  1__. //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]
+CMT[Fassung aus einem Quodlibet von Melchior Franck. Eingeklammerte
+    Noten gespielt. Schlusspause korrigiert.]

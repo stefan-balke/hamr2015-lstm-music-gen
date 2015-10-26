@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Von Gott will ich nicht lassen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0642C 08  G 4/4]
+MEL[-5_  1_2_3b_3b_  2__2_-5_  -6-7b1_1_-7_  1__0_
+    -5_  1_2_3b_3b_  2__2_-5_  -6-7b1_1_-7_  1__0__
+    5_.65_4_  3b__.2_  3b_4_5_5_  4__2_
+    2_  3b_3b_1_1_  2__-7b_-5_  -6_1_1_-7_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Besardi 1603]

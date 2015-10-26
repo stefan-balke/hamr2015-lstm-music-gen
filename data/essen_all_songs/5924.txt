@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Naehterin
+    Es suoss a Madla und naehte,]
+CNR[Es suoss a Madla und naehte,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Zobtenberg]
+SRC[1, S. 74
+    1839 aufgezeichnet]
+KEY[Q0008  16  G 2/4]
+MEL[-5_  1_1_333_  2__1_
+    1_  5_5_667_  +1__7_
+    5_  +1_6_5_42  1_2_3_
+    5_  4__3_-7_  1__0_ //] >>
+FCT[Ballade, Geburt, Tod, Moral, Entfuehrung]

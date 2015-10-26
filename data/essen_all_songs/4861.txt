@@ -1,0 +1,11 @@
+DVA
+CUT[Der goldene Rosenkranz
+    versetzt mit Perlen ganz]
+REG[Europa, Mitteleuropa, Deutschland, Wolga - Kolonie]
+KEY[D0148  08 Eb 3/4]
+MEL[1_  3_5_3_  2_1_2_  1__.  ^_0_
+    23  4_5_4_  3_4_5_  2__.  ^_0_
+    2_  5_6_5_  1__23  4_5_3_  2__
+    46  5_4_3_  2_3_2_  1__.  ^_0_ //] >>
+FCT[geistliches Lied, Marien - Lied]
+CMT[Inzipit = entfernte Varianta zum Lied ??]

@@ -1,0 +1,13 @@
+FINK
+CUT[WENN MEIN PFEIFCHEN DAMPFT UND GLUEHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0052A 16  D 2/4]
+MEL[  1_3_3_5_  5_342__
+    1_3_3_5_  5__2__
+    1_3_3_5_  5_342__
+    5_.+16442  2__1_0_
+    2_.55_.2  2_.11_-7_
+    2_.77_.4#  4#__5_0_
+    1_3_3_5_  5_342__
+    5_.+16442  2__1_0_ //] >>
+FCT[Scherz - Lied, Lob des Tabaks]

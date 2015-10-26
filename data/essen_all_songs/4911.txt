@@ -1,0 +1,14 @@
+DVA
+CUT[Schon wieder toent vom Schachte her
+    des Gloeckleins leises Schallen]
+REG[Europa, Mitteleuropa, Deutschland, Oberschlesien]
+KEY[D0238  08  D 6/8]
+MEL[ 5  5_33_3  3_11_1  4_6+176  7_.50
+    5  5_46_4  4_35_5  5_5567  +2_+1_0
+    +1  +2_75_4  3_5+10
+    +1  +2_75_4  3_5+10
+    +1  6_6+176  5_.+10
+    +1  7_.6_7  +1_36_
+    5  5_.+4_7  +1_.+10 //] >>
+FCT[Staende - Lied, Bergmann]
+CMT[Inzipit = Transposition zum Lied]

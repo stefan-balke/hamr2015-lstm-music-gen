@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Bettelmoench]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0459  02  F 4/2]
+MEL[1  1_3_  5_05  6554  3_0
+    3  3333  4_33  3221  2_0
+    2  -6-6-7_  1_01  3333  1_0
+    1  4444  4_32  3221  2_0
+    2  -6-6-7-7  1_11  3342  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 22]

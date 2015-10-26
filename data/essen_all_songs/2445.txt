@@ -1,0 +1,11 @@
+FINK
+CUT[ES IST EIN SCHNEE GEFALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1105  16  E 2/4]
+MEL[5_  5_3b_4_6b_  6b__5_
+    +1_  7b_5_4#_6_  5__.
+    +3b_  +2_7b_6b_+1_  +1__7b_
+    +1_  7b_5_4_6b_  6b__5_
+    4_  3b_.15_23b  1__+1_
+    7b_  7b6b545_23b  1__0_ //] >>
+FCT[Natur -, Jahreszeiten - Lied, Fruehling]

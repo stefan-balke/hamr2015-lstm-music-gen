@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Wilhelmus van Nassouwe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0409A 08  C 4/4]
+MEL[-5_  1_1_2_2_  3_234_3_  2_2_1_
+    -5_  1_1_2_2_  3_234_3_  2_2_1__
+    0_5_5_5_  5_43_23_  4_3_2_1_  2__0_
+    3_  1__3_2_  ^_1_-7_-6-5  -6_1_1_-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[1607]

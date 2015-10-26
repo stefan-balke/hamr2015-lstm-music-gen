@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Dunkles Woelklein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0207  02  G 3/2]
+MEL[1  5_5  4_2  3b_4  2_
+    5  5_5  4_2  3b_4  2_
+    1  -7b_-6  -5_5  7b_.  5_.
+    43b4  2_2  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[P. Werlin 1646 S. 1504]

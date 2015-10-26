@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    O,]
+CNR[Kralobitscho Marko 't shi geheiroten!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Graflinden]
+SRC[4, S. 8
+    1907 aufgezeichnet]
+KEY[Q0072E 08  A FREI4/4]
+MEL[5___4321___
+    1_1_2_4_  3_2_1_3_  2__2__  1___ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Melisma auf "O" am Beginn jeder Zeile = Refrain.]

@@ -1,0 +1,34 @@
+BOEHME
+CUT[TYROLER SIND LUSTIG TYROLER SIND FROH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0187  08  C 3/4]
+MEL[535  +153_.1  -724_.
+    6  42-7_-75  5_.
+    435  +153_.1  -724_.
+    6  42-7_-7_  1_0_
+    5_  4#62_.4#  572_.
+    5  4#567+16  7+2+17
+    65  4#62_.4#  572_.
+    5  4#567+16  5_.
+    535  +153_.1  -724_.
+    6  42-7_-75  5_.
+    435  +153_.1  -724_.
+    6  42-7_-7_  1_0 //] >>
+FCT[Natur - Lied, Landleben, Berg]
+BOEHME
+CUT[TYROLER SIND LUSTIG TYROLER SIND FROH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0187  08  C 3/4]
+MEL[535  +153_.1  -724_.
+    6  42-7_-75  5_.
+    435  +153_.1  -724_.
+    6  42-7_-7_  1_0_
+    5_  4#62_.4#  572_.
+    5  4#567+16  7+2+17
+    65  4#62_.4#  572_.
+    5  4#567+16  5_.
+    535  +153_.1  -724_.
+    6  42-7_-75  5_.
+    435  +153_.1  -724_.
+    6  42-7_-7_  1_0 //] >>
+FCT[Natur - Lied, Landleben, Berg]

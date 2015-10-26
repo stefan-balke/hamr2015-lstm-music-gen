@@ -1,0 +1,9 @@
+F[BALLADE
+CUT[Entfuehrung unterm Tanz
+    Bie vrie ischt auf nar Knes'n Jure.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Oberpockstein]
+SRC[5, S. 48
+    1907 aufgezeichnet]
+KEY[Q0092  08  A 3/4]
+MEL[113b  4_4_3b2  3b_1 //] >>
+FCT[Ballade, Entfuehrung]

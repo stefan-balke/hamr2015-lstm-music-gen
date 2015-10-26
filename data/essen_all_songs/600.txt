@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[EI SO SAGT MIRS FREI, WAS DOCH SCHOENER SEI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0184  16  C 3/8]
+MEL[  1__-5_  1__-5_  1__.
+    2__-5_  2__-5_  2__.
+    3__1_  5__3_  2__.
+    3_.131  5__3_  2__.
+    -5__-5_  5__-5_  -5__.
+    -5__-5_  5__-5_  -5__.
+    1_.-531  5__3_  4__2_  1__. //] >>
+FCT[Soldaten -, Jaeger - Lied]

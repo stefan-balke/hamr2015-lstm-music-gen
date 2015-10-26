@@ -1,0 +1,10 @@
+DVA
+CUT[Echo - Jodel]
+REG[Europa, Mitteleuropa, Schweiz, Bern]
+KEY[D0101  16  G 3/4]
+MEL[1__.2_3__  +1___1_.6  5___.
+    3__.+1_3__  4__7__.6_  5___.
+    2__.3_4__  7___^_.6  5___.
+    4__.+2_4__  3__5__+1__  +3___^_+2_  +1___. //] >>
+FCT[Jodler]
+CMT[vollstaendig ?]

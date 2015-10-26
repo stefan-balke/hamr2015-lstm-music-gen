@@ -1,0 +1,13 @@
+F[ERK3
+CUT[MIT LUST VOR WENIG TAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1448  08  G 4/4 3/4]
+MEL[-5_  1_1_2_12  3_2_
+    3_  4_3_212_  1__0_
+    -5_  1_1_2_12  3_2_
+    3_  4_3_212_  1__0_
+    34  5__6_  5__4_  3_.2
+    3_  4_.34_  5_4_3_  2__
+    -5_  1_.23_  2__1_  -7_.-6
+    -5_  -6__1_  1__-7_  1__ //] >>
+FCT[Staende -, Jaeger - Lied]

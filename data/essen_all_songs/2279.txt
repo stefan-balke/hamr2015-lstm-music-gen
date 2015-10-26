@@ -1,0 +1,9 @@
+FINK
+CUT[HOCH SOLL EWIG LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0710  08 Bb 6/8]
+MEL[  1_13_3  5_.3_0
+    6_6531  5_43_0
+    3_32#1#2#  3_34_4
+    3_.542  1_.3_2  1_0__ //] >>
+FCT[Geselligkeits -, Trink - Lied]

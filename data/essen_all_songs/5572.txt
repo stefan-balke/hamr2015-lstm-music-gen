@@ -1,0 +1,9 @@
+KINDER
+CUT[GUTEN TAG HERR PAPPELJENER]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt]
+KEY[K2516  16 Eb 2/4]
+MEL[11  5_5_6_6_  5__3_
+    1_  5_5_6_6_  5__3_
+    1_  5_5_6_6_  5__3_
+    1_  5_5_6_6_  5_0__ //] >>
+FCT[Kinder - Lied, Such - Spiel]

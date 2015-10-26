@@ -1,0 +1,10 @@
+F[ERK2
+CUT[WIE GRUENE IST DIE LINDE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn, Kessenich]
+KEY[E0679G 08  E 4/4]
+MEL[15  5_.45_+1_  6_.54_0_
+    5_+1_7b_6_  5__0_
+    5_  5_.5+1_+15  5_.+1+17b
+    6b5  5_42543b1  5__.
+    6b_  5_42543b2  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

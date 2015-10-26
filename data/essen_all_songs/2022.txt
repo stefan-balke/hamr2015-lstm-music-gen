@@ -1,0 +1,11 @@
+FINK
+CUT[FROHE STUNDEN GIBTS IM LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0259  16  G 3/4]
+MEL[3_.2  1__.2_3_4_  3__2__
+    4_.3  2__.2_3_.4#  5__0__
+    5_.4  3__.7b_6_5_  5__4__
+    4_4_  6__.5_4_3_  2___0__
+    1_.-71_2_3_4_  5__+1__6__
+    5_.65_4_3_2_  1__0__ //] >>
+FCT[Jugend - Lied, Belehrung, Moral, religioes]

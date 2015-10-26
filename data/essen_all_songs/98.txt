@@ -1,0 +1,16 @@
+BOEHME
+CUT[IN DER FINSTERN MITTERNACHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein (?)]
+KEY[B0127  08  D 4/4]
+MEL[  5_53b1_4_  3b_121_0_
+    3b_23b4_4_  5_123b21_  -7b__
+    2_4_  5_123b_2_  1__0__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[IN DER FINSTERN MITTERNACHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein (?)]
+KEY[B0127  08  D 4/4]
+MEL[  5_53b1_4_  3b_121_0_
+    3b_23b4_4_  5_123b21_  -7b__
+    2_4_  5_123b_2_  1__0__ //] >>
+FCT[Ballade, Romanze]

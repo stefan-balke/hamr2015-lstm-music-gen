@@ -1,0 +1,13 @@
+BOEHME
+CUT[EIN BAUER IST EIN EHRENMANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0609  08  D 4/4]
+MEL[5_  +1_+1_+1_+1_  +1_765_
+    3_  6_4_2_5_  3__0_
+    5_  5_3_+1_+1_  +1_.+27_
+    5_  6_7+1+2_+2_  5__0_
+    5_  5_3_+1_7+1  +2_4_4_
+    4_  3_.5+1_+1_  7__0_
+    5_  6_6_+2_+2_  5_67+1_
+    3_  4_345_5_  1__0_ //] >>
+FCT[Staende -, Bauern - Lied]

@@ -1,0 +1,8 @@
+F[ERK3
+CUT[DER HIMMEL STEHT OFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Frankfurt a.M.]
+KEY[E2037  08  G 3/4]
+MEL[-5_  1_-3_-6_  -6_-5_12  3_.132  2_0_
+    -5-5  4_4_2_  3_3_1_  2_4_-7_  1__
+    -5-5  4_4_2_  3_3_1_  2_4_-7_  1__ //] >>
+FCT[geistlich, Wallfahrts - Lied]

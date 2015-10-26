@@ -1,0 +1,9 @@
+F[ERK1
+CUT[KAISER DER NAPOLEON]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0349B 16  G 2/4]
+MEL[  -5_1_1_1_  -7_2_2__
+    2_2_2_2_  3_5_5__
+    3_.33_3_  5_.44__
+    2_2_5_.4  4__3__ //] >>
+FCT[historisches Lied, Napoleons russischer Feldzug (1812)]

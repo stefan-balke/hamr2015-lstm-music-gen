@@ -1,0 +1,9 @@
+FINK
+CUT[ES RITT EIN JAEGERSMANN WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0640  16  A 6/8]
+MEL[-5_  1__3_3_2_1_  2__-7_-5__
+    2_  2__4_4_3_2_  3__2_1__0_
+    1__-5_-6_-6_-5_  111_-5_-6-6-5_
+    1_  1__-5_3_2_1_  2__3_1__ //] >>
+FCT[Staende -, Jaeger - Lied, Liebe]

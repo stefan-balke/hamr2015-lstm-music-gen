@@ -1,0 +1,10 @@
+BOEHME
+CUT[NUN LEB WOHL DU KLEINE GASSE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0493  16  A 3/4]
+MEL[1_2_  3__.1_1_-6_  -6_.-5-5__
+    -5_1_  2__.1_4_3_  2__0__
+    2_.-6  1_.-7-7__2_.-6  1_.-7-7__0__
+    1_.-5-6_-5_1_2_  3__5__4__
+    3_.33_-5_3_.2  1___ //] >>
+FCT[Abschieds - Lied]

@@ -1,0 +1,11 @@
+FINK
+CUT[DIE FEIGHEIT ISTS DIE UNS VERDIRBT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0452  08  F 4/4]
+MEL[-5_  1_3_5_31  6_4_2_0
+    1  -7_2_5_.2  4_3_1_0
+    3  2_4#_5_4#3  2_4#_5_
+    7_  6_+1_3_4#_  6_.55_
+    5_  4_234_6_  5_.35_
+    +1_  6_425_12  3_2_1_ //] >>
+FCT[Vaterlands -, Heimat - Lied]

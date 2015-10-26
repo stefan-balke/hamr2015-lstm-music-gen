@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Als ich es chlises Chnaebli war,]
+CNR[de Vater lehrt mich gige.]
+REG[Mitteleuropa, Schweiz]
+SRC[3, S. 178
+    ????]
+KEY[Q0062K 16  D FREI]
+MEL[-7b_  5_.555  6b_5_4__0_
+    4_  5_6b_7b_+1_  7b__5_
+    4_  5__+1_7b_.55_  5_.42_3b__
+    4_  5__6b_7b_.45_  3b__1__0_ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied, Strafe, Gnade]
+CMT[Taktart in "FREI" korrigiert, unklar. Verzierung (Vorschlag).]

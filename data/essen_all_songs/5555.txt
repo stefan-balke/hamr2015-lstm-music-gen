@@ -1,0 +1,9 @@
+KINDER
+CUT[EINS ZWEI DREI VIER FINKELSTEIN]
+REG[Europa, Mitteleuropa, Deutschland, Siegerland]
+KEY[K2371  08  F 2/4]
+MEL[  5533  553_
+    5566  553_
+    5566  553_
+    5_6_  5_0_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

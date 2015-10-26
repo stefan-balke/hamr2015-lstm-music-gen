@@ -1,0 +1,16 @@
+BOEHME
+CUT[ICH DENKE DEIN WENN DURCH DEN HAIN DER NACHTIGALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0393  08  D 3/4]
+MEL[134  5_.563  5_0
+    +1+2+1  7666+16  655
+    356  2_.345  3_. //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ICH DENKE DEIN WENN DURCH DEN HAIN DER NACHTIGALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0393  08  D 3/4]
+MEL[134  5_.563  5_0
+    +1+2+1  7666+16  655
+    356  2_.345  3_. //] >>
+FCT[Liebes - Lied, Liebes - Lust]

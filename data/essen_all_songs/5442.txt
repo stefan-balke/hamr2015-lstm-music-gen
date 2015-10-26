@@ -1,0 +1,11 @@
+KINDER
+CUT[REGEN REGEN SCHUREN]
+REG[Europa, Mitteleuropa, Deutschland, Ruhrgebiet, Kettwig]
+KEY[K1024  08  G 2/4]
+MEL[  1122  3_1
+    -5  1122  3_1
+    1  3321  3_3
+    3  2223  1_1
+    3  2_13  2_10
+    5111  1-71_ //] >>
+FCT[Kinder -, Natur -, Regen - Lied]

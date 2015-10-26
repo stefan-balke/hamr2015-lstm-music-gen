@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[WENNS KUMMT UM WEIHNACHTE]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0201  16 Bb 3/8]
+MEL[-5_  135_5_  544__
+    3_3_.3  322_.
+    4  321_-7_  1__
+    -5_  135_3_  322_.
+    -5  135_3_  3_2_
+    -5_  135_5_  544_.
+    4  321_-7_  1__ //] >>
+FCT[Schiffer -, Handwerker - Lied]

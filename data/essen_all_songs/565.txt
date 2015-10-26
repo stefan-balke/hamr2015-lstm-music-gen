@@ -1,0 +1,7 @@
+ZUCCAL
+CUT[WENN ICH EIN VOEGLEIN WAER]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0149  08  G 3/4]
+MEL[1_1_1_  3_.21_  3_3_3_  5_.43_  5_4_3_  2__0_
+    2__1-7  1_2_3_  4__32  3_4_5_  543_2_  1__0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

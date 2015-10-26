@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge,]
+CNR[Ich stand und schaute hin.]
+REG[Mitteleuropa, Deutschland / UdSSR, Kurisches Haff, Karkeln]
+SRC[8, S. 292
+    1830 aufgezeichnet]
+KEY[Q0155R.08  G 2/4]
+MEL[34  5_.6  5432  3__  2__
+    3_33  4#_4#_  5_
+    34  5_.6  5432  3__  2__
+    3_33  4#_4#_  5_
+    5_  +1_+1_  7_7_  6__  5_.5  4__  3_
+    5_  6_54  3_2_  1__  0_
+    5_  +1_+1_  7_7_  6__  5_.5  4__  3_
+    5_  6_54  3_2_  1__  0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Anhaengsel an der fuenften und siebten Zeile. Verzierung (Vorschlag)
+    Taktstrich in der ersten und dritten Zeile eingefuegt.
+    Schlusspause ergaenzt.]

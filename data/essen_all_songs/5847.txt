@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Rumpel nit!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0303B 01  F 3/1]
+MEL[   1_1  1_1  5_5  5_
+    4  4_4  4_5  32_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzel Quodl. 8.]

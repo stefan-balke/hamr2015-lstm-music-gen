@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Kejseren havde de Dottre tre,]
+CNR[den ene hun vil ikke spinde,]
+REG[Nordeuropa, Daenemark]
+SRC[4, S. 50
+    1891 gedruckt in Kobenhavn]
+KEY[Q2073F 16  D 2/4]
+MEL[  5_555_+3b+3b  +3b_+1_5_
+    7b_  7b_7b_+3b+1+17b  5__7b_
+    5_  7b_7b56b_6b4  5_53b1_
+    1_  3b_3b3b4_44  4__6b_
+    5_  3b__5_5_  3b_221__ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]
+CMT[Daenische Fassung der Ballade, mit "Die wiedergefundene Schwester"
+    vermischt.]

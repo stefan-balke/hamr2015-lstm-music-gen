@@ -1,0 +1,8 @@
+F[ERK2
+CUT[DA DROBEN AUFM BERGEL]
+REG[Europa, Mitteleuropa, Oesterreich, Wien]
+KEY[E0677  08  F 3/8]
+MEL[5  543  666  5_
+    5  543  444  3_
+    3  321  222  1_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

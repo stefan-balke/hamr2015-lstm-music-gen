@@ -1,0 +1,11 @@
+F[ERK3
+CUT[BIMBAUM DIE GLOCK IST KRANK]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+KEY[E1823  08  G 2/4]
+MEL[  5_31  553_
+    5_31  553_
+    5531  5_30
+    5531  5_30
+    5531  5_3_
+    6543  2_1_ //] >>
+FCT[Kinder -, Schaukel -, Reiter - Lied]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ARM UND KLEIN IST MEINE HUETTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0450  08  F 4/4]
+MEL[13  5_.35434  531_0_
+    13  3242211-7  -7_1_0_
+    13  5_.35434  531_0_
+    13  3242211-7  -7_1_0_
+    55  +1_.77665#  5#66_0_
+    55  +1_.55443  3_2_0_
+    13  5_.35434  531_0_
+    13  3242211-7  -7_1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Moral]
+BOEHME
+CUT[ARM UND KLEIN IST MEINE HUETTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0450  08  F 4/4]
+MEL[13  5_.35434  531_0_
+    13  3242211-7  -7_1_0_
+    13  5_.35434  531_0_
+    13  3242211-7  -7_1_0_
+    55  +1_.77665#  5#66_0_
+    55  +1_.55443  3_2_0_
+    13  5_.35434  531_0_
+    13  3242211-7  -7_1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Moral]

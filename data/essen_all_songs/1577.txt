@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Es hat ein Schwab' ein Toechterlein,]
+CNR[die wollte nicht mehr dienen,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt]
+SRC[4, S. 52
+    ????]
+KEY[Q0073M 08  G 6/8]
+MEL[-5  1_1-7_-7  1_-3-4_
+    -4  -3_-4-6_-6  -6_-5-5_
+    1  1_34_1  -7_23_
+    1  -7_12_1  3_21_
+    1  1_34_1  -7_23_
+    1  -7_12_1  3_21_ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]

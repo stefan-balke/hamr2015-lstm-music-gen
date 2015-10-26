@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die drei angeworbenen Maedchen
+    Daar waren drie jonge maagden]
+CNR[te Gent in Vlaanderland,]
+REG[Mitteleuropa, Niederlande]
+SRC[5, S. 114
+    1800 gedruckt in Amsterdam (ca.)]
+KEY[Q2099  16  F 6/8]
+MEL[-5_  1__2_3_.23_  1__.1__
+    2_  3_.4#5_6__4#_  5__.^__
+    34  5_.45_6_.54_  3__.1__
+    23  4__4_4_4_3_  2__.2__
+    22  5_.65_4_.53_  2__.
+    5__5_  4_.53_2__1_  1__.^__ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Ausschweifung]
+CMT[Niederlaendische Fassung der Ballade.]

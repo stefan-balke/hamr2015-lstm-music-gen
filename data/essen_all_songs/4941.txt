@@ -1,0 +1,10 @@
+DVA
+CUT[Warum weinst du, schoene Gaertnersfrau]
+REG[Europa, Mitteleuropa, Deutschland, Anhalt, Rauschenbach, Loedderitz]
+KEY[D1013  08  G 4/4]
+MEL[-5-5  1_1_1_1_  1_3_-5__
+    -5_-7_2_.1  -7_2_4_3_  1__0_
+    -5-5  1_3_3_5_  4_3_2_1_  -6__
+    1_-6_  -5_1_-7_-6_  -7_1_3_2_  1__0_ //] >>
+FCT[???]
+CMT[DVA-Signatur A 59 974]

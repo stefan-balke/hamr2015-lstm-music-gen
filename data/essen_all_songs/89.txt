@@ -1,0 +1,22 @@
+BOEHME
+CUT[AN DEM SCHOENSTEN FRUEHLINGSMORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0117  08 Bb 4/4]
+MEL[-5-5  1_3_.321  -724_0_
+    32  1_.12123  1__0_
+    1-7  -6_.-6-5_-6-7  211_0_
+    1-7  -6_.-6-5_-6-7  1__0_
+    1_  -7_2__1-7  1_3__
+    21  -7123421-7  1__0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[AN DEM SCHOENSTEN FRUEHLINGSMORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0117  08 Bb 4/4]
+MEL[-5-5  1_3_.321  -724_0_
+    32  1_.12123  1__0_
+    1-7  -6_.-6-5_-6-7  211_0_
+    1-7  -6_.-6-5_-6-7  1__0_
+    1_  -7_2__1-7  1_3__
+    21  -7123421-7  1__0_ //] >>
+FCT[Ballade, Romanze]

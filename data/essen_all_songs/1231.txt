@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es hat ein Bauer ein Toechterlein,]
+CNR[auf Erden kann sie nit schoener sein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 266
+    ????]
+KEY[Q0051G 08  G 6/8]
+MEL[-54_4  4323_2  1_
+    -5111  1-712_-7  -5_
+    -5111  321232  1_ //] >>
+FCT[Ballade, Hochzeit, Tod]

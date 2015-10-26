@@ -1,0 +1,9 @@
+F[ERK3
+CUT[FAHR MER NET UEBER MEI ACKERLE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E1005A 08  G 3/4]
+MEL[  3_.22_  4_3_4_  5_5_5_
+    3_.22_  4_3_4_  5__0_
+    5_.65_  4_5_4_  3_3_3_
+    5_.65_  4_5_4_  3__0_ //] >>
+FCT[Tanz - Lied]

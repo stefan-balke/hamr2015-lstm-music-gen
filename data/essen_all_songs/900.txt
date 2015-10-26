@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Falscher Sinn"
+    JETZT KOMMT DIE ZEIT DASS ICH WANDERN MUSS]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+KEY[Z1165  16  C 2/4]
+MEL[34  5_.+15_54  3_3_2_
+    2_  3_5_4#_6_  5__0_
+    35  +1_7_6_5_  6__5__  4_543_
+    +1_  6_543_2_  1__0_ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

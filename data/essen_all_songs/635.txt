@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES WOLLT EIN JAEGER JAGEN, DREI STUNDEN VOR DEM TAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0219  08  G 3/8]
+MEL[-5  111  33-7  1_3  2_
+    -5  111  32-7  1_3  2_
+    -5  1_3  531  1-5-5  -5-3
+    -5  -5-3-5  -5-3-5  1_
+    3  531  4-5-5  1_ //] >>
+FCT[Jaeger - Lied]

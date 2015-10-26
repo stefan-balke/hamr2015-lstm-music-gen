@@ -1,0 +1,8 @@
+KINDER
+CUT[EIN SCHNEIDER FING NE MAUS]
+REG[Europa, Mitteleuropa, Deutschland, Zwickau]
+KEY[K1239  16  F 2/4]
+MEL[-5_  1_.11_.1  1__.
+    2_  3_.33_.3  3__.
+    5_  5_.55_.5  6_5_4_3_  2__5__  5__0_ //] >>
+FCT[Kinder -, Spass - Lied, Neck - Maerchen]

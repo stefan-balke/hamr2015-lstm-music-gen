@@ -1,0 +1,20 @@
+BOEHME
+CUT[SO ALLEINE WANDELST DU]
+REG[Europa, Mitteleuropa, Deutschland, Pommern; Brandenburg; Niederrhein]
+KEY[B0137  16  A 3/4]
+MEL[-5_-5_  1__.-5_3_2_  2__1__0__
+    1_.-7-6_-5_-4_-6_  -6__-5__0__
+    2_.1-7_-6_-5_-4_  -3_-5_1__0__
+    3_1_3_1_5_.3  3__2__0__
+    5_3_6_4_3_.2  2__1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[SO ALLEINE WANDELST DU]
+REG[Europa, Mitteleuropa, Deutschland, Pommern; Brandenburg; Niederrhein]
+KEY[B0137  16  A 3/4]
+MEL[-5_-5_  1__.-5_3_2_  2__1__0__
+    1_.-7-6_-5_-4_-6_  -6__-5__0__
+    2_.1-7_-6_-5_-4_  -3_-5_1__0__
+    3_1_3_1_5_.3  3__2__0__
+    5_3_6_4_3_.2  2__1__ //] >>
+FCT[Ballade, Romanze]

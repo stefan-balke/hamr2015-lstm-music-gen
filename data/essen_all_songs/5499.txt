@@ -1,0 +1,10 @@
+KINDER
+CUT[WIR GINGN EINMAL NACH SCHWABEN]
+REG[Europa, Mitteleuropa, Deutschland, Meerane]
+KEY[K2181  08  F 2/4]
+MEL[1  5556  5_3
+    3  5556  553
+    3  5556  5_30
+    553_  553_
+    5556  553 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

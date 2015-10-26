@@ -1,0 +1,13 @@
+BOEHME
+CUT[HORCH WAS KOMMT VON DRAUSSEN REIN]
+REG[Europa, Mitteleuropa, Deutschland, Birkenfeld]
+KEY[B0607  16  C 2/4]
+MEL[  -1_-2_-3_-4_  -5_-6_-5__
+    -4_-2_-7_.-6  -5_-3_1__
+    -1_-2_-3_-4_  -5_-6_-5__
+    -4_-2_-7_2_  1__0__
+    -6_-4_1_-7-6  -5_-3_-5__
+    -4_-2_-7_.-6  -5_-3_1__
+    -6_-4_1_-7-6  -5_-3_-5__
+    -4_-2_-7_2_  1__0__ //] >>
+FCT[Staende -, Seemanns - Lied, Tod]

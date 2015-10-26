@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Elissko mila srdeczna]
+CNR[napecz nam koblihu.]
+REG[Osteuropa, Tschechoslowakei]
+SRC[1, S. 217
+    15?? Handschrift]
+KEY[Q2020F 04  G 6/4]
+MEL[  1_3b2_1  2_25_
+    5  1_23b_1  -7b_.0_.
+    2_24_4  1_13b_
+    2  1_-6-5_-7b  1_.0_. //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Eingeklammerte Pausen gespielt.
+    Die"Elslein"-Melodie wird in direkten Zusammenhang zur Balladengruppe
+    gestellt.]

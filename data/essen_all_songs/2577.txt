@@ -1,0 +1,10 @@
+F[ERK1
+CUT[SUSANNCHEN SPRANG ZUM THOR HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E0051A 08  A 4/4]
+MEL[-5_  1_.11_1_  3_.21_0_  0__
+    3__  2__1__  -7__-6__  -5_.-6-5_
+    -4_  -3_-5_-3_-5_  3_.21_
+    1_  2__-7__  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

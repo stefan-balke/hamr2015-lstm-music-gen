@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH WILL IN GARTEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+KEY[E1914  08  A 3/4]
+MEL[-5_  1_.-712  3b12_
+    5_  43b2_4_  3b21_3b_  2__5_  3b__
+    -5_  1_.-712  3b12__
+    5_.45_  43b2__
+    2_5_4_  43b2__
+    2_43b2_  3b21_3b_  2__5_  1__ //] >>
+FCT[Kinder - Lied, religioes]

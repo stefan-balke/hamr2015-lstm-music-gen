@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Abendreihen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0282B 04  F 4/4]
+MEL[    3_33  5_4_  3214  3_
+    4_  321-7  -6_-5_  2_2_  3_
+    4_  321-7  -6_-5_  2_3_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Nik. Hermann: Historien von der Sindflut Leipzig 1563]

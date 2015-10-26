@@ -1,0 +1,13 @@
+F[ERK3
+CUT[O SCHAEFER WO GEHEST DU HIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken, Wonfort]
+KEY[E1493  08  G 3/4]
+MEL[-5_  1_1_3_  2_1_2_  3__
+    1_  2_.346  5_1_32  1__
+    -5_  1_1_3_  2_1_2_  3__
+    1_  2_.346  5_1_32  1__
+    3_  321_23  4_342_
+    2_255_  3_.21_
+    1_.23_  2_-7_24  3__
+    1_  2_.346  5_1_32  1__ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

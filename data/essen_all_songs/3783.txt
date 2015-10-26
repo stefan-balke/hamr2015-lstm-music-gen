@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WOLAUF MIT MIR AUF DIESEN PLAN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Ulm]
+KEY[E1059  04  F 6/4]
+MEL[1  3_33_5  2_31_
+    1  -7_12_3  -6_-6-5_
+    -5  1_23_2  3_45_
+    5  5654_3  32_1_ //] >>
+FCT[Tanz - Lied, Toten - Tanz, geistlich]

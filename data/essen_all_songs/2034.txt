@@ -1,0 +1,13 @@
+FINK
+CUT[HORCH WER REITET SO]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0279  08  F 4/4]
+MEL[  1_0-51234  5__0__
+    1_0-51234  5__0_.
+    5  4#_2_3_4#_  5_4_2_.
+    5  6_2_3_4#_  6_5_5_.
+    5  +1_+1_7_7_  6_6_5_.
+    5  6_6_5_5_  4_4_3_.
+    3  2_3_4_4#_  5__0_.
+    4  3_5_2_5_  1__0__ //] >>
+FCT[Jugend - Lied, Spiel]

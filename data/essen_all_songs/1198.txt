@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Graf Friedrich wollt' ausreiten]
+CNR[mit seinen Hochzeitleuten,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Zobten, Kapsdorf]
+SRC[2, S. 216
+    1840 aufgezeichnet]
+KEY[Q0048H 16  C 2/4]
+MEL[-5_  1_.-5-6_1-6  -5_.-4-3_
+    -5_  1_.-5-6_1-6  -5_.-4-3_
+    1_  21-7-6-5_1_  343232
+    11  21-7-6-5_1_  322_1_
+    1_  21-7-6-5_1_  343232
+    11  21-7-6-5_1_  322_1_ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Grundton in der zweigestrichenen Oktave.]

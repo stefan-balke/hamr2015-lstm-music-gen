@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Es kehrt ein Soldat vom Krieg zurueck, hurra!]
+CNR[Es kehrt ein Soldat vom Krieg zurueck, hurra!]
+REG[Mitteleuropa, Deutschland (BRD) , Baden]
+SRC[5, S. 160
+    ????]
+KEY[Q0103I 16  G 4/4]
+MEL[-5__  1__1_1_1__1__  1__3_.32__1__  2___0__
+    -5__  2__2_2_2__2__  2__3_.34__5__  3___0__
+    5_4_  3__3__3__5__  5__.4_4__
+    4_3_  2__2__2__6__  6__.5_5__
+    4__  3__3__2__5_4_  3___0__
+    5_4_  3__3__3__5__  5__.4_4__
+    4_3_  2__2__2__6__  6__.5_5__
+    4__  3__3__2__5_4_  3___0__ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Anhaengsel; fuenfte und letzte Zeile = Refrain.]

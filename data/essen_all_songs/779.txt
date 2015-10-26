@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Rattenfaenger von Hameln"
+    KOMMT DAHER EIN WUNDERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[Z1044  16  G 2/4]
+MEL[1_1_-7_1_  2_321__
+    2_2_3_5_  4_3_2__
+    3_2_1_1_  4_6_5__
+    4_2_3_1_  322_1__
+    3_.21_1_  4_6_5__
+    4_2_3_1_  322_1__ //] >>
+FCT[Romanze, Ballade, Tod]

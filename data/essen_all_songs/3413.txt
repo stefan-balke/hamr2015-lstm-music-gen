@@ -1,0 +1,10 @@
+F[ERK2
+CUT[RECHT VERGNUEGET KANN MAN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus; Limburg]
+KEY[E0862  16  F 2/4]
+MEL[  1__2__  3_5_5_43  3__2__
+    1__2__  3_5_5_43  3__2__
+    1_.35_+1_  6_.56543
+    2_.34_6_  5_.45432
+    1__2__  3_5_5_43  3__2__ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

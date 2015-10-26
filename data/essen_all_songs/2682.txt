@@ -1,0 +1,10 @@
+F[ERK1
+CUT[GRAF FRIEDRICH WOLLT AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau, Conradsdorf]
+KEY[E0107A 08  F 3/4]
+MEL[-5_  123_3_  2_1_0
+    1  345_5_  4_3
+    333  5_4222  4_3
+    112  3_5_22  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

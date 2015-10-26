@@ -1,0 +1,11 @@
+FINK
+CUT[ICH HAB MEIN SACH AUF NICHTS GESTELLT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0045  08  D 4/4]
+MEL[-5_  1_-7_1_2_  3_.21_3_  2__0_
+    -5_  2_1_2_3_  4_.32_2_  3__0_
+    3_  3_.33_2_  1_-7_1_
+    -6_  2_.22_1_  -7_-6-6-7_
+    -5_  3_.21_-7_  -6_-6_1_
+    -6_  -5_1_-7_2_  1_0__ //] >>
+FCT[Trink - Lied]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[KRANE KRANE SCHWICKLE SCHWANE]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Barmen; Elberfeld]
+KEY[E1880  08  F 2/4]
+MEL[  5434  5434
+    5556  5434
+    5556  5_34
+    5556  5_34
+    5556  543
+    6  5436  5430
+    6543  2210 //] >>
+FCT[Kinder - Lied, Tanz, Ringelreihen, Bruecken - Spiel]

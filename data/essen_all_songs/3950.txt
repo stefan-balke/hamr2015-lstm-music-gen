@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HEUT SCHEIDEN WIR AUS EUREM KREISE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1366  08  C 6/8]
+MEL[-5  -5-3-51-5-3  -4-6-5-4-3
+    -5  -513-621  -7-6-710
+    -5  3_21_-7  21-6-6-5
+    -5  -513-621  -7-6-71_
+    -5  3_21_-7  21-6-6-5
+    -5  -513-621  -7-6-71_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied, Reservisten]

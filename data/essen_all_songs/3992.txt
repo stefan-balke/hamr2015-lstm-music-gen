@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ADJE MEIN LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.d. Oder, Seelow]
+KEY[E1411  04  F 4/4]
+MEL[5  5542  133
+    3  2444  655
+    5  5542  133
+    3  254-7  1_0
+    5  5_4_  1333
+    2444  655
+    6  5_4_  1333
+    254-7  1_0 //] >>
+FCT[Staende -, Soldaten - Lied, Krieg, Abschied]

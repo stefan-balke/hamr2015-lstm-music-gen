@@ -1,0 +1,21 @@
+FINK
+CUT[ERWACHT IST DER MORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0990  08  G 2/4]
+MEL[-5  1_12  3_1
+    2  3543  2_0
+    2  3_34#  567
+    6  5_4#_  5_0
+    -5  1_12  3_1
+    2  3543  2_0
+    2  3_34#  567
+    6  5_4#_  5_0
+    5  5222  3_1
+    3  5222  3_0
+    3  3_45  6+16
+    4  3542  1_0
+    3  5222  3_1
+    3  5222  3_0
+    3  3_45  6+16
+    4  3542  1_0 //] >>
+FCT[Natur -, Tageszeiten - Lied, Morgen]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Es hat ein Bauer ein Madl ghabt,]
+CNR[das wollte nicht mehr dienen;]
+REG[Osteuropa, UdSSR, Ukraine, Bukowina, Alt - Fratautz]
+SRC[4, S. 42
+    1941 aufgezeichnet]
+KEY[Q0073B 16  G 2/4]
+MEL[-5_  1_1_111_  1_-5_-5_
+    -5_  -6_-6_1_-6_  -6__-5_
+    -5_  4_4_4_-5_  3_3_3_
+    3_  2_2_432_  6__5_
+    -5_  4_4_4_-5_  3_3_3_
+    3_  2_2_432_  2__1_ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]

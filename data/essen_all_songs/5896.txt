@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Narrentanz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0357  02  G 6/2]
+MEL[1  1_1_23  4_44_
+    4  2_2_34  5_55_
+    5  7b_7b_64  5_52_
+    3  42_1_1  4_65_4  3_4_2_  1__0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Pet. Schoeffer II 1537  No. 38.]

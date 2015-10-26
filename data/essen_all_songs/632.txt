@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ADE VON HINNEN, EINANDER WOLL'N WIR LASSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0216  08  E FREI]
+MEL[3_2_3_4_2__  1_1_1_123_2_2__
+    3_2_3_4_2__  1_1_1_123_2_2__
+    3_3_2_5_3_  3_323_433_2_2_
+    3_3_2_1_1__
+    3_3_2_5_3_  3_323_433_2_2_
+    3_3_2_1_1__ //] >>
+FCT[Handwerker - Lied, Abschieds - Lied, Wanderschaft]
+CMT[mit Verzierungen notiert]

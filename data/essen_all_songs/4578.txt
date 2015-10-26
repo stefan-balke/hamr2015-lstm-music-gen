@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Kinderreim beim Abzaehlen zum Spiel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0501B 08  F 4/4]
+MEL[1_  1_1_5_5_  1_1_1_1
+    1  2_3_4_4_  3_3_2_2_  1_1_3_3_  2__1_ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[N. Zange, Newe Lieder 1620 No. 25.]

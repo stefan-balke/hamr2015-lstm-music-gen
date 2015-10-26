@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[IN EINEM KUEHLEN GRUNDE, DA GEHT EIN MUEHLENRAD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0213  08 Bb 6/8]
+MEL[-5  3_3323  4_2-7_
+    -5  1_11-71  2_.^0
+    2  2_2234  5_.-6_
+    2  1_1212  3_.^0
+    3  322234  5_+164
+    2  1_13_2  1_.^0 //] >>
+FCT[Romanze]
+CMT["Altdeutsch" (Falsch! vgl. Eichendorff/Silcher!)]

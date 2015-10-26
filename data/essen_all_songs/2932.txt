@@ -1,0 +1,13 @@
+F[ERK1
+CUT[DER MAI TRITT EIN MIT FREUDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0381  08  D 3/4]
+MEL[-5_  1_.231  -5_-3_
+    -5_  -6_.-71-6  -5__
+    -3_  -4_-6_-5-4  -3_-5_
+    1_  321_-7_  1__
+    12  3_1_5_  2_.1
+    -7_  1_-6_2_  -7_-5_0
+    -5  -6_.-71-6  -5_1_
+    3_  321_-7_  1__ //] >>
+FCT[Liebes - Lied, Jahreszeiten, Fruehling]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Liebeskummer"
+    AM SONNTAG IN ALLER FRUEH]
+REG[Europa, Mitteleuropa, Deutschland, Lothringen]
+KEY[Z1179  08  G 4/4]
+MEL[-5_  1_123_33  21231_
+    3_  32345_.5  43453_
+    5_  35555444  33532_.
+    -5  33445_+14  3_2_1_ //] >>
+FCT[Liebes - Lied]

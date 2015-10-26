@@ -1,0 +1,12 @@
+DVA
+CUT[Ruschelputthennchen,
+    was ruschelt in dem Stroh ?]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[D0158  16  C 2/4]
+MEL[     3_.33__  2_.12_3_  1_.11_1_  -5__.
+    -5_  3__3_3_  2__3_2_  1_1_1_1_  -5__.
+    -5_  1__3_5_  5_.55_6_  6__4_3_  2__.
+    2_  3_5_1__  2_4_-5_-5_  1__1__  1___ //] >>
+FCT[Kinder - Lied]
+CMT[erste Zeile rhythmisch korrigert
+    Inzipit = Variante zum Lied, Variante zu Lied D0159 ?]

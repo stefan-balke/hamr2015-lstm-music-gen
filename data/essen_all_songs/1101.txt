@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Heimweg von der Lese"
+    TRALL HEHM GONN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1367  16  F 6/8]
+MEL[3_  1__.-5__3_  1__.-5__
+    3_  2__2_-7__-7_  1__2_3__
+    3_  1__.-5__3_  1__.-5__
+    3_  2__2_-7__-7_  1__0__.
+    1_  2__2_-7__-5_  1__2_3__
+    1_  2_.22_-7__-5_  1__2_3__
+    3_  1__.-5__3_  1__.-5__
+    3_  2__2_-7__-5_  1__0__. //] >>
+FCT[Kinder - Lied]

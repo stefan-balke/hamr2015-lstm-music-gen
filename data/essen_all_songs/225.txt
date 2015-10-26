@@ -1,0 +1,26 @@
+BOEHME
+CUT[AUS DER JUGENDZEIT AUS DER JUGENDZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0269  08 Eb 3/4]
+MEL[34  322_56  544_
+    (345)  66+1_.6  5__
+    +17  733_65  511_
+    12  324_3_  1_0_
+    12  343_64  (354)3_
+    67  +1+1+2_.+1  7__
+    77  +2+15_5#5#  762_
+    3_  4__45  3__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Jugend]
+BOEHME
+CUT[AUS DER JUGENDZEIT AUS DER JUGENDZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0269  08 Eb 3/4]
+MEL[34  322_56  544_
+    (345)  66+1_.6  5__
+    +17  733_65  511_
+    12  324_3_  1_0_
+    12  343_64  (354)3_
+    67  +1+1+2_.+1  7__
+    77  +2+15_5#5#  762_
+    3_  4__45  3__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Jugend]

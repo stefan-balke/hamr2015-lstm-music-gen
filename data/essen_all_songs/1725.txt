@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es war'n einmal zwei Bauernsoehn',]
+CNR[die hatten Lust ins Feld zu ziehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[4, S. 310
+    1920 gedruckt (1919/20)]
+KEY[Q0085Y 16  G 3/4]
+MEL[-5__  1_-5_-5__1__  -6_-6_-6__.
+    1_  -7_1_2__2_1_  -7_-6_-5_.-6-5_
+    -4_  -3_-5_-5__-5__  -5_1_1__.
+    1_  1_2_3__3__  2_-7_1__ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

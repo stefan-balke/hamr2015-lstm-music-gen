@@ -1,0 +1,15 @@
+F[ERK1
+CUT[DA STEH I HIER OBEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Bayern]
+KEY[E0571  08  G 3/4]
+MEL[3  3_2_.6  653_.
+    4  32-6_.-7  1_-5_0
+    3  3_2_.6  653_.
+    4  32-6_.-7  1_-5_0
+    2  32-6_.2  32-7_.
+    2  2_3_4#_  5__
+    43  3_2_.6  653_.
+    4  32-6_.-7  1__
+    43  3_2_.6  653_.
+    4  32-6_.-7  1__0 //] >>
+FCT[Liebes - Lied]

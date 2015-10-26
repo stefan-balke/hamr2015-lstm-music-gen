@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ES DUNKELT VOR DEM WALDE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Sachsen, Dahme]
+KEY[E0679B 08 Bb 6/8]
+MEL[-5  -5111-71  -6_1-6_
+    -5  1-5-3-5-4-4  -3_.0_
+    -5  -5-3-5-5-3-5  1_23_
+    3  2_232-7  1_.0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

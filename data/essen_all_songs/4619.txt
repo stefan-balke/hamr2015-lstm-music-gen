@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Fastengesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0539B 02  C 4/2]
+MEL[5  5555  6_5
+    5  4342  1_0_
+    5555  6_4
+    4  667b6  5_0
+    5  5555  +1_5
+    5  6655  4_0
+    5  5556  5_3
+    3  432_  1_0_
+    456_  7b_5_  4#_5 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Leisentrits Gsgb. 1567.]

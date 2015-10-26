@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Mordknecht
+    Ess reyt eyn Herr und auch sein Knecht]
+CNR[wol ueb'r eyn Heyde, die wz schlecht, ja schlecht.]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 41  Komponist: Nicolai
+    1777 gedruckt in Berlin und Stettin]
+KEY[Q0037  04 Eb 4/4]
+MEL[5  +17b6b5  43b2
+    +1  +2+3b+2+1  7b6b56b  5_0
+    5  7b6b54  3b2b1
+    4  6b543b  2_15  2_1 //] >>
+FCT[Ballade, Eifersucht, Mord; parodistisch]
+CMT[Keine ueberlieferte Melodie: Komposition mit parodistischer Absicht.
+    Anhaengsel in der zweiten und letzten  Zeile.]

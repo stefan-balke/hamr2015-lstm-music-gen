@@ -1,0 +1,13 @@
+FINK
+CUT[WAS MACHT IHR DASS IHR WEINET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1091  08 Bb 4/4]
+MEL[-5_  -5_1_1_32  1__-5_
+    1_  4_.34_5_  3__0_
+    3_  2_.-6-7_1_  1__-7_
+    3_  2_.1-7_-6_  -5__0_
+    -5_  2_.1-7_1_  2_.32_
+    -5_  4_.32_1_  2__0_
+    -5_  1_1_3_.5  5__4_
+    12  3_.13_21  1__. //] >>
+FCT[Trost - Lied, religioes, Abschied]

@@ -1,0 +1,18 @@
+ALTDEU
+CUT[Brautwerbung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0233  04  C 4/4]
+MEL[+1  +1765  +1+15
+    5  6655  665_
+    4454  321
+    +1  +1+155  665
+    5  +1+155  665_
+    4454  321
+    +1  +1+17_  665_
+    6655  4454  321_
+    +1765  +1_5
+    5  6655  6655
+    6622  3_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[O. Siegf. Harnisch, Newe lustige Teutsche Liedlein. Helmstedt
+    1591 No. 12. Die Melodie hat Boehme vereinfacht.]

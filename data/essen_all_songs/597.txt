@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[BIN I A LUSTIGA FUHRMANNSSOHN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0181  08  A 3/4]
+MEL[  355_3_  244_2_  3_3_3_
+    355_3_  244_2_  3_0__
+    222223  54432_
+    333334  65543_
+    355_.3  244_.2  3_3_3_
+    355_.3  244_.4  3_0__ //] >>
+FCT[Schiffer -, Handwerker - Lied]

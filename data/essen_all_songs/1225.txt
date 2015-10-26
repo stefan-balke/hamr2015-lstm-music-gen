@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es hat ein Bauer ein Toechterlein,]
+CNR[auf Erden sollt' sie die Schoenste sein,]
+REG[Osteuropa, Polen, Warschau, Augustowka]
+SRC[2, S. 256
+    ????]
+KEY[Q0051A 16  G 6/8]
+MEL[-5_1__2_  3b_2_1_2__-7b-6  -5__
+    -5_-7b_-7b_2_  1__-5_-7b_-6_-7b_  -5__
+    -5_1_1_2_  3b_2_4_2_1_-7_  1__ //] >>
+FCT[Ballade, Hochzeit, Tod]

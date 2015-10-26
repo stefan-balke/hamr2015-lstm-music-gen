@@ -1,0 +1,11 @@
+F[ERK2
+CUT[DROBEN AN BERGESHOEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Muschenheim]
+KEY[E0705A 16  F 3/4]
+MEL[5_3_4_  5_.65_5_4_3_  2_.32_
+    3_4_2_  7_.77_6_5_4_  3__0_
+    5_3_4_  5_.65_5_4_3_  2_.32_
+    3_4_2_  7_.77_6_5_4_  3__0_
+    5_3_4_  5_.65_5_4_3_  2_.32_
+    3_4_2_  7_.77_6_5_4_  3__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

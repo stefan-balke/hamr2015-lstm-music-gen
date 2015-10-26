@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WAR EINE STOLZE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt; Bergstrasse; Baden]
+KEY[E0098A 16  D 3/4 2/4]
+MEL[1_  1_3_5__2__  3_2_1__0_
+    +1_  7_6_7__6__  5___0_
+    5_  +1_5_5_3_  6__6_
+    6_  6_6_+1_6_  5__3__
+    5__  65434__5__  3___0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid
+    Ballade ?]

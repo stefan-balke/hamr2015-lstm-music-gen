@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Nun danket alle Gott!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0646  08  F 4/4]
+MEL[5__  5_.56_6_  5__0_3_  4_3_2_1_  -7__1__  0__
+    5__  5_5_6_6_  5__0_3_  4_3_2_1_  -7__1__  0__
+    2__  2_2_3_3_  2__0_2_  3_5_5_4#_  5__0_
+    5_  6_5_4_3_  4__3__  2_1_1_-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Joh. Krueger 1649]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Richmudis von Adocht
+    Heilger Geist, du Troester mein]
+CNR[hoch vom Himmel uns erschein]
+REG[Mitteleuropa, Deutschland]
+SRC[5, S. 241
+    1639 gedruckt in Bremen]
+KEY[Q1112B 04  G 3/4]
+MEL[  1_3b  2_5  4_3b  2_.
+    2_3b  4_5  54_  5_.
+    5_3b  2_1  1-7_  1_. //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0112A, anderes Lied. Taktart in 3/4 gedeutet.]

@@ -1,0 +1,9 @@
+FINK
+CUT[DA UNTEN IN DER MUEHLE                                           0126]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0210  08  F 6/8]
+MEL[1  1_11_1  1-7
+    12_2  2__12  3_.^0
+    1  1_11_1  3_.2_
+    2  1_1-7-6-7  1__0 //] >>
+FCT[Stimmungs - Lied, Todes - Ahnung]

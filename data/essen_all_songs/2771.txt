@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN VOGEL HOCHZEIT MACHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Bunzlau; Hainau]
+KEY[E0163  16  G 2/4]
+MEL[3_  5_3_5_3_  4_2_4__
+    3_3_5_3_  2_5_5_
+    -5-5  1_1_1_33  2_2_2_
+    54  343_232_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Abschied beim Wegzuge]
+KEY[A0267  08  D 4/4]
+MEL[1_  1_.23b_2_  1__-7b_
+    -5_  1_2_3b_21  2__0_
+    1_  2_3b_4_2_  3b__2_
+    1_  -7_1_1_-7_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M Franck Fasc. quodl. 1611 No. 6.]

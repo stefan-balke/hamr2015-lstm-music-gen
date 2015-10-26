@@ -1,0 +1,9 @@
+FINK
+CUT[ZIEHT DER DEUTSCHE IN DEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0595  08  C 2/4]
+MEL[  345_  5_5_  6_6_  5__
+    345_  5_5_  6_6_  5__
+    5_0_  5_0_  5_5_  5_5_
+    5_0_  5_0_  5_5_  5__  5_0_ //] >>
+FCT[Soldaten - Lied, Krieg, national]

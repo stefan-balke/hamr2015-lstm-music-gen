@@ -1,0 +1,12 @@
+F[ERK2
+CUT[BAUR BAUR WAS TRAEGST IM SACKE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0954  04  F 4/4 3/4]
+MEL[  5_5_  55_6  5_1_
+    5_5_  55_6  5_1_
+    1_1_  11_-7  -6_-5_
+    1_1_  11_-7  -6_-5_
+    1_-5  1_2  3_.  2_.
+    1_-5  1_2  3_4  5_
+    5  4_3  4_2  1_.  1_. //] >>
+FCT[Tanz - Lied, Reigen]

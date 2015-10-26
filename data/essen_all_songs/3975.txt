@@ -1,0 +1,14 @@
+F[ERK3
+CUT[O STRASSBURG DU WUNDERSCHOENE STADT]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland; Schlesien;
+    Westfalen]
+KEY[E1392  16  G 2/4]
+MEL[-5_  1__-7_1_  2__1_
+    2_  3_5_4_3_  2__0_
+    -5_  1__-7_1_  2__1_
+    2_  3_5_4_3_  2__0_
+    3_  4_4_6_4_  3_.45_
+    3_  2_2_3_2_  1_3_5_
+    3_  4_4_6_4_  3_.45_
+    3_  2_2_3_2_  1__0_ //] >>
+FCT[Staende -, Soldaten - Lied]

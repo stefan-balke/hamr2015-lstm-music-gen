@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WAS SIND DIE GASSEN SO ENGE]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Wetzlar, Burgsolms]
+KEY[E0107D 16  C 6/8]
+MEL[13  5__5_5_4_2_  5__.3_0_
+    13  5__5_5_4_2_  5__.3_0_
+    1_  6__6_5_6_7_  +1_7_6_5__
+    +1_  5_6_5_4_3_2_  6_5_4_3__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

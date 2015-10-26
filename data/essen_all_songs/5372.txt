@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf Berges Hoehen,]
+CNR[schaut herab ins tiefe Tal.]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Osnabrueck, Hagen]
+SRC[8, S. 294
+    ???? aufgezeichnet]
+KEY[Q0155a.08  G 4/4]
+MEL[13  5_.+15342  3_.23_
+    55  6_5_4_3_  2__0_
+    13  5_5_5_5_  6__5__  4__3_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Kontaminierte Fassung mit "Im schoensten Wiesengrunde" . Anhaengsel
+    an der dritten Zeile.]

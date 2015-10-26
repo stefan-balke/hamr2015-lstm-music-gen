@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Rosen"
+    ES WOLLT EIN MAEDCHEN WASSER HOLEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1078  16  C 2/4]
+MEL[5_  +1_5_3_5_  +1_.7+1+1
+    +2_  +3_+1_7_.6  6__5_
+    5_  6_5_6543  3_4_5_
+    5_  +1_+1_+3_+1_  7__+1_ //] >>
+FCT[Romanze, Ballade]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Baum im Odenwald"
+    ES STEHT EIN BAUM IM ODENWALD]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1220  08 Eb 4/4]
+MEL[13  5_5_3_1_  21232_
+    13  5_5_3_1_  2__0_
+    57  +2_+2_7_5_  5_.+1+1_
+    57  +2_+2_7_5_  +1__0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe, Klage, Leid]

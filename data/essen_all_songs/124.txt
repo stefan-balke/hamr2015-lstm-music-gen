@@ -1,0 +1,18 @@
+BOEHME
+CUT[DIE ALTE FICHTE SCHWANKET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0156  08  A 4/4]
+MEL[1_  -7_-5_1_2_  3b__2_
+    5_  4_2_3b21_  2__0_
+    2_  3b_4_5_4_  3b_.21_
+    2_  -5_1_3b21-7  1__0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[DIE ALTE FICHTE SCHWANKET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0156  08  A 4/4]
+MEL[1_  -7_-5_1_2_  3b__2_
+    5_  4_2_3b21_  2__0_
+    2_  3b_4_5_4_  3b_.21_
+    2_  -5_1_3b21-7  1__0_ //] >>
+FCT[Ballade, Romanze]

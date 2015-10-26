@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Schlechte Wirthschaft"
+    ACH MUTTER ES HUNGERT MICH]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1352  08  G 4/4]
+MEL[-5_  1_-7-71_22  3b_.45_0
+    5  5_.56b_.5  4_.3b2_.
+    -7b  3b_.45_.5  5_1_6b_.
+    5  4_3b_2_1_  2_.3b1_ //] >>
+FCT[Zech -, Schalks - Lied]

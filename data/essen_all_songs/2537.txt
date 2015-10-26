@@ -1,0 +1,9 @@
+F[ERK1
+CUT[HEER HALWYN ZONG EEN LIEDEKYN]
+REG[Europa, Mitteleuropa, Niederlande, Flandern; Brabant]
+KEY[E0041C 08  F 3/4]
+MEL[4_  345_6_  543_.
+    3  432_3_  456_0
+    6  7b65_6_  54#5_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

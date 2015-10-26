@@ -1,0 +1,9 @@
+KINDER
+CUT[TOENNEKEN TOENNEKEN OP DEN DRAG]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[K2502  16  G 2/4]
+MEL[  111_222_  3_2_1__
+    1_1_2_2_  3__1_0_
+    3_3_2_1_  3_3_3__
+    2_2_2_3_  1_1_1__ //] >>
+FCT[Kinder - Lied, Spiel]

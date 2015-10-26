@@ -1,0 +1,9 @@
+DVA
+CUT[Die verwundete Dame
+    Es wollt' ein Mueller frueh aufstehn,]
+CNR[Er wollt' im gruenen Wald spazieren gehn.]
+REG[Europa, Mitteleuropa, Deutschland, Wolga - Kolonie]
+KEY[D0147  08  G 3/4 2/4]
+MEL[ 134  5_5_45  2_0
+    1-71  234212  3454  3_23  1_0 //] >>
+FCT[Ballade]

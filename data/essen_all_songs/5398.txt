@@ -1,0 +1,7 @@
+KINDER
+CUT[AEIE BUBAEIE SCHLOF LIAEWER AS DU]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[K0090  08  F 3/8]
+MEL[  545  234  332  5_.
+    542  123  322  1_0 //] >>
+FCT[Kinder -, Wiegen - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Abendreihen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0283B 02  F 4/2]
+MEL[1  3_4_  5_.4  3_2_  1_0
+    1  3_4_  5_.4  3_2_  1_0
+    4  3_2_  -6_-5_  2_3_  1_0
+    4  3_2_  -6_-5_  2_3_  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Geistliche Ringeltentze 1550 No. 11.]

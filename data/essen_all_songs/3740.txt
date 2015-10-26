@@ -1,0 +1,17 @@
+F[ERK3
+CUT[DER MIT DEM SABEL]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E1013  08  G 3/4]
+MEL[  1_1234  5__3_
+    1_2_1_  -7_22-5_
+    1_1234  5__3_
+    1_2_-7_  1__0_
+    1_1234  5__3_
+    1_2_1_  -7_22-5_
+    1_1234  5__3_
+    1_2_-7_  1__0_
+    2_-5_-5_  3_.21_
+    2_-5_-5_  3_.21_
+    1_1234  5__3_
+    1_2_-7_  1__0_ //] >>
+FCT[Tanz - Lied, Soldaten - Lied]

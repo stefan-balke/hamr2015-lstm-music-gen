@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Konung och Drottning de talades vid under lide']
+CNR[saeg skole vi goera broellopp i ar,]
+REG[Nordeuropa, Schweden]
+SRC[3, S. 258
+    ????]
+KEY[Q2068C 08  G 2/4]
+MEL[  1_22  3b_3b2  3b_44  5_24  3b_2_  0_.
+    2  2_3b4  5_24  3b_-7-7  1_
+    2_  3b456b  5_-72  2_1_ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]
+CMT[Schwedische Fassung der Ballade.]

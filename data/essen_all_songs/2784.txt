@@ -1,0 +1,9 @@
+F[ERK1
+CUT[DIE EULE AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland, Neisse, Walldorf]
+KEY[E0171  08  F 3/4]
+MEL[-5  -5-51_1_  123_0
+    2  111_2_  3_2_0
+    1  135_54  352_0
+    1  353_1_  2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen]

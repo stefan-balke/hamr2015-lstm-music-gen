@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' ain Halter wohl frueh austraiben,]
+CNR[er hoert' ain Kindelain von waiten schraien.]
+REG[Suedosteuropa, Jugoslawien, Slawonien]
+SRC[5, S. 267
+    1963 aufgezeichnet]
+KEY[Q0114G 32  G FREI]
+MEL[-5__1__2__  3__3__3__5__6__  5__4__
+    3__2__1__  2_.22__6__5__.4_  4__3__ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]
+CMT[Transkription einer Tonaufnahme]

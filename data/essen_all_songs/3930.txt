@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ES IST NICHTS LUSTGERS AUF DER WELT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Franken]
+KEY[E1346  08  G 6/8]
+MEL[-5  1_13_3  5_53_
+    1  2_25_5  3_.0_
+    -5  1_13_3  5_53_
+    1  2_25_5  3_.0_
+    2  2_32_2  3_53_
+    1  2_12_5  3_.0_
+    -5  1_13_3  5_53_
+    1  2_25_-7  1_.0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

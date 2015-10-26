@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES GIENG EIN MAEDCHEN GRAS SCHNEIDEN]
+REG[Europa, Mitteleuropa, Italien, Tirol, Meran,]
+KEY[E0071E 08  G 6/8]
+MEL[-5  1_1335  1_33_
+    5  5_54_4  3_.2_
+    5  4_4654  3_354
+    3  2_2432  1_.3_
+    5  4_4654  3_354
+    3  2_2432  1_.0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

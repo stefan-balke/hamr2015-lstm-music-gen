@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Ackermann]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0082A 08  G 3/2]
+MEL[1__1__1__  5___6__  7b__6___  5___0__
+    4__5__7b__  5___5__  3b__4___  3b___0__
+    3b__5__7b__  6b___5__  4__.3b21__  -7b___0__
+    5__5__5__  5___4__  3b___2__  3b___0__
+    3b__5__7b__  6b___4__  5__.43b2__  1___0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Pet. Schoeffer II. 1537 No. 55. Von Boehme rhythmisch
+    "wieder hergestellt".]

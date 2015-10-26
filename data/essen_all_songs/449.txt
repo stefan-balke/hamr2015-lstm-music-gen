@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES WOLLT EIN MAEDEL WOHL FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[Z0035  16  G 2/4]
+MEL[-5__  1_1_1251  2_-7_-5_
+    -5_  1_1_1232  2__0_
+    12  3_1_1_3_  4_3_2__
+    -7_2_-54_4  3_2_1_
+    -5_  3_3_2_2_  1__ //] >>
+FCT[Sagen - Lied, Romanze]

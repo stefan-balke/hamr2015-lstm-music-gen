@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Du hast gesagt, du heiratst mich,]
+CNR[gleich wenn der Sommer kommt,]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[8, S. 288
+    1933 gedruckt]
+KEY[Q0155C.08  G 6/8 4/4]
+MEL[-5  3_21_-5  -5_11_
+    1  2_22_2  3_0_.
+    -5  3_33_3  3_54_
+    3  2_1-7_-6  -5_11_
+    -5  1_233_23  1_0_. //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebes - Lied]

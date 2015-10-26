@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MEIN SCHATZ IS E REITER]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E1055  08  C 3/4]
+MEL[-5_  -3_.-5-5_  -6_-5_-5_  -3_.-5-5_  -5_0_
+    -5_  -6_-6_-6_  1_.-7-6_  -6_.-5-5_  -5_0
+    -5-6-5  -5_4_4_  4_0-5-6-5  -5_3_3_  3_0_
+    33  2_2_23  4_-7_-7_  2_1_1_  1_0_ //] >>
+FCT[Tanz - Lied, Jodler]

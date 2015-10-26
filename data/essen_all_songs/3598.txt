@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Wie bald hab' ich geendet]
+CNR[das junge Leben mein.]
+REG[Mitteleuropa, Oesterreich, Burgenland]
+SRC[5, S. 144
+    1956 gedruckt in Eisenstadt]
+KEY[Q1102H 04  G 3/4]
+MEL[5  3_4  5_6  65
+    5  5_4  654  43
+    5  3_4  5_6  65
+    5  5_4  654  43 //] >>
+FCT[Totenwacht - Lied]
+CMT[Melodievergleich zu Q0102F, anderes Lied.]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[EIN VEILCHEN AUF DER WIESE STAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0115  16  G 2/4]
+MEL[5_  5_.43_2_  1__2__  3__0_
+    5_  5_.43_2_  1__2__  3__0_
+    3_  2_-7_1_-6_  -6_-5_0_
+    -5_  4_.32_-5_  5_.43_
+    -5_  4_.32_-5_  5_.43_
+    2_  1_.23_.4  5+1543_2_  1__. //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[EIN VEILCHEN AUF DER WIESE STAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0115  16  G 2/4]
+MEL[5_  5_.43_2_  1__2__  3__0_
+    5_  5_.43_2_  1__2__  3__0_
+    3_  2_-7_1_-6_  -6_-5_0_
+    -5_  4_.32_-5_  5_.43_
+    -5_  4_.32_-5_  5_.43_
+    2_  1_.23_.4  5+1543_2_  1__. //] >>
+FCT[Ballade, Romanze]

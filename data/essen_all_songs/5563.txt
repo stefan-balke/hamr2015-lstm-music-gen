@@ -1,0 +1,9 @@
+KINDER
+CUT[RUPFE RUPFE GRAESCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K2427  08  F 2/4]
+MEL[  5566  5_3
+    3  4422  3_0
+    3  5566  553
+    3  4422  1_0_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

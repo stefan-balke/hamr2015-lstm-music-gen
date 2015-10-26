@@ -1,0 +1,9 @@
+FINK
+CUT[KOMM LIEBCHEN KOMM AUFS LAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0905  08  F 6/8]
+MEL[5_.  3_12_-7  1_.0_
+    1  6_66_6  5_.1_
+    1  6_6+176  5_1
+    4_.  351-712  1_0 //] >>
+FCT[Liebes - Lied]

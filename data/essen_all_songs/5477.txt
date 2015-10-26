@@ -1,0 +1,11 @@
+KINDER
+CUT[EIERKRANZ WAS GILT DIE SCHANZ]
+REG[Europa, Mitteleuropa, Deutschland, Bacharach a.Rh., Oberdiebach]
+KEY[K2087  16  G 4/4]
+MEL[  5__5__3___  5__5__3__
+    1__  5__5__3__1__  6___3__
+    1__  5_5_5__6__6_6_  5___3__
+    1__  5___6___  5___3___
+    5__5__3__1__  5__5__3__1__
+    0__(5_.55_)+1___ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[WER WOLLTE SICH MIT GRILLEN PLAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0290  08  F 6/8]
+MEL[5  5311-72  25443
+    1  -721-721  234#5_
+    5  5_654#3  26+1+17
+    5  +1_57b64  3421_ //] >>
+FCT[Stimmungs - Lied, Freude]
+BOEHME
+CUT[WER WOLLTE SICH MIT GRILLEN PLAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0290  08  F 6/8]
+MEL[5  5311-72  25443
+    1  -721-721  234#5_
+    5  5_654#3  26+1+17
+    5  +1_57b64  3421_ //] >>
+FCT[Stimmungs - Lied, Freude]

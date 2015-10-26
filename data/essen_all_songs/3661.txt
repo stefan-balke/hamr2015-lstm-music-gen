@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' ein Schaefer in' Wald austreib'm,]
+CNR[er hoert' ein kleines Kindlein schrei'n.]
+REG[Osteuropa, UdSSR, Russland]
+SRC[5, S. 268
+    ????]
+KEY[Q0114J 08  G 6/8]
+MEL[-5  -5_3334  3_223
+    4  3_22_3  2_11_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

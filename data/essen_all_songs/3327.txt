@@ -1,0 +1,10 @@
+F[ERK2
+CUT[SCHATZ WENN DU REISEN WILLST]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Trebbin]
+KEY[E0766E 16 Eb 4/4 3/4]
+MEL[-5_1_3_  5_.55_5_4_6_5_4_  3__0_
+    1_1_1_  4_6_+1_+1_7_6_  5_1_3_
+    5_6_5_  2_4_6_5_4_-7_  1__0_
+    1_1_1_  4_6_+1_+1_7_6_  5_1_3_
+    5_6_5_  2_4_6_5_4_-7_  1__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

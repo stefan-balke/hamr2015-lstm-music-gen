@@ -1,0 +1,9 @@
+F[ERK2
+CUT[LINCHEN GING EINMAL SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Schlesien]
+KEY[E0712  08  F 6/8]
+MEL[  1_35_+1  +176655
+    246542  1_.0_.
+    5+2+2+275  5+1+1+153
+    246542  1_.0_. //] >>
+FCT[Liebes - Lied, Leid, Klage]

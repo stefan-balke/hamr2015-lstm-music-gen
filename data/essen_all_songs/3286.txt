@@ -1,0 +1,10 @@
+F[ERK2
+CUT[STEHE ICH AM EISENGITTER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillkreis; Westerwald;
+    Rheingau]
+KEY[E0727A 08  F 4/4]
+MEL[  3_.34321  -724_0__
+    4_.46654  3__0__
+    5_.3+1765  246_0__
+    5_.36545  3__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Kerker - Lied]

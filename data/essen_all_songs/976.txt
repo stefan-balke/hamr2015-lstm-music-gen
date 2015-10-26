@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Herzweh"
+    WO I LIEG WO I STEH]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1241  16  E 3/8]
+MEL[13  5__31  -7__
+    24  6_6_4-7  1_+1_
+    13  5__31  -7__
+    24  6_6_5-7  1__ //] >>
+FCT[Liebes - Lied]

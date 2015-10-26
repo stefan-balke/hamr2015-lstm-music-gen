@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Goldringlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0195  02  F 3/1]
+MEL[1_  3__4_  5__+1_  5_3_4_  5__.  0__
+    5_  +1__7_  6_5_+2_  +1_756_  5__0_  0__
+    5_  +1__5_  5_3_5_  4_312_  1__.  0__
+    3_  5__1_  2_1_5_  4_312_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Joh. Ott III 1544 No. 4 und Forster V. 1556 No. 6 und 9.]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[WENN ICH NOCH LEDIG WAER]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0611  04  G 3/4]
+MEL[  553  665
+    442  553
+    553  665
+    425  3_0 //] >>
+FCT[Liebes - Lied, Scherz - Lied]

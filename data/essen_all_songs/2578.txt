@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES GING EINST EIN VERLIEBTES PAAR]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Lahnkreis; Dillkreis]
+KEY[E0052  08  G 6/8]
+MEL[5  5_5+1_+1  3_35_
+    5  2_2+164#  6_.5_
+    5  5_5+1_+1  3_35_
+    2  365432  2_.1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord, Verfuehrung
+    Ballade ?]

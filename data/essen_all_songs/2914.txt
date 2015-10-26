@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ESKANN JA NICHT IMMER SO BLEIBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E0353C 16  F 4/4]
+MEL[1_2_  3__3_3_3_5_4_3_  5_2_2__0__
+    2_3_  4__4_4_6__5_4_  5___0__
+    1__  6__6_6_+1__7_6_  6_5_5__0__
+    5_+1_  +1_5_3_6_5__4_.2  1___0__
+    1__  6__6_6_+1__7_6_  6_5_5__0__
+    5_+1_  +1_5_3_6_5__4_.2  1___0__ //] >>
+FCT[historisches Lied, Krieg, Soldaten (1813 und 1870)]

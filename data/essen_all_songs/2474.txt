@@ -1,0 +1,9 @@
+VARIANT
+CUT[Siehgst an net, do kuemmt er, klaana Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Puechitz]
+KEY[V0003G 16  C 2/4]
+MEL[-5_.-5-6_-5_  -4__-7__
+    -4_-4_-5_-4_  -3__1__
+    3_.34_3_  3_2_2__
+    2_2_3_2_  2_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]

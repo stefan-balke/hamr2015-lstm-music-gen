@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[KUMMT A VOGERL GEFLOGEN]
+REG[Europa, Mitteleuropa, Tirol]
+KEY[Z0265  16  F 6/8]
+MEL[34  5_3_3_3_2_23  4_2_2_2_3_
+    34  5_3_3_326_66  6-7-7_-7_1__
+    34  5+15_31-765_42  -765_423__
+    34  5+15_31-765_42  -765_421__ //] >>
+FCT[lyrisches Lied, Romanze]

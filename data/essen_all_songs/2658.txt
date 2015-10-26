@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAR EINMAL EIN BRAVER HUSAR]
+REG[Europa, Mitteleuropa, Deutschland, Oberlahnkreis; Kreis Wetzlar]
+KEY[E0093C 16 Eb 3/4]
+MEL[1_1_6_  5__3_5_6_6_  5__3_
+    +1_5_3_  3__2_5_5_.4  4__3_
+    1_1_6_  5__3_5_6_6_  5__3_
+    +1_5_3_  3__2_5_5_.4  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

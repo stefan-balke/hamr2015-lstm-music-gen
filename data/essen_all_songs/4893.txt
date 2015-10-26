@@ -1,0 +1,14 @@
+DVA
+CUT[O Himmel ich verspuer' ,
+    dass ich nicht mehr kann leben]
+REG[Europa, Mitteleuropa, Deutschland, Oberbayern]
+KEY[D0215  08  G 4/4]
+MEL[54  3_.23_4_  3__0_
+    5_  +1_.55_43  3_2_0_
+    54  3_.23_4_  3__0_
+    5_  +1_.55_43  3_2_0_
+    5_  6_5_6_7_  +1__0_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Soldaten - Lied]
+CMT[zweistimmig notiert ( vorwiegend in Terzparallelen )
+    Inzipit = Variante zum Lied, Variante zu D0077 ?]

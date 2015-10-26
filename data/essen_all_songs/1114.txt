@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Genoveva"
+    ICH KLAG ES DEM WALD]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1380  16  D 3/4]
+MEL[3_2_  1__3__4__  5___
+    +1_7_  6__5__4__  5__0__
+    5__  6__5__4__  5___
+    5__  6__5__4_2_  3__.4_
+    5__  3__2__1__  2___
+    3_2_  1__1__2__  3_.21__
+    +1_7_  6__5__4__  3_4_5__
+    4__  3__.1_2__  1___ //] >>
+FCT[Erzaehlung, Romanze]

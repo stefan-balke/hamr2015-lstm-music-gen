@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Morgenstern]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0645  02  F 4/2 6/2]
+MEL[1_  5_3_  1_5_  665_  0567  +1766  5_0
+    3  6_54_3  2_1_
+    1_  5_3_  1_5_  665_  0567  +1766  5_0
+    3  6_54_3  2_1_0_
+    5_3_  5_3_  3322  3322  332_  1_
+    +1_  5_6_  5_43  2_1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Ph. Nicolai 1599]

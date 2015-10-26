@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES STEHT EIN WIRTHSHAUS AN DER LAHN]
+REG[Europa, Mitteleuropa, Deutschland, Duesseldorf]
+KEY[Z0174  16  F 3/4]
+MEL[-5_1_2_  3__1__2_2_  1__0_
+    +1_7_6_  7__5__2_2_  5__0_
+    5_5_5_  5_+1_+1__6_6_  6_6_+1_6_
+    6_5_  5__3_4_5_5_  65434__5__  3__0_
+    5_5_5_  5_+1_+1__6_6_  6_6_+1_6_
+    6_5_  5__3_4_5_5_  65434__5__  3__0_ //] >>
+FCT[Schiffer -, Handwerker - Lied]

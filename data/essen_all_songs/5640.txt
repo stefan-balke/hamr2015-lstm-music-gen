@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Die schoene Magdalene]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0054  04  F 6/2]
+MEL[1_  5__5_5__5_  6__.6__
+    +1_  7__6_5__4_  3__.^__
+    3_  5__4_3__2_  1__.-6__
+    11  2__4_3__2_  1__.^__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie: Schmeltzel 1544 Quodlibet No. 19, dritte und vierte Zeile
+    von Boehme ergaenzt. (Vgl.A0065 und A0066, diese Angabe kann nicht
+    stimmen!)]

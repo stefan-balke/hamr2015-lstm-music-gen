@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WIR RUFEN AN DEN THEUREN MANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2093  08  G 3/4]
+MEL[1_  1__2_  3b__3b_  4__4_  5__
+    3b_  4__4_  5__3b_  5__6b_  7b__
+    5_  6b__4_  3b__5_  4__3b_  2_1_
+    55  4_4_3b_  2_1_3b_  4_2__  1__ //] >>
+FCT[geistlich, Heiligen - Lied]

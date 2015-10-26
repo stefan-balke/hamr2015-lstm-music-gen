@@ -1,0 +1,9 @@
+FINK
+CUT[ICH WEISS EIN RUHEBETTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1071  08  G 4/4]
+MEL[3_  3_1_4_3_  2__1_0
+    1  1_1_1_2-6  -7__0_
+    -71  2_2_2_3_  3_544_0
+    4  -7_12-5_-7_  1__. //] >>
+FCT[Trauer -, Bregraebnis -, Trost - Lied]

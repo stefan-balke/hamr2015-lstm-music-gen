@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    ohne Text]
+REG[Osteuropa, UdSSR, Estland]
+SRC[5, S. 86
+    ????]
+KEY[Q3095F 08  G 2/4]
+MEL[  3343  2222
+    2232  1111 //] >>
+FCT[Runen - Weise]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

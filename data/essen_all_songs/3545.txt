@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die zehnte Tochter
+    Lepo moje ravno polje,]
+CNR[kjer moj ljubi rano orje.]
+REG[Suedosteuropa, Jugoslawien, Slowenien, Krain]
+SRC[5, S. 63
+    1878 gedruckt in Zagreb]
+KEY[Q3094C 08  G 2/4]
+MEL[  1_3_  5_.4  3_1_  3_2_
+    -7_2_  4_.3  2_-7_  2_1_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0094, anderes Lied.]

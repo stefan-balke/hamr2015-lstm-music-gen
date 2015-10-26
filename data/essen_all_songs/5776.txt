@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Abfertigung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0221  04  A 4/4]
+MEL[111  2_22  5543b  2_0_
+    3b3b44  5_44  5543b  2_0_
+    223b3b  212_  22-5-5  -7b-7b11  2_0
+    2  4123b  543b3b  211_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[None, Anzeiger VI, 1837, Beil. II. No. 7. Original: Cod. von
+    St. Blasien, 15. Jh.]

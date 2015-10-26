@@ -1,0 +1,11 @@
+KINDER
+CUT[WIDE WIDE WENNE HEISST MEINE PUTHENNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K1266  16  D 3/8]
+MEL[  1_.234  5_+1_
+    3_  5_4_2_  2_1_0_
+    5_4_2_  6_5_3_
+    5_4_2_  6_5_3_
+    1_.234  5_+1_
+    3_  5_4_2_  2_1_0_ //] >>
+FCT[Kinder - Lied, Zaehl - Geschichte]

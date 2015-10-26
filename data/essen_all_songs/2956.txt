@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES IST EIN SCHNEE GEFALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0424  08  F 4/4]
+MEL[1_  1_2_3_4_  5__5_
+    5_  2_3_4_5_  3_.21_
+    2_  2_.22_3_  4_4_4_
+    3_  2_1_1_-7_  1_-7-6-5_
+    2_  2_.22_3_  4_4_4_
+    3_  2_1_1_-7_  1__. //] >>
+FCT[Liebes - Lied]

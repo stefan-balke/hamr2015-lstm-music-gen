@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES SPIELT EIN HERR MIT SEINER MAGD]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich, Boehmen]
+KEY[E0110E 16 Bb 2/4]
+MEL[12  3_1_1_3_  2_-7_-7_
+    2_  -6_-7_21-7-6  -6__-5_
+    -5-5  -6_-4_-4_-6-6  -5_-3_-3_
+    -5_  -6_-7_2_-7_  2__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

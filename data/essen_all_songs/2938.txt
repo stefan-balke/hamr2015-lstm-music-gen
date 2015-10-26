@@ -1,0 +1,11 @@
+F[ERK1
+CUT[IM MAIEN IM MAIEN ISTS LIEBLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0394  16 Eb 6/8]
+MEL[4_  4_+1_3_3_5_1_  3_35465__
+    -5_  1_1_3_3_1_43  2___0_
+    5_  5_.43_2_-7_
+    5_  5_.43_2_-7_
+    -5_  1__1_3__3_  5__.+1__
+    34  5__123__2_  1___0_ //] >>
+FCT[Liebes - Lied, Jahreszeiten, Fruehling]

@@ -1,0 +1,10 @@
+FINK
+CUT[BRUEDER DAS IST DEUTSCHER WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0416  08  C 4/4]
+MEL[  1_.-5-6_-3_  -4__-5__  -1__.0_
+    1_2_4_3_  2_1_-7_-5_
+    3_2_4_3_  321_-7_-5_
+    1_.-7-6_-6_  2_.1-7__
+    4_.43_3_  2__2__  1__0__ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Trink - Lied]

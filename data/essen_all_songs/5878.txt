@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Abendlust]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0334B 04  A 4/4]
+MEL[   5522  332
+    2  5522  332
+    5  5322  3_0_ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Fragment bei M. Franck, 1611, Quodl. 2]

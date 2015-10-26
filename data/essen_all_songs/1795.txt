@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Das mannstolle Maedchen
+    Ein megdlein an dem laden stundt]
+CNR[es schreij laut vberall:]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 92
+    15?? gedruckt (spaetes 16. Jh.) ; Satz: Orlando di Lasso]
+KEY[Q0126B 08  G FREI]
+MEL[-5_  2_3_  2_1_  4322  1_0
+    5  5_5_4#_5_  3_4_2_0_
+    1_  3322  3_20_
+    3_  3231  2_0_
+    113  5_5_4#5_4#  5_0_
+    55  4_3_2_3_  4_2_1__ //] >>
+FCT[Ballade, Werbung, Betrug]
+CMT[Rekonstruktion der Balladenmelodie aus einem mehrstimmigen Satz von
+    Orlando di Lasso.]

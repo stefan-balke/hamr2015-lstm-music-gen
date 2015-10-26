@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Markgraf ueber dem Rhein,]
+CNR[der hat drei schoene Toechterlein,]
+REG[Osteuropa, UdSSR, Wolga - Kolonien]
+SRC[4, S. 120
+    ????]
+KEY[Q00751 16  F 3/4]
+MEL[1_1234  5__+1__666_  5__.
+    4_3_1_  6__5__2_2_  1__.
+    1_1_1_  4__3__2_2_  1__. //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Zweistimmig notiert, Oberstimme kodiert.]

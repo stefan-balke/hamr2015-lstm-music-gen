@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und schaut ins tiefe Tal,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Ziegenhals]
+SRC[8, S. 54
+    ???? aufgezeichnet]
+KEY[Q0155L 08  F 4/4]
+MEL[5_  5_.56_3_  5__4_
+    4_  4_.45_4_  3__0_
+    +1_  +1_.+1+2_+1_  7_.66_
+    6_  5_5_5_4_  3_3_0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]

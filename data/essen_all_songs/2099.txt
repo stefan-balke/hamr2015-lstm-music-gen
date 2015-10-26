@@ -1,0 +1,9 @@
+FINK
+CUT[ICH DANKE GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0363  04  F 6/4]
+MEL[-5  1_15_5  6_65_
+    5  +1_56_3  5_.5_.  3_.0_
+    3  2_24_4  3_36_
+    6  5_14_2  1_-52_.  1_.^_ //] >>
+FCT[Jugend - Lied, religioes]

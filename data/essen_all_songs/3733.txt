@@ -1,0 +1,13 @@
+F[ERK3
+CUT[IS DENN MEI VATER A LEIERSMANN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E1007  16  G 3/8]
+MEL[  3_343_  2_3_4_  5_565_
+    3_343_  2_3_4_  5__0_
+    3_343_  2_3_4_  5_565_
+    3_343_  2_3_4_  5__0_
+    3_531_  2_42-7_  1_3_-5_
+    3_531_  2_42-7_  1__0_
+    3_531_  2_42-7_  1_3_-5_
+    3_531_  2_42-7_  1__0_ //] >>
+FCT[Tanz - Lied]

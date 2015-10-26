@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ET QUAM SICK EN HEF[ERK1EN UT DANIA]
+REG[0109C 08  F 3/4]
+KEY[E0109C 08  C 3/4]
+MEL[-5_  1_1_2_  3_3_5_  3_2_3_  1__
+    34  5_5_6_  5_5_7_  +1_6_7_  +1__
+    -5_  1_1_2_  3_3_5_  3_2_3_  1__
+    34  5_5_6_  5_5_7_  +1_6_7_  +1__
+    34  5_5_4_  3_2_3_  1_-7_1_  2__
+    34  5_5_4_  3_2_3_  -5_-6_-7_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

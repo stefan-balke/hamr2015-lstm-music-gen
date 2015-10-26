@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der verstellte Raeuber"
+    ES RITT EIN RITTER WOHL DURCH DAS RIED]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1095  16  G 4/4 6/8]
+MEL[1_1_2_  3__2__3__4_3_  2___0__
+    3_2_  1__1_-7_1__3__  2__3_2_1__
+    2__  -7_-6_-7_-5_-6_-7_  1_.23_2__
+    3_  -6__-6_-5_1_1_  2__1_ //] >>
+FCT[Romanze, Ballade, Tod]

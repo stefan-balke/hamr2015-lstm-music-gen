@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt ein Jaeger frueh jagen,]
+CNR[dreiviertel Stunden vor Tagen,]
+REG[Osteuropa, UdSSR, Ukraine, Ladekopp]
+SRC[7, S. 188
+    1942 aufgezeichnet im Lager Marienbad]
+KEY[Q0152D 08  A 6/8]
+MEL[-5  1_-5-5-6-7  1_.-6_
+    -6  -6_-61-71  -5_-4-3_
+    -5  -5_-4-2-2-7  1_332
+    3  4_221-7  1_.0_ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Anhaengsel an der dritten Zeile.]

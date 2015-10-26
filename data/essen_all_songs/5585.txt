@@ -1,0 +1,9 @@
+KINDER
+CUT[ICH UND MEIN JUNGES WEIB]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[K3027  04  G 3/4]
+MEL[  554  333
+    165  5_4
+    443  222
+    -754  4_3 //] >>
+FCT[Kinder - Lied, Tanz]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Jacobslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0610B 02  G 4/1]
+MEL[3b_3b_4_4_  5_.55_0
+    5  5_5_5_5_  4_3b_4_0
+    4  5_5_3b_3b_  1__-7b__
+    5_5_3b_.4  5_3b_4_4_  2_.3b4_0
+    4  3b_2_1_3b_  212_1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchner Hs. Ende des 15. Jh.]

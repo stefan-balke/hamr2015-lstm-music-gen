@@ -1,0 +1,9 @@
+F[ERK2
+CUT[SCHOENSTER SCHATZ MEIN ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0649A 16 Eb 3/4]
+MEL[1__  1_.35__+1_6_  5_3_5_
+    5_5_5_  6_5_4__3__  2___
+    5__  3_.21__2_6_  5__3_
+    3_3_3_  5__.4_2__  1___ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es wollt gut Jaeger jagen]
+CNR[drey Stunden vor dem Tage]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 215
+    1611 gedruckt in Coburg; Satz M. Franck]
+KEY[Q0152E 08  G 6/4]
+MEL[1_  1__3_2__3_  1_.-7-6_-5__
+    5_  5__4_3_.21_  -7__1_2__
+    4_  3__1__2_2_  1__0__. //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Stimme aus einem mehstimmigen Quodlibetsatz von Melchior Franck.
+    Taktart entsprechend den Taktsrichen als 6/4 interpretiert und
+    Schlusspause eingefuegt.]

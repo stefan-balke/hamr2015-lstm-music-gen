@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Nun, jetzt muss ich von euch scheiden,]
+CNR[liebste Freund' und Eltern mein.]
+REG[Mitteleuropa, Oesterreich, Burgenland]
+SRC[5, S. 86
+    ????]
+KEY[Q1095E 08  G 3/4]
+MEL[12  3_5_43  3_2_
+    32  1_2432  1__ //] >>
+FCT[Totenwacht - Lied]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Geburt im Grabe
+    Eine Landmannsfrau ging schwanger,]
+CNR[aller Tag, da ward ihr banger,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Luebben, Schoenwalde]
+SRC[5, S. 220
+    ????]
+KEY[Q0109A 16  F 6/8]
+MEL[13  5__5_3__1_  1_-7__0__
+    22  4__2_1_5_4_  4_3__0__
+    1_  6__6_6__6_  3_5__0__
+    +1_  5_3_5_4_3_2_  2_1__0__ //] >>
+FCT[Ballade, Schein - Tod, Geburt, Grab, Auferstehen; Zeitungs - Lied]

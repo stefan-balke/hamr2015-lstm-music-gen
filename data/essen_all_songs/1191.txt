@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Graf Friedrich wollt' ausreiten,]
+CNR[wollt' reiten mit edeln Leuten,]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen, Dobring]
+SRC[2, S. 197
+    1902 aufgezeichnet]
+KEY[Q0048A 16  E 6/8 3/4]
+MEL[1_  5_4_5_4_3b_4_  5_3b_2_0__
+    1_  5_4_5_4_3b_4_  5_3b_2_
+    2_1_3_  4__3_1_4_6_  5__.
+    +1_5_3_  1__5__4323  1__0__0_ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Tonartwechsel (Moll nach Dur) . Verzierung in der letzten Zeile.
+    Pause beim Taktwechsel weggelassen und im Schlusstakt erg„nzt.]

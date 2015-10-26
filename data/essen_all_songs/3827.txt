@@ -1,0 +1,9 @@
+F[ERK3
+CUT[GOENSTIGER HERR UND FREUND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1142A 08  G 4/4]
+MEL[3_  3_.33_3_  3__.
+    3_  3_2_3_4#_  5__.
+    2_  2_.22_2_  2__.
+    2_  3_1_1_-7_  1__. //] >>
+FCT[Trink -, Zech - Lied]

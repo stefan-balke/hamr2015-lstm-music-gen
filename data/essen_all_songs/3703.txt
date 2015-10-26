@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die zwei armen Waislein
+    O Herr, wir sagen dir lob vnd danck]
+CNR[vor dein Vaeterlich speis vnd Tranck.]
+REG[Mitteleuropa, Deutschland]
+SRC[5, S. 307
+    1567 gedruckt]
+KEY[Q1117C 08  G FREI]
+MEL[1___1__2__-7b_1_2__3b__2__1__0_
+    1_3b__2_3b_4__3b_212__1___ //] >>
+FCT[Tisch - Gebet]
+CMT[Melodievergleich zu Q0117, B und D, anderes Lied]

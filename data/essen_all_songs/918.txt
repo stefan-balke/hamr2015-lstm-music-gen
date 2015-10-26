@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Spannung"
+    GUTEN ABEND MEIN TAUSIGER SCHATZ]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1183  16  B 3/8]
+MEL[-5-5  -5_1_11  1_-7_1_  2_.3b2_  1__
+    1_  2__5_  4_3b_2_  1__3b_  2__
+    1_  2__5_  5_4_5_  43b2_1_  -7__
+    -5_  1__2_  3b_2_1_  3b_2_1_  -7__.  1__ //] >>
+FCT[Liebes - Lied]

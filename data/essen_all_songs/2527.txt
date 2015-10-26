@@ -1,0 +1,14 @@
+F[ERK1
+CUT[HOORT TOE GY ARM' EN RYKE]
+REG[Europa, Mitteleuropa, Niederlande; Frankreich, Flandern]
+KEY[E0027  08  D 6/8]
+MEL[1  1_55_4  4_3b3b_
+    3b  3b_3b4_4  5__0
+    1  1_55_4  4_3b3b_
+    3b  3b_3b4_4  5__0
+    5  7b_7b5_5  4_.3b_
+    3b  4_45_5  4_3b2_
+    2  2_22_3b  4_.4_
+    4  5_54_5  3b_21_ //] >>
+FCT[Helden - Sage, erzaehlendes Volks - Lied
+    Ballade ?]

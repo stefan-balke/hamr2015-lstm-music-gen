@@ -1,0 +1,9 @@
+F[ERK2
+CUT[TANZ MAEGDLEIN TANZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0948  04  C 4/4]
+MEL[  5_32  1_0
+    1  2342  5_5
+    3  211-7  1_0_ //] >>
+FCT[Tanz - Lied, Reigen]
+CMT[Fragment]

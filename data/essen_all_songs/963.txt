@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Kaefig"
+    O I HERZENSSCHOENS SCHOZZERL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1228  08  G 3/4]
+MEL[54  3_3_3_  3_.4
+    56  5_.43_  2__
+    54  3_3_22  3_.4
+    56  5_4_3_  2__
+    23  4_4_4_  6_6_
+    54  3_3_46  5_0_
+    54  565434  5654
+    34  543_2_  3_3_3_  3__ //] >>
+FCT[Liebes - Lied]

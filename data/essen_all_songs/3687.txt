@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    'Vater, Vater, Brot will ich!]
+CNR[O mein Gott, wie hungert's mich!']
+REG[Osteuropa, UdSSR, Bessarabien]
+SRC[5, S. 281
+    ????]
+KEY[Q0115E 08  G 4/4]
+MEL[  1_1_5_5_  6_6_5_0_
+    4_.53_1_  2_2_1_0_
+    1_1_5_5_  6_6_5_0_
+    4_.53_1_  2__1_0_ //] >>
+FCT[Ballade, Hunger, Tod]

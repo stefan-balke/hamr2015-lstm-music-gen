@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DORT UNT IN SELBEN GRUENDLA]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich, Boehmen]
+KEY[E0655  08 Bb 4/4]
+MEL[-5_  1_1_1_1_  3_3_0_
+    23  4_3_3213  2__0_
+    35  4_3_2321  -7_-5_0_
+    -5-7  2_2_2_12  4_3_0_
+    23  4_3_1_2_  1__0_ //] >>
+FCT[Liebes - Lied]

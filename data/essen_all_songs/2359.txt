@@ -1,0 +1,9 @@
+FINK
+CUT[ES BLAEST DER SENN AUF HOHER ALP]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0893  08  F 4/4]
+MEL[1_  1_1_2_5_  3_.21_
+    5_  4_4_3_5_  2__.
+    5_  5_3_542_  3_.45_
+    +1_  5_3_542_  1__0_ //] >>
+FCT[Natur - Lied]

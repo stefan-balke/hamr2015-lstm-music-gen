@@ -1,0 +1,13 @@
+F[ERK2
+CUT[KOMM ICH EINST AUS FREMDEN LANDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Tal]
+KEY[E0788  16  G 6/8]
+MEL[  3__5_3__5_  1_3_5_6__5_
+    4__2_2__2_  2_3_4_6__5_
+    3__3_3__3_  3_4_5_+1__.
+    +2__+1_7__6_  5__4_3__
+    55  +1__333__33  3_4_5_6__
+    55  4__222__22  2_3_4_6__.
+    3__3_3__3_  3_4_5_+1__.
+    +2__+1_7__6_  5__4_3__. //] >>
+FCT[Abschieds - Lied, Liebe]

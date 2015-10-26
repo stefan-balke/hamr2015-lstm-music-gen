@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH SING EIN LIED UND WEISS NIT WIE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0305  04  F 3/4 2/2]
+MEL[  111  5_3  4_2  3_.
+    111  5_3  4_2  3_
+    1  1111  1_2
+    3  4_2  1_3  4_2  1_
+    1  3344  5_43  2_10 //] >>
+FCT[historisches Lied, Spott - Lied]

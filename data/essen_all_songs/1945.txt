@@ -1,0 +1,8 @@
+FINK
+CUT[ICH HAB MIR MEIN WAIZEN AM BERG GESAET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0155  16  C 3/8]
+MEL[  1_3_5_  +1_.+16_  6_.55_  6_.55_
+    3_3_3_  5__2_  4_.33_  4_.33_
+    1_3_5_  +1__+3_  +2__7_  +1__0_ //] >>
+FCT[Moral - Lied]

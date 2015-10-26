@@ -1,0 +1,10 @@
+FINK
+CUT[DEN I SO GERNE HAETT]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol]
+KEY[F0171A 16  C 3/4]
+MEL[-3_-3_-4_  -5__3_.21_-6_  -5_.-3-3_
+    -5_-6_-5_  -5_.-2-2_-4_-6_-5_  -5_.-3-3_
+    -3_-3_-4_  -5_-5_3_.21_-6_  -5_.-3-3_
+    -5_-6_-5_  -5_.-2-2_4_-7_.-7  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[nur 4. Strophe notiert]

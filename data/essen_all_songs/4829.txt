@@ -1,0 +1,17 @@
+DVA
+CUT[Ueba d' Alma, da gibts Kalma,
+    da gibts weixlbraune Kueah]
+REG[Europa, Mitteleuropa, Deutschland, Bayernalpe]
+KEY[D0073  16  D 3/4]
+MEL[1_.1  1_-3_-5__1_.1  -7__-4__
+    -7_-7_  -7__1__2_2_  3_+1_5__
+    4_4_  3__-5__3__  4__.3_
+    2_1_  -7__-4_-5_-7_-4_  -3___
+    1_.1  1_-3_-5__1_.1  -7__-4__
+    -7_-7_  -7__1__2__  3_+1_5__
+    4_4_  3__-5__3__  4__.3_
+    2_1_  -7__-4_-5_-7_-5_  -3___ //] >>
+FCT[Kilt - Lied]
+CMT[Unterstimme in Terzen und Sexten (ergaenzt die Skala zur Heptatonik
+    Ionisch) ; Grundton in der zweigestrichenen Oktave
+    Inzipit = Variante zum Lied]

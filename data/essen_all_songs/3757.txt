@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HOLZAEPFELBAEUMCHE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Frankfurt; Wetzlar]
+KEY[E1029  08  F 2/4]
+MEL[  5_5+1  5_3
+    5  5542  3_0
+    1  555+1  553
+    5  5544  1_0_ //] >>
+FCT[Tanz - Lied]

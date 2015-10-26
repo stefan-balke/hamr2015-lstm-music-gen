@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ES WOHNT EIN MUELLER IN JENEM THAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0146A 08 Bb 6/8 4/4]
+MEL[-5  1_1-7-72  1_-6-5_.
+    4_.3_5  2__0
+    5  2_32_1  -7_-6-5_.
+    3_333_33  3_333_
+    5_  22222_11  -7_-6_-5_
+    -5_  1_1_2_2_  5__.
+    4_  3_3_2_2_  1__0_. //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank
+    Ballade ?]

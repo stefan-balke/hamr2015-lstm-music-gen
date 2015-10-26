@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ritter und Maid]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0069B 08  G 4/4]
+MEL[1_  5_5_5_3b_  7b_7b6b5_
+    7b_  +1_5_4_3b_  4__5_
+    7b_  4_7b6b5_4_  3b_2_1_
+    2_  3b_4_5_3b_  2__1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Alte schlesische Melodie, aus: Graeters Ztschr. Idunna 1812 No. 12]

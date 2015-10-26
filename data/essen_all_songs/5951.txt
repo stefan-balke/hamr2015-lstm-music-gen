@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Grausiges Mahl
+    'Gott gruess' Euch, edle Fraue,]
+CNR[Gott gruess' Euch, edle Fraue,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Haynau, Konradsdorf]
+SRC[1, S. 171
+    1840 aufgezeichnet]
+KEY[Q0017  08  F 2/4]
+MEL[3  5353  5_6
+    5  4242  4_5
+    4  3355  345
+    5  5535  3_0 //] >>
+FCT[Ballade, Eifersucht, Ehe, Mord]
+CMT[Kleinere Melodievariante aus anderer Quelle abgedruckt.]

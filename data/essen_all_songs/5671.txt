@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die Kindsmoerderin]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[A0094  04  F 4/4]
+MEL[1  3b155  5_3b3b  2_21  2_0
+    2  23b45  6b_54  3b_22  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus Schwaben. Aufgezeichnet vom Consistorialrath Horstig und zuerst
+    mit Melodie mitgetheilt in Friedr. Reichardt, Berliner musikal.
+    Zeitung II. Jahrg. Berlin 1806 S. 40 und Beilage 10.]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[I HAB EIN ARTIGES BLUEMELI GSEH]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z0270  08 Ab 4/4]
+MEL[53  1_1_1_65  5_534_0
+    4  35556543  2__0_
+    23  4_432_65  5_543_
+    5_  6_5_4_3_  21-712_
+    54  3_333_53  2_222_
+    54  3_3_2_2_  3__.
+    54  3_333_54  2_222_
+    54  3_3_2_2_  1__. //] >>
+FCT[Lyrisches Lied, Romanze, Tod]

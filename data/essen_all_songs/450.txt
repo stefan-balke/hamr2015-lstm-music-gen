@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[VERSTOHLEN GEHT DER MOND AUF]
+REG[Europa, Mitteleuropa, Deutschland,  Niederrhein]
+KEY[Z0036  16  C 2/4]
+MEL[-5_  1_2_3b_1_  -7_1_2_0_
+    1__5__  4_5_1_
+    1_  2_2_4_4_  4_53b2_0_
+    1_-712_0_  1_-712_0_
+    1__5_5_  3b_23b1_ //] >>
+FCT[Sagen - Lied, Romanze; +++ 265 nach Geh”r ge„ndert. +++]

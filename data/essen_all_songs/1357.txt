@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Elsberger
+    'Vrisch auf, vrisch auf, Mogreatizo!]
+CNR[Vrisch auf, vrisch auf, Mogreatizo!']
+REG[Suedosteuropa, Jugoslawien, Gottschee, Buehel]
+SRC[3, S. 127
+    1906 aufgezeichnet]
+KEY[Q0059  08  C 2/4]
+MEL[-5_  1_5_  4_54  (321)3_  ^_
+    32  1_32  1_2_  1-71_  0_ //] >>
+FCT[Ballade, Betrug, Entfuehrung]
+CMT[Grundton in der zweigestrichenen Oktave; Schlusspause ergaenzt.]

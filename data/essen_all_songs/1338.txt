@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es war ein Jaeger wohlgemut,]
+CNR[der trug zwei Federn auf seinem Hut;]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+SRC[3, S. 103
+    ????]
+KEY[Q0057U 16  G 6/8]
+MEL[-5_1__3_  5__5_2__32  1__
+    2_3__6_  5_5_5_4__5_  3__
+    1_1_3_6_  6_5_3_3__5_  5__
+    3_2_2_2_  6_5_3_5_5_54  3__
+    1_1_3_6_  6_5_3_3__5_  5__
+    3_2_2_2_  6_5_3_5_5_54  3__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

@@ -1,0 +1,24 @@
+BOEHME
+CUT[WIE RUHEST DU SO STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0221  08  C 4/4]
+MEL[-5_  -5_.-4-5-6-71  1_-7_0_
+    -5_  -5_.-6-7123  2_1_0_
+    3_  2_-7-5-61-7-6  -5__0_
+    -5_  -5_.-6-7123  2_-7_0_
+    -5_  -5_-6-71234  3_1_0
+    111  2_.21-7-6-5  3__0
+    345  54321_-7_  1__0_ //] >>
+FCT[Jahreszeiten - Lied, Winter]
+BOEHME
+CUT[WIE RUHEST DU SO STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0221  08  C 4/4]
+MEL[-5_  -5_.-4-5-6-71  1_-7_0_
+    -5_  -5_.-6-7123  2_1_0_
+    3_  2_-7-5-61-7-6  -5__0_
+    -5_  -5_.-6-7123  2_-7_0_
+    -5_  -5_-6-71234  3_1_0
+    111  2_.21-7-6-5  3__0
+    345  54321_-7_  1__0_ //] >>
+FCT[Jahreszeiten - Lied, Winter]

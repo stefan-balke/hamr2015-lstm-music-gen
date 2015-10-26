@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Lindenschmid]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0376  04  G 6/2 4/2]
+MEL[1_  1__1_5__5_  4_3b_2__0_
+    2_  1__1_5__5_  4_3b_2_.3b4_
+    4_  3b_2_3b_1_  -7b__-5__0_
+    2_  3b__2_1__5_  4_3b_2_.3b4_
+    4_  3b_2_3b_1_  -7b__-5__  3b__214__3b_  2__1__. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Souterliedekens 1540 ad Ps. 45]

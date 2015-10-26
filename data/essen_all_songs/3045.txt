@@ -1,0 +1,9 @@
+F[ERK1
+CUT[WIE KOMMTS DASS DU SO TRAURIG BIST]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E0531  16  F 2/4]
+MEL[13  5_.34_2_  32343_
+    13  5_.34_2_  3__0_
+    3_  3_.22_4_  4_.33_
+    5_  +15312432  1__0_ //] >>
+FCT[Liebes - Lied]

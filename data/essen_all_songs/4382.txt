@@ -1,0 +1,8 @@
+F[ERK3
+CUT[DER HIMMEL STEHT OFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Lindenfels]
+KEY[E2037A 08  G 3/4]
+MEL[32  1_-5_1_  2_.12_  3_.43_  2__
+    23  4_.654  3_.43_  2_1_2_  3__
+    23  4_.654  3_.43_  2_1_2_  1__ //] >>
+FCT[geistlich, Wallfahrts - Lied]

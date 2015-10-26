@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ACH GOTT WIE TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Weissenburg]
+KEY[E1343  16 Eb 4/4]
+MEL[1_1_.3  5__.5_5_5_6_.5  5__4__0_
+    4_4_3_  2__.5_4#_5_6_5_  3___0_
+    +1_+1_+1_  6__.6_+2_+1_7_.6  6__5__0_
+    5_+1_3_  2__7_6_5_.46_5_  3___0_
+    +1_+1_+1_  6__.6_+2_+1_7_.6  6__5__0_
+    5_+1_3_  2__7_6_5_.46_5_  3___0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

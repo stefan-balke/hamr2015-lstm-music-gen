@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Die verkaufte Muellerin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0093  08  G 4/4]
+MEL[-5_  1_3b_225_  4_3b_2_
+    -5_  1_3b_225_  4_3b_2_.
+    5  5_4_5_3b2  3b_1_0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus Reichardts Musikal. Kunstmagazin I. Bd. Berlin 1782 S. 100.]

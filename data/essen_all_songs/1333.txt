@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es hiet ein Kneblein a shiessn Shlaf,]
+CNR[es hiet ein Kneblein a shiessn Shlaf.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 102
+    ????]
+KEY[Q0057P 08  G 3/2 2/2]
+MEL[-5_1_-5_  1_1_3_1_4_4_  3_
+    432_3_  1_1_3__2_2_  1__. //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT["Unterstimme"]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Es liegt ein Schloss in Oesterreich,]
+CNR[das ist gar schoen gebauet]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Gruenberg, Drentkau]
+SRC[1, S. 254
+    1847 aufgezeichnet]
+KEY[Q0024C 08  F 6/8]
+MEL[-5  1_3321  2_443
+    2  3_5543  320_.
+    5  5_33_3  5422_
+    4  35324-7  210_. //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]

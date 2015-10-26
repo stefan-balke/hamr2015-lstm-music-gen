@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH SINGE MEIN ABENDLIEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn]
+KEY[E0639  16  G 6/8]
+MEL[13  5_5_5_5__6_  5__.3_0_5_  4__3_2__
+    13  5_5_5_5__6_  5__.3_0_5_  4__3_2__
+    -5_  1__2_3__4_  5__.4_0_5_  4_3_2_1__
+    -5_  1__2_3__4_  5__.4_0_5_  4_3_2_1__ //] >>
+FCT[Liebes - Lied]

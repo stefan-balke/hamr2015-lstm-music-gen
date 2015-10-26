@@ -1,0 +1,13 @@
+F[ERK3
+CUT[O FREDA UEBER FREDA]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Oppeln]
+KEY[E1945  08  F 4/4]
+MEL[-5_  1_3_5_67  +1__5_
+    5_  6_5_4_3_  2__0_
+    -5_  1_3_5_67  +1__5_
+    5_  6_5_4_3_  2__0_
+    1_  3_3_5_5_  4__3_
+    1_  3_3_4_34  5__0_
+    1_  1_3_5_67  +1__5_
+    4_  3_1_2_-7_  1__0_ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

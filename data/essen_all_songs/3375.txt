@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ICH GIENG WOL NAECHETN SPAETE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau]
+KEY[E0815  16 Bb 2/4]
+MEL[-5_  1_1_1_32  1_-6_-5_
+    1_  -6_-4_-5_2_  1__0_
+    1_  2_1_2_35  4_3_2_
+    3_  1_3_2_1_  -7_-6_-5_
+    1_  -6_-4_-5_2_  1__0_ //] >>
+FCT[Kilt - Lied]

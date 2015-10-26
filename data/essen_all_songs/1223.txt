@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die erzwungene Ehe
+    Mein Freund hat mir versprochen etwas:]
+CNR[Mein Freund hat mir versprochen etwas:]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 250
+    1933 gedruckt in Heidelberg]
+KEY[Q1050E 08  D 2/4]
+MEL[1  13b21  -7b_-7b_  3b554  5_0
+    1  13b21  -7b_-7b_  3b554  5_
+    3b4  5556b  5_43b  4_
+    46b  5_12  1_-7b-6b  -7b_
+    24  3b_22  1_0 //] >>
+FCT[Kilt - Lied]
+CMT[Melodievergleich zu Q0050d, anderes Lied. Verzierungen (Vorschlaege)
+    in den ersten Zeilen. Pause in der 2. Zeile korrigiert.]

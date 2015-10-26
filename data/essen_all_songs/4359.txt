@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WER NUR DEN LIEBEN GOTT LAESST WALTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2002  04  A 4/4]
+MEL[-5  123b2  12-7_  -5
+    -7b-7b-6b  -511-7  1_0
+    -5  123b2  12-7_  -5
+    -7b-7b-6b  -511-7  1_0
+    2  3b455  443b
+    5  43b21  3b21 //] >>
+FCT[geistlich, Trost -, Lob - Lied, Choral]

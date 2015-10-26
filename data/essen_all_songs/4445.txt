@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Jacob von Artefelde]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0364B 08  F 6/4]
+MEL[2_  2__1_2__3_  1__.1__
+    1_  4__4_5__3_  2_.34_3__
+    3_  5__5_4__3_  2__.3__
+    3_  4_.22_2__3_  3_.21_2__ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Bei der Familie Westendorp in Elberfeld gehoert und mitgetheilt
+    durch F.W. Arnold: Volkslieder I. S. 14.]

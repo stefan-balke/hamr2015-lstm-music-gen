@@ -1,0 +1,9 @@
+FINK
+CUT[WOHLAUF IHR LIEBEN LEUTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0271  08  C 6/8]
+MEL[-5  -5_11_3  3_.10
+    3  2_1-7_-6  -5_.0_
+    -5  -7_12_3  4_.20
+    4  3_21_-7  1_.0_ //] >>
+FCT[Jugend - Lied, Wander - Lied, Sommer]

@@ -1,0 +1,11 @@
+FINK
+CUT[NUN SAGT EINMAL IHR GAENSCHEN MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0310  16  G 2/4]
+MEL[5_  3_.11_-5_  -6_-7_1_
+    2_  3_5_3_1_  565_0_
+    5_  3_.11_-5_  -6_-7_1_
+    2_  3_5_3_1_  565_0_
+    5_  65444321  -71-7-6-5_
+    5_  34531234  3__2_3_  1__0_ //] >>
+FCT[Jugend - Lied, Belehrung, Tiere]

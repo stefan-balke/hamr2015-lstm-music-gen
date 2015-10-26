@@ -1,0 +1,11 @@
+F[ERK1
+CUT[UNTER MEINES VATERS SEINEM FENSTER]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schlesien]
+KEY[E0523  08  F 3/4]
+MEL[13  535353  5+13_
+    65  5442-72  2_1_
+    33  544_22  655_
+    33  544_22  655_
+    34  535353  5+13_
+    65  5442-72  2_1_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,24 @@
+BOEHME
+CUT[ES WOHNEN ZWEI SCHWAENE IM SEE]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[B0272  16  G 6/8]
+MEL[-3_  3_.21_-7_-6_-7_  -6__.0__
+    -6_  4_.32_1#_-7_1#_  3_2_0__.
+    2_  5_.65_5_6_4_  3__.0__
+    3_  1_.-7-6_1_.-7-6_  3_-3_0__.
+    3_  3_2_2_2_1_1_  5__4_3__
+    3_  3b_.21_3b_.21_  3_.4231__
+    5_  6_5_0__.5_  5__-7_1__ //] >>
+FCT[Stimmungs - Lied, Trauer, Tod]
+BOEHME
+CUT[ES WOHNEN ZWEI SCHWAENE IM SEE]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[B0272  16  G 6/8]
+MEL[-3_  3_.21_-7_-6_-7_  -6__.0__
+    -6_  4_.32_1#_-7_1#_  3_2_0__.
+    2_  5_.65_5_6_4_  3__.0__
+    3_  1_.-7-6_1_.-7-6_  3_-3_0__.
+    3_  3_2_2_2_1_1_  5__4_3__
+    3_  3b_.21_3b_.21_  3_.4231__
+    5_  6_5_0__.5_  5__-7_1__ //] >>
+FCT[Stimmungs - Lied, Trauer, Tod]

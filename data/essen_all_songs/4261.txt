@@ -1,0 +1,9 @@
+F[ERK3
+CUT[BUKO VON HALBERSTADT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1817  16  F 2/4]
+MEL[  5__3_2_  1_1_-5__
+    5_5_3_2_  1_1_-5_0_
+    1_1_2_1_  4__2_
+    5_  43212_-5_  1__1_0_ //] >>
+FCT[Kinder - Lied, Sage]

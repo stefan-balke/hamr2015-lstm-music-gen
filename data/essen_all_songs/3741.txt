@@ -1,0 +1,9 @@
+F[ERK3
+CUT[E BISSELE LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Schwaben]
+KEY[E1015  16  G 3/8]
+MEL[1_  3_3_.4  6_5_0
+    5  5_4_.4  4_3_
+    34  3_2_2_  2_1_.
+    1  24-7_-7_  1__ //] >>
+FCT[Tanz - Lied; Liebe, Eifersucht]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Vor der Hochzeit"
+    JUCHHE BAL KANN I WIBE]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1218  16  G 2/4]
+MEL[-5_  1_2_3_4_  5__3_
+    5_  424_313_  2__0_
+    3_  4_2_3_1_  -7121-5_
+    5_  4_2_3_1_  -7_1_2_
+    +1_  5_.43_.2  1__0_ //] >>
+FCT[Liebes - Lied, Hochzeits - Lied]

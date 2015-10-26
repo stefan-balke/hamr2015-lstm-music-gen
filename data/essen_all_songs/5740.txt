@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Uebersetzung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0185  08  G 4/4]
+MEL[1_  1_1_1_1_  2__2_
+    5_  5_2_543b_  2__0_
+    5_  5_5_5_5_  4__2_
+    3b_  1_2_43b21  2__1_
+    5_  7b_53b4_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie ist die von A0184]

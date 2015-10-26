@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Ein Soldat zog in ein Wirtshaus ein, hurrah!]
+CNR[Ein Soldat zog in ein Wirtshaus ein, hurrah!]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+SRC[5, S. 162
+    ????]
+KEY[Q0103M 08  G 4/4]
+MEL[-5-5  1_.11111  2_-5_-5_
+    22  2_.22254  3_1_1_
+    54  3_3_3_5_  5_.44_
+    43  2_2_2_6_  6_.55_
+    4_  3_3_2_2_  1__0_ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Anhaengsel; letzte Zeile = Refrain.]

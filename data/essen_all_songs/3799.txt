@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WENN DU WILLST MEIN SCHAETZCHEN BLEIBEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn]
+KEY[E1094  16  C 2/4]
+MEL[  1_.23_1_  2_-7_-5__
+    -6_.-71_-6_  -5_-4_-3_0_
+    -4_.-6-5_-3_  -4_-6_-5__
+    1_.23_1_  -7_2_1_0_ //] >>
+FCT[Wunsch - Lied, Luegen - Maerchen]

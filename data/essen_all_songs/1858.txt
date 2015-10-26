@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    Es wollt' ein Maedchen spazieren gehn,]
+CNR[gar schoen war sie gezieret,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Uckermark, Gramzow]
+SRC[6, S. 243
+    1844 aufgezeichnet]
+KEY[Q0138A 16  G 3/4]
+MEL[-5_  -5_-5_1__1_1_  -5_-712__.
+    32  1_1_1__.23  4_3_2__0_
+    3_  1_1_4__.3_  2_1_2__.
+    3_  1_1_3_2_1_1_  1_-7_1__0_ //] >>
+FCT[Ballade, verlorene Unschuld, Moral]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Der Holzhauer"
+    BIN I SO A SAUBERA BURSCH]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1294  08 Bb 3/4]
+MEL[  3_3231  32345_
+    3_3524  32345_
+    6_5_4#_  5__0_
+    345_35  4_243_
+    123_13  24-721_
+    123_13  24-721_
+    313453  1__0_ //] >>
+FCT[Handwerker -, Bauern - Lied]

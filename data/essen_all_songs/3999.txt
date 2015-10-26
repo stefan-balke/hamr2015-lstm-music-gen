@@ -1,0 +1,11 @@
+F[ERK3
+CUT[MAEDCHEN SAG MIRS FUER GEWISS]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[E1420A 08  G 4/4]
+MEL[  -5_1_-7_2_  1_-6_-5__
+    3_3_2_5_  4_3_2__
+    2_2_2_12  3_5_3_1_
+    2_2_2_12  3_5_3_1_
+    4__3_3_  65465_0_
+    4__3_1_  322-71_0_ //] >>
+FCT[Staende -, Soldaten - Lied]

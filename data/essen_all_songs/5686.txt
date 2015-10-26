@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Maibaum und Abschied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0114  04  A 4/2 6/2]
+MEL[1_  1_1_1_2_  3b_.21_-7b-6  -7b__-5__0_
+    -7b_  1_2__1__-7_  1__0_
+    1_  1_1_1_2_  3b_.21_-7b-6  -7b__-5__0_
+    -7b_  1_2__1__-7_  1__0_
+    2_  2_2_2_1_  4_.3b2_1-7b  1__-7b__0_
+    -7b_  2__-7b_4__3b_  4_.3b2_1-7b  1__0_
+    4_  1_1_1_2_  3b_.21_-7b-6  -7b__-5__0_
+    -7b_  1_2__1__-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 54.]

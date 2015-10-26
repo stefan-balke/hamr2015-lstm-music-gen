@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DA DROBEN VOR DER HIMMLISCHEN THUER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Wetterfeld]
+KEY[E2036  08  F 3/4]
+MEL[-5_  1_3_53  2_1-7
+    -6-5  1_3_53  2__
+    55  6_.546  5_.4
+    3_  4_3_2_  1__
+    55  6_.546  5_.4
+    3_  4_3_2_  1__ //] >>
+FCT[geistlich, Wallfahrts - Lied]

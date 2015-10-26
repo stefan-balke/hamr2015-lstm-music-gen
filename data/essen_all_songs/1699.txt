@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die neue Muehle
+    Schtupp und Pfaffer muhlet shi,]
+CNR[in lauter Beine lafet shi.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Rieg]
+SRC[4, S. 250
+    1895 aufgezeichnet]
+KEY[Q0084  08  C FREI]
+MEL[3__5__  2__5__  3_1_-7_0__.
+    -5__  123_123_  221__0_ //] >>
+FCT[Ballade, Entfuehrung, Mord]
+CMT[Grundton in der zweigestrichenen Oktave. Moeglicherweise
+    schon kodiert.]

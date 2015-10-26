@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[EIN SCHWEINHIRT DER HUET BEI DEM KORN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0195  08  G 3/8]
+MEL[5  5_4  4_3b  3b_2  3b_
+    3b  3b_2  2_1  1-71  1_
+    5  5_7b  7b_5  6b_4  44
+    4  5_3b  2_1  -712  -5-5
+    5  5_5  +1_1  1_
+    4  3b_.  2_.  1_ //] >>
+FCT[Hirten -, Handwerker - Lied]

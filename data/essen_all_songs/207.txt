@@ -1,0 +1,18 @@
+BOEHME
+CUT[VERGANGEN IST DER LICHTE TAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0245  08  C 6/8]
+MEL[5  1_23b_4  5_55_
+    5  6b_543b4  5_43b_
+    3b  5_5+1_7b  7b_53b_
+    3b  6b545_3b  23b21_ //] >>
+FCT[Tageszeiten - Lied, Nacht]
+BOEHME
+CUT[VERGANGEN IST DER LICHTE TAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0245  08  C 6/8]
+MEL[5  1_23b_4  5_55_
+    5  6b_543b4  5_43b_
+    3b  5_5+1_7b  7b_53b_
+    3b  6b545_3b  23b21_ //] >>
+FCT[Tageszeiten - Lied, Nacht]

@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Das Dollerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0374A 02  D 4/2 6/2]
+MEL[+1_  +17b65  4_5_
+    6_  7b_7b+1_6  5_
+    +1_  +17b65  4_5_
+    6_  7b_7b+1_6  5_
+    5_  5456  7b_7b_
+    5_  5_55_4  3b_
+    7b_  7b7b7b5  7b_5_
+    5_  7b7b+16  5_5_
+    5_  5_3b4_2  1_ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Melodie 1611 im Goerlitzer Gsgb. S. 552.]

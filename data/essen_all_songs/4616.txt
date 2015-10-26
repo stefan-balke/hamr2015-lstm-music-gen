@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Dreikoenigslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0535  02  G 3/2]
+MEL[1  1_1  5_5  4_3b  2_
+    5  5_6  7b_5  42_  1_
+    3b  5_5  4_5  56_  7b_.
+    7b7b7b  5_7b  54_  3b_
+    3b  3b_3b  3b_2  1_1  2_
+    2  4_4  5_4  3b2_  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Coelner Gsgb. 1623.]

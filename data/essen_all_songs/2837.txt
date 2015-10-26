@@ -1,0 +1,9 @@
+F[ERK1
+CUT[NUN ADE MEIN HERZLIEB SCHAETZELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[E0201  08  G 4/4]
+MEL[-5_  1_1_2_5_  3_.21_
+    13  5_5_5_43  2__0_
+    5_  3_3_3_56  5_.42_
+    5_  5_3_2123  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Tod, Toten - Sage, Grabesstimme]

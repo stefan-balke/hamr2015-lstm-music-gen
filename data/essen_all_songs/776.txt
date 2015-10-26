@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Mordfranzosen"
+    DREI FRANZOSEN DIE KOMMEN WOHL]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1041  08  F 3/4]
+MEL[11  1_.354  3_.213  2_2_4_  3__0_
+    5__.  6__54  3__2_  1__
+    23  2_3_4#_  5_-5_
+    -5-7  1_1-7-6-7  1_1_2_  1-7-6_-6_  -5__0_
+    5_6_53  4_.532  123_2_  1__ //] >>
+FCT[Romanze, Ballade, Tod, historisch Dreissigjaehriger Krieg)]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Spaete Reue"
+    WEINE NICHT FEINSMAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Mittelrhein]
+KEY[Z1065  08  F 4/4]
+MEL[  1_3_1_3_  21231_0_
+    3_5_3_5_  43453_0_
+    2_2_3212  3_3_543_
+    2_2_3212  3_3_543_
+    5__6543  4__54
+    32  3_3_4345  3__0__ //] >>
+FCT[Romanze, Ballade, Tod]

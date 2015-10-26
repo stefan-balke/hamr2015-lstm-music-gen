@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Meierin Sohn
+    Ich geh auf Gassen, ich geh auf Strassen,]
+CNR[der Schoenste hat seine Geliebte verlassen.]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[4, S. 248
+    1931 gedruckt in Herrmannstadt]
+KEY[Q1083B 08  F 3/4]
+MEL[-5_  1__1_  1_-7_1_  2_3_2_  1_1_
+    2_  3_2_3_  4_3_21  3_3_2_  1_1_ //] >>
+FCT[Abschieds - Lied]
+CMT[Melodievergleich zu Q0083, anderes Lied.]

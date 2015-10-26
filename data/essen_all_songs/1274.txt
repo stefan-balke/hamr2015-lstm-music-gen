@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    'Ach Tochter lauber, ach Tochter min,]
+CNR[was hascht du angefangen,]
+REG[Mitteleuropa, Schweiz]
+SRC[3, S. 54
+    ????]
+KEY[Q0055Q 16  F 6/8]
+MEL[-5_1__3_  5_.55_6_+1_6_  5__
+    5_+1_7_6_  5__4_3__4_  5__
+    5_6__6_  6_.7+1_5_5_3_  5__
+    3_2_226_  5_4_3_2_.32_  1__
+    5_6__6_  6_.7+1_5_5_3_  5__
+    3_2_226_  5_4_3_2_.32_  1__ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

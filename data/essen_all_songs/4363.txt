@@ -1,0 +1,11 @@
+F[ERK3
+CUT[SCHOENSTER HERR JESU]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E2009  08  A 4/4]
+MEL[  5_12-7_-7_  123b45_5_
+    7b_3b_456b5  4_.3b3b__
+    5_43b4_4_  6b_545_5_
+    -7_1_-5_3b4  2_.11__
+    5_43b4_4_  6b_545_5_
+    -7_1_-5_3b4  2_.11__ //] >>
+FCT[geistlich, Gebet, Jesus - Lied]

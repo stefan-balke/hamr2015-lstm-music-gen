@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Totenamt
+    Es wollt' ein Herr ausreiten,]
+CNR[drei Meilen ueber die Strasse.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 162
+    1933 aufgezeichnet]
+KEY[Q1061E 08  G 4/4]
+MEL[-5  -5_.11_1_  -7b_123b_
+    2_  1_1_222_  -5_1_-7b_0
+    -5  2_.3b4424  3b23b21_
+    1_  -5_-6_-7b_1_  3b21-71_0 //] >>
+FCT[Ballade, ???]
+CMT[Melodievergleich zu Q0061, anderes Lied: "Kirchhofreiter" .]

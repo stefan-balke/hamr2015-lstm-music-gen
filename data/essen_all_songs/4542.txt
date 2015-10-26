@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die Schreiber (Studenten)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0457  02  C 4/2 6/2]
+MEL[1  1131  55
+    +1_  7_56_5  3_0
+    1  5675  +1_7_
+    65_3  421_0
+    1  5543  4_3_
+    1_  3_65_4  2_
+    6_  5543  1_3_
+    6_  5_342_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Rotenbucher Bergkreyen 1551 Bo. 21.]

@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Toen ik op Neerlands bergjes stond,]
+CNR[keek ik het zeegat in,]
+REG[Mitteleuropa, Niederlande, Zeeland, te Oost - Souburg]
+SRC[8, S. 99
+    1954 aufgezeichnet]
+KEY[Q2155m 08  G 6/8]
+MEL[-5  1_35_5  6_65_
+    5  6_67_7  +1_.^_
+    5  +1+1+16_6  5_.30
+    5  565543  2_.
+    666  5_13_4  5_.
+    666  5_13_2  1_0_. //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]
+CMT[Niederlaendische Fassung der Ballade. Verzierung: Glissando. Unteren
+    Anfangston kodiert. Schluss rhythmisch korrigiert und Pause ergaenzt.]

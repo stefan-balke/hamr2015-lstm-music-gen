@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Kaiser an dem Rhein,]
+CNR[der hat drei schoene Toechterlein.]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+SRC[4, S. 116
+    ????]
+KEY[Q0075p 04  F 3/4]
+MEL[  113  5_3  462
+    223  4_2  351
+    345  +1+1+1  +1_3  221 //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Einschiebsel am Anfang der dritten Zeile.]

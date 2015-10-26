@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ein alter Ruf an St. Lorenz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0615A 04  G 4/2]
+MEL[1_  1_2_3_4_  5__5_
+    5_  6_5_3_4_  5_.43_
+    5_  4_3_2_4_  3_.21_
+    3_  2_112_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 II No. 67.]

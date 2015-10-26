@@ -1,0 +1,11 @@
+DVA
+CUT[In dem schoenen Monat Mai,
+    trulala lia trialei do]
+REG[Europa, Mitteleuropa, Deutschland, Hohegeiss  Harz]
+KEY[D0234  16  G 2/4]
+MEL[1_3_  6_3_5_2_  4__7_5_  +4_+3+2+1_33  5__
+    1_3_  6_3_5_2_  4__7_5_  +4_+3+2+1__  5__+3__
+    +1_3_+133+1  722_4_+2_  7_5_5+4+3+2  +133_5__
+    +1_3_+133+1  722_2_4_  7_5_5+4+3+2  +1__ //] >>
+FCT[Staende - Lied, Koehler]
+CMT[Inzipit = Variante zum Lied]

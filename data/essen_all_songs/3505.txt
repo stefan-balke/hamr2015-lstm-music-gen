@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ES FUHR EIN BAUR INS HOLZ]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Thueringen]
+KEY[E0987  08  G 2/4]
+MEL[-5  1111  1_0
+    2  3333  3_0
+    3  5555  544_
+    3_3_  322
+    5  3322  1_0 //] >>
+FCT[Tanz - Lied, Reigen, Gesellschafts - Spiel]

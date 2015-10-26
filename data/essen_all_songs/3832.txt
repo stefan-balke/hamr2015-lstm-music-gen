@@ -1,0 +1,10 @@
+F[ERK3
+CUT[LASST UNS SINGN UND FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E1162  04  F 4/4]
+MEL[  1121  -7-7-6_
+    -5_-6_  -7_1
+    1  3332  321
+    1  2222  123_
+    -5_-6_  -7_10 //] >>
+FCT[Trink -, Zech - Lied, geistlich]

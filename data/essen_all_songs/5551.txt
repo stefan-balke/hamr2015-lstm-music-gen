@@ -1,0 +1,12 @@
+KINDER
+CUT[HAENSCHEN WILLST DU TANZEN]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2358  04  F 4/4]
+MEL[  5536  5_3
+    1  5555  +1_0_
+    5536  5_3
+    1  5555  +1_0
+    5  5116  553
+    3  5556  553
+    1  5555  1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

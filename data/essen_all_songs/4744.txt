@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Der Tod als Schnitter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0650  04  G 3/2 2/2]
+MEL[1_  1__3b_  2__1_  -7b__-6b_  -5__
+    5_  5_.43b_  4_.3b2_  3b__.  0__
+    1_  1__3b_  2__1_  -7b__-6b_  -5__
+    5_  5_.43b_  4_.3b2_  3b__.  0__
+    5_  5_.45_  3b_.45_  4_.3b4_  2_.3b
+    4_  3b_.23b_  1_.23b_  2_.12_  -7__-5_
+    5_43b  221_  0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[ Fl. Blatt von 1638 und oefter]

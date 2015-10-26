@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[WOHL HEUTE NOCH UND MORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0079  04  E 6/4]
+MEL[1  6b_54_5  2_.1_
+    5  +1_+3b+2_+1  5_.
+    5_.  7b_45_7b  5_43b_
+    5  +1_+3b+2_+1  7_.^_
+    5  3b_52_1  1_.1_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

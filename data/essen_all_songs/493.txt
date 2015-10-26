@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES STEHT EIN BAUM IM GRUENEN THAL]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z0078  08  D 4/4]
+MEL[5  5_.53_1_  2_2_2_0
+    5  5_.53_1_  2__.0
+    +2  +2_.+27_5_  +1_+1_+1_0
+    +1  +2_.+27_5_  +1__.0 //] >>
+FCT[Sagen - Lied, Romanze, Tod]

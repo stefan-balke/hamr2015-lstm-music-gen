@@ -1,0 +1,9 @@
+FINK
+CUT[WAS HAB ICH DENN MEINEM FEINSLIEBCHEN GETAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0816  16  E 4/4]
+MEL[1_3_  5_5_5_5_5_6_5_4_  4__3_3_5__4_
+    3_  3__2_2_6__5_4_  4__3_.35__0_
+    5_  5__2_.55__7_7_  7_6_+2_.+17_.65_
+    5_  +1__7_.65_.65_4_  3__2_2_1__ //] >>
+FCT[Geselligkeits - Lied, Liebe, Klage]

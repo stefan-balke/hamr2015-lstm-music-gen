@@ -1,0 +1,9 @@
+F[ERK3
+CUT[REDLICH IST DAS DEUTSCHE LEBEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1349A 08 Eb 4/4]
+MEL[1_3_  2_.42_4_  433_0_
+    3_  2_.1-7-724  655_0_
+    55  +1_.76_5_  5__
+    3_1_  6_5_4_.3  3__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

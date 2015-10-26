@@ -1,0 +1,13 @@
+KINDER
+CUT[ICH GING MAL UEBER NE BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[K2174  08  F 2/4]
+MEL[-5  1234  5_30
+    4_2_  1_0
+    -5  1234  5_30
+    4_2_  1_0_
+    4422  331
+    -5  4422  331
+    -5  1234  5_0
+    4  3322  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

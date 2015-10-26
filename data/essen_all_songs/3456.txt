@@ -1,0 +1,12 @@
+F[ERK2
+CUT[KOESTER MINNE MANN ES DOOT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Wesel, Xanten]
+KEY[E0911  16 Bb 2/4]
+MEL[-5_  -5_1_1_1_  1_-7-6-5__
+    -6_-6_-7_-5_  1_3_1_
+    -5_  -5_1_1_1_  1_-7-6-5__
+    -6_-6_-7_-5_  1_3_1_0_
+    -7_-7_1_1_  4_4_3__
+    2_2_-7_-5_  5_553__
+    2_2_-7_-5_  1_3_1_ //] >>
+FCT[Ehestands - Lied]

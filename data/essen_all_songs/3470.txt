@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WILL NIEMAND SINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0935B 04  F 4/4]
+MEL[  3_33  5_4_  3_2_  1_4_  3__
+    3_33  5_4_  3_2_  1_4_  3_
+    4_  321-7  -6_-5_  2_2_  3_
+    4_  321-7  -6_-5_  2_3_  1__ //] >>
+FCT[Tanz - Lied, Reigen, geistlich]

@@ -1,0 +1,13 @@
+FINK
+CUT[MEIN KNAPPE WIE KOMMST DU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0638  08 Eb 6/8]
+MEL[-5  135135  +1+165_
+    5  354321  5_.0_
+    -5  135135  +1+165_
+    5  354321  5_.0_
+    5  5_2257  5_.2_
+    5  5_2257  5_.2_
+    5  353242  1_.
+    +176  565432  1_.0_ //] >>
+FCT[Soldaten -, Ritter -, Helden - Lied]

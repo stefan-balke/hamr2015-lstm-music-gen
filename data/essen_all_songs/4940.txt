@@ -1,0 +1,13 @@
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    in die Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Bauzen]
+KEY[D1012  16  G 4/4]
+MEL[-5_-5_  3__.2_1_.-71_2_  -5___0__
+    -7_1_  2__.1_-7_2_6_5_  3___0__
+    1_2_  3_5_5___4_3_  2_3_4__0_
+    4_4_6_  5__.4_3_2_3_2_  1___.
+    1_2_  3_5_5___4_3_  2_3_4__0_
+    4_4_6_  5__.4_3_2_3_2_  1___. //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 59 141]

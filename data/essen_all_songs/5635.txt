@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Koenigssohn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0049  04  F 4/2]
+MEL[1_  1_2_3_5_  64342_2_  1___
+    0_1_5_5_  6__5_5_  ^_4#_5__
+    5__5_5_  3_.54_.3  2__0_
+    5_  4_2_3_1_  3_.45_4_  43212__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Forster V. 1556 No. 11.]

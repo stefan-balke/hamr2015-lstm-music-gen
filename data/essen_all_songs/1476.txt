@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    En met een eens kwam daar eens een knecht aan gaan,]
+CNR['Was een zo'n kwaje knecht.]
+REG[Mitteleuropa, Niederlande, Friesland]
+SRC[7, S. 81
+    ????]
+KEY[Q2147G 16  E 6/8]
+MEL[56b  7b_6b_5_5_4_3b_  5__7b_5__
+    4_  1__4_5_.43b_  1__0__. //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Zwei weitere Strophenvarianten notiert, siehe Q0147F.
+    Strophenvariante. Niederlaendische Fassung der Ballade.]

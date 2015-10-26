@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Vergeblich"
+    DENK ICH ALLEWEIL]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1191  08  G 3/4]
+MEL[12  3_3_12  3_3_
+    5_  5_.43_  2_0_
+    12  3_3_12  3_3_
+    5_  5_.43_  2_0_
+    23  4_4_24  3_3_
+    13  2_.1-7_  1_0_ //] >>
+FCT[Liebes - Lied]

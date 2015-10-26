@@ -1,0 +1,9 @@
+F[ERK2
+CUT[GROSSER GOTT VOM HIMMEL DROBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0721  16  C 3/4]
+MEL[3_.2  1__.-3_-2_-2_  -5__-4__
+    2_.1  -7__.-5_-6_-7_  1__.-5_
+    3_.2  1__.-7_-6_-3_  -5__-4__
+    2_.1  -7__.-5_-6_-7_  1__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Weihnachtslied des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0521A 04  F 6/4]
+MEL[5_31_3  5_65_.
+    5_3113  5_65_.
+    5_4335  4_32_
+    3  5_31_3  2_-62_3  1_.1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Hs. aus dem 14./15. Jh, von Boehme uebertragen ud berichtigt.]

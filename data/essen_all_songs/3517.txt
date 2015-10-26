@@ -1,0 +1,16 @@
+F[ERK2
+CUT[ACH WENN DOCH IMMER KIRMES WAER]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[E0997  08  F 3/4]
+MEL[112  3_.423  1_0
+    334  5_.645  3__0_
+    135_5_  +165_5
+    1  123_3_  2_1_0_
+    135_5_  +165_5
+    1  123_3_  2_1_0_
+    1_1_2_  3_.21_
+    3_3_4_  5_.43_
+    135_5_  +16545_
+    135_5_  +16545_
+    123_3_  2_1 //] >>
+FCT[Tanz - Lied, Reigen, Kirmes]

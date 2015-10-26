@@ -1,0 +1,10 @@
+F[ERK2
+CUT[ES WOLLT EIN FRAU ZUM WEINE GAHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0899  04  G 3/4]
+MEL[1  1_1  2_3  4_4  2_
+    4  323  11
+    1  5_5  5_5  4_3  2_
+    5  2_2  2_3  432  1_
+    1  345  42_  1_ //] >>
+FCT[Ehestands - Lied]

@@ -1,0 +1,10 @@
+FINK
+CUT[UNTER DEN ROTEN BLUMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0315  16  C 3/8]
+MEL[  1_.11_  3__2_  1__.  -5__0_
+    -6_.-51_  2__-5_  3__.  ^_0__
+    -7_.12_  1__-6_  -7__.  -5__0_
+    1_.-7-6_  -7_.-5-4#_  -3__.  ^__0_ //] >>
+FCT[Jugend - Lied, Trauer]
+CMT[Modulation]

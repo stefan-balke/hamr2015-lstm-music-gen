@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Herr von Falkenstein
+    Es ligt ein hauss im Oberlandt,]
+CNR[das ist gar wol erbawet,]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 226
+    1544 gedruckt in Nuernberg]
+KEY[Q0021C 16  F FREI]
+MEL[1__  1__2__3__4__  5__5__1__
+    2__  3__6__5__1__  1__^_-7-6-7__1__-6___  -5___0__0___
+    5__  5__5__6__5__  5__4__3__
+    6__  5__2__3__1__  -7__1__2__3__  ^__2_1_2___  1___0__ //] >>
+FCT[Ballade, Gefangenschaft, Ehe, Befreiung]
+CMT[Anhaengsel in der letzten Zeile.]

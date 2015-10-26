@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[FALSCHES HALLE GUTE NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Halle]
+KEY[Z0272  04  F 4/4]
+MEL[  5_4_  3b_2_
+    56b54  3b45_
+    123b4  5_-7_  1__
+    5457b  6b543b
+    43b46b  543b2
+    5_4_  3b_2_
+    56b54  3b45_
+    123b4  5_-7_  1__
+    123b4  5_-7_  1__ //] >>
+FCT[Lyrisches Lied, Romanze, Studenten - Lied]

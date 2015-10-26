@@ -1,0 +1,18 @@
+BOEHME
+CUT[WER REIT'T SO SPAET DURCH NACHT UND WIND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0113  16  A 6/8]
+MEL[-3_  -5__-3_-5__-3_  21_-71_2_0_
+    1_  -7__-7_-7_.12_  3__1_1_0_
+    -5_  -7-6_-5-6_1-7_-6-7_  1_.-71_2_0_
+    -5_  -5_.-6-5_-6_.-6-5_  -6_.2-7_1_0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WER REIT'T SO SPAET DURCH NACHT UND WIND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0113  16  A 6/8]
+MEL[-3_  -5__-3_-5__-3_  21_-71_2_0_
+    1_  -7__-7_-7_.12_  3__1_1_0_
+    -5_  -7-6_-5-6_1-7_-6-7_  1_.-71_2_0_
+    -5_  -5_.-6-5_-6_.-6-5_  -6_.2-7_1_0_ //] >>
+FCT[Ballade, Romanze]

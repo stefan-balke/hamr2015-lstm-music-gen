@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    Isabelle, mijn dochterken,]
+CNR[waer hebde gy leeren naeijen?]
+REG[Mitteleuropa, Niederlande]
+SRC[4, S. 206
+    1504 gedruckt]
+KEY[Q2079J 08  D 6/8]
+MEL[  1_23b_4  5_55_
+    5  6b6b6b5_4  3b_.2_
+    1  1_23b_4  5_.5_
+    5  6b_6b5_5  43b21_0 //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Niederlaendische Fassung der Ballade.
+    Die letzten beiden Zeilen = Refrain.]

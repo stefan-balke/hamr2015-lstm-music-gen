@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ICH NEHM MEIN GLAESCHEN IN DIE HAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1146  08  G 2/4]
+MEL[-5  1111  -7-6-5_
+    -6-6-7-7  1_1
+    -5  1111  -7-6-5_
+    -6-6-7-7  1_10
+    3333  444_
+    2222  555_
+    312-7  131 //] >>
+FCT[Trink -, Zech - Lied; Studenten - Lied]

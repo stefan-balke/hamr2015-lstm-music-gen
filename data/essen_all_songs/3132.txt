@@ -1,0 +1,13 @@
+F[ERK1
+CUT[HEUT HAB ICH DIE MACHT ALLHIER]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben; Brandenburg, Oranienburg]
+KEY[E0597  16 Eb 2/4]
+MEL[  5__5_.4  3_.65_
+    4_  35_.2__  1__0__
+    1_.66_6_  6_.55_
+    3_  4__3__  2__0_
+    12  3_3_5_3_  2_.34_
+    4_  3_3_5_3_  2__0_
+    2_  1_.66_6_  5_.+15_
+    4_  35_.2__  1__0__ //] >>
+FCT[Liebes - Lied, Klage, Abschied]

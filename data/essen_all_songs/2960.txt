@@ -1,0 +1,12 @@
+F[ERK1
+CUT[WENN ALLE BRUENNLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Odenwald; Limburg, Nauheim]
+KEY[E0429  16  G 2/4]
+MEL[-5_  -5_1_1_3_  3_212_
+    5_  3_1_2_4_  3__0_
+    -5_  -5_1_1_3_  3_212_
+    5_  3_1_2_4_  3__0_
+    12  3_5_5_6_  5_434__
+    3__5__  3_212_
+    5_  3_3_2_4_  3__0_ //] >>
+FCT[Liebes - Lied]

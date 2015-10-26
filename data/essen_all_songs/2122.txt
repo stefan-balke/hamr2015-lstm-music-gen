@@ -1,0 +1,11 @@
+FINK
+CUT[WEM DEUTSCHES BLUT IN SEINEN PULSEN BRENNET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0412  16  C 4/4]
+MEL[-5_-6_-7_  1__.1_2_.12_.3  1__-5__0_
+    -5_-7_1_  2__.2_3_.21_.3  2__-5__0_
+    -5_3_1_  -7__.-7_-7_-7_3_2_  2_1_1__0_
+    -2_1_-7_  -6__.-6_-6_-6_2_1_  1_-7_-7__0_
+    -5_-7_2_  4__.4_4__.4_  4__0__.
+    4_4_4_  3__5_4_3__2__  1__0__. //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

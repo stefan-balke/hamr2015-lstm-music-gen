@@ -1,0 +1,10 @@
+BOEHME
+CUT[LEBE WOHL VERGISS MEIN NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Weimar]
+KEY[B0494  08  F 4/4]
+MEL[34  5_.+12_5_  1_0__
+    31  1-7-7_5_.-7  211_0_
+    31  1-7-7_5_.-7  211_0_
+    11  6_.65_67  +1_0__.
+    5_+1_6_.6  5_-7_1_ //] >>
+FCT[Abschieds - Lied]

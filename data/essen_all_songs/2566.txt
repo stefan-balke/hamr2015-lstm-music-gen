@@ -1,0 +1,10 @@
+F[ERK1
+CUT[IN DER EICHE DA WOHNET MEIN LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Ost - Friesland]
+KEY[E0049A 08  G 4/4]
+MEL[12  3_333_23  4_2_0_
+    23  4_444_34  5_3_0_
+    34  5_554321  6_6_6_
+    +16  5_335_44  3__. //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

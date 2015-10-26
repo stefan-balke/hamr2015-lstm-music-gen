@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt ein Maedel in der Frueh aufstehn,]
+CNR[dreiviertel Stund vor Tag.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Wipperfuerth]
+SRC[7, S. 104
+    1920 aufgezeichnet (ca.: waehrend und nach dem ersten Krieg)]
+KEY[Q0147K 16  G 4/4]
+MEL[-5__  1__-5__-5_.-51_1_  -6__-6__-6__
+    1__  -7__2__5__5__  3__0___
+    -5__  1__-5__-5_.-51_1_  -6__-6__-6__
+    1__  -7__2__5__5__  3__0___
+    1_2_  3__.3_3__5__  5__4__2__0_
+    5_  5__.7_7__.66  6__5__3__
+    5_6_  5__4__2__5__  3__0___
+    1_2_  3__.3_3__5__  5__4__2__0_
+    5_  5__.7_7__.66  6__5__3__
+    5_6_  5__4__2__5__  3__0___ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Vierte und siebte Zeile refrainartig.]

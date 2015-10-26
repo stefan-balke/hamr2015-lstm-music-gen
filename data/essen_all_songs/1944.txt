@@ -1,0 +1,11 @@
+FINK
+CUT[UFM BERGLI BIN I GESESSE]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[F0152  08  C 3/4]
+MEL[-3-4  -531_-3-4  -531_
+    -5-5  -5-42_-4-4  -3_.0
+    -3-4  -532_-4-4  -31-7_
+    -4-2  --7-6-5_-4-2  -1_.0
+    (-3-71)  3_2_(-5-72)  4_3_
+    (135)  6_.523  1__ //] >>
+FCT[Liebes - Lied]

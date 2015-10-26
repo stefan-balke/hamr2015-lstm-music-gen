@@ -1,0 +1,13 @@
+F[ERK1
+CUT[GUTE NACHT MEIN FEINES LIEB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0595  08  G 4/4]
+MEL[54  3_543_5_  65434_
+    43  2_2_5_.4  3__0_
+    54  3_543_5_  65434_
+    43  2_2_5_.4  3__0_
+    13  5_.31_+1_  6_.54_
+    43  2_.1-7_6_  5_.43_
+    54  3_543_5_  65434_
+    43  2_6_5_.4  3__0_ //] >>
+FCT[Liebes - Lied, Abend, Staendchen]

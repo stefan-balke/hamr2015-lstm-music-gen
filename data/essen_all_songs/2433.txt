@@ -1,0 +1,13 @@
+FINK
+CUT[EINE HAND VOLL ERDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1067  08  F 2/4]
+MEL[  3344  5_30
+    4433  3_20
+    3344  5_60
+    55-7-7  1_.0
+    3344  5_30
+    4433  3_20
+    3344  5+1_6
+    55-7-7  1_0_ //] >>
+FCT[Trauer -, Bregraebnis -, Trost - Lied]

@@ -1,0 +1,9 @@
+FINK
+CUT[FRIDERICUS REX UNSER KOENIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0565  16  A 4/4]
+MEL[-5-5-5_-5_  1__.1_1__1_2_  3__.0__
+    2_3_4_  5__5_5_5_4_4_3_  2__0_
+    3_2_1_2_3_  4__3_2_3__3_4_  5__.
+    5_4_3_4_5_  3__5_4_3__2_3_  1_1__0__ //] >>
+FCT[Soldaten -, Kriegs - Lied]

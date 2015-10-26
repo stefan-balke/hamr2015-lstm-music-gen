@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die niederlaendischen Grasmaedchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0086  08  F 3/2]
+MEL[+1_  +1__+1__7_+1_  +2_.+17_6__
+    7_  +1__+1__7_5_  6_.53_6_5_
+    3_  1__1__5_5_  6__7_+1__
+    7_  6_5_4_3_2__  1__.0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 11.]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ICH WOLLT WOL AUSGEHN]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[E2163  08  F 2/4]
+MEL[2  2_-7-5  135
+    5  64+16  5_0
+    5  64+16  531
+    5  42-72  1_0 //] >>
+FCT[geistlich, Moral - Lied, Tod]

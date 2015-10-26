@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Winterrosen
+    Rejt'wal jo rejtar spy gyli, hurra!]
+CNR[Py tejz me gyli zelenej,]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, sorbisch]
+SRC[7, S. 62
+    1889 gedruckt]
+KEY[Q2145I 08  G 6/8]
+MEL[  -5111_3  322205  3_0_.
+    3  5_55_6  4_44_
+    5  3_3321  2_22_
+    3  3_32_2  1_0__ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Sorbische Fassung der Ballade. Anhaengsel an der ersten Zeile.
+    Refrain auf "hurra" in der letzten Zeile.]

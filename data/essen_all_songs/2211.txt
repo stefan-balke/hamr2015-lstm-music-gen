@@ -1,0 +1,10 @@
+FINK
+CUT[MIT FROHEM MUTH UND HEITREM SINN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0559  16  F 3/4]
+MEL[3__  3_.33_3_4_3_  2__0__
+    4__  4_.44_4_5_4_  3__0__
+    5__  6_.66_5_6_5_  6_
+    5_4_3_2_1_  5_.-5-5_5_5_5_  5__3_
+    3_3_3_  3__1_7_+1__  +1__0__ //] >>
+FCT[Soldaten -, Kriegs - Lied]

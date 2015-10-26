@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Du hast gesagt du naehmest mich,]
+CNR[bevor das Fruehjahr kommt.]
+REG[Suedosteuropa, Jugoslawien, Batschka]
+SRC[8, S. 288
+    ???? aufgezeichnet]
+KEY[Q01559 16  G 2/4]
+MEL[-5_  1_1_-7_-6_  -6_-5_-5_
+    -5_  1_1_2_-5_  3__0_
+    5_  3_.33_3_  3_5_5_
+    3_  4_3_2_1_  -7_-6_-5_
+    -5-5  3_3_2_2_  1__0_
+    5_  3_.33_3_  3_5_5_
+    3_  4_3_2_1_  -7_-6_-5_
+    -5-5  3_3_2_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebes - Lied]

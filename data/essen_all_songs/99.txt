@@ -1,0 +1,18 @@
+BOEHME
+CUT[O SAG MIR AN FRAU MUTTER LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[B0128  16  D 6/8]
+MEL[12  3b__2_1__56b  7b__6b_5__
+    5_  4__5_4_3b_2_  3b__4_5__
+    5_  6b__7b_+1__5_  6b_5_4#_5__
+    2_  3b__4_5_4_3b_  4_3b_2_1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[O SAG MIR AN FRAU MUTTER LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[B0128  16  D 6/8]
+MEL[12  3b__2_1__56b  7b__6b_5__
+    5_  4__5_4_3b_2_  3b__4_5__
+    5_  6b__7b_+1__5_  6b_5_4#_5__
+    2_  3b__4_5_4_3b_  4_3b_2_1__ //] >>
+FCT[Ballade, Romanze]

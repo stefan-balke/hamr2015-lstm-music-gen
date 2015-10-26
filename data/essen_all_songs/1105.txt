@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Der wunderliche Kittel"
+    ICH WOLLTE MIR EINEN KITTEL NAEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1371  08  G 6/8]
+MEL[-5  -5_1123  3_-5-5_
+    -5  3_11-71  2_-7-5_
+    -5  -5_1123  3222_
+    4  323345  5432_0
+    3_11-71  2_-7-5_0
+    -5111_0
+    1_3543  22-71_.
+    -511111  111111
+    1_3543  22-71_ //] >>
+FCT[Kinder - Lied]

@@ -1,0 +1,9 @@
+BOEHME
+CUT[AN EINEM FLUSS DER RAUSCHEND SCHOSS]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Wetzlar]
+KEY[B0647  08  F 6/8]
+MEL[-5  3_3321  5_44_
+    3  2_25_2  3_.0_
+    1  6_6+176  65554
+    3  2655_-7  1_.0_ //] >>
+FCT[Moral - Lied, Ballade]

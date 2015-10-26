@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die stolze (schoene) Muellerin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0043  04  E 4/2 6/2]
+MEL[5_  6b_7b_7b_+1_  7b_6b54_
+    5_  6b_7b_5_7b6b  5_.43b_.2b1_
+    5_  6b_7b_7b_+1_  7b_6b54_
+    5_  6b_7b_5_7b6b  5_.43b_.2b1_
+    3b_  6b_5_4_1_  -7b__-6b_
+    3b_  4_5_7b_.7b  6b__5_
+    3b_  4_3b_2b_1_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie mit geistlicher Parodie von Joh. v. Laufenberg c. 1420 aus der
+    Strassb. Hs. No. 121 Bl. 54a. Von Boehme taktiert!]

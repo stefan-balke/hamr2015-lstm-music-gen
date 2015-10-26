@@ -1,0 +1,9 @@
+KINDER
+CUT[NINA S FAHRET A BIERELE D RHIN NA]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[K0083  16  F 6/8]
+MEL[  5__.2__.  1_.11_2_.22_  3__.2__.
+    5_5_5_2__2_  3_.23_1__.
+    5_5_5_2__2_  3_.23_1__.
+    1__2_3_.33_  2_2_5_1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

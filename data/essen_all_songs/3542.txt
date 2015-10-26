@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die zehnte Tochter
+    Bol dort do schteangait a hoachs Geschloss,]
+CNR[a hoachs Geschloss mit'n Guertn grien.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Koprivnik / Nesseltal]
+SRC[5, S. 58
+    1937 aufgezeichnet]
+KEY[Q0094  08  G 3/4]
+MEL[13  5__3_  2_2_42  1__13  2__
+    -72  4__2_  1__21  -7__2_  1__
+    -72  4__2_  1__21  -7__2_  1__ //] >>
+FCT[Ballade, mythologisch, Vertreibung]
+CMT[Einige der folgenden Zeilen werden dreimal wiederholt. Verzierungen
+    (Vorschlaege) .]

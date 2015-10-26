@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es ging ein Mueller ins Wald spazieren,]
+CNR[was begegnet ihm auf dem Wege?]
+REG[Osteuropa, Polen, Galizien]
+SRC[4, S. 344
+    1940 gedruckt]
+KEY[Q0086T 08  G 4/4]
+MEL[1_  5_5_31+1_  5_5_31
+    13  555_6_+1_  6_5_
+    5_.7  +1+13_4_2_  3__+1_ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]

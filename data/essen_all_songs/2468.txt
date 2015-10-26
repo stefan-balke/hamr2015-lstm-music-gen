@@ -1,0 +1,10 @@
+VARIANT
+CUT[Siehgst du net do kummt er, der besuffne Schinder]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Breitenlesau]
+KEY[V0003A 16  G 2/4]
+MEL[-5_.-5-6_-5_  -5__1__
+    1_1_1_1_  1__3__
+    3_.23_2_  2_1_-5__
+    -5_-5_-6_-7_  1_1_1__ //] >>
+FCT[Geselligkeits - Lied, Scherz]
+CMT[In der dritten Zeile rhythmisch korrigiert]

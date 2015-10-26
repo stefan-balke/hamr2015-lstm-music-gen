@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    Gestern Abend ging ich aus,]
+CNR[ging wohl in den Wald hinaus;]
+REG[Mitteleuropa, Deutschland]
+SRC[5, S. 280
+    1894 gedruckt in Leipzig]
+KEY[Q1115D 08  G 2/4]
+MEL[  -5111  -722_
+    3342  211_
+    5331  1-6-6_
+    4321  -7-6-5_
+    -5111  -722_
+    3342  211_ //] >>
+FCT[Kinder - Lied]
+CMT[Melodievergleich zu Q0115C, anderes Lied.]

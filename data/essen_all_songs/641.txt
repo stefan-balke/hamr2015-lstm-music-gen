@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ICH WASS WOHL, WENN'S GUT WANDERN IS]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0225  08  F 2/4]
+MEL[1  1335  566_
+    5443  355_
+    3554  433_
+    3554  4_3_  3_0 //] >>
+FCT[Handwerker - Lied, Abschieds - Lied]

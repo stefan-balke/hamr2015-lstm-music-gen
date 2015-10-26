@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Kirchweihe"
+    AM SUNDA IS KIRTA]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1341  08  F 3/4]
+MEL[-3-4  -3-51_1_  165_.
+    1  -777_7_  1+1+15
+    1_  -3-51_1_  165_.
+    1  -766_5-7  1_0_
+    1_  -722_2_  57+4_.
+    7  +1+35_54  351_
+    1_  -722_2_  57+4_.
+    7  +1+35_4-7  1_35+1+3  1_0_ //] >>
+FCT[Zech -, Schalks - Lied]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WIR WOLLEN VERGNUEGT UND EINSAM LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0602A 16  G 3/8]
+MEL[1_  1_-5_3_  3_1_
+    5_  5_4_3_  3_2_
+    23  4_3_1_  3_2_
+    23  4_3_1_  3_2_
+    13  5__6_  5_.4
+    3_  6_5_-7_  1__ //] >>
+FCT[Liebes - Lied]

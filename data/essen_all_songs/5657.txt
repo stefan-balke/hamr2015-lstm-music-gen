@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Nachtfahrt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0073  02  D 4/2]
+MEL[1  3b3b44  5_.
+    5  5544  3b_0
+    3b  3b3b55  224
+    4  3b3b22  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus Schmeltzels Quodlibet 8.]

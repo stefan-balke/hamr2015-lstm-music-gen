@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Beim Ritt auf dem Knie"
+    ULL MANN WULL RIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1375  08  C 3/4]
+MEL[1_1_2_  -7_-7-6-7-5
+    1_1_2_  3b__0_
+    3b_3b_3b_  2_.22_
+    1_1_1_  -7_.-7-7_
+    1_1_3b_  2__-7_  1__0_ //] >>
+FCT[Kinder - Lied]

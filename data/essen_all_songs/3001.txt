@@ -1,0 +1,11 @@
+F[ERK1
+CUT[KEIN FEUER KEINE KOHLE KANN BRENNEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0507  08  F 3/4]
+MEL[-5_  1_1_22  3_3_.
+    4  5_6543  2__
+    5_  6_46+16  655_
+    35  543_2_  1_.
+    324  3_.546  5_+10
+    35  543_2_  1__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[WAHRE FREUNDSCHAFT SOLL NICHT WANKEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0568A 08  F 3/4 4/4]
+MEL[32  1_1_34  322_
+    1-6  -5_1345  3_0_
+    11  6_.6+1_76  655_0_
+    35  5_654_.-7  1__0_ //] >>
+FCT[Liebes - Lied, Treue, Abschied]

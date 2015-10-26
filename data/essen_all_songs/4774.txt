@@ -1,0 +1,12 @@
+DVA
+CUT[Der Nachtjaeger
+    Es blast ein Jager in seinem Horn,]
+CNR[er treibt das Wild wohl aus dem Korn]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0015A 16  G 2/4]
+MEL[-7b_  1_3b_2_1_  -7b__-7b_5_  5_4_5__  2__.
+    2_  3b_3b_4_44  5_.43b_
+    4_  5_4_3b_2_  1_3b_2__  1__0_ //] >>
+FCT[Ballade, Zauber]
+CMT[In der ersten Zeile Tonlaenge korrigiert und "Taktstrich" zugefuegt
+    Variante zu Lied D0015 ??]

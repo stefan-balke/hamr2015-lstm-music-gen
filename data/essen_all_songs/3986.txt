@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WAS HOERT MAN DENN NEUES VOM KRIEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus]
+KEY[E1404  16  G 6/8]
+MEL[-5_  3_.33_3_2_1_  1_-7__0__
+    23  4_.56_2_.22_  3__.0__
+    -5_  3_.33_3_2_1_  1_-7__0__
+    23  4_.56_2_.22_  3__.0__
+    1_  4#_.4#4#_4#_3_2_  5_5__0__
+    1_  4#_.4#4#_4#_3_2_  5_5__0__
+    5_  3_.33_3_4_5_  6__.0__
+    6_  5_.55_7_2_4_  3__.0__ //] >>
+FCT[Staende -, Soldaten - Lied, Klage, anti - Kriegs - Lied]

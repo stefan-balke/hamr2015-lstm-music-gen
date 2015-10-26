@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Litanei von den heil. Aposteln, Martyrern und Beichtigern]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0606  02  F 4/2]
+MEL[1  1234  5_55  6534  5_.
+    1  1234  5_55  6534  5__
+    +1_6_  7_5_  6534  5__
+    +1_6_  7_5_  6534  5__
+    0565  345_  0565  345_
+    +1_6_  7_5_  6543  2_5_  332_  1_
+    33  3322  1_3_  4322  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Haym v. Themar Schoene Christenliche Cath. Weinaecht... 1590 No. 17.]

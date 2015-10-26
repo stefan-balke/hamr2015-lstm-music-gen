@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MARIA WOLLTE WANDERN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau; Fulda]
+KEY[E2058A 08  F 4/4]
+MEL[-5_  1_3_2_54  3_.21_
+    35  4_4_3_54  2__0_
+    54  3_3_212_  3_6_5_
+    4_  3_3_212_  1__. //] >>
+FCT[geistlich, Marien - Lied, Legende]

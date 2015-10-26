@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Am Weihnachtsabend]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0533  02  G 4/1 2/1]
+MEL[1  1_5_5_5_  4_3b_2_0
+    4  4_4_4_4_  3b543b2_0
+    5  5_54_3b2_  1_0
+    1  2_3b_4_4_  3b543b2_0
+    5  5_54_3b2_  1_0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Speiersches Gsgb 1617. fol 17b.]

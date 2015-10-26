@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Der ehebrecherische Gatte
+    Zorja, moja zorja, ne shadaj mi rano.]
+REG[Suedosteuropa, Jugoslawien, Zagorja]
+SRC[5, S. 57
+    1950 gedruckt in Zagreb]
+KEY[Q3093C 16  G 3/4]
+MEL[  5__4__323_  2_3_3___  5__4__3_3_  2__1___ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0093, anderes Lied. Verzierung (Nachschlag) .]

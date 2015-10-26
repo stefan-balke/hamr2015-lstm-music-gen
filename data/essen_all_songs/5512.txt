@@ -1,0 +1,9 @@
+KINDER
+CUT[WOLLN DIE WEISEN FRAUEN FRAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2225  16  C 2/4]
+MEL[  +1_+1_+1_+1_  +3_+1_+1_+1_
+    +1_+1_+1_+1_  +3_+1_+1_+1_
+    +1_+1_+3__  +1_+1_+3__
+    5_.43_2_  2__1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

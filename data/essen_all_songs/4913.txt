@@ -1,0 +1,17 @@
+DVA
+CUT[Uebers Bacherl bin i gschprunga,
+    uebers Wieserl bin i g'rennt]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[D0242  08  D 3/4]
+MEL[  34  5_5_34  5_5_
+    +3+1  7_7_64  3_0_
+    23  466_54  35+1_
+    5+1  7_7764  3__
+    23  466_54  35+1_
+    5+1  7_7764  3__
+    +3+1  +155_35  255_
+    +47  755_45  355_
+    +3+1  +155_35  255_
+    +47  755567  +1__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Transposition]

@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Gang auf die Alm"
+    I WOAS A SCHOENI GLOCKEN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z1199  08 Bb 3/4]
+MEL[-5-4  -31-51-3_  -2-7-52
+    2_  -72-72-4_  -31
+    -513_  -31-5135  6542
+    -7_  -72-5_-72  1__
+    (-512)  3_+13+13  3272
+    23  4_+24+24  43+13
+    34  5_+35+35  54+24
+    23  4_+2427  +1_0_ //] >>
+FCT[Liebes - Lied]
+CMT[Die letzten 8 Takte werden auf die Silbe 'la' gesungen.]

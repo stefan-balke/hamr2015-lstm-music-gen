@@ -1,0 +1,12 @@
+FINK
+CUT[IN DEM WALD STEHT EIN HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0312  16  G 3/8]
+MEL[55  5_3234  5__
+    65  4321-75  3__
+    33  2_-7256  7_5_
+    23  2_-7256  7_5_
+    -5_  5__-5_  5__
+    25  7__5_  5__
+    5_  +153_25  1__ //] >>
+FCT[Jugend - Lied, Kinder -, Scherz -, Tanz - Lied]

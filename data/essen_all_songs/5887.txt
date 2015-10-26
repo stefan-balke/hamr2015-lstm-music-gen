@@ -1,0 +1,17 @@
+ALTDEU
+CUT[Froehlich in Ehren]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0343  04  G 4/4]
+MEL[5  5565  4_4
+    3  4322  3_0
+    2  2345  6_6
+    5  4322  1_0
+    6  6654  323
+    5  6654  323
+    5  7654#  5_0
+    6  7654#  5_0
+    3  3234  5_2
+    3  3234  5_2
+    4  3422  1_0 //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[J. Werlin 1646 S. 3334.]

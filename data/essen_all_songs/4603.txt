@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Kindelwiegenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0526  04  F 2/2]
+MEL[3_5_  6_5_  543_
+    3_5_  6_5_  543_
+    2_3_  4_3_  221_  0_
+    1_  2_3_  3_3_  1_2_  3__  0_
+    12  3_3_  3__  2343  221_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Andernacher Gsgb. 1608 No. 26.]

@@ -1,0 +1,8 @@
+F[ERK1
+CUT[SCHUERZ DICH GRETLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0113B 04  F 4/4]
+MEL[  5531  5_5
+    3  211-7  1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, betrogene Liebe
+    Ballade ?]

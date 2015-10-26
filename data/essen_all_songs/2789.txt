@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES TRIEB EIN MAEDL DIE GAENSE AUS]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg; Freienwalde]
+KEY[E0174B 08  G 2/4]
+MEL[-5  11-7-7  -6-6-5
+    -5  1122  3_4
+    2  11-72  2_1 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Pflanzen - Maerchen, Moral - Lied]

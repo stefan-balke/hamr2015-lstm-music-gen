@@ -1,0 +1,18 @@
+BOEHME
+CUT[MIR BLUEHET KEIN FRUEHLING]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0472A 08  G 3/4]
+MEL[-5_  3_4321  -712_
+    -5_  4__54  4_3_0
+    1  6_6_.5  544_
+    54  3__6_  5_4_5_  3__ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[MIR BLUEHET KEIN FRUEHLING]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0472A 08  G 3/4]
+MEL[-5_  3_4321  -712_
+    -5_  4__54  4_3_0
+    1  6_6_.5  544_
+    54  3__6_  5_4_5_  3__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

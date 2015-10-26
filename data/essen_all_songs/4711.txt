@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Das deutsche Gloria]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0622  02  F 3/1]
+MEL[1  3_45_4  3_23_3  3_2432  1-6-71_
+    1  3_45_4  3_23_3  3_2432  1-6-71_
+    1  1_24_3  2_12_2  3_45_4  3_23_
+    1  2243_2  1_-71_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Schumanns Gsgb 1539 fol 87.]

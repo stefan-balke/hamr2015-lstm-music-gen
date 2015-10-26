@@ -1,0 +1,13 @@
+FINK
+CUT[DER GOTT DER EISEN WACHSEN LIESS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0385  16 Eb 4/4]
+MEL[5__  +1__.1_3__1__  6__.6_6__
+    6__  5__.4_3__2__  3__1__0__
+    5__  +1__.1_3__1__  6__.6_6__
+    +2__  7__.6_5__6__  7__5__0__
+    5__  5__.5_6__.6_  7__.7_+1__.
+    5_  +4__.+2_+3__+1__  7_.+1+2__0__
+    5__  +3__.+2_+1__7__  6__5__4__
+    3__  2__6__5__4__  3___2___  1__0___ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Krieg]

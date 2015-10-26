@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WAR EINMAL EIN MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Wetzlar, Burgsolms]
+KEY[E0211C 16  D 4/4]
+MEL[1_3_  5__.6_5__4__  3__.2_1__
+    +1__  7__7__6__6__  5___0__
+    5__  +1__+1__7__7__  6__.543__
+    5_4_  3__3__2__2__  1___0__
+    5__  +1__+1__7__7__  6__.543__
+    5_4_  3__3__2__2__  1___0__ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Untreue]

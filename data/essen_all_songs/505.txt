@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[JUNG HAENSCHEN SASS AM HOHEN THOR]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0090  16  D 3/8]
+MEL[2_  5__6_  7b__+1_  6__7b_  5__
+    5_  4#_5_6_  5__
+    6_  7b__+1_  6__7b_  5__4#_  5__
+    4_  3b21_3b_  21-7_
+    -7_  1_2_3b_  4__5_  2_3b21_ //] >>
+FCT[Sagen - Lied, Romanze]
+CMT[Modulation in T.11]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[JETZT SCHWINGEN WIR DEN HUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0345  16  C 2/4]
+MEL[-5_  1_-5_-6_-5_  -5__0_
+    1_  -7_1_2_-7_  1__0_
+    12  3_3_3_43  2_2_2_
+    32  1_1_1_21  -7_-7_-7_
+    1-7  -6_-5_-6_-5_  -6_-7_1_
+    2_  3__2__  1__0_ //] >>
+FCT[Trink - Lied, Moral]
+BOEHME
+CUT[JETZT SCHWINGEN WIR DEN HUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0345  16  C 2/4]
+MEL[-5_  1_-5_-6_-5_  -5__0_
+    1_  -7_1_2_-7_  1__0_
+    12  3_3_3_43  2_2_2_
+    32  1_1_1_21  -7_-7_-7_
+    1-7  -6_-5_-6_-5_  -6_-7_1_
+    2_  3__2__  1__0_ //] >>
+FCT[Trink - Lied, Moral]

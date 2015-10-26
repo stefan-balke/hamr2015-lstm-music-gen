@@ -1,0 +1,12 @@
+FINK
+CUT[ES SEI MEIN HERZ UND BLUT GEWEIHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0407  08  F 4/4]
+MEL[12  3_4_5_67  +1_765_
+    4_  4_5_3_54  3_2_0_
+    1_  3_4_5_67  +1_765_
+    6_  4_5_3_54  3_2_1_0
+    1  2_3_4_.2  3_4_5_
+    5_  6_5_6_7_  +1_765_
+    6_  4_5_3_54  3_2_1_ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch, Krieg]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[JETZT FUEHR ICH MEINEN SCHLENDERGANG]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahnkreis, Hennethal]
+KEY[E1734A 16  C 2/4]
+MEL[1_  5_5_6_5_  5_4_4_
+    2_  4_4_5_4_  3__0_
+    1_  5_5_6_5_  5_4_4_
+    2_  4_4_5_4_  3__0_
+    1_  3__.4_  5__.
+    5_  6_7_+1_6_  6_5_0_
+    5_  5_4_4_4_  4_3_3_
+    3_  2_5_5_.4  4_3_0_ //] >>
+FCT[Scherz - Lied]

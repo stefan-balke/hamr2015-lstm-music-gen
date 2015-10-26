@@ -1,0 +1,7 @@
+FINK
+CUT[WER WEISS WORAUS DAS BRUENNLEIN QUILLT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1039  08  F 4/4]
+MEL[13  5_5_5_64  3_3_3_
+    3_  2_.3543_  3__2_ //] >>
+FCT[Trost - Lied]

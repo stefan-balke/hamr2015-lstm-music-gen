@@ -1,0 +1,15 @@
+F[ERK3
+CUT[HIE FUER EINES FROMMEN BRAEUTGAM THUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1276  04  F 4/4]
+MEL[  1_3_  5_5
+    5  5345  333_  0
+    144  3211  2
+    233  213_  4
+    431  221_  1_0
+    1  1231  555
+    5  5345  3_3_  0
+    144  3211  2
+    233  213_  4
+    431  221_  1__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Hochzeit]

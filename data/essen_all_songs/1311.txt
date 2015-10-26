@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    Ein Juengling, der auf Reisen ging,]
+CNR[sein Lieb musst' er verlassen.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kurhessen]
+SRC[3, S. 86
+    1926 aufgezeichnet]
+KEY[Q0056K 16  F 6/8]
+MEL[1_  1__3_5__3_  3__2_2__
+    2_  2__6_5__4_  4__.3__
+    5_  5__7+2+2__4_  3__5+1+1__
+    +1_  7__6_5__4_  4__.3__
+    5_  5__7+2+2__4_  3__5+1+1__
+    +1_  7__6_5__4_  4__.3__ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

@@ -1,0 +1,13 @@
+FINK
+CUT[DIE WELT TUT IHRE AUGEN ZU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0348  16  C 6/8]
+MEL[-3_  -5__-2_-3__1_  3__-7_1__
+    -3_  -5__-2_-5__-2_  -3___0_
+    -3_  -5__-2_-3__1_  3__-7_1__
+    -3_  -5__-2_-5__-2_  -1___0_
+    -1-2  -3__-4_-3__-5#_  -6__-7_-6__
+    1_  3_-7_-5_-7_-4#_-5_  -3___0_
+    -5_  -5__-2_-3__1_  1__-5_-6__
+    -6_  -6__-5_-6__-7_  1__.0__ //] >>
+FCT[Jugend - Lied, Lob - Lied, religioes, Tageszeiten, Abend]

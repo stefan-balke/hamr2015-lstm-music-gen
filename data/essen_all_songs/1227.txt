@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es haett is an Bauer ui Annilei',]
+CNR[uf der ganza Wealt kuia Vuernehmri gsei',]
+REG[Suedosteuropa, Rumaenien, Sathmar, Sukunden]
+SRC[2, S. 258
+    1937 aufgezeichnet]
+KEY[Q0051C 08  G 6/4]
+MEL[-51_.11_  3_3_-7_2_1_-7_  -6__
+    -6-62__2_  2_1_-7_1_-7_-6_  -5__
+    -5-51__1_  3__332_3_2_  1__^ //] >>
+FCT[Ballade, Hochzeit, Tod]
+CMT[Kleinere Melodievariante aus anderer Quelle abgedruckt.]

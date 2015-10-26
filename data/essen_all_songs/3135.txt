@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WENN ICH ZUM THUEREL NAUS GEH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse]
+KEY[E0600A 08  D 3/8]
+MEL[  323  434  5_
+    5  5+13  542  3_0
+    5+13  542
+    462  431
+    323  434  5_
+    5  5+13  542  3_0 //] >>
+FCT[Liebes - Lied]

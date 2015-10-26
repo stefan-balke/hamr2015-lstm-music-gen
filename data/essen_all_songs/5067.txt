@@ -1,0 +1,13 @@
+BOEHME
+CUT[MEIN SCHIFF GEHT AUF DER SEE]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0604  08  D 4/4]
+MEL[13  5_3_5424  3__0_
+    23  4_5_3153  2__0_
+    13  5_3_5424  3__0_
+    23  4_5_3153  2__0_
+    5_  35+132342  13555_
+    5_  35+132342  13555_
+    5_  6_665_5_  42543_
+    5_  6+1765_3_  5_7+2+1_ //] >>
+FCT[Staende -, Seemanns - Lied, Tod]

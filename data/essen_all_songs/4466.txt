@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Der Benzenauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0381D 02  D 3/1]
+MEL[1_  4_4_4_  4_5_6_  7b__7b_  7b_7b_7b_  +1__
+    7b_  6_5__  4__4_  4_4_.1  0__ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Anfang im Baseler Tenor von 1550.]

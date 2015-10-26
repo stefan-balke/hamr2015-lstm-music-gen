@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Totenamt
+    Grossmechtiger ewiger got,]
+CNR[du schufest nach deim besten radt]
+REG[Osteuropa, Tschechoslowakei, Boehmen]
+SRC[3, S. 162
+    1531 gedruckt]
+KEY[Q1061C 08  G FREI]
+MEL[-7b  1_1_-7b_1_  3b_3b_2__
+    1  2_5_5_4_  4_3b_2__
+    3b  4_2_3b_1_  3b_2_1__
+    1  -5_-7b_1_2_  3b_2_1___ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0061, anderes Lied. Taktart in "FREI" geaendert.]

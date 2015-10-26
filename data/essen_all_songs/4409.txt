@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HEILIGER HERR SANCT LORENZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2103  08  F 4/4]
+MEL[1_  1_2_3_4_  5__5_
+    5_  6_5_3_4_  5_.43_
+    5_  4_3_2_4_  3_.21_
+    3_  2_1_2_2_  1__0_ //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

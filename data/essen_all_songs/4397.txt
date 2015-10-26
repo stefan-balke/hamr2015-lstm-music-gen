@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DA DRUNTEN IM THALE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus, Wuerges]
+KEY[E2062  08  E 3/4]
+MEL[-72  3_3432  211_
+    34  5_5654  4_3_
+    1_  166_54  355_
+    3_  544654  3__
+    1_  166_54  355_
+    3_  544654  3__ //] >>
+FCT[geistlich, Marien - Lied, Legende]

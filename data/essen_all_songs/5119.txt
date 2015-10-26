@@ -1,0 +1,9 @@
+BOEHME
+CUT[ICH SAH IM GARTEN HOLD UND SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[B0655  08  E 6/8]
+MEL[5  5_+13_5  3231_
+    3  5_2234  6553_
+    1  5_5567  +1765_.  3231_
+    3  5_2246  5_43_ //] >>
+FCT[Moral - Lied]

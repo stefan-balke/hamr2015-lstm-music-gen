@@ -1,0 +1,11 @@
+F[ERK1
+CUT[MARSCHIEREN WIR IN DAS TUF[ERK1ISCHE LAND]
+REG[Europa, Mitteleuropa, Deutschland, Franken; Oesterreich]
+KEY[E0335  08  A 6/8]
+MEL[-5  -5111_2  1-7-6-5_
+    -5  -5333_3  3_53_
+    1  1333_3  3_53_
+    3  222554  3_21_
+    -5  -5111_2  1-7-6-5_
+    -5  -533543  2_.1_ //] >>
+FCT[historisches Lied, Krieg gegen die Tuerken (1789)]

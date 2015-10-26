@@ -1,0 +1,10 @@
+F[ERK3
+CUT[MUENSTER ICH MUSS DICH VERLASSEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1600C 16  D 3/4]
+MEL[1_3_  5__+1__5_4_  4_3_3__
+    2_3_  4__4__3_.2  2__0__
+    1_3_  5__+1__5_4_  4_3_3__
+    2_3_  4__6__5_4_  4_3_3__
+    1_2_  3__5__4_2_  1__0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft]

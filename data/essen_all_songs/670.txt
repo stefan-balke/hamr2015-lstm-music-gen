@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ALLEMAL KANN MAN NIT LUSTIG SEYN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0254  16  A 6/8]
+MEL[1_.11_3_.21_  5_.-5-5_0__.
+    1_.11_3_.21_  5__.0__.
+    4_.56_6_5_4_  3_345_2_234_
+    1_1_1_-7_-6_-7_  1__0___
+    4_.56_6_5_4_  3_345_2_234_
+    1_1_1_-7_-6_-7_  1__0___ //] >>
+FCT[lyrisches Lied, Romanze]

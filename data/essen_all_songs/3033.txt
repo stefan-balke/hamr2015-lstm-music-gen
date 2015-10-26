@@ -1,0 +1,11 @@
+F[ERK1
+CUT[MAEDELE RUCK AN MEINE GRUENE SEITE]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0525  16  F 4/4 3/4]
+MEL[113_  5_5_5_5_4#_5_6_5_  5_+1_3_
+    3_2_3_  5_.44_4_3_4_  6__5__
+    5_5_  4_4_2__6_6_  5_5_3__
+    5_5_  4_4_2__6_6_  5_5_3__
+    113_  5_5_5_5_4#_5_6_5_  5_+1_3_
+    3_2_3_  5_.44_3_4_2_  2__1__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES RITTEN DREI REUTER ZUM THOR HINAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0033  16  G 6/8]
+MEL[-5_  1_1_1_1_2_3_  3_2_2_2__5_  3__.0__
+    -5_  1_1_1_1_2_3_  3_2_2_2__5_  3__.0__
+    1_  5_5_5_5_.65_  4_4_4_4_.5
+    4_  3_3_3_5_4_3_  2__2_2__
+    5_  3_.43_2_.12_  3__.
+    5__.  3_.43_2_.12_  1__.0__ //] >>
+FCT[Sagen - Lied, Romanze]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Eifersucht"
+    ES IST E MAIDLI IN DIESEM ZWING]
+REG[Europa, Mitteleuropa, Schweiz; Elsass]
+KEY[Z1163  16 Bb 2/4]
+MEL[12  3_1_1_23  4_2_2_
+    12  3_1_1_23  4_2_2_5_  2__0_
+    3_  4_2_3_1_  2__2_
+    3_  4_3_2_3_  1__1_
+    1_  2__1_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

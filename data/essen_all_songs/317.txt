@@ -1,0 +1,26 @@
+BOEHME
+CUT[SO HERZIG WIE MEIN LIESEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0374  08  C 3/4]
+MEL[5_  5+1+1_33  355_
+    43  2_.234  6_5_
+    5_  5+1+1_33  355_
+    43  2_.342  1_0_
+    43  2_2_34  5+1+3_
+    43  2_2_34  5+1+3_
+    +37  +155_+37  +155_
+    +17  6_.42-7  1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[SO HERZIG WIE MEIN LIESEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0374  08  C 3/4]
+MEL[5_  5+1+1_33  355_
+    43  2_.234  6_5_
+    5_  5+1+1_33  355_
+    43  2_.342  1_0_
+    43  2_2_34  5+1+3_
+    43  2_2_34  5+1+3_
+    +37  +155_+37  +155_
+    +17  6_.42-7  1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

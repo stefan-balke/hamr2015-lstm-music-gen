@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Treue Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0039  04  F 3/2]
+MEL[    1_1_2_  3__4_  3_2__  1__
+    5_  6__5_  5__3_  4__4_  3__
+    5_  6__5_  5__3_  4_3_2_  1__
+    4_  3__2_  3__4_  5_432_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie (von Boehme zum Text gesetzt): Souterliedekens 1544
+    ad Ps. 66.]

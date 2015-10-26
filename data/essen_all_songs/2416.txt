@@ -1,0 +1,17 @@
+FINK
+CUT[GOTT IST DIE LIEBE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1032  08  C 2/4]
+MEL[  3_21  -7_10
+    4_32  1_2
+    3  421-7  1_0
+    2  3_22  1_0_
+    2_22  3_20
+    -7_-7-7  1_-7
+    -7  -6321  -7_0
+    5  31-7-6  -5_0_
+    3_21  -7_10
+    4_32  1_2
+    3  421-7  1_0
+    2  3_22  1_0_ //] >>
+FCT[Erbauungs - Lied, religioes]

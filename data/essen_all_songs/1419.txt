@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es wollte ein Kuechenjung ueber den Rhein,]
+CNR[und wollte Markgrafen sein Toechterlein frein,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Genthin]
+SRC[3, S. 258
+    1847 aufgezeichnet]
+KEY[Q0068H 04  G 3/4]
+MEL[-5  11-5  123  2-72  -7-5
+    1  -6-71  -5-5-3  -6-71  -50
+    -5  11-5  123  -5-5-5  10 //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

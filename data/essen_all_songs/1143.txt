@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Mooi Amberecht schreef een brievetje fijn,]
+CNR[al die het hooren, ze willen't zien.]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[2, S. 100
+    1900 gedruckt in Gent]
+KEY[Q2041I 08  D 6/8]
+MEL[1-6-6-7b  1_21-71  -6_
+    12_1  -7b-6-7b-7b_1  2_.0_.
+    2_.4_3b  1_.3b_2  1-7b21_.  0_
+    23b_4  2_.-7b_1  2121_.  0_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Grundton in der zweigestrichenen Oktave. Pausen am Schluss der
+    dritten und vierten Zeile ergaenzt. Flaemische Fassung der Ballade.]

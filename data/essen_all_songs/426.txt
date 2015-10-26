@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ES LEUCHTEN DREI STERN UEBER EIN KOENIGSHAUS]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0012  16  A 6/8]
+MEL[-5_  1_.23b_3b_.43b_  2_.3b2_1__
+    5_  6b_5_4_3b_.21_  2__0__.
+    -5_  1_.23b_3b_.43b_  2_.3b2_1__
+    5_  6b_5_4_3b_.21_  2__0__.
+    23b  4_.54_6b_5_4_  3b_2_1_2__
+    1_  -7b_.1-7b_6b_5_4_  4_3b_4_5__0_
+    5_.43b_3b_2_1_  2__.1__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

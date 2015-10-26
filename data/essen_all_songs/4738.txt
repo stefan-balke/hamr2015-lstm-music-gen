@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Morgenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0644  02  F 3/1 6/1]
+MEL[1_  1__5_  3_.21_  -7_.-6-71  2__2_  3__4__2_2_  1__
+    1_  1__5_  3_.21_  -7_.-6-71  2__2_  3__4__2_2_  1__
+    1_  2__1_  -7__1_  2__2_  3__2_  5__2_  3__1__
+    3__  5__3_  3_.21_  -7_.-6-71  2__2_  3__4__2_2_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[M. Praetorius Mus. Sion. VIII. 1610. No. 253]

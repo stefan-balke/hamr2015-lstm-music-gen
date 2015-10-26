@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Naechten als ich schlafen ging,]
+CNR[gedacht ich an die Liebe,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[6, S. 237
+    1842 aufgezeichnet (vor)]
+KEY[Q0137J 16  G 3/4]
+MEL[  1_-5_1__1__  -7_1_2__0_
+    1_  3_2_1__2__  4_.32__0_
+    4_  3_5_2__.4_  3_5_1__.
+    2_  3_1_5_3_1__  3_.21__0__ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]
+CMT[Unbereinigte Vorlage zu Q0137I. Taktart entsprechend den Taktstrichen
+    festgelegt.]

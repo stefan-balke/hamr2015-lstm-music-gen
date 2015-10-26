@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Der Benzenauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0381A 04  F 4/2 6/2]
+MEL[1_  5_5_6_7_  +1__+1__
+    +1__  5_+1__7_6__  5__0_
+    1_  5_5_6_7_  +1__+1__
+    +1__  5_+1__7_6__  5__0_
+    +1_  +1_.76_5_  3__1__0_
+    1_  5_.67_+1_6__  5__0_
+    +1_  +1_.76_5_  3__1__
+    5__  6_5_.34_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Nuernberg um 1530]

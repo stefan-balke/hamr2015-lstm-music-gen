@@ -1,0 +1,13 @@
+FINK
+CUT[DER WEIN DER WEIN IST GOLDES WERTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0724  08  C 4/4]
+MEL[-5  -5_.11_.3  321-71_
+    3_  321-7-7-6-5-4#  -6__-5_0
+    -5  -5_.11_.3  321-71_
+    3_  321-7-7-6-5-4#  -6__-5_0
+    2  2_.11-7-6-5  -5-6-5-4-3_
+    1_  -6_1_-5_1_  321-71_0
+    2  2_.11-7-6-5  -5-6-5-4-3_
+    1_  -6_1_-5_1_  321-71_0 //] >>
+FCT[Geselligkeits -, Trink - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Jaeger im Tannenholz
+    Es wollt ein Jaeger jagen,]
+CNR[ging in das Tannenholz,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Frankfurt a.d.O.,
+    Seelow]
+SRC[7, S. 169
+    1846 aufgezeichnet]
+KEY[Q0151A 08  C 6/8]
+MEL[3  5_5567  +1_.6_
+    6  5_3432  1_0_.
+    3  5_5567  +1_.6_
+    6  543432  1_0_. //] >>
+FCT[Ballade, abgewiesener Freier, Abschied]

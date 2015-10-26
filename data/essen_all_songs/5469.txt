@@ -1,0 +1,9 @@
+KINDER
+CUT[KREIS KREIS KESSEL]
+REG[Europa, Mitteleuropa, Deutschland, Weimar]
+KEY[K2073  16  F 2/4]
+MEL[  5__6__  5__3_0_
+    5_5_6_6_  5__3_0_
+    4_4_2_2_  5_5_3__
+    6_.54_3_  2_2_1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

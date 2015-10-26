@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt ein reiches Schlaechterlein]
+CNR[wohl an der Kronebergs Heide,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Gramzow]
+SRC[6, S. 95
+    1844 aufgezeichnet]
+KEY[Q0127  08  E 4/4]
+MEL[-7b_  5_.45_6b5  4_.3b4_
+    54  3b_3b_3b45_  4_.3b2_
+    12  3b43b21_23b  4543b2_
+    -7b_  5_5_43b21  2__1_ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

@@ -1,0 +1,10 @@
+F[ERK2
+CUT[EI WIE KAN DE ZEVENSPRUNG]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[E0992B 08  D 4/4]
+MEL[  12345_3_  4_2_3_1_
+    12345_3_  4_2_3__
+    2_2_2_3_  4321-7_-5_
+    2_2_2_3_  4_3_2_
+    5_  3__.5_  3__0__ //] >>
+FCT[Tanz - Lied, Reigen, Siebensprung]

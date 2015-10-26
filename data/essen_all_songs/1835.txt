@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Gluecksjaeger
+    Es reitet ein Edelmann durch das Holz,]
+CNR[begegnet ihm eine Jungfrau stolz,]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Freiburg i. Br., Hugstetten]
+SRC[6, S. 192
+    1848 aufgezeichnet]
+KEY[Q0134B 16  G 6/8]
+MEL[2_  2_.22_2_1_-7_  1_-6_-5_0__
+    2_  2_.22_2_1_-7_  1_-6_-5_
+    1_1_1_  -5_-5_-5_1_1_1_  -5_-5_
+    -533_3_3_  3_2_1_2_3_2_  1__.0__ //] >>
+FCT[Ballade, Jagd, Flucht, Verfuehrung]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

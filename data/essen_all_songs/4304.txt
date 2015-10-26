@@ -1,0 +1,15 @@
+F[ERK3
+CUT[IM SOMMER DA IST DIE SCHOENSTE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Weissenfels]
+KEY[E1889  08  G 2/4]
+MEL[5  5_35  5_3
+    5  4424  3_0
+    5  5_35  5_3
+    5  4424  3_0
+    3  2444  355
+    5  5542  111
+    5  5_35  5_3
+    5  4422  1_0
+    5  5_35  5_3
+    5  4422  1_0 //] >>
+FCT[Kinder - Lied, Spiel, Reigen]

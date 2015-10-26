@@ -1,0 +1,11 @@
+DVA
+CUT[Mei Voda sei Haeusl is mit Haberstroh deckt,
+    hulldri hulla di hulla, mit Haberstroh deckt.]
+REG[Europa, Mitteleuropa, Deutschland, Niederbayern]
+KEY[D0079  08  G 3/4]
+MEL[34  5_5_5_  3_3_
+    23  5_5_5_  4_0_
+    23  4_4_.3  2_2_
+    2_  5_5_4_  3_0_ //] >>
+FCT[Ehestands - Lied]
+CMT[Viertonskala (Grundton fehlt - vermutlich mit Unterstimme gesungen)]

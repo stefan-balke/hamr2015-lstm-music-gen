@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN VOEGLEIN HOCHZEIT MACHN]
+REG[Europa, Mitteleuropa, Deutschland, Charlottenburg]
+KEY[E0163B 16  C 2/4]
+MEL[-5_  1_1_3_2_  2_1_1_
+    -5_  -6_-7_1_-6_  -6_-5_-5_
+    -5-5  1_1_1_11  3_3_3_
+    33  2_2_2_-7_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

@@ -1,0 +1,10 @@
+FINK
+CUT[WOHL IST DER HERBST EIN EHRENMANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0276  16  C 2/4]
+MEL[1  -5_.-3-5_.-3  -4_-2_-3_0
+    -4#  -5-6-712_-7-5  -6_.-7-5_0
+    2  2_.-72_.-7  1_-6_-7_0
+    2  2_.-7252-7  1_-6_-7_0
+    -5  12345_31  2_.31_0 //] >>
+FCT[Jugend - Lied, Jahreszeiten, Herbst]

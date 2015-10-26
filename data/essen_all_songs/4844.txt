@@ -1,0 +1,13 @@
+DVA
+CUT[Einst ein Jaeger wollte jagen
+    einen Gemsbock silbergrau]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0096  08  F 6/4]
+MEL[-5_.-6  -5_1_1__-5_.-6  -5_3_3__
+    4_.3  2_-5_2_-5_2_3_  1__.0_
+    -5_.-6  -5_1_1__-5_.-6  -5_3_3__
+    4_.3  2_-5_2_-5_2_3_  1__0_
+    -5_1_3_  4_6_6__5_.4  3_-5_3__
+    4_.3  2_-5_2_-5_2_3_  1__0__ //] >>
+FCT[Liebes - Lied, abgewiesener Liebhaber]
+CMT[Inzipit = Variante zum Lied]

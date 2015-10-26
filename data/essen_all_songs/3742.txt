@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ROSESTOCK HOLDERBLUET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1016  16  C 3/8]
+MEL[  3_.21-3  -6_-5-4-2_
+    -6_-5-4-2_  -6_-5-3-1_
+    3_.21-5  -6_-5-4-2_
+    -5_-7_2_  1__0_
+    432__  32-7__
+    -5_-6_1_  1-7123_
+    432__  32-7__
+    -5_-6_1_  1__0_ //] >>
+FCT[Tanz - Lied; Liebe]

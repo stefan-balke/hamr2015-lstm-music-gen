@@ -1,0 +1,11 @@
+F[ERK3
+CUT[EINE HELDIN WOHL ERZOGEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen; Wetterau]
+KEY[E1470  16  D 3/8]
+MEL[11  1_3_5_  5__3_  3_2_
+    2_  2__4_  5__4_  3__
+    1_  1_3_5_  +1__6_  6_5_
+    3_  5__5_  4__5_  3__
+    1_  1_3_5_  +1__6_  6_5_
+    3_  5__5_  4__5_  3__ //] >>
+FCT[Staende -, Jaeger - Lied, Tod]

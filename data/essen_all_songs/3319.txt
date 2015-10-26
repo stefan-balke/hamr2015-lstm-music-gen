@@ -1,0 +1,10 @@
+F[ERK2
+CUT[SO SCHLAEGT DIE BITTRE TRENNUNGSSTUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0759  16 Bb 4/4]
+MEL[-5__  3__.2_1_-7_-6_-5_  -5_.-4-3__0_
+    1_1_-7_  -6__-6__2__2__  3___0__
+    3__  3__.-7_1_1_3_1_  -7__-6__0_
+    -6_4_2_  5__3_.1-5__-6_-7_  1___0_
+    -4_-4_-4_  -3__0__.-2_-2_-4_  -3___. //] >>
+FCT[Abschieds - Lied, Liebe]

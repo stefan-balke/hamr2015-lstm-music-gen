@@ -1,0 +1,12 @@
+FINK
+CUT[UND EIN GOTT IST]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0309A 04 Eb 4/4]
+MEL[-5-5  1_11  1_-7-6  -5_.-4  -5_0
+    -5  -4_-3_  -2_-2-2  -2__  -2_0
+    3  3_12  3_21  1_21  1_0
+    1  2_-5-5  1_-6-4  -7b__  -6_
+    -6-6  -5#_-5#-4  -6_-6-6  -7_-7_  1_
+    11  1_11  1_1-6  -5__  -5_-5_  -5_ //] >>
+FCT[Jugend - Lied, Moral, religioes]
+CMT[Strophenvariante von F0309]

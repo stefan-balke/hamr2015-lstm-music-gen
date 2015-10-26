@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und schau ins Tal hinab,]
+REG[Osteuropa, Ungarn, Batschka, Ujfutak]
+SRC[8, S. 89
+    1940 aufgezeichnet]
+KEY[Q0155e 16  D 6/8]
+MEL[1_  3b__3b_4_3b_2_  3b__.1__
+    3b4  5__4_5__4_  5__.0__
+    5_  +1_+1_7b_6b_5_4_  5__.3b__
+    3b_  2_2_2_5__5_  1__.0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]

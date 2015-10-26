@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Die Wecktrommel"
+    DES MORGENS ZWISCHEN DREI UND VIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1074  16  F 4/4]
+MEL[1_3_  5_5_5_+1_3__1__  6__5__0__
+    1_3_  5_5_5_5_6_5_4_3_  3__2__0__
+    1_3_  5__.3_4_3_4_5_  3__0___
+    +1_6_  5__.3_5_4_3_2_  1__0_
+    1_5_5_5_5_  53420_
+    1_5_5_5_5_  53420___
+    +1_6_  5__.3_5_4_3_2_  1__0___ //] >>
+FCT[Soldaten - Lied]

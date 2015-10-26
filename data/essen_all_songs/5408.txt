@@ -1,0 +1,11 @@
+KINDER
+CUT[SCHLAF KINDCHEN ALSO WOHL]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[K0122  16  F 2/4]
+MEL[  3__2_2_  1_1_-5__
+    3_3_2_2_  1_1_-5__
+    1_3_3_5_  5__4_
+    3_  2_2_2_4_  4__3__
+    1_3_3_5_  5_4_4_
+    3_  2_2_2_4_  332_1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

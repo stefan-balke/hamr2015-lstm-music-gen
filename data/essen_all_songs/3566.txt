@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Rache im Zweikampf
+    Derrier' chez nous il-y-a-t-un capitaine]
+REG[Mitteleuropa, Frankreich, franzoesische Alpen, Haut Savoie, Faucigny]
+SRC[5, S. 105
+    1903 gedruckt in Grenoble und Moutiers]
+KEY[Q2097D 08  C 3/8]
+MEL[  +1+1+1  +167  +176  5_5
+    +1+1+1  +167  +176  50
+    6  5_4  3_0  +1+2+3  +3_+2  +2+1
+    +3  5_4  3_.  676  57+2  +1_. //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache]
+CMT[Franzoesische Fassung der Ballade.]

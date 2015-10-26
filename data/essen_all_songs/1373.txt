@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der junge Held
+    Ich ging einmal spazieren]
+CNR[wohl durch ein kleines Doerfelein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 152
+    1933 gedruckt in Heidelberg]
+KEY[Q0060H 08  G 4/4]
+MEL[-7b_  4_4_1_3b_  2_1_-7b_
+    -7b_  3b_2_1_-7b_  1_-6-5-4_
+    -4-4  -7b-7b-7b_1_1_  4__
+    5__  4_123b_2_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied]
+CMT[Kleinere Melodievarianten aus anderer Quelle abgedruckt.]

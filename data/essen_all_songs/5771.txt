@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Venus, du und dein Kind]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0219B 02  D 4/2]
+MEL[1  1554#  5_0
+    5  543b4  2_0
+    2  3b455  54#5
+    2  3b455  4_5_  0
+    556b  7b54_  4
+    454  3b42_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Als geistliches Lied]

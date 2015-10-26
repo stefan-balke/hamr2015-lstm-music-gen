@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[VIVAT, ES LEB DAS PREUSSISCHE HEER BIS AN DER WELT IHR END]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0205  08  F 4/4]
+MEL[12  3_3_3_3_  3_5_3_
+    3_  5_4_2_5_  3__0_
+    12  3_3_3_3_  3_5_3_
+    3_  5_4_2_-7_  1__0_
+    -71  3_2_2_12  3__0_
+    -71  2_2_2_12  3__0_
+    12  3_3_3_3_  3_5_3_
+    3_  5_4_2_5_  3__0_ //] >>
+FCT[Soldaten - Lied]

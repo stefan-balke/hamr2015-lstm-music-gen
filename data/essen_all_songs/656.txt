@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[AUSBUENDIG SUESS]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0240  16  A 3/4]
+MEL[  1_-7-6-5__-7_2_  1__0___
+    3_5_4__3__  2_1_-7_-6_
+    -5_1_  -7_1_2_3_-7_2_  1___0__
+    3_323__5__  5_434__.
+    3_  3_2_2__6__  3_323__
+    5__  4#_5_6_7_4#_6_  5__674#65__ //] >>
+FCT[Romanze; Tanz, Hochzeit]

@@ -1,0 +1,9 @@
+FINK
+CUT[AUF EINEM BAUM EIN KUCKUCK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0660  16  G 3/4 2/4]
+MEL[  5__3_1_2_5_  5_4_2_0_
+    1_111_1_1_11  2_-7-7-5_0_
+    5__3_1_2_5_  5_4_2_0_
+    1___0__ //] >>
+FCT[Staende -, Jaeger - Lied, Scherz, Tier - Geschichte]

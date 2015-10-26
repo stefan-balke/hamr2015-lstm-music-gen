@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WERDEN WIR SO TRAURIG SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1694  08  D 4/4]
+MEL[  1_1_1_2_  3b_3b_1_
+    2_  3b_3b_4_4_  5__.0_
+    1_1_1_2_  3b_3b_1_
+    2_  3b_3b_4_4_  5__.0_
+    5_5_+1_+1_  7b_.65_
+    6_  7b_7b_6_.5  5__.0_
+    3b__4__  5__.
+    3b_  4_3b_2_.1  1__+1_0_ //] >>
+FCT[Staende -, Studenten - Lied, Trink - Lied]

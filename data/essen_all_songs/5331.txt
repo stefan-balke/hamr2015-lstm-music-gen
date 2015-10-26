@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Mach ick een siele prijsen]
+CNR[soo is sy prijsensweert]
+REG[Mitteleuropa, Niederlande]
+SRC[8, S. 285
+    1631 gedruckt in Antwerpen]
+KEY[Q2155v 08  G FREI]
+MEL[1_  5_5_6_7_  +1_5
+    6  7b_.+26_.5  5__0_
+    5_  7b_.3b3b_5_  4__4__0_
+    -7_  123b42_.1  1__0_
+    5_  7b_.3b3b_5_  4__4__0_
+    -7_  123b42_.1  1__ //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe; geistlich]
+CMT[Zusammenhang zur Balladengruppe unsicher. Geistliche Kontrafaktur.
+    Taktart in FREI geaendert.]

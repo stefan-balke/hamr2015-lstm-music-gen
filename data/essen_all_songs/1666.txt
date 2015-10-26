@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Wo bist du denn gewesen,]
+CNR[Meine Tochter Marjae?']
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[4, S. 210
+    1933 gedruckt in Heidelberg]
+KEY[Q0079O 08  G 3/4]
+MEL[34  5_3_56  4_2_
+    44  3_1_3_  2__
+    -5_  1_1_2_  3_3_
+    4_  5_4_-7_  1__ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite und vierte Zeile = Refrain.]

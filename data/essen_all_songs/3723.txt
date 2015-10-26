@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der undankbare Sohn
+    Ein altes Sprichwort wirdt gemeldt:]
+CNR[wie einer seine Eltern helt,]
+REG[Mitteleuropa, Deutschland]
+SRC[5, S. 334
+    1893  gedruckt in Guetersloh (16. Jh.)]
+KEY[Q0123  08  G FREI]
+MEL[1  1_1_5_5_  5_3b_2_0
+    2  4_4_4_4_  3b543b2_0
+    4  3b_3b4_3b  2_1_0
+    1  2_3b_4_4_  3b543b2_0
+    1  3b_3b4_3b  2_1___ //] >>
+FCT[Ballade, Moral, Respekt vor dem Alter; Zeitungs - Lied]
+CMT[Tonangabe zur Ballade: Lindenschmidt - Ton]

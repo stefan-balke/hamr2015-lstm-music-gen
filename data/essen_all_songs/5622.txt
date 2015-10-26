@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Peter Unverdorben]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0033  08  C 4/2]
+MEL[2__  5__6_.53__4__  2__3_4_5__
+    2__  1__5__6_6_4_4_  5_5_4__0__
+    3__  4__.5_4__2_3_  3_1_-7_1_3_4_21-7_  1___0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie und Text aus einer Handschrift des 15. Jahrh. des Klosters
+    St. Georgen (Bibl. Karlsruhe). Mitgetheilt durch None, Anzeiger VI.
+    Jahrg. Beil. 2 die Melodie.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Liebesgezaenke"
+    UND MEI BUA DER THUT MAULE]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z1245  16  F 3/4]
+MEL[+1_.6  6_5_3_-5_1__  -7_2_4_2_
+    7_6_  6_5_4_-5_-7__  1_3_5_3_
+    +1_6_  6_5_3_-5_1__  -7_2_4_2_
+    7_6_  6_5_4_-5_-7__  1___ //] >>
+FCT[Liebes - Lied]

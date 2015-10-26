@@ -1,0 +1,7 @@
+F[ERK2
+CUT[SIND DREI DRAUSSEN FRAU MUTTER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0865  16  A 3/8]
+MEL[  -5_1_2_  3_.43_  2__-5_  11221_
+    -5_1_2_  3_.433  2__.  1__0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die Linde im Thal]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0177  04  C 4/2]
+MEL[-5_1_1_  1_2_-7_-6_  -5__0_
+    1_  -7_-5_-6_-6_  -5__0_
+    -5_  1_1_5_.4  3__2__  12321_-7-6  -7___  0_
+    -5_-6_-7_  1_.23_2_  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder. Nuernberg bei Berg und Newber No. 25.]

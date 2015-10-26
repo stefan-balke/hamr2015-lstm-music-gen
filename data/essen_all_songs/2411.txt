@@ -1,0 +1,11 @@
+FINK
+CUT[ALLES WAS ODEM HAT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1010  08  A 3/4]
+MEL[  1_1_1_  5_.43_
+    2_1_2_  3__.
+    3_3_3_  4_.44_
+    5_5_5_  6__4_
+    5__5_  5_.43_
+    2__2_  3__. //] >>
+FCT[Erbauungs - Lied, religioes, Lob]

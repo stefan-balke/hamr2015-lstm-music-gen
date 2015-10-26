@@ -1,0 +1,15 @@
+FINK
+CUT[MEI SCHATZERL IS HUEBSCH ABER REICH IS ES NIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0107  16  E 3/8]
+MEL[34  5_3_3+3  +1__
+    36  6-7-755-7  1_0_
+    -71  2_2_34#  5_5_
+    67  +2+17654#  5__.
+    34565_  5+1365_
+    544346  5_543_
+    123456  4_432_
+    123456  4_432_  ^__
+    34  5_3_3+3  +1__
+    36  6-7-755-7  1_0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GUTER FREUND ICH FRAGE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus, Wuerges]
+KEY[E2131  16 Bb 2/4]
+MEL[  1_.11_1_  -7_.-6-5__
+    -6_.-6-6_1_  -5_.-4-3__
+    1_.23_3_  2__1__
+    2_2_2_2_  1_.23__
+    1_1_4__  2_2_3_
+    1_  1_1_4_2_  2__1_0_ //] >>
+FCT[geistliches Lied, Curiosum]

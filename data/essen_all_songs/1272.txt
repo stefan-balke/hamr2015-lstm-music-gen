@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Ich waiss ein schoens Lustgaertelein,]
+CNR[darein thue ich spazieren,]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 54
+    1646 Handschrift Kloster Seeon]
+KEY[Q1055O 04  F 6/4 4/4]
+MEL[112  3453  1_0
+    +1+1+1  756_  5_0
+    15+1  6566  5_0
+    365  432_  1_0 //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0055C, anderes Lied.]

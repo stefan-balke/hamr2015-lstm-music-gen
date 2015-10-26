@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Das Koeniglein"
+    N ZAUN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1349  08 Bb 6/8]
+MEL[-5  332332  1_11_
+    1  234-5-6-7  1_11_
+    -5  332332  1_11_
+    1  234-5-6-7  1_0_.
+    1  3_3321  5555_0
+    321321  2_22_
+    1  3_3321  5555_
+    3  234-5-6-7  1_0_. //] >>
+FCT[Zech -, Schalks - Lied]

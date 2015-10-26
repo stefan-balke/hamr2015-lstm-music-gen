@@ -1,0 +1,9 @@
+F[ERK2
+CUT[VON DIR MUSS ICH SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillenburg; Taunus]
+KEY[E0786A 16  F 2/4]
+MEL[  3_3_3_3_  3_5_5__
+    4_.32_1_  2__0__
+    1_3_4_5_  6__6__
+    5_.43_2_  1__0__ //] >>
+FCT[Abschieds -, Wander - Lied]

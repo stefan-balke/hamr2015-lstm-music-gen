@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Bie vrie ischt auf Mogreadeheatizle,]
+CNR[bie vrie ischt auf Mogreatizle!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Graflinden]
+SRC[2, S. 221
+    1907 aufgezeichnet]
+KEY[Q0049B 08  B 3/4]
+MEL[1_  3b_2_3b_  1__
+    1_  3b23b_2_  1__
+    1_  3b_2_3b_  1__
+    1_  1__-7_  1__ //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]

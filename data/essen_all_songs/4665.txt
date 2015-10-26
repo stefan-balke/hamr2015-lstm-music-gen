@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ruf um fruchtbares Wetter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0575  04  G 4/2]
+MEL[1__1_1_  2_4_5_5_  4__
+    5_7b_  6_5_423_  2__0_
+    4_  4_4_5_4_  3b_1_-7b__  0_
+    1_2_.3  4_323b_2_  1___ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Andernacher Gsgb Coelln 1608 S. 278]

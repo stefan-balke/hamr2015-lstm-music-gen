@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Um Frauen willen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0121  04  G 4/2 6/2]
+MEL[1_  1_1_2_3_  4__4__0_
+    5_  6__6_5__5_  4_.5645__
+    1_  2_5_5_4__5_  3_.21__0_
+    5_  4_2_3_4__3b_  3b_212__0_
+    1_  2_5_5_4_4_5_  4_.32__0_
+    4_  2_2_1_-7b__1_  2__0_
+    1_  1__3_4_2_2_  1-7123_2__
+    3_  4_5_6_5__
+    5_  5_3_4_5__4_  4_321__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 36.]

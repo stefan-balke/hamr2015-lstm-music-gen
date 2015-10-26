@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[MORGEN MUSS ICH WEG VON HIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0287  16  G 3/4]
+MEL[5__.3_6_5_  5_.43__0__
+    2_3_4_6_5_4_  4__3__0__
+    5__.3_6_5_  5_.43__0__
+    2_5_7_.65_4#_  6__5__0__
+    4__.3_2_1_  -7_.12__0__
+    6__.5_4_3_  2_.32__0__
+    5__.3_4_5_  6_7_+2_+1_7_6_
+    5__.434_2_  2__3__0__ //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[EINEN GOLDNEN WANDERSTAB]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Bruchweiler]
+KEY[B0742  08  C 3/4]
+MEL[-5-5  1_1_31  -5__
+    -3-5  -4_-4-3-4-5  -3__
+    -5-5  1_1_31  -5__
+    -3-5  -4_-4-3-4-5  -3__
+    -5-4  -3_-3_-3-4  -6-5-5_
+    -5-4  -3_-3_-3-4  -5__
+    -5-5  1_1_31  -5__
+    -3-5  -4_-4-3-4-5  -3__ //] >>
+FCT[Moral - Lied, religioes]

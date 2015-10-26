@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[AUF GLUECK AUF MEIN DEUTSCHLAND]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z0187  08  C 4/4]
+MEL[  1_.35_.3  1__1_.
+    1  2_.12_.3  1__0__
+    3_3_4321  4_5_6__
+    5_.65443  3_2__0_
+    3_3_4321  4_5_6__
+    +1_.65432  1__0__ //] >>
+FCT[Soldaten - Lied, patriotisch]

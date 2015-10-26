@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ZU LAUTERBACH HAB ICH MEIN STRUMPF VERLOREN]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E1009  08  G 3/4]
+MEL[-5_  5_.53_  1_1_1_  2__-5_  -5__
+    -5_  6_.54_  4_3_2_  5__.  ^_0_
+    -5_  5_.53_  1_1_1_  2__-5_  -5__
+    -5_  7_.65_  5_4_2_  1__.  ^_0_ //] >>
+FCT[Tanz - Lied]

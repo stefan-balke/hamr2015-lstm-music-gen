@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Es wollte ein Juengling heiraten]
+CNR[in seiner jugendlichen Zeit.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
+    Tremersdorf]
+SRC[5, S. 144
+    1937 aufgezeichnet]
+KEY[Q0102F 08  G 3/4]
+MEL[5_  3_.35_  3_4_5_  6__.  6_5_
+    4_  5_6_5_  555_4_  3__ //] >>
+FCT[Ballade, Ehe - Geloebnis, Betrug]
+CMT[Vollstaendig? Zugehoerigkeit zweifelhaft.]

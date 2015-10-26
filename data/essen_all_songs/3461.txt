@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ES WOLLT EIN JUNGFRAU INS KLOSTER GEHN;]
+REG[Europa, Mitteleuropa, Deutschland, Taunus - Kreis]
+KEY[E0923  16  F 2/4]
+MEL[-5_  1_1_3_3_  5_5_+1_
+    3_  5_4_2_3_  2_1_0_
+    -5_  1_1_3_3_  5_5_+1_
+    3_  5_4_2_3_  2_1_0_
+    3_  4_432_2_  5_543_
+    5_  +1_5_4_3_  3_2_0_
+    -5_  1_1_3_3_  5_5_+1_
+    3_  5_4_2_3_  2_1_0_ //] >>
+FCT[Ehestands - Lied, Nonnen - Klage]

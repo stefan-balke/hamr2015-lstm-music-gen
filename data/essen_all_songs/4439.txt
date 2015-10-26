@@ -1,0 +1,9 @@
+F[ERK3
+CUT[STERBEN IST EIN HARTE BUSS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Battenberg, Nennertehausen]
+KEY[E2162  16  F 3/4 4/4]
+MEL[1_2_  3__.1_(1_2_3_)  3__2__
+    1_2_  3__.1_(1_2_3_)  3__2__
+    1_2_  3_5_5__(4_5_6_)  5___(+1_7_6_)  5___
+    5_+1_  5__.3_5_4_3_24  3___0__ //] >>
+FCT[geistlich, Moral - Lied, Tod]

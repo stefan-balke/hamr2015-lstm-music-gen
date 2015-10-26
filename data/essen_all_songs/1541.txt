@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Jaeger und Graserin
+    Es ging ein Maedchen im gruenen Walde grasen,]
+CNR[da hoerte sie von fern ein Jaeger blasen.]
+REG[Osteuropa, Ungarn, Kom. Tolna, Bataapati]
+SRC[7, S. 227
+    ????]
+KEY[Q0154  08  D 4/4 3/4]
+MEL[-512  3_335543  5_2_0
+    223  4_.56654  5_3_0
+    55+1  7_.766  5_.
+    334  5_.645  3__0 //] >>
+FCT[Ballade, Verfuehrung, Verlassen]

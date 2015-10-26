@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es ritt ein Jaeger aus wohlgemut,]
+CNR[zwei Federn trug er an seinem Hut.]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Niederlausitz,
+    Zerkwitz]
+SRC[3, S. 87
+    1848 aufgezeichnet]
+KEY[Q0057A 16  G 6/8]
+MEL[123__2_  1__5_+1__54  3__
+    5_2__5_  3__123__2_  1__
+    5_2__5_  3__123__2_  1__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

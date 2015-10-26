@@ -1,0 +1,10 @@
+BOEHME
+CUT[THUT MAN INS LEBEN KAUM DEN ERSTEN SCHRITT]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Buchweiler]
+KEY[B0672A 16  G 4/4]
+MEL[-5_3_2_  1__-5__1_1_3_3_  2__0__.
+    -5_-5_-5_  4__4__4_4_5_4_  3__0__.
+    5_5_4_  3__.2_1_1_1_-7_  -6___0_
+    4_3_2_  5__3__5_4_2_4_  3___0_
+    +1_3_46  6__5__1_2_3_2_  1__0__. //] >>
+FCT[Moral - Lied, Lebenslauf, Klage]

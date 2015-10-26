@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[SEYD LUSTIG UND FROEHLICH, IHR HANDWERKSGESELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0239  08  F 3/4]
+MEL[135_54  3_4_5_
+    556543  2_-7_-5_
+    55443_  55443_
+    2_2_2_  2_3__ //] >>
+FCT[Handwerks - Burschen - Lied]

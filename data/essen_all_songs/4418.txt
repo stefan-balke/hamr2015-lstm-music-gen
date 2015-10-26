@@ -1,0 +1,13 @@
+F[ERK3
+CUT[GLEICHWIE EIN FRUCHTBAR REGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2120  04  F 4/4]
+MEL[-7  1-712  -7_3
+    -7  1122  3_0
+    -7  1-712  -7_3
+    -7  1122  3_0
+    3  3333  2_2
+    2  -71-6-7  1_0
+    1  22-7-7  1_4
+    4  3322  1_0 //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

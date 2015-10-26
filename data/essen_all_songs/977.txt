@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Trennung"
+    AI WAS SOLL I DENN KAFN]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1242  16  F 3/4]
+MEL[-5_-5_  1__1_3_2__  1_3_5__0_
+    54  3_5_3_1_2_-7_  1___
+    -5_-5_  1__1_3_2__  1_3_5__0_
+    54  3_5_3_1_2_-7_  1___
+    4_4_  3_5_4_2_3_1_  2___
+    4_4_  3_5_4_2_3_1_  2___
+    -5_-5_  1__1_3_2__  1_3_5__0_
+    54  3_5_3_1_2_-7_  1___ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

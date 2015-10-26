@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die zehnte Tochter
+    Stoji, Stoji mi beli grad,]
+CNR[Stoji, Stoji mi beli grad,]
+REG[Suedosteuropa, Jugoslawien, Slowenien, Ribnica / Reifnitz]
+SRC[5, S. 63
+    1881 gedruckt in Zagreb]
+KEY[Q2094B 16  G 2/4]
+MEL[  -5__1__  3__2__  4_2_1_13  2__.0_
+    -5__1__  3__2__  4_2_1_13  2__.0_
+    -7__-7253  3__2_1_  -7__2__  1__.0_
+    -7__-7253  3__2_1_  -7__2__  1__.0_ //] >>
+FCT[Ballade, mythologisch, Vertreibung]
+CMT[Slowenische Fassung der Ballade.]

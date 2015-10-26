@@ -1,0 +1,11 @@
+BOEHME
+CUT[O TANNENBAUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0638  16  G 3/4]
+MEL[-5__  1_.11__2__  3_.33__.
+    1_  2_3_4__-7__  2__1__0_
+    3_  5_3_6__.5_  5_.44__.
+    4_  4_2_5__.4_  4_.33__
+    -5__  1_.11__2__  3_.33__.
+    1_  2_3_4__-7__  2__1__ //] >>
+FCT[Kinder -, Weihnachts - Lied]

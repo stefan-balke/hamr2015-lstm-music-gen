@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Ein kleiner feiner Almanach. "
+    MAN SAGT DAS LIEBEN BRINGET GROSSE FREUD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0235  16  C 3/8]
+MEL[-5_  1__2_  3__2_  3__2_  3__2_  5__
+    5_  5_.43_  4_2_2_  3_.21_  2__
+    3_  2__3_  2__3_  4_.32_  3_.21_  5__
+    5_  4_.2-7_  3_.21_  2_-5_-7_  1__ //] >>
+FCT[Romanze]

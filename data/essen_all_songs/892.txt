@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Gedenke mein"
+    ICH STUND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1157  16  F 4/4]
+MEL[5__  +1__5__5_4_3_2_  1__.2_3__
+    3__  3__2__5_4_3_2_  1___0__
+    1_2_  3__3__2__2__  2__.345__
+    5_4_  3__3__2__2__  2__.345__
+    5_4_  3__3__5_4_2__  1___0__ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

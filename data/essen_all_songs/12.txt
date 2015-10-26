@@ -1,0 +1,18 @@
+BOEHME
+CUT[DEUTSCHES HERZ VERZAGE NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0011  08  F 4/4]
+MEL[34  5_.34_2_  3__0_
+    11  -7_1_4_3_  2__0_
+    -71  2_.23_23  4__0_
+    22  3_5_3_2_  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[DEUTSCHES HERZ VERZAGE NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0011  08  F 4/4]
+MEL[34  5_.34_2_  3__0_
+    11  -7_1_4_3_  2__0_
+    -71  2_.23_23  4__0_
+    22  3_5_3_2_  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]

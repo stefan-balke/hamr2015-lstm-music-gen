@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die schoene Joppe"
+    DA BAUA VAKAUFT SEINN AKR]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1336  08  G 3/4]
+MEL[-5_  1_1_6_  5__4_  3_3_2_  1__
+    1_  2_2_2_  2_2_21  -7_-7_-6_  -5__
+    -5_  1_1_2_  3_3_44  5_5_
+    66  5_5_44  3_3_2_  1__ //] >>
+FCT[Zech -, Schalks - Lied]

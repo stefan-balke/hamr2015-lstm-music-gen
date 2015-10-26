@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Schlaue"
+    GUTEN ABEND, VRENELI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1216  16  A 2/4]
+MEL[1_.35_3_  3_2_2__
+    2_.46_4_  4_3_3__
+    1_.35_3_  3_2_2__
+    4_2_1_-7_  1__0__ //] >>
+FCT[Liebes - Lied]

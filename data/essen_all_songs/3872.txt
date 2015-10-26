@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HIER KOMMEN WIR HER VOR DIESES HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Ober- Bergisches Land, Gunnersbach]
+KEY[E1253  08  G 2/4]
+MEL[-5  1111  311_
+    3_33  543
+    3  5432  321_
+    2_22  123_
+    4321  -7-6-6 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Pfingsten]
+CMT[Schluss modulierend]

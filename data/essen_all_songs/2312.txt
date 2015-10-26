@@ -1,0 +1,9 @@
+FINK
+CUT[UNSER LEBEN SAGEN WEISE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0792  08  D 3/8]
+MEL[  5_5  5_3  1_2  3_1
+    5_7  +275  4#34#  5_0
+    5_5  6_6  767  +1_5
+    +4+3+2  5_5  567  +1_0 //] >>
+FCT[Geselligkeits -, Moral - Lied]

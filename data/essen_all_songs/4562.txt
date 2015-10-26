@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Moench und Naehterin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0481  04  F 6/4]
+MEL[1  1_23_3  4_23_
+    3  4_56_6  5_.4_
+    5  5_55_3  4653_
+    3  2_3434  2_.1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzel 1544 Quodl 20.]

@@ -1,0 +1,10 @@
+FINK
+CUT[DER SOMMER KEHRET WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0345  08 Bb 2/4]
+MEL[-5  1313  1_1
+    1  2-5-5-5  1_0
+    -5  -3-1-3-5  -3_-3
+    -3  -4-4-4-4  -3_0_  0
+    530  0530  053 //] >>
+FCT[Jugend - Lied, Geselligkeit, Scherz, Kanon]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Treue Liebe"
+    SCHATZ WAS BIST DU DENN SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland, Lothringen]
+KEY[Z1170  16 Eb 3/4]
+MEL[3_4_  5__3__2_3_  4__2__0__
+    1_3_3_5_3_21  2_2_
+    3_3_5432  3___2__  1___
+    3_4_  5__3__2_3_  4__2__0__
+    1_3_3_5_3_21  3_12
+    3_235432  3___2__  1___ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Alter Ostergesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0552C 02  D 4/1 6/1]
+MEL[5__4_5_  7b__5__
+    5_3b_4_5_  3b__1__
+    3b_441_-7b_  4__5__3b__
+    5_3b_4_5_  3b__1__2__
+    -7b_112__1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Peter Schoeffer 1513 No. 62]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Agnus Dei,]
+CNR[qui tollis]
+REG[Mitteleuropa]
+SRC[3, S. 178
+    ????]
+KEY[Q1062F 04  F FREI]
+MEL[135325_65
+    567+176565
+    +167+176565
+    34554321231211 //] >>
+FCT[geistlich, Messe]
+CMT[Anderes Lied.]

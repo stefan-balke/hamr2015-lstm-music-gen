@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Jesus im Garten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0542A 02  G 6/2]
+MEL[5  5_55_5  1_11_
+    2  3_45_2  3_45_
+    3  4_56_5  4_34_
+    3  2_34_2  5_43_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Andernacher Gsgb 1608 S. 195.]

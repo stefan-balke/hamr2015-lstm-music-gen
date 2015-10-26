@@ -1,0 +1,13 @@
+DVA
+CUT[Das vierte Gebot ( Der Teufel als Freier )
+    Nun hoeret an, ihr Elteren]
+CNR[von so erschrecklichen Dingen]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0021  08  D 4/4 2/4]
+MEL[3_  3_2_  1__.12  3_4_  5__.
+    3_  4_5_  6__6_5_  4__  3__.
+    5_  5_3_  6__.5_  4_6_  5__.
+    5_  6_55  5__4_4_  4_21  2__.
+    5_  667_  +1__5__  2__  1__0_ //] >>
+FCT[Zeitungs - Lied]
+CMT[Verzierung; Inzipit = Variante]

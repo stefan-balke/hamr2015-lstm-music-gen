@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Bauer ins Holz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0472B 04  D 4/4]
+MEL[1  1156  7b_6
+    5  +1553b  222_  0
+    111  567b_  6
+    554  3b211  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Werlin 1646.]

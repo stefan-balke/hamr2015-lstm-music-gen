@@ -1,0 +1,10 @@
+F[ERK3
+CUT[WER LEUCHTET UNS DENN BEI DER FINSTREN NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau]
+KEY[E2003  08  D 4/4]
+MEL[34  5_5_5_67  +1_345_
+    67  +1_3_2_-7_  1__0_
+    5_  +1_.+2+3+2+17  7_6_6_
+    67  +1_+1+1+2+176  5_4_3_
+    57  +1_3_2_-7_  1__0_ //] >>
+FCT[geistlich, Trost -, Lob - Lied]

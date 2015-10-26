@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Jaegers Morgenbesuch]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0440  02  G 6/2]
+MEL[5  5_55_5  7b_.3b_.
+    5_57b6b_  5_.0_
+    5  5_57b_7b  3b_.5_.
+    4_4442  3b1_-7b_0
+    5_57b_.  6b_6b5_3b  42_1_0
+    5_3b42_  1_.0_ //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[Ott III 1544 No. 15 und 97.]

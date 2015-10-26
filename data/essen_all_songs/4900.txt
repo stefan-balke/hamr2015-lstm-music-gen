@@ -1,0 +1,18 @@
+DVA
+CUT[Magelhan (Rolling home)
+    Dor fohr von Hamburg mol so'n ohlen Kassen]
+CNR[mit Namen heet de Magelhan]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein, Kiel -
+    Holtenau]
+KEY[D0225  16 Bb 3/4]
+MEL[-5_-3_-4_  -5_.-5-5_-5_-4#_-5_  -6_-5_^_
+    -5_-3_-5_  1__3__2_1_  -6__.
+    -6_-7_1_  2__.1_-7_-4_  -6_-5_^_
+    -5_-5_1_  -7__.-5_-6_-7_  1___
+    -3_.-4  -5___-3_.-5  1___
+    -7_.1  2__.1_-7_.-6  -5___
+    -7_.1  2__.1_-7_.-4  -6_-5_^_0_
+    -5_1_  -7__.-5_-6_.-7  1__. //] >>
+FCT[Staende - Lied, Seemannslied]
+CMT[moduliert in die Dominanttonart; mehrstimmig notiert
+    Inzipit = Variante zum Lied]

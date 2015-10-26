@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Stolz Syburg der wollt' freien gehn]
+CNR[so fern ins fremde Land,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
+SRC[2, S. 132
+    1912 gedruckt in Prenzlau]
+KEY[Q0042C 16  A 2/4]
+MEL[-5_  1_.23b_2_  1_-7_1_
+    2_  3b_.45_4_  3b__0_
+    3b_  2_.3b4_2_  3b_5_5__
+    1_.3b2_1_  -7_-6_-5_
+    2_  3b_3b_2_2_  3b_.45_
+    4_  3b_1_2_.2  1__0_ //] >>
+FCT[Ballade, Braut - Werbung, Betrug; tragisch
+    Vierte Zeile = Refrain.]

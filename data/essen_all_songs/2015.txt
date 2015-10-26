@@ -1,0 +1,13 @@
+FINK
+CUT[DA KOMMT JA DER LIEBLICHE MAI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0250  16  G 6/8]
+MEL[-5_  3_3_3_2_2_2_  4__.
+    3__.  2_2_3_4_2_-7_  1__.0__
+    -71  2_2_2_3_2_
+    -71  2_2_2_3_2_
+    3_  3__.1__3_  5_3_1_-5__
+    5_  3__5_3__5_  3__0__.
+    3_  3_3_3_3_4_5_  6__0_
+    6__.  5_.31_4_2_-7_  1__0__. //] >>
+FCT[Jugend - Lied, Jahreszeiten, Fruehling]

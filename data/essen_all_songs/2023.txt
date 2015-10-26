@@ -1,0 +1,13 @@
+FINK
+CUT[ARBEIT MACHT DAS LEBEN SUESS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0260  16  G 3/4]
+MEL[  3__.2_1_3_  6_.55___
+    4__.3_4_5_  3__0___
+    2__.2_3_4#_  5_.22___
+    7__.6_5_4#_  5___.
+    4__.3_6_5_  4_.34__0__
+    3_.65__4#__  5___0__
+    4_4_4_4_3_3_  6__6__6__
+    5___-7__  1___0__ //] >>
+FCT[Jugend - Lied, Belehrung, Moral, religioes]

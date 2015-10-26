@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WAT SCHWEMMT OP USEN DUIKE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Soest]
+KEY[E1560  16 Bb 3/8]
+MEL[-5_  1_1_2-7  1_1_-5_  1__
+    1_  4_4_2_  3_3_1_  2__-7_  1__
+    -5_  1_1_1_  1-6-5_-5_  1__2_  1__
+    -5_  4_4_2_  3_3_1_  2__-7_  1__ //] >>
+FCT[Staende -, Bauern - Lied, Flachsbrechen, bei der Arbeit]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Das Strassburger Maedchen"
+    ES TRUG EIN SCHWARZBRAUN MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1070  08  G 6/8]
+MEL[-5  1_123b4  5_.2_
+    2  5_5543b  2_0_.
+    5  7b6b5456b  5_.54
+    2  3b2143b2  1_.0_ //] >>
+FCT[Romanze, Ballade]

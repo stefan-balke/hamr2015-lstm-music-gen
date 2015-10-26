@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOHNTEN ZWEI LIEBCHEN IN SCHWABEN]
+REG[Europa, Mitteleuropa, Deutschland, St. Wendel, Kirrweiler]
+KEY[E0049B 16  F 2/4]
+MEL[-5_  1_111_-71  2_-7_0_
+    -5_  2_222_12  3_1_0_
+    13  5_534_42  3_+1_6_
+    66  5_534654  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ER IST DER MORGENSTERNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0035  08  F 6/4]
+MEL[1_  1__1_1__-6_  -5__2_2__
+    2_  3__4__2_2_  1__.^__
+    3_  4__4_4__3_  2__.^__
+    2_  3__5_5_.43_  2__.^__
+    2_  3__4__2_2_  1__.^__ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

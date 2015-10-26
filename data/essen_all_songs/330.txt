@@ -1,0 +1,24 @@
+BOEHME
+CUT[WAER ICH EIN VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0387  16  G 3/8]
+MEL[  3_.23_  5_.43_
+    2_1_2_  3_.21_
+    3_3_2#_  3__0_
+    3_2_34  6_.543
+    3_2_34  6_.543
+    322_43  2__0_
+    3_542-7  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[WAER ICH EIN VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0387  16  G 3/8]
+MEL[  3_.23_  5_.43_
+    2_1_2_  3_.21_
+    3_3_2#_  3__0_
+    3_2_34  6_.543
+    3_2_34  6_.543
+    322_43  2__0_
+    3_542-7  1__0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

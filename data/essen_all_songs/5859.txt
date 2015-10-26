@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Tandernack up dem Rhin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0311B 02  C 4/2]
+MEL[3_3_  4_32  342_  1_
+    6_  5_67  +1_5_  64_2  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Newsiedlers Lautenbuch 1536 II Bl. 02.]

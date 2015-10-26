@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Blutbraut"
+    ENGEL BENGEL LASS MICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1049  08  A 2/4]
+MEL[11-7b-7b  -6b-6b-5-5
+    3b3b22  11-7-5
+    11-7b-7b  -6b-6b4_
+    3b213b  2-710 //] >>
+FCT[Romanze, Ballade, Tod]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[UNSER BRUDER MALCHER, DER WULLT A REITER WAEREN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[Z0228  16  C 3/8]
+MEL[   123_4_  5_5_0
+    3  434_2_  3_1_0
+    -7  123_4_  5_5_0
+    3  434_2_  1__0
+    5  555_05  654_0
+    4  234_04  543_0_
+    5_-7_-7_  12345_
+    5_-7_-7_  1__0_ //] >>
+FCT[Erzaehlung, lustige Romanze, Spott - Lied]

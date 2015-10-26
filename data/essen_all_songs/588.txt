@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES WAR EIN STOLZES MUELLERWEIB]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[Z0172  16  G 2/4]
+MEL[-5_  -5_-6_-7_1_  2_3_43
+    2_  1_1_-712-7  1__0_
+    -71  2_2_234#5  2__21
+    -71  2_23432_  1__1-7
+    -6-7  -5_-6_-7_1_  2_3_4_
+    32  1_1_-712-7  1__0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

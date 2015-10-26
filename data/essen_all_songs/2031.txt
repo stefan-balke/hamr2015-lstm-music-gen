@@ -1,0 +1,9 @@
+FINK
+CUT[EIN JUNGES LAEMMCHEN WEISS WIE SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0274  16  G 6/8]
+MEL[32  1__1_1__2_  3__3_2__
+    5_  4__2_3__1_  3__.2_0_
+    -5_  4__5_4__5_  6__5_3__
+    3_  2__4_-7__-5_  2__.1_0_ //] >>
+FCT[Jugend - Lied, Belehrung]

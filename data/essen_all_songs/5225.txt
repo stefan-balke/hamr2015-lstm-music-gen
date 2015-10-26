@@ -1,0 +1,11 @@
+BOEHME
+CUT[WENN ICH IHN NUR HABE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0751A 08 Eb 4/4]
+MEL[  5_5_+1_76  5_4_3__
+    3_6_5_4#_  5_0_
+    5_67  +1_+1_+1_76  5_4_3__
+    6_5_543_  2_322__
+    7_654#_5_  +1__7_0_
+    +1_7+2+1_5_  6_5_543_  2__1_0_ //] >>
+FCT[religioes]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    ohne Text]
+REG[Nord - Amerika, USA]
+SRC[5, S. 207
+    1962 gedruckt in New Jersey]
+KEY[Q3107E 08  G 3/4]
+MEL[1_  3__3_  1__1_  4_4_5_  3__
+    5_  7_6_4_  6_5_12  3_312_  1__ //] >>
+FCT[Ballade, ??]
+CMT[Melodievergleich zu Q0107B, anderes Lied.]

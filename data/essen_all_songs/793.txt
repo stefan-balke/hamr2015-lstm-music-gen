@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Die Koenigstochter"
+    ES WAR EIN WAISENKNABE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1058  16  A 2/4]
+MEL[-5_  1_3b_2_3b2  1__1_
+    2_  3b_3b_43b4_  5__0_
+    5_  544_5_4_  3b__3b_
+    3b_  43b4_543b_  2__
+    2_5_  4_3b_2_1_  -7__.
+    -5_  1_543b_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Tod]

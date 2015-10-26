@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Die drei Grafen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0036  04  G 4/2]
+MEL[1_  1_1_2_3_  4__6_
+    5_  4_1_2_3_  4__0_
+    4_  6_+1_+2_+2_  +17654_
+    5_  6_5_4_3_  2__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Schmeltzel, 1544, Quodlibet 7. Ab dritte Zeile von Boehme
+    ergaenzt!]

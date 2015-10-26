@@ -1,0 +1,14 @@
+DVA
+CUT[Totenlied
+    O Mensch, betracht die Welt!]
+CNR[Mit ihrer schnoeden Eitelkeit]
+REG[Europa, Mitteleuropa, Lothringen, Rechicourt ( Kr. Saarburg )]
+KEY[D0040  04  G 6/4]
+MEL[-5  1_12_2  3_.00
+    2  2_34_5  3_22_
+    3  4_3321  2_.00
+    3  3_22_1  1232_
+    3  3_22_1  1232_
+    3  5_23_3  1_.00 //] >>
+FCT[geistliches Lied, Tod, Totentanz]
+CMT[Verzierungen]

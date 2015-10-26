@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[O KOENIGIN, LIEB MUTTER MEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z0049  16  D 6/8]
+MEL[12  3b__2_1__56  7b__6_5__
+    5_  4__7_6__5_  6_5_4#_5__
+    5_  5_4_543b_4_5_  4_3b_2_3b__
+    3b1  -7b__3b_2_3b_1_  -7_1_2_1__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

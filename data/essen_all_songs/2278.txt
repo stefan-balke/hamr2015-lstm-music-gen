@@ -1,0 +1,15 @@
+FINK
+CUT[FREUND ICH ACHTE NICHT DES MAHLES]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0705  08  D 4/4]
+MEL[  1_-7_-6_-5_  -6_-5_-4_-3_
+    -4_-3_-2_-1_  -5__
+    1__  ^_-7_-6_-5_  -4#_-5_-6_-2_
+    -5_--7_-1_-2_  -5__0__
+    -5_.-6-7_1_  2_.1-7_-6_
+    -5_.-4-3_-2_  -5_.-4-3_-2_
+    -1_-3_-5__  -3_-5_1__
+    3_2_1_-5_  1_2_3_2_
+    1__2__  3__0__
+    4_2_1_-7_  1__0__ //] >>
+FCT[Geselligkeits -, Trink - Lied, Rundgesang]

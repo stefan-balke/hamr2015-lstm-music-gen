@@ -1,0 +1,11 @@
+FINK
+CUT[DAS LIED VOM WEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0758  16  A 3/4]
+MEL[-5_  1_.11__.3_  3_.22__.
+    4_  3_.45__1__  3_.21__0_
+    1_  5_.55__.6_  5_.44__0_
+    2_  3_.35__.3_  3_.22__0_
+    -5_  1_.11__.3_  3_.22__.
+    4_  3_.45__1__  3_.21__0_ //] >>
+FCT[Geselligkeits -, Trink - Lied]

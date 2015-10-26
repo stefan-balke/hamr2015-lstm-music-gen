@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die erzwungene Ehe
+    'Gaden Owend, ir Kechane, wa git et ech?']
+CNR['Ei, wa et Gott gefallich as.']
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[2, S. 250
+    1931 gedruckt in Herrmannstadt (sehr alt)]
+KEY[Q1050B 16  D 3/8]
+MEL[12  3b_2_12  1_-7b-7b3b_  5_3b_4_  5__
+    (454)  3b__-7b3b  1__45  3b__2_  1_0_ //] >>
+FCT[Hochzeits - Lied, Brauchtum]
+CMT[Melodievergleich zu Q0050, anderes Lied.]

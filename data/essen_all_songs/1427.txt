@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    A katona a menyecsket]
+CNR[Erdoeszelbe csalogata]
+REG[Osteuropa, Ungarn]
+SRC[3, S. 260
+    1925 gedruckt in Berlin]
+KEY[Q2041d 08  D 2/4 3/4]
+MEL[  1155  7b6b54
+    53b3b4  3b21-5
+    13b5_.2  43b2_  1_0_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Rache]
+CMT[Melodievergleich zu Q0068J, anderes Lied "Maedchenmoerder" , deshalb
+    in die Balladengruppe Q0041 eingeordnet.
+    Verzierungen (Vorschlaege und Glissando) .]

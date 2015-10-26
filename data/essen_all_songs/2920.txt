@@ -1,0 +1,13 @@
+F[ERK1
+CUT[AUF BRUEDER AUF ZUM STREIT]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Franken]
+KEY[E0357  08 Bb 4/4]
+MEL[-5_  1_.-71_2_  3__0_
+    2_  4_3_2_1_  -75555_
+    -5_  1_.-71_2_  3__0_
+    2_  4_3_2_13  2__0_
+    -71  2_222_12  3_333_
+    -71  2_2_2_3_  22222_
+    5_  3_3_2_2_  3__
+    5__  3_312_2-7  1__0_ //] >>
+FCT[historisches Lied, Krieg (1814)]

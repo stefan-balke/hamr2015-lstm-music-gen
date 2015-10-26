@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Altdeutsches Kampflied"
+    WIR STEHEN HIER ZUR SCHLACHT BEREIT]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1132  08  E 3/4]
+MEL[12  3b45_4_  5_.43b_  4_5_4_  5__
+    3b_  4_5_4_  5__
+    5_  5_4_56b  7b_.6b54  5__4_  3b__
+    53b  4_5_43b  2_1_
+    53b  4_5_43b  2_1_
+    23b  4_3b_2_  1__ //] >>
+FCT[Vaterland und Wehr]

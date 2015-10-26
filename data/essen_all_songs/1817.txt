@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Muskatbaum
+    Spewal jo spewal sylojik]
+CNR[na janej gustej skrjokawince.]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
+SRC[6, S. 147
+    1883 gedruckt]
+KEY[Q2130C 04  G 3/4]
+MEL[-5  1_3  1_-5  -6_-7  1_
+    -5  1_3  2_-5  1-7-6  -5_ //] >>
+FCT[Ballade, Werbung, Standesunterschied]
+CMT[Sorbische Fassung der Ballade.]

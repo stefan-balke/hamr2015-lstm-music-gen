@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Wider Papst und Pfaffen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0633  02  C 6/2]
+MEL[+1  +1_+2+1_5  +1_+2+1_
+    5  +1_+2+1_5  +1_+2+1_
+    +1  5_67b_6  5_45_
+    5  4_45_5  4_45_
+    5  4_45_5  4_45_
+    5  5_435_  3_.1_
+    1  1_14_4  1_14_
+    4  1_14_4  1_14_
+    4  5_7b6_5  6_7b+1_
+    5  5_43_5  3_.1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Dresdner Cod M. 53.]

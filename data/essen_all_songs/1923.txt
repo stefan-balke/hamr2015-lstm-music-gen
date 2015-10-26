@@ -1,0 +1,9 @@
+FINK
+CUT[JA MEIN GLUECK DACHT ICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0111  16  G 3/4]
+MEL[3_.2  1_3_5_5_3_1_  -7_2_5_5_
+    4_2_  -7_2_5_5_4_2_  1_3_5_5_
+    3_.2  1_3_5_5_3_1_  -7_2_5_5_
+    4_.2  -7_2_5_5_4_.2  1__0__ //] >>
+FCT[Scherz - Lied]

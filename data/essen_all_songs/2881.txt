@@ -1,0 +1,11 @@
+F[ERK1
+CUT[PRINZ EUGEN DER EDLE RITTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0324B 08  C 3/4]
+MEL[-5-5  111122  3_3_
+    12  3_5_54  4_3_
+    21  234_3_  2__
+    54  3_5_65  543_
+    21  2_4_54  432_
+    11  123_22  1__ //] >>
+FCT[historisches Lied, Prinz Eugen (1717)]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES SASS EIN KAEFER AUF DEM BAEUMEL]
+REG[Europa, Mitteleuropa, Deutschland, Breslau]
+KEY[E0164A 08  G 3/4]
+MEL[-5_  1-71-71-7  1_-5_-7_  1_0_
+    1_  54#54#54#  5_2_
+    3_  434_32  2_1_-5_  1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen, Scherz
+    Ballade ?]

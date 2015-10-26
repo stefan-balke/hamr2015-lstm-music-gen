@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Des Reiters Liebchen"
+    MEIN SCHATZ IST A REITER]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1178  08  D 3/4]
+MEL[5_  3_5_5_  6_5_5_  3_5_5_  5__
+    5_  5_6_6_  +1_.76_  6_5_5_  5__
+    65  54434_  4__54  43323_  3__
+    5_  5_+4_.5  5_+3_.+3  +3+2+2+17+2  +1__
+    5_  457+2+4_  35+1+3+5_  +4+3+2+17+2  1__ //] >>
+FCT[Liebes - Lied]

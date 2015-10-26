@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Totenamt
+    Es taget in oesteriche,]
+CNR[die sunn schint ueberal:]
+REG[Mitteleuropa, Deutschland (BRD) , Schwarzwald]
+SRC[3, S. 155
+    1439 Handschrift aus St. Blasien (ca.)]
+KEY[Q0061A 08  D FREI]
+MEL[1__  (1__1__1__)1__1__  (4__5__3b__)2_
+    1__  4__5_4__3b__  2__
+    3b_  2__4_5_4_  3b_2_1_
+    4__  5__3b21-7b1__  3b2_1-7b__ //] >>
+FCT[Ballade, Liebe, Eifersucht, Tod; "Purengesanck"]

@@ -1,0 +1,16 @@
+KINDER
+CUT[ROHE ROHE SEIDE]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[K2100  16  D 2/4]
+MEL[  5_5_6_6_  5__3__
+    5_5_6_6_  5__3__
+    5__3__  5_5_3__
+    5_5_6_6_  5_5_3__
+    5_5_6_6_  5_5_3__
+    5_5_6_6_  5_5_3__
+    5_5_6_6_  5_5_3_33
+    5_5_6_6_  5_5_3_33
+    5_5_6_6_  5__3_0_
+    5_5_3_1_  6_6_5_5_
+    4_4_3_3_  2_5_1_1_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

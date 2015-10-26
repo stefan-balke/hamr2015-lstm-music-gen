@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der englische Gruss"
+    GEGRUESSET, MARIA, DU MUTTER DER GNADEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1126  08  D 3/4]
+MEL[1_  4_4_54  3b_3b_3b_  6b_6b_7b6b  5_4_
+    1_  4_4_54  3b_3b_3b_  6b_6b_7b6b  5_4_
+    5_  6_6_7_  +1_+1_54  5_5_43b  2_1_
+    12  3b_5_4_  5_4_3b_  4_3b_2_  1__ //] >>
+FCT[religioeses Lied, Maria]

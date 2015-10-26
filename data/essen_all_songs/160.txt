@@ -1,0 +1,20 @@
+BOEHME
+CUT[FREUNDLICH GLAENZT AN STILLER QUELLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0192  08  F 4/4]
+MEL[5_4_  3_2_1_2_  3_1_
+    +1_7_  6_5_5_.4  3_0_
+    2_3_  4_2_3_4_  5_3_
+    +17+16  5_3_4_5_  4_30
+    +17+16  5_.34_2_  1_0_ //] >>
+FCT[Natur - Lied]
+BOEHME
+CUT[FREUNDLICH GLAENZT AN STILLER QUELLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0192  08  F 4/4]
+MEL[5_4_  3_2_1_2_  3_1_
+    +1_7_  6_5_5_.4  3_0_
+    2_3_  4_2_3_4_  5_3_
+    +17+16  5_3_4_5_  4_30
+    +17+16  5_.34_2_  1_0_ //] >>
+FCT[Natur - Lied]

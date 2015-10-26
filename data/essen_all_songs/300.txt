@@ -1,0 +1,22 @@
+BOEHME
+CUT[GESTERN BRUEDER KOENNT IHRS GLAUBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0351A 16  G 3/4]
+MEL[  1_1_1_-7_1__  2_3_2__1__
+    3_3_3_2_3__  4_5_4__3__
+    5_5_5_3_1_-7_  -6_.-6-6___
+    4_3_2_6_5_4#_  5_5_5_4_3_2_
+    1_1_1__+1__  66666__
+    5__  4_3_2_3_5432  1_3_1___ //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[GESTERN BRUEDER KOENNT IHRS GLAUBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0351A 16  G 3/4]
+MEL[  1_1_1_-7_1__  2_3_2__1__
+    3_3_3_2_3__  4_5_4__3__
+    5_5_5_3_1_-7_  -6_.-6-6___
+    4_3_2_6_5_4#_  5_5_5_4_3_2_
+    1_1_1__+1__  66666__
+    5__  4_3_2_3_5432  1_3_1___ //] >>
+FCT[Trink - Lied]

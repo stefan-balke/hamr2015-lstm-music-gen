@@ -1,0 +1,9 @@
+KINDER
+CUT[BLINDE KUH SOLL DIRS GELINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K2511  04  G 4/4]
+MEL[  1113  11-5-5
+    1113  11-5-5
+    -7-51_  -7-51_
+    -7-711  2-71_ //] >>
+FCT[Kinder - Lied, Such - Spiel]

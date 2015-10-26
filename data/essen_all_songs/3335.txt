@@ -1,0 +1,11 @@
+F[ERK2
+CUT[LIEBEN LIEBEN DAS IST GUT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+KEY[E0771B 08  G 4/4]
+MEL[  1_.35_5_  5_5_3_1_
+    6_.54_3_  2_5_5__
+    2_.44_3_  5_2_2_1_
+    1_6_5_4_  3_2_1__
+    2_.44_3_  5_2_2_1_
+    1_6_5_4_  3_2_1__ //] >>
+FCT[Abschieds - Lied, Liebe]

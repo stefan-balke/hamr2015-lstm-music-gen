@@ -1,0 +1,11 @@
+BOEHME
+CUT[GEH AUS MEIN HERZ UND SUCHE FREUD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0749  08  F 4/4]
+MEL[-5_  3_.24321  -7_.12_
+    -5_  4_.35432  3_655_
+    3_  2_.55434#  6__5_
+    5_  7_.5+1_3_  5_.43_
+    5_  7_.5+1_3_  5_.43_
+    3_  2_.65_-7_  2__1_ //] >>
+FCT[Jahreszeiten - Lied, Sommer, religioes]

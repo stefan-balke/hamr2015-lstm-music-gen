@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES RATT (REI'T) WOHL AUS DER HAEDE (HEIDE)]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0041  08  G 3/4]
+MEL[-5_  112_-7-5  1_2_0
+    2  226_2_  6_5_0
+    5  442_-7-7  1_2_0
+    3  442_-7-5  1_2_ //] >>
+FCT[Sagen - Lied, Romanze]

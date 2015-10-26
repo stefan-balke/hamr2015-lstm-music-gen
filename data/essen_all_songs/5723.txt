@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kuckuk]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0167  08  F 4/2]
+MEL[1__  2__1__-7__1__  2___3___  1___0__
+    1__  3__3__4__4__  5___5___  2__.345__
+    5__  4__3__2__1__  2___-7___  1__.2_3__
+    5__  4__3__2__1__  2___-7___  1___0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 29.]

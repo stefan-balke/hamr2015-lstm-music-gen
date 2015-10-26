@@ -1,0 +1,12 @@
+DVA
+CUT[Ich stand mal auf hohem Berge,
+    da geseh ich ins tiefe Tal]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0030  08  G 3/4]
+MEL[-5_  1_.11_  2_3_4#_  5_.4#5_  2_3b_
+    23b  5_.6b5_  4_.35_  2_3b_0_
+    5__.  4#_5_2_  3b_2_1_  4__6b_  5__
+    5_  1_.23b_  4_3b_2_  1__ //] >>
+FCT[Liebes - Klage]
+CMT[Achttonskala (aeolisch mit fehlender Septime, in die Dominanttonart
+    (Ionisch) modulierend ); Inzipit = Variante zum Lied]

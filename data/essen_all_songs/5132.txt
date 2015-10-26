@@ -1,0 +1,10 @@
+BOEHME
+CUT[EIN SCHIFFLEIN ZIEHET LEISE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0668  08 Bb 6/8]
+MEL[-5  3_21_2  3_21_
+    3  4_32_1  -7_12_
+    -5  -5_-5-5_-5  3_.2_
+    -5  -5_-5-5_-5  3_.2_
+    -5  1_-7-6_4  3_.2_.  1_.0_ //] >>
+FCT[Moral - Lied]

@@ -1,0 +1,12 @@
+FINK
+CUT[ICH WOLLT EINMAL RECHT FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0886  16  F 3/4]
+MEL[  -5__1__2_4_  3__2__1__
+    5__6_5_4_3_  3__2__0__
+    -5__1__2_4_  3__2__1__
+    5__6_5_4_3_  3__2__0__
+    5_.43__5__  6_5_4_3_4__
+    4_.32__4__  5_4_3_2_3__
+    6_543__2__  1___0__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Tod]

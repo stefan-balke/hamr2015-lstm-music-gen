@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Waise und Stiefmutter
+    Es war ein Waislein klein,]
+CNR[hat ja kein Muetterlein,]
+REG[Osteuropa, UdSSR, Ukraine]
+SRC[5, S. 299
+    1943 aufgezeichnet im Lager Marienbad]
+KEY[Q0116E 08  G 6/8]
+MEL[-5  1_-3-4_-3  -2_.0_
+    -5  -7_-6-5_-4  -3_.0_
+    -5  1_2321  -6_.0_
+    -6  -5_-72_3  1_.0_ //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]

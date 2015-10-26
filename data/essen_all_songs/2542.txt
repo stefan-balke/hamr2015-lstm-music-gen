@@ -1,0 +1,9 @@
+F[ERK1
+CUT[SCHOEN ULERICH UND HANSELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0042D 08  G 4/4]
+MEL[13  5_3_5_1_  6_6_5_
+    34  5_5_4_2_  1-7121_
+    -5_  3__5__  4_2_321-7  1_0__ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

@@ -1,0 +1,13 @@
+DVA
+CUT[Was schleicht dort im naechtlichen Walde
+    so einsam wildernd umher]
+REG[Europa, Mitteleuropa, Deutschland, Hohegeiss  Harz]
+KEY[D0233  16  C 6/8]
+MEL[5_  5_5_5_6_6_6_  5_5__^__
+    5_  +1__+1_+2_+2_+1_  7__.^__
+    5_  +2__+3_+3_.+4+1_  7_7__^__
+    6_  5__5_6_5_4_  3__.^__
+    +1_  +2_+1_6_+2_+1_6_  6_5__^__
+    +1_  7__5_+3_+3_+2_  +1__.^__ //] >>
+FCT[Jaeger - Lied, Wilderer]
+CMT[Inzipit = Variante zum Lied]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war ein Markgraf an dem Rhein,]
+CNR[der hatt' drei schoene Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hannover]
+SRC[4, S. 116
+    1912 gedruckt in Hannover]
+KEY[Q0075q 08  F 4/4]
+MEL[13  5_5_5_6_  4_2_2_
+    23  4_4_4_5_  3_1_1_0_
+    5__6__  7__0_5_  +1_5_6_4_  3__2__  1__0_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Einschiebsel am Anfang der dritten Zeile.]

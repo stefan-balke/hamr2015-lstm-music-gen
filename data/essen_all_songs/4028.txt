@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES WAR EIN JAEGER WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland, Schwarzwald; Rheinland, Koeln]
+KEY[E1455  16  A 3/8]
+MEL[  1_1_1_  3__1_  3_.2-7_  3_.2-7_
+    2_2_2_  5_.22_  1_-7_-6_  -5__0_
+    4_4_4_  3_3_3_  2_2_2_  1-7135_
+    1_1_1_  3_.21_  3_2_-7_  1__0_ //] >>
+FCT[Staende -, Jaeger - Lied, Liebe]

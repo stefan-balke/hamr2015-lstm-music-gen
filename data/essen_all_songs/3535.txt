@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Entfuehrung unterm Tanz
+    ohne Text]
+REG[Osteuropa, Ungarn, finno - ugrisch]
+SRC[5, S. 51
+    1943 gedruckt in Budapest]
+KEY[Q3092A 08  G 2/4]
+MEL[  113b3b  43b11  443b3b  1111 //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0092, anderes Lied.]

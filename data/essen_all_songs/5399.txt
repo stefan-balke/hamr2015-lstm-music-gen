@@ -1,0 +1,9 @@
+KINDER
+CUT[ICH HAB MIR MEIN KINDEL FEIN SCHLAFEN GELEGT]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[K0097A 08  G 3/4]
+MEL[3_  5_3_3_  3_.22_  4_2_2_  3__
+    3_  5_1_1_  3_.22_  4_-7_-7_  1__
+    -5_  -5_1_1_  -7_2_2_  2_.46_  5__
+    3_  2_2_32  1_1_3_  2_.1-7_  1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

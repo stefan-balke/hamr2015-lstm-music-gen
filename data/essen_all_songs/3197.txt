@@ -1,0 +1,9 @@
+F[ERK2
+CUT[AUS IST DAS LIEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen; Ober - Lahnkreis; Limburg]
+KEY[E0666  08  F 2/4]
+MEL[  -5-5-3-3  -2-2-1
+    -1  -5-5-3-3  -2-2-10
+    -5-5-5-5  -6-6-6_
+    -5-5-6-7  111_ //] >>
+FCT[Liebes - Lied]

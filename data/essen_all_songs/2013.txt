@@ -1,0 +1,13 @@
+FINK
+CUT[DIE FENSTER AUF DIE HERZEN AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0248  16 Bb 3/4]
+MEL[2_  3_.21_2_3_4_  5___0_
+    5_  4_444_444_44  3_3_0__.
+    3_  2_.1-7_1_2_3_  2__.
+    2_2_2_  3_.33_4_3_
+    3_  4#__.3_4#_3_  4#_.4#4#_
+    4#_4#_4#_  5_.43_2_1_0
+    1  2_222_222_12  3_3_0__.
+    2_  3_3_0__. //] >>
+FCT[Jugend - Lied, Jahreszeiten, Fruehling]

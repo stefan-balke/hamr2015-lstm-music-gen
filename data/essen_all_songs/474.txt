@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ICH WILL ZU LAND AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0060  08  G 4/4]
+MEL[1_  3b_3b_4_4_  5__5__  0_
+    5__5_  5_6_7b_5_  5__.
+    5_  5_6_7b_5_  6b__5_
+    5_  4_3b_5_3b_  3b__.
+    3b_  3b3b4_4_4_  5__5_
+    5_  4_3b_3b_3b_  -7b__.
+    5_  5_.43b_5_  6b_5_5_3b_  4__5_
+    4_  3b3b1_1_-6_  -7b__.1_ //] >>
+FCT[Sagen - Lied, Romanze, Ballade]

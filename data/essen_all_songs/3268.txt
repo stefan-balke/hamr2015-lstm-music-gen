@@ -1,0 +1,9 @@
+F[ERK2
+CUT[LINCHEN GING EINMAL SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[E0712A 16  A 2/4]
+MEL[  -5_1_1_1_  -7_2_1_-5_
+    1_1_3_53  2__0__
+    4_4_4_32  3_5_1_1_
+    24321_-7_  1__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

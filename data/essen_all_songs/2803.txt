@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES WOHNT EIN MARKGRAF AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Potsdam, Toeplitz]
+KEY[E0182B 16  G 2/4]
+MEL[-5_1_-5_  1__5__  3_5_3_
+    1_  2_.32_4_  3_.43_
+    2_  1__-5__  1_3_5_
+    4_  3__2__  1__0__  0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

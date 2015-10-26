@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das boese Stiefmuetterlein
+    Es ging ein treuverliebtes Paar]
+CNR[im gruenen Wald spazieren,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
+SRC[5, S. 313
+    1894 gedruckt in Leipzig]
+KEY[Q1119A 08  G 3/4]
+MEL[-5  1-51_3_  212_0
+    -5  2-52_5_  4#65_0
+    5  354_04  243_0
+    1  135_3_  2_1_0
+    5  354_04  243_0
+    1  135_3_  2_1_0 //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0119, anderes Lied.]

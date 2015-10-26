@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Hauptmannstochter
+    Wie wil hooren singen]
+CNR[van vreughde een nieu Liedt,]
+REG[Mitteleuropa, Niederlande]
+SRC[5, S. 138
+    1903 gedruckt in Gravenhage - Antwerpen]
+KEY[Q2101D 08  G 6/4]
+MEL[  1__1_2__2_  3b_1__-7b__
+    -7b_  3b__4_5__4_  5__43b2__.  0__
+    5_5__5_  3b_.44_3b_2_1_  -7b__
+    1_1_1_.2  3b_4__3b_2__  1___. //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Moral, Mord]
+CMT[Rekonstruktion der Melodie nach vermutlicher Kontrafaktur Q0101B.
+    Rhythmisch korrigiert: Triolen weggelassen, Taktstrich versetzt.]

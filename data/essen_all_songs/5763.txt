@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Das arme Maegdlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0212B 08  A 4/4]
+MEL[1_  1_1_1_-5_  1-7123b_2_  1__0_
+    1_  2_2_5_2_  3b__2_
+    1_  1_1_1_-5_  1-7123b_2_  1__0_
+    1_  2_2_5_2_  3b__2__
+    0_2_3b_2_  5_4_3b_2_  1__0_
+    2_  -7b_-5_2_1_  -7b_-6-5-6__  -5__0_
+    -5_  -5_-5_2_2_  -7b_-6_-5__
+    0_5_5_5_  2_5_4_3b_  2__0_
+    5_  3b_2_4_3b_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Vereinfachung bei Werlin 1646.]

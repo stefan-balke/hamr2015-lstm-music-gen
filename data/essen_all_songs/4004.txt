@@ -1,0 +1,15 @@
+F[ERK3
+CUT[MORGEN MARSCHIEREN WIR]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Kreis]
+KEY[E1424  08  D 3/4]
+MEL[  -1_-3_-5_  -5_1-5-5_
+    -6-6-6-61-6  -5_-5-4-3_
+    -5-5-5-5-5-5  -6-6-6-6-6-6
+    -7-7-7-7-7-7  1131-5-5
+    -6-6-5_-4_  -3_-5_1_
+    334_-7_  1__0_
+    -5-5-5-5-5-5  -6-6-6-6-6-6
+    -7-7-7-7-7-7  1131-5-5
+    -6-6-5_-4_  -3_-5_1_
+    334_-7_  1__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe]

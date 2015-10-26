@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Juerg Drachentoedter"
+    HERR KOENIG WAS RUFEST DU ACH UND WEH]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1037  08  F 6/4]
+MEL[32  1_1_2_3_3_4_  5_.6543__
+    32  1_1_2_3_3_4_  5_.6543__0_  6__6_4__0_
+    5__543__5_  5_.4432__
+    2_  3_3_4_5_2_4_  3_.42_1__ //] >>
+FCT[Romanze, Ballade]

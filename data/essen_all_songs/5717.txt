@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Reif und Schnee]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0155  08  F 4/4]
+MEL[1_  3_3_4_4_  5_5_1_1_  5_.55_5_  2__0_
+    2_  3_4_5_4_  3_21-7_-7_  -6_-5_-6_-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus 4 Stellen zusammengesetzt, die 1611 in Melch. Francks
+    Fasc. quodlib. No. 7 vorkommen.]

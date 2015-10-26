@@ -1,0 +1,13 @@
+FINK
+CUT[ALS DER SANDWIRTH VON PASSEIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0568  16  F 3/4]
+MEL[-5_-5_  1__1__1_2_  3b_.21__
+    1_2_  3b_4_5__3b_1_  -7b__-5__
+    -7b_-7b_  3b__3b__3b_4_  5_.43b__
+    3b_4_  5_6b_7b__5_3b_  2__-7b__
+    7b_7b_  7b__6b__6b_6b_  6b__5__
+    5_5_  +1__.7b_6b_5_  6b__4__
+    -5_-5_  1__.-7_1_2_  3b_2_1__
+    1_2_  3b_4_5__3b_1_  3b_2_1__ //] >>
+FCT[Soldaten - Lied]

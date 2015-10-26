@@ -1,0 +1,11 @@
+F[ERK2
+CUT[GUTER HIMMEL ICH MUSS SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hannover]
+KEY[E0792A 08  F 4/4]
+MEL[  -5_1_-6_-6_  4_2_3_1_
+    -5_-5_-6_-6_  4_-7_1_0_
+    -5_1_-6_-6_  4_2_3_1_
+    -5_-5_-6_-6_  4_-7_1_0_
+    4_.53_1_  322_3_1_
+    4_.53_1_  322_1_0_ //] >>
+FCT[Abschieds - Lied, Liebe]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Schoen Heinrich wollt' spazieren gehn,]
+CNR[Redinchen wollte mit ihm gehn,]
+REG[Mitteleuropa, Deutschland / Polen, Grenzmark - Westpreussen, Kreis
+    Flatow, Dollnik]
+SRC[2, S. 79
+    1904 aufgezeichnet]
+KEY[Q0041C 08  F 6/8]
+MEL[-5  1_33_2  2_-7-5_
+    2  2_66_5  5_31_
+    5  4_2-5_2  2_11_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Kleinere Melodievariante abgedruckt.]

@@ -1,0 +1,8 @@
+F[ERK2
+CUT[DAS MAEGDLEIN WILL EIN FREIER HABN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0859C 16  F 6/8]
+MEL[-5_  1__1_1__+1_  +1_7_6_5__
+    3_  4__3_2__1_  -7_.12_-5__
+    12  3__4_531_12  3__4_531_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

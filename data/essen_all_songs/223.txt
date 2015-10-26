@@ -1,0 +1,18 @@
+BOEHME
+CUT[IN DEM GOLDNEN STRAHL UEBER BERG UND THAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0266  16  A 2/4]
+MEL[-5-5  1_2-71_-5-5  3_423_
+    33  254#321-7-6  -6__-5_
+    -5-5  4_.32_-5-5  3_.21_
+    11  2_22-5-6-7-5  1_3_1_ //] >>
+FCT[Stimmungs - Lied, Natur]
+BOEHME
+CUT[IN DEM GOLDNEN STRAHL UEBER BERG UND THAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0266  16  A 2/4]
+MEL[-5-5  1_2-71_-5-5  3_423_
+    33  254#321-7-6  -6__-5_
+    -5-5  4_.32_-5-5  3_.21_
+    11  2_22-5-6-7-5  1_3_1_ //] >>
+FCT[Stimmungs - Lied, Natur]

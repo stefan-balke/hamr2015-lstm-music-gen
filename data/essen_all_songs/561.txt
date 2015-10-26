@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[KA BAUER WAER ICH NIE BLEIBE]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0145  08  C 3/8]
+MEL[-5  3_3  323  42
+    2  3_3  432  1_
+    1  3_3  323  42
+    -7  -5_1  332  1_
+    -5  3_3  323  42
+    -5  2_2  212  31
+    1  -7-51  443  2_
+    1  -7-51  332  1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

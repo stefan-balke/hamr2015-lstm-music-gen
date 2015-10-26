@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es begab sich ein Jaeger auf's Jagen]
+CNR[drei Stuendelein vor seinen Tage.]
+REG[Mitteleuropa, Oesterreich / Italien, Sued - Tirol, Feldthurns]
+SRC[7, S. 215
+    1907 aufgezeichnet]
+KEY[Q0152H 16  G 3/8]
+MEL[33  3_2_1_  1_-7_1_  2_-7_
+    4_  4_3_2_  2_1_2_  3_1_
+    5_  3_3_3_  3_2_1_  5__
+    4_  3_3_3_  2_2_2_  1__ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]

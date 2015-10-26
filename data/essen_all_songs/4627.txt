@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Aus der Passion]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0543A 02  F 6/2]
+MEL[1  1_53_1  5_65_
+    5  3_4554  3_12_2  1_.0_
+    3  3_3345  5432_
+    3  1235_4  3132_2  1_.^_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Coelner Gsgb. 1623 S. 137]

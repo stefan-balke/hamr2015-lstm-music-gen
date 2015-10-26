@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Pfaffenschlich"
+    DER GRAF STAND OBEN AUF SEINEM SCHLOSS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1034  16  D 6/8]
+MEL[5_  +1__7_+1_5_+2_  +3b_+2_+1_+2__
+    5_  +1__7b_6b_6b_5_  5__4_5__
+    2_  5_4_5_3b_1_+1_  7b_6b_545_3b_
+    +3b_  +2__+1_7_5_+1_  +1__7_+1__ //] >>
+FCT[Romanze, Ballade, Babenberger Sage]

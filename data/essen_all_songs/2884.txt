@@ -1,0 +1,9 @@
+F[ERK1
+CUT[MARIA THERESIA ZEUCH NICHT IN DEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0327  08  C 3/4]
+MEL[(567)  +1_.55_  5_.35_  4_3_2_  1_0_
+    (567)  +1_.55_  5_.35_  4_3_2_  1_0_
+    3_  2_2_2_  2_.34_  5_.43_  2_0__
+    +1_.55_  5_.35_  4_3_2_  1_0_ //] >>
+FCT[historisches Lied, Siebenjaehriger Krieg (1756)]

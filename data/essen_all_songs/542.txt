@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[HOLZAPFELBAEUMCHEN, WIE SAUER IST DER WEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinbayern]
+KEY[Z0127  08  G 2/4]
+MEL[   1_31  5_4
+    4  3322  1_0_
+    1_31  5_4
+    4  3322  1_0_
+    1131  5_4
+    4  3_22  1_0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

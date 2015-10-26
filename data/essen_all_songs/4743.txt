@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Der grimme Tod]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0649  02  D 4/2]
+MEL[    5_55  453b2  1_
+    5_  7b+156  7b_5_
+    5_55  453b2  1_
+    5_  7b+156  7b_5_
+    7b_7b7b  5_3b_  443b_  0_
+    5_  5545  3b21_
+    5_54  5_6_  7b54_  0_
+    +1_  +2+157b  6_5_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Paderborner Gsgb 1617 S. 328]

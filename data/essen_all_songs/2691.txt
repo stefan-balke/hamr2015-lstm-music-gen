@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES FREIT EINE JUNGE MARKGRAEFIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0109A 08  F 4/4]
+MEL[13  5_5_5_65  544_0_
+    54  3_3_321_  2_.32_
+    32  1_3_531_  2__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

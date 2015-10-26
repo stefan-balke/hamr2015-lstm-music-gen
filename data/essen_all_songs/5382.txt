@@ -1,0 +1,10 @@
+KINDER
+CUT[SCHLAF DU LIEBE KLEINE]
+REG[Europa, Mitteleuropa, Deutschland, Elberfeld]
+KEY[K0028  16  F 2/4]
+MEL[  5_3_+1_6_  5__3_0_
+    5_3_+1_6_  5__3_0_
+    2_5_3_1_  -7_1_2__
+    2_5_3_1_  -7_1_2__
+    1_3_5_.4  3_2_1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

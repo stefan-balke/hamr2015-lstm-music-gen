@@ -1,0 +1,12 @@
+F[ERK3
+CUT[SOLLT ICH EINEM BAUERN DIENEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken, Wuerzburg]
+KEY[E1373  08  G 4/4]
+MEL[  1_.11_13  3_.2211_
+    3_.33_35  5_.4433_
+    2_.22_2_  5_5_3__
+    1_.35_5_  6_.5544_
+    2_.34_6_  5_.4433_
+    1_.-51_2_  3_.21__
+    5_.43_3_  2_2_1__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

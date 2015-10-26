@@ -1,0 +1,13 @@
+FINK
+CUT[IN ALLEN GUTEN STUNDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0714  08  A 4/4]
+MEL[-5_  5_.43_2_  1_.-5-5_
+    1_  2_1_4_3_  2__
+    5__  5_.43542  1_.-5-5_
+    1_  6_5_4_3_  2__
+    2__  2_2_6_.4#  5_.22_
+    3_  -6_-6_2_.1  -7__0_
+    -5_  4_2_-7_-5_  5_.43_
+    5_  1_1_4_2-7  1__0_ //] >>
+FCT[Geselligkeits -, Bundes - Lied]

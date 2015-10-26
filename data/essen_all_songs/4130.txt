@@ -1,0 +1,9 @@
+F[ERK3
+CUT[STRASSBURG MUSS ICH LASSEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+KEY[E1600B 16  F 3/4]
+MEL[1_3_  5__5__6543  3_.23__
+    2_3_  4__.6_5_4_  3__0__
+    2_3_  4__6__5432  3_.45__
+    +1_6_  5__3__5_54  3__0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ICH STUND AN EINEM MORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0073  04  A 6/4]
+MEL[5  1_42_5  2_.1_
+    2  3b_23b_4  5_.0_
+    5  1_42_5  2_.1_
+    2  3b_23b_4  5_.0_
+    5  7b_6b5_6b  5_43b_
+    5  4_3b2_5  3b_.2_
+    5  4_3b4_2  1_.0_ //] >>
+FCT[Sagen - Lied, Romanze]

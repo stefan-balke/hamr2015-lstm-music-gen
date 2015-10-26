@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ICH STAND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0061  16  D 2/4]
+MEL[13  5_5+15342  3__2_
+    2_  3_354#_4#6  5__0_
+    (567)  +1_+1_+1765  6__5__  4__3_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Sagen - Lied, Romanze]

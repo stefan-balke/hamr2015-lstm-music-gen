@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die misshandelte Schwiegertochter
+    't was op een zondag na de noen]
+CNR[dat de koning zou vertrekken.]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[4, S. 150
+    1506 gedruckt]
+KEY[Q3076B 08  A 3/4]
+MEL[-7b1-7b  3b_3b_3b2  1_
+    1121  3b_3b_3b_  1_0 //] >>
+FCT[Ballade, Tod]
+CMT[Melodievergleich zu Q0076, anderes Lied "Auf den Tod Philipps des
+    Schoenen" . Verzierung (Vorschlag) in der letzten Zeile.]

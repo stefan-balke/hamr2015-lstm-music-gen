@@ -1,0 +1,13 @@
+F[ERK3
+CUT[GLAUBT MIRS DOCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1099  08  G 3/4]
+MEL[-5-5  1_.122  3_1_
+    13  5_3_42  1__
+    -5-5  1_.122  3_1_
+    13  5_3_42  1__
+    -71  2_2_34#  5_2_
+    22  +1_.234#  54#53
+    42  1_.122  3_1_
+    13  5_.342  1__ //] >>
+FCT[Wunsch - Lied, Luegen - Maerchen]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Susanna, willt du mit?]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0290B 04  G 4/4]
+MEL[1  3b23b4  5_0
+    1  3b23b4  5_0
+    5  5555  43b2
+    1  5555  43b2
+    3b  211-7  1_.
+    5  3b422  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Praetorius Mus. Sion. VII 1609 No. 75]

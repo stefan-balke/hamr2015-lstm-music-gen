@@ -1,0 +1,12 @@
+KINDER
+CUT[SCHNECKHAUS SCHNECKHAUS STECKE DEINE HOERNER AUS]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Stotternheim]
+KEY[K0885  08  G 2/4]
+MEL[  5_3_  5_3_
+    1234  553_
+    1234  553_
+    1234  5_3_
+    1234  5_3_
+    553_  553_
+    553_  6543  2_1_ //] >>
+FCT[Kinder -, Tier - Lied]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[IN DEM FRUEHLING IN DEM SOMMER]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Angermuende]
+KEY[E0731B 16  F 3/4]
+MEL[1_3_  5__3_1_4_6_  6_5_5__
+    1_3_  5__3_1_4_6_  6_5_5__
+    1_3_  5__+1__6_+16  5__.
+    6_5_4_  3__5__4_54  3__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

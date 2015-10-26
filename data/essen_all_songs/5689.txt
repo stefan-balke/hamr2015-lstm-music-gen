@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die Sonne ist verblichen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0116B 08  G 4/4 6/4 8/4]
+MEL[1_  1__5_7b__6_5__  2___
+    1__2__  3b__.4_  2__0_
+    1_  1__5_7b__6_5__  2___
+    3b_1__2_  3b__.4_  2__0_
+    4_  4_4_4_3b_  2__1__  ^__2_3b_  ^_1_-7b_1_  2__0_
+    2_  -7b__-7b_1_  ^_2_3b__  1___
+    5__7b__  6_5__4_  3b__.21  -7__
+    1__  3b_.3b3b_4_  2__1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M. Praetorius Mus. Sion. VIII. No. 229. "Wacht auf ihr Christen alle"]

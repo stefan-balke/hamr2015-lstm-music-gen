@@ -1,0 +1,18 @@
+BOEHME
+CUT[GOLDNE ABENDSONNE WIE BIST DU SO SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0226  16  G 3/4]
+MEL[  3_.45__4__  3__2__0__
+    1_.12__5__  3___0__
+    6__.5_4_3_  5__.4_
+    3_2_  1__3__2__  1___0__ //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[GOLDNE ABENDSONNE WIE BIST DU SO SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0226  16  G 3/4]
+MEL[  3_.45__4__  3__2__0__
+    1_.12__5__  3___0__
+    6__.5_4_3_  5__.4_
+    3_2_  1__3__2__  1___0__ //] >>
+FCT[Tageszeiten - Lied, Abend]

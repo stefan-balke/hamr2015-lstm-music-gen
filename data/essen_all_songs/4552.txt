@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Mann ins Heu]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0471  08  F 6/4]
+MEL[3_  3__3_3__3_  3__3_3__3_  3__3_3__1_
+    2_.34_3_.21_  2_.34_3_.21_  2__.2_0_
+    2_  2__2_3__3_  4__4_3__
+    3_  2__1_1__-7_  1__.1_0_
+    1_  -6__-6_-7__-7_  1__1_1__
+    1_  -6__-6_-7__-7_  1__.1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Gassenhawerlin 1535 No. 13.]

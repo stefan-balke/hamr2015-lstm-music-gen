@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ALS DIE GROSSE STADT BELGARAD]
+REG[Europa, Mitteleuropa, Deutschland, Franken; Oesterreich]
+KEY[E0336  08  G 3/4]
+MEL[-5-5  1_3322  1_
+    1_12  3_5_42  3__
+    53  2_.122  345_
+    53  2_.122  345_
+    -5-5  1_3_22  3__
+    54  3_5_22  1__ //] >>
+FCT[historisches Lied, Krieg gegen die Tuerken (1789)]

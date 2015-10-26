@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES KAM EIN BETRUEBTER REITER DAHER]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[E0181A 16  G 4/4]
+MEL[3_2_  1__1_1_1_2_3_4_  5__5_.55__
+    6__  5__4_.44__5_4_  4_.33_3_3__
+    5__  3__2_2_2__1_2_  3__3__3__
+    5_5_  3__2__2__1_2_  3__3__3__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

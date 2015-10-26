@@ -1,0 +1,11 @@
+F[ERK1
+CUT[AUF ERDEN ZU ALLER STUND]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[E0114  08  G 4/4]
+MEL[-5_  1__-7_1_  2__1_
+    2_  3_5_4_3_  2__0_
+    12  3_3_3_23  4_.54_
+    43  2_2_2_34  5_.65_
+    5_  1__.3_  2__.12  3_3_542_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, betrogene Liebe
+    Ballade ?]

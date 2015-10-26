@@ -1,0 +1,11 @@
+F[ERK3
+CUT[LUSTIG IST DAS ZIGEUNERLEBEN]
+REG[Europa, Mitteleuropa, Italien, Tirol, Meran]
+KEY[E1585  16  F 6/8]
+MEL[  5__5_5_6_7_  +1__5_3__1_
+    5__5_5_6_7_  +1__5_3__1_
+    6__6_+1_7_6_  6_.55_5__.
+    4_.44_6_5_4_  4_3_3_3__.
+    4_.32_1_.33_  5__.5_.67_  +1__.
+    6__.  5_.33_5_.42_  1__.0__. //] >>
+FCT[Staende - Lied, Zigeuner]

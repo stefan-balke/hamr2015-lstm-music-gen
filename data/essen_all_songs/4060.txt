@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ACH SCHAEFER WILT DU BEUTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1489  04  F 4/4]
+MEL[1  1133  5_30
+    5_+1_  654
+    3  4323  4_2
+    3  4323  456_
+    5322  1_. //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

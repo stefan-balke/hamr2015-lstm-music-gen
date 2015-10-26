@@ -1,0 +1,22 @@
+BOEHME
+CUT[WAS IST DES DEUTSCHEN VATERLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0002A 16  C 4/4]
+MEL[-5__  -5__.1_1__.-7b_  -7b_.-6-6__0__
+    -6__  -2__.-2_-5__.-4_  -4_.-3-3__0__
+    1__  -7__.-5_-5__.-7_  2_.11__0__
+    1__  -7__.2_4__.-7_  2_.11__0_
+    1_-7_1_  2___0_2_1_2_  3___0_
+    1_-7_1_  -6__2__1__-7__  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[WAS IST DES DEUTSCHEN VATERLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0002A 16  C 4/4]
+MEL[-5__  -5__.1_1__.-7b_  -7b_.-6-6__0__
+    -6__  -2__.-2_-5__.-4_  -4_.-3-3__0__
+    1__  -7__.-5_-5__.-7_  2_.11__0__
+    1__  -7__.2_4__.-7_  2_.11__0_
+    1_-7_1_  2___0_2_1_2_  3___0_
+    1_-7_1_  -6__2__1__-7__  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

@@ -1,0 +1,13 @@
+F[ERK1
+CUT[SCHOENSTES KIND ZU DEINEN FUESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E0504  08  C 3/4 2/4]
+MEL[  53+1656  5_4_3_
+    5+164  3_2_  1_0_
+    53+1656  5_4_3_
+    5+164  3_2_  1_0_
+    23  4_2_34  5_3_
+    23  4_2_34  5_3_0_
+    53+1656  5_4_3_
+    5+164  3_2_  1_0_ //] >>
+FCT[Liebes - Lied, Liebeslust]

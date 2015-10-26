@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ICH WEISS EIN FEIN BRAUNS MAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1090  08  C 4/4]
+MEL[1_  1_1_1_1_  5_5_5_
+    5_  4_5_6_5_  5_4_3__  0_
+    3_4_4_  5_3_4_3_  5_
+    3_4_3_  5__4_3_  ^_212__  1___  0__. //] >>
+FCT[Wunsch - Lied, Luegen - Maerchen]

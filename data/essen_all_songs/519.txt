@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[EIN MAEDCHEN VON ACHTZEHN JAHREN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0104  08  E 3/4]
+MEL[1_  1_5_5_  5_4_6b_  5__3b_  2__
+    23b  4_.3b23b  4_5_3b_  2__
+    12  3b_.21_  3b_.21_  4__6b_  5__
+    4_  3b_.21_  2_.3b2_  1__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

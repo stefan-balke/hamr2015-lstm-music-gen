@@ -1,0 +1,20 @@
+BOEHME
+CUT[IM WALDE MUSS ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0176  16 Bb 6/8]
+MEL[-5_  1__1_1_-7_1_  -7__-6_-5__
+    -5_  1__1_2_1_2_  3__.0__
+    13  5__5_5_6_5_  5__4_2__
+    5_  3__3_2_1_2_  1__.
+    5__.  3__3_2_.12_  1__.0__ //] >>
+FCT[Natur - Lied, Wald]
+BOEHME
+CUT[IM WALDE MUSS ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0176  16 Bb 6/8]
+MEL[-5_  1__1_1_-7_1_  -7__-6_-5__
+    -5_  1__1_2_1_2_  3__.0__
+    13  5__5_5_6_5_  5__4_2__
+    5_  3__3_2_1_2_  1__.
+    5__.  3__3_2_.12_  1__.0__ //] >>
+FCT[Natur - Lied, Wald]

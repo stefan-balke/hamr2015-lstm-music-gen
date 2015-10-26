@@ -1,0 +1,10 @@
+VARIANT
+CUT[Das Madl von der Gmaa hat schoene weisse Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Langenreuth]
+KEY[V0006B 16  D 2/4]
+MEL[3_  6_5_3_5_  3__0_
+    3_  6_.53_5_  4__0_
+    5_  5_.55_3_  4_7_7_
+    7_  5_5_4_2_  3_+1_+1_ //] >>
+FCT[Liebes - Lied]
+CMT[Bemerkung: "wird offenbar mit Schlussbildung wiederholt"]

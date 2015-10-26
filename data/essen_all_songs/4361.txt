@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WER WEISS WORAUS DAS BRUENNLEIN QUILLT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+KEY[E2005  08  F 4/4]
+MEL[13  5_5_5_64  3_3_3_
+    3_  2_3_543_  3__2_
+    13  5_5_5_64  3_3_3_
+    3_  2_3_543_  3__2_
+    1_  -7_.24_.2  1_3_5_
+    3_  4_.66_.4  4__3_
+    1_  -7_.24_.2  1_3_5_
+    3_  4_.66_.4  4__3_ //] >>
+FCT[geistlich, Lob - Lied]

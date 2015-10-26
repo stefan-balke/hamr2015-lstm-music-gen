@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit seiner Madam]
+CNR[vom Abend bis zum Morgen,]
+REG[Osteuropa, Ungarn (deutsch - ungarisch)]
+SRC[3, S. 64
+    ????]
+KEY[Q0055m 16  C 6/8]
+MEL[-5_  3__3_3_3_4_  6_.55_5__
+    3_  6__5_4__2_  4__.3__
+    -5_  3__3_3__4_  6__5_5__
+    3_  6__5_4__2_  4__.3__ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Verselbstaendigter Vordersatz ?]

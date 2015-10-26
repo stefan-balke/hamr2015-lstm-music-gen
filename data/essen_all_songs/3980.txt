@@ -1,0 +1,13 @@
+F[ERK3
+CUT[NUN ADJES JETZT MUSS ICH FORT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus; Lahntal; Odenwald]
+KEY[E1397  08  G 4/4]
+MEL[-51  1_3_3_42  2_1_0
+    1-71  2_5_5_43  3_2_0_
+    54  33333_23  4__0_
+    43  22222654  3_
+    565_24  3__0_
+    54  33333_23  4__0_
+    43  22222654  3_
+    565_24  3__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Deserteur]

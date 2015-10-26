@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Naechten als ich schlafen ging,]
+CNR[gedacht ich an die Liebe,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[6, S. 237
+    1842 gedruckt in Leipzig]
+KEY[Q0137I 08  G 3/4]
+MEL[  1-51_1_  -712_.
+    2  321_2_  432_0
+    4  352_.4  351_.
+    2  315_31  2_1_0_ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]
+CMT[Gedruckte, "bereinigte" Fassung von Q0137J. Verzierung (Vorschlag) .]

@@ -1,0 +1,9 @@
+KINDER
+CUT[EIJENBEIJEN BISCH BISCH BISCH]
+REG[Europa, Mitteleuropa, Deutschland, Weimar]
+KEY[K0038  08  G 2/4]
+MEL[  5533  11-50
+    5533  11-50
+    1122  3322
+    312-5  1111 //] >>
+FCT[Kinder -, Wiegen - Lied]

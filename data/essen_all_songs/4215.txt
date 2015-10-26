@@ -1,0 +1,17 @@
+F[ERK3
+CUT[ICH BIN EIN MUSIKANTE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Thueringen]
+KEY[E1748A 16  G 2/4]
+MEL[-5_  1_1_3_3_  5__3_
+    3_  4_4_2_2_  1__0_
+    -5_  1_1_3_3_  5__3_
+    3_  4_4_2_2_  1__0_
+    3_  4__2__  3__1_
+    3_  4_4_2__  3__1_0_
+    4__2__  3__1_0_
+    4__2__  3__1_
+    -5_  1_.11_3_  5_.55_
+    3_  4_.44_2_  1__0_
+    -5_  1_.11_3_  5_.55_
+    3_  4_.44_2_  1__0_ //] >>
+FCT[Scherz -, Spiel - Lied, Musikantenspiel]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[STETS IN TRAUERN MUSS ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen, Obernburg]
+KEY[E0722B 08  G 3/4]
+MEL[-5-5  1_-5_-6-7  1-5-3_
+    13  2_32-62  -5_0_
+    -5-5  43221-6  -6-5-3_
+    -5-7  1_3_2-7  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Abschied]

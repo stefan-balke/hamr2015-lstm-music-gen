@@ -1,0 +1,11 @@
+FINK
+CUT[DAS LEBEN GLEICHET DER BLUMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0747  16  A 6/8]
+MEL[1_  3_.23_1_2_3_  4__2_2__
+    -7_  -7_-6_-7_1_-5_2_  3__0__.
+    1_  5_.65_3_.45_  4_.34_2__
+    13  5_.65_3_.45_  4_.34_2__
+    4_  3_.21_2_.1-7_  1__.
+    -6__.  -5_1_3_2_.1-7_  1__0__. //] >>
+FCT[Geselligkeits -, Trink - Lied]

@@ -1,0 +1,18 @@
+KINDER
+CUT[BLAUER BLAUER FINGERHUT]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2187  08 Eb 2/4]
+MEL[  5566  553_
+    5566  553_
+    +1333  3_2_
+    5566  553_
+    5566  553_
+    55+15  5_3_
+    55+15  5_3_
+    +1365  553_
+    +1333  3_2_
+    5566  553_
+    +1333  3_2_
+    5566  553_
+    +1365  3_1_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

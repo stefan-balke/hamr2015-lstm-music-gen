@@ -1,0 +1,10 @@
+DVA
+CUT[Sieben Straeuss
+    Es wollt ein Maedelein frueh aufstehn,]
+CNR[sieben Straeuss hat es am Fenster stehn]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0069  08  G FREI]
+MEL[1_1_3_5_.65_2_3_4_0_
+    553_2_3_1_-7_132_
+    5_.7b6_5_54312__1_ //] >>
+FCT[Ballade, abgewiesener Liebhaber]

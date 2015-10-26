@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es waren drei Gesellen,]
+CNR[die taten sich bereden,]
+REG[Mitteleuropa, Deutschland (DDR) , Pommern, Kr. Ueckermuende,
+    Sandfoerde]
+SRC[6, S. 270
+    1930 aufgezeichnet]
+KEY[Q0139A 08  G 4/4]
+MEL[-5_  1_-7-6-5_1_  -3_-511_
+    -5_  1_-7-6-5_1_  -3_-511_0
+    -5  -53333_05  54642_0
+    -7  -72222_03  32321_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf; Spinnstuben - Lied (?)]

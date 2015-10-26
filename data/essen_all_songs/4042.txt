@@ -1,0 +1,11 @@
+F[ERK3
+CUT[JETZUND NEHM ICH MEINE BUECHSE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[E1468A 08  G 3/4]
+MEL[-5-5  1_5_31  2_4_
+    22  3_3_53  2__
+    23  4_6_+16  5_3_
+    5+1  765654  3__
+    23  4_6_+16  5_3_
+    5+1  765654  3__ //] >>
+FCT[Staende -, Jaeger - Lied, Wilderer]

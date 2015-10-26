@@ -1,0 +1,13 @@
+VARIANT
+CUT[nebal nebal sir dix sust]
+REG[Europa, Mitteleuropa, Schweiz, Oberwallis]
+KEY[V0001  08  G 2/4]
+MEL[-7b-7b-7b-7b  -7b_1_
+    -7b-7b-7b-7b  1-7b(-7b-7b-7b)
+    -7b-7b-7b-7b  1_0_
+    -7b-7b-7b-7b  -7b_1_
+    -7b-7b-7b-7b  -7b-7b1_
+    -7b-7b-7b-7b  -7b-7b1_  0__
+    -7b-7b-7b-7b  -7b-7b1-7b
+    -7b-7b-7b-7b  -7b-7b10 //] >>
+FCT[Brauchtum, Beschwoerung (Nebel)]

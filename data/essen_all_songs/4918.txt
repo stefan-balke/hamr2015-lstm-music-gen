@@ -1,0 +1,11 @@
+DVA
+CUT[Nikolaus, komm in unser Haus
+    pack die grosse Tasche aus]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[D0267  08  G 4/4]
+MEL[555_5654  3_3_3__
+    4_4_4543  2_2_2__
+    1_2_3_4_  56565__
+    +1_5_5654  3_2_5__
+    +1_5_5654  3_2_1__ //] >>
+FCT[Ansinge - Lied]

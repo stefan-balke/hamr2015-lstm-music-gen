@@ -1,0 +1,15 @@
+F[ERK2
+CUT[SCHARRET DAS FEUER ZU KOHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen - Saathen]
+KEY[E0973B 16  A 3/8]
+MEL[  1_1_1_  2_1_-7_  1_-5_0_
+    1_1_1_  2_1_-7_  1_-5_-5_
+    3_3_3_  3_3_3_  4_4_
+    4_  2__2_  2_2_22  5_5_0_
+    1_1_1_  2_1_-7_  1_-5_0_
+    1_1_1_  2_1_-7_  1_-5_-5_
+    3_3_3_  3_3_3_  4_4_
+    4_  2__2_  2_2_22  5_5_
+    -5_  1_1_1_  2_1_-7_  1_1_0_ //] >>
+FCT[Tanz - Lied, Reigen]
+CMT[Schluss - Strophe zu Lied E0973A]

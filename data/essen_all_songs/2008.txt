@@ -1,0 +1,10 @@
+FINK
+CUT[DER WINTER IST NUN BALD VORBEI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0242  16 Bb 6/8]
+MEL[-5_  -5_.-6-5_1__1_  2_1_-7_1__
+    13  5__5_5_4_3_  2__.0__
+    2_  2__5_-7__2_  -6_-7_1_-7__
+    -5_  1__1_2_1_2_  3__0__.
+    5_  5_4_3_2_1_2_  1__0__. //] >>
+FCT[Jugend - Lied, Jahreszeiten, Fruehling]

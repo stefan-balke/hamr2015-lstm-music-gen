@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Graserin und Ritter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0088  04  E 4/2]
+MEL[5_  6b_6b_5_+1_  7b_7b_6b__  0_
+    5_6b_7b_  +1_7b6b5_4_  3b__0_
+    3b_  6b_543b_6b_  3b__1_
+    3b_  6b_543b_2b_  1__3b_6b_  5_4_3b_.2b  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie in Bicinia II, 83. Von Boehme rhythmisch vereinfacht.]

@@ -1,0 +1,12 @@
+DVA
+CUT[Falkenlied
+    Ich geseh mir zwei Falken fliegen,]
+CNR[sie fliegen wohl ueber den Rhein]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0056  08  G FREI]
+MEL[11111_  5_.4543b21_0_
+    5_6b6b5_4_5_43b2_0_
+    11_1_  5_.4543b21_0_
+    3b_23b4_2_5_3b21_ //] >>
+FCT[Legenden - Lied]
+CMT[Inzipit = Variante zum Lied]

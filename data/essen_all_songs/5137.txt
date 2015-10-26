@@ -1,0 +1,13 @@
+BOEHME
+CUT[MACHT MAN INS LEBEN KAUM DEN ERSTEN SCHRITT]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald; Dillkreis]
+KEY[B0672  08  G 4/4]
+MEL[-513  5_.65254  3_0_.
+    343  -6_.21-7-6-7  1_0_.
+    -513  5_.65254  3_0_.
+    343  -6_.21-7-6-7  1_0_.
+    -6-6-7  1_.1-712-6  -7_0_.
+    -5-72  5_.65254  3_0_.
+    -5-5-5  1_.11355  6_0_.
+    +153  246_0-532  1__0 //] >>
+FCT[Moral - Lied, Lebenslauf, Klage]

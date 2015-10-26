@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Ach Mutter, liebe Mutter,]
+CNR[mein Kopf thut mir so weh;]
+REG[Mitteleuropa, Deutschland (BRD) , Schleswig Holstein,
+    deutsch - daenisches Grenzgebiet]
+SRC[1, S. 217
+    1853 gedruckt]
+KEY[Q0020J 16  G 6/8]
+MEL[3b_  2_.11_1_2_3b_  2__.1__
+    1_  2_.3b4_5_.43b_  2__.0__
+    1_  2__1_2_3b_4_  5__6b_5__
+    4_  3b_2_1_2_.3b2_  1__.0__ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]

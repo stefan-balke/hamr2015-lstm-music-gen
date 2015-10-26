@@ -1,0 +1,13 @@
+BOEHME
+CUT[WARUM SIND DIE THRAENEN UNTERM MOND SO VIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0743  08  G 4/4]
+MEL[  1_1_-7_-7_  -6__-5__
+    5_1_-7_1_  2__0__
+    3_3_4#_4#_  5__2__
+    -5_-5-6-7_-6_  -5__0__
+    2_2_3_3_  4__2__
+    5_5_4_3_  2__0__
+    1_1_-7_-7_  -6__-5__
+    5_123_2_  1__0__ //] >>
+FCT[Moral - Lied, Trost, religioes]

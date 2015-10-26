@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Jaeger und Graserin
+    Es wold ain Maettischen wol fruuj aufschtaejen.]
+CNR[Si wold in Wolt grossen gaejen.]
+REG[Osteuropa, Ungarn, Wessprim, Veszpremfajsz]
+SRC[7, S. 230
+    1932 aufgezeichnet]
+KEY[Q0154A 16  D 3/4]
+MEL[1__  1__3__5_5_  3__1__3__  5_6_5__5_6_  4__0__
+    7__  7_+1_+2__+1__  7_6_5_4_4_5_  3___
+    5_6_  +1_7_+1_5_+1__  +3___+1__  +1__6__
+    +1__  7__+1__5_.5  6__7__7__  +1___ //] >>
+FCT[Ballade, Verfuehrung, Verlassen]

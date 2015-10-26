@@ -1,0 +1,12 @@
+F[ERK3
+CUT[RARITAETE SEIN ALLZUSCHOENE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1722  16  C 2/4]
+MEL[  5_5_+1_5_  3_5_1__
+    5_+1_+1_+3_  +2_7_5_0_
+    5_5_+1_5_  3_5_1__
+    5_+1_+1_+3_  +2_7_5_0_
+    +3_+1_+1_+2+3  +4_+2_+2__
+    +3_+1_+1_+2+3  +2_7_5__
+    +1_.7+1_3_  4_5_1__ //] >>
+FCT[Scherz - Lied, Guckkasten - Lied]

@@ -1,0 +1,12 @@
+KINDER
+CUT[ES KOMMEN DREI HERREN AUS NINIVE]
+REG[Europa, Mitteleuropa, Deutschland, Siegburg bei Bonn]
+KEY[K2270A 08  G 6/8 2/4]
+MEL[-5  111-7-7-7  1_-5-5_
+    -5  -6_-6-7_-7  1_.1_
+    -5  111-7-7-7  1_-5-5_
+    -5  -6_-6-7_-7  1_.1_
+    -5  1-7-6-5  -5_0
+    -5  1-7-6-5  -5_0
+    -5  -6_-6_  -7_-7_  1__  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

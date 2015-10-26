@@ -1,0 +1,12 @@
+F[ERK2
+CUT[UEBERS JAHR MEIN SCHATZ]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Weissenburg,
+    Niedersteinbach]
+KEY[E0790  08  C 4/4]
+MEL[-3-5  1_-7_-6_-5-3  -5__0_
+    -51  -7_.-2-4_-6_  -5__-30
+    -5-5  -7_.-6-5_-4#_  -5-4#-3_0_
+    -5-5  -6_.-2-2_-3_  -4__.
+    -3-5  1_-7_-6_-5-3  -5__0_
+    -51  2_.1-7_-6-7  1__0_ //] >>
+FCT[Abschieds - Lied, Liebe; Matrosen - Lied]

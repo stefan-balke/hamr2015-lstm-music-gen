@@ -1,0 +1,22 @@
+BOEHME
+CUT[MAG AUCH HEISS DAS SCHEIDEN BRENNEN]
+REG[Europa, Mitteleuropa, Deutschland, Frauenberg (Nahe)]
+KEY[B0425  16 Eb 3/4]
+MEL[5_3_  6__.5_4_3_  2_.43__
+    3_5_  +1_.63__4#__  5___
+    5_3_  6__.5_4_3_  2_.43__
+    2_5_  5_4#_7__.6_  5___
+    7_.6  5__2__3_4_  6_.55__
+    6_5_  +1_.37__6__  5_.43__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[MAG AUCH HEISS DAS SCHEIDEN BRENNEN]
+REG[Europa, Mitteleuropa, Deutschland, Frauenberg (Nahe)]
+KEY[B0425  16 Eb 3/4]
+MEL[5_3_  6__.5_4_3_  2_.43__
+    3_5_  +1_.63__4#__  5___
+    5_3_  6__.5_4_3_  2_.43__
+    2_5_  5_4#_7__.6_  5___
+    7_.6  5__2__3_4_  6_.55__
+    6_5_  +1_.37__6__  5_.43__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

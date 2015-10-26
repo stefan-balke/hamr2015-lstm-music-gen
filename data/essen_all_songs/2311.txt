@@ -1,0 +1,15 @@
+FINK
+CUT[MAEDCHEN MIT DEM GRUENEN KRANZE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0791  08  E 2/4]
+MEL[  -5_.1  21-71  2_.3  1_0_
+    -5_.1  21-71  2_.3  1_0_
+    11-71  2_3_  2__  -7_0_
+    1121  -7_-6_  -5__  ^_0_
+    2222  2_3_  4__  1_0_
+    1111  1_2_  3__  -7_0_
+    1_1_  2_.-5  1_1_  2_0_
+    1_23  4_3_  2_-7_  1_0_
+    1_1_  2_.-5  1_1_  2_0_
+    1_23  4_3_  2_-7_  1_0_ //] >>
+FCT[Geselligkeits -, Tanz -, Soldaten - Lied]

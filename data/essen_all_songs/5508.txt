@@ -1,0 +1,11 @@
+KINDER
+CUT[DROBEN AUF DEM KIRCHHOF]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[K2221  16  C 2/4]
+MEL[  5_5_6_7_  5__3_
+    1_  5_5_3_6_  5__3_
+    1_  5_5_3_6_  5_5_3_
+    3_  5_5_3_6_  5__3_
+    55  5_4_3_55  5_4_3_
+    33  4_4_5_5_  3__0__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

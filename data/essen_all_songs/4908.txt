@@ -1,0 +1,17 @@
+DVA
+CUT[Gruenes Gras, gruenes Gras unter meinen Fuessen,
+    hab' verloren meinen Schatz, werd' ihn suchen mussen.]
+REG[Europa, Mitteleuropa, Deutschland, Harz, St. Andreasberg]
+KEY[D0235A 16  D 2/4 3/4]
+MEL[    5_4_3__  5_4_3__  5_5_6_5_  5__4__
+    4_4_2_3_  4_4_2__  4_4_5_.4  4__3__
+    5_4_3__  5_4_3__  5_5_6_5_  5__4__
+    4_4_2_3_  4_4_2__  4_4_5_.4  4__3__
+    3_4_5__  3_4_5__.5_  +1_6_5__.
+    5_  6_.54__.2_  6_.53__.
+    5_  5__.4_2_4_  6__.5_3_
+    1_  1_2_3_4_  5__5__  6_.66_6_  5__.
+    5_  4_.44_4_  3__3__  5_.55_5_  1__0__ //] >>
+FCT[Kinder - Lied, Tanzlied]
+CMT[in der dritten Zeile rhythmisch korrigiert; Inzipit = Variante; Keine
+    Variante zum folgenden und zum vorigen Lied !! (DVA - Signatur 235 d)]

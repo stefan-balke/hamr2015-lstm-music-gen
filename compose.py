@@ -118,17 +118,16 @@ class Composer:
         """Use a pre-trained neural network to compose a melody.
         """
         np.set_printoptions(threshold=np.nan)
-        for diversity in [0.2, 0.5, 1.0, 1.2]:
-	    print
+
+        for diversity in [0.2, 0.4, 0.6, 0.8, 1.0, 1.2]:
+            print
             print '----- diversity:', diversity
 
-	    SEED = self.dataset[3].transpose()
-	    SEED = SEED[self.window_size-1:]  # Use the window at the start. Subtract 1 since normal window size includes prediction.
-	    melody = np.expand_dims(SEED, axis=0)
-	    print len(SEED)
-	    print len(melody)
-
-	    print '----- Generating with seed:', melody
+            SEED = self.dataset[3].transpose()
+            SEED = SEED[:self.window_size-1]  # Use the window at the start. Subtract 1 since normal window size includes prediction.
+            melody = np.expand_dims(SEED, axis=0)
+            print len(SEED)
+            print len(melody)
 
 	    for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
 		print 'melody.shape', melody.shape

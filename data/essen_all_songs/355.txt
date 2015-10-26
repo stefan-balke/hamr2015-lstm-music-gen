@@ -1,0 +1,26 @@
+BOEHME
+CUT[WARUM BLICKT DOCH SO VERSTOHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben (?)]
+KEY[B0422  16  G 2/4]
+MEL[-5_-5_  -5_3_4_3_  3_2_
+    2_1_  1_-7_-6_-5_  -5_1_
+    1_3_  3_2_2_1_  -7_-6_
+    1_-7_  2_1_-7_-6_  -5_0_
+    2_2_  1_-7_-6_-5_  -5_1_
+    2_3_  4_4_2_1_  -7__
+    -5_-5_  5_5_4_3_  5_4_
+    2_1_  -71234_-7_  1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[WARUM BLICKT DOCH SO VERSTOHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben (?)]
+KEY[B0422  16  G 2/4]
+MEL[-5_-5_  -5_3_4_3_  3_2_
+    2_1_  1_-7_-6_-5_  -5_1_
+    1_3_  3_2_2_1_  -7_-6_
+    1_-7_  2_1_-7_-6_  -5_0_
+    2_2_  1_-7_-6_-5_  -5_1_
+    2_3_  4_4_2_1_  -7__
+    -5_-5_  5_5_4_3_  5_4_
+    2_1_  -71234_-7_  1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

@@ -1,0 +1,13 @@
+DVA
+CUT[Der arme Bauer
+    O, ich armer Lothringer Bur,]
+CNR[wie isch mir das Laewe sur!]
+REG[Europa, Mitteleuropa, Lothringen, Bettringen b. Holvingen
+    (Kr. Forbach)]
+KEY[D0061  08  G 3/4]
+MEL[55  5_553b1  2__
+    56b  5_.53b1  2_0
+    444  4_.456b  5_0
+    43b2  1_2_3b2  1_.0 //] >>
+FCT[Bauern - Klage]
+CMT[Inzipit = Variante zum Lied]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH SOLL UND MUSS EIN BULEN HABEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0859  08  F 4/4]
+MEL[  5__5_5_  5_5_4_5_  3__1__
+    3_.45_6_  ^_5__4_  5___
+    5__5_5_  5_5_4_5_  3__1__
+    3_456_5_  ^_432_2_  1___ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

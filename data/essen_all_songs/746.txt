@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Liebestreu"
+    ES WAREN ZWEI KOENIGSKINDER]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1011  16  A 3/8]
+MEL[3b_  1_1_2_  3b_2_3b_  1__3b_  2__
+    3b_  1_1_2_  4_3b_2_  1__-7_  1__
+    12  3b_3b_3b_  4_4_4_  5__.  4__
+    54  3b_2_1_  -7_1_2_  1__ //] >>
+FCT[Romanze, Ballade, Tod, Sage]

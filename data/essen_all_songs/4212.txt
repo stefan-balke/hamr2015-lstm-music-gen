@@ -1,0 +1,12 @@
+F[ERK3
+CUT[DROBEN AUF GRUENER WALDHAID]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E1746  16  F 6/8 3/8]
+MEL[  1_.-71_2_1_2_  3__.2__.
+    3_3_22  3_3_22  3_3_2_  1__
+    -5_  1_.-71_2_1_2_  3__.0__
+    13  5__5_4__5_  3__.0__.
+    3_332_  3_332_
+    1_.-71_2_1_2_  3__.2__.
+    3_3_22  3_3_22  3_3_2_  1__0_ //] >>
+FCT[Scherz -, Spiel - Lied, Zaehl - Geschichte]

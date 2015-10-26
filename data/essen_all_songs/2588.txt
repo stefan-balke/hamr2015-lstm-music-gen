@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES RITTEN DREI REITER WOL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0057  08  G 2/4]
+MEL[-5  1_-71  2_12  3_43  2_0
+    5  4_24  3_13  2_-7-5  135
+    5  4_24  3_13  2_-7-5  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

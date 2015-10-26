@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Herzens Schluessel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0135B 02  F 4/2 6/2]
+MEL[1  1131  5_5_  3_0
+    5  5_54  ^32_  1_
+    1_  1131  5_5_  3_0
+    5  5_54  ^32_  1_0
+    5  5554  3_2
+    2  3_4534  2_0
+    5  5553  1_53_
+    5  5_5_  342_  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster IV. 1556 No. 15.]

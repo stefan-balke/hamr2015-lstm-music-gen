@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Schreiber im Garten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0071  04  F 4/2]
+MEL[-6_  1_1_2_2_  3_3_3_
+    3_  2_3_4_4_  3_3_2_
+    2_  3_3_1_1_  -7_-6_-5__
+    -7_1_-7_-6_  2_3_4_
+    4_  3_21-7_2_  432_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Jonisch, Anfang dorisch. Melodie aus dem 15. Jh., mitgeteilt in
+    durch None im Anzeiger VI(1837) Beilage II No. 5.]

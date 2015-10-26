@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES WAREN JUNGGESELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1305B 08  G 2/4]
+MEL[-5  1_-7-6  -5_1_  2_1_  2_1
+    -5  1_-7-6  -5_1_  2_1_  2_1
+    5  3333  3_3
+    5  6543  2_0
+    1  -7222  5_.
+    4  3322  1_0 //] >>
+FCT[Staende -, Soldaten - Lied, Reiter]

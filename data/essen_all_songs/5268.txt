@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Es haett ein Maidlein ein Reiter hold]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0067F 08  D 3/4]
+MEL[1_  1__1_  5__5_  6__6_  5__
+    5_  6__6_  +1__5_  7b__6_  5__.  ^456
+    7b_  6_.7b+1_  7b_.65_  4_2_3b_  2__
+    5_  5__7b_  5__1_  3b_2__  1__ //] >>
+FCT[Lied]
+CMT[Souterliedekens 1540 ad Ps. 99]

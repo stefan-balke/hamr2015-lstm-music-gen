@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ZU STRASSBURG AUF DER SCHANZ]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Dreieichenstein]
+KEY[E1393  08  F 4/4]
+MEL[-5_  1_.-51_2_  3__0_
+    1_  3_.32_2_  1__0_
+    12  3_3_3_23  4__0_
+    43  22222_12  3_
+    543_2_  13243_
+    54  3_2_1_ //] >>
+FCT[Staende -, Soldaten - Lied, Deserteur]

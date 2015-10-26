@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    De rudder en syn scoen zoete lief]
+CNR[speelden te gaer onder een groene linde;]
+REG[Mitteleuropa, Niederlande, West - Flandern]
+SRC[3, S. 1
+    1900 aufgezeichnet, vom Hg. modifiziert]
+KEY[Q2055A 04  D 3/2]
+MEL[123b  1_.567b  5_0
+    156  7b_.665  4_3b
+    3b3b4  5_5123b  4_0
+    -7b12  3b_.121  1-7b1 //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Vom Hg. metrisierte und korrigierte Fassung von Q0055 .
+    Niederlaendische Fassung der Ballade.]

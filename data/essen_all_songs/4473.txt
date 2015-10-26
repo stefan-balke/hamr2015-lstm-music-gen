@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Das Pavierlied]
+KEY[A0389  02  D 4/2 6/2]
+MEL[5_  5545  3b21_
+    5_  7b+156  7b_5_
+    5_  5545  3b21_
+    5_  7b+156  7b_5_
+    7b_  7b7b5_3b_  443b_0
+    5  554_5_  3b21_0
+    5  545_6_  7b54_0
+    +1  +2_+1_57b  6_5_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Fliegendes Blatt von 1525.]

@@ -1,0 +1,20 @@
+BOEHME
+CUT[FELDEINWAERTS FLOG EIN VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0219  16  G 3/4]
+MEL[-5_-5_-6-7  1__3__322_  1__0_
+    2_3_4_  5_.65_3_4_5_  3__0_
+    -5_1_3_  5__6_5_4_3_  2__0_
+    5_3_2_  3_5_4_3_2_1_  2__0_
+    -5_1_3_  5_6_5__4_5_  3__0_ //] >>
+FCT[Jahreszeiten - Lied, Herbst]
+BOEHME
+CUT[FELDEINWAERTS FLOG EIN VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0219  16  G 3/4]
+MEL[-5_-5_-6-7  1__3__322_  1__0_
+    2_3_4_  5_.65_3_4_5_  3__0_
+    -5_1_3_  5__6_5_4_3_  2__0_
+    5_3_2_  3_5_4_3_2_1_  2__0_
+    -5_1_3_  5_6_5__4_5_  3__0_ //] >>
+FCT[Jahreszeiten - Lied, Herbst]

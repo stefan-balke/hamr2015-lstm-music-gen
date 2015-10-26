@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[EI ALLALIABS SCHAZZAL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1227  08 Bb 3/4]
+MEL[35  24461_  35-72
+    23  1_3_35  2446
+    1_  35-7223  1__
+    3_  3_2413  35-7223  1_
+    3_3_  2_2413  35-7223  1__ //] >>
+FCT[Liebes - Lied]

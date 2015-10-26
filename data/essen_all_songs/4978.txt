@@ -1,0 +1,9 @@
+BOEHME
+CUT[DER MAI IST AUF DEM WEGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0513  08 Eb 6/8]
+MEL[5  5_1345  6_.50
+    5  +1_5321  5__0
+    5  6_56_7  +2_.+1_
+    5  3_52_5  1__0 //] >>
+FCT[Wander - Lied]

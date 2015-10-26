@@ -1,0 +1,30 @@
+BOEHME
+CUT[LEB WOHL DU THEURES LAND DAS MICH GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0095  08  C 4/4]
+MEL[331  5_.55565  5_4_0
+    454  3_.33153  2__0
+    222  5_.55567  766_.
+    6+16  5_.554#76  5__0
+    555  +2_.+2+1765  +1_5_0
+    567  +1_.36531  2__0
+    554  3_.34342  655_0
+    +176  5_.56542  1__0
+    554  3_.34342  655_0
+    +176  5_.56542  1__0 //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[LEB WOHL DU THEURES LAND DAS MICH GEBOREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0095  08  C 4/4]
+MEL[331  5_.55565  5_4_0
+    454  3_.33153  2__0
+    222  5_.55567  766_.
+    6+16  5_.554#76  5__0
+    555  +2_.+2+1765  +1_5_0
+    567  +1_.36531  2__0
+    554  3_.34342  655_0
+    +176  5_.56542  1__0
+    554  3_.34342  655_0
+    +176  5_.56542  1__0 //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

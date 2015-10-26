@@ -1,0 +1,10 @@
+KINDER
+CUT[ALLE MEINE ENTCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K2254A 08  C 2/4]
+MEL[  1234  5_5_
+    6666  5_0_
+    6666  5_0_
+    4444  3_3_
+    2222  1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

@@ -1,0 +1,11 @@
+DVA
+CUT[Et sass e kli waelt Vijeltchen
+    af enem graenen Naestchen]
+REG[Europa, Mitteleuropa, Deutschland, Siebenbuergen]
+KEY[D0220  16  G 3/4 2/4]
+MEL[-5_  1_.11__.2_  3b_.21__0_
+    1_  5_5_-5_-5_  1__1__0_
+    5_  5_.43b__.5_  4_.3b2__0_
+    2_  1_.13b__.-7_  1__1__0_ //] >>
+FCT[Liebes - Ballade]
+CMT[Variante zum folgenden D0220A, Inzipit = Variante zum Lied]

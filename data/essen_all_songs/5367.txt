@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+CNR[und sah ins tiefe Meer,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Uckermark]
+SRC[8, S. 292
+    1838 aufgezeichnet]
+KEY[Q0155V.16  G 2/4]
+MEL[1_  5_.+15432  1__2_
+    2_  3_3_4_6_  5__0_
+    5_  +1_+1_765_  6__5__  4__3_
+    +1_  6_543_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]

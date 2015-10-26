@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schwester Giftmischerin
+    W sjrem poli na Podolj,]
+CNR[hruska stogj.]
+REG[Osteuropa, Tschechoslowakei, Maehren]
+SRC[4, S. 188
+    1825 gedruckt]
+KEY[Q2078A 04  G 2/4 3/4]
+MEL[14  54  53  4_  10_
+    43_  -7_.  1_. //] >>
+FCT[Ballade, Bruder - Mord, Betrug]
+CMT[Maehrische Fassung der Ballade. Verzierungen (Vorschlaege) in der
+    letzten Zeile.]

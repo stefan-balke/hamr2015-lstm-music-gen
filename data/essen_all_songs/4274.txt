@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WENNS KIRMSE WIRD]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E1832  16  G 2/4]
+MEL[13  5_5_5_13  5_5_5_
+    5_  6_6_+1_66  5__0_
+    5_  5_44444_  4_3333
+    3_  3_2_3_2_  1__0_ //] >>
+FCT[Kinder - Lied, Tanz]

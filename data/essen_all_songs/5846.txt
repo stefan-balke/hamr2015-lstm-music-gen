@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Rumpel nit!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0303A 02  G 6/2]
+MEL[1_11_1  5_55_.
+    5_54_5  3b_21_.
+    3b_3b4_2  -7b_12_.
+    1_11_1  -7b_-6-5_
+    -5  -7b_12_1  -7b_12_
+    5  3b_21_-7  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder Nuernberg bei Berg und Newber 1542 No. 35]

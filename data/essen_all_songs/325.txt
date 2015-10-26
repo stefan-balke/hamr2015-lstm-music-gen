@@ -1,0 +1,22 @@
+BOEHME
+CUT[WENN DIE NACHT MIT SUESSER RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0382  08  F 4/4]
+MEL[  13355_.6  54244_3_
+    5_.36543  3_2_0__
+    13355_.6  54244_3_
+    5_.36543  3_2_0__
+    2_.43_.5  23454_3_
+    6_.65_(654)  3_2_1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[WENN DIE NACHT MIT SUESSER RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0382  08  F 4/4]
+MEL[  13355_.6  54244_3_
+    5_.36543  3_2_0__
+    13355_.6  54244_3_
+    5_.36543  3_2_0__
+    2_.43_.5  23454_3_
+    6_.65_(654)  3_2_1_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

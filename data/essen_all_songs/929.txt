@@ -1,0 +1,17 @@
+ZUCCAL
+CUT["Getrennte Liebe"
+    MEI SCHATZERL IST WANDERN, KOMMT NIMMER INS HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben; Tirol]
+KEY[Z1194  08 Ab 3/4]
+MEL[3_  432_6_  5_.4
+    3_  4-6-61-72  1_.2
+    3_  432_6_  5_.4
+    3_  4-6-61-72  1__
+    32  2_2624#  522_.
+    3  2_4#624#  5_5_.
+    3  432_6_  5_.43_
+    4-6-61-72  1_.23_
+    432_6_  5+3+1531
+    -765_42  1__ //] >>
+FCT[Liebes - Lied, verlassene Liebe]
+CMT[Die letzten 12 Takte werden auf die Silbe'la' gesungen.]

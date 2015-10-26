@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Bie schian du shingait kluains Mikola,]
+CNR[dan Roscheschtau auskehrinte.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Gross Riegel]
+SRC[5, S. 120
+    1906 aufgezeichnet]
+KEY[Q0100A 08 Eb 3/2]
+MEL[-5_1_2_  3_1__234_3_  2__0_
+    5_2_3_  2_1__123_2_  1__0_ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Heirat]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ICH WEISS MIR EINEN ANGER BREIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0143  08  F 4/4]
+MEL[-6_  1_1_2_2_  3_3_3_
+    3_  2_3_4_4_  3_3_2_
+    2_  3_3_1_1_  -7_-6_-5_
+    -5_  -7_1_-7_-6_  2_3_4_
+    4_  3_21-7_2_  432_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann
+    Ballade ?]

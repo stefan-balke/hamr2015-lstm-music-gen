@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WIR WOLLEN EINS SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E1075  16  A 3/8]
+MEL[1_  1_3_3_  3_2_1_  2_4_4_  4_3_
+    2_  3_3_56  5_4_3_  3_2_2_  2__
+    1_  1_3_35  5_.43_  6__.  5__
+    5_  5_4_3_  3_5_3_  2__.  1__ //] >>
+FCT[Wett - Lied, Streit zwischen Wasser und Wein]

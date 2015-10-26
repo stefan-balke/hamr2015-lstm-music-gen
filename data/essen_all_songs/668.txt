@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[ACH WIE IST ES MOEGLICH DANN, DASS ICH DICH VERLASSEN KANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0252  16  G 3/8]
+MEL[  5_.654  3_.33_
+    3_.432  1_.11_
+    2_2_2_  3_.45_
+    5_6543  3_2_0_
+    5_5_5_  6_.7+1_
+    5_5654  32343_
+    1_3_5_  64243_
+    1_3_5_  64243_
+    5_6424  4_3_0_ //] >>
+FCT[lyrisches Lied, Romanze, Liebe]

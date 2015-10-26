@@ -1,0 +1,11 @@
+F[ERK3
+CUT[EINS BAUREN SOHN HAT SICH VERMESSN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1542  08  F 4/4]
+MEL[3_  3_3_3_3_  3_4_5__  0_
+    3_3_5_  42456565  6_6_6__  2__0_
+    5_  54321_4_  321-7-6_
+    3_  321-7-6_3_  4__.2_  32345_
+    3_  43456_6_  54321_
+    6_  54321_ //] >>
+FCT[Staende -, Bauern - Lied, Spott]

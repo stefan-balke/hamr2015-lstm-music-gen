@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Ich sach mir einen blauen Storchen]
+CNR[auf einer Wiese gehn;]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 150
+    1575 gedruckt (vor)]
+KEY[Q0149J 04  D 6/4 3/2]
+MEL[5  5_557b6b  5_544
+    4  +1_7b_6b4  5_15_
+    5  5_6b_7b5  4_.1_
+    2  3b_3b_22  1_-51_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Blaustorchenweise. Zusammenhang zur Balladenmelodie angenommen.]

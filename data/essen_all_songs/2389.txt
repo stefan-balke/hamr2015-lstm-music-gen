@@ -1,0 +1,9 @@
+FINK
+CUT[AUF ES DUNKELT SILBERN FUNKELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0959  16  E 3/8]
+MEL[  -5__-4_  -3_-1_-1_  -5_.-6-5-4  -3_-1_-3-5
+    1__-7_  1_.2-72  1_.-5-3-5  -2__.
+    -5_.-6-71  2__-72  1_.2-61  -7__-5_
+    3__2_  1_.-5-6-7  123_2_  1__. //] >>
+FCT[Liebes - Lied; Rund - Tanz]

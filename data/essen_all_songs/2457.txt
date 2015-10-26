@@ -1,0 +1,11 @@
+VARIANT
+CUT[liabi liabi muatar gotis]
+REG[Europa, Mitteleuropa, Schweiz, Oberwallis]
+KEY[V0001A 08  G FREI]
+MEL[111111  1_2_
+    1_11112_
+    1111-7b-7b  1_0_  0__
+    1111  1_2_
+    1111  22
+    11-7b-7b  1_0_ //] >>
+FCT[Brauchtum, Beschwoerung (Nebel)]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[WUNDERSCHOEN PRAECHTIGE HOEHE UND MAECHTIGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2082  08  F 3/4]
+MEL[  1_1_1_  1_.21_  3_3_3_  3_.43_
+    5_+1_5_  5_.43_  234_3_  2__0_
+    1_1_1_  1_.21_  3_3_3_  3_.43_
+    5_+1_5_  5_.43_  234_3_  2__0_
+    5_3_5_  5_434_  4_2_4_  4_323_
+    1_-5_1_  3_1_3_  5_3_5_  +1__0_
+    +1_7_6_  5_.43_  543_2_  1__. //] >>
+FCT[geistlich, Marien - Lied]

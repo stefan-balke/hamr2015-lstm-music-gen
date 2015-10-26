@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WEIL MICH DAS GLUECK GEFUEHRT]
+REG[Europa, Mitteleuropa, Deutschland, Nauen, Buschow]
+KEY[E0973C 16  A 3/8]
+MEL[  -5_1_1_  1_-712_
+    -5_2_2_  2_123_
+    1_3_3_  3_234_
+    3_21-71  2_1_0_ //] >>
+FCT[Tanz - Lied, Reigen]

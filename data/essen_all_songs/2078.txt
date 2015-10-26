@@ -1,0 +1,9 @@
+FINK
+CUT[WENN DIE SONNE FRUEH AUFGEHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0338  08  E 4/4]
+MEL[34  5_5_6_4_  2__.
+    32  1_1_1_2_  3__0_
+    34  5_5_6_7_  +1__0_
+    55  5_555_55  5_0__ //] >>
+FCT[Jugend - Lied, Tageslauf, Tier]

@@ -1,0 +1,9 @@
+FINK
+CUT[EIN VOGEL RUFT IM WALDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0997  08  C 4/4]
+MEL[-5_  -5_3_3_2_  1__-5_
+    -5_  -5_2_-7_-5_  1__0_
+    1-7  -6_-6_1_-6_  -6_-5_-5_
+    -5_  -5_-7_2_3_  1__0_ //] >>
+FCT[Natur - Lied, Tiere]

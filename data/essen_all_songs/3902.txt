@@ -1,0 +1,11 @@
+F[ERK3
+CUT[VIVAT ES LEB EIN INFANTRIE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E1323  16  G 6/8]
+MEL[-5_  1__1_1_2_3_  3_2_2_2_3_
+    4_  5_6_5_4_3_2_  3___0_
+    34  5__3_5_6_5_  4___0_
+    3_  3_2_2_5_5_4_  3__2_3_0_
+    32  1__1_1_2_3_  3_2_2_2_3_
+    4_  5_6_5_4_3_2_  3___0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

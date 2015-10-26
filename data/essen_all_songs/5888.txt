@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Der Schlaftrunk]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0344  02  F 4/2]
+MEL[5_  5565  4_46  5342  1_
+    5_  5565  4_46  5342  1_0
+    4  442_  2344  2_0
+    3  1_11  232_  1_0
+    +1  +176_  5_3_  4564  3_.
+    4  442_  2344  2_0
+    3  1_11  232_  1_0
+    +1  +176_  5_3_  4564  3__
+    5_53  432_  1_ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Freih. von Winnenbergs Reuterlieder. Strassburg 1582 No. 33.]

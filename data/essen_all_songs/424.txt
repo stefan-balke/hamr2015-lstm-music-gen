@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES IST NIT LANG, DASS ES GESCHAH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Niederlande]
+KEY[Z0010  08  G 4/4]
+MEL[    0_1_1__  1_5__5_  4_3b_2__
+    0_1_1__  1_5__5_  4_3b_2_.3b  4__0_
+    4_  3b_2_3b_1_  -7b__-5__
+    2_3b__2_  1__5_4_  4_3b_2_.3b  4__.^
+    4  3b_2_3b_1_  -7b__-5__
+    3b__215_  ^_43b2__  1___ //] >>
+FCT[Sagen - Lied, Romanze, Ballade, Tod]

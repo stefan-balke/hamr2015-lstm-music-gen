@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MARIA GIENG AUS WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E2058C 08  F 4/4]
+MEL[12  3_.23456  5_432_
+    53  2_2_2_12  3__0_
+    12  3_3_3_21  2__0_
+    23  4_543_2_  1__0_ //] >>
+FCT[geistlich, Marien - Lied, Legende]

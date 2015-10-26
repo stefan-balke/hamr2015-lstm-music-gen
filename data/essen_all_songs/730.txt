@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[WILLST DU NICHTS VOM FREIEN HOEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0312  02  A 3/2]
+MEL[1_3b  2_4  3b_4  5_1
+    3b_2  1_3b  2_5  2_.
+    1_3b  2_4  3b_4  5_1
+    3b_2  1_3b  2_5  2_.
+    3b_4  5_3b  6b_5  4_.
+    3b_5  2_5  3b_2  1_. //] >>
+FCT[Lyrisches Lied, Romanze, Liebes -, Ehestands - Lied]

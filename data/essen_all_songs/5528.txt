@@ -1,0 +1,15 @@
+KINDER
+CUT[ICH TRUG IN MEINEM SCHOSSE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2259  08  G 6/8 2/4]
+MEL[-5  1_11-71  2_-7-5_
+    -5  1_11-71  2_-7-5_
+    -5  1_11-71  2_-7-5_
+    -5  1_11-71  2_-7-5_.
+    1_3_  5_.
+    4  3322  1_0
+    1  5555  666_
+    4444  555_
+    1_3_  5_.
+    4  3322  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

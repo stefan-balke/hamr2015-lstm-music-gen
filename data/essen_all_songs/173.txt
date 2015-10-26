@@ -1,0 +1,18 @@
+BOEHME
+CUT[WONNE SCHWEBET LAECHELT UEBERALL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0207  08  F 6/8]
+MEL[  5_55_3  5_3432  1_0__
+    3_3323  5433_2
+    3_3323  5433_2
+    5_55_3  +1_5432  1_0__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[WONNE SCHWEBET LAECHELT UEBERALL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0207  08  F 6/8]
+MEL[  5_55_3  5_3432  1_0__
+    3_3323  5433_2
+    3_3323  5433_2
+    5_55_3  +1_5432  1_0__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

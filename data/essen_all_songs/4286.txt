@@ -1,0 +1,9 @@
+F[ERK3
+CUT[I FAHR AUF DER POST]
+REG[Europa, Mitteleuropa, Ungarn, Oedenburg]
+KEY[E1859  08  A 3/4]
+MEL[5_  3__5_  1__3_  -5_-5_-5_  1__
+    5_  3__5_  1__3_  -5_-5_-5_  1__.
+    -5_-5_-5_  1_135_  -5_-5_-5_  1_135
+    5  3__5_  1__3_  -5_-5_-5_  1__ //] >>
+FCT[Kinder - Lied]

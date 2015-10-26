@@ -1,0 +1,7 @@
+ZUCCAL
+CUT[UND E BISSERLE LIEB UND E BISSERLE TREU]
+REG[Europa, Mitteleuropa, Deutschland, bayrisches Gebirge]
+KEY[Z0255A 16  F 3/8]
+MEL[13  5_5_.5  6_5_.3  5_4_.2  3__
+    13  3_2_.2  2_1_.1  2_5_.-7  1__ //] >>
+FCT[lyrisches Lied, Romanze]

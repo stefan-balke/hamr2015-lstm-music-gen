@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Halewyn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0015A 04  C 3/4]
+MEL[1-6-7b  1_1  21-7b  -6_.
+    1-7b-6  -5-4-5  -6-7b1  2_.
+    23b2  1_2  1-6-7b  1_. //] >>
+FCT[Romanze, Ballade, Lied]

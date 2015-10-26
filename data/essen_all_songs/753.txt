@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Bestrafter Vorwitz "
+    MEIN SOHN MEIN SOHN WAS SAGST DU MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1018  16  A 6/8]
+MEL[-5_  1__-7_1__2_  3b__3b_-7b__
+    -7b_  3b__2_3b__
+    12  3b__4_2__3b_  1__2_1_-7_
+    -5_  1__2_3b__2_  1__-7_1__ //] >>
+FCT[Romanze, Ballade]

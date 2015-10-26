@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ET SAS E KLI WAELTFIJELTCHEN]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen, Muhlbach]
+KEY[E0173A 16  G 3/4 2/4]
+MEL[-5_  1_.11__2__  3b_.21__.
+    1_  5_5_-5_-5_  1__1__0_
+    5_  5_.43b__.5_  4_.3b2__0_
+    2_  1_.23b__.-7_  1__1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen]

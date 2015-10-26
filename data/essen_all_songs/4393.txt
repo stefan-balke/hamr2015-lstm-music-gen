@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MARIA GIENG AUS WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Mosel - Gegend, Cluesserath]
+KEY[E2059  08  G 4/4]
+MEL[-5_  1_1_2_54  3_2_1_
+    3_  2_-7121-7-6  -5__0_
+    -5_  1_1_2_25  5__.
+    54  32123_2_  1__0_ //] >>
+FCT[geistlich, Marien - Lied, Legende]

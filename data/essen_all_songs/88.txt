@@ -1,0 +1,18 @@
+BOEHME
+CUT[ICH GING IM WALDE SO FUER MICH HIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0116  16 Bb 3/4]
+MEL[-5_1_-6_  -5_.-6-5_-4_-3_-5_  1__0_
+    -5_1_-6_  -5_.-6-5_-4_-3_-5_  1__0_
+    1_-7_1_  2_.32_1_-7_-6_  -5_.-6-5_
+    -5_1_2_  3_.45_3_2_2_  1__. //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ICH GING IM WALDE SO FUER MICH HIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0116  16 Bb 3/4]
+MEL[-5_1_-6_  -5_.-6-5_-4_-3_-5_  1__0_
+    -5_1_-6_  -5_.-6-5_-4_-3_-5_  1__0_
+    1_-7_1_  2_.32_1_-7_-6_  -5_.-6-5_
+    -5_1_2_  3_.45_3_2_2_  1__. //] >>
+FCT[Ballade, Romanze]

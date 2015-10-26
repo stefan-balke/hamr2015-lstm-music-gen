@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ACH SCHOENSTES KAROLINCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend, Nassau]
+KEY[E0447C 08  G 6/8]
+MEL[-5  1_35_5  5_.3_
+    3  2_65_4  3_.0_.
+    1_.6_.  5_.^_
+    5  654456  5_33_
+    5  5655_4  3__0 //] >>
+FCT[Liebes - Lied]

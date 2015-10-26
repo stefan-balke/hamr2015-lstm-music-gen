@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der kleine Taenzer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0503  04  D 3/2]
+MEL[5_  +1__5_  +1__5_  7b__6_  5__
+    5_  5__7b_  6_6_7b_  +1__.  7b__
+    7b_  7b_.65_  5__4_  5__.  5__
+    +1_  767+17_  +1__ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[M. Franck, Fasc. Quodl. 1611 No. 2.]

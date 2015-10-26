@@ -1,0 +1,13 @@
+F[ERK1
+CUT[DER SCHAEFER TRAEGT SORGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Messel]
+KEY[E0508A 08  F 3/4]
+MEL[-5_  1_-5_1_  3_1_
+    3_  5_6543  3_2_
+    4_  4_6_+16  5_3_
+    35  544_46  5__
+    35  542_2_  1__
+    4_  4_6_+16  5_3_
+    35  544_46  5__
+    35  542_2_  1__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    Nun hoeret an und schweiget still,]
+CNR[was ich euch singen und sagen will]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 186
+    ????]
+KEY[Q1063D 16  F FREI]
+MEL[-5__  1__-7__1___2_3_  4__3__2___
+    3__  1__-5__1__1__0__2__  4__3__2___
+    5__.4_  3__2__1__1__2__  3___2___  1___
+    2___  1__-7__-6__-5__.-6_-5_-5_  1__2__3_.12___
+    5_4_  3__2__1__1__2__  3___2___  1___0__ //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0063, anderes Lied "Der Markgraf von Backenweil"
+    Aehnliche Fassung schon aus anderem Balladenband kodiert ??
+    Transkription einer Tonaufnahme.]

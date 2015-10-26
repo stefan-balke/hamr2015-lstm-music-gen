@@ -1,0 +1,11 @@
+KINDER
+CUT[BUKO VON HALBERSTADT]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland, Zerbst]
+KEY[K0121A 16  F 2/4]
+MEL[  5__3_6_  5_543_0_
+    5_5_3_6_  5_543_
+    -5_  1_1_2_2_  3__2_
+    -5_  1_1_2_2_  3__2_
+    2_  1_1_2_2_  3_3_2_
+    4_  3_112_-5-5  1_1_1_0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

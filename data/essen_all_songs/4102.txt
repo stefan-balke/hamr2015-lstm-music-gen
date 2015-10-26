@@ -1,0 +1,7 @@
+F[ERK3
+CUT[ES STAK SIK EIN WUERMCHEN WEL UNTER DE EER]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Soest]
+KEY[E1565  08  C 3/8 3/4 2/4]
+MEL[1  113  554  334  5_0
+    131  4_3522  1131  4_3522  1_0 //] >>
+FCT[Staende -, Bauern - Lied, Flachsbrechen, bei der Arbeit]

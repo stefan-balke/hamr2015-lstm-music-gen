@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es trieb ein Hirtlein in den Wald]
+REG[Osteuropa, UdSSR, Estland]
+SRC[5, S. 267
+    ????]
+KEY[Q0114F 08  G FREI]
+MEL[113  5_6_5_3_  5_0
+    113  5_6_5_3_  5_0
+    434  5_332_2_  1_0
+    434  5_332_2_  1_0 //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

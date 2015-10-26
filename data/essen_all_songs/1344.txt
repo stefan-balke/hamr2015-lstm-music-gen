@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es ritt ein Ritter sehr wohlgemut,]
+CNR[drei Federn trug er auf seinem Hut]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Altmark]
+SRC[3, S. 104
+    1879 gedruckt in Magdeburg]
+KEY[Q0057a 16  G 4/4]
+MEL[-5__  1__-5__1_3_2_1_  -7__-5__-5__
+    -5_-7_  2__2__2_3_4_2_  3__1__1__
+    1__  -6_.-4-4_-4_-4_
+    -6_1_-6_  -6_-5_-5__-5__
+    4__  3_5_1_3_5_4_2_-7_  2_1_1__1__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Dritte und vierte Zeile = Refrain auf sinnfreie Silben.]

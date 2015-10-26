@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Tochter als Faehnrich
+    Es reist' eine Jungfrau zum Tor hinaus:]
+CNR['Ei, behuet' dich Gott, du adeliges Haus,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hommert]
+SRC[5, S. 89
+    1913 aufgezeichnet]
+KEY[Q0096A 16  G 4/4]
+MEL[-5__  1__-5__1__2_4_  3__2_1_1__
+    1_3_  2__1__2__3_5_  5_.54_3_2__
+    1_.1  2__.3_2__1__  2__3_4_5__
+    5_5_  1__.2_1__-7__  -6__-6__-5__
+    -5_-5_  1__-7__1__2_4_  3__2_2_1__ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat]

@@ -1,0 +1,13 @@
+FINK
+CUT[SCHON HAT SICH DUNKLE NACHT GESENKT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0149  04  E 6/4]
+MEL[5  1_15_5  4_3b3b_
+    3b  2-7-5-6b-5-7  1_0_.
+    3b  7b53b7b53b  6b_42_
+    -7b  3b_54_7b  3b_0_.
+    5  5_23b21  -7_.2_
+    5  5_23b_4#  5_0_.
+    5  6b_6b6b_6b  5_.1_
+    4  3b4212-7  1__0 //] >>
+FCT[Tageszeiten - Lied, Abend; Trauer]

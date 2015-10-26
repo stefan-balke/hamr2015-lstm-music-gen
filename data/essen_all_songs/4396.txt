@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MARIA GING AUS WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Schnurgast]
+KEY[E2061  08  G 4/4]
+MEL[-5_  1_1_1_3_  1__-5_
+    -5_  1_1_2_2_  3__0_
+    12  3__4_6_  5__3_
+    3_  5_.54_2_  1__0_ //] >>
+FCT[geistlich, Marien - Lied, Legende]

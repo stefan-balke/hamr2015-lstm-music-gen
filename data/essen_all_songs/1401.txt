@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Bernauerin
+    Es reisten drei Herren aus Muenchen heraus,]
+CNR[sie reisten wohl vor der Bernauerin ihr Haus:]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[3, S. 200
+    1898 gedruckt]
+KEY[Q0065  08  D 4/4]
+MEL[1_  1__3_4_  5__5_5_  5_+1_7_6_  6__5_
+    5_  5_6_7_5_  +1__5_5_  6_6_5_4_  3__2_
+    5_  +1__7_6_  5__3_3_  6__7__  +1_5_654_  3__2__  1__0_ //] >>
+FCT[Ballade, historisch (1435) , Standesunterschied, Liebe, Mord]
+CMT[Anhaengsel an der letzten Zeile.]

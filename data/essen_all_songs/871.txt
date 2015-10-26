@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Alter Schlachtgesang"
+    MUTH GEFASST IHR KOELNSCHE JUNGEN]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+KEY[Z1136  08  A 6/8]
+MEL[-5-6-7  1_11-7-6  -5_-5
+    -5-6-7  1_-52_-5  3_0
+    3_3  3_21_-7  1_-6
+    2_2  2_1-7_-6  -5_0
+    -5_-5  -7_-7-7-6-7  1_-5
+    -5_-5  2_2212  3_0
+    1_1  4_44_4  6_6
+    6_6  5_34_2  1_0 //] >>
+FCT[Vaterland und Wehr]

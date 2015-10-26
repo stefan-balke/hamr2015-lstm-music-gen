@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ICH HEV SE NICH UP DE SCHOLEN GEBRACHT]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+KEY[Z0050  08  D 3/4]
+MEL[-5_  1_1_1_  1_2_3b_  4_2_2_  2__
+    -5_  1__1_  3b_2_11  5__5_  5__
+    5_  4_4_4_  3b_3b_21  5_-5_
+    5_  5_4_5_  5_4_5_  7b_6b_5_  4_5_4_  3b__
+    3b3b  3b_3b_3b_  3b_2_1_  5__-5_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

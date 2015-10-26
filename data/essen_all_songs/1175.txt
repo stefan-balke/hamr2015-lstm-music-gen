@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Bluthochzeit
+    Es fuhr ein Pfalzgraf ueber den Rhein,]
+CNR[er freit' um des Koenigs Toechterlein.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Siebengebirge]
+SRC[2, S. 157
+    1860 aufgezeichnet]
+KEY[Q0046  16  G 4/4]
+MEL[-5_  1__.2_3b__.2_  1_2_3b_4_5__0_
+    5_  5__4_3b_2__.5_  5__4_3b_2__0_
+    2_  5__.6_7b__.6_  5__4_3b_2__0_
+    5_  6b_5_4_3b_2__5__  3b__2_.11__0_ //] >>
+FCT[Ballade, Entfuehrung, Mord, Vergeltung]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[VATER NOAH WEINERFINDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1695  08  G 2/4]
+MEL[  1_.2  3_3_  2123  1_-5_
+    3_.4  5_5_  4345  3_0_
+    1_.2  3_3_  2123  1_-5_
+    3_.4  5_5_  4345  3_0_
+    5_5_  6_65  4_4_  5_0_
+    1_.2  3_4_  5_5_  1_0_ //] >>
+FCT[Staende -, Studenten - Lied, Trink - Lied]

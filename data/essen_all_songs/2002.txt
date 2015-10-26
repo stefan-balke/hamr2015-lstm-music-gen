@@ -1,0 +1,9 @@
+FINK
+CUT[VERSCHWUNDEN IST DES TAGES LICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0236  08 Ab 4/4]
+MEL[1_  3_2_1_-5_  -6_-7_1_
+    3_  2_-7_1_-6_  -5__0_
+    3_  2_1_-7_-6_  -5_.-4-3_
+    1_  -6_.21_-7_  1__0_ //] >>
+FCT[Jugend - Lied, Abend]

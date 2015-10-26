@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ICH WEISS MIR EIN MAIDLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0445  08  G 3/4]
+MEL[1_  1_.11_  2__3_  4__3_  2__.
+    3__2_  1__
+    1_  3_.34_  5__5_  2__3_  4__
+    4_  3__4_  5__5_  2__3_  4__.
+    3__2_  1__0_
+    3__4_  5__5_  2__3_  4__
+    4_  3_2__  1__4_  3_2__  1__ //] >>
+FCT[Liebes - Lied, Spott]

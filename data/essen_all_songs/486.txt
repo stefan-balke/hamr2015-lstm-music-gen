@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES RITT EIN RITTER WOHL DURCH DAS RIED]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0072  16  G 6/8]
+MEL[2_  2__6_6_6_5#_  6__7_+1__
+    7_  6__6_5_4_3_  6__543__
+    67  +1_7_6_5__6_  3__2_1__0_
+    5__4_3_4_5_  6_7_6_5__6_  4__.3__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

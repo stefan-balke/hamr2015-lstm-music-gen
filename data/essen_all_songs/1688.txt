@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die drei Hexen
+    Cuvala majka pastira, pastira,]
+CNR[cuvala majka pastira.]
+REG[Suedosteuropa, Jugoslawien, Ost - Serbien]
+SRC[4, S. 227
+    1953 gedruckt in Belgrad]
+KEY[Q2080L 04  F 3/4]
+MEL[  555  3_3  234  234
+    555  7_6  5_4  3_. //] >>
+FCT[Ballade, Magie, Verwuenschung]
+CMT[Serbische Fassung der Ballade.]

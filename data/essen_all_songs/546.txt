@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[ICH WEISS NICHT OB ICH DARF TRAUEN MICHEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0130  08  D 3/4 2/4]
+MEL[13  5_3345  67+1_
+    55  5_.322  2_0_
+    13  5_3345  67+1_
+    55  5_.322  2_0
+    1-71  2_3_43  2_.
+    1-71  2_3_43  2
+    111+16  5_3345  67+1
+    655  5_.322  2_0_
+    +1_.5  3_3_  2_2_  1_0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

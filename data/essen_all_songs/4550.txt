@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Spottlied auf ein vornehm thuendes Maedchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0468  04  G 4/2]
+MEL[+1_  +1__+1_+1_  7b__6_
+    5_  6_5_5_4_  5__0_
+    +1_  +1__+1_+1_  7b__6_
+    5_  6_5_5_4_  5__0_
+    +1_  7b_5_4_3b_  2_1_2_
+    +1_  7b_5_4_3b_  2_1_5_
+    6_  5_4_2_01  4_2_1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 74.]

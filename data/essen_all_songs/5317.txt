@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Felsen,]
+CNR[schau hinab ins tiefe Tal,]
+REG[Mitteleuropa, Oesterreich / Italien, Suedtirol, Sterzing, Pfitsch,
+    St. Jakob]
+SRC[8, S. 93
+    1941 aufgezeichnet]
+KEY[Q0155h 16  G 6/8]
+MEL[-5_  3__1_1_-7_1_  2_2_0__.
+    -5-5  2__2_2_1_2_  3__0__.
+    3_  5__4_2__4_  4__3_1__
+    3_  2__-7_3__2_  1__0__.
+    3_  5__4_2__4_  4__3_1__
+    3_  2__-7_3__2_  1__0__. //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe]

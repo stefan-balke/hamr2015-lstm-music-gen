@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MEIN HERZ IST SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland, Bergstrasse, Alsbach]
+KEY[E1793  08  F 3/4]
+MEL[-5_  1_1_13  312_
+    -5-7  2_4_4_  453_0_
+    1_3_5_  5_.343
+    21-7_2_  231_ //] >>
+FCT[Gefangenen - Lied, Klage]

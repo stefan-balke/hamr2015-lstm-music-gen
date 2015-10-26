@@ -1,0 +1,9 @@
+KINDER
+CUT[GEH IN DEN KREIS MEINE ROSA]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2184A 08  C 3/4]
+MEL[-5-5-5  1__12  1_-7
+    -5-5-5  2__23  2_1
+    -5-5-5  3_.21-7  2_.
+    -6-6-6  2_1_-7_  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

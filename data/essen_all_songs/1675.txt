@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Oh, where have you been,]
+CNR[Dirante, my son?]
+REG[Nord - Amerika, USA, Neuengland]
+SRC[4, S. 215
+    1939 gedruckt]
+KEY[Q2079X 08  G 3/4]
+MEL[12  3_3_3_  3_2_
+    23  4_4_4_  4_3_
+    13  5_6_5_  5_3_
+    1_  2_3_2_  1__
+    12  3_3_3_  3_2_
+    23  4_4_4_  4_3_
+    13  5_6_5_  5_3_
+    1_  2_.12_  1__ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Amerikanische Fassung der Ballade.
+    Zweite und sechste Zeile = Refrain.]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    Ick weet noch eens Gravens Dochterkijn]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 186
+    1631 gedruckt in Antwerpen]
+KEY[Q2063C 08  F FREI]
+MEL[1_  1__-7_-6__-5_  1__2_1__
+    1_  2__124__4_  3__212__
+    2_  2__122__12  3___2___  1__
+    3_  2__12-7__-6-5  1__234__
+    3__  1_-7_-6-5-6-7  1_2_2__  1__ //] >>
+FCT[Ballade, Liebe, Standesunterschied, Strafe, Gnade]
+CMT[Melodievarianten aus anderer Quelle abgedruckt. Niederlaendische
+    Fassung der Ballade. Taktart in FREI geaendert.]

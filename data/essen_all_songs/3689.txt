@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    Auf, ihr Hirten, von dem Schlaf, von dem Schlaf,]
+CNR[bei so schoenen Zeiten.]
+REG[Mitteleuropa, Oesterreich, Burgenland]
+SRC[5, S. 281
+    ????]
+KEY[Q1115G 16  G 2/4]
+MEL[  12345_5_  6_6_5__  6_6_5__
+    4_4_3_5_  2__1__ //] >>
+FCT[Hirten - Lied]
+CMT[Melodievergleich zu Q0115E, anderes Lied.]

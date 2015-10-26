@@ -1,0 +1,13 @@
+F[ERK3
+CUT[DORT AUF GEN LEIDLE]
+REG[Europa, Mitteleuropa, Deutschland, Franken, Hildburghausen]
+KEY[E1034  16  G 3/8]
+MEL[  1_3_5_  4_3_2_
+    1_3_5_  52_.0_
+    1_3_5_  4_3_2_
+    1_3_5_  52_.0_
+    2_.34_  3_.21_
+    2_.34_  3_.21_
+    3__0_  4__0_
+    5_3_2_  1__0_ //] >>
+FCT[Tanz - Lied]

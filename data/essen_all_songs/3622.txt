@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die verunglueckte Muellerstochter
+    Meister Mueller wollt' nachsehen,]
+CNR[was in seiner Muehle ist geschehen;]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Mittel - Franken,
+    Ipsheim]
+SRC[5, S. 187
+    1962 aufgezeichnet]
+KEY[Q0106A 16  D FREI]
+MEL[-5_1_  3__3__3_3_  3__2__
+    2_3_  4_.44_6_5_4_  4__3__
+    1_3_  5__3__0_5_  5__3__0_5_  +1__6__  6__5_
+    3_1_+1_  5__3_6_5_4_  4__3__ //] >>
+FCT[Ballade, Unfall, Tod]

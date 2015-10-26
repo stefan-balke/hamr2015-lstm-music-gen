@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Alter Ostergesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0552B 02  G 4/1 6/1 5/1%%%2+3%]
+MEL[   5__4_5_  7b__+1__5__
+    5_4_5_3b_  2_3b_1_0
+    1  4_.43b_1_  3b_4_5__
+    5_3b_5_3b_  2_3b_1_2_
+    -7b_13b2_3b1_-7  1___ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Vorletzter Takt eigentlich 2 Takte 2/1 3/1.
+    H Finck 1536, vor 1596 notiert.]

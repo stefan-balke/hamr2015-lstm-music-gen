@@ -1,0 +1,12 @@
+F[ERK1
+CUT[BUHSKE DI REMMER]
+REG[Europa, Mitteleuropa, Deutschland, Ost - Friesland]
+KEY[E0166  08  G 3/4]
+MEL[  5_5_5_  5_6_7_  +1__7_  6__
+    5_  5_.432  1__0_
+    5_5_5_  5_6_7_  +1__7_  6__
+    5_  5_.432  1__0_
+    2_2_2_  2_3_4_  5_.43_  2__
+    3_  2_.1-7_  1__3_  2_.1-7_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

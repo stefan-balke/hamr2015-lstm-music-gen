@@ -1,0 +1,9 @@
+KINDER
+CUT[BLAUE BLAUE WOLKEN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[K1009  08  G 2/4]
+MEL[  5556  5_3
+    1  5556  5_30
+    5555  666_
+    5434  5_30 //] >>
+FCT[Kinder -, Natur -, Regen - Lied]

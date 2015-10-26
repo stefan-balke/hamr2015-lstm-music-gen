@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Schuetze"
+    JUCHHE FRISCH AF WENNS SCHIASSN GFRAIT]
+REG[Europa, Mitteleuropa, Tirol]
+KEY[Z1298  16  A 2/4]
+MEL[-5_  1_.1+1_.6  5_535_.
+    3  322_2-7-7_  1__0_.
+    -5  1_1_+1_.6  5_535_.
+    3  322_2-7-7_  1__0_
+    1_  32242_.2  3_353_.
+    3  32242_.2  3_353_.
+    -5  1_.1+1_.6  5_535_.
+    3  322_2-7-7_  1__0_ //] >>
+FCT[Jaeger - Lied]

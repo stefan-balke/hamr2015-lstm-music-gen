@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Dank - und Freudenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0623B 02  F 4/2]
+MEL[113  2122  3_
+    1_  3453  2_1_  0
+    113  2122  3_
+    1_  3453  2_1_  0
+    332  1-71-6  -5_0
+    -5  111-7  123_
+    1_34  532_  1__  0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Klugs Gsgb 1535 und Schumann 1539]

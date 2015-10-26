@@ -1,0 +1,12 @@
+F[ERK3
+CUT[GESTERN ABEND GING ICH AUS]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Fraustadt]
+KEY[E1886  16  G 2/4]
+MEL[  3_.32_.2  1_3_-5__
+    -7_.12_.-7  2__1__
+    3_.32_.2  1_3_-5__
+    -7_.12_.-7  2__1__
+    2_2_5__  2_2_5__
+    2_2_2_2_  5_2_2_0
+    2  1_1_-7_-7_  -6_-6_-5__ //] >>
+FCT[Kinder - Lied, Spiel, Reigen]

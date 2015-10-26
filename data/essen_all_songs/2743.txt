@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ALS WIR JUENGST IN REGENSBURG WAREN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[E0136  08  E 2/4]
+MEL[  5_54  35+13  5_42  3_10
+    5_54  35+13  5_42  3_10
+    1_35  1_1_  4_6+1  5_0_
+    4_4_  3_34  5__  1_0_
+    1_35  1_35  4_6+1  5__
+    7_67  +1365  5_42  1_0_
+    1_35  1_35  4_6+1  5__
+    7_67  +1365  5_42  1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

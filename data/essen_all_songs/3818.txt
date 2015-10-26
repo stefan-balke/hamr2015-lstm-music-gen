@@ -1,0 +1,14 @@
+F[ERK3
+CUT[FRISCH AUF GUT GSELL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1124  04  G 4/4]
+MEL[555  5566  4_
+    56  7b+16_  5_0
+    5  +1+166  7b7b5_
+    421_
+    3b45_  23b4_
+    123b4  2_1_
+    3b45_  23b4_
+    123b4  2_1_
+    123b4  2_1_  0 //] >>
+FCT[Trink -, Zech - Lied]

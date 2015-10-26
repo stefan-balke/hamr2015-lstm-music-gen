@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[WAER ICH EIN WILDER FALKE, ICH WOLLT MICH SCHWINGEN AUS]
+REG[Europa, Mitteleuropa, Deutschland, Coburg]
+KEY[Z0285  16  F 2/4]
+MEL[12  3_234_34  5__5_
+    45  6_567_67  +1__.
+    76  5_5_5_65  4__4_
+    54  3_432_32  1__. //] >>
+FCT[Lyrisches Lied, Romanze]

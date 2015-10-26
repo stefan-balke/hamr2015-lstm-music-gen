@@ -1,0 +1,12 @@
+DVA
+CUT[Der Lindenschmied
+    Es ist noch nit lang, als dieses geschah,]
+CNR[dass man den Lindenschmied reiten gesah]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0022  16  G 6/8]
+MEL[-5-5  1__1_-7b__-7b_  3b_5_4_3b__
+    1_  2__3b_4_4_3b_  1_1_7_1__
+    2_  4_5_4_3b__2_  1__.-7b__
+    -7b_  3b_5_4_5__54  3b_4_5_4__.
+    5__.4_3b_2_  1_-5_1_3b_2_1_  -5__.1__ //] >>
+FCT[historisches Lied]

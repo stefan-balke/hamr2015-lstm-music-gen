@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Schlummerlied"
+    SCHLOF KINKCHEN OM KOESSCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1365  16  G 6/8]
+MEL[5_.65_3_.43_  1__.-5__.
+    5_.65_3_.43_  1__.-5__.
+    2__2_2_3_4#_  5_.4#5_2__2_
+    2_.22_2_3_4#_  5_.4#5_2__2_
+    5_.65_3_.43_  1__.-5__.
+    5_.65_3_.42_  1__0___ //] >>
+FCT[Kinder - Lied]

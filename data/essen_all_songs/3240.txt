@@ -1,0 +1,13 @@
+F[ERK2
+CUT[S IST ALLES DUNKEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0698A 08  G 3/4]
+MEL[-5-5-5  133333  355
+    543  2_4_32  1_0
+    1-71  2_.21-6  -5_0
+    -7-71  2_.21-6  -5_0
+    -5-5-5  -3-51333  3_5
+    543  2_4432  1_0
+    -5-5-5  -3-51333  3_5
+    543  2_4432  1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[MEINST DU DENN ICH SOLL MICH KRAENKEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[E0699D 08  D 3/4]
+MEL[34  5_.365  5-72_
+    23  4_.254  3__
+    34  5_.365  5_4_
+    23  4_.25-7  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

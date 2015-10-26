@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Einst stieg ich auf hohen Felsen]
+CNR[und schaute hinab in das Tal,]
+REG[Mitteleuropa, Oesterreich / Italien, Suedtirol, Brixen, Vals]
+SRC[8, S. 94
+    1941 aufgezeichnet]
+KEY[Q0155i 08  G 6/8]
+MEL[-5  333323  420_.
+    -7  444434  5_0_.
+    +1  7_64_6  6_53_
+    5  5_45_4  3_0_.
+    +1  7_64_6  6_53_
+    5  5_45_4  3_0_. //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]

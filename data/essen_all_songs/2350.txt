@@ -1,0 +1,9 @@
+FINK
+CUT[DER HERR DER SCHICKT DEN JOCKEL AUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0879  08  G 2/4]
+MEL[-5  1234  555
+    5  64+16  655
+    5  4444  365
+    5  42-7-5  211 //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Scherz]

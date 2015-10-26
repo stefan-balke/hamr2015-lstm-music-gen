@@ -1,0 +1,13 @@
+F[ERK5
+CUT[Koennt ich von Herzen singen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0087  04  A 6/4 4/2]
+MEL[1_  1_1-7b_-5  -7b_1_
+    3b_  3b_53b_1  -7_1_
+    1_  1_1-7b_-5  -7b_1_
+    3b_  3b_53b_1  -7_1_
+    3b_  3b_23b_1  21-7b_0_
+    3b_  3b_23b_4  5_3b1-7b_
+    3b_  3b_53b_1  -7_1_ //] >>
+FCT[Lied]
+CMT[Hamburg 1598 No. 77]

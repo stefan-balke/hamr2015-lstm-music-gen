@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die schoene Magdalena
+    Es hat sich eines Bauers schoenes Toechterlein,]
+CNR[Magdalena wird sie es genannt,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[6, S. 64
+    1939 gedruckt in Kassel]
+KEY[Q0125A 16  G 6/8]
+MEL[-5__  1_.23b3b2_1_-7-7  1_.23b12__
+    55  5_5_5_5_3b_4_  5__.0__
+    3b4  5_5_554_4_54  3b45_0__.
+    43b  23b4_0__.3b2  1_.23b12__
+    12  3b_5_445_3b_2_  1__0__ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]
+CMT[Schlusspause ergaenzt.
+    Vierte Zeile = refrainartig, auf Wortwiederholungen.]

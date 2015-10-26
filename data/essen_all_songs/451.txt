@@ -1,0 +1,7 @@
+ZUCCAL
+CUT[HANS SATTLE MIR DEN GAUL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0037  16  C 4/4]
+MEL[1__1_-5_-6_-5_  1__3__2_1_-7_2_  -5__0_
+    1_1_-5_-6_-3-4  -5__-3_-5_1_-5_-3_-2_  -1__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

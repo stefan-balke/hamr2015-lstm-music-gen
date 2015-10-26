@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Stolz Reiter wollte ausreiten]
+CNR[wohl ueber Liggen und Heiden.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[5, S. 16
+    1926 gedruckt in Heidelberg]
+KEY[Q0089I 08  G FREI]
+MEL[12  3__1-7-6_.-71_  131_
+    12  3__1-7-6_.-71_  2__.1__
+    1_1_-7_-6_  -5__-5_2__2_3_3_2_  3__
+    2_1_-7_-6_-5__1_  2__3_  1__ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]

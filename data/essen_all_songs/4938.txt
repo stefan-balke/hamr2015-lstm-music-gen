@@ -1,0 +1,13 @@
+DVA
+CUT[Muede kehrt ein Wandersmann zurueck
+    nach der Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland Pfalz, Eifel, Kerpen]
+KEY[D1010  08  G 4/4]
+MEL[-51  3_.21-713  -5__0_
+    -5-7  2_.1-7265  3__0_
+    12  3_.54321  -6__0
+    1-71  -5_.1-7265  3__0_
+    12  355_4321  1_6_0
+    654  3_.1-714-7  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 52 662]

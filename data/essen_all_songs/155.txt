@@ -1,0 +1,20 @@
+BOEHME
+CUT[ICH BIN VOM BERG DER HIRTENKNAB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0185  04  G 3/4]
+MEL[-5  1_3  5_3  5_3  2_
+    3  1_3  5_3  5_3  2_
+    2  321  5_2  321  -5_
+    1  321  542  321  5_
+    -5  1_3  5_3  2_.  1_ //] >>
+FCT[Natur - Lied, Berg]
+BOEHME
+CUT[ICH BIN VOM BERG DER HIRTENKNAB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0185  04  G 3/4]
+MEL[-5  1_3  5_3  5_3  2_
+    3  1_3  5_3  5_3  2_
+    2  321  5_2  321  -5_
+    1  321  542  321  5_
+    -5  1_3  5_3  2_.  1_ //] >>
+FCT[Natur - Lied, Berg]

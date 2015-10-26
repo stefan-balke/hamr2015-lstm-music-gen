@@ -1,0 +1,8 @@
+F[ERK2
+CUT[IM MAIEN DIE VOEGELEIN SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn]
+KEY[E0960A 08  A 6/8]
+MEL[-5  11-7-6-62  1-7-6-5_
+    -5  -3-4-5-6_-5  1_23_
+    -5  -5-5-5-6_-6  -7-6-71_ //] >>
+FCT[Tanz - Lied, Reigen, Mai - Tanz]

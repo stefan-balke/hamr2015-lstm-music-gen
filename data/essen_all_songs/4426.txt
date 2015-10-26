@@ -1,0 +1,11 @@
+F[ERK3
+CUT[GUTER FREUND ICH FRAGE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Eifel, Ingenbruch]
+KEY[E2131A 08  G 4/4]
+MEL[  1_.23_3_  2_2_1_0_
+    3_.45_5_  4_4_3_0_
+    5_.3543_  2_343_0_
+    3_323_3_  3_323_0_
+    2_3_2__  2_3_2_
+    13  5_3_234_  4__3_0_ //] >>
+FCT[geistliches Lied, Curiosum]

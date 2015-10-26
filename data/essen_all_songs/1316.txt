@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    'Nun adje, Schatz, und ich muss fort,]
+CNR[ich muss wohl in die Fremde ziehn.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 86
+    ????]
+KEY[Q0056P 04  G 6/4]
+MEL[1-5_1  3b_21_-7b  1_
+    -7b3b_4  5_7b53b4  5_
+    57b_5  6b545_4  3b_
+    55_4  43b21_-7b  1_ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

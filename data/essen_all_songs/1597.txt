@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Pfalzgraf an dem Rhein,]
+CNR[der hatte drei schoene Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+SRC[4, S. 106
+    1892 gedruckt in Neuwied]
+KEY[Q0075J 16  D 2/4]
+MEL[3b_  3b_3b_3b_3b_  4_4_-7b_
+    2_  222_2_4_  3b_3b21_
+    3b_  3b3b6b_5_4_  3b_2_1_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

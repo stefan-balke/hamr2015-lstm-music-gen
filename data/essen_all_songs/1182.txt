@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Es freit' ein wilder Wassersmann,]
+CNR[freit' sieben Jahr nach einer Braut,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Ostprignitz, Wittstock]
+SRC[2, S. 174
+    1852 aufgezeichnet]
+KEY[Q0047C 08  D 4/4]
+MEL[13  5_5435+1_  6_654_
+    45  6_6_67+1+2  755_5_
+    5_  +1_+1_+1+2+3+1  5_67+1_ //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]

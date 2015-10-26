@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ZEUCH FAHLE ZEUCH, MORGEN WOLL'N WIR HABER SAEEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0224  04  F 4/4]
+MEL[  0534  5__
+    3543  221_
+    3543  221_
+    3_22  1_0_ //] >>
+FCT[Soldaten - Lied, dreissigjaehriger Krieg]

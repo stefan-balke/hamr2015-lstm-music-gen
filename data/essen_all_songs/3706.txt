@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die beiden Waisenkinder
+    Es waren zwei Koenigskinder,]
+CNR[die hatten einander so lieb,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[5, S. 310
+    ????]
+KEY[Q1118A 08  G 6/8]
+MEL[-5  1111-71  22_0_
+    2  225554  3_.
+    5_.  345345  6_.65
+    4  5555_4  3_.
+    5_.  345345  6_.65
+    4  5555_4  3_.0_ //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0118 ff., anderes Lied.]

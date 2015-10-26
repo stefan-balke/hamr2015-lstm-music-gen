@@ -1,0 +1,11 @@
+ALTDEU
+CUT[St. Georg]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0612  08  G 4/2]
+MEL[3b_2_  1__5__4_.56b__  5___0__
+    3b_2_  1__5__4_.56b__  5___5__
+    6_7b_  +1__5_5_4_.3b4_5_  3b___0__
+    7b_7b_  +1__5_.43b_3b_4_4_  5___0__
+    3b_2_  1_2_3b__4_2_1__  5_5_4__123b42_2_  1___0__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[WK II No. 1235 (nach Altkoelnischer Volksgesang Gsgb 1625)]

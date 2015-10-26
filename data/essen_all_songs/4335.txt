@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ALS ICH BEI MEINEN SCHAFEN WACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1949  08  G 4/4]
+MEL[  3b_21-7b_.-7b  1_.23b__
+    3b_21-7b_.-7b  1_.23b__
+    3b_21-7b_.-7b  1_.23b__
+    3b_21-7b_.-7b  1_.23b__  0_
+    3b_2_.2  1__2_.2  1__
+    3b_4_  5__3b_4_  5__
+    5_43b  2_1_2_-7_  1__
+    5_43  2_1_2_-7_  1___ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

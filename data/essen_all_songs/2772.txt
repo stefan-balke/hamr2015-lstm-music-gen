@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN VOGEL HOCHZEIT MACHEN]
+REG[Europa, Mitteleuropa, Deutschland, Danzig]
+KEY[E0163A 08  G 2/4]
+MEL[-5  1234  5555
+    64+16  6550
+    444_  333_
+    2342  211 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

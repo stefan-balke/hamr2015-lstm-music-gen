@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Vor Fastnacht]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0489  02  F 4/2 6/2]
+MEL[1_  1_2_  3_43  5_31  2_1_
+    4_  36_54_  3_0_
+    1_  1_2_  3_43  5_31  2_1_
+    4_  36_54_  3_0_
+    5_  567+1  6_5_33  6_423_  2_0
+    2  3344  5_33  66+1+1  7_6_
+    5_  +1_76  5_6_  432_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Muenchner Cod. germ 1461 Bl. 54b.]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES THAET EIN KOENIG AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E0107B 08  G 3/8]
+MEL[-5  1_1  1-71  210  0_
+    -5  1_1  1-71  210  0_
+    3  5_2  432  133  2_
+    2  -5-5-7  -5_-7  21-7  1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

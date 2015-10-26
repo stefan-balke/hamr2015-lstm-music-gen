@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES GIENGEN ZWEI LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Dillkreis]
+KEY[E0194B 08  G 3/4]
+MEL[-5_  1_.23_  2_1_
+    2_  3_.453  2_0_
+    13  543_24  321_
+    24  3_5_2_  3__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

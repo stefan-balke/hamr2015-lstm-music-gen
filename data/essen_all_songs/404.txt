@@ -1,0 +1,18 @@
+BOEHME
+CUT[DAS GANZE DORF VERSAMMELT SICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0476  08  D 3/4]
+MEL[1  135342  3331
+    2-7  155443  3_2_0
+    5  57+2754  35+1_.
+    +1  +165_42  2_1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]
+BOEHME
+CUT[DAS GANZE DORF VERSAMMELT SICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0476  08  D 3/4]
+MEL[1  135342  3331
+    2-7  155443  3_2_0
+    5  57+2754  35+1_.
+    +1  +165_42  2_1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Die misshandelte Schwiegertochter
+    Bruid Ader en Heer Halewijn,]
+CNR[Het waren twee koningenkinderen fijn:]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[4, S. 128
+    1900 gedruckt in Gent]
+KEY[Q2076A 16  A 6/8 9/8]
+MEL[2_  1__1_3b__3b_  5__5_5__
+    4_  3b_2_3b_5__.4__4_  5_.54_2__
+    1_  2__3b_4__5_4__3b_  1__.-7b__
+    55  5__5_4__3b_  2_3b_4_5__4_  3b__2_1__.0__
+    1_  2__3b_4__5_  4__3b_1__2_  1__.-7b__
+    55  5__5_4__3b_  2_3b_4_5__4_  3b__2_1__.0__
+    11  2__3b_4__5_4_4_3b_  1__.-7b__
+    55  5_4_3b_2_3b_4_5__4_  3b__2_1__ //] >>
+FCT[Ballade, Adelige als Dienstmagd, boese Schwiegermutter]
+CMT[Flaemische Fassung der Ballade.]

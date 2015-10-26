@@ -1,0 +1,10 @@
+F[ERK3
+CUT[SEID NUR LUSTIG UND FROEHLICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Frankfurt a.M.]
+KEY[E1609  08  G 3/4]
+MEL[  135_54  3_4_5_
+    5_6543  2_-7_-5_
+    56543_  56543_
+    2_2_2_  3_5__
+    4_3_2_  1__0_ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

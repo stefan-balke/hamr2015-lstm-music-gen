@@ -1,0 +1,9 @@
+F[ERK3
+CUT[TUK TUK  TUK MIEN HAEHNEKEN]
+REG[Europa, Mitteleuropa, Deutschland, Hannover]
+KEY[E1847  08  F 2/4]
+MEL[  1113  555
+    5  67+16  5_0
+    5  5444  433
+    3  2342  1_0_ //] >>
+FCT[Kinder - Lied, Tier - Lied]

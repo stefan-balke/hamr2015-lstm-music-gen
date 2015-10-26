@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ES BLIES EIN JAEGER WOHL IN SEIN HORN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0234  16 Eb 2/4]
+MEL[34  5_6_5_4_  3_2_3_
+    45  6_5_4_3_  2__0_
+    13  5_5_5_+1_  6__
+    5_4_  3__2_1_  1__0_
+    12  3_333_33  3__0_
+    23  4_444_44  4__0_
+    34  5_5_5_+1_  6__5_
+    4_  3__2_2_  1__0_ //] >>
+FCT[Jaeger - Lied]

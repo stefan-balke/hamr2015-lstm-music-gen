@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH HAB MIR EINEN GARTEN GEPFLANZT]
+REG[Europa, Mitteleuropa, Deutschland, Bonn, Kessenich]
+KEY[E0552  08  A 4/4]
+MEL[-5_  1_2_3b_2_  1__-7b_
+    -7b_  3b4554_42  3b__0_
+    3b4  5_5_3b_5_  4_3b_2_
+    23b  4_4_2_5_  3b_23b1_0_
+    2_.3b4_52  3b_2_1_ //] >>
+FCT[Liebes - Lied, Vertroestung]

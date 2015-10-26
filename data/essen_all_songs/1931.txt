@@ -1,0 +1,13 @@
+FINK
+CUT[WENN MICH NUR MEIN ROESCHEN LIEBT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0131  16  F 2/4]
+MEL[  1_-5_-5_1_  2_243__
+    463524-62  -7__1542
+    1_-5_-5_1_  2_243__
+    463524-62  -7__10_.
+    -5_-5_5_-5_  -5_-5_4__
+    3_216421  -7_.-6-5__
+    1_-5_-5_1_  2_243__
+    4-63-524-62  -7__10_. //] >>
+FCT[Liebes - Lied]

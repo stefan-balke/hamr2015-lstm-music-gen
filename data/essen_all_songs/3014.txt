@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ICH HAB EIN KLEINES HUETTCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0516  08  F 3/4]
+MEL[-512  3_.423  1_.
+    334  5_.645  3_0
+    111  6_.6+16  5_3
+    555  4_2555  3_0
+    111  6_.6+16  5_3
+    555  4_2555  3_0 //] >>
+FCT[Liebes - Lied]

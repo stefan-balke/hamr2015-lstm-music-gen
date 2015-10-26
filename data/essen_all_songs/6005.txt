@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Frau von Weissenburg
+    Was wollen wir aber singen,]
+CNR[was wollen wir heben an?]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 304
+    1557 gedruckt]
+KEY[Q0030A 08  C 6/4]
+MEL[1_  1__3_3__1_  3__454__
+    32  1_1_1_5__4_  3__.0__
+    45  4__3_1__3_  2__2_-5__
+    3_  4__321__-6-7  1__.0__ //] >>
+FCT[Ballade, Ehebruch, Mord, Moral]
+CMT[Grundton in der zweigestrichenen Oktave; Taktart ergaenzt]

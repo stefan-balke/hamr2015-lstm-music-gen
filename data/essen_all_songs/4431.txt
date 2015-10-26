@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ALLES IST VERGAENGLICH]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E2149  08  F 4/4]
+MEL[  1_.23_3_  3_.21_0_
+    2_2_-7_-72  1__0_
+    3_  2_4_-7_-7_  1__3_
+    3_  2_2_-7_-5_  1__3_0_
+    322_-7_-7_  1__.0_ //] >>
+FCT[geistlich, Moral - Lied, Vergaenglichkeit]

@@ -1,0 +1,12 @@
+F[ERK3
+CUT[GOLDNE GOLDNE BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1879  08  D 2/4]
+MEL[  1234  5_5
+    5  66+16  5_3
+    5  4_25  3_1
+    3  2345  4_3
+    1  5531  553
+    1  66+16  5_3
+    5  6543  2_10 //] >>
+FCT[Kinder - Lied, Tanz, Bruecken - Spiel]

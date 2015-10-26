@@ -1,0 +1,13 @@
+F[ERK2
+CUT[NUN SO REIS ICH WEG VON HIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0791  08  D 4/4]
+MEL[  1_.35_+1_  6_+165__
+    4_.53_1_  2__1_0_
+    1_.35_+1_  6_+165__
+    4_.53_1_  2__1_0_
+    5_5_4_4_  3_532__
+    5_5_4_4_  3_532__
+    1_.35_+1_  6_+165__
+    4_.53_1_  2__1_0_ //] >>
+FCT[Abschieds - Lied, Liebe]

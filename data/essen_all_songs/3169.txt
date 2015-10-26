@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ACH DEN ICH HAETT SO GERN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0637A 16  C 3/4]
+MEL[-3_-5_1_  3_.21_-3_-5_-3_  -6_.-6-5_
+    -1_-3_-1_  -5_.-4-5_-2_-4_-2_  -6_.-6-5_
+    -3_-5_1_  3_.21_-3_-5_-3_  -6_.-6-5_
+    -1_-3_-1_  -5_.-4-5_2_4_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

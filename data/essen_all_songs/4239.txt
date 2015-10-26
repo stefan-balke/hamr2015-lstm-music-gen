@@ -1,0 +1,10 @@
+F[ERK3
+CUT[VIOLA BASS UND GEIGEN]
+REG[Europa, Mitteleuropa, Deutschland, Heidelberg]
+KEY[E1790  16  C 4/4]
+MEL[-5__  1__-7_-6_-5__-6__  -5__-4__-3__
+    -5__  -6_.-5-6_.-71_.-71_.-6  -5__-4__-3__
+    3__  3_2_4_2_1__-7__  1__0___
+    1_-7_  -6_.-4-4_-4_-4__2_1_  -7_.-5-5_-5_-5__
+    4__  3_2_4_2_1__-7__  1__0___ //] >>
+FCT[Scherz - Lied; Studenten -, Abschieds - Lied]

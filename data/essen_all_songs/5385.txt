@@ -1,0 +1,15 @@
+KINDER
+CUT[SCHLAF DU KLEINE SEELE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[K0037  08  G 6/8]
+MEL[  -511123  3_.2_.
+    -522254  4_.3_0
+    -511123  3_.2_.
+    -522254  4_.3_0
+    5_3345  4_.2_.
+    4_2234  3_.1_.
+    -511123  3_.2_.
+    353212  1_.0_.
+    353242  1111_0
+    353242  1_.0_. //] >>
+FCT[Kinder -, Wiegen - Lied]

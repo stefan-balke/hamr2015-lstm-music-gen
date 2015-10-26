@@ -1,0 +1,9 @@
+BOEHME
+CUT[EIN JUNGES LAEMMCHEN WEISS WIE SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0632  16  G 2/4]
+MEL[-5_  1_1_-7_-5_  3_3_2_
+    5_  4_3_2_1_  3__2_
+    -5_  4_4_3_1_  6_6_5_.
+    4  3_1_2_-7_  2__1_ //] >>
+FCT[Kinder - Lied, Tier]

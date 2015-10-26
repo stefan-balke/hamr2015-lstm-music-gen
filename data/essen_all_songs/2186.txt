@@ -1,0 +1,10 @@
+FINK
+CUT[GOTT GRUESS SIE LIEBER HERR PAPA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0526A 08  G 3/4]
+MEL[54  3__3_  3_2_3_  5_4_4_  4__
+    3_  3_2_2_  2_1_2_  4_3_3_  3__
+    54  3__3_  3_2_3_  5_4_4_  4__
+    3_  3_2_2_  2_1_2_  4_3_3_  3__ //] >>
+FCT[Studenten - Lied]
+CMT[Strophenvariante zu F0526]

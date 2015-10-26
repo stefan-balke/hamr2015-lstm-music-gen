@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Wiegenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0493  02  F 4/2]
+MEL[1  1131  555
+    5  6534  5_0
+    5  5553  553
+    5  4322  1_3_  5322  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Calvisius, Harmonia cantionem 1597 und Strassburger Gsgb 1616.]

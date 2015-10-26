@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt' ein Maedel wohl frueh aufstehn]
+CNR[dreiviertel Stunden vor Tag.]
+REG[Mitteleuropa, Deutschland / Polen, Pommern, Stettin - Gruenhof]
+SRC[7, S. 72
+    1895 aufgezeichnet (eingesandt: 1930)]
+KEY[Q0147A 16  F 4/4]
+MEL[-5__  1__1__-7_.-7-7__  -6__-6__-5__
+    -5__  -6__4__3_3_2__  1___0__
+    1_2_  3__1__3__5__  5__4__2___
+    -5__-7__2__4__  6__5__3__
+    1_3_  5__5__4_4_2__  1___0__ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Notenwert in der 3. Zeile rhythmisch korrigiert.
+    Vierte Zeile refrainartig.]

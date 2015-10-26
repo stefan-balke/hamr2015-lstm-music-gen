@@ -1,0 +1,16 @@
+ZUCCAL
+CUT["Muenchen"
+    BIN IN MUENCHEN GEWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Oberbayern]
+KEY[Z1327  08  G 3/4]
+MEL[34  3_.22-7  1_3_
+    33  5_.42-5  5_0_
+    34  3_.22-7  1_1_
+    13  6_.54-7  1_0_
+    13  5_5_5_  3_1_
+    13  5_.-7-7_  1_0_
+    34  3_.22-7  1_3_
+    3_  5_.22-5  5_0_
+    34  3_.22-7  1_3_
+    13  6_.54-7  1_0_ //] >>
+FCT[Zech -, Schalks - Lied]

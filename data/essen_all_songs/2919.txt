@@ -1,0 +1,13 @@
+F[ERK1
+CUT[IHR FRANZOSEN GEHT NACH HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0356B 16  D 2/4]
+MEL[  -5__-5__  1_-5_-3_-5_  -5__.-4_  -4__-3__
+    -5__-5__  1_-5_-3_-5_  -5__.-4_  -4__-3__
+    -1_-3_-3_-5_  -5_-2_-2_-2_
+    -2_-4_-4_-6_  -6_-5_-5_-5_
+    -5_.-5-5_1_  -6_-6_-6__
+    -7_.-7-7_2_  2_1_1__
+    -5_.-5-5_1_  -6_-6_-6__
+    -7_.-7-7_2_  2_1_1__ //] >>
+FCT[historisches Lied, Krieg gegen die Franzosen (1813 und 1871)]

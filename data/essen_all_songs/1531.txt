@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging ein Jaeger jagen]
+CNR[dreiviertel Stunden vor Tagen,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Peterwitz]
+SRC[7, S. 217
+    ????]
+KEY[Q0152M 08  C 4/4]
+MEL[5_  5_5_5_5_  5_+3_+1_
+    7_  6_6_666_  6_+4_+2_
+    +1_  7_7_+2+1+2_  +3__+4+3
+    +2_  +1_+1_+2+1+2_  +1__0_ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Rhythmische Veraenderung: Die Achtel am Ende der 3. Zeile sind
+    eigentlich Teil einer Triole. Manipuliert.]

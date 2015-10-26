@@ -1,0 +1,11 @@
+F[ERK3
+CUT[PETERSILJE SUPPENKRAUT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Dresden]
+KEY[E1872  08  G 2/4]
+MEL[  1113  11-5_
+    1113  1_-50
+    1113  11-5_
+    1113  1_-50
+    11-5_  11-5_
+    1122  -5-510 //] >>
+FCT[Kinder - Lied, Tanz, Ringelreihen]

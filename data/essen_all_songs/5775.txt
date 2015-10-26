@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Liebeslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0220C 02  E 4/2]
+MEL[1_4_  3b2b_1  -7b_1_
+    5_6b_  6b5_5  4__
+    1_4_  3b2b_1  -7b_1_
+    5_6b_  6b5_5  4_0
+    6b  5445  6b_6b
+    3b  43b42b  1__
+    16b5_  7b6b_5  4_5_
+    1_2b_  1-7b_-7b  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Herm. Schein, in Scheins Gesangbuch 1627]

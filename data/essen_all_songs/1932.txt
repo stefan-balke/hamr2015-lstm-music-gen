@@ -1,0 +1,11 @@
+FINK
+CUT[ES STAND EINE LINDE IM TIEFEN TAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0135  16  C 2/4]
+MEL[-5_  1_111353  2_.1-7_
+    2_  1_-6_-6_1_  -5_.-4-3_
+    -5_  1_1_2_12  3__2__  1__0_
+    1_  2_222_3_  2_.1-7_
+    -71  2_2_2_3_  2_.1-7_
+    -5_  1_1_2_12  3__2__  1__0_ //] >>
+FCT[Liebes - Lied, Treue]

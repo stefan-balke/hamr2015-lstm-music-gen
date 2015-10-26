@@ -1,0 +1,9 @@
+FINK
+CUT[AM HEILIGEN ABEND VORM OSTERFEST]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0201  16  A 3/8]
+MEL[-5_  1_.11_  1_1_3b_  3b__2_  2__
+    22  2_.222  5__4_  3b_2_3b_  1_.
+    111  2_.3b21  2_2_3b_  4__3b4  5_5_
+    5_  5_4_4_  3b__3b_  3b__2_  2_1_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

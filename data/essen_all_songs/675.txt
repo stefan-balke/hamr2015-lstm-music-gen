@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[WENN I MORGENS FRUEH AUFSTEH]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z0258  08  F 3/4]
+MEL[  -6-61#-62-7  3_61#3_
+    -7_321#-7  -6_1#-61#_
+    -6_1#-61#-6  3_61#3_
+    1#_321#-7  -6_0_
+    (321)  -7_0_(432)  1_0_
+    (321)  2_0_(432)  3_0_
+    55  5+15_3_  1_0_
+    31  -554#542  1_0__ //] >>
+FCT[lyrisches Lied, Romanze]
+CMT[ Modulation in T9]

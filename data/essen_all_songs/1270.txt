@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Ach Herre Gott, mich treibt die Not,]
+CNR[dein goettlich Huelf zu suchen;]
+REG[Osteuropa, Tschechoslowakei, Boehmen]
+SRC[3, S. 51
+    1595 gedruckt]
+KEY[Q1055M 04  G 3/2]
+MEL[111  4_.234  5_0
+    555  +1_676_  5_0
+    555  6_.543  2_0
+    555  4_532_  1_. //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0055B, D, und E; anderes Lied.]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[IHR CHRISTEN GROSS UND KLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse]
+KEY[E2079  08  F 4/4]
+MEL[-5_  1_133_2_  1__0_
+    12  3_355_4_  3__0_
+    23  4__3_3_  2__0_
+    53  2_21-7_13  2__0_
+    53  2_21-7_13  2__0_
+    24  3__2_2_  1__0_ //] >>
+FCT[geistlich, Marien - Lied]

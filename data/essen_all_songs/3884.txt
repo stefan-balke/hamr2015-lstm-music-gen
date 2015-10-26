@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HERMEN FLA DERMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1279A 08  E 4/4]
+MEL[  3b_.21_3b_  4__3b_
+    12  3b_.21_3b_  4__3b_
+    45  6b_.54_3b_  4__3b_
+    3b_  4_.3b2_1_  2__1_
+    23b  4_.3b2_1_  2__1_0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

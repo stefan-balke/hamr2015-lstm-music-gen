@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Mahnung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0652  04  D 4/2]
+MEL[1_1_1_  5_5_7b_7b_  543b_0_
+    4_  5_7b57b6b54  3b__3b_
+    3b_  456b543b1_  1_5_4_
+    1_  3b_-7b_543b2  1__1__  0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Strassburger Hs.]

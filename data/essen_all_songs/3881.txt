@@ -1,0 +1,12 @@
+F[ERK3
+CUT[SENTER KLOS DEN HEILGEN MANN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+KEY[E1272  16  G 2/4]
+MEL[  1_1_2_2_  3_2_1_0_
+    1_1_2_2_  3_2_1_0_
+    3_3_2_1_  3_3_3_
+    3_  2_2_2_1_  3__3_
+    3_  2_2_2_1_  3__3_
+    3_  2_2_2_1_  3__3_
+    33  2_2_2_3_  1__1_0_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sankt Nikolaus]

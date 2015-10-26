@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Das Stelldichein"
+    WIAR I VON ZELL AUSSA GEH]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1240  08  D 3/8]
+MEL[333  434  5_.
+    5+13  542  1_.
+    5+13  541  461  431
+    333  434  5_.
+    5+13  542  1_. //] >>
+FCT[Liebes - Lied]

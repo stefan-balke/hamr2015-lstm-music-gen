@@ -1,0 +1,24 @@
+BOEHME
+CUT[WER SINGET IM WALDE SO HEIMLICH ALLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0159  04  E 4/4]
+MEL[1  1_11  3b_21  3b_21  5_
+    12  3b23b1  5_
+    12  3b23b1  5_
+    3b4  5_5_  5_6b5  5444  4_
+    23b  4444  47b7b6b  53b3b3b  3b_
+    4_  5555  5555  7b6b54  5_
+    5_  5555  5555  5_4_  3b_2_  1_. //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WER SINGET IM WALDE SO HEIMLICH ALLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0159  04  E 4/4]
+MEL[1  1_11  3b_21  3b_21  5_
+    12  3b23b1  5_
+    12  3b23b1  5_
+    3b4  5_5_  5_6b5  5444  4_
+    23b  4444  47b7b6b  53b3b3b  3b_
+    4_  5555  5555  7b6b54  5_
+    5_  5555  5555  5_4_  3b_2_  1_. //] >>
+FCT[Ballade, Romanze]

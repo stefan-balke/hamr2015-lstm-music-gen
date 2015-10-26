@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH WEISS NICHT BIN ICH REICH ODER ARM]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Franken; Baden; Hessen]
+KEY[E1374  08  G 4/4]
+MEL[-5_  1_3_5_31  -7_2_4_
+    2-7  1_3_5_43  3_2_0_
+    23  4_4_6654  3_3_5_
+    31  22225432  2_1_0_
+    23  4_4_6654  3_3_5_
+    31  22225432  2_1_0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

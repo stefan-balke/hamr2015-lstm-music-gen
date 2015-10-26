@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES HATT EIN GASTWIRTH EINEN SOHN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+KEY[E0050E 16  G 3/4]
+MEL[-5_  1_-5_1__3__  4_2_1__.
+    1_  3_4_5__5__  65432__.
+    1_  -7_234__3_1_  2__1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es war ein reiches Geschlechtelein]
+CNR[ueber Kanneburg auf der Reise.]
+REG[Osteuropa, UdSSR, Ukraine, Wolga]
+SRC[6, S. 108
+    1929 aufgezeichnet]
+KEY[Q0127H 08  G 4/4]
+MEL[3  5_.35_65  4_.34_
+    53  221_2_5_  4_3_2_
+    23  4_532_5_  4_432_
+    13  555_123_  2_3_1_
+    23  4_532_5_  4_432_
+    13  555_123_  2_3_1_0 //] >>
+FCT[Ballade, verbotene Liebe, Flucht]
+CMT[Verzierung (Vorschlag) . Schlusspause ergaenzt.]

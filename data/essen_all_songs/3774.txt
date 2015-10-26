@@ -1,0 +1,13 @@
+F[ERK3
+CUT[BALD GRAS ICH AM NECKAR]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Lindenfels]
+KEY[E1049  16  C 3/4]
+MEL[3_2_  1__-3__-5_-3_  -2__-4__
+    2_1_  -7__-5__-5_-4_  -3__-5__
+    3_2_  1__-3__-5_-3_  -2__-4__
+    2_1_  -7__-5__-5_-7_  1___0__
+    -6__4__1__  -5__3__1__
+    -7_.-6-7_.12__  1_.-71_.23__
+    -6__4__2__  -5__3__1__
+    -7_.-6-7_.12_.-7  1__0__ //] >>
+FCT[Tanz - Lied, Jodler]

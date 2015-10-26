@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Maria unser frowe,]
+CNR[kyrieleyson!]
+REG[Mitteleuropa, Deutschland]
+SRC[4, S.50
+    1349 Handschrift]
+KEY[Q1073G 08  D 4/4]
+MEL[+1_  +1_+1_+2_+1_  +2_7b65__
+    +1__7b_6_  7b_.65_
+    7b_  7b_6_7b_5_  4_3b_2_1_
+    3b_4_5_6_  7b_.65__
+    5_4_3b_4_  3b_2_1_ //] >>
+FCT[geistlich, Geissler - Lied, Brauchtum]
+CMT[Melodievergleich zu Q0073, D, E und F; anderes Lied "Viertes
+    Geissler - Lied" .]

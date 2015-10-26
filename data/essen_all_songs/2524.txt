@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WAR EIN JAEGER DER BLIES INS HORN]
+REG[Europa, Mitteleuropa, Deutschland, Siebengebirge]
+KEY[E0019F 08 Bb 6/8]
+MEL[-5  1_1111  2_22_.
+    1234_3  2_0_.
+    -5  2_2234  3231_.
+    123123  2_-5-5_.
+    3332_2  1_0_. //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[EIN SULTAN HATT EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glatz]
+KEY[E2127A 08  G 3/4]
+MEL[-5  111_2_  433_.
+    4  354_3_  2_1_0
+    -5  111_2_  433_.
+    4  354_3_  2_1_0
+    5  553_5_  534_.
+    4  321_2_  -5_1_0
+    5  553_5_  534_.
+    4  321_2_  -5_1_0 //] >>
+FCT[geistlich, Heiligen - Lied, Legende]

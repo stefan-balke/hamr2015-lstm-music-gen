@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Nun laube, Lindlein, laube]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0175  02  G 4/2]
+MEL[4_12  432_  1_0
+    5  6543  2_1_
+    023b2  13b1_  -7b_0
+    2  4212  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[In Trillers Singbuch 1555 zu einem geistlichen Text.]

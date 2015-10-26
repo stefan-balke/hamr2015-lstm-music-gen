@@ -1,0 +1,8 @@
+KINDER
+CUT[WAS TRAEGT DIE GANS AUF IHREM SCHNABEL]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[K1221  16  G 3/4]
+MEL[-5_-5_.-5  1__1__-7_.1  2__-5__-6_.-5  -5___
+    -5__  4__4_4_2_.4  3__3__
+    1_.3  2__2__1_2_  3__3__2_.2  1__0_ //] >>
+FCT[Kinder - Lied, Tier - Maerchen]

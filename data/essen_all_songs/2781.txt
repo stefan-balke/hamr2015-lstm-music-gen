@@ -1,0 +1,16 @@
+F[ERK1
+CUT[ICH ARMES WALDHAESELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse]
+KEY[E0169A 16  F 2/4]
+MEL[-5_  1__3_3_  2_.25_
+    4_  3__2__  1__0_
+    -5_  1_1_3_3_  2__5_
+    4_  3__2__  1__0_
+    1_  3_3_2_54  3__2_
+    1_  3_3_2_54  3__2_
+    -5_  1__.3_  2__.
+    4_  3_.45_6_  5__.
+    54  3_3_2_54  3__2_
+    54  3__2__  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

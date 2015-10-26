@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Podrcecer Maedelche,]
+CNR[Maedelche wollten grase gehn,]
+REG[Osteuropa, Polen, Ost - Galizien, Sprachinselgruppe Neu - Sandetz]
+SRC[7, S. 153
+    1933 gedruckt]
+KEY[Q0149S 08  G 3/8]
+MEL[-5  1_3  565
+    315  5_5  4_5  3_
+    -5  1_3  565  31
+    5  5_5  4_5  3_
+    5  3_1  2_5  31
+    5  3_3  2_2  1_
+    5  3_1  225  31
+    5  3_3  2_2  1_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

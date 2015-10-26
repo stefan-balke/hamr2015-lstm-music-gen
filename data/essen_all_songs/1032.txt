@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Vogler"
+    GRUESS DICH GOD MAI LIABI REGERL]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1297  16  E 3/4]
+MEL[5_.3  1__1__1_1_  1_6_6__.
+    5_  5__4__3__  2___
+    5_3_  1__1__1__  1_6_6__.
+    5_  4__3__2__  1__0__.
+    2_  3__3__2__  1__1__
+    3__  5__4__3__  2___
+    5_.3  1__1__1_1_  1_6_6__.
+    5_  4__3__2__  1__0__ //] >>
+FCT[Jaeger - Lied]

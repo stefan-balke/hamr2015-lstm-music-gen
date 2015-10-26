@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wollt ein Maedelein frueh aufstehn,]
+CNR[sieben Straeuss hat es am Fenster stehn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[4, S. 338
+    1928 gedruckt in Heidelberg]
+KEY[Q1086I 08  G FREI]
+MEL[1_  1_3_5_.65_  2_3_4_0_
+    55  3_2_3_1_  -7_132_
+    5_.7b  6_5_5431  2__1_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0086H, anderes Lied "Sieben Straeuss" .]

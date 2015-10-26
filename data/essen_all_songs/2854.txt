@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES WAR EIN ARME MUTTER]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0209A 08  E 6/8]
+MEL[-7b  3b_-7b3b_4  550_.
+    5  7b_55_4  5_.0_
+    5  7b_55_4  53b0_.
+    4  5_23b_2  1_0_. //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Geiz]

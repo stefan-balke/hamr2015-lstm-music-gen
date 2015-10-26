@@ -1,0 +1,18 @@
+BOEHME
+CUT[ZUM HAHN SAGT DIE TAUBA]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[B0445  08  F 3/4]
+MEL[-5_  3_2_1_  -712_
+    -5_  4_3_2_  123_
+    -5_  3_2_1_  +1_6_
+    43  2_2123  1_0_ //] >>
+FCT[Liebes - Lied, anti - Ehe]
+BOEHME
+CUT[ZUM HAHN SAGT DIE TAUBA]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[B0445  08  F 3/4]
+MEL[-5_  3_2_1_  -712_
+    -5_  4_3_2_  123_
+    -5_  3_2_1_  +1_6_
+    43  2_2123  1_0_ //] >>
+FCT[Liebes - Lied, anti - Ehe]

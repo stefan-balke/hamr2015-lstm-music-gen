@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES WAR EINMAL EIN GAERTNER, DER SANG EIN TRAURIG LIED]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z0190  08  F 4/4]
+MEL[5_5_+1_  6_544_3_  0_
+    5_5_+1_  6_544_3_  0_
+    5_+1_+1_  +1_76655
+    5  6_.66_54  43333__  +1_
+    3_3_+1_  5_.44_3_  43232_.0 //] >>
+FCT[Staende -, Gaertner - Lied; Romanze, Tod; 264-5 muss ueberprueft werden! ++]

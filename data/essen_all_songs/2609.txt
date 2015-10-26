@@ -1,0 +1,10 @@
+F[ERK1
+CUT[EEN KIND EN EEN KLEYNE KIND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0064  08  G 2/4]
+MEL[-5  1_13  1_35  5432  1_
+    35  5432  1_3_  2_0
+    2  2_3_  4_32  1231  -6_
+    -71  2_5_  4321  -7_2_  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

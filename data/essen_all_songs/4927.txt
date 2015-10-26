@@ -1,0 +1,17 @@
+DVA
+CUT[A bissel sikkarisch, a bissl sakrisch,
+    a bissl nobel muess ma thoa]
+REG[Europa, Mitteleuropa, Oesterreich, Tirol]
+KEY[D0297  08  G FREI]
+MEL[ -5_3_1_  -7_2_5_.-54-7  110
+    1-7-6  -5-50_-4-6  5_.
+    -531  -72550_7-7  11110_
+    -7-6  -54-6_-7-5  1_.
+    -531  -72550_7-7  11110_
+    -7-6  -54-6_-7-5  1_.
+    -5__.  -6__.  -7__.  153151  26426_
+    -754-751  1+1531_
+    153151  26426_
+    7_.65-7  1__. //] >>
+FCT[Jodel - Lied]
+CMT[Sonderzeichen in der Notation (Glissando)]

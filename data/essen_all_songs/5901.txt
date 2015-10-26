@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Bohnenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0362  08  F 4/4]
+MEL[5_6_6_  2_5_3_.1  2_2_1__  0_
+    5_5_5_  6_.54#_5_  4#__5__  0_
+    5_6_6_  2_5_3_.1  2_2_1__  0_
+    5_5_5_  6_.54#_5_  4#__5__  0_
+    5_6_7_  +1__0_7_  6_5#_6__  0_
+    +1_6_7_  +1_.76_5_  4__3__  0_
+    5_6_4#_  5__0_3_  4_2_3__  0_
+    1_5_3_  1_3_2__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Pet. Schoeffer II. 1537 No. 6., hier giebt Boehme die vereinfachte
+    Form nach Werlin 1646 S. 3135.]

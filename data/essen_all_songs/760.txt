@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Zwei Frauen"
+    EIN RITTER ZOG INS MORGENLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1025  16  E 6/8]
+MEL[+1_  +1_.+2+1_7b__6b_  5__5_6b_.54_  5__4_3b__
+    56b  7b__3b_4__.  3b__0__.
+    5_  5_.6b5_4__3b_  2__2_3b_.21_  -7__1_2__
+    23b  4__3b_2__.  1__0__. //] >>
+FCT[Romanze, Ballade, Maria, geistlich, Sage]

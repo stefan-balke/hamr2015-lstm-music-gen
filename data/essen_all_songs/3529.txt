@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+CNR[mit seinen Nachbarsleuten.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Neisse, Waltdorf]
+SRC[5, S. 19
+    1844 gedruckt (in "bereinigter" Form)]
+KEY[Q0089J 16  G 3/8]
+MEL[  -7_1_2_  3__4_  3_2_1_
+    -7_1_2_  3__4_  3__2_  1__
+    1_  4__3_  3_2_1_  2_2_1_  -7__0_
+    1_3_34  3_.21_  3__2_  1__0_ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]
+CMT[Von Erk "geglaettete" Fassung ist ebenfalls auf S. 19 abgedruckt.]

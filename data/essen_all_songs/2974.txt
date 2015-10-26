@@ -1,0 +1,9 @@
+F[ERK1
+CUT[MEIN SCHATZ IST VIERZIG MEILEN VON HIER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Lahnkreis, Altenkirchen]
+KEY[E0447B 08  G 4/4]
+MEL[-5_  1_3_3_21  2_-5_-5_
+    -5_  4_4_4654  3__0_
+    25  2_2_321_  -7-6-5_-5_
+    35  46543_2_  1__0_ //] >>
+FCT[Liebes - Lied]

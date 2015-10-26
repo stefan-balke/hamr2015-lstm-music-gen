@@ -1,0 +1,12 @@
+FINK
+CUT[FUCHS DU HAST DIE GANS GESTOHLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0243  08  F 2/4]
+MEL[  1234  5555
+    64+16  5_0_
+    64+16  5_0_
+    5444  4333
+    322-5  3_0_
+    5444  4333
+    3223  1_0_ //] >>
+FCT[Jugend - Lied, Kinder, Spiel]

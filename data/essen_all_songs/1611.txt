@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wollt ein Jaeger frueh aufstehn,]
+CNR[dreiviertel Stund vor Sonnaufgehn.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen]
+SRC[4, S. 111
+    ????]
+KEY[Q0075X 08  F 3/4 4/4]
+MEL[333  3_5_43  2_0
+    444  4_6_5_-7_  1_. //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

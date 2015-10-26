@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[PUTHOENEKEN, PUTHOENEKEN, WAT DEIST IN UNSERN GAR'N?]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[Z0117  16  G 2/4]
+MEL[+1_  5_.65_+1_  3_.43_
+    5_  4_3_4_5_  3__0_
+    +1_  5_.65_+1_  3_.43_
+    5_  4_3_4_5_  3__0_
+    1_  3_1_3_1_  4__3_
+    3_  2_1_2_3_  1__0_
+    +1_  5_.65_+1_  3_.43_
+    3_  2_1_2_3_  1__0_ //] >>
+FCT[Kinder - Lied]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Tanhaeuser]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0021  02  F 4/1]
+MEL[1_1_1_  2_3_4_4_  3_2_0_
+    2_  5_5_4_1_  2_3_4_0_
+    2_4_3_.2  5_4_3__  0_
+    2_3_4_  5_1_2__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Die Melodie des alten, echten Volksliedes vom Tanhaeuser habe
+    ich gluecklicherweise gefunden im 8. Quodlibet bei W. Schmeltzel
+    1544. Die vierte, fehlende Zeile habe ich musikalisch zu ergaen-
+    zen versucht.]

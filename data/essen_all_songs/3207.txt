@@ -1,0 +1,10 @@
+F[ERK2
+CUT[HOER ICH EIN SICHLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0679  08  F 4/4]
+MEL[-5_  1_.23_4_  5__6__  5_.43_
+    5_  6_5_4_3_  2__0_
+    34  5_.43_2_  1_.32_
+    2_  13543_2_  1__
+    2__  13543_2_  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

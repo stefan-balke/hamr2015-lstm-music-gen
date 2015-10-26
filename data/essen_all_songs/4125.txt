@@ -1,0 +1,12 @@
+F[ERK3
+CUT[JETZT REISEN WIR BRUEDER WOL ALLE ZUGLEICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1595  16  C 3/8]
+MEL[-5_  -5_1_1_  1__3_  3_2_2_  3__
+    23  4__3_  2__1_  3_2_0_  0__
+    -5_  -5_1_1_  1__3_  3_2_2_  3__
+    23  4__3_  2__1_  3_2_0_  0__
+    3_  4__3_  2__3_  4_4_3_  2__
+    3_  1__-7_  1__3_  3__2_  3__
+    5_  4_3_2_  3__1_  2_1_0_  0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Wanderschaft]

@@ -1,0 +1,12 @@
+BOEHME
+CUT[SO OFT ICH MEINE TABACKSPFEIFE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[B0649A 16  F 4/4]
+MEL[-5_1_3_  5__5__+1__.3_  5_4_4__0_
+    4_4_4_  3__5__6_.42_3_  1__0__.
+    -5_1_3_  5__5__+1__.3_  5_4_4__0_
+    4_4_4_  3__5__6_.42_3_  1___.0_
+    0_  5_5_5_5_4_6_6_
+    5_  7_7_7_7_5_+1_+1_
+    3_  5_5_5_5_6_.42_3_  1__0__. //] >>
+FCT[Moral -, Lob - Lied auf den Tabak]

@@ -1,0 +1,18 @@
+BOEHME
+CUT[ERWACHT VON SUESSEM SCHLUMMER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0223  04  C 4/4]
+MEL[-5  -6-5-6-7  1-50
+    1  -7213  2_0
+    -5  321-7  -7-60
+    -5  -621-7  1_0 //] >>
+FCT[Tageszeiten - Lied, Morgen]
+BOEHME
+CUT[ERWACHT VON SUESSEM SCHLUMMER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0223  04  C 4/4]
+MEL[-5  -6-5-6-7  1-50
+    1  -7213  2_0
+    -5  321-7  -7-60
+    -5  -621-7  1_0 //] >>
+FCT[Tageszeiten - Lied, Morgen]

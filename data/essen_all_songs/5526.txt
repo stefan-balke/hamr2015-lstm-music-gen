@@ -1,0 +1,14 @@
+KINDER
+CUT[ICH HAB EIN KLEINES MURMELTIER]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[K2256  08  F 2/4]
+MEL[1  5556  543
+    1  5556  5_3
+    1  5556  543
+    1  6543  2_1
+    1  5556  5_3
+    1  5556  543
+    1  6543  2_1
+    1  5556  543
+    1  6543  2_1 //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

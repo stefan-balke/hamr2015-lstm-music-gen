@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ACH MUTTER, LIEBE MUTTER!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0023  16  G 2/4]
+MEL[-5_  3_.33_.2  2__1_
+    -5_  4_4_4353  2__0_
+    -5_  5_.65_.4  3__54
+    32  1_1_3212  3__
+    2__  3_3_5432  1__0_ //] >>
+FCT[Sagen - Lied, Romanze, Koenigskinder, Tod]

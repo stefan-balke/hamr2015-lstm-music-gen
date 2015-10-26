@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Traum"
+    DAS MAEGDLEIN IM BRUNNGARTEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1088  08 Ab 4/4]
+MEL[-5_  1_3_2_3_  1_.-7-6_
+    -71  2_.21-7-6-5  -5__
+    1__  22225432  2__30
+    1-7  -6_1_2_32  1__0_ //] >>
+FCT[Romanze, Ballade]

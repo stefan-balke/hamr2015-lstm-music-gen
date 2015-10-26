@@ -1,0 +1,15 @@
+F[ERK1
+CUT[NAPOLEON DU GROSSER SIEGER]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau]
+KEY[E0351  16  G 3/4 2/4]
+MEL[-5_-5_-7_  1__3__3_2_  2_1_0_
+    1_1_3_  5__5__5_4_  4_3_0__.
+    1_  1_6_6_6_  6_5_5__
+    5_4_6_4_  4_3_5_
+    1_  1_6_6_6_  6_5_5__
+    5_4_6_4_  4_3_5__
+    22224__  33335__
+    3_4_5_.6  5_4_3_2_  1__0__
+    22224__  33335__
+    3_4_5_.6  5_4_3_2_  1__0_ //] >>
+FCT[historisches Lied, Napoleons russischer Feldzug (1812)]

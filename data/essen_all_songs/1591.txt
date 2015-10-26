@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Pfalzgraf an dem Rhein,]
+CNR[ja, ja, wohl an dem Rhein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[4, S. 104
+    1926 gedruckt in Heidelberg]
+KEY[Q0075D 08  F 4/4]
+MEL[12  3_3_322_  3_2_1__
+    2_4_3_2_  1_-7_-6_
+    -7_  1_-7_-6_.3  3__234_  3__0_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

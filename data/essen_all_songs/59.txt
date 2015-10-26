@@ -1,0 +1,18 @@
+BOEHME
+CUT[DER ALTE BARBAROSSA DER KAISER FRIEDERICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0080  08  G 4/4]
+MEL[-3_  -6_.1-7_-6_  -5__1_
+    1_  2_4_3_2_  1__0_
+    3_  3_.45_5_  5_.44_
+    3_  2_1_-7_2_  1__0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[DER ALTE BARBAROSSA DER KAISER FRIEDERICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0080  08  G 4/4]
+MEL[-3_  -6_.1-7_-6_  -5__1_
+    1_  2_4_3_2_  1__0_
+    3_  3_.45_5_  5_.44_
+    3_  2_1_-7_2_  1__0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

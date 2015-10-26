@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH GING BEI EITLER NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0157  08  D 3/4]
+MEL[12  3b_.23b_  4_.3b4_  5__.  ^_0_
+    5_  4_.54_  5_.6b4_  3b__.  ^_0_
+    3b4  5__5_  7b_.6b5_  4__.  2_5_
+    4_  3b_.21_  -7_.12_  1__.  ^_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank
+    Ballade ?]

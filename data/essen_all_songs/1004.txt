@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Frohsinn"
+    I BIN A JUNGS BIABL]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1269  08  G 3/4]
+MEL[  -511_1_  2_46
+    4_  -5-7-7_-7_  1_3+1
+    5_  -511_1_  2_46
+    4_  -5-7-7_-7_  1__0_ //] >>
+FCT[Natur und Welt]

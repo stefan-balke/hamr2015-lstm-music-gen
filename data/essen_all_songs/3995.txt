@@ -1,0 +1,13 @@
+F[ERK3
+CUT[MAEDCHEN MEINER SEELEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Taunus]
+KEY[E1414A 16  G 3/8]
+MEL[  -5_1_1_  1_3_5_  3_2_2_
+    2_3_4_  5__4_  3__0_
+    1__3_  3__5_  5_4_4_
+    2__4_  4_5_6_  6_5_4_
+    3__34  5__54  3__0_
+    1__3_  3__5_  5_4_4_
+    2__4_  4_5_6_  6_5_4_
+    3__34  5__54  3__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Krieg, Abschied]

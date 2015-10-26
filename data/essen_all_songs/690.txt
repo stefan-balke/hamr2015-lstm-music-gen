@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ADE ES MUSS GESCHIEDEN SEYN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0273  16  G 4/4]
+MEL[5__  3__0_3_5_.43_2_  1___0__
+    6__  5__.3_4_.34_5_  3___
+    6___  5__.434_.34_5_  3___0__
+    3_.2  2___0__4_.3  3__0_
+    -5_1_.23_4_  5__4_3_+1__6__  5___0__
+    5_.4  4___0__5_.4  3___0__
+    5__  +1__.+1_7__6__  5___0__
+    3__  5__4_3_5__.4_  3___0__ //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

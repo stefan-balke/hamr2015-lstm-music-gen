@@ -1,0 +1,8 @@
+F[ERK1
+CUT[IK UND MYN LYSBET]
+REG[Europa, Mitteleuropa, Deutschland, Ditmarsch]
+KEY[E0577  08  D 3/8]
+MEL[  135  135  666  5_0
+    666  5_5  444  33
+    3  222  1_0 //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Das Wunder"
+    ZWISCHEN BRIX UND KOMOTHAU]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1357  16  C 2/4]
+MEL[  +1_5_5_5_  5_.43_
+    5_  6_7_+1_6_  6__5__
+    +1_5_5_5_  5_.43_
+    5_  6_5_4_3_  3__2__
+    5_5_5__  +1_+1_+1__
+    6_+2+2+1_7_  7__+1__ //] >>
+FCT[Kinder - Lied]

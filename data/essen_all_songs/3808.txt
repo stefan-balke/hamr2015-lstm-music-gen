@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DIE DONAU IST INS WASSER GFALLN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar; Taunus]
+KEY[E1113A 08  G 2/4]
+MEL[-5  1112  333
+    3  234-7  1_0
+    2  21-71  2-7-7
+    2  21-71  2-7-7
+    -5  1113  5_.
+    4  3322  1_0 //] >>
+FCT[Luegen - Lied, Maerchen]

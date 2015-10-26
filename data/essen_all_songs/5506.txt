@@ -1,0 +1,9 @@
+KINDER
+CUT[HIER IST GRAS DORT IST GRAS]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[K2209  08  G 2/4]
+MEL[  553_  553_
+    6543  3_2
+    1  1234  555
+    3  6542  2_10 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

@@ -1,0 +1,12 @@
+F[ERK2
+CUT[WENN DU IN MI GOSSLI GOHST]
+REG[Europa, Mitteleuropa, Deutschland, Coburg]
+KEY[E0669  16  G 2/4]
+MEL[  1_3_3_4_  3_5_5__
+    1_3_3_4_  5__+1_0_
+    1_3_3_4_  3_5_5__
+    1_3_3_4_  5__+1_0_
+    3_3_3_.2  2_1_1_0_
+    4_4_4_.3  3_2_2_.
+    2  333_4_2_  2__1_0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,9 @@
+FINK
+CUT[WENN ICH EINST DAS ZIEL ERRUNGEN HABE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1041  16 Eb 3/4]
+MEL[5642  1_1_3_5_+1_76  5_.44_0_
+    4_3_  2_3_4_5_6_54  3__
+    +1__.76  5_.4#4#_4#_4#66+1  7_.44__
+    3_3_  2642133542-7_  1__0__ //] >>
+FCT[Trost - Lied]

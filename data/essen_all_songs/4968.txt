@@ -1,0 +1,12 @@
+BOEHME
+CUT[NUN ADE DU MEIN LIEB HEIMATLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0503  16  D 2/4]
+MEL[13  5_5_5_6_  5_.31_
+    65  5_.44_5_  3__0_
+    13  5_5_5_6_  5_.31_
+    65  5_.44_5_  3__0_
+    13  2_4_4_4_  3_.5+1_
+    7+1  +2_+1_7_6_  6_.55_
+    65  5_.44_5_  3__. //] >>
+FCT[Abschieds - Lied]

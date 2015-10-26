@@ -1,0 +1,11 @@
+FINK
+CUT[WER WILL UNTER DIE SOLDATEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0619  16  F 3/4]
+MEL[-5_-5_  1__.-7_1_2_  3_.21__
+    1_2_  3_.45__6__  5___0__
+    5_.43_3_3_3_  5_.42__0__
+    2_.23_3_4_4_  6_5_
+    +1_0_5_0_  3_555__
+    +1_5_  54345__4__  3___ //] >>
+FCT[Soldaten - Lied]

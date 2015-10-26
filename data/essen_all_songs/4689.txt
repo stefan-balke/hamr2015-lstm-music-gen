@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Heiligen - Anrufung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0605  02  F 4/1]
+MEL[1_3_5_5  6_4_5__
+    55555_4_  332_1__
+    1_2_3_5_  2_1_-6_-5_
+    3_4_5_6_  5_443_2_
+    132_1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Haym v. Themar Schoene Christenliche Cath. Weinaecht... 1590 No. 15.]

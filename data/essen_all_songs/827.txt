@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Nixenbraut"
+    ES FREIT DER WASSERNIXE]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1092  16  G 2/4]
+MEL[-5_  1_1-71_2_  3b_-7b_0_2_  1_-5__
+    -5_  1_1-71_2_  3b_-7b__2_  1_-5__
+    -5_  3b_3b23b_2_  3b45__
+    -5_  1_1-71_22  3b45__
+    43b  2_1_2__  1__0_ //] >>
+FCT[Romanze, Ballade, Tod]

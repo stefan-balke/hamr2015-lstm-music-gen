@@ -1,0 +1,24 @@
+BOEHME
+CUT[IM SCHOENSTEN WIESENGRUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein]
+KEY[B0275  16 Eb 4/4]
+MEL[-1_-3_  -5__.-6_-5__-4__  -3__.-2_-1__
+    -5__  -6__-5__-4__-3__  -2___0__
+    -5__  -5__-5__-5__1__  1___-6__
+    2__  1___-7___  1___0__
+    -5_.-3  -3_.-2-2___-6_.-4  -4_.-3-3___
+    -1_-3_  -5__-5__-5__1__  1___-6__
+    2__  1___-7___  1___0__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Heimat, Heimweh, Trauer]
+BOEHME
+CUT[IM SCHOENSTEN WIESENGRUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein]
+KEY[B0275  16 Eb 4/4]
+MEL[-1_-3_  -5__.-6_-5__-4__  -3__.-2_-1__
+    -5__  -6__-5__-4__-3__  -2___0__
+    -5__  -5__-5__-5__1__  1___-6__
+    2__  1___-7___  1___0__
+    -5_.-3  -3_.-2-2___-6_.-4  -4_.-3-3___
+    -1_-3_  -5__-5__-5__1__  1___-6__
+    2__  1___-7___  1___0__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Heimat, Heimweh, Trauer]

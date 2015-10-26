@@ -1,0 +1,11 @@
+FINK
+CUT[SAGT WO SIND DIE VEILCHEN HIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0311  16  F 2/4 6/8]
+MEL[  1_.15_5_  +1_+1_7__
+    6_5_+1_36  4__3__
+    2_3_4_32  5_.43__
+    2_1_4_3_  3__2_0_
+    1__-5_3b_2_1_  +1__+1_7__0_
+    2__3_4__3_  -6__.-7__.  1__.0__. //] >>
+FCT[Jugend - Lied, Moral, Vergaenglichkeit]

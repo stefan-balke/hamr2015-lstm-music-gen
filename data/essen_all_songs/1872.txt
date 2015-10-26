@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es waren drei Gesellen,]
+CNR[sie redten, was sie wellen.]
+REG[Osteuropa, UdSSR, Nord - Ukraine, Sprachinsel Belowjetsch]
+SRC[6, S. 276
+    1930 gedruckt]
+KEY[Q0139G 08  F 4/4]
+MEL[-5  1_-7-6-5_3_  2_1_0_.
+    -5  1_-7-6-5_3_  2_1_0_.
+    1  33333_23  4_332_0
+    2  22222_12  33223_. //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Schlusspause und einen Taktstrich weggelassen.]

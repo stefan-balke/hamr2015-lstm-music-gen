@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Et frad e Kenenk genzt dem Renj,]
+CNR[e frad e Kenenksdichterlenj;]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen, Muehlbach]
+SRC[2, S. 82
+    1850 aufgezeichnet (ca.)]
+KEY[Q0041E 08  G 4/4]
+MEL[333  -6_.-3-6_-7_  -6__0
+    333  2_2_3_2_  1__0
+    555  1_.14_3_  2__0
+    -6-5-4  -3-51_3_.2  1__0 //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Kluge Heirath"
+    ICH GING EINMAL LUSTWANDELN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[Z1111  08  C 3/4]
+MEL[-5_  1__1_  2_3_1_  -7__.  -6_0_
+    -6_  1_1_1_  1_-5_
+    -5_  1__1_  2_3_1_  -7__-7_  -6_0_
+    -6_  1_1_1_  1_-5_
+    -5_  1__3_  3_.21_  -7_-6_-6_  -6_0_
+    -6_  2_2_2_  2_3_1_  -7__2-7  -5_0_
+    -5_  1_1_1_  1_-5_1_  3_3_33  5_.43_  2__.  1_0_ //] >>
+FCT[Romanze, Ballade]

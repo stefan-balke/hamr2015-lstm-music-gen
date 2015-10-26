@@ -1,0 +1,9 @@
+F[ERK2
+CUT[LANG GENUG HAB ICH GESCHWIEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0697  16 Bb 3/4]
+MEL[-5_-6-7  1__.-5_-3_-5_  -5_-3_-5__
+    1_3_  2__.-7_2_.-6  -6__-5__
+    -5_-5_  3__.2_1_-6_  -5__-3_
+    -5_1_2_  3__3__2_2_  1__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

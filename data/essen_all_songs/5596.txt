@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der Brautmoerder]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0014  08  E 4/4]
+MEL[-5-5-5  1_.23b_2_  1__0
+    555  4_.45_4_  3b__0
+    7b7b7b  3b_.3b6b_5_  4__0
+    -7b-7b-7b  3b4543b_2_  1__0 //] >>
+FCT[Romanze, Ballade, Lied]

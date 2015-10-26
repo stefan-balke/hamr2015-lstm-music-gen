@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Markgraf nicht weit vom Rhein,]
+CNR[Er hat drei schoene Toechterlein.]
+REG[Sued - Amerika, Brasilien]
+SRC[4, S. 107
+    1937 gedruckt in Buenos Aires]
+KEY[Q0075M 08  F 6/8]
+MEL[-5  1-5-5-5_-3  -6_-6-6_
+    1  2_22_1  -7_-6-5_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Lied russlanddeutscher Siedler]

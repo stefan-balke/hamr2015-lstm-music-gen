@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Kornschneiden
+    Idt is ein Boicken kamen int landt,]
+CNR[datt wold so gerne denen;]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 210
+    1608 Handschrift (1603 - 08)]
+KEY[Q0136  04  F 3/4]
+MEL[1  1_-5  1_2  3_3  2_
+    1  1_-5  1_2  3_.  2_
+    1  2_3  4_5  3_3  2_
+    2  1_1  -5-6-7b  -6_.  -5_ //] >>
+FCT[Ballade, Beischlaf, Schwangerschaft, Moral]
+CMT[Taktart entsprechend den Taktstrichen als 3/4 bezeichnet.]

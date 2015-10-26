@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    Ah! vous diraije, maman]
+CNR[Ce qui cause mon tourment!]
+REG[Mitteleuropa, Frankreich]
+SRC[5, S. 281
+    17?? gedruckt (18. Jh.)]
+KEY[Q3115F 04  G 2/4]
+MEL[  11  55  66  5_
+    44  33  22  1_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0115E, anderes Lied.]

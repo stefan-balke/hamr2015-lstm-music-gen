@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielten zwei Ritter mit einer Dam',]
+CNR[sie spielten gegeneinander]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[3, S. 58
+    1842 gedruckt in Leipzig]
+KEY[Q0055U 16 Bb 2/4]
+MEL[-5_  11-5_-3-3-5_  1_-7_1_
+    3_  2_-7_11-6_  -6_-5_-5_
+    -5_  -6_-6_-6_-6_  -5_-5_-5_
+    -5_  1_1_331_  -5__1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

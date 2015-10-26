@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ES WOLLT EIN MAEGDLEIN EIN BULEN HAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0859A 08  G 4/4]
+MEL[1_  1_2_3_4_  5_5_5__
+    345_345_  4_3_2_
+    5_  5_2_3_1_  -7_1_2__
+    3_2_1_1_  1_-7_1_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

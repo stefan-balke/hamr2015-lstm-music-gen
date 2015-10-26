@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die schoene Magdalena
+    Wer ich eyn wilder Falcke,]
+CNR[ich wolt mych schwingen aus,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 72
+    1777 gedruckt in Berlin und Stettin; Komponist: Friedrich Reichardt]
+KEY[Q0125C 16  F 2/4]
+MEL[12  3_234_34  5__5_
+    45  6_567_67  +1__.
+    76  5_5_5_65  4__4_
+    54  3_432_32  1__. //] >>
+FCT[Ballade, verbotene Liebe, Flucht]
+CMT[komponiert]

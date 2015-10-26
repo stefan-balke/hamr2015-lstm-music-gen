@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Kind, wo bist du denn henne west?']
+CNR[In juer Schesters Huse!]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+SRC[4, S. 206
+    1866 aufgezeichnet]
+KEY[Q0079I 08  D 4/4]
+MEL[  1_123_34  5_6_5_
+    13  5_5_6_5_  4__3_
+    5_  2_223_5_  4__3_
+    2_  3_3_4_56  6__5__
+    2_223_6_  5__
+    4__  3__6__  5__.
+    3_  55443__ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Die letzten beiden Zeilen = Refrain.]

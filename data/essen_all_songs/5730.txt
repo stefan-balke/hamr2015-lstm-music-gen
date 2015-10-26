@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Lindenlaub]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0174  02  F 6/2]
+MEL[1  1_11_2  3_.5_.
+    1_11_-7  -6_.-5_
+    5  5_.3_3  5_54_3  2_.3_
+    3  1_14_4  2345_
+    5  5_432_  1_.^_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 76.]

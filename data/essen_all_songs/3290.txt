@@ -1,0 +1,10 @@
+F[ERK2
+CUT[SCHAETZICHEN WAS MACHEST DU]
+REG[Europa, Mitteleuropa, Deutschland, Hildburghausen]
+KEY[E0729  16  F 2/4]
+MEL[123_54  3__2__  1_
+    123_54  3__2__  1__0_
+    12  3_3_3_23  4__.
+    -71  2_2_2_12  3_
+    123_54  3__2__  1__0__  0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

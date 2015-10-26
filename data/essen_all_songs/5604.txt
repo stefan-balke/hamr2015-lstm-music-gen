@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Tageweis von der Koenigstochter und dem jungen Grafen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0020B 04  G 4/2 6/2]
+MEL[1__  2_1_-7b_-5_  -7b__1__0_
+    1_  3b__3b_4__3b_  2__1__
+    1__  2_1_-7b_-5_  -7b__1__0_
+    1_  3b__3b_4__3b_  2__1__
+    0_1_2_2_  5_4_3b_2_
+    3b__.21  -7b__0_
+    1_  3b_2_3b_4_  5__4_3b__21  -7b__0_
+    1_  3b__3b_4__3b_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Dieselbe Melodie etwas umgeformt. (1607 bei Praetorius)]

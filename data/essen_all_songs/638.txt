@@ -1,0 +1,9 @@
+ZUCCAL
+CUT['S MORGENS WENN ICH FRUEH AUFSTEH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0222  16 Bb 3/4]
+MEL[3_.45__1__  2_.-71___
+    3_.45__1__  2_.-71___
+    4_.56__6__  2_.34___
+    3_.45__5__  -7_.-51___ //] >>
+FCT[Schorsteinfeger -, Handwerker - Lied]

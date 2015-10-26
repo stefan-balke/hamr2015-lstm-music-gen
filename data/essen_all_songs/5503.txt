@@ -1,0 +1,13 @@
+KINDER
+CUT[ADAM GING UND WOLLTE SICH ERQUICKEN]
+REG[Europa, Mitteleuropa, Deutschland, Dresden]
+KEY[K2196  16  F 3/4]
+MEL[1_3_  5_.65_6_5_6_  5__1__
+    1_3_  5_.65_6_5_6_  5__1__
+    1_3_  5__6__5_6_  5__1__
+    1_1_  2__2__5_.4  3___
+    1_3_  5__5__6_5_  3__1_
+    1_1_3_  5__5__6_5_  3__1__
+    1_3_  5__3__+1_6_  5__3_
+    5_6_5_  4__2__5_5_  3___ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

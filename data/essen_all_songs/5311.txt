@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohe Berge,]
+CNR[sah in den tiefen Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Franken, Haselbach v.d. Rhoen]
+SRC[8, S. 84
+    1935 aufgezeichnet]
+KEY[Q0155b 08  F 3/4]
+MEL[-5_  1_.234  3_1_
+    12  3_.234  5__
+    5_  6_.546  5_3_
+    13  5_.345  3_0_
+    1_  6_.6+16  5_3_
+    13  5_.654  3_0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Gleiche Informantin wie in Q0155a.]

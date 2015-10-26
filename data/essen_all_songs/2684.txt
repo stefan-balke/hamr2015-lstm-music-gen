@@ -1,0 +1,10 @@
+F[ERK1
+CUT[DIE GASSEN SEIN SO ENGE]
+REG[Europa, Mitteleuropa, Deutschland, Insel Ruegen]
+KEY[E0107C 08  G 6/8]
+MEL[-5  -511-742  -7-50_.
+    -5  -511-742  -7-50_.
+    -5  3_13_1  4_32_
+    3  1-7-6-511  21-71_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

@@ -1,0 +1,13 @@
+DVA
+CUT[Geh mer net iwer mei Aeckerche, Aeckerche,
+    geh mer net iwer mei Wies]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0177  08  F 3/4]
+MEL[1_.11_  3_2_1_  5_.55_  5_.55_
+    1_.11_  3_2_1_  5__0_
+    6_.66_  6_5_4_  3_.55_  3_.55_
+    7_6_5_  4_3_2_  5__0_
+    6_.66_  6_5_4_  3_.55_  3_.55_
+    7_6_5_  4_3_2_  1__0_ //] >>
+FCT[Scherz - Lied]
+CMT[Inzipit = Transposition zum Lied]

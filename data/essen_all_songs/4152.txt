@@ -1,0 +1,16 @@
+F[ERK3
+CUT[GESELLEN STIMMET MIT MIR EIN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Rhein]
+KEY[E1622  08  G 2/4]
+MEL[-5  1122  331
+    2  3344  553
+    5  6543  2_0
+    3  5566  442
+    3  4455  331
+    2  3_2_  165
+    4  3_2_  1_0
+    3  5566  442
+    3  4455  331
+    2  3_2_  165
+    4  3_2_  1_0 //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Trink - Lied]

@@ -1,0 +1,11 @@
+DVA
+CUT[Muede ging ein Wanderer zurueck
+    in die Heimat seiner Liebe Glueck]
+REG[Europa, Mitteleuropa, Ungarn, Kom. Tolnau, Dunakoemloed]
+KEY[D1018  08  G 4/4]
+MEL[55  1_1_-7122  -7__0_
+    -71  2_2_-7233  1__0_
+    13  5_5_4321  -6__0
+    11-6  -5_1_-7243  1__0_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 191 163]

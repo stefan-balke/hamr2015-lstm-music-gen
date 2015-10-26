@@ -1,0 +1,16 @@
+KINDER
+CUT[RODEN RODEN EICHHON]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+KEY[K1624  16  F 2/4]
+MEL[  2_2_1_3_  2__1_0_
+    2_2_1_33  2__1_0_
+    2_2_2__  2_2_2__
+    2_2_2_2_  2__2_0_
+    2__2__  2_2_2__
+    2_222_2_  2_2_2__
+    2__(1_2_3_)  2__0__
+    2__(1_2_3_)  2__0_
+    3_  2_2_1_3_  2_2_1_
+    3_  2_2_1_3_  2__1_
+    3_  2__1_3_  2__1_0_ //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

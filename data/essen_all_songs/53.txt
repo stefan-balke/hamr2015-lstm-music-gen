@@ -1,0 +1,42 @@
+BOEHME
+CUT[AHNDUNGSGRAUEND TODESMUTHIG BRICHT DER GROSSE MORGEN AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0064  08 Eb 4/4 3/4]
+MEL[53  1_3_5_+1_  766_0_
+    43  2_.25_.4  3__0_
+    53  1_3_5_+1_  766_0_
+    43  2_.25_.4  3__0_
+    24#  5_5_6_6_  765_0_
+    67  +1_7_6_7_  5__0_
+    55  +1_.54321  6_6_0_
+    +16  5_.35_42  1__0_
+    3_3_3_  5_.43_
+    2_.12_  3__1_
+    3_3_3_  5_.43_
+    2_.12_  3__1_
+    5_3_5_  +1_5_3_
+    5_4_2_  1__0_
+    +1_+1_+1_  +2_+2_+2_
+    7_.67_  +1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[AHNDUNGSGRAUEND TODESMUTHIG BRICHT DER GROSSE MORGEN AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0064  08 Eb 4/4 3/4]
+MEL[53  1_3_5_+1_  766_0_
+    43  2_.25_.4  3__0_
+    53  1_3_5_+1_  766_0_
+    43  2_.25_.4  3__0_
+    24#  5_5_6_6_  765_0_
+    67  +1_7_6_7_  5__0_
+    55  +1_.54321  6_6_0_
+    +16  5_.35_42  1__0_
+    3_3_3_  5_.43_
+    2_.12_  3__1_
+    3_3_3_  5_.43_
+    2_.12_  3__1_
+    5_3_5_  +1_5_3_
+    5_4_2_  1__0_
+    +1_+1_+1_  +2_+2_+2_
+    7_.67_  +1__0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

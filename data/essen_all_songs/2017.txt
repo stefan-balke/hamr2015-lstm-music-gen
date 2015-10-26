@@ -1,0 +1,13 @@
+FINK
+CUT[WIR KINDER WIR SCHMECKEN DER FREUDEN RECHT VIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0253  16  A 3/8]
+MEL[1  1_3_05  -7_-71
+    23  4_4345  3_0_.
+    1  5_3_01  -6_4_0
+    2  -7_-7123  1_0_
+    32  2_54#53  2_54#
+    53  232-71-6  -5_0_
+    23  4_4343  2_21
+    21  -7_-7123  1_0_. //] >>
+FCT[Jugend - Lied, Spiel; Belehrung]

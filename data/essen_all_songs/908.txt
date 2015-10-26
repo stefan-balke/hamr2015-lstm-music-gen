@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Uebele Vorbedeutung"
+    SCHOENSTER SCHATZ, MEIN ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1173  04  G 3/4]
+MEL[1_3  5_.  6_.  5_3
+    555  4_5  3_.
+    1_3  5_.  6_.  5_3
+    555  4_5  3_
+    5  3_1  2_.  5_.  3_1
+    333  212  1_. //] >>
+FCT[Liebes - Lied]

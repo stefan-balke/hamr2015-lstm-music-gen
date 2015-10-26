@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es zog ein Kupferschmied wohl ueber den Rhein,]
+CNR[bei einem Markgrafen, dort kehrt' er ein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Kr. Bolchen, Lauterfangen]
+SRC[3, S. 258
+    1914 aufgezeichnet]
+KEY[Q0068J 08  G 2/4]
+MEL[-5  -5111  2_.3  3543  2_
+    23  4_42  3_32  1_-7_  -6_.
+    -6  2_32  1_42  3_2_  1_0 //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

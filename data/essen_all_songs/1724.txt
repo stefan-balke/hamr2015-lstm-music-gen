@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es war'n einmal zwei Bauernsoehn',]
+CNR[die hatten Lust, in die Welt zu gehn]
+REG[Mitteleuropa, Deutschland (BRD) , Schleswig Holstein, Ostholstein]
+SRC[4, S. 310
+    1905 gedruckt]
+KEY[Q0085X 16  G 3/4]
+MEL[-5_1_-5_  -3__1__1_.1  -7__0_
+    -5_-5_-7_  2__2_1_-7_-6_  -5_.-6
+    -5_-4_-3_-4_  -5__-5__-6_.-7  1__0_
+    1_1_2_  3__3__2_.-7  1__0_ //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

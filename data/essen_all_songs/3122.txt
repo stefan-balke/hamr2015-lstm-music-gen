@@ -1,0 +1,13 @@
+F[ERK1
+CUT[LIEBES HERZCHEN ACH SCHOENSTES SCHAETZCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Taunus, Hennethal]
+KEY[E0588  08 Bb 3/4]
+MEL[-3-4  -511121  -7-6-6_
+    21  -7-71122  233_
+    -3-4  -511121  -7-6-6_
+    21  -7-71122  233_
+    12  3_3_35  4_3_
+    21  -7_.-6-5-4  -4_-3_
+    -3-5  1_3323  5_4_
+    43  222222  253_ //] >>
+FCT[Liebes - Lied]

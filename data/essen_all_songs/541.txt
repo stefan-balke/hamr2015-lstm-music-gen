@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[EINS ZWEI DREI ALT IST NICHT NEU]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z0126  08  C 4/4]
+MEL[  1_1_5__  4_2-71_0_
+    1_135_4_  2_244_3_
+    1_112_4_  35321_0_ //] >>
+FCT[Erzaehlung, lustige Romanze]

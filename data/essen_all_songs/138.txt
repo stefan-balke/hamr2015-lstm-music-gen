@@ -1,0 +1,26 @@
+BOEHME
+CUT[EIN NIEDLICHES MAEDCHEN EIN JUNGES BLUT]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald; Dillkreis; Wetzlar]
+KEY[B0168  08  F 6/8]
+MEL[1  111123  4_44_
+    4  555123  4_.0_
+    4  422222  135+1_
+    3  555542  1_.0_
+    1  111123  4_.0_
+    4  555545  6_.0_
+    4  4222_2  135+1_
+    3  555542  1_.0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[EIN NIEDLICHES MAEDCHEN EIN JUNGES BLUT]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald; Dillkreis; Wetzlar]
+KEY[B0168  08  F 6/8]
+MEL[1  111123  4_44_
+    4  555123  4_.0_
+    4  422222  135+1_
+    3  555542  1_.0_
+    1  111123  4_.0_
+    4  555545  6_.0_
+    4  4222_2  135+1_
+    3  555542  1_.0_ //] >>
+FCT[Ballade, Romanze]

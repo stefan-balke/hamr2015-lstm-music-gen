@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Pfalzgraf an dem Rhein,]
+CNR[der hat drei schoene Toechterlein,]
+REG[Osteuropa, Polen, Galizien]
+SRC[4, S. 108
+    ????]
+KEY[Q0075P 08  D 3/4]
+MEL[1  3b23b23b4  5_.
+    555  4_5_3b2  1_0_
+    3b_  3b23b23b4  5_.
+    555  4_5_3b2  1_0_. //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

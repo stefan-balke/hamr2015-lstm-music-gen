@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Schoepfung"
+    ALS GOTT DIE WELT ERSCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1340  16  F 6/8]
+MEL[-5_  1__3_5__5_  5__.4__
+    4_  3_.43_2_3_2_  1__.^__
+    -5_  1__3_5__5_  5__.4__
+    4_  3_.43_2__2_  1__.^__
+    1_  5__5_5_3_1_  4_5_6_5__
+    1_  1__3_5_4_3_  2__0__.
+    -5_  1__3_5__5_  5__.4__
+    4_  3__3_2__2_  1__.^__ //] >>
+FCT[Zech -, Schalks - Lied]

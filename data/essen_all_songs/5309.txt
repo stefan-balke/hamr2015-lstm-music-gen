@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Es welken alle Blaetter, ja Blaetter,]
+CNR[sie fallen alle ab;]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Fulda, Neuhof]
+SRC[8, S. 81
+    1934 aufgezeichnet]
+KEY[Q0155Z 16  G 6/8]
+MEL[-5_  1__-5_-3_-5_3_  3_2_-5_-6_-5_
+    -5_  -5_-7_2_6_5_4_  3__.0__
+    13  5__5_5_4_3_  3_2_-5_-6_-5_
+    -5_  -5_-7_2_6_5_4_  3__.0__
+    13  5__5_5_4_3_  3_2_-5_-6_-5_
+    -5_  -5_-7_2_6_5_4_  3__.0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]
+CMT[Anhaengsel an der ersten, dritten und fuenften Zeile.]

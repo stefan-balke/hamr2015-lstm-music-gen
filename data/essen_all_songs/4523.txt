@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Reiters Trostlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0431A 04  G 4/2 6/2]
+MEL[1_1_1_  5_5_7b654#  5__0_
+    5_  5_5_7b_7b_  5_43b4_4_  3b__
+    3b__  5_7b_6_5_  4__.3b21-7b1_  -7b___  0_
+    -7b_1_2_  3b_5_4_3b_  6b_5_4__  3b___
+    3b__5_5_  7b__6b_5__43b  43b212__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Forster V 1556 No. 49.]

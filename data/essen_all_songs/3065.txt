@@ -1,0 +1,11 @@
+F[ERK1
+CUT[SCHOEN IST DIE JUGEND]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Meiningen]
+KEY[E0543A 08  E 3/4]
+MEL[113  5_35+16  5_3
+    565  4_2255  3_0
+    113  5_35+16  5_3
+    565  4_2255  3_0
+    335  442446  5_3
+    335  4_2255  3_. //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DAS JAGEN DAS IST JA MEIN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1464  16  G 6/8]
+MEL[-5_  1_.-71_2_.12_  3_1_0__.
+    12  3_.23_4_.34_  5_.6543__
+    13  5_5_5_3_.23_  4_4_4_2_.1
+    2_  3_3_4_5__54  3_3_2_1__
+    13  5_5_5_3_.23_  4_4_4_2_.1
+    2_  3_3_4_5__54  3_3_2_1__ //] >>
+FCT[Staende -, Jaeger - Lied]

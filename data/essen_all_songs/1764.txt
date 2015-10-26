@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wohnt ein Mueller an jenem Teich,]
+CNR[der hatt' ein schoenes junges Weib,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[4, S. 344
+    ????]
+KEY[Q0086U 08  G 3/4]
+MEL[5_  35115_  351_0
+    1  66+1_6_  655_0
+    5  66+1_6_  655_0
+    5  66+1_6_  655_ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]
+CMT[Schlusspause korrigiert.]

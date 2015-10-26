@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Staendchen"
+    HEUT HAB ICH DIE WACH' ALLHIER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1176  08  A 4/4 6/8]
+MEL[  3__2_11  -7_1_2__
+    5__6_55  4_3_2_0
+    -5  1_12_2  3_32_
+    2  3334_4  5_.1_3b  2_.0
+    6_  5_113_2_  1__0__ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

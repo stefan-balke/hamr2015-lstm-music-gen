@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Kaempfer geistlich]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0589  04  G 3/2]
+MEL[1_  1_23b_4  2_1_
+    5_  3b_54_3b  2__
+    1_  1_23b_4  2_1_
+    5_  3b_54_3b  2__
+    5_  3b_54_3b  2_1_
+    3b_  453b42_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Offnes Bl. 1510.]

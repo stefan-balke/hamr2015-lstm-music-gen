@@ -1,0 +1,9 @@
+F[ERK3
+CUT[MEI MUTTER KOCHT MIR ZWIEBELN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Schwaebisch - Hall]
+KEY[E1045  16  G 2/4]
+MEL[-5_  1_.23_4_  5_54#5_
+    +1_  5_+1_5_+1_  5__0_
+    5_  4_.32_1_  -7_-6_-5_
+    5_  1_5_1_5_  1__0_ //] >>
+FCT[Tanz - Lied, Reigen; Salzsieder - Lied]

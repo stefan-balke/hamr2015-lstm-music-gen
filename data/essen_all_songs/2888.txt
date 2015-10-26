@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DER KOENIG VON PREUSSEN HAT LEUT]
+REG[Europa, Mitteleuropa, Deutschland, Schweinfurt]
+KEY[E0332  16  G 2/4 3/4]
+MEL[5__  (3_2_1_)(2_1_-7_)  1__0_
+    2_  3_5_4_3_  2_1_-7_-6_  -5_-6_-5_-4_  -3___
+    2_.22_2_2_3_  4___0__
+    3_.33_3_3_4_  5___0__
+    2__2_.22_2_  3___0__
+    5__2_.22_2_  3___ //] >>
+FCT[historisches Lied, Krieg, Breslau (1760)]

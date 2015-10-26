@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[DET VORO TVA AEDLA KONUNGABARN]
+REG[Europa, Nordeuropa, Schweden]
+KEY[Z0027  08  G 3/8]
+MEL[1  23b1  23b1  23b4  5_
+    4  3b23b  123b  2_.  ^0
+    5  56b5  43b2  3b_.  2_
+    2  1_1  -5-6-7  1_.  ^0 //] >>
+FCT[Sagen - Lied, Romanze]

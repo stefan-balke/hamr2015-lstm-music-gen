@@ -1,0 +1,12 @@
+DVA
+CUT[Der himmlische Ackersmann
+    Was wollen wir singen und fangen an?]
+CNR[Von einem himmlischen Ackersmann]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0018  08  E 3/4]
+MEL[3b1  1_1_1_  5_5_4_  5__4_  3b__
+    4_  4__5_  6b_5_4_  3b_1_2_  1__0_
+    4__.  3b_2_1_  -7b__
+    -7b_  3b_3b_4_  5_5_4_  3b_1_2_  1__0_ //] >>
+FCT[geistliches Lied]
+CMT[Inzipit = Variante zum Lied; Verzierungen]

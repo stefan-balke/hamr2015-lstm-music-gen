@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es ritt ein Ritter wohl ueber ein Rain,]
+CNR[er sang ein schoenes neues Lied,]
+REG[Mitteleuropa, Deutschland / Tschechoslowakei, Boehmen]
+SRC[2, S. 112
+    1914 aufgezeichnet]
+KEY[Q0041T 16  G 6/8]
+MEL[1_  3__1_1_1_.3  2_.-7-7_-7_0_
+    2_  1__-6_-6__1_  -7__-5_-5_0_
+    -5_  1_-7_-6_-5_-4_-3_  -5__4_3__
+    2_  1_1_1_2_2_4_  3__2_1_0_
+    -5_  1_-7_-6_-5_-4_-3_  -5__4_3__
+    2_  1_1_1_2_2_4_  3__2_1_0_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

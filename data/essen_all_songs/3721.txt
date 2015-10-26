@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Das Traenenkrueglein
+    Ich hab' ja mein Feinsliebchen,]
+CNR[ich hab' ja mein Feinsliebchen]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Oberschefflenz]
+SRC[5, S. 334
+    1902 gedruckt in Karlsruhe]
+KEY[Q1122C 16  G 3/4 2/4]
+MEL[-5_  1_1_3__5__  4__2__0_
+    1_  -7_1_2__6__  5__3__0_
+    1_  1_3_5__5_+1_  6__0_
+    5_6_54  5__5__  3___0_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0122A und B, anderes Lied.]

@@ -1,0 +1,7 @@
+ALTDEU
+CUT[Der Todwunde]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0042  02  F 6/2]
+MEL[1  3_33_3  4_32_2  3_33_3  4_21_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Schmeltzel 1544 Quodlibet No. 8.]

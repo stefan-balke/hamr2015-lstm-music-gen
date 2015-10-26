@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielte ein Ritter mit einer Madam]
+CNR[wohl bis zum hellen Morgen,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+SRC[3, S. 11
+    1890 aufgezeichnet (um 1880/90)]
+KEY[Q0055C 08  F 6/8]
+MEL[-5  113556  5531_
+    5  +1_+1765  6_.5_
+    5  667+176  5_433
+    6  5_24_4  4_53_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

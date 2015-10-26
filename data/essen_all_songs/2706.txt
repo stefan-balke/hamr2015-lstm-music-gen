@@ -1,0 +1,12 @@
+F[ERK1
+CUT[IN DES GARTENS DUNKLER LAUBE]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau]
+KEY[E0112C 08 Bb 3/4]
+MEL[-3-4  -511_-3-4  -511_
+    33  2_.-5-6-5  -3_0_
+    -5-5  4321-7-6  -6_-5_
+    -5-7  135_42  1_0_
+    -5-5  4321-7-6  -6_-5_
+    -5-7  135_42  1_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

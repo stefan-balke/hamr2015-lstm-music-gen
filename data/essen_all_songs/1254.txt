@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Es hatt' ein Bauer ein Toechterlein,]
+CNR[die soll das schoenste im Lande sein.]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+SRC[2, S. 299
+    1855 gedruckt in Leipzig]
+KEY[Q0053P 08  F 6/8]
+MEL[-5  1_1313  5_53_
+    6  5_4234  5_53_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]
+CMT["Verselbstaendigter Vordersatz" ?]

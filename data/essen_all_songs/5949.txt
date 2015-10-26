@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Bremberger
+    Ich habe gewacht ein Winterlange nacht,]
+CNR[darzu hatt mich ein schon Jungfreulein gebracht]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 163
+    1603 Handschrift (zwischen 1603 und 1608)]
+KEY[Q0016  08  G FREI]
+MEL[1_  1_1_1_5__5_  1_1_2_3b__
+    3b_  4__2_1__2_  3b__5_43b2_1_  -7b__
+    2_  4_4_2_1__3b_  2__1_2__
+    1_  -7b_-6_-5_-7b_-7b_1_  2__.1__ //] >>
+FCT[Ballade, Eifersucht, Ehe, Hinrichtung, Tod]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.]

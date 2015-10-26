@@ -1,0 +1,11 @@
+KINDER
+CUT[DORT UNTEN IN DER GRUENEN SEE]
+REG[Europa, Mitteleuropa, Deutschland, Mainz]
+KEY[K2169B 08  F 4/4]
+MEL[1_  5_5_6_6_  5_5_3_0_
+    5_5_6_6_  5__3_
+    1_  5_5_6_6_  5_5_3_0_
+    5_5_6_6_  5__3_0_
+    5_3_5_3_  5_+1_6_0
+    6  5_365_33  5_6_5_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

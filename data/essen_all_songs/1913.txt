@@ -1,0 +1,11 @@
+FINK
+CUT[S IST GEWISS UND KEIN GEDICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0087  16  G 3/4]
+MEL[-5_.-5  1__.1_-7_1_  2__0__
+    1_3_  5__3__2_3_  1__0__
+    1_3_  5__5__2_4_  3_2_1__
+    1_3_  5__5__2_4_  3_2_1__
+    -5_.-5  1__.1_-7_1_  2__0_
+    -5_1_3_  5__3__2_3_  1__0__ //] >>
+FCT[Moral - Lied, Misstrauen gegen Frauen]

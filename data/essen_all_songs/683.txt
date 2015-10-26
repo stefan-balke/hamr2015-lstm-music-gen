@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[MEI SCHAETZLE MAG MI NIMMER, GAR NIMMER MAG ER MICH]
+REG[Europa, Mitteleuropa, Deutschland; Vogtland]
+KEY[Z0266  08  F 2/4]
+MEL[-5  1234  5_5
+    5  67+16  5_0
+    5  67+16  5_0
+    5  5444  433
+    3  4342  3_0
+    4  5444  433
+    3  4342  1_0 //] >>
+FCT[lyrisches Lied, Romanze]

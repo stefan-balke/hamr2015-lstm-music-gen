@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[LIEBEN BRUEDER WO KOMMT IHR HER]
+REG[Europa, Mitteleuropa, Deutschland, Anclam]
+KEY[Z0208  16  A 3/4 4/4]
+MEL[-5_1_1_-7121-7-6  -6_-6_-5__0__
+    1_3_3_234_2_  2_1_1__0__
+    -5__-5__-5__1__  -6__-6__-6__2__
+    -7__-7__-7__2__  2__1__1__1_1_
+    -5_1_1_-7121-7-6  -6_-6_-5__0__
+    3_3_3_234_-7_  2_1_1__0__ //] >>
+FCT[Handwerker - Lied, Handwerks - Burschen]

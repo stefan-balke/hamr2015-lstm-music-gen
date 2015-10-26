@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Doa toog sech 'ne Markgraf wal oever den Rhin,]
+CNR[dae ha dree stoutige Doechterlin,]
+REG[Mitteleuropa, Deutschland (BRD) , Niederrhein, Niederkruechten]
+SRC[4, S. 73
+    1890 aufgezeichnet]
+KEY[Q0075C 08  F 4/4]
+MEL[-5_  4_332_22  332_1_
+    1_  2_231_-7-6  6_6_5_
+    -5_  1_1_2_22  3_2_1_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

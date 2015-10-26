@@ -1,0 +1,9 @@
+F[ERK3
+CUT[N' MONTA HATS GREGNET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1043  08  G 3/4]
+MEL[-5_  -533_21  1-7-7-6
+    -7_  -744_32  211-7
+    1_  155_43  3221#
+    2_  265_56  3__ //] >>
+FCT[Tanz - Lied, Laendler]

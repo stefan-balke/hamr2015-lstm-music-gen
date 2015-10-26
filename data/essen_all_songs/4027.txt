@@ -1,0 +1,13 @@
+F[ERK3
+CUT[EIN JAEGER AUS KURPFALZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1454  08  G 2/4]
+MEL[-5  1333  3_.
+    5  5443  322
+    1  -7222  2_.
+    5  3322  1_0
+    5  5_.4  3_.
+    5  +1553  322
+    1  -7222  2_.
+    5  3322  1_0 //] >>
+FCT[Staende -, Jaeger - Lied]

@@ -1,0 +1,21 @@
+F[ERK1
+CUT[ACH SCHIFFMANN DU FEIN GUETIGER MANN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Wilsnack; Granzow]
+KEY[E0078  16  C 2/4]
+MEL[34  5_3_5_+1_  54321_
+    +1_  +2_+3_+2_.+1  7_6_5_
+    +1_  6_444_+2_  +17675_
+    +1_  3_.42_.3  1__0_
+    4_  35+1_3_.2  1__0_
+    34  5_3_5_+1_  54321_
+    +1_  +2_+3_+2_.+1  7_6_5_
+    +1_  6_444_+2_  +17675_
+    +1_  3_.42_.3  1__0_
+    4_  35+1_3_.2  1__0_
+    34  5_3_5_+1_  54321_
+    +1_  +2_+3_+2_.+1  7_6_5_
+    5_  6_5_6_7_  +1_765_.
+    +1  3_.42_.3  1__.
+    4_  35+1_3_.2  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

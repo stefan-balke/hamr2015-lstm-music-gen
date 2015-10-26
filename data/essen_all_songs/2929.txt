@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DIE FRANZOSEN ZOGEN EIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankreich, Elsass]
+KEY[E0364  08  G 3/4]
+MEL[12  3_3_2_  1__
+    12  3_3_2_  1__
+    13  5_5_5_  5_.4
+    3_  4_4_4_  4_.3
+    2_  3_3_2_  1__
+    13  5_5_4_  3__ //] >>
+FCT[historisches Lied, Krieg, franzoesisches Soldaten - Lied (1855)]

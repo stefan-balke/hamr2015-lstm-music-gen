@@ -1,0 +1,26 @@
+BOEHME
+CUT[BLUEHE LIEBES VEILCHEN DAS ICH SELBST ERZOG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0371A 16  G 6/8]
+MEL[  1__3_1__3_  5__4_2__0_
+    3_4_2_1__32  1__.0__.
+    1__3_1__3_  5__4_2__0_
+    3_4_2_1__32  1__.0__.
+    5__5_5__31  -7__121__0_
+    2_3_4_3_1_5_  5__3_2__0_
+    1__3_1__3_  5__.4__0_
+    3_4_2_1__32  1__.0__. //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[BLUEHE LIEBES VEILCHEN DAS ICH SELBST ERZOG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0371A 16  G 6/8]
+MEL[  1__3_1__3_  5__4_2__0_
+    3_4_2_1__32  1__.0__.
+    1__3_1__3_  5__4_2__0_
+    3_4_2_1__32  1__.0__.
+    5__5_5__31  -7__121__0_
+    2_3_4_3_1_5_  5__3_2__0_
+    1__3_1__3_  5__.4__0_
+    3_4_2_1__32  1__.0__. //] >>
+FCT[Liebes - Lied, Liebes - Lust]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[MIR GLIEBT IM GRUENEN MAIEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0383  08  G 6/4]
+MEL[12  3b__3b_3b_4_4_  5__.3b_.4
+    5_  6b__5_5_4__  3b__.^__
+    12  3b__3b_3b_4_4_  5__.3b_.4
+    5_  6b__5_5_4__  3b__.^__
+    3b4  5__5_5_4_3b_  2_.123b2_.3b
+    4_  3b__2_1__-7_  1__.^__ //] >>
+FCT[Liebes - Lied, Jahreszeiten, Fruehling]

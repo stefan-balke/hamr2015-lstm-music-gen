@@ -1,0 +1,9 @@
+F[ERK3
+CUT[S SCHWIMME ZWEI FISCHLE IM BODESEE]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E1035  16  F 3/8]
+MEL[  3_3_.1  2_2_.-7  1_121_
+    5_565_  2_3_4#_  5__.
+    3_3_.1  2_2_.-7  1_5_+1_
+    6_4_.2  2_1_.-7  1__0_ //] >>
+FCT[Tanz - Lied]

@@ -1,0 +1,14 @@
+KINDER
+CUT[HOTTE HOTTE REITERPFERD]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+KEY[K0363  08  G 2/4]
+MEL[  1133  5533
+    1133  5530
+    1234  5530
+    1234  5530
+    1234  5_3_
+    1234  5_3_
+    5531  665_
+    4433  2210
+    5_32  1_0_ //] >>
+FCT[Kinder -, Schaukel -, Knierreiter -, Spiel - Lied]

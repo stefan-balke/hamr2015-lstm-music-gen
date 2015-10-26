@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Koenig Ludwig aus Ungarn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0392  02  F 6/2 4/1]
+MEL[1  1_-71_2  3_2_
+    1_  1_-71_2  3_2_0
+    1  3_34_3  5_4_
+    3_  2_21_2  3_2_0
+    5  5_43_2  1_-5_
+    1_  1_-71_2  3_2_0
+    1  3_34_4  5_4_
+    3_  4_53_2  1_-5_1_  3_45_42_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Basts Gsgb. 1545 II. No.11.]

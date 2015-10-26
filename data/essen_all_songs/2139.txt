@@ -1,0 +1,10 @@
+FINK
+CUT[WAS SINGT DAS VOEGLEIN KLEINE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0446  08  D 2/4]
+MEL[-5  -5-31-5  3_1
+    -6  -5-3-2-4  -3_.
+    -3  -3-71-7  -7_-60
+    -7_-6-5  3__  ^__  ^_0_
+    -5_-31  -5__  ^_0_  0_. //] >>
+FCT[Heimat -, Wander - Lied]

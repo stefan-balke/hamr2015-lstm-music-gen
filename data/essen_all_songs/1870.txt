@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es waren drei Gesellen,]
+CNR[die taeten sich bestellen]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Vogelsberg, Storndorf]
+SRC[6, S. 274
+    1909 aufgezeichnet (1907 - 09)]
+KEY[Q0139E 16  F 2/4]
+MEL[-5_  1__-7_-6_  -5__3__  2_-7_1__  ^__.
+    -5_  1__-7_-6_  -5__3__  2_-7_1__  ^__
+    1__  1_.23_3_  3__2_33  4_4_5_3_  2__.
+    2_  2_.22_.2  2_5_5_4_  3_3_2_2_  1__
+    -5__  -6_-6_-7_-7_  1__. //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Letzten Notenwert der 2. Zeile rhythmisch korrigiert.]

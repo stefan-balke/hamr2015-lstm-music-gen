@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Unmoegliche Dinge]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0293  04  C 4/2]
+MEL[1_  1_1_5_5_  5_5_5_
+    5_  4_5_6_5_  5_4_3_0_  0_
+    3_4_4_  5_3_4_3_  5_
+    3_4_4_  (5__4_)(3__21)  2__1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Rhaw, Bicinia I. 1545 No. 96]

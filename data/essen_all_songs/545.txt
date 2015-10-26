@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ALS ICH EIN JUNG GESELLE WAR]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Deutschland]
+KEY[Z0129  08  F 2/4]
+MEL[-5  1332  211
+    1  3553  2_0
+    -5  1332  211
+    1  3553  2_0
+    1  3555  5_3_
+    +1_6_  5_3
+    5  421-7  135
+    3  421-7  1_. //] >>
+FCT[Erzaehlung, lustige Romanze]

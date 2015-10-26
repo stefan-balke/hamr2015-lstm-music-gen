@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH HAB MICH ERGEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen (Melodie)]
+KEY[B0010  08  G 4/4]
+MEL[-5_  3__2_3_  1__-5_
+    -5_  5__4_5_  3__0_
+    1_  6_6_6_6_  5__3_
+    5_  5_434_5_  3__0_
+    1_  6_6_+1_6_  5__3_
+    5_  5_434_5_  3__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[ICH HAB MICH ERGEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen (Melodie)]
+KEY[B0010  08  G 4/4]
+MEL[-5_  3__2_3_  1__-5_
+    -5_  5__4_5_  3__0_
+    1_  6_6_6_6_  5__3_
+    5_  5_434_5_  3__0_
+    1_  6_6_+1_6_  5__3_
+    5_  5_434_5_  3__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]

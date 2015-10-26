@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Genovefa
+    Als Jesus auf den Oelberg ging,]
+CNR[o Maria!]
+REG[Suedosteuropa, Jugoslawien, Batschka]
+SRC[5, S. 179
+    1961 gedruckt in Boppard]
+KEY[Q1104C 08  G 2/2]
+MEL[-5_  1_2_3_4_  5_543__
+    6_.66__  5__0_
+    5_  6_5_4_35  4_3_2_
+    1_  -7_6_5_23  4__3_ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0104A, anderes Lied.]

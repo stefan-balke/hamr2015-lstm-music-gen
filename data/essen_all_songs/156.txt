@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH BIN SO GERN HIER OBEN]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[B0186  16 Bb 2/4]
+MEL[-3-4  -5_-6_-5_1_  1_.-6-5_
+    -51  1_-533_.2  1__0_
+    -5_  -6_-6_1_-6_  -5__-3_
+    -5_  -6_-6-721-7-6  -5__-3_
+    1_  -7_2_1_3_  2_4_3_
+    5_  5_.43_2_  1__0_ //] >>
+FCT[Natur - Lied, Berg]
+BOEHME
+CUT[ICH BIN SO GERN HIER OBEN]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[B0186  16 Bb 2/4]
+MEL[-3-4  -5_-6_-5_1_  1_.-6-5_
+    -51  1_-533_.2  1__0_
+    -5_  -6_-6_1_-6_  -5__-3_
+    -5_  -6_-6-721-7-6  -5__-3_
+    1_  -7_2_1_3_  2_4_3_
+    5_  5_.43_2_  1__0_ //] >>
+FCT[Natur - Lied, Berg]

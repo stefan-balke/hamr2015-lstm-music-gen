@@ -1,0 +1,10 @@
+FINK
+CUT[WO MOECHT ICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0812  08  C 4/4]
+MEL[  -5__-5_1_  -7__.
+    -1-3  -5_-5-5-5_-3-5  1_2_3_
+    -1-3  -5_-5_-5_-3-5  1_2_3_
+    1_  2_2_2_22  2_334__
+    4__-7_2_  1__0__ //] >>
+FCT[Geselligkeits -, Trink -, Moral - Lied]

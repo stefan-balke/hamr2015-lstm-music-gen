@@ -1,0 +1,13 @@
+F[ERK3
+CUT[HERR SCHMIDT WAS KRIEGT DENN ROESCHEN MIT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[E1033  16  G 2/4]
+MEL[3_  5__0_3_  5__0_
+    34  5_3_6_5_  4__0_
+    2_  4__0_2_  4__0_
+    23  4_2_5_4_  3__0_
+    34  5_3_6_5_  5_4_4_
+    23  4_2_5_4_  4_3_3_
+    34  5_3_6_5_  5_4_4_
+    23  4_2_5_4_  4_3_3_ //] >>
+FCT[Tanz - Lied, Galopp - Walzer]

@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Rache im Zweikampf
+    Als jei will horen in dat lied,]
+CNR[vater in Bruessel is geskiet,]
+REG[Mitteleuropa, Belgien, Bruessel, flaemisch]
+SRC[5, S. 98
+    1795 aufgezeichnet (ca.) in Berlin]
+KEY[Q2097  08  D 3/8]
+MEL[-5  135  5_5  654#  5_.
+    534  535  654#  5_
+    1  2_3  422  3_5  56
+    5  543  3_.  2_
+    1  2_3  424  353  12
+    3  42-7  1_ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache]
+CMT[Flaemische Fassung der Ballade.
+    Vierte und sechste Zeile = Refrain auf sinnfreie Silben.]

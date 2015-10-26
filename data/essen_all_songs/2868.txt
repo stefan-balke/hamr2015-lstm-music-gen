@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES WOHNT EIN MUELLER AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Taunus, Wuerges]
+KEY[E0218  08 Bb 4/4]
+MEL[-5_  1_.-53_1_  -7_2_-5_.
+    -5  2_2_21-7-6  -6_-5-4-3_0
+    -5  1_1_3_1_  -5_-7_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe]

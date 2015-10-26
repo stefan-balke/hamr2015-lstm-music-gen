@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Der Schwartenhals]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0421B 08  G 4/4]
+MEL[1_  3b_3b_4_4_  5_.55__  0_
+    5_7b_6_  5_4_3b_21  2__1__  0_
+    1_2_5_  5_43b2_1_  -7b_.-6-5__  0_
+    1_2_5_  5_43b2_1_  -7b_.-6-5__  0_
+    2_3b_4_  5_4_3b_21  2__1_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Werlin Hs. 1646 S. 1475.]

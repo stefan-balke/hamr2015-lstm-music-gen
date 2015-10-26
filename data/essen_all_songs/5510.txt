@@ -1,0 +1,11 @@
+KINDER
+CUT[DORT OBEN AUF DEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2223  16  F 2/4]
+MEL[-5_  1_1_1_1_  1__-5_
+    -5_  3_3_3_3_  3__0_
+    1_  5_5_5_5_  5_3_1_
+    1_  2_2_-5_-5_  1__0_
+    55  5_4_3_55  5_4_3_
+    33  2_2_2_2_  1__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

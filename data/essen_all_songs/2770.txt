@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES GINGEN DREI BAURN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0161  04  F 3/4]
+MEL[1  112  3_
+    1  334  5_
+    1  112  3_
+    1  334  5_
+    5  555  54
+    3  432  1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Tier - Maerchen
+    Ballade ?]

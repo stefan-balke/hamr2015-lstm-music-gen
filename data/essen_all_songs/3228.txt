@@ -1,0 +1,8 @@
+F[ERK2
+CUT[JETZUND GEHT DAS FRUEHJAHR AN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar; Marburg]
+KEY[E0686A 16  G 3/4]
+MEL[-5_  1_-5_1_3_5__  4_2_1__0_
+    1_  2_-5_1_3_5__  6_+165_
+    4_3_2_  1_3_5__4_5_  3__0__. //] >>
+FCT[Liebes - Lied, Leid, Klage, Trennung]

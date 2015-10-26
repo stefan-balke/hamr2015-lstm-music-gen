@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Jaegers Beruf]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0447  04  G 4/2]
+MEL[1_  1_2_3_1_  5__4__  3__0_
+    3_  4_3_7__  7_5_7_+1_  6__5__  0_
+    5_5_5_  7__.5_  +1__.76  7_+1_6__  5__0_
+    1_  3_4_5__  0_1_3_2_  1__0_
+    +1_  +1_+1_7__  6_5_4321  2__1__  0_
+    +1_+1_+1_  7__6_5_  43212__  1__. //] >>
+FCT[Romanze, Ballade, Lied, Jaegerlied]
+CMT[68 Lieder. Nuernberg bei Berg und Newber 1549 No. 12.]

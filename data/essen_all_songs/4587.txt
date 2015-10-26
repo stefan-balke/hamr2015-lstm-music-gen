@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Weihnachtslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0511  04  G 4/2]
+MEL[1  1_1_2_1_  4_5_4__
+    3_5_6_5_  4_2_1_0
+    1  4_3_5_2_  1_-6_-5_0
+    -5  2_2_2_3_  4_2_1_2_  -7b12_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[J. Walthers Gsgb 1524 No. 22.]

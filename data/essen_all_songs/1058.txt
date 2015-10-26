@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Einladung zur Kirchweihe"
+    ALL ENK NACHBARSLEUT]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z1324  08  D 3/4]
+MEL[35  +13543+1  7243
+    27  +224327  +1_0_
+    35  +13543+1  7243
+    27  +224327  +1_0_
+    55  57+2+4+3+2  +1354
+    3+1  724327  +1_0_
+    55  57+2+4+3+2  +1354
+    3+1  724327  +1_0_ //] >>
+FCT[Zech -, Schalks - Lied]

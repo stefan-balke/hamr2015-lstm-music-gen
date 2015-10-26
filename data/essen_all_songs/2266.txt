@@ -1,0 +1,21 @@
+FINK
+CUT[DER GENRAL WERDER HAT EINMAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0677  08 Bb 2/4]
+MEL[-5  1113  -5-5-5
+    -5  11-71  2_0
+    2  4321  -72-5
+    1  -7-7-6-7  1_0
+    2  2_02  2_0
+    2  21-7-6  -72-5
+    2  2_02  2_0
+    2  21-7-6  -5_0
+    -5  1113  -5-5-5
+    -5  11-71  2_0
+    2  4321  -72-5
+    1  -7-7-6-7  1_0
+    -5  1_3_  5_.
+    3  2_3_  1_0
+    -5  1_3_  5_.
+    3  2_3_  1_0 //] >>
+FCT[Soldaten - Lied, Spott, national]

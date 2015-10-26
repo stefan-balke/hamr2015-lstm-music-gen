@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war ein Markgraf an dem Rhein,]
+CNR[es war ein Markgraf an dem Rhein,]
+REG[Osteuropa, UdSSR, Ukraine, Bukowina (Buchenland)]
+SRC[4, S. 108
+    ????]
+KEY[Q0075Q 08  F 4/4]
+MEL[1_  1_-5_-6_-7_  1_2_3_
+    3_  3_3_2_1_  -7_-6_-5_
+    -5_  -5_-7_2_2_  1_-6_-5_
+    -4_  -3_-5_-613_  2_2_1_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

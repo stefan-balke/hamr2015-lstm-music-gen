@@ -1,0 +1,11 @@
+FINK
+CUT[DER BURSCH VON ECHTEM SCHROT UND KORN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0488  16  C 4/4]
+MEL[-5__  -5__-3_.-4-5__.1_  1_-7_-6_-5_-4__.
+    -4_  -3_-5_-5_1_1_-5_-3_-1_  -5__-5_.-5-5__
+    -5_-7_  2__.-7_2_1_-7_-6_  -5__2_.-7-5__
+    -5__  -6__.-6_-7__.-7_  1__2__3__0_
+    1_  -6__4_2_1__-7__  1__3_.34__
+    2_.2  3__1__2_.2-7_.-7  1__1_.11__ //] >>
+FCT[Studenten -,  Burschenschafts - Lied]

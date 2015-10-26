@@ -1,0 +1,9 @@
+KINDER
+CUT[DER FUCHS GEHT RUM]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2366  08  F 2/4]
+MEL[6  5436  543
+    1  5566  5_3
+    1  5566  553
+    1  5566  5_36  5_3 //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

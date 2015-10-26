@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES WAREN ZWEI KOENIGSKINDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0024  16  G 2/4]
+MEL[-5_  1_113_.1  1_-7_-7_
+    -5_  2_224_22  1__0_
+    13  5_555_44  3__54
+    32  1_113212  3__
+    2__  3_555432  1__0_ //] >>
+FCT[Sagen - Lied, Romanze]

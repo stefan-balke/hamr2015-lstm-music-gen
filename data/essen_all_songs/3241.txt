@@ -1,0 +1,11 @@
+F[ERK2
+CUT[IST ALLES DUNKEL]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen Saathen]
+KEY[E0698B 08 Bb 3/4]
+MEL[-5-3-4  -6-5-5-5-3-5  133
+    321  2_442-7  1_0
+    331  2_442-7  135
+    531  2_442-7  1_0
+    331  2_442-7  135
+    531  2_442-7  1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

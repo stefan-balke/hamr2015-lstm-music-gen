@@ -1,0 +1,9 @@
+F[ERK2
+CUT[JUNGFRAU IN DEM ROTHEN ROCK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0943  08  F 4/4]
+MEL[  3_3_4_4_  5_5_2_
+    4_  3_.21__  0__.
+    2_  3_3_4_4_  5__2_
+    4_  3_.21__ //] >>
+FCT[Tanz -, Spiel - Lied]

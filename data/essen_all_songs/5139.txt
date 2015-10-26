@@ -1,0 +1,11 @@
+BOEHME
+CUT[DER MENSCH SOLL NICHT STOLZ SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Nassau; Wetterau]
+KEY[B0673  08 Bb 3/4]
+MEL[-3_  -5_-5_.-5  -6_-6_.-5  -4_-4_-6_  -5_0_
+    -5-7  1_.23_  2_2_-5-7  1_.23_  2_0_
+    -5_  3_2_.1  -7_-6_.-6  -5_-5_-4_  -3_0_
+    -5_  4_3_2_  1_-7_.-6  -5_-5_-4_  -3_0_
+    -5_  3_2_.1  -7_-6_.-6  -5_-5_-4_  -3_0_
+    -5_  4_3_2_  1_-7_.-6  -5_-5_-4_  -3_0_ //] >>
+FCT[Moral - Lied, Vergaenglichkeit]

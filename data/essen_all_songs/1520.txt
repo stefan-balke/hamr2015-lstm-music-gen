@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging ein Jaeger zu jagen]
+CNR[dreiviertel Stunden vor Tagen]
+REG[Mitteleuropa, Deutschland / Polen, Pommern, Guetzlaffshagen]
+SRC[7, S. 186
+    1880 aufgezeichnet (ca.)]
+KEY[Q0152B 08 Bb 6/8]
+MEL[-5  -5_-5-5-6-7  1_.-6_
+    -6  -6_-61-7-6  -5_1-3_
+    -5  -5_-4-2-2-7  1_33_
+    1  2_2-7-6-7  1_.0_ //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]

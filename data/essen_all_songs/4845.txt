@@ -1,0 +1,13 @@
+DVA
+CUT[Gestern Abend in der stillen Ruh
+    hoert' ich einer jungen Amsel zu]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0098  16  C 3/4 4/4]
+MEL[1_5_  5_5_5_+1_+1_6_  5__3__
+    6_.5  7__.6_5_.44_3_  4_5_3__
+    5_5_  4_6_2__7_.7  +1_.65_6_
+    6_.5  5_4_2__6_.6  7_5_5__
+    1_5_  5_5_5_+1_+1_6_  5__3_066_5_  7__0_
+    6_5_4_4_3_  4_5_3__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]

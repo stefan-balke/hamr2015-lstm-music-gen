@@ -1,0 +1,12 @@
+KINDER
+CUT[SEHT IHR MEINE HERREN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Hoerde]
+KEY[K2242  08  D 2/4]
+MEL[  1234  5_5
+    5  66+16  5_0_
+    4444  3333
+    2222  1355
+    +1555  +155
+    5  1234  5_0
+    4  3322  1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

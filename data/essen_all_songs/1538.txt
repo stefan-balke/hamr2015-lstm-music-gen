@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging ein Herr spazieren,]
+CNR[es ging ein Herr spazieren,]
+REG[Suedosteuropa, Jugoslawien, Batschka, Vinkovci, Neudorf]
+SRC[7, S. 220
+    1938 aufgezeichnet]
+KEY[Q0152T 08  G 4/4]
+MEL[13  3_3_5_3_  2_.34_
+    23  4_4_6_4_  3_.45_
+    1_  6_.7+1_6_  5_.43_
+    5_  5_654_54  32345_
+    13  3_3_5_3_  2_.34_
+    23  4_4_6_4_  3_.45_
+    1_  6_.7+1_6_  5_.43_
+    5_  5_654_54  3__0_ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Zugehoerigkeit zu dieser Balladengruppe ungeklaert.]

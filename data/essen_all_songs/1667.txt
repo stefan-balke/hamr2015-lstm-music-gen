@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Oh, where have you been,]
+CNR[Sweet William, my son?]
+REG[Nord - Amerika, USA, Neuengland]
+SRC[4, S. 210
+    1905 gedruckt]
+KEY[Q2079P 08  G 3/4]
+MEL[-5  -5_3_3_  3_2_
+    1_  -5_-7_2_  2__0
+    2  -5_3_3_  3_2_
+    1_  -5_-7_2_  2__
+    13  5_3_54  3_3_
+    32  1_-5_1_  2__
+    13  5_3_54  3_1_
+    3_  2_2_2_  1__0 //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Amerikanische Fassung der Ballade. Pausen an den Zeilenenden
+    ergaenzt.
+    Zweite und vierte Zeile = Refrain.]

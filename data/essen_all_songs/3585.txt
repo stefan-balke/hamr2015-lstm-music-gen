@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Hauptmannstochter
+    Ick sal beliden v mijn God,]
+CNR[wt al mijns herten gront,]
+REG[Mitteleuropa, Niederlande]
+SRC[5, S. 138
+    1540 gedruckt in Antwerpen]
+KEY[Q0101B 08  G FREI]
+MEL[1_1_1_  2__2_3b_1__  -7b__
+    -7b_3b__4_5__4_  5__43b2__
+    5_5_5_  3b_4__3b_2_1_-7b__0__
+    123b_4__3b_2__  1___ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0101D, moeglicherweise Kontrafaktur der
+    Balladenmelodie.]

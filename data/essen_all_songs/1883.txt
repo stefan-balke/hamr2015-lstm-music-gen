@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es sassen drei Halunken]
+CNR[in einer Schenke trunken.]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+SRC[6, S. 312
+    ????]
+KEY[Q0139R 08  G FREI]
+MEL[-5  1_-7-6  -5_13  2_1_0_
+    -5  1_-7-6  -5_13  2_1_0_
+    5_  33333_.5  65432_
+    1  -72225_.4  33331_ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]
+CMT[Zwei- und dreistimmig notiert, Oberstimme kodiert.]

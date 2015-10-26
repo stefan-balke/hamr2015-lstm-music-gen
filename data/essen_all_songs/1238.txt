@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    'Ach muter, gib mir keinen man!]
+CNR[Ich leb nit lenger denn ein jar,]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 279
+    1556 gedruckt in Nuernberg]
+KEY[Q0053  08  F 3/2 4/2]
+MEL[1_1_2_  3_5_.43_2_2_  1__0_
+    1_5_6_  7_5_+1__6__  5__
+    1__5_+1_  7_.65_6_5_.4  3__0_
+    6_5_.4  3_1_2_5_.43_2_2_  1__0_ //] >>
+FCT[Ballade, Braut - Werbung, Hochzeit, Minderjaehrige, Tod]

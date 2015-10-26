@@ -1,0 +1,11 @@
+BOEHME
+CUT[DURCH FELD UND BUCHENHALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0510  08  A 6/8]
+MEL[-5  -5_-53_2  1_.-6_
+    -6  -5_-7-7_2  1__0
+    -5  3_3325  5_.4_
+    2  1_1212  3__0
+    -5  3_3345  6_.54
+    2  1_13_2  1__0 //] >>
+FCT[Wander - Lied]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Waechterlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0101B 04  F 4/2 6/2]
+MEL[5_  3_5_1_-5_  1_2_3__
+    0_2_3_4_  5__4_3_  2_1__
+    5_  3_5_1_-5_  1_2_3__
+    0_2_3_4_  5__4_3_  2__1__
+    0_-6_-7_1_  2__0_-7_1_2_  3__
+    1__  5__4_3__1_  5__4_3__2
+    1  2_.3425__43  2__1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[J Walthers Wittenberger Gesangbuch 1551 No. 74]

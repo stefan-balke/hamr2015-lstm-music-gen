@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES KANN JA NICHT IMMER SO BLEIBEN]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau]
+KEY[E0353A 08  F 4/4]
+MEL[-5_  1_113_21  522_0_
+    23  4_446_54  5__0_
+    1_  6_66+1_76  655_0_
+    5+1  +1_355_42  1__0_
+    1_  6_66+1_76  655_0_
+    5+1  +1_355_42  1__0_ //] >>
+FCT[historisches Lied, Krieg, Soldaten (1813 und 1870)]

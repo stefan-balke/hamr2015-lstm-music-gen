@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Nonnenlied"
+    VATER IST DENN NICHT ERSCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1247  08 Bb 4/4]
+MEL[1-5  -5_1_21-7-6  -5-4-3_1_-72  2_1_0_
+    1-6  -5_1_21-7-6  -5-4-3_1_-72  2_1_0_
+    -71  2_3_4321  -712_3_43  21
+    -7-6-5_1_  -722_1_ //] >>
+FCT[Liebes - Lied]

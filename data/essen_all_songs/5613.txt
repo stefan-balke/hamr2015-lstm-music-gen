@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Zwei Wasser. (Schwimmersage)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0024C 02  G 3/1]
+MEL[1_  1_.23b_  2__1_  2_.3b4_  5__
+    5_  4__2_  3b_1__  -7b__.  0__
+    -7b_  2__3b_  4__3b_  1_.23b_  2__
+    1_  -7b_-5_-7b_  1_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Mel. bei Rhaw, Bicinia II. 1545 No. 19.- Fuer Laute gesetzt und
+    etwas verzerrt steht die Melodie schon in Hans Judenkunigs
+    Lautenbuch, Wien 1523. Entzifferung s. Ambros, Gesch. d. Musik II,
+    282.]

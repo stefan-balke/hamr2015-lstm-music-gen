@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Bauern - Elend"
+    ISCH DAS NIT ES ELENGS LEBEN]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[Z1302  08  G 4/4]
+MEL[1_.23_43  2_321_-5_
+    3_.45_65  4_243_0_
+    1_.23_43  2_321_-5_
+    3_.45_65  4_543_0_
+    5_656_5_  5_656_5_
+    5_656_5_  5_656_5_
+    5_.43_1_  2_.31_0_ //] >>
+FCT[Handwerker -, Bauern - Lied]

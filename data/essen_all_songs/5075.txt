@@ -1,0 +1,14 @@
+BOEHME
+CUT[OH WIE SANFT RUH ICH HIER]
+REG[Europa, Mitteleuropa, Deutschland, Kuestrin]
+KEY[B0614  16  G 3/8]
+MEL[  5_4_3_  2_-7_1_
+    -6_-7_1_  2__.
+    -5_5_5_  5_434_
+    -5_4_4_  4_323_
+    234231  2__.
+    21-7_1_  2_-7_1_
+    2_2_3_  4__.
+    65432_  44321_
+    243_2_  1__0_ //] >>
+FCT[Staende -, Hirten - Lied]

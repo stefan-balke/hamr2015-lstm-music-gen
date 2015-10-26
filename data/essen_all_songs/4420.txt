@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ES WOLLT EIN JUNGFRAU FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus, Hennethal;
+    Limburg, Herungen]
+KEY[E2125  08  G 4/4]
+MEL[-5_  1_.23212  5_.35_
+    35  4_3_2_1_  2__0_
+    23  4_3_2_1_  -7_132_
+    46  5_3_5_54  3__0_ //] >>
+FCT[geistlich, Heiligen - Lied]

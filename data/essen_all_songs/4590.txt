@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Tageweise von Kristes geburt und von den heiligen drei kuenigen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0513  08  D 4/4 6/4]
+MEL[1_1_1_  5_6_7b_5_  5__0_
+    543b_2_  1_1_-7b_1_  5_2_1__  0_
+    1_1_1_  5_6_7b_5_  5__0_
+    543b_2_  1_1_-7b_1_  5_2_1__  0_
+    1_2_3b_  4_5_4_3b_  4__0_
+    1_  2_3b_4_5_  4_3b_4__  0_
+    543b_2_  2_1_-7b_1_  3b_2_1__  0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Lambacher Hs. und Spoerls Liederbuch 1392.]

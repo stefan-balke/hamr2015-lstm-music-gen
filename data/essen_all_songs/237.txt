@@ -1,0 +1,38 @@
+BOEHME
+CUT[EIN HERZ DAS SICH MIT SORGEN QUAELT]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Weissenburg]
+KEY[B0285A 08  D 3/4]
+MEL[13  5__5_  5_6_
+    54  5_.21_  1_2_
+    35  4__4_  3_5_
+    3_  3_2_
+    13  5__5_  5_6_
+    54  5_.21_  1_2_
+    35  4__4_  3_5_
+    3_  3_2_
+    5_  4#_2_2_  5_7_
+    +2_  +1_7_6_  5__0_
+    3_3_3_  5_4_0_
+    2_3_4_  6_5_0_
+    3_3_3_  4_6_
+    +16  5_6_7_  +1_0_ //] >>
+FCT[Stimmungs - Lied, Freude]
+BOEHME
+CUT[EIN HERZ DAS SICH MIT SORGEN QUAELT]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Weissenburg]
+KEY[B0285A 08  D 3/4]
+MEL[13  5__5_  5_6_
+    54  5_.21_  1_2_
+    35  4__4_  3_5_
+    3_  3_2_
+    13  5__5_  5_6_
+    54  5_.21_  1_2_
+    35  4__4_  3_5_
+    3_  3_2_
+    5_  4#_2_2_  5_7_
+    +2_  +1_7_6_  5__0_
+    3_3_3_  5_4_0_
+    2_3_4_  6_5_0_
+    3_3_3_  4_6_
+    +16  5_6_7_  +1_0_ //] >>
+FCT[Stimmungs - Lied, Freude]

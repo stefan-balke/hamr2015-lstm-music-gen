@@ -1,0 +1,11 @@
+F[ERK3
+CUT[VEILE ROSE BLIAEMELEIN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1262  16  G 2/4]
+MEL[  1_.23_4_  5_.65_
+    3_  4_.34_5_  3_.23_
+    -5_  1_1_2_2_  3_5_5_
+    -5_  1_1_2_2_  3_5_5__
+    3_5_1__  3_5_1__
+    2_2_3_3_  5_5_1__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Johannis - Tag]

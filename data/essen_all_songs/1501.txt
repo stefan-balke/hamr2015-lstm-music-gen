@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    O Schoenste aller Schoensten,]
+CNR[was redet man von dir?]
+REG[Mitteleuropa, Schweiz, Kanton Bern]
+SRC[7, S. 150
+    1901 gedruckt]
+KEY[Q0149N 08  G 4/4]
+MEL[-5_  1_1_1_3_  5__+1_
+    6_  5_434_.3  3_2_0_
+    5_  5_4_6_4_  3__5_
+    3_  2_2_2_24  3_+1_5_
+    5_  5_4_6_4_  3__5_
+    3_  2_5_5_54  3__0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Verzierung (Vorschlag) .]

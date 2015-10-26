@@ -1,0 +1,9 @@
+BOEHME
+CUT[AM ROSENHUEGEL HON ICH MICH EMPOR]
+REG[Europa, Mitteleuropa, Deutschland, Koeln; Meurs]
+KEY[B0670  08  D 4/4]
+MEL[554  3_.32342  1__0
+    123  5_.43365  2__0
+    567  +1_.5+2+275  5+3+1_0_
+    1_  1_.36523  1__0 //] >>
+FCT[Moral - Lied]

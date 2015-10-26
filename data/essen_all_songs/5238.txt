@@ -1,0 +1,11 @@
+BOEHME
+CUT[LASS DICH NUR NICHTS NICHT DAUERN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0765  08  G 4/4]
+MEL[5_  5_.43_2_  2__1_
+    6_  5__4#_4#_  5_2_0_
+    -7_  1_.23_3_  4_.56_
+    65  5_.43_2_  5__5_
+    65  5_7b_6_3_  5__^4
+    32  1__3_.2  1__0_ //] >>
+FCT[Moral - Lied, religioes]

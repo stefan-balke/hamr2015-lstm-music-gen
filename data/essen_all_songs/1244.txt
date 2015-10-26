@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die elfjaehrige Markgraefin
+    Mich freud, schoens Lieb, dein schoen anblick,]
+CNR[damit ich bin besessen;]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 294
+    1556 gedruckt in Nuernberg]
+KEY[Q1053F 16  F 3/2 4/2]
+MEL[1__1__2__  3__5__.4_3_4_2__2__  1___0__
+    1__5__6__  7__5__+1__.7_6__5__6___  5___0__
+    5__5__5__  +1__.765__6__5__5__  3___
+    5___1__1__  3__5__4__3__2__1__2___  1___. //] >>
+FCT[Liebes - Lied]
+CMT[Melodievergleich zu Q0053 , anderes Lied.]

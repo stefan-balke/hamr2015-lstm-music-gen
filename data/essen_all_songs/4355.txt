@@ -1,0 +1,13 @@
+F[ERK3
+CUT[AUS MEINES HERZENS GRUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1989  08  G 4/4]
+MEL[1_  1_5_3_1_  123_2_
+    3_  5_3_2_2_  1__0_
+    1_  1_5_3_1_  123_2_
+    3_  5_3_2_2_  1__0_
+    3_  3_5_5_3_  2__.
+    1_  3_2_5_2_  3__1_
+    3_  5_4_3_1_  123_2_
+    3_  5_3_2_2_  1__0_ //] >>
+FCT[geistlich, Dank -, Lob - Lied, Choral; Morgen - Lied]

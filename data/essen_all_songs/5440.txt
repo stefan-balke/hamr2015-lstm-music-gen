@@ -1,0 +1,11 @@
+KINDER
+CUT[TUARL HAUT GSAGT]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[K0973  08  G 3/4]
+MEL[  3_3_3_  3_3_3_
+    554_3_  2__0_
+    4_3_2_  1__0_
+    3_3_3_  3_3_3_
+    554_3_  2__0_
+    4_3_2_  1__0_ //] >>
+FCT[Kinder - Lied, Pflanzen]

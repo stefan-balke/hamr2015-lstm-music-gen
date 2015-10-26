@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Es wolt ein maydlin wasser holln]
+CNR[bey ainem kuelen prunnen;]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 178
+    15?? gedruckt (16. Jh.)]
+KEY[Q1062B 08  F FREI]
+MEL[1_  1_1_2_2_  3_3_1_
+    1_  4_3_2_3__2_  1-71_2__0_
+    2_  4__4_3__3_  2_2_1_.2  3_.21_-7-6  -7__
+    -5__  1_1_3_2_1_  2__1_ //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0062, anderes Lied "Winterrosen" .]

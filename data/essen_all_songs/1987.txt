@@ -1,0 +1,13 @@
+FINK
+CUT[GRAD AUS DEM WIRTSHAUS NUN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0214  16  C 3/8]
+MEL[  -5-6-7123  4_2_-7_
+    -5_-6_-5_  3__.
+    -6-71#234  5_3_1#_
+    -6_-7b_-6_  4__.
+    3_.43_  2_-6_-6_
+    3_.43_  2__.
+    1_-7_-6_  -5_1_3_
+    4_-6_-7_  1__. //] >>
+FCT[Trink - Lied]

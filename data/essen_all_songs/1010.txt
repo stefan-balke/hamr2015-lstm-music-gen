@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Das guelden ABC"
+    ALLEIN AUF GOTT HOFF UND VERTRAU]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1275  08  G 4/4]
+MEL[0_1_1_1_  -5__2__  3b_21-7__
+    0_-5_-6_-7_  1__-6__  -7_2_1__
+    0_2_2_2_  2__-7b__  1_2_3b__
+    4__3b_2_  1_-7__0_
+    0_-5_-6_-7_  1__-6__  -7_2_1__ //] >>
+FCT[Natur und Welt, Religion]

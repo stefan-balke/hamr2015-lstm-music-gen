@@ -1,0 +1,7 @@
+F[ERK3
+CUT[CONSTANZ LIEGT AM BODENSEE]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E1178  16  G 2/4]
+MEL[  3_3_3_3_  32345__
+    4_3_2_5_  3_2_1__ //] >>
+FCT[Trink -, Zech - Lied, Scherz]

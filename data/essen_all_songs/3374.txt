@@ -1,0 +1,10 @@
+F[ERK2
+CUT[WERS LIEBEN BETRACHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dill - Kreis]
+KEY[E0814B 16  A 3/4]
+MEL[-5__  1__-5__-6_-7_  1__0__
+    3__  3__2__5_4_  3___0__
+    3_.22_.23_2_  3__5__3__
+    3_.22_.23_2_  3__5__3__
+    5_6_5__3_4_  3__0__ //] >>
+FCT[Kilt - Lied]

@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Melodie zum Bergreihen von Joachimsthal]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0634  04  D 6/2 4/2]
+MEL[1_  1__5__7b_6_  5__2__
+    7b__  6__5_4__3b_  2__.
+    1_  1__5__7b_6_  5__2__
+    7b__  6__5_4__3b_  2__.
+    2_  2__2_2__3b_  4__4_3b21__  -7b___
+    4__  4__4_4__3b_  2___0_
+    2_  1__5__5_4_  5__5__
+    7b__  6b__5_4__2_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Babsts Gsgb 1553 II No. 62.]

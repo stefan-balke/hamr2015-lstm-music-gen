@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Engelspiel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0653  04  F 3/2]
+MEL[-5_  -6-71_2_  -6-71_
+    1_  345_4_  5_2_
+    2_  345_3_  434_
+    2_  323_1_  3_2_-6-7  1_1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Strassburger Hs.]

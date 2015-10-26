@@ -1,0 +1,10 @@
+DVA
+CUT[Maria, die Mutter, wollt' wandern gehn,
+    sie wollt nach Bethlehem gehn]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0178  08  G 2/4]
+MEL[-3  -5-5_-3  -6-6-6-7  -5-6-5-4  -3_0
+    -4  -5_.-3  -6_-6-7  -5_-4_  -3__
+    -5113  2_2_  3_43  2__
+    3_.2  1_13  2_-7_  1_0 //] >>
+FCT[Legenden - Lied]

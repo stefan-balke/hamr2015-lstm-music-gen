@@ -1,0 +1,15 @@
+F[ERK3
+CUT[BIN EIN LUSTGER GRENADIER]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E1327A 16  G 2/4]
+MEL[  3_1_1_-6_  -6_-5_-5__
+    2_4_2__  -5_3_1__
+    3_1_1_-6_  -6_-5_-5__
+    -5_4_2_-7_  1__0_
+    3_  2_.32_3_  2_3_2__
+    2_2_3_4#_  5_-5_-5__
+    1_1_3__  3_5_5__
+    5_4_4_4_  6_5_5__
+    1_1_3__  3_3_5__
+    5_4_2_-7_  1__0__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

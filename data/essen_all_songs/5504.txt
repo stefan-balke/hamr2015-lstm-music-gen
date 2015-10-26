@@ -1,0 +1,13 @@
+KINDER
+CUT[PETERSILJE SUPPENKRAUT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Hessen]
+KEY[K2200  08  G 2/4]
+MEL[  1113  1-5-5_
+    -6-71-6  -5_-3_
+    1113  1-5-5_
+    -6-71-6  -5_-5_
+    422_  311_
+    22-7-5  555_
+    422_  311_
+    22-7-5  1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel, Brautwerbung]

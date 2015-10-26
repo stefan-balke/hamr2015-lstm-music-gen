@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Der Kuckuck"
+    EIN SCHAEFERMAEDCHEN WEIDETE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1100  08  G 6/8]
+MEL[-5  -5111-71  3222_
+    2  3_3542  1_0_.
+    -5  1_11-71  3_22_
+    2  3_3542  3_0_.
+    5  4#_2234#  6555_
+    5  4#_2234#  6555_
+    5  3_52_5  1_0_. //] >>
+FCT[Romanze, Ballade]

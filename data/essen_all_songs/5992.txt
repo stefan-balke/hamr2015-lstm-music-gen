@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Ich weiss ein ewiges Himmelreich,]
+CNR[das ist ganz schoen gebaut.]
+REG[Mitteleuropa, Deutschland / Polen / UdSSR, Ostpreussen]
+SRC[1, S. 272
+    1931 aufgezeichnet]
+KEY[Q0024J 08  D 4/4]
+MEL[1_  5_555_4_  7b7b5__
+    5_  7b_5_543b_  4_6b_5__
+    7b_4_5_45  4_3b1-7b_
+    2_  3b3b4_5_45  2__1__  0__. //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Schlusston rhythmisch korrigiert (Pause ergaenzt).
+    Melodie = geistliche Kontrafaktur.]

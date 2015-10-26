@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ACH JOSEPH LIEBER JOSEPH]
+REG[Europa, Mitteleuropa, Deutschland, Dillenburg, Eibach]
+KEY[E0056C 08  G 3/4]
+MEL[1_  1_-5_34  3_1_
+    34  5_4_3_  2__
+    23  4_4654  351_
+    1_  2_2_2_  1__
+    23  4_4654  351_
+    1_  2_2_2_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Kinds - Mord
+    Ballade ?]

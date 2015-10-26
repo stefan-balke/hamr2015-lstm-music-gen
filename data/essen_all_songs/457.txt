@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES LIEGT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Niederlande]
+KEY[Z0043  08  D 3/4]
+MEL[    1_1_1_  5__5_  7b__7b_  3b__
+    4_  5_6b_7b_  5__6b_  5__.  5__
+    5_  6b__5_  4_4_6b_  5__5_  1__
+    5_  4_.56b5  7b__
+    5_  6b_5_4_  3b_2_2_  1__.  1__. //] >>
+FCT[Sagen - Lied, Romanze, Tod]

@@ -1,0 +1,13 @@
+F[ERK1
+CUT[KAISER JOSEPH]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0334  08  G 4/4]
+MEL[  1_131_13  3_5_3__
+    2_.35432  2__1_0_
+    1_131_13  3_5_3__
+    2_.35432  2__1_0_
+    2_.1-7_1_  2_.34__
+    5_565_43  3__2_0_
+    1_131_13  3_5_3__
+    2_.35432  2__1_0_ //] >>
+FCT[historisches Lied, Bayrischer Erbfolgekrieg (1778)]

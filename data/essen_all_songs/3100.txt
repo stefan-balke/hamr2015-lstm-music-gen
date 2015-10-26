@@ -1,0 +1,11 @@
+F[ERK1
+CUT[AUF DIESER WELT HAB ICH KEIN FREUD]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[E0569B 16 Bb 3/4]
+MEL[-5__  1_.-71__2__  3_5_4_
+    3_2_1_  2__4__3_2_  1__0_
+    543_3_  3_.45_432_2_  2_.34_
+    4_3_2_  1__3__2_2_  1__0_
+    543_3_  3_.45_432_2_  2_.34_
+    4_3_2_  1__3__2_2_  1__0__ //] >>
+FCT[Liebes - Lied, Trennung]

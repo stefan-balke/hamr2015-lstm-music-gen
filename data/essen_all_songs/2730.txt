@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WOLLT EIN JUNGMAGD FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Lobberich]
+KEY[E0122A 08  D 4/4]
+MEL[-7b_  3b_3b_543b4  5_543b_
+    5_  6b_5_543b4  5_543b_
+    -7b_  3b_.45_3b5  43b2_1_
+    -7b_  3b_.45_3b5  43b2_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

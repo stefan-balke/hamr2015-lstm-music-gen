@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES WOLLT EIN MAEGDLEIN SPAZIEREN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0011  08  A 4/4]
+MEL[-5  1_1_1_23b  1_-7-6-5_.
+    -5  2_2_2_5_  21-7-6-5_
+    -5_  1_2_3b513b  3b21-71_0 //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

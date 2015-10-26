@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Bie vrie bar auf dar juenge Pue,]
+CNR[ar ziechet hin am Bage pruait.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 99
+    ????]
+KEY[Q0057I 08  G 4/4]
+MEL[135_5_  5_345_4_  3_
+    6_5_5_  3_243_2_  1_ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES STARBEN DREI GESCHWISTER]
+REG[Europa, Mitteleuropa, Deutschland, Barmen]
+KEY[E0218  08  F 2/4]
+MEL[3_  2_1-7  123
+    3  3_21  2_
+    12  3_23  4_3_  2_23  1_
+    12  3_23  4_3_  2_23  1_
+    12  3_23  4_3_  2_23  1_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Geiz]

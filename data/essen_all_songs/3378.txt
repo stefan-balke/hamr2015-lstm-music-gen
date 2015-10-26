@@ -1,0 +1,9 @@
+F[ERK2
+CUT[JETZUND BRICHT DIE NACHT HEREIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E0816B 08  F 4/4]
+MEL[-5_  12345_55  43453_0
+    5  +176_7_5_  654#_5_0
+    5  +1_.56_6_  56543_0
+    3  5_5_67+14  3_2_1_ //] >>
+FCT[Kilt - Lied]

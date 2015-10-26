@@ -1,0 +1,9 @@
+VARIANT
+CUT[Trau di, liebe Margaret, wie oft hab ich dei Wiesla gmaeht]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Koednitz]
+KEY[V0005  16  C 2/4]
+MEL[    5_.+17_6_  5_.53_
+    3_  5_4_4_4_  6_5_5_
+    5_  5_+1_7_6_  5_.53_
+    3_  5_5_5_4_  3__0__ //] >>
+FCT[Liebes - Lied, Leid]

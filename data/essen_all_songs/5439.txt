@@ -1,0 +1,12 @@
+KINDER
+CUT[EHKHON MINNE KLOW]
+REG[Europa, Mitteleuropa, Deutschland, Barmen, Elberfeld]
+KEY[K0946  16  G 2/4]
+MEL[  5__3_0_  5_5_5_6_  5__3_0_
+    5_555_5_  6_6_5_
+    5_  4_4_3_5_  2__1_5_  2_1_0__
+    5_5_5_6_  5__3_
+    3_  5_5_5_6_  5__3_0_
+    5_5_5_5_  6_6_5__
+    4_4_3_5_  2_2_1__ //] >>
+FCT[Kinder - Lied, Pflanzen]

@@ -1,0 +1,9 @@
+FINK
+CUT[WIR DANKEN DEM HERRN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0340  08  C 4/4]
+MEL[-5_  1__2_2_  3__0_
+    3_  4__3__  3__2_
+    2_  2__3_4_  5_5_
+    5432  1__-7__  1__0_ //] >>
+FCT[Jugend - Lied, Lob , Dank, religioes]

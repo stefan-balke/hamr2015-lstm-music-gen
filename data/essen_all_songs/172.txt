@@ -1,0 +1,26 @@
+BOEHME
+CUT[WIE REIZEND WIE WONNIG IST ALLES UMHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0206  08  G 2/4]
+MEL[5  5_35  5_3
+    5  4_22  3_0
+    5  5_35  5_3
+    5  4_22  3_0
+    3  2_22  4_4
+    4  3_33  6_0
+    6  5_55  +1_5
+    3  4_2-7  1_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling, Natur]
+BOEHME
+CUT[WIE REIZEND WIE WONNIG IST ALLES UMHER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0206  08  G 2/4]
+MEL[5  5_35  5_3
+    5  4_22  3_0
+    5  5_35  5_3
+    5  4_22  3_0
+    3  2_22  4_4
+    4  3_33  6_0
+    6  5_55  +1_5
+    3  4_2-7  1_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling, Natur]

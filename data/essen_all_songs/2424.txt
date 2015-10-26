@@ -1,0 +1,11 @@
+FINK
+CUT[MIT MEINEM GOTT GEH ICH ZUR RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1046  08 Ab 4/4]
+MEL[-5_  -5_-5_-6_.-6  -7_-7_1_.
+    1  3_21-7_.-7  1_-7-6-3_0
+    -3  -4_.-4-5_.-5  -6__-6__
+    -5_-6-71_.-5  -5_-6-71_.
+    1  4_3_2_1-6  -5_-4_-3_.
+    -3  -4_-624_31  3__.2_  1__. //] >>
+FCT[Trost - Lied, religioes]

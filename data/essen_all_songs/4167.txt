@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DU MEIN EINZIG LICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1650  08 Bb 4/4]
+MEL[1_-5_  1__2__  3_.
+    45_5_  4__3__  2__
+    2_2_  2__3__  1__
+    2_1_  -7__-6__  -5_
+    -5_1_-7_  1__2__  3_
+    5_4_4_  3__2__  1__ //] >>
+FCT[Staende -, Hofe -, Ritter - Lied, Liebe]

@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Herr von Braunschweig
+    Dien edele heer van brunsesvick]
+CNR[die heeft een kynt gheuangen.]
+REG[Mitteleuropa, Niederlande]
+SRC[1, S. 241
+    14?? Handschrift  (ausgehendes 15. Jh.)]
+KEY[Q0023  04  D FREI]
+MEL[1_3b4  5_3b_44  5_
+    +1_7b+1  7b_6_  5_3b_
+    3b3b_3b  5_3b_22  1_
+    13b4  5_3b_  2_1_
+    3b3b_3b  5_3b_22  1_
+    13b4  5_3b_  2_1_ //] >>
+FCT[Ballade, Hinrichtung, Tod, Vergeltung; geistlich]
+CMT[Melodie = geistliche Kontrafaktur in Choralnotation.]

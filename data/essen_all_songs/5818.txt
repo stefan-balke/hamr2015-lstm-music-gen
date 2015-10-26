@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Alter Reihentanz um das erste Veilchen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0279  04  F 4/2]
+MEL[1_  5__5_1_  5__5_
+    7b_  6_5_4_3_  45645_
+    3_  3_3_4_4_  5__3_
+    3_  4_4_5_5_  3__1_
+    1_  4_4_2_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Klieber Vier geistliche Reyenlieder  Nuernberg 1530.]

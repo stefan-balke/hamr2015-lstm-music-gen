@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Der Graf von Rom oder der Graf im Pfluge]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0007  04  G 4/2 6/2]
+MEL[1_  1_1_3_1_  5__5__0_
+    5_  6_5_7b_5_  6__5__0_
+    5_  3_3_4_6_  5__5__0_
+    5_  3_5_5_3_  2__1__0_
+    5_  5_.65_5_  3__2__0_
+    2_  1__1_1__2_  3__2__0_
+    -5_  1_1_2_2_  32345__0_
+    5_  5_3_2_3_  2__1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[16.Jh]

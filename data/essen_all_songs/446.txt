@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[HERMANN SCHLOG LAERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0032  16  E 2/4]
+MEL[  3b_.21_3b_  4__3b_0
+    3b  3b_.21_3b_  4__3b_
+    45  6b_.54_3b_  4__3b_
+    2_  3b_.21_2_  1__1_
+    2_  4_.3b2_1_  -7__1_0_ //] >>
+FCT[Sagen - Lied, Romanze]

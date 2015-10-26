@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Mailied des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0579  02  F 4/1]
+MEL[1  1_1_1_-6_  -5__2_.
+    3  2_1_-7_-6_  -5__.0
+    1  1_1_1_-6_  -5__2_.
+    3  2_1_-7_-6_  -5__.0
+    -5  1_1_-7_-7_  1__2_.
+    2  2_2_3_1_  2__2__
+    5_.43_2_  1__4_
+    4_  3_2_1_-7_  1__.0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Triller 1555]

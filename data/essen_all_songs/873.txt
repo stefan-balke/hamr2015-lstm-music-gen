@@ -1,0 +1,20 @@
+ZUCCAL
+CUT["Der Landsturm"
+    HUI AUF SCHREIT MAN DURCH DAS LAND]
+REG[Europa, Mitteleuropa, Tirol]
+KEY[Z1138  08 Bb 2/4]
+MEL[5  5_.3  3_.
+    3  2_-5-5  1_.
+    -5  -531-5  -531
+    -5  -542-5  1_.
+    5  5_33  3_.
+    3  2_-5-5  1_.
+    -5  -531-5  -531
+    -5  -542-5  1_0_
+    22-5-5  111_
+    22-5-5  -511_
+    -531-5  -531
+    -5  -542-5  1__
+    22-5-5  111_
+    22-5-5  -511 //] >>
+FCT[Vaterland und Wehr]

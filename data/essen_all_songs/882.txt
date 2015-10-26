@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Keine Antwort und doch eine"
+    WO FIND ICH DEINES VATERS HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1147  08  G 4/4]
+MEL[-5-5-5  1_3_3_21  2_0_.
+    -5-5-7  2_4_4_32  3__0
+    554  34556543  4__0
+    443  23445432  3__0_
+    12  3_5_2__  1__0 //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[TRARIRO DER SOMMER DER IST DO]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1219A 16  F 2/4]
+MEL[  1__3__  5__.
+    31  -5_123_2_  1__0_
+    -5_  2_2_2_2_  3__1_
+    -5_  2_2_2_2_  3__1_0_
+    1__3__  5__.
+    31  -5_123_2_  1__0__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sommer - Tags - Lied]

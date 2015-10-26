@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der Oelberg - Ruf]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0544  02  F 3/2]
+MEL[1  2_3  4_5  423  4_
+    4  5_5  +1_7  656  +1_
+    5  456  554  342  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602. No. 22.]

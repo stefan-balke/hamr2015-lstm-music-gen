@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Es war ein Schloss in Oesterreich]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[1, S. 274
+    1897 aufgezeichnet]
+KEY[Q0024N 08  D 3/4 2/4]
+MEL[335  5_4324  4_3
+    555  6_43  3_2
+    567  +1_.342  +2_.
+    +1  7653  4_3
+    567  +1_.342  +2_.
+    +1  7653  4_3 //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Vgl. Q0024L und M]

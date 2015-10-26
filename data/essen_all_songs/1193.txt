@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Es wollt' ein Ritter ausreiten]
+CNR[mit seinen Hochzeitsleuten;]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Erzgebirge, Rittersgruen]
+SRC[2, S. 201
+    1893 aufgezeichnet]
+KEY[Q0048C 08  C 4/4]
+MEL[-5_  1_-7-6-5-513  2_1_0_
+    -5_  1_-7-6-5_13  2_1_0_
+    -5_  3_333_33  55432_.
+    1  -7_-7_5_.4  3_2_1_ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Grundton in der zweigestrichenen Oktave.]

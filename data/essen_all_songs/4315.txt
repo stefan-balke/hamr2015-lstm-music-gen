@@ -1,0 +1,9 @@
+F[ERK3
+CUT[TRITT IN KREIS MEINE ROSA]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[E1902  08  C 3/4]
+MEL[-5-5  1__12  1_-7_
+    -5-5  2__23  2_1_
+    -5-5  3_.21-7  -6_-6_
+    1-6  -5_1_2_  1_0_ //] >>
+FCT[Kinder - Lied, Tanz, Spiel, Pantomime]

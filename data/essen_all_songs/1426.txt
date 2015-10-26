@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Herr Ake han rider pa sin kaera moders gard' uti rymden,]
+CNR[och ute foer honom hans kaera moder star.]
+REG[Nordeuropa, Schweden]
+SRC[3, S. 260
+    1883 gedruckt]
+KEY[Q3068O 08  D 4/4]
+MEL[1  1_115556b  7b6b543b_45  6b_5_0_.
+    7b  7b+17b6b5_23b  543b21_0
+    -7b  3b_56b543b2  2_1_0_. //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0068J, anderes Lied "Herr Ake" .]

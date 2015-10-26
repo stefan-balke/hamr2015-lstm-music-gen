@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Hirsch"
+    SPRINGT EIN HIRSCH UEBERN BAUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1368  08  F 3/4]
+MEL[1_1531  5_4-5-7_
+    -7_-765-7  1_35+1_
+    111531  554-5-7-7
+    -7_-765-7  1_0__ //] >>
+FCT[Kinder - Lied]

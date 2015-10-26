@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Rache im Zweikampf
+    Dans mon pays il-y-a-t-un capitain']
+REG[Mitteleuropa, Frankreich, Franche - Comte]
+SRC[5, S. 105
+    1884 gedruckt in Paris]
+KEY[Q2097B 08  C FREI6/8]
+MEL[+17+1  +2+17676  5_.
+    +17+1  +2+17676  5_.^_
+    65_4  3_.^_+1+2_+3  +4_.^_+3  +2_.+1_
+    +3  5_43_.  6765_+2  +1__. //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Betrug, Rache]
+CMT[Franzoesische Fassung der Ballade. Duolen in der dritten Zeile
+    rhythmisch veraendert.]

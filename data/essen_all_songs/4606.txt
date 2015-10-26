@@ -1,0 +1,14 @@
+ALTDEU
+CUT[In dulci jubilo]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0528B 02  F 6/2]
+MEL[1  1_13_4  5_65_
+    5  1_13_4  5_65_.
+    5_65_4  3_.1_
+    1  2_23_2  1_23_
+    3  5_65_4  3_.1_
+    1  2_23_2  1_23_.
+    -6_-6-7_-7  1_.5_.
+    3_32_2  1_.^_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[M. Behe 1537.]

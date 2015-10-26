@@ -1,0 +1,24 @@
+BOEHME
+CUT[ES WAR EIN JUNGES MAEDCHEN VON REIZENDER GESTALT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0167  16 Bb 6/8]
+MEL[-5_  1_2_1_3__5_  4_3_2_1__
+    1_  4_3_2_5_4_3_  3__2__.
+    -5_  -5_-6_-5_-5_-6_-5_  3__.-6__.  -5__.0__
+    5_  5_4_3_3__5_  4_3_2_2__
+    2_  5__1_4__3_  3__2__.
+    -5_  1_-7_1_2_1_2_  3_.2345__
+    5_  5_4_3_2_3_2_  1__.0__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ES WAR EIN JUNGES MAEDCHEN VON REIZENDER GESTALT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0167  16 Bb 6/8]
+MEL[-5_  1_2_1_3__5_  4_3_2_1__
+    1_  4_3_2_5_4_3_  3__2__.
+    -5_  -5_-6_-5_-5_-6_-5_  3__.-6__.  -5__.0__
+    5_  5_4_3_3__5_  4_3_2_2__
+    2_  5__1_4__3_  3__2__.
+    -5_  1_-7_1_2_1_2_  3_.2345__
+    5_  5_4_3_2_3_2_  1__.0__ //] >>
+FCT[Ballade, Romanze]

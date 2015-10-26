@@ -1,0 +1,17 @@
+DVA
+CUT[Gefangen in maurischer Wueste,
+    lag ein Krieger mit schwermuetigem Blick]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+KEY[D0228  16 Bb 4/4]
+MEL[ -5__  -5__-3_-4_-5__1_2_  3___3__
+    4_3_  3__2_2_2__4_3_  1___.
+    -5_-5_  1__1_1_2__2_2_  3__3__0__
+    1_3_  5__.5_5__5_4_  3___.
+    4_.3  3_2_2__0_2_4_3_  2_1_1__.
+    1_2_1_  -7__.2_2_2_4_4_  3___0_
+    3_3_3_  -6__.3_3__.2_  2__1__.
+    -5_1_2_  3__.3_3_3_4_2_  5___0_
+    5_4_3_  3_2_3_2_1_1_3_.2  2___0__ //] >>
+FCT[Soldaten - Lied]
+CMT[rhythmische Korrekturen in der ersten und vierten Zeile
+    Inzipit = Variante zum Lied]

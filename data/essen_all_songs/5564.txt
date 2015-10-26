@@ -1,0 +1,11 @@
+KINDER
+CUT[WO WARST DU DEN GEWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Oberdiebach]
+KEY[K2444  08  G 3/4]
+MEL[-5_  111_3_  5_3_
+    4_  3__2_  1__
+    33  5_3_33  4_2_
+    2_  3_1_1_  6_5_
+    33  5_3_33  4_2_
+    2_  3_-7_-7_  1__ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

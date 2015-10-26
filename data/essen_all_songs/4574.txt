@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Ansinglied am ersten Mai]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0497B 16  G 3/8]
+MEL[1_  3_5_4_  3_1_2_  3_5_4_  2__
+    1_  3_5_4_  3_1_2_  3_542-7  1__
+    1_  3_5_4_  2__12  3_5_4_  2__
+    1_  3_5_4_  3_1_2_  3__2_  1__
+    1_  3_5_4_  2__12  3_5_4_  2__
+    1_  3_5_4_  3_1_2_  3__2_  1__ //] >>
+CMT[Kuhn, Sammlung von Schweizer - Kuehreihen und alten VL 1812 S. 42.]

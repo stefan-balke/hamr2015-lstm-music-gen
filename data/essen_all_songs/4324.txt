@@ -1,0 +1,9 @@
+F[ERK3
+CUT[VOM HIMMEL HOCH DA KOMM ICH HER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1928  08  C 4/4]
+MEL[+1  7_6_7_5_  6_7_+1_0
+    +1  +1_5_5_3_  5_4_3_0
+    3  6_6_5_7_  +1_6_5_0
+    +1  7_6_5_5_  432_1_0 //] >>
+FCT[geistlich, Fest - Lied, Weihnachten; Kinder - Lied]

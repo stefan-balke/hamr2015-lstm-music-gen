@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Nachtwaechterlied"
+    HOERT IHR HERRN UND LASST EUCH SAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1293  08  C 3/4]
+MEL[1__3_  5__3_  +1__5_  6__5_
+    +1__5_  6__5_  5_4_3_  3_2_0_
+    5__3_  6__5_  5_4_3_  2__0_
+    +1__5_  6__54  3__2_  1__0_ //] >>
+FCT[Handwerker -, Bauern - Lied]

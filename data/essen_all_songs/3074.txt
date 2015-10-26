@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ZU COBLENZ AUF DER BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0550  08  F 6/8]
+MEL[-5  3_3323  5_.3_
+    1  4_4456  5_.0_
+    3  5_35+16  5_.4_
+    4  343212  1_.0_ //] >>
+FCT[Liebes - Lied]

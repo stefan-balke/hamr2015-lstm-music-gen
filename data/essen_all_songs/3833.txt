@@ -1,0 +1,15 @@
+F[ERK3
+CUT[HANS HAT HOSEN AN UND DIE SIND BUNT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[E1163  16  G 2/4]
+MEL[  1__5__  3_.21_
+    1_  2__-7__  1__0__
+    1__5__  3_.22_
+    1_  2__4#__  5__0_
+    5_  4_.22_5_  3_.21_
+    1-7  -6_1_4_6_  5_.43_
+    3_  4__0_2_  3__0_
+    1_  2_2_-7_-7_  1__0_
+    3_  4__0_2_  3__0_
+    1_  2_2_-7_-7_  1__0__ //] >>
+FCT[Trink -, Zech - Lied]

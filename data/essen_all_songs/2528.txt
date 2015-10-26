@@ -1,0 +1,14 @@
+F[ERK1
+CUT[WILHELM BIN ICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0032  08  C 4/4]
+MEL[-5_  1_1_2_2_  3_2
+    34_3_  2_2_1_
+    -5_  1_1_2_2_  3_2
+    34_3_  2_2_1__  0_
+    5_5_5_  5_4_3_2
+    3  4_3_2_1_  2__0_
+    -5_  1_3_2_1_  -7_-6
+    -5-6_1_  1_-7_1__  0__. //] >>
+FCT[Helden - Sage, erzaehlendes Volks - Lied
+    Ballade ?]

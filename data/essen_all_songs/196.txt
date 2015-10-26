@@ -1,0 +1,18 @@
+BOEHME
+CUT[ICH STAND AUF BERGES HALDE (ALLE JAHRE WIEDER)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0231  08 Eb 4/4]
+MEL[1_  5_.65_.4  3__2_
+    2_  1_234_3_  2__0_
+    2_  3_5_6_5_  +1__7_
+    6_  5_434_5_  3__0_ //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[ICH STAND AUF BERGES HALDE (ALLE JAHRE WIEDER)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0231  08 Eb 4/4]
+MEL[1_  5_.65_.4  3__2_
+    2_  1_234_3_  2__0_
+    2_  3_5_6_5_  +1__7_
+    6_  5_434_5_  3__0_ //] >>
+FCT[Tageszeiten - Lied, Abend]

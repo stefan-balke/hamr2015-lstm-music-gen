@@ -1,0 +1,11 @@
+FINK
+CUT[SAGT MIR AN WAS SCHMUNZELT IHR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0167  08  D 4/4]
+MEL[  1_1_-7_-7_  -6_-6_-5__
+    -6_-5_-6_-5_  -4_-3_-2__
+    -3_-3_-2_-2_  -3_-3_-2_-2_
+    -3_-3_-2_-2_  -3_-3_-2_-2_
+    -3_-2_-3_-4_  -5__1_0_
+    -4-3-2-1-5_-5_  -1__0__ //] >>
+FCT[Tanz - Lied, Reigen]

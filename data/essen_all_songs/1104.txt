@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Luftschloesser"
+    WENN ICH MAL GROSS BIN]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1370  08  F 3/4]
+MEL[3_3_4_  5__3_
+    4_4_2_  3__1_
+    3_3_4_  5__3_
+    4_4_2_  3__.
+    1_.234  5__+1_
+    4_4_2_  1__. //] >>
+FCT[Kinder - Lied]

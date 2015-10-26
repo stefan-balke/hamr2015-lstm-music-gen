@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die Stiefmutter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0096  08  F 3/4]
+MEL[-5_  1_1_24  3_1_
+    3_  2_.1-72  1_0_
+    -5_  1_1_24  3_1_
+    3_  2_.1-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus Erk, Liederhalle, No. 2.]

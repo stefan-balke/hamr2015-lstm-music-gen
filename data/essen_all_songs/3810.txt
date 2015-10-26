@@ -1,0 +1,8 @@
+F[ERK3
+CUT[DES ABENDS WENN ICH FRUEH AUFSTEH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Schwalbach, Hennethal]
+KEY[E1116  16  G 6/8]
+MEL[-5_  1__3_2__4_  3__3_2__
+    2_  1__1_-7__-7_  -6__-6_-5__
+    -5_  3__3_2__32  1__0__. //] >>
+FCT[Luegen - Lied, Maerchen]

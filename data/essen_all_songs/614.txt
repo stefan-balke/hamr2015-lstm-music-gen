@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[MEIN SCHATZ IST AUF DIE WANDERSCHAFT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0198  08  D 4/4]
+MEL[12  3b_1_1_2_  3b3b1_1_
+    2_  3b_3b3b4444  5_.6b5_
+    3b4  5_6b6b7b_5_  6b543b2_
+    3b4  5_3b45_(43b2)  1_-7_1_ //] >>
+FCT[Romanze, Tod]

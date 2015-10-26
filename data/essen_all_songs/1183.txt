@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Herminchen ging in' Garten,]
+CNR[der Rosen wollt' sie warten;]
+REG[Osteuropa, Polen]
+SRC[2, S. 175
+    1924 gedruckt in Biala bei Bielitz]
+KEY[Q0047D 08  C 6/8]
+MEL[5  5_64_5  330_.
+    5  5_64_5  330_.
+    5  55+1+3_+2  +1+135_
+    +1  7_24_6  5_13_
+    5  55+1+3_+2  +1+135_
+    +1  7_24_6  5_43_ //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]

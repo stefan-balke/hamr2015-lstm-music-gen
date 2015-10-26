@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WO FIND ICH DANN DEINS VATERS HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0460  08  G 4/4]
+MEL[-5_  1_1_1_2_  3_4#_5__
+    6_.54_3_  2__3_0_
+    5_4_3_2_  3_.32_
+    2_  5_4_3_2_  3_.32_
+    3_  4__0_6_  5__0_
+    5_  5_3_2_1_  2__2__  3__. //] >>
+FCT[Liebes - Lied]

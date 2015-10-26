@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt ein Pfalzgraf wohl an dem Rhein,]
+CNR[der hat drei schoene Toechterlein.]
+REG[Osteuropa, Polen, Galizien, Engelsberg]
+SRC[4, S. 68
+    1940 aufgezeichnet]
+KEY[Q0075  16  A 2/4 1/4]
+MEL[-5_  1_1_3_11  1_-7_-7_
+    -7_  2_2_2_-6_  -6_-5_-5_
+    -5_  -6_-5_-3_-5_
+    1__  2__3_2_  1__0_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Informanten: Rueckwanderer.
+    Dritte und vierte Zeile = Refrain auf sinnfreie Silben.]

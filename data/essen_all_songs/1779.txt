@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Hammerschmiedssohn
+    'Annele, du sollst ni borwes giehn,]
+CNR[Annele, du sollst ni borwes giehn,]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen]
+SRC[4, S. 360
+    1938 gedruckt in Reichenberg]
+KEY[Q0088H 16  F 2/4]
+MEL[  5_443_4_  5_3_1__
+    2_11-7_1_  2_-7_-5_
+    -5_  4_3_2_1_  2__-7__  1__0_
+    1_  4_3_2_1_  2__-7__  1__0__ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft, Mord]

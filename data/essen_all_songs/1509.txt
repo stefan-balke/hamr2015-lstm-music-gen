@@ -1,0 +1,21 @@
+F[BALLADE
+CUT[Der Jaeger auf koeniglicher Heide
+    Es wollt' ein Jaeger jagen,]
+CNR[wollte jagen auf der koeniglichen Heid,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Cottbus, Peitz]
+SRC[7, S. 156
+    1839 aufgezeichnet]
+KEY[Q0150  16  F 3/8 4/8]
+MEL[-5_  1_5_3232  1_5_3_
+    55  66554433  2__0_
+    -5_  1_5_3232  1_5_3_
+    55  66554433  2__0_.
+    5  55(555)55  351_0
+    1  66(666)66  5_4_3_
+    1_  26543_2_  1__0_.
+    5  55(555)55  351_0
+    1  66(666)66  5_4_3_
+    1_  26543_2_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]
+CMT[Kleinere Varianten zu den folgenden Strophen abgedruckt.
+    Mehrere Pausen an Zeilenschluessen korrigiert.]

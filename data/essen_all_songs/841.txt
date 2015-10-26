@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die hohe Blume"
+    ES STAND EIN BAUM IM SCHWITZERLAND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+KEY[Z1106  16 Ab 6/8]
+MEL[-5_  1__2_3__5_  3_2_3_1__
+    34  5__6_5__7_  +1_6_7_+1__
+    34  5__4_3_2_3_  1_-7_1_2__
+    34  5__4_3_2_3_  -5_-6_-7_1__ //] >>
+FCT[Romanze, Ballade]

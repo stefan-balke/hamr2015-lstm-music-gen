@@ -1,0 +1,10 @@
+KINDER
+CUT[DER ABT IST NICHT ZU HAUSE]
+REG[Europa, Mitteleuropa, Deutschland, Dresden]
+KEY[K2562  16  G 2/4]
+MEL[-5_  1_1_1_3_  1__-5_
+    -5_  1_1_1_3_  1__-5_
+    -5_  2_2_2_2_  3_1_1_
+    -5_  2_2_2_2_  3_1_1__
+    55555__ //] >>
+FCT[Kinder - Lied, Gesellschafts - Spiel]

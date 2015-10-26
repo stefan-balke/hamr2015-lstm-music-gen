@@ -1,0 +1,22 @@
+BOEHME
+CUT[ES IST IN DEINEN LIEDERN MEIN VOLK DIR PROPHEZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0029  08  C 4/4]
+MEL[12  3_3_4_3_  522_0_
+    23  4_4_6_54  3__0_
+    1_  6_6_+1_76  655_0_
+    +1_  5_355_42  1__0_
+    1_  6_6_+1_76  655_0_
+    +1_  5_355_42  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[ES IST IN DEINEN LIEDERN MEIN VOLK DIR PROPHEZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0029  08  C 4/4]
+MEL[12  3_3_4_3_  522_0_
+    23  4_4_6_54  3__0_
+    1_  6_6_+1_76  655_0_
+    +1_  5_355_42  1__0_
+    1_  6_6_+1_76  655_0_
+    +1_  5_355_42  1__0_ //] >>
+FCT[politisch, national, Vaterlands - Lied]

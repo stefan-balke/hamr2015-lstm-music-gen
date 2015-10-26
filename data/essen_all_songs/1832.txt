@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Nachtjaeger
+    Es stot es Lindeli in einem Tal,]
+CNR[es stot es Lindeli in einem Tal,]
+REG[Mitteleuropa, Schweiz, Aargau]
+SRC[6, S. 188
+    1911 gedruckt in Basel]
+KEY[Q0133H 16  F 4/4]
+MEL[1__  3__.2_1_.33_5_  5_3_5_3_2__0_
+    12  3__3_5_4_.44_6_  5__5_4_3__0_
+    3_  5__5__5_4_4_2_  3__5__2__4__  3___0__ //] >>
+FCT[Ballade, Jagd, Flucht, Vergewaltigung, Tod]

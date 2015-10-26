@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ALS SCHONDILG NOCH EIN KLEIN KIND WAR]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E0041A 08  E 3/4]
+MEL[-7b3b4  5_.6b54  3b_.
+    -7b3b4  5_.6b54  3b_.
+    212  3b_453b2  1_.
+    212  3b_453b2  1_. //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

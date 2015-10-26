@@ -1,0 +1,12 @@
+DVA
+CUT[Gruene Reben auf hohen Bergen,
+    Ei, da waechst der beste Wein]
+REG[Europa, Mitteleuropa, Lothringen, Halsdorf ( Kr. Diedenhofen )]
+KEY[D0044  16  G 3/4 2/4]
+MEL[-5_.1  1_-5_-5_-5_1_2_  3_2_1__
+    3_.4  5__4_3_(1_2_3_)  2__0__
+    1__2_3_  3_.33_.5(5_4_3_)  (3_2_3_)2__
+    3_.2  1__1_.2(1_-7_-6_)  -5_.22__
+    3_.2  1_2_3_2_1_.-7  1__0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Variante zum Lied]

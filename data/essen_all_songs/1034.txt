@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Kohlenbauer"
+    BIN JA DAS KOHLENBAUABUA]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1299  08 Bb 3/4]
+MEL[-3-51-513  5_565_
+    -725_.4  43231_
+    -3-51-513  5_.65_
+    -725_.-7  1__0_
+    1_-7_-6_  2_.-7-5_
+    1_-7_-6_  2_.-7-5_
+    -3-51-513  5_.65_
+    -725_.-7  1__0_ //] >>
+FCT[Handwerker -, Bauern - Lied]

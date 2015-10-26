@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[DA DRAUSSN AUF DEM BERGLE]
+REG[Europa, Mitteleuropa, Deutschland, Vogtland]
+KEY[Z0132  08  F 3/8]
+MEL[5  534  555  +1
+    55  543  234  3
+    45  543  234  3_ //] >>
+FCT[Erzaehlung, lustige Romanze]

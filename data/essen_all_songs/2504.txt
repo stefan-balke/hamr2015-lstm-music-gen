@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WILL ICH IN MEIN GAERTCHEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0004  16  G 2/4]
+MEL[  1_1_-7_1_  2_231_0_
+    4_.32_5_  3__1_0_
+    5_654_54  3_432_0_
+    3_4_5_64  3_2_1_0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

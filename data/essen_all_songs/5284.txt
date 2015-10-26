@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stund auf hohem Berge,]
+CNR[Sah nieder in's tiefe Thal;]
+REG[Mitteleuropa, Schweiz]
+SRC[8, S. 30
+    1818 gedruckt in Bern]
+KEY[Q0155A 16  D 2/4]
+MEL[13  5_5+15342  3__2_
+    2_  3_354_46  5__0_
+    (567)  +1_+1_+1765  6__5__  4__3_
+    5_  6_543_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Verzierungen (Vorschlaege) in der ersten und dritten Zeile.
+    Anhaengsel an der dritten Zeile.]

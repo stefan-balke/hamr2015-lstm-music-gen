@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES REIT EIN HERR ZUM SCHLOESSLI AUF EINEM SCHOENEN ROESSLI]
+REG[Europa, Mitteleuropa, Deutschland, Mitteleuropa, Schweiz]
+KEY[Z0161  08  F 4/4]
+MEL[1_  56543432  1_3_-5_
+    1_  56543432  1_3_-5_
+    -5_  1_1_2_2_  35432_
+    5_  3_1_2_-5_  132-71_ //] >>
+FCT[Kinder -, Wiegen - Lied]

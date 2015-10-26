@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Muskatbaum
+    In Oesterriek do staat eenen Boom,]
+CNR[dae draeht der beschotene Bluaemen.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
+SRC[6, S. 141
+    1894 gedruckt in Leipzig]
+KEY[Q0130  08  F 4/4]
+MEL[-5_  1_1_2_2_  3_321_
+    2_  32345_43  4_3_2_ //] >>
+FCT[Ballade, Werbung, Standesunterschied]
+CMT[Zweizeilige Melodie, vermutlich mit Wiederholung auf die vierzeilige
+    Textstrophe gesungen.]

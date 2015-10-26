@@ -1,0 +1,11 @@
+FINK
+CUT[AUF AUF IHR BRUEDER UND SEID STARK]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0566  08  D 4/4]
+MEL[5_  +1_.55432  1_1_1_.
+    3  257+2+2+176  5__0_
+    54  3_3_3_.5  54434_.
+    3  322_2_.4  43323_.
+    5  +1_.54321  5_.0
+    7__  +1_.65432  1_0__ //] >>
+FCT[Soldaten - Lied, Abschied]

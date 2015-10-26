@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Du zing'rlong'r Vo schog!]
+CNR[Ar geat ahin ze Meere]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 86
+    ????]
+KEY[Q1095B 08  G 4/4]
+MEL[2  22222_
+    12  3333321
+    2  22222_
+    12  33232_1 //] >>
+FCT[Faschings - Lied]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

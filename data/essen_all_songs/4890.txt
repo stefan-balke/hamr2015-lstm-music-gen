@@ -1,0 +1,12 @@
+DVA
+CUT[Haerzke, menj Haerzken, do faer iwerm Rech,
+    woraem mess ech aenjden vun dir ewech ?]
+REG[Europa, Suedosteuropa, Rumaenien, Siebenbuergen]
+KEY[D0198  08  G 3/4]
+MEL[     5_3_.4  3_2_0
+    1  3_4_6_  5__
+    7+1  +2_+1_.6  +1_5__
+    4_2_4_  3__
+    7+1  +2_+1_.6  +1_5__
+    +4_+3_+2_  +1__. //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Winterrosen
+    Es wollt' ein Maegdelein Wasser hol'n]
+CNR[an einem kuehlen Brunnen;]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+SRC[7, S. 61
+    1855 gedruckt in Leipzig]
+KEY[Q0145G 16  G 6/8]
+MEL[-5_  1__3_3_.21_  -7__2_4__
+    2_  3__5_5_.43_  3__.2__
+    13  5__3_3__+1_  5__4_2__
+    4_  3__1_5_4_3_  2__.1__ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre]

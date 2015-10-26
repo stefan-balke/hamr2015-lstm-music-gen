@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Hauptmannstochter
+    Daar was er een kapteinsdochtere,]
+CNR[en den schrijver die was er haar lief.]
+REG[Mitteleuropa, Niederlande, Flandern]
+SRC[5, S. 130
+    1900 gedruckt in Gent]
+KEY[Q2101  16  F 6/8]
+MEL[-5_  1__3_5_6_5_  553__0__
+    -51  3_3_5_5_4_3_  2__.0__
+    23  4_3_4_6_5_4_  345__0__
+    5_  6_4_2_2_3_2_  4_3__0__
+    23  4_3_4_6_5_4_  345__0__
+    1_  6_4_2_2_1_-7_  1__.0__ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat, Moral, Mord]
+CMT[Niederlaendische Fassung der Ballade.]

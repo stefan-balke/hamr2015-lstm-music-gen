@@ -1,0 +1,13 @@
+FINK
+CUT[WOHLAN DIE ZEIT IST KOMMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0582  16  A 2/4]
+MEL[13  5_5_5_+1_  5__3_
+    3_  4_4_2_2_  3_3_3_
+    13  5_5_5_+1_  5__3_
+    3_  4_4_2_2_  3_0_
+    5__  4_4_2_2_  3_3_5_
+    5_  4_4_2_2_  3_3_5_
+    34  5_5_5_+1_  5__3_
+    33  4_4_2_2_  3__0_ //] >>
+FCT[Soldaten - Lied, Liebe, Scherz]

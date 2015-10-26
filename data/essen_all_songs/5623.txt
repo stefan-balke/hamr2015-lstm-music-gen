@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Die Frau zur Weissenburg]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0034  04  G 3/2]
+MEL[1_  1__1_  2__2_  3b__1_  -7b__
+    -7b_  3b__4_  5__4_  5_.43b_  2__
+    2_  5_5_5_  3b__4_  3b_2_1_  -7b__
+    -7b_  1_.23b_  4__3b_  2__.  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie (Text von Boehme willkuerlich unterlegt): Souterliedekens
+    1540 ad Ps. 137.]

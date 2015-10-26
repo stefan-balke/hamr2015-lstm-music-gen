@@ -1,0 +1,26 @@
+BOEHME
+CUT[SOLL ICH EUCH MEIN LIEBCHEN NENNEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0433  16  D 3/4]
+MEL[1_3_  5__6__5_.4  4_3_3__
+    2_3_  4__6__5_.4  3__0__
+    1_3_  5__6__5_.4  4_3_3__
+    2_3_  4__6__5_.4  3__0__
+    5_5_  5__2__5_6_  7__7__
+    6_7_  +1__.6_+2_+1_  7_6_5_4_
+    3_.3  5__.6_5_.4  4_3_3__
+    2_3_  4__6__5_.4  3__0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Treue]
+BOEHME
+CUT[SOLL ICH EUCH MEIN LIEBCHEN NENNEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0433  16  D 3/4]
+MEL[1_3_  5__6__5_.4  4_3_3__
+    2_3_  4__6__5_.4  3__0__
+    1_3_  5__6__5_.4  4_3_3__
+    2_3_  4__6__5_.4  3__0__
+    5_5_  5__2__5_6_  7__7__
+    6_7_  +1__.6_+2_+1_  7_6_5_4_
+    3_.3  5__.6_5_.4  4_3_3__
+    2_3_  4__6__5_.4  3__0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Treue]

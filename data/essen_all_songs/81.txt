@@ -1,0 +1,24 @@
+BOEHME
+CUT[WAS HOER ICH DRAUSSEN VOR DEM TOR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0111  08 Bb 4/4]
+MEL[1  1_.-5-3_-5_  1_2_3_0
+    3  3_234321  2__-5_0
+    1  1_.-5-3_-5_  1_2_3_0
+    3  3_234321  2__-5_0
+    -5  -5_.-6-7_.-6  -5-6-712_0
+    1  -7_.12_.1  -71234_0
+    4  3_.1-61-72  1__-1_0 //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WAS HOER ICH DRAUSSEN VOR DEM TOR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0111  08 Bb 4/4]
+MEL[1  1_.-5-3_-5_  1_2_3_0
+    3  3_234321  2__-5_0
+    1  1_.-5-3_-5_  1_2_3_0
+    3  3_234321  2__-5_0
+    -5  -5_.-6-7_.-6  -5-6-712_0
+    1  -7_.12_.1  -71234_0
+    4  3_.1-61-72  1__-1_0 //] >>
+FCT[Ballade, Romanze]

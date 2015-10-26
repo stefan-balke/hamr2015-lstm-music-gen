@@ -1,0 +1,23 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Im Wald und auf der Heide]
+CNR[da such ich meine Freude;]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 217
+    1895 gedruckt in Leipzig]
+KEY[Q1152K 08  C 6/8]
+MEL[5  5_55_5  5_.3_
+    5  +1_+1+17+1  +3_+2+17
+    6  5_5567  +1_.^0
+    5  5_5567  +1_.^0
+    5  5_55_5  5_+3+1_
+    7  6_66_6  6_+4+2_
+    +1  7_77+1+2  +3_.+4+3
+    +2  +1_+17_7  +1_.0_
+    5  535+1_+1  +15+1+3_
+    +3  +2_+27_7  +1_.^0
+    5  535+1_+1  +15+1+3_
+    +3  +2_+27_7  +1_.^0 //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0152L und M, anderes Lied.
+    Die letzten vier Zeilen = Refrain , z.T. auf sinnfreie Silben.]

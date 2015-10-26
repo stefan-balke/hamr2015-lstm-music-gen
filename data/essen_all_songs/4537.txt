@@ -1,0 +1,18 @@
+ALTDEU
+CUT[Die ueppigen Bauern]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0451  04  G 4/2]
+MEL[1_  5_5_5_5_  1__1_
+    1_  3b_3b_2_2_  1__0_
+    1_  5_5_5_5_  1__1_
+    1_  3b_3b_2_2_  1__0_
+    1_  -7b_-6_-7b_1_  2__2_
+    3b_  2_2_2_2_  -5__0_
+    -5_  1_-7b_1_2_  3b__2_
+    1_  -7b_1_2_1_  3b__2_
+    1_  3b_3b_2_1_  3b_3b_2_
+    1_  3b_3b_2_
+    1_  -7_.12_1_  5__5_
+    5_  5_5_5_5_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schoeffer 1537 No. 62 und Forster II No. 56.]

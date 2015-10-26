@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HOLDES GRUEN WIE LIEB ICH DICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Bettenhausen]
+KEY[E1795A 16  F 3/4]
+MEL[1_2_  3__.5_5_3_  2__0__
+    2_3_  4_6_6__5_.4  3__0__
+    1_3_  5_3_5_3_5_+1_  6__0__
+    +1_6_  5__6_5_4_5_  3__0__
+    1_3_  5_3_5_3_5_+1_  6__0__
+    +1_6_  5__6_5_4_5_  3__0__ //] >>
+FCT[Natur - Lied]

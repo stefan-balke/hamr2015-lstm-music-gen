@@ -1,0 +1,9 @@
+VARIANT
+CUT[Es geht nichts ueber die Gemuetlichkeit, eija, eijo]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Koednitz]
+KEY[V0002D 32  G 2/4 3/4]
+MEL[-5__  1__1__3_2_1_-7_  -6__-6__-6__4__  -7___0__5__  1___0__
+    -5_-5_  1_.11_1_3_2_1_-7_  -6__-6__-6__4__  -7___0__5__  1___0__
+    -5__  1___1__1__1___  3___2___1___  -6___.-6__-6___  2____
+    1___  -7___.-7__-7___  -7___-6___-7___  1____0__ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]

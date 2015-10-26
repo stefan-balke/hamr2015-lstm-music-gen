@@ -1,0 +1,14 @@
+FINK
+CUT[DEM KAISER SEI MEIN ERSTES LIED]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0377  08  D 6/8]
+MEL[-5  -5_-3-3_1  1_-5-5_
+    3  2_-71-7-6  -5_.0_
+    -5  -5_-3-3_1  1_-5-5_
+    3  2_-71-7-6  -5_.0_
+    1  -7_2-5_-4  -3_-5-5_
+    1  -7_2-5_-4  -3-4-5-5_
+    -5  -6_-6-6_-6  -7_.0_
+    1  2_2-7-6-7  3_.^_
+    1  2_2-5-6-7  1_.0_ //] >>
+FCT[Jugend - Lied, national, patriotisch]

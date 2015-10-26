@@ -1,0 +1,16 @@
+ZUCCAL
+CUT["Glaubens - Einheit"
+    WIR GLAUBEN ALL AN EINEN GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1119  08  D 4/4]
+MEL[1_  5_4_5_2_  3b_2_1__
+    5_5_+1_7b_  6_567b_6_  5__.
+    6_  7b_5_5_4_  5_3b_2__
+    1_2_3b_4_  5_4_3b_2_  1__
+    +1_+1_  +2_+1_7b65_  +1_7_+1__
+    +2_6_7b_5_  5_2_3b__  2__
+    5_4_  5_6_7b_6_  5_4#_5__
+    6_+1_5_4_  5_2_3b__  2__.
+    4_  3b_2_1_2_  3b_4_5_
+    2_  3b_4_5_4_  3b_2_1_ //] >>
+FCT[religioeses Lied]

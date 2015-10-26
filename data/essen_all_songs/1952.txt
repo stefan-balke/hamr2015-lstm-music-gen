@@ -1,0 +1,11 @@
+FINK
+CUT[DER WINTER HAT MIT KALTER HAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0166  08  G 6/8]
+MEL[5  564345  5643_
+    3  2_2254  4_.3_
+    5  5643+17  76554#
+    3  325654#  4#_.5_
+    5  563344  45223
+    +1  +1_5531  -52-71_ //] >>
+FCT[Jahreszeiten - Lied, Winter]

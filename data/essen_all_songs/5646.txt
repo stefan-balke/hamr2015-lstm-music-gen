@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Malers Toechterlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0058  04  G 3/2]
+MEL[1_  1__2_  3_4__  3_2__  1__
+    1_  5_2__  5__4#_  5__.  0__
+    5_  4__2_  3__4_  5__.  4__
+    32  1__1_  2_.34_  5__.
+    5_4_32  1_2345  6_5_.3  4_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus den Reutterliedlein 1535 No. 12. Von Boehme in einen
+    3/2-Takt gesetzt.]

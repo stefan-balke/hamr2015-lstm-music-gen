@@ -1,0 +1,10 @@
+KINDER
+CUT[NUN GEBT UNS AUCH EIN PEUST EI]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+KEY[K1648  08  D 2/4]
+MEL[-5  1234  5_50
+    +1_76  655
+    5  +1543  2340
+    4_32  3450
+    642-7  211 //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

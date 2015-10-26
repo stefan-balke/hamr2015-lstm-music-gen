@@ -1,0 +1,12 @@
+DVA
+CUT[Muede kehrt ein Wanderer zurueck]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Duesseldorf, Ittar]
+KEY[D1014  16  G 4/4]
+MEL[-5_1_  3__.2_1_-7_1_2_  -5___.
+    -5_-7_  2__.1_-7_2_6_.5  3___.
+    1_2_  3__.5_4_3_2_4_  -6___0_
+    -7_1_-6_  -5__.1_-7_2_6_.5  3___0__
+    1_2_  3__.5_4_3_2_4_  -6___0_
+    -7_1_-6_  -5__.1_-7_2_4_.3  1___0__ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 102 640]

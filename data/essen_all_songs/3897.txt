@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WIR HABEN IM FELDE GESTANDEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse, Waltdorf]
+KEY[E1316  08  F 4/4]
+MEL[-5_  1_123234  5__3_
+    5_  6_5_4654  3__2_
+    12  3_543_2_  1__
+    2__  3_543_5_  3__. //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

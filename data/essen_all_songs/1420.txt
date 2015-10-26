@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es warn einmal zwei Koenigskinder,]
+CNR[der Bruder, der hatte die Schwester so lieb.]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Neumark, Fuerstenfelde]
+SRC[3, S. 258
+    1861 aufgezeichnet]
+KEY[Q0068I 08  G 3/4]
+MEL[-5_  1__2_  3__5_  3_.13_  2_-5_
+    3_  1_-7_1_  -6_-7_1_  2_.1-7_  -6_0_
+    -7-6  -5_.-4#-5_  -3_.-4-5_  -6_.-5-4_  -3_0_ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ZU MANTUA IN BANDEN DER TREUE HOFER WAR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0093  16  G 4/4]
+MEL[-3__  -6__.-6_-6__-7__  1_-7_-6__0__
+    3__  3__2__1__-7__  -6___0__
+    -5__  2__.1#_2__3__  1___-5__
+    1_1#_  2__.1#_2__3__  1___0__
+    -6__  -6__.-6_-6__-7__  1_.-7-6__0__
+    3__  3__.3_3__2__  1_.-7-6__0__
+    -5__  2__.1#_2_6__5_  3___.
+    5__  5__.4_-6__-7__  1___0__ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[ZU MANTUA IN BANDEN DER TREUE HOFER WAR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0093  16  G 4/4]
+MEL[-3__  -6__.-6_-6__-7__  1_-7_-6__0__
+    3__  3__2__1__-7__  -6___0__
+    -5__  2__.1#_2__3__  1___-5__
+    1_1#_  2__.1#_2__3__  1___0__
+    -6__  -6__.-6_-6__-7__  1_.-7-6__0__
+    3__  3__.3_3__2__  1_.-7-6__0__
+    -5__  2__.1#_2_6__5_  3___.
+    5__  5__.4_-6__-7__  1___0__ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

@@ -1,0 +1,11 @@
+BOEHME
+CUT[IN DER GROSSEN SEESTADT LEIPZIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0693  08  F 3/4]
+MEL[  -533321  1-7-7_0_
+    -544432  2_3_0_
+    1+1+1+1+1+1  6_+1_76
+    55654-7  2_1_0_
+    1+1+1+1+1+1  6_+1_76
+    55654-7  2_1_0_ //] >>
+FCT[Scherz - Lied]

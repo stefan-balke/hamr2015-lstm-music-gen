@@ -1,0 +1,13 @@
+F[ERK3
+CUT[SCHOEN IST SO WEIT UND BREIT DIE WELT]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[E1612  16  G 3/4 3/8]
+MEL[-5_1_2_  3__.432_1_  -7_1_2_
+    -5_4_4_  4_6_5__4__  4__3_
+    -5_1_2_  3__.432_1_  -7_1_2_
+    5_5_+1_  6_4_2__.-7_  -7__1__0_
+    5_  +1_1_1_  234__
+    7_-7_-7_  135__
+    +1_1_1_  234_0
+    2  765_5_  1__0_ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

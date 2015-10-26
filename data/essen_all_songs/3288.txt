@@ -1,0 +1,10 @@
+F[ERK2
+CUT[GUTEN ABEND LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E0728A 08  G 4/4]
+MEL[1_.2  3_3_2_5_  1_0_
+    3_.4  5_5_6_5_  4__.
+    23  4_4_5_54  3__.
+    12  3_3_2_5_  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage; Gesang mit Pantomime]
+CMT[+++ 262, 264: Endtoene verlaengert, weil sonst Taktart falsch. +++]

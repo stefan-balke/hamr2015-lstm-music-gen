@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ELBERFELD DU SCHOENES STAEDTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Camberg, Dombach]
+KEY[E1600A 08  F 3/4]
+MEL[13  5_.654  433_
+    23  4_.654  3__
+    23  4_2_34  5+1+1_
+    76  5_6545  3__
+    23  4_2_34  5+1+1_
+    76  5_6545  3__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft]

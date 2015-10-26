@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES FUHR EIN BAUR INS HOLZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0149  04  C 4/4]
+MEL[1  11-6-6  -5-5-3
+    -3  -5-5-4-4  -3_0
+    -5  1122  3_1
+    4  311-7  1_-6-7  1_-6-7  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann
+    Ballade ?]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SEID LUSTIG IHR BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Rhein]
+KEY[E1361  16  C 3/8]
+MEL[1_  1_3_3_  2_4_0_
+    2_4_4_  32345_
+    3_2_3_  5__4_
+    2_4_.5  3__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

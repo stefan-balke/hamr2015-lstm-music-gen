@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Gretlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0053A 04  F 4/2 6/2]
+MEL[5_  5__5__4_3_  1__2_1__
+    1_  5__5__4_3_  2_.34_3__
+    2_  1_1_-7_-5_  -6__-7_1__
+    3_  2_2_1_-7_  -6__-5__0_
+    5_  5_5_4_3_  2__1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Forster III. 1549 No. 66.]

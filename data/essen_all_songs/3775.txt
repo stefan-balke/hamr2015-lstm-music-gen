@@ -1,0 +1,13 @@
+F[ERK3
+CUT[JETZT DANZT HANNEMANN]
+REG[Europa, Mitteleuropa, Deutschland, Mark]
+KEY[E1050  16  C 2/4]
+MEL[  1__3__  5_.55__
+    +3__+1__  5_.55__
+    1__3__  5_.55__
+    5__4_3_  4_2_1__
+    +1__7_6_  6_5_5_
+    3_  5_4_4_2_  4_3_3_0_
+    +1__7_6_  6_5_5_
+    3_  5_4_4_2_  1__0__ //] >>
+FCT[Tanz - Lied]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[MIEN VADER HEET HANS]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[E1757  08  G 2/4]
+MEL[-5  1234  655
+    5  4325  3_1
+    -5  1234  655
+    5  4325  3_1
+    1  2233  445
+    5  2231  5_-5
+    -5  1234  655
+    5  4325  3_1 //] >>
+FCT[Spott - Lied]

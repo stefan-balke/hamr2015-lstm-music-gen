@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Sankt Michel, der will bauen]
+CNR[auf einem hohen Hag]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+SRC[5, S. 144
+    1915 aufgezeichnet]
+KEY[Q1102I 08  G 6/8]
+MEL[5  533345  5_64_
+    4  5_55_4  3_.0_
+    5  533345  5_64_
+    4  5_55_4  3_.0_ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0102F, anderes Lied.]

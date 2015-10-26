@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Lustig ist das Zigeunerleben,]
+CNR[faria, faria,]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 218
+    1917 gedruckt in Berlin]
+KEY[Q1152N 08  C 3/4]
+MEL[  5__5_  5_6_5_  3__3_  3_2_3_
+    4_.44_  5__5_  3__.  ^_0__
+    5__5_  5_6_5_  3__3_  3_2_3_
+    4_.44_  5__5_  3__.  ^_0__
+    +1__+1_  +1_7_6_  6_.55_  5__.
+    6_.66_  6_5_4_  4_.33_  3__.
+    5_.55_  5_.65_  3_.33_  3_.23_
+    4_.44_  5__5_  3__.  ^_0__ //] >>
+FCT[Wandervogel - Lied]
+CMT[Melodievergleich zu Q0152O und P, anderes Lied.
+    Refrain auf sinnfreie Silben.]

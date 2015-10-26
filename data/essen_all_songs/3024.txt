@@ -1,0 +1,10 @@
+F[ERK1
+CUT[GESTERN ABEND IN DER STILLEN RUH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Kuestrin]
+KEY[E0522  16  G 2/4 3/4]
+MEL[  3_123_1_  3_5_4_3_  3__2__
+    2_-712_-7_  2_4_3_2_  2__1__
+    5_345_345__  2_3_4_323__
+    1_+1_7_6_  5_345__
+    4_2_3_1_  2_-7_1__ //] >>
+FCT[Liebes - Lied]

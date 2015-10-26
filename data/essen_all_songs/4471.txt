@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Ein neues Liedlein, die evangelische Lehre betreffend]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0387B 02  C 4/2 6/2 3/1]
+MEL[111  2_14_3  4_0
+    234  5_523_  2_0
+    3  4342  1_-7_0
+    1  2_23_1  4321  ^_0
+    5  5555  4_2_
+    3214_3  2_.1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Souterliedekens 1540 ad Ps.10.]

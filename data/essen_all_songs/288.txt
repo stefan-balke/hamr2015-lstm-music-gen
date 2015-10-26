@@ -1,0 +1,28 @@
+BOEHME
+CUT[GESUNDHEIT HERR NACHBAR MEIN GLAESCHEN IST LEER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0340  16  G 3/8]
+MEL[-5_  1_1_-5_  1_1_-5_  1_1_-5_  1__
+    2_  3_3_2_  3_3_2_  3_3_2_  3__
+    5_  5_+1_3_  5_4_4_  4_6_2_  4_3_
+    5_  5_+1_3_  5_4_4_  4_6_2_  4_3_
+    2_  3_3_3_  2_2_2_  4#_4#_4#_  5__
+    -5_  1_1231  -6_-6_-6_  4_2_-7_  1__
+    35  544346  5_5_
+    35  4_4346  5_5_
+    35  543_2_  1__ //] >>
+FCT[Trink - Lied]
+BOEHME
+CUT[GESUNDHEIT HERR NACHBAR MEIN GLAESCHEN IST LEER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0340  16  G 3/8]
+MEL[-5_  1_1_-5_  1_1_-5_  1_1_-5_  1__
+    2_  3_3_2_  3_3_2_  3_3_2_  3__
+    5_  5_+1_3_  5_4_4_  4_6_2_  4_3_
+    5_  5_+1_3_  5_4_4_  4_6_2_  4_3_
+    2_  3_3_3_  2_2_2_  4#_4#_4#_  5__
+    -5_  1_1231  -6_-6_-6_  4_2_-7_  1__
+    35  544346  5_5_
+    35  4_4346  5_5_
+    35  543_2_  1__ //] >>
+FCT[Trink - Lied]

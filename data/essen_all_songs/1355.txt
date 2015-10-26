@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Scheintod
+    Sur le pont d'Avignon]
+REG[Mitteleuropa, Frankreich]
+SRC[3, S. 124
+    1505 gedruckt in Venedig]
+KEY[Q3058H 08  D 6/4]
+MEL[1__  3b_.45_6b_5_4_  5__0__
+    5__  +1__.7b_6_5_  7b__5__
+    7b__  5_.6b5_3b_4_4_  3b__0__
+    5__  4__.3b_2_1_  2__1__
+    3b__  2_5_3b_212__  1___ //] >>
+FCT[Hochzeits - Lied]
+CMT[Melodievergleich mit Q0058G, anderes Lied.]

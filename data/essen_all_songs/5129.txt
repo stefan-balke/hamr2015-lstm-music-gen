@@ -1,0 +1,11 @@
+BOEHME
+CUT[WENN ICH DEN WANDRER FRAGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0665  08  D 4/4]
+MEL[3_  3_.21_3_  6_5_0_
+    5_  5__7_.+1  +2__.
+    5_  5__3_+1_  +1__6_
+    6_  5_.56_5_  3__.
+    5_  5__3_+1_  +3__+1_
+    6_  5_.5765-7  1__0_ //] >>
+FCT[Wander -, Moral - Lied, Vergaenglichkeit]

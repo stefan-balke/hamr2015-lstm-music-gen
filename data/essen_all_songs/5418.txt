@@ -1,0 +1,9 @@
+KINDER
+CUT[BUM BAM BEIER DE KOESTER MAG KIEN EIER]
+REG[Europa, Mitteleuropa, Deutschland, Oldenburg]
+KEY[K0313  16  F 2/4]
+MEL[  5__6__  5__3_
+    3_  5_5_6_6_  5__3_
+    3_  5_5_3__  5_553__  5_553__
+    5_5_6_6_  5_5_3__ //] >>
+FCT[Kinder -, Schaukel -, Knierreiter -, Spiel - Lied]

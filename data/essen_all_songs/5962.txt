@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Es waren zwei Koenigskinder,]
+CNR[die hatten einander so lieb,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+SRC[1, S. 202
+    18?? aufgezeichnet (Ende des Jh.)]
+KEY[Q0020D 08  G 4/4]
+MEL[-5_  3_332_3_  2__1_
+    -5_  4_443_53  2__0_
+    2_  5_556_56  5__4_
+    3_  2_421_2_  3__
+    -5__  -6_-621_-7_  1__0_ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]

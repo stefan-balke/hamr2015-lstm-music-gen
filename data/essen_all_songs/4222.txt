@@ -1,0 +1,13 @@
+F[ERK3
+CUT[KOMT HIER AL BIJ EN HOORT]
+REG[Europa, Mitteleuropa, Niederlande, flaemisch]
+KEY[E1756  08  G 6/8]
+MEL[-5  1_11_2  3_21_
+    5  565432  1_.0_
+    -5  1_11_2  3_21_
+    5  565432  1_.0_
+    1  6_44_6  5_33_
+    5  4_2234  5_33_
+    5  5_-5-5_5  5_-5-5_
+    5  565432  1_.0_ //] >>
+FCT[Scherz - Lied]

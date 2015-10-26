@@ -1,0 +1,20 @@
+BOEHME
+CUT[WENN DER FRUEHLING KOMMT UND VON DEN BERGEN SCHAUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0211  16  C 3/4]
+MEL[-5_1_  -7_.-6-5_-6_-5_-4_  -3_-4_-5__
+    -5_1_  -7_.-6-5_-6_-5_-4_  -3_-4_-5__
+    -5_-5_  -6_.-4-4_-4_-6_-6_  -7_.-5#-5#_-5#_
+    -7_-7_  1_.-6-6_-7_1_2_  3___
+    3_.3  3_.22_-6_-7_-5_  1__0__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[WENN DER FRUEHLING KOMMT UND VON DEN BERGEN SCHAUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0211  16  C 3/4]
+MEL[-5_1_  -7_.-6-5_-6_-5_-4_  -3_-4_-5__
+    -5_1_  -7_.-6-5_-6_-5_-4_  -3_-4_-5__
+    -5_-5_  -6_.-4-4_-4_-6_-6_  -7_.-5#-5#_-5#_
+    -7_-7_  1_.-6-6_-7_1_2_  3___
+    3_.3  3_.22_-6_-7_-5_  1__0__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

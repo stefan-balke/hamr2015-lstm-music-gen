@@ -1,0 +1,15 @@
+KINDER
+CUT[WIR WOLLN DIE MERSEBURGER BRUECKE BAUN]
+REG[Europa, Mitteleuropa, Deutschland, Dresden; Leipzig]
+KEY[K2303  08  G 4/4]
+MEL[-5_  1_1_1133  1_1_-5_
+    -5_  1_1_1133  1_1_-5_
+    -5_  1__-5_-5_  1__-5_
+    -5_  1_1_1_3_  1__-5_
+    -5_  1_1_1_3_  1__-5_
+    -5_  1_1_1_3_  1__-5_
+    0_  1_1_3_3_  1__-5_
+    -5_  1_1_-5_-5_  1_1_-5_
+    -5_  -6_-6_-7_-7_  1__0_
+    -5_  3_3_2_2_  1__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

@@ -1,0 +1,15 @@
+F[ERK3
+CUT[ZU FRANKFURT VOR DEM THOR]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Langsdorf]
+KEY[E1364  08  F 4/4]
+MEL[  5__+1_3_  5_5_2__
+    4__6_6_  5_.43_.
+    5  5_5_+1_+1_  6__6_
+    4_  6_6_+1_6_  5__3__
+    5__+1_3_  5_5_2__
+    4__6_6_  5_.43_.
+    5  5_5_+1_+1_  6__6_
+    4_  6_6_+1_6_  5__3__
+    5__+1_3_  5_5_2__
+    4__6_6_  5_.43__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

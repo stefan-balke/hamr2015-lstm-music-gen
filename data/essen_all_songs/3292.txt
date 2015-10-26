@@ -1,0 +1,8 @@
+F[ERK2
+CUT[SCHEIDEN IST EIN HARTE PEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Lahnkreis; Limburg]
+KEY[E0730  16  F 4/4]
+MEL[1_.-5  -5__3__3__5_3_  3__2__0__
+    5_+1_  6__.5_4_.34_.6  5___0__
+    3_2_  3__5__4_.34_.5  3___0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

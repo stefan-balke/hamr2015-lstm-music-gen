@@ -1,0 +1,24 @@
+BOEHME
+CUT[GROSSE THATEN EDLER SEELEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0133  16  C 2/4]
+MEL[-5_.-5  1_1_-5_-5_  -3_-1_0_
+    -71  2_3_2_3_  2_.32_
+    11  -7_.12_-4#_  -5__0_
+    -5-5  4_.23_.1  2-7-5_0_
+    -5-5  4_.23_.1  2-7-5_0_
+    -5-4  -3_-5_1_3_  5_.31_
+    11  2_431_-7_  1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[GROSSE THATEN EDLER SEELEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0133  16  C 2/4]
+MEL[-5_.-5  1_1_-5_-5_  -3_-1_0_
+    -71  2_3_2_3_  2_.32_
+    11  -7_.12_-4#_  -5__0_
+    -5-5  4_.23_.1  2-7-5_0_
+    -5-5  4_.23_.1  2-7-5_0_
+    -5-4  -3_-5_1_3_  5_.31_
+    11  2_431_-7_  1__ //] >>
+FCT[Ballade, Romanze]

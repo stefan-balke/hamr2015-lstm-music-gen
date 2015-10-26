@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES HAT EINN SCHNEE GESCHNEIET]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0424A 08  G 3/4]
+MEL[-5_  113_1_  5_5_
+    56  54312_  1__
+    1_  556_5_  442_0
+    -7  224_2_  331_
+    56  54312_  1__ //] >>
+FCT[Liebes - Lied]

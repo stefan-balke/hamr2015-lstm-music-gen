@@ -1,0 +1,9 @@
+F[ERK2
+CUT[GRUESS DE GOTT]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[E0729A 08  G 4/4]
+MEL[  1_3_543_  432_3_0_
+    3_2_2_2_  3_543_0_
+    1_3_543_  432_3_0_
+    1_3_543_  432_1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

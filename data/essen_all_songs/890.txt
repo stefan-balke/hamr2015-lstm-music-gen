@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Vergaenglichkeit der Liebe"
+    SO HAT GOTT DIE WELT GESCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1155  08  E 4/4]
+MEL[3b_6b4  3b__1_1_  2b_4_4_3b_  3b__
+    3b_6b4  3b__1_1_  2b_4_4_3b_  3b__
+    3b453b  6b__7b__  6b54_3b_
+    6b4  3b_3b2b1__  3b__3b2b-7b2b  1__
+    3b453b  6b__7b__  6b54_3b_
+    6b4  3b_3b2b1__  3b__3b2b-7b2b  1__ //] >>
+FCT[Liebes - Lied, Tod]

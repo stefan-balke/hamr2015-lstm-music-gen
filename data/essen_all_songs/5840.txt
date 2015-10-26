@@ -1,0 +1,19 @@
+ALTDEU
+CUT[Das Kchuehorn]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0297  04  F 4/4 6/4]
+MEL[135_  +1553  5_
+    13  5_+15  5310
+    +1531  345_
+    +1553  131_
+    1_13_3  5_55_
+    5  +1_+15_5  5_53_3  5_.0_.
+    1_13_3  5_55_
+    5  +1_+15_5  5_53_3  5_.0_
+    +1  +1_55_3  5_53_1
+    3_34_4  5_.0_
+    +1  +1_55_3  5_53_3
+    1_13_3  1_.0_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Spoerels Liederhandschr. 14. Jh. Cod. 2856 der Hofbibl. zu Wien
+    fol 187]

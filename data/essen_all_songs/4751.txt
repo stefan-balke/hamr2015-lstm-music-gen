@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Der geistliche Buchsbaum]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0654D 04  A 4/4]
+MEL[111  2343  2_03  4431  232_  0
+    211  1-6-7_  1_02  3443  1_2_  0
+    134  432_  1__  0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Koenigs harmon. Liederschatz 1738 S. 277]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' ein Halter frueh austreiben,]
+CNR[er hoert' ein kleines Kindlein schreien:]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 271
+    1940 gedruckt in Budapest]
+KEY[Q0114Z 08  G 3/2]
+MEL[-5_-5_-7_  1__.-5_-3_-5_  -6__-5_
+    1_3_3_  2__.1_-7_-6_  -6__-5_
+    -5_-5_1_  3__.234_35  2__.
+    1_-7_-6-6  -5__.-5_-6_-7_  1__. //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

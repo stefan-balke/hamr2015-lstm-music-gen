@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH GIENG EINMAL SPAZIERE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau; Dillenburg]
+KEY[E0533A 08  G 2/4]
+MEL[-5  111-5  1_1-5  1_0
+    5  5555  6_6
+    5  4446  5_0
+    3  3333  4_45  3_0 //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Espen - Zweiglein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0178B 08  F 4/4]
+MEL[1_1_1_  4_1_2_3_  4__0_
+    4_  3_4_5_6_  5__4__  0_
+    4_3_4_  5_6_5_43  2_2_1__  0_
+    5_4_3_  2_1_2__  1___  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Werlin Hs. 1646 S. 1446.]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    ohne Text]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 270
+    ????]
+KEY[Q0114W 16  G 2/4]
+MEL[5_  5_5_5_5_  7_6_5__  7_6_5_
+    4_  3_6_5_2_  4_5_3_
+    22  4_5_3_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

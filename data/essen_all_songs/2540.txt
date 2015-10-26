@@ -1,0 +1,9 @@
+F[ERK1
+CUT[SCHOEN ULRICH WOLLT SPAZIEREN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Trebbin]
+KEY[E0042B 16  G 3/4]
+MEL[-5_  1_.11_3_5_1_  3_21-7__0_
+    2_  4_.44_6_+1_4_  6_543__0_
+    1_  2_.22_3_4_-7_  2_.11__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

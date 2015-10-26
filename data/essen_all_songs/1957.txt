@@ -1,0 +1,11 @@
+FINK
+CUT[DIE MAENNER SIND VERAENDERLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0170  08  A 2/4]
+MEL[5  5645  342
+    3  1122  -5_0
+    -5  -6-712  345
+    5  4#624#  5_0
+    -5  -7-70-7  2202  440
+    5  3_2_  1_0_  6_5-7  1_0 //] >>
+FCT[Liebes - Lied, Spott, Moral]

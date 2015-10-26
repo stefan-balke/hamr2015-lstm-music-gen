@@ -1,0 +1,13 @@
+FINK
+CUT[ACH WIE ISTS MOEGLICH DANN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[F0090  08 Bb 2/4]
+MEL[  3_1-6  -511_
+    2_12  3-6-5_
+    -5_-4#-5  -643_
+    2_32  -5_0_
+    2_32  1-6-5_
+    3_43  -632_
+    -5_-6-5  -543_
+    2_-6-7  1_0_ //] >>
+FCT[Liebes - Lied]

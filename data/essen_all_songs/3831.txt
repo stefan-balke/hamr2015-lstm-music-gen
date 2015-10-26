@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WELEKOMEN KEREMISVOLK]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[E1157  08  G 6/8]
+MEL[  1_15_5  4321_
+    1  2_.5_5  4_32_.
+    2_4332  1-7-6-5_
+    2  2_43_2  1_-71_0 //] >>
+FCT[Trink -, Zech - Lied, Kirmes]

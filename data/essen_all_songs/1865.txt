@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es sassen der Bursche viere, viere]
+CNR[bei einem Glase Biere, Biere,]
+REG[Osteuropa, UdSSR, Baltikum]
+SRC[6, S. 270
+    1937 gedruckt]
+KEY[Q0139  16  F 4/4]
+MEL[-5__  1__-7_-6_-5__4__  4__3__6__5_
+    -5_  1__-7_-6_-5__4__  4__3__6__5_
+    5_  3_.55_5_5__5_5_  6_5_4_3_2__.
+    5_  -5_-5_-5_-5_5__5_5_  5_4_3_2_1__ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf; Studenten - Lied]
+CMT[Schlusspause weggelassen.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Weihelied "
+    ALLES SCHWEIGE JEDER NEIGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1141  08  F 3/2]
+MEL[53421__-5__  1_2_3__1__
+    3_4_5__6__  5_4_4__3__
+    5_.31__+1__  6_.54_.32_.3
+    4_2_5_.43_2_  1_2_3_4_5_6_  5___7__  +1__0___ //] >>
+FCT[Vaterland und Wehr]

@@ -1,0 +1,36 @@
+BOEHME
+CUT[AUS DEM HIMMEL DROBEN FAELLT EIN GOLDNER SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0488  16  D 2/4]
+MEL[  1_2_3_1_  6__6__
+    5_3_4_3_  2__0__
+    5_5_7_7_  4__0__
+    4_.46_6_  5__0__
+    5_3_+1_+1_  5__.5_
+    3_3_2_1_  6__0__
+    +2_.+17_6_  5_5_4_-7_  1__0__
+    1_2_3_1_  6___
+    5_3_4_3_  2___  0_
+    5_5_5_  +2___
+    4_4_3_4_  5__0__  0_
+    5_3_+1_  3_3_2_1_  6___  0_
+    +2_+1_6_  5__5_5_  4__-7__  1___ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[AUS DEM HIMMEL DROBEN FAELLT EIN GOLDNER SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0488  16  D 2/4]
+MEL[  1_2_3_1_  6__6__
+    5_3_4_3_  2__0__
+    5_5_7_7_  4__0__
+    4_.46_6_  5__0__
+    5_3_+1_+1_  5__.5_
+    3_3_2_1_  6__0__
+    +2_.+17_6_  5_5_4_-7_  1__0__
+    1_2_3_1_  6___
+    5_3_4_3_  2___  0_
+    5_5_5_  +2___
+    4_4_3_4_  5__0__  0_
+    5_3_+1_  3_3_2_1_  6___  0_
+    +2_+1_6_  5__5_5_  4__-7__  1___ //] >>
+FCT[Liebes - Lied, Leid, Klage]

@@ -1,0 +1,13 @@
+DVA
+CUT[Bei da Lind'n bin i g'sessn,]
+CNR[bei da Lind'n sitz i gern]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[D0076  16  F 3/4]
+MEL[-5_3_  3__2__-5_4_  4__3__
+    -5_3_  3__2__-5_4_  4__3__
+    3__  4_6_6__5_4_  4_.3+1_5_
+    3_5_  5__4__4__  3__0__
+    3__  4_6_6__5_4_  4_.3+1_5_
+    3_5_  7__4__4__  3__0__ //] >>
+FCT[Liebes - Lied]
+CMT[Inzipit = Transposition zum Lied]

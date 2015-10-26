@@ -1,0 +1,9 @@
+FINK
+CUT[WENN ZU MEIM SCHAETZERL KOMMST]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[F0178  16  A 3/8]
+MEL[  -5_1_1_  -7_.-6-5_  4_2_-7_  2_1_0_
+    -5_1_1_  -7_.-6-5_  4_2_-7_  1__0_
+    2_.32_  2_.32_  2_.32_  2_.32_
+    1_-7_-6_  -5_5__  4_2_-7_  1__0_ //] >>
+FCT[Liebes - Lied, Scherz]

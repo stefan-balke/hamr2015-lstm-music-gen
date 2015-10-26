@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Koenig und Marquise
+    Es giengen drey Frawen,]
+CNR[sie wolten das grab beschawen.]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 30
+    1586 gedruckt in Muenchen]
+KEY[Q1035A 16  E 6/8]
+MEL[5_  5__4_3b__1_  5_7b__5__
+    6b_  5_5_4_3b__1_  5_7b__5__
+    5_  +1__+1_7b__5_  7b__6b_5__
+    6b_  5_5_4_3b_3b_1_  5_7b__5__
+    5_  +1__+1_7b__5_  7b__6b_5__
+    6b_  5__4_5_.43b_  2__3b_1__2_
+    -7b__1_1_1__  1__.^__ //] >>
+FCT[geistlich]
+CMT[Geistliche Melodie, Ursprung der Balladenmelodie ?
+    Schlusstakt rhythmisch korrigiert.]

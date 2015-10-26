@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[O SAG MIR AN, FRAU MUTTER LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0048  16  D 6/8]
+MEL[12  3b__2_1__56  7b__6_5__
+    5_  4__5_4_3b_2_  3b__4_5__
+    5_  6b__7b_+1__5_  6b_5_4#_5__
+    2_  3b__4_5_4_3b_  4_3b_2_1__ //] >>
+FCT[Sagen - Lied, Romanze]

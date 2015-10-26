@@ -1,0 +1,8 @@
+F[ERK3
+CUT[WIR KOMMEN DAHER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen, Wiesenbreidenbach]
+KEY[E1198  08 Bb 4/4]
+MEL[-5_  1_-5_1_3_  2_2_1_
+    3_  3_2_2_1_  -7_-6_-5_
+    -5_  1_-5_133_  -5_-6-71_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige]

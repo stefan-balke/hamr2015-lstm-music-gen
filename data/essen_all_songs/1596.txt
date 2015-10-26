@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es waren drei Schelme und Spitzbub'n,]
+CNR[klein's Waldvoeglein!]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
+SRC[4, S. 104
+    1860 aufgezeichnet]
+KEY[Q1075I 08  F 4/4 3/2]
+MEL[1_  -6_-712_1-7  1_2_3__0_
+    12  3_21-7_-6_0_
+    1_  22235432  3_1_1_
+    1_  2_3_1_ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0075H, anderes Lied.
+    Zweite und vierte Zeile = Refrain.]

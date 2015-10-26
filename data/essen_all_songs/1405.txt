@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Koenig von Mailand
+    Ich sach ein pild in plaber wat]
+CNR[freuntlich genayget frewe und spat]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 234
+    1450 Handschrift]
+KEY[Q1067A 08  F 6/4]
+MEL[-5_  1_1_2_1__^3  3_32_.1__.
+    -6_-6_-7b_-6__1_  ^_2__2_1-7-6_  -5__.0__^
+    -5  1_1_3_5__.  5_432_1_532_  1__.0__ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0067, anderes Lied. Pause am Ende der 2. Zeile
+    eingefuegt.]

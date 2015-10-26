@@ -1,0 +1,15 @@
+ZUCCAL
+CUT[ES KANN UNS NICHTS SCHOENRES ERFREUEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0108  16  A 6/8]
+MEL[-5_  1_-5_1_3_1_3_  5_.6543__0_
+    3__.4_3_4_  5__(654)3__
+    34  5_6_5_4_3_4_  3__0__.
+    5_  3_4_5_3_4_5_  3__.2__.
+    3__.4_3_4_  5__4_3__
+    34  5_6_5_4_3_4_  3__0__.
+    5_  3_4_5_3_4_5_  3__.2__.
+    3__.4_3_4_  5__4_3__
+    34  5_6_5_4_3_4_  3__0__. //] >>
+FCT[Sagen - Lied, Romanze, Tod]
+CMT["Alte Romanze"]

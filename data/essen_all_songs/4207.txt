@@ -1,0 +1,8 @@
+F[ERK3
+CUT[DER KUCKUK AUF DEM ZAUNE]
+REG[Europa, Mitteleuropa, Deutschland, Neustadt a.d. Dosse]
+KEY[E1740  16  G 2/4 3/4]
+MEL[-5_  1_1_2_2_  3__5__
+    2_.32_1_-7_1_  2_.-7-5_
+    -5_  1_1_2_2_  3__5__  1__0_ //] >>
+FCT[Scherz -, Spiel - Lied]

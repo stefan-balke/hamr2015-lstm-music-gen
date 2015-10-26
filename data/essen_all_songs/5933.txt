@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Heimkehr des Ehemannes
+    Der Pattlar shitzet af'n Ovnpankhlein,]
+CNR[ho, ho, ho!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Verdreng]
+SRC[1, S. 100
+    1906 aufgezeichnet]
+KEY[Q0011C 08  D 2/2]
+MEL[-5_  1_1_1122  11-6_-5__
+    1__2__  3__.
+    1_  3_3_3355  552_1__
+    3__2__  11-7-71_ //] >>
+FCT[Ballade, Ehe, Heimkehr]
+CMT[Grundton in der zweigestrichenen Oktave, 2. und 4. Zeile = Refrain
+    auf sinnfreie Silben.]

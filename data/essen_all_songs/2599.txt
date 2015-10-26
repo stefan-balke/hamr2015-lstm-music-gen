@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES LIEGT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0061E 04  G 6/4]
+MEL[-5  1_3321  2_4432  3_5543  320_.
+    5  5_33_5  5432_4  35124-7  210_. //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

@@ -1,0 +1,8 @@
+FINK
+CUT[IM FRUEHLINGSSCHATTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0912  16  E 6/8]
+MEL[5_  5_3_+1_5_3_1_  2_3_4_3__
+    3_  2_3_4#_5_6_7_  +1_6_+2_+177_
+    5_  +1__7_6_4_2_  5__.^__-7b_  1__.0__ //] >>
+FCT[Liebes - Lied]

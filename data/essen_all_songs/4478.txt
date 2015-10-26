@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Junker Balzer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0393  04  D 6/2 4/2]
+MEL[1_1_1_  5__6_7b_6__  5__0_
+    4_5_6_  7b_5__4_3b__  2__0_
+    6_  7b_6_5_4_  2_.123b4__3b2  1__-7b__  0_
+    5_5_5_  3b__1_4__3b_  4__
+    6__  7b__5_+1__7b6  5__.43b2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Souterliedekens 1540 ad Ps. 46]

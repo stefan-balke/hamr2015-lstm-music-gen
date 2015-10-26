@@ -1,0 +1,9 @@
+FINK
+CUT[WILL NUN SCHLAFEN GEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0361  16  E 6/8]
+MEL[  3__3_2_.32_  1__.3__.
+    2__2_5__4_  3__0___
+    4__4_6_.54_  5__.3__
+    3_  2_.34_-7__2_  1__0___ //] >>
+FCT[Jugend - Lied, Tageszeiten, Abend, religioes]

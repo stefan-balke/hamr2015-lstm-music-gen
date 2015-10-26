@@ -1,0 +1,11 @@
+F[ERK3
+CUT[COELN AM RHEIN DU SCHOENES STAEDTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E1600  16  D 3/4]
+MEL[1_3_  5__6__5_.4  4_3_3__
+    2_.3  4_6_6__5_.4  3__0__
+    5_4_  3_.22__1_3_  5_+1_+1_
+    +1_7_6_  5_4_6_5_4_5_  3__0__
+    5_4_  3_.22__1_3_  5_+1_+1_
+    +1_7_6_  5_4_6_5_4_5_  3__0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft]

@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Det var tva sata vaenner,]
+CNR[som hoell' hvarandra kaer;]
+REG[Nordeuropa, Schweden]
+SRC[8, S. 285
+    1818 gedruckt in Stockholm]
+KEY[Q21550 16  G 2/4]
+MEL[1__  1_5_543b2  1__-7_.
+    1  3b_3b_4_4_  5__
+    1__  1_5_543b2  1__-7_.
+    1  3b_3b_4_4_  5__0_
+    5_  5_.7b7b_.5  5_.3b3b_.
+    5  5_4_4_.3b  2__0_
+    2_  3b_.3b4_4_  5_.51_.
+    2  3b_3b_2_2_  1__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Schwedische Fassung der Ballade.
+    Schlusspause und Pause in der zweiten Zeile rhythmisch korrigiert.]

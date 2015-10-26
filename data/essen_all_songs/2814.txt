@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES FUHR EIN BAUER UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[E0186B 08  A 4/4]
+MEL[-5_  1_2_3234  56543_
+    5_  65432_2_  34531_
+    -5_  1_2_3_34  5_543_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte, Mord]

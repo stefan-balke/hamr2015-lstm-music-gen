@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Bergen,]
+CNR[schaut hinab ins tiefe Tal,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kassel, Vollmarshausen]
+SRC[8, S. 70
+    1928 aufgezeichnet]
+KEY[Q0155T 08  C 3/4]
+MEL[32  1_.232  155_
+    32  1_.233  2__
+    13  5_3165  542_
+    5+1  5_3_22  1__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe]

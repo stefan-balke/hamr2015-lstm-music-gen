@@ -1,0 +1,9 @@
+FINK
+CUT[SCHOENE SILBERBLUETHE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0976  08  G 6/8]
+MEL[  321123  5_42_0
+    321123  2_.^_0
+    321123  4_.6_.
+    543342  1_.^_0 //] >>
+FCT[Natur - Lied, Blumen]

@@ -1,0 +1,11 @@
+BOEHME
+CUT[IM GRABE IST RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0770  08  G 2/4]
+MEL[-5  3_22  1_0
+    -5  1_11  3_35  5_4_  3_0
+    1  6_66  543
+    5  5432  3_0
+    1  6_66  543
+    5  5432  1_0 //] >>
+FCT[Trost - Lied, religioes]

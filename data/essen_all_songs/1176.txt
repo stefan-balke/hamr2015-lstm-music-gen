@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Bluthochzeit
+    Fruehmorgens der Pfalzgraf zum Waidwerk reit',]
+CNR[viel Diener und Knappen in seinem Geleit.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Siebengebirge]
+SRC[2, S. 159
+    1838 aufgezeichnet (vor)]
+KEY[Q0046A 16  G 4/4]
+MEL[-5__  1__1_.23b_2_1_2_  3b__4__5__0_
+    5_  5_4_4_4_4_3b_2_1_  4_3b_2_1_2__.
+    5_  7b_6b_5_4#_5__.5_  5__4_3b_2__.
+    5_  5_4_4_3b_2__2_5_  3b__2_2_1__ //] >>
+FCT[Ballade, Entfuehrung, Mord, Vergeltung]

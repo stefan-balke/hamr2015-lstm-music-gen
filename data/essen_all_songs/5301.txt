@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge,]
+CNR[schaute in das tiefe Tal,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Giessen, Crumbach]
+SRC[8, S. 67
+    1921 aufgezeichnet]
+KEY[Q0155R 16  G 6/8]
+MEL[-5_  3__2_1__-6_  -5__3_3__
+    33  2__2_4_3_2_  3___0_
+    3_  5__3_6__5_  4__3_2__
+    1_  -7__2_5__4_  3___0_
+    3_  4__6_5__4_  3__2_1__
+    1_  -7__2_5__4_  3__.^__ //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe, Glueck]

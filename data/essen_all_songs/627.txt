@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES LEBEN DIE SOLDATEN, SO RECHT VON GOTTES GNADEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0211  16  D 2/4]
+MEL[13  5_5+13_1_  6_5_0_
+    13  5_5_6543  3_2_0_
+    13  5_3_4345  3__0_
+    +16  5_.35432  1
+    5555342  155553
+    +16  5_.35432  1__0_ //] >>
+FCT[Soldaten - Lied (1813 - 1815)]

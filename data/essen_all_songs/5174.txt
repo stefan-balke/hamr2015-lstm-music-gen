@@ -1,0 +1,13 @@
+BOEHME
+CUT[MEIN KANAPEE IST MEIN VERGNUEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[B0710A 08  F 3/4]
+MEL[-5  -5321-71  -642_0
+    1  -7-6-5-565  531_0
+    -5  -5321-71  -642_0
+    1  -7-6-5-565  531_0
+    3  21-742-5  543_0
+    1  23465-7  1_0
+    321  -765432  1_0
+    123  465_-7_  1__0 //] >>
+FCT[Scherz - Lied]

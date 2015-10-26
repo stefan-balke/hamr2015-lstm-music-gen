@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Alter Weihnachtsgesang aus Thueringen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0514  04  F 4/2 6/2]
+MEL[1_  1__2_3__4_  5_1_.23_2_2_  1__0_
+    1_5_5_  5_.43_5_  4__3__  0_
+    3_2_3_  5_432_3_  4_2_1__  0_
+    2_3_1_  -7__0_
+    -5_  1__2_3__4_  5_3__21  2__1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Mainzer Cantual 1605 S. 8]

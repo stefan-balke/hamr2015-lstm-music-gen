@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ICK SAG (SAH) MINEN HERRN VON FALKENSTEEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0086  16  F 4/4]
+MEL[1__  1__2_2_3__4__  5__5__1__
+    2__  3__6__5__1__  1__.-7b-6-7b__1__  -6____  -5___.
+    5__  5__5_5_6__5__  5_5_4__3__
+    6__  5__2__3__1__  -7b__1__2__3__  3__2_1_2___  1___. //] >>
+FCT[Sagen - Lied, Romanze]

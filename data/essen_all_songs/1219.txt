@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die erzwungene Ehe
+    Filii hominum, scitote,]
+CNR[quia Dominus sanctum suum mirificavit.]
+REG[Mitteleuropa]
+SRC[2, S. 250
+    0500 Handschrift (vor d. 6. Jh.)]
+KEY[Q3050A 08  D FREI]
+MEL[3b13b3b  3b3b2  1-7b3b  3b545  56b5_
+    3b4  543b43b  3b2-7b_  2423b2  1_1_ //] >>
+FCT[geistlich, gregorianisches Antiphon]
+CMT[Melodievergleich zu Q0050, anderes Lied.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Liebste"
+    AM BERG LIEGT A DORF]
+REG[Europa, Mitteleuropa, Steiermark]
+KEY[Z1211  08 Eb 3/4]
+MEL[1_  21-712-7  1_
+    351_  654#564#  5_
+    7+25_  5+4+2_.5  5+3+1_.
+    3  6_434-7  1_0_ //] >>
+FCT[Liebes - Lied]

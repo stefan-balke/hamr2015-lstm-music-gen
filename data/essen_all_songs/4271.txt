@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DER WIND DER WEHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1829  04  F 6/4]
+MEL[1  5_55_1  5_55_
+    5  4_56_6  5_.3_
+    3  3_33_3  5_52_
+    2  2_43_2  1_.1_ //] >>
+FCT[Kinder - Lied, Ammen - Reim; Wiegen - Lied ?]

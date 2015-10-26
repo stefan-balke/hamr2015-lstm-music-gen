@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Sanct Wolfgangs - Ruf]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0615B 04  C 4/2]
+MEL[1_  1_2_1_1-5  1_3_2_.
+    3  4_54321_  2__0_
+    1_  2_3_456_  5_432_
+    4_  321_21-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 II No. 31]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[HERR OLOFF REITET SPAET UND WEIT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0009  08  F 2/4]
+MEL[  5__  4_5_  6b_4_  2_5_  1__
+    5__  4_5_  6b_44  2_5_  1__
+    3b__  3b_3b3b  4_44  4_4_  5__
+    3b__  3b_4_  5_3b3b  2_3b_  1__
+    5__  4_55  6b_44  2_5_  3b__
+    5__  4_55  6b_44  2_5_  1__ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

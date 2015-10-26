@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WAT ZULLEN ONS PATRIOTJENS EETEN]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[E1324  16  F 2/4]
+MEL[-5-5-5  1_111_2_  3_2_1_
+    5_  4_3_2_1_  -5__0
+    334  5_5_5_55  6_4_2_
+    23  4_444_6_  5_3_1_
+    -5-5  1_111_11  1_1_1_
+    1_  1_111_+1+1  5_4_3_11  3_2_1 //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied, Spott]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[UND ALS DIE SCHNEIDER JAHRESTAG HATTEN]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E1635  08  G 2/4]
+MEL[-5  1111  11-5
+    -5  1131  5_0
+    3  4444  6_40
+    3333  5_3
+    3  2123  1_0 //] >>
+FCT[Staende -, Handwerker - Lied, Schneider]

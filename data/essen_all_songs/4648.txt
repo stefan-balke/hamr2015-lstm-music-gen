@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Die drei heiligen Frauen an Jesu Grabe]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0558  02  D 3/1]
+MEL[5_  5_5_4_  3b__1_  5_7b__  5__
+    6b_  5_5_4_  3b__1_  5_7b__  5__
+    5_  +1_+1_+1_  7b__5_  7b__6b_  5__
+    6b_  5__4_  5_.43b_  2__3b_  1__
+    2_  -7b__1_  1_1__  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchner Gsgb 1586 fol. 21.]

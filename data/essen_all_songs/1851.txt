@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Da droben vor meines Vaters Haus,]
+CNR[da steht 'ne gruene Linde,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+SRC[6, S. 234
+    ????]
+KEY[Q0137F 08  C 4/4]
+MEL[5_  5_555_5_  +1_+1_5_
+    5_  6_+1_7_+2_  +2__+1_
+    5_  +3_+3_+3_+3_  +5_+5_+4_
+    +2_  +5_+5_+5_+4_  +4__+3_ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]

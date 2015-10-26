@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Wo bist du gestern Ab'nd gewes'n,]
+CNR[Heinrich, mein lieber Sohn?']
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[4, S. 206
+    1853 aufgezeichnet]
+KEY[Q0079E 16  D 2/4]
+MEL[-5_  1_1_3_3_  5_5_5_
+    5_  6_6_+1_6_  5__0_
+    3_  4_.54_2_  3_.53_
+    1_  2_.32_1_  5__3_
+    1_  5_4_3_53  2__0_ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite, vierte und fuenfte Zeile = Refrain.]

@@ -1,0 +1,11 @@
+F[ERK2
+CUT[STETS IN TRAUERN MUSS ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0722A 08  G 3/4]
+MEL[-5-7  1_-5_-6-7  1_-5_
+    13  2_.1-72  -5_0_
+    -5-5  43211-6  -61-50
+    -5-5  135_42  2_1_
+    -5-5  43211-6  -61-50
+    -5-5  135_42  2_1_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Abschied]

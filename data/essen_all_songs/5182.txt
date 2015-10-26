@@ -1,0 +1,11 @@
+BOEHME
+CUT[DAS SCHIFF STREICHT DURCH DIE WELLEN]
+REG[Europa, Mitteleuropa, Deutschland; Italien]
+KEY[B0718  16  G 2/4]
+MEL[-5_  1_1_2_2_  3_.52_23  1__0_
+    -5_  1_1_2_2_  3_.52_23  1__0_
+    -5_  4_4_4_65  5_3343
+    21  2222321-7  1_123544  1__0_
+    -5_  4_4_4_65  5_3343
+    21  2222321-7  1_123544  1__0_ //] >>
+FCT[Heimat - Lied, Sehnsucht]

@@ -1,0 +1,7 @@
+F[ERK3
+CUT[IM HEMMEL IM HEMMEL YS FROEUDE]
+REG[Europa, Mitteleuropa, Deutschland, Rostock]
+KEY[E2034B 04  F 3/4]
+MEL[1  112  -7-6-5  112  -7_
+    -7  112  332  11-7  1_ //] >>
+FCT[geistlich, Wallfahrts - Lied]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Vergebliche Hoffnung"
+    ACH ACH DASS GOTT ERBARM]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1326  16  F 6/8]
+MEL[12  3_34321__34  5_56543__
+    34  5__5_6_6_5_  5_4_4_3__
+    5_  5_6_7_+1__33  2_3_4_5__
+    3_  1_2_3_5_4_3_  2_1_2_1__ //] >>
+FCT[Zech -, Schalks - Lied, Liebes - Lied]

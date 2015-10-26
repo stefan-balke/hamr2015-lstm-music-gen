@@ -1,0 +1,13 @@
+FINK
+CUT[WO ZUR FROHEN FEIERSTUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0543  08  F 2/4]
+MEL[  5_34  5_5_  67+17  765_
+    1_.1  3_5_  +1_+3_  +2__
+    5_34  5_5_  67+17  765_
+    1_.1  3_5_  +1_+3_  +2__
+    5_55  6_66  7567  +1_0_
+    +1_+1+1  +1_76  5432  1_0_
+    5_55  6_66  7567  +1_0_
+    +1_+1+1  +1_76  5432  1_0_ //] >>
+FCT[Studenten - Lied, Geselligkeit]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[ICH WEISS MIR ETWAS LIEBES AUF GOTTES WEITER WELT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Allenbach]
+KEY[B0262  16  D 4/4]
+MEL[5__  5_6_6__3__+1__  +1___+2+17_
+    2_3_  4_3_4__6_5_4__  3___0__
+    5__  5_6_6__3__+1__  +1___+2+17_
+    2_3_  4_3_4__6_5_4__  3___0__
+    +1__  7__6__4_5_7_6_  6__5__0__
+    5__  4__34652__4__  3___0__
+    5__  +1__7__+2_.+1765_  +1__6__0__
+    4__  2_3_4_6_5_432__  1___0__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Heimat, Heimweh]
+BOEHME
+CUT[ICH WEISS MIR ETWAS LIEBES AUF GOTTES WEITER WELT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Allenbach]
+KEY[B0262  16  D 4/4]
+MEL[5__  5_6_6__3__+1__  +1___+2+17_
+    2_3_  4_3_4__6_5_4__  3___0__
+    5__  5_6_6__3__+1__  +1___+2+17_
+    2_3_  4_3_4__6_5_4__  3___0__
+    +1__  7__6__4_5_7_6_  6__5__0__
+    5__  4__34652__4__  3___0__
+    5__  +1__7__+2_.+1765_  +1__6__0__
+    4__  2_3_4_6_5_432__  1___0__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Heimat, Heimweh]

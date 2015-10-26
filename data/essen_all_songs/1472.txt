@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt ein Maderl fruah aufstehn,]
+CNR[wollte gehen in den Wald,]
+REG[Mitteleuropa, Oesterreich, Traismauer]
+SRC[7, S. 75
+    1912 aufgezeichnet]
+KEY[Q0147C 16  G 6/8]
+MEL[-5_  1__1_3__1_  2_2_-5_0__
+    -5-5  2__3_4__-7_  1__0__.
+    11  3__1_3__1_  2_5_5_5__
+    22  2__554__-7_  1__3_3__
+    11  2__3_4__-7_  1__0__.
+    11  3__1_3__1_  2_5_5_5__
+    22  2__554__-7_  1__3_3__
+    11  2__3_4__-7_  1__0__. //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft; bei der Arbeit]
+CMT[Zweistimmig notiert, Unterstimme kodiert.
+    Vierte Zeile refrainartig.]

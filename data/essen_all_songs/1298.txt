@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Ritter und Magd
+    En Aften jeg laa saa sildig i min Seng]
+CNR[og taenkte paa slet ingen Kvide]
+REG[Nordeuropa, Daenemark]
+SRC[3, S. 65
+    ????]
+KEY[Q2055o 16  G 2/4]
+MEL[1  3__1_.2  3__5_3_  3_2_2_1_  -7__0_.
+    1  2__-7_.1  2__3_1_  -6___  -5__0_.
+    1  1__0_.-5  -5__0_.-3  -6__-5_.-4  -5__0_.
+    -5  1_.-71_.2  3__5_3_  2___  1__0_. //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Daenische Fassung der Ballade.
+    Dritte Zeile = Refrain auf sinnfreie Silben.]

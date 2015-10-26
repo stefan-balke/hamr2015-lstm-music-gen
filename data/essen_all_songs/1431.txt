@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Frueh, frueh, morgens rein,]
+CNR[wo hast gelassen dein Schwesterlein,]
+REG[Suedosteuropa, Jugoslawien, Batschka, Militic]
+SRC[3, S. 262
+    1938 aufgezeichnet]
+KEY[Q0068S 08  C 4/4]
+MEL[13  5__5_.6  5_3_2_0
+    3  3_1_111_  -7_2_-5_0
+    1  1_3_5_56  5_3_2_ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]
+CMT[Eingeklammerte Noten kodiert.]

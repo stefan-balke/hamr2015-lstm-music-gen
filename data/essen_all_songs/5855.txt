@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Tanzlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0310A 04  A 4/2]
+MEL[1_  -7b_.-7b1_.1  2__2_.
+    2  2_.23b_.3b  2__1_
+    1_  -7b_.-7b1_.1  2__2_.
+    2  2_.23b_.3b  2__1__
+    1__5__  4_.3b2_.2  3b__2_.
+    2  1_.12_.2  -5__
+    2__  4_.43b_.2  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 133]

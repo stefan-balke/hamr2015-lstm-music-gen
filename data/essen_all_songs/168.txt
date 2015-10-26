@@ -1,0 +1,18 @@
+BOEHME
+CUT[DU JUNGES GRUEN DU FRISCHES GRAS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0201  16  C 3/4]
+MEL[5_  3_.45__.6_  5_.3+1__0_
+    5_  6_.5+2__.+2_  +1_.+2+3__0_
+    +3_  +3_.77__+3__  +2_.+1+1__0_
+    6_  5_.5+1__3__  4___2_.1  1__0__. //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[DU JUNGES GRUEN DU FRISCHES GRAS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0201  16  C 3/4]
+MEL[5_  3_.45__.6_  5_.3+1__0_
+    5_  6_.5+2__.+2_  +1_.+2+3__0_
+    +3_  +3_.77__+3__  +2_.+1+1__0_
+    6_  5_.5+1__3__  4___2_.1  1__0__. //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

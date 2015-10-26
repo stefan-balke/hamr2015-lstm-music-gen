@@ -1,0 +1,12 @@
+F[ERK3
+CUT[LOBE DEN HERREN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1988  04  G 3/4]
+MEL[  115  321
+    -7-6-5  -6-71  2_.  1_0
+    115  321
+    -7-6-5  -6-71  2_.  1_0
+    555  6_.
+    345  543  2_.
+    -5-6-7  123  2_.  1_0 //] >>
+FCT[geistlich, Dank -, Lob - Lied, Choral]

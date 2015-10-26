@@ -1,0 +1,12 @@
+DVA
+CUT[Schlangenkoechin
+    " Wo bist du gewesen, meine Tochter Marjaeh ?"]
+CNR[" Bei meiner Patengothe, o Mutter wie weh ."]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0067A 08  G 3/4]
+MEL[34  5_3_5_  432_
+    44  3_1_3_  2__
+    -5_  1_1_22  3_3_
+    34  5_3_2_  1__ //] >>
+FCT[Ballade]
+CMT[In der zweiten Zeile rhythmisch korrigiert; Variante zu D0067]

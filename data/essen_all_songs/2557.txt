@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES SOLLT EIN SCHAEFER HUETEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Siebengebirge]
+KEY[E0043D 16  E 6/8]
+MEL[-7b_  -7b_4_4_4_5_6b_  5_.45_3b__0_
+    4_5_6b_7b_.+17b_  6b__5_4__
+    45  6b__6b_6b__5_  3b__2_1__0_
+    1__1_2__0_  5__5_2__
+    2_  4_3b_2_3b_2_1_  2__5_1__ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[NUN REUEN MICH DIE GUTEN SCHUCH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0945  04  F 4/4]
+MEL[1  3_3_  4_4_  5_5_  5_0
+    5  7b_6_  5_4_  5_5_  1_.
+    1  3_3_  4_4_  5_5_  5_0
+    5  7b_6_  5_4_  5_5_  1_. //] >>
+FCT[Tanz - Lied, Reigen]

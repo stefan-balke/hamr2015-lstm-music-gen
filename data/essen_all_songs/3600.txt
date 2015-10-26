@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Du oaines kloaines Hanifle, dahe,]
+CNR[sho hilf mir Hirshe ausjaten!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 144
+    1907 aufgezeichnet]
+KEY[Q1102J 08  G 4/4]
+MEL[3_  53535_6_  543__
+    4_  54543_4_  3__. //] >>
+FCT[Bei der Arbeit, Hirsejaeten]
+CMT[Melodievergleich zu Q0102F, anderes Lied.]

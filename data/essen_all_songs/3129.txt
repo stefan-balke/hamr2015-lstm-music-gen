@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ACH WENN DOCH MEIN SCHAETZCHEN EIN ROSENSTOCK WAER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0593  16  A 3/8]
+MEL[-5_  1_.23_  2_.34_  5_5_4_  3__
+    56  5_3_56  342_
+    -5_  1_.23_  2_.34_  5_5_4_  3__
+    44  5_3_2_  1__ //] >>
+FCT[Liebes - Lied]

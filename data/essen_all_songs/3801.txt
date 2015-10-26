@@ -1,0 +1,12 @@
+F[ERK3
+CUT[SO GEHT ES IN SCHNUETZELPUTZ HAEUSEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1098  08  D 6/8]
+MEL[5  543323  4_32_
+    5  543323  4_32_
+    5  531642  3_21_
+    2  234#567  67+17_
+    2  234#567  67+17_
+    +2  +275+3+16  3_.4#_.  5_.0_ //] >>
+FCT[Maerchen - Lied, Luegen - Maerchen]
+CMT[modulierend]

@@ -1,0 +1,7 @@
+ZUCCAL
+CUT[E BISSELE LIEB E BISSELE TREU]
+REG[Europa, Mitteleuropa, Deutschland, bayrisches Gebirge]
+KEY[Z0255  16  A 3/8]
+MEL[1_  3_3_.4  5__05  5_4_.4  3__0
+    3  3_2_.2  2_1_.1  24-7_.-7  1__ //] >>
+FCT[lyrisches Lied, Romanze]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Liebe ueber alles"
+    VOM WALD BIN I FIARA]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1235  08  G 3/4]
+MEL[1_  154#53_  265#64_
+    -765#64_  3+17+15_
+    154#53_  265#64_
+    -765#64-7  1__ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Uitwykelingslied (Uebersiedlungslied)]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0186  08  G 6/4]
+MEL[-5_  1_-7_1_5_4_5_  3b__2_1__
+    1_  2_1_2_5_4_5_  2__.0__
+    2_  3b_2_1_1_2_3b_  4__.5__
+    4_  3b_2_1_-7-6-5_5_  3b_4_3b_2_1_-7_  1__.0__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Willems Oude vlaemsche liederen (1848) No. 19.]

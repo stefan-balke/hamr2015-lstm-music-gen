@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der reiche Schlemmer"
+    ALS LAZARUS AUF DEM MISTE LAG UND SCHLIEF]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1030  16  A 4/4]
+MEL[-5__  1_.-71_5___4_  5_5_4_3b_2__
+    2_3b_  4__4__5__2_3b_  4_3b_2_1_-7__
+    -5__  1_.11_2_3b__2_1_  2___-5___  3b__.4_5__
+    4__  5__2_3b_4__5__  2___1__ //] >>
+FCT[Romanze, Ballade, Tod, geistlich, Sage (Hl. Lazarus)]

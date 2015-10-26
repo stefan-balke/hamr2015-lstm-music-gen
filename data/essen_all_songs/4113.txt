@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HOERT IHR LEUT UND LASST EUCH SAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1580A 04 Eb 4/4]
+MEL[  1155  4433
+    +1+177  6655
+    55+15  653_
+    5543  221_ //] >>
+FCT[Staende - Lied, Nachtwaechter; geistlich, Choral]

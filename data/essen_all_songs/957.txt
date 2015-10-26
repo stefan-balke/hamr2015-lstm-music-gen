@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Vorsicht"
+    MIS LIEB WENN DU ZUR CHILCHE THUST GA]
+REG[Europa, Mitteleuropa, Schweiz; Elsass]
+KEY[Z1222  04 Bb 3/4]
+MEL[1_.  354  432  1-7-6  -5_0
+    234  345  2_.
+    1_.  345  432  1-7-6  -5_0
+    1_.  234  345  1_. //] >>
+FCT[Liebes - Lied]

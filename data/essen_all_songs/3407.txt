@@ -1,0 +1,7 @@
+F[ERK2
+CUT[IST WIEDER EINS AUS]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald; Hessen, Dillkreis]
+KEY[E0857  08  G 3/8]
+MEL[5  546  2_4  435  1_
+    3  322  4-7-7  211  1_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

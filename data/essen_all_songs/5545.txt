@@ -1,0 +1,8 @@
+KINDER
+CUT[MACHT AUF DAS THOR]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Laubenheim]
+KEY[K2335  08  F 4/4]
+MEL[13  5_5_3_
+    13  5_5_3_
+    +1_  7_6_5_4_  3__1_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

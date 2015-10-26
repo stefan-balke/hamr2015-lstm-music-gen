@@ -1,0 +1,10 @@
+F[ERK3
+CUT[FRUH FRUH DES MORGENS FRUH]
+REG[Europa, Mitteleuropa, Deutschland, suedwestlicher Schwarzwald]
+KEY[E1460  16  F 3/4]
+MEL[  5_4_3_5_+1__  5__4_5_3__
+    5_4_3_5_+1__  5__4_5_3__
+    1_6_6__+1_6_  5__6__5__
+    5_4_4__5__  3_.23_4_5__
+    1_3_5__4_5_  3___0__ //] >>
+FCT[Staende -, Jaeger - Lied]

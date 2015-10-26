@@ -1,0 +1,11 @@
+BOEHME
+CUT[ICH GLAUB AN GOTT IN ALLER NOTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0737  08  G 4/4]
+MEL[-5_1_2_  3__4_3_  2_1_2__  0_
+    -5_1_2_  3_5_4_3_  2__1_0_  0_
+    -5_1_2_  3__4_3_  2_1_2__  0_
+    -5_1_2_  3_5_4_3_  2__1_0_
+    1__1234  5__6_5_  4_3_2_34  5_
+    4_3_2_  3_5_4_3_  2__1_0_  0_ //] >>
+FCT[Lob - Lied, religioes]

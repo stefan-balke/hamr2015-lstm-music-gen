@@ -1,0 +1,13 @@
+DVA
+CUT[Steh ich an mein Fensterlein,
+    schau so trueb, so traurig drein]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0093  08  D 3/4 2/4]
+MEL[ 34  5_.655  4_0_
+    5+1  +3_.+2+2+1  5_0_
+    +17  6_.666  5_0_
+    55  4_7_  +1_0_
+    +17  6_.666  5_0_
+    55  4_7_  +1_0_ //] >>
+FCT[Liebesschmerz]
+CMT[Inzipit = Variante zum Lied]

@@ -1,0 +1,13 @@
+DVA
+CUT[Hoert allesamt was ich ereklaer'
+    Wo kommet denn der Ehstand her]
+REG[Europa, Mitteleuropa, Lothringen, Metz ( St. Vinzent )]
+KEY[D0020  08  G FREI]
+MEL[-5_-5_1_1_3_21-7-6-5_.
+    -5  4_.23_.321-7-6-5_
+    -5_  4__3__2_0_
+    12  3_4_543_21234_
+    2_3_4_512_1-7-6_-5_0
+    -5  1_.32_.31_3_5_42  3__2__1__ //] >>
+FCT[Hochzeits - Lied]
+CMT[Caesuren nachtraeglich zugefuegt; Inzipit = Variante zum Lied]

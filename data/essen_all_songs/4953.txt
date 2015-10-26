@@ -1,0 +1,10 @@
+BOEHME
+CUT[MORGEN MUESSEN WIR VERREISEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0490  16  F 3/4]
+MEL[  3_.33_4_3_4_  6__5__0__
+    6_.56_5_3_1_  2___0__
+    2_.22_3_2_3_  5__4__
+    5_.4  3__.1_4_6_  6__5__
+    5_.+1  +1__3_6_5_.-7  1___0__ //] >>
+FCT[Abschieds - Lied]

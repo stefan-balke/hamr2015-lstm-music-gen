@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ICH SAH EINMAL ZWEI HASEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E1110  04  G 4/4]
+MEL[1  3332  3_2
+    1  1234  5_5
+    4  312_  1_0 //] >>
+FCT[Luegen - Lied, Maerchen]
+CMT[Fragment]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es warn einmal zwei Bauerssoehn,]
+CNR[es warn einmal zwei Bauerssoehn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Bolchen,
+    Lubeln]
+SRC[4, S. 260
+    ????]
+KEY[Q0085  08  A 3/4]
+MEL[1-51  1_.-7b13b  2_.
+    -7b3b2  1_.1-5-6  -7b_.0
+    -7b_  1-5-6b-5-4-6b  -5_.0
+    23b  4_.2(3b21)  -7b_1 //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

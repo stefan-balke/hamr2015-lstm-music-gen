@@ -1,0 +1,9 @@
+ALTDEU
+CUT[St. Michael]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0609  04  E 3/4]
+MEL[1  1_2  3b_3b  4_4  5_3b  4_4  5_
+    5  5_6b  7b_5  5_4  3b_
+    5  4_3b  215  4_3b  213b  4_2  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Wuerzburger Gsgb 1649 und bei Ditfurth, Fraenk. Vl I.2, No. 55.]

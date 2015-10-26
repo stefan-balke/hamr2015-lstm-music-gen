@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es wollt' a Halter frueh austrei'n,]
+CNR[ein kleines Kindelein hoert' er schrein.]
+REG[Osteuropa, Ungarn, Solymar]
+SRC[5, S. 251
+    1958 aufgezeichnet]
+KEY[Q0114A 16  G 3/4]
+MEL[-5_1_-7_  1__.3_4_3_  1__
+    3__4_3_  1_.33__2_-7_  1__0_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]
+CMT[Transkription einer Tonaufnahme. Zweistimmig notiert, Unterstimme
+    kodiert]

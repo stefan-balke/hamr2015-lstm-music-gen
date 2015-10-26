@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ES WAR EINE SCHOENE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein]
+KEY[E0098  08  D 4/4]
+MEL[1_  1_345_24  3_2_1_
+    5_  5+1767_6_  5__0_
+    5_  5_5_+1_6_  5__3_
+    34  5_5_+1_6_  5__3_
+    65  4_.34_5_  3__0_
+    5_  5_5_+1_6_  5__3_
+    34  5_5_+1_6_  5__3_
+    65  4_.34_5_  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid
+    Ballade ?]

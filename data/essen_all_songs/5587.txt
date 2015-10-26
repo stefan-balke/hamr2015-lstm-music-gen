@@ -1,0 +1,9 @@
+KINDER
+CUT[EINS ZWEI DREI VIER FUENF SECHS SIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Saarland]
+KEY[K3047  04  G 4/4]
+MEL[  -5111  1-720
+    -5222  2130
+    1350  6650
+    4433  2210 //] >>
+FCT[Kinder - Lied, Auszaehl - Reim]

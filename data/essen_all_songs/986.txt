@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Klage"
+    FEINS LIEBCHEN TRAU DU NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1251  08  E 4/4]
+MEL[32  1_.23234  5__
+    6__  6553544_  3_0_
+    5__  355_6_.5  654
+    34_.4  5_.65434  5_543_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

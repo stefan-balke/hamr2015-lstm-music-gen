@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Maria's Wallfahrt"
+    MARIA GING AUS WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1014  16  A 2/4]
+MEL[-5_  1_.23b_1_  2_-7b_0__
+    2__1_-5_  1-7b-6_-5_0_
+    1__2_5_  44#5_2_
+    3b2  1-7123b_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Maria, geistlich, Geissler - Lied]

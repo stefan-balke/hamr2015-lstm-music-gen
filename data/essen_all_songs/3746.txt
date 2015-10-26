@@ -1,0 +1,12 @@
+F[ERK3
+CUT[GUGUK IM HAEFELE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1020  16  F 3/8]
+MEL[  +1_5_5_  5_.43_
+    4_3_2_  3__0_
+    +1_5_5_  5_.43_
+    4_3_2_  3__0_
+    5_5_5_  5_.43_
+    5_5_5_  5_.43_
+    4_3_2_  1__0_ //] >>
+FCT[Tanz - Lied, Staende - Lied, Musiker - Zunft]

@@ -1,0 +1,13 @@
+FINK
+CUT[SCHOEN SUSCHEN KANNT ICH LANGE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0187  08 Bb 6/8]
+MEL[-5  1_1123  2444_
+    2  3_35_4  4_.3_
+    -5  1_1123  2444_
+    2  3_35_4  4_.3_
+    5  5_34_2  3_12_
+    5  4_23_1  2_.0_
+    -5  1_1133  2444_
+    2  3512_3  1_.0_ //] >>
+FCT[Liebes - Lied, Lebens - Philosophie, Spott]

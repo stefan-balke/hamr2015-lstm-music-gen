@@ -1,0 +1,6 @@
+VARIANT
+CUT[Und es geht nix ueber die Gemuetlichkeit, eijou, bleib dou]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Puechitz]
+KEY[V0002G 16  G 2/4]
+MEL[13  5_5_5565  3_5_1_5_  -7__0_5_  1__0_ //] >>
+FCT[Geselligkeits - Lied, Gemuetlichkeit]

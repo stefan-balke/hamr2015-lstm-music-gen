@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DIE FRANZOSEN BRECHEN EIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0342  08  G 3/4]
+MEL[-5_  1_132-7  1__
+    2_  3_3542  3__
+    12  3_3_34  5_.4
+    3_  322123  4_.3
+    2_  3_5432  1__
+    2_  3_5432  1__ //] >>
+FCT[historisches Lied, Krieg gegen Franzosen (1799)]

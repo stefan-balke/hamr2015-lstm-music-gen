@@ -1,0 +1,11 @@
+F[ERK2
+CUT[SCHAETZCHEN REICH MIR DEINE HAND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus, Lahnkreis]
+KEY[E0771A 08  F 4/4]
+MEL[  1_-5_3_1_  5_543_1_
+    6_.54_3_  2_5_5__
+    2_4_4_3_  5_.24_3_
+    1_6_5654  5_543__
+    2_4_4_3_  5_.24_3_
+    1_6_5654  5_543__ //] >>
+FCT[Abschieds - Lied, Liebe]

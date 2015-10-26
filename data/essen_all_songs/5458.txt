@@ -1,0 +1,11 @@
+KINDER
+CUT[SINTE MARTENS VOGELTJE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K1668  16  G 2/4]
+MEL[  1_2_3_3_  2_2_1_0_
+    1_123_3_  2_2_1_
+    3_  2__1_3_  2__1_3_  2__1_
+    -5_  1_2_3_3_  2_2_1_0_
+    2__1_0_  2_2_1_0_
+    5_5_-7_-7_  1_1_1__ //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

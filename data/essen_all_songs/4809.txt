@@ -1,0 +1,16 @@
+DVA
+CUT[Schloss in Oestreich
+    In Oestreich stand ein altes Schloss,]
+CNR[ein wunderschoens Gebaeude]
+REG[Europa, Mitteleuropa, Lothringen, Settingen]
+KEY[D0054  16  C 3/4]
+MEL[5_  5_+1_3__.3_  3_5_3__.
+    5_  5_5_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_1__0__
+    +3__+2+1765_4_  4__3__0_
+    5_  5_+1_3__.3_  3_5_3__.
+    5_  5_5_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_1__0__
+    +3__+2+1765_4_  4__3__0_ //] >>
+FCT[ Ballade, Liebe, menschliche Grausamkeit]
+CMT[Inzipit = Variante zum Lied]

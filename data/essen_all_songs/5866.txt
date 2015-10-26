@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Weingruss]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0319  02  D 3/1]
+MEL[5_  5_5_66  7b_7b7b_
+    5  4_4_56  7b_.5_.  0__
+    4_  5_7b_65  4_23b_
+    1  2_3b_44  0__
+    2_  3b_4_55  0__
+    7b_  6_5_4_  3b_4__  1__ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Joh. Ott 1534 No. 35]

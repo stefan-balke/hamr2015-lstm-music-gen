@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ZU FRANKFURT VOR DEM THOR]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Bettenhausen]
+KEY[E1620  16  G 4/4 3/8 3/4]
+MEL[-5__  1__1__3__3__  5___
+    6__.5_  5__4__4__4__  5__3__3__.
+    5_  234_2_  3_5_
+    5_  234_2_  3_5_
+    -5_  1__3__6_5_  5___
+    6_.5  5_.44__5_.4  4_.33__
+    1_2_  3_.33__3_4_  6_.55__
+    6_.5  5_.44__5_5_  3__0__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Maurer, Streik]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Ritt zum Kloster"
+    ICH STAND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1006  16  E 2/4]
+MEL[13  5_.65_4_  3__2__
+    2_3_4#_4#_  5__.
+    5_  +1_+1_7_6_  5__4__
+    3__2__  6__5_
+    54  3_3_2_2_  1__0_ //] >>
+FCT[Romanze, Ballade, Tod, Sage (Nonnen - Werber)]

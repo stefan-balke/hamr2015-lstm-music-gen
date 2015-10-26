@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es fuhr ein Bauer ueber den Rhein,]
+CNR[beym jungen Margraf da kehrt' er ein,]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg]
+SRC[3, S. 262
+    ????]
+KEY[Q0068R 16  C FREI]
+MEL[-5__  1__2__  3234  565_4__  3__
+    5__  6__5__  4__3__2__2__  3_4_5_4_  3__
+    -5__  1__1__2__  3__3_4_  5__5_4_  3__ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]
+CMT[Finaltoene zweistimmig. Oberen kodiert. Grundton in der
+    zweigestrichenen Oktave.]

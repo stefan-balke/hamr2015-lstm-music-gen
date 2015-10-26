@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Von einem stolzen Dirnelein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0201B 04  F 6/4 4/4]
+MEL[1  1_1553  423_
+    111553  423
+    3  1133  1_2 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Fragment bei M. Franck, Fasc. Quodl. 1611  No. 3.]

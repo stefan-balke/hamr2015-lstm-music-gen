@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die Passion aus den vier Evangelisten]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0543B 02  G 4/2 6/2]
+MEL[1  1531  2565_4#  5_0
+    5  3_45_5  4_32_
+    1  3_45_5  4_32_
+    1  3_45_4  3121_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Dresdner Gsgb. 1593]

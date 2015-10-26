@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Steig' hinauf auf hohe Berge,]
+CNR[schau hinab ins tiefe Tal,]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Lauingen]
+SRC[8, S. 65
+    1921 aufgezeichnet]
+KEY[Q0155Q 16  C 3/4 6/8 2/4]
+MEL[-5_.-5  1__3__2_1_  2__4__
+    2_.2  3__3__5_3_  2___
+    1_3_  5__5_5_4_3_  3_2_0_
+    -5_  -5_-7_2_6_5_4_  3___ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Grundton in der zweigestrichenen Oktave.]

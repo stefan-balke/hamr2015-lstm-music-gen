@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der kleine Knie - Reiter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0510  04  C 4/4]
+MEL[5_34  5_0_
+    3454  321_
+    3454  321_
+    3_22  1__ //] >>
+FCT[Romanze, Ballade, Lied, Kinderlied]
+CMT[M. Franck Musik. Convinium 1621 No. 34.]

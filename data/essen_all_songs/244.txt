@@ -1,0 +1,26 @@
+BOEHME
+CUT[ACH DU KLARER BLAUER HIMMEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0292  32  F 3/8]
+MEL[3_.4  5__2__.3_  2__1__
+    1_.1  +1__.7_6__  5___
+    5_6_  7__5__6__  7__5__
+    4#_3_  2__6__.7_  5___
+    6_5_  4__4__3_5_  4___
+    2_.3  5__4__.4_  7___
+    3_3_  +1__7__6__  5__.4_
+    3__  3__1__2_5_  3___ //] >>
+FCT[Stimmungs - Lied, Freude]
+BOEHME
+CUT[ACH DU KLARER BLAUER HIMMEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0292  32  F 3/8]
+MEL[3_.4  5__2__.3_  2__1__
+    1_.1  +1__.7_6__  5___
+    5_6_  7__5__6__  7__5__
+    4#_3_  2__6__.7_  5___
+    6_5_  4__4__3_5_  4___
+    2_.3  5__4__.4_  7___
+    3_3_  +1__7__6__  5__.4_
+    3__  3__1__2_5_  3___ //] >>
+FCT[Stimmungs - Lied, Freude]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der junge Held
+    Es war ein junger heltt,]
+CNR[sein hercz war ihm gestelt]
+REG[Mitteleuropa, Deutschland]
+SRC[3, S. 142
+    1603 Handschrift (ca.)]
+KEY[Q0060  08  G 4/4]
+MEL[1_  1_3b_2_2_  -5__.
+    2_  3b_5_4_3b_  2__.
+    -7_  1_.23b_43b  21-721_
+    1_  1_3b_2_2_  -5__.
+    2_  3b_5_4_3b_  2__.
+    -7_  1_.23b_43b  21-721_ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Da droben auf dem Berge,]
+CNR[da steht ein hohes Haus,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[7, S. 150
+    1842 gedruckt in Leipzig]
+KEY[Q0149O 16  G 2/4]
+MEL[-5_  1_2_3_4_  5__5_
+    +1_  7_5_6_4#_  5__0_
+    5_  +1_5_5_4_  4__3_
+    34  5_5_5_43  2_2_2_
+    4_  3_1_322_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Vorletzte Zeile = Refrain auf sinnfreie Silben.]

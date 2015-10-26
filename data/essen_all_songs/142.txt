@@ -1,0 +1,18 @@
+BOEHME
+CUT[SUESSE HEILIGE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0171  16 Eb 2/4]
+MEL[3_.2  1_.1-7123  2_1_
+    5_3_  5_3_2345  4_3_
+    +1765  5_3_6_54  3_2_
+    531_  642_1_-72  2_1_ //] >>
+FCT[Natur - Lied]
+BOEHME
+CUT[SUESSE HEILIGE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0171  16 Eb 2/4]
+MEL[3_.2  1_.1-7123  2_1_
+    5_3_  5_3_2345  4_3_
+    +1765  5_3_6_54  3_2_
+    531_  642_1_-72  2_1_ //] >>
+FCT[Natur - Lied]

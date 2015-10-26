@@ -1,0 +1,13 @@
+DVA
+CUT[Drei Soldaten
+    Es waren mal drei Soldaten,]
+CNR[gar unschuldiges Blut]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0059  08  D 4/4]
+MEL[1_  1_.23_44  5_.65_
+    +1_  765_676_  5__0_
+    5_  +1_5_676_  5_.43_
+    6_  6_5_5353  3_1_2_
+    56  5_243_2_  1__0_ //] >>
+FCT[Ballade, Liebe, Freibitte fuer den Geliebten]
+CMT[Verzierung; Inzipit = Variante zum Lied]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[NOCH IST POLEN NICHT VERLOREN]
+REG[Europa, Mitteleuropa, Deutschland; Polen]
+KEY[B0724  16  F 3/4]
+MEL[  3_.45__5__  5_.36_.54_.3
+    2_.25__.4_  4__3__0__
+    3_.45__5__  5_.36_.54_.3
+    2_.25__.4_  4__3__0__
+    2_.22__.4_  4_.33___
+    4_.44_.34_.6  6__5___
+    3_.5+1_.76_.5  5#__6___
+    2_.25__.-7_  2__1___ //] >>
+FCT[Freiheits - Lied, politisch]

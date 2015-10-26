@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohen Felsen,]
+CNR[sah ich ins tiefe Tal,]
+REG[Mitteleuropa, Oesterreich / Italien, Suedtirol, Meran, Marling]
+SRC[8, S. 92
+    1941 aufgezeichnet]
+KEY[Q0155g 08  G 6/8]
+MEL[-5  1_1-7_1  2_.-5_
+    -5  2_21_2  3_.0_
+    5  5_4-6_4  4_3-5_
+    3  3_2-6_-7  1_.0_
+    5  5_4-6_4  4_3-5_
+    3  3_2-6_-7  1_.0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]

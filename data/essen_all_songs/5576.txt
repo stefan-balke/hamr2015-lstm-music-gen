@@ -1,0 +1,11 @@
+KINDER
+CUT[SA SA SA DER ABT IST NICHT ZU HAUSE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[K2562B 08  G 2/4]
+MEL[  1_1_  1_0
+    3  4422  5_3_
+    4422  5533
+    4422  5533
+    1_1_  1_0_
+    1_1_  1_0_ //] >>
+FCT[Kinder - Lied, Gesellschafts - Spiel]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[LOOT ONS NOCH ENS DRENKEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein; Westfalen]
+KEY[E0996  08  F 2/4]
+MEL[  1234  5_+1_
+    66+16  655_
+    5444  3_5_
+    2123  1_0_ //] >>
+FCT[Tanz - Lied, Reigen, Kirmes]

@@ -1,0 +1,14 @@
+F[ERK1
+CUT[EINSTMALS SASS ICH VOR MEINER HUETTE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Nassau]
+KEY[E0355  08  G 6/8]
+MEL[-5-6-7  1_3212  320
+    222  5_43_2  1_0
+    -5-6-7  1_3212  320
+    222  5_43_2  1_0
+    333  542431  320
+    333  542431  320
+    -5-6-7  1_3212  320
+    654  32121-7  5_.
+    654  3215_5  1_0 //] >>
+FCT[historisches Lied, Krieg, Schlacht bei Leipzig (1813)]

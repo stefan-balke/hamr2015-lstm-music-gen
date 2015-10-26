@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ET LEIT SEK EN BUUR]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[E1717A 08  F 6/8]
+MEL[1  5555_+1  5_43_
+    1  5555_+1  5_43_
+    5  542315  54231
+    5  542315  54231
+    1  2321_1  2321
+    51  2321_1  2321_ //] >>
+FCT[Spott - Lied auf betruegerische Schneider]

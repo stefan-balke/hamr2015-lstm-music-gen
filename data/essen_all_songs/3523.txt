@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Bie vrie ischt auf dar shintige Herr,]
+CNR[bie vrie ischt auf dar shintige Herr!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Graflinden]
+SRC[5, S. 5
+    1907 aufgezeichnet]
+KEY[Q0089D 04  C 3/4]
+MEL[-5  1_3  2_-5  112  3_
+    5  3_5  1_1  232  1_ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]
+CMT[Grundton in der zweigestrichenen Oktave.]

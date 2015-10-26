@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[DA DROBEN IN JENEM THALE, DA TREIBET DAS WASSER DAS RAD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0313  16  F 3/8]
+MEL[-5_  1_-7_1_  2_1_2_  3__2_  1__
+    12  3_.45_  5_4_3_  2__
+    4_  3_4_5_  5_4_3_  4_.56_  5__
+    4_  3_2_1_  2_1_2_  1__ //] >>
+FCT[Lyrisches Lied, Romanze, verlassene Liebe]

@@ -1,0 +1,11 @@
+F[ERK2
+CUT[WARUM BIST DU DENN SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E0782A 16  F 3/4]
+MEL[1_.2  3__3__5434  5__+1__
+    3_5_  6_5_4_3_2_4_  3__0__
+    3_5_  4_3_2__4_6_  5_4_3__
+    3_5_  4_3_2__4_6_  5_4_3__
+    1_.2  3__3__5434  5__+1__
+    3_5_  6_5_4_3_2_4_  3__0__ //] >>
+FCT[Abschieds - Lied, Liebe]

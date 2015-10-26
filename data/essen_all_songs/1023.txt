@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Hasenleid"
+    SOBALD DER JAEGER GEHT AUF DIE JAGD]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1288  16  G 4/4]
+MEL[-5__  1__.1_2__1_1_  2__1-7123__0_
+    -5_  1__1__2__1_-7_  1__.2_3__0_
+    -5_  1_.1-7_.-7-6__-5__  1_.1-7_.-7-6__-5_
+    -5_  -5_1_1_1_1__0_2_  3_3_4_4_5__0_
+    3_  4_6_2_4_3__.1_  2__.-7_1__ //] >>
+FCT[Jaeger - Lied]

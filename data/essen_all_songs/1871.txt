@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der schwatzhafte Junggeselle
+    Es sassen unser viere]
+CNR[beim Wein und auch beim Biere;]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Oberwesterwald,
+    Stein - Neukirch]
+SRC[6, S. 275
+    1906 aufgezeichnet (1905/06)]
+KEY[Q0139F 16  G 4/4]
+MEL[-5__  1__-7_-6_-5__1__  2__1__0__
+    -5__  1__-7_-6_-5__1__  2__1__0__
+    3__  3_.33_.33_.20_3_  3_.35_.32__0_
+    1_  -7_.22_2_2_.54__  3_.32_.21__ //] >>
+FCT[Ballade, Indiskretion, verweigerter Beischlaf]

@@ -1,0 +1,11 @@
+F[ERK1
+CUT[LILJE DU ALLERSCHOENSTE STADT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0323  08  G 4/4]
+MEL[  1_-5_-3_-5_  1_1_1_0_
+    3_3_2_3_  4_3_2_0_
+    2_2_5_5_  21-7-6-7_-5_
+    2_2_5_5_  21-7-6-7_-5_
+    1_1_2_2_  3_3_2_0_  3_3_2_0_
+    5_.43_3_  2_2_1_0_ //] >>
+FCT[historisches Lied, Festung Lille (1708)]

@@ -1,0 +1,12 @@
+FINK
+CUT[NACH SEVILLA NACH SEVILLA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0907  16  D 2/4]
+MEL[55  5_3_0_+1+1  +1_5_0_
+    +17  6_.54_56  6_5_0_
+    5+1  +17655_.4  4_3_0_
+    33  6_.7b6_.5  5_4_
+    +2_.6  5_.64_.4  4_3_
+    +1_.5  6_4_2_5_  3__
+    5_.+1  6_+2_+1_7_  +1__0_ //] >>
+FCT[Liebes - Lied]

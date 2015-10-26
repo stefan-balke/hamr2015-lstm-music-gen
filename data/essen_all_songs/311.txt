@@ -1,0 +1,22 @@
+BOEHME
+CUT[BESCHATTET VON DER PAPPEL WEIDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0368  08  F 6/8]
+MEL[-5  3_21_5  5_431
+    3  2_2253  2_.0_
+    -5  3_21_5  5_431
+    3  2_2253  2_.0_
+    -5  3_45_5  3_45_
+    5  +1_5432  1_11_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Anmache]
+BOEHME
+CUT[BESCHATTET VON DER PAPPEL WEIDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0368  08  F 6/8]
+MEL[-5  3_21_5  5_431
+    3  2_2253  2_.0_
+    -5  3_21_5  5_431
+    3  2_2253  2_.0_
+    -5  3_45_5  3_45_
+    5  +1_5432  1_11_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Anmache]

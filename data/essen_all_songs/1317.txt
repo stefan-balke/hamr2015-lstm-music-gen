@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es war ein Ritter wohlgemut,]
+CNR[der trug ja zwei Federn auf seinem Hut.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Odenwald, Neunkirchen]
+SRC[3, S. 87
+    1843 aufgezeichnet]
+KEY[Q0057  08  G 6/8]
+MEL[13_2  1_35_4  3_
+    5432  6543_2  3_
+    5432  6543_2  3_ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

@@ -1,0 +1,11 @@
+F[ERK2
+CUT[ACH LIEB ICH MUSS DICH LASSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0743B 08  F 4/4]
+MEL[1_1_2_  3__5__  4__3__  0_
+    3_5_5_  2__3__  1__-7__  0_
+    1_2_1_  -7_1_2__  0_
+    1_1_2_  3__5__  4__3__  0_
+    3_5_5_  2__3__  1__-7__  0_
+    -7_1_2_  3_212_4_  3_.12_2_  3___  0_ //] >>
+FCT[Abschieds - Lied, Liebe]

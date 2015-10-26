@@ -1,0 +1,9 @@
+VARIANT
+CUT[Sixt as da, da kimmt er, klaana Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Lindenhardt]
+KEY[V0003F 08  D 2/4]
+MEL[-5-5-6-5  -7_-7_
+    -5-5-6-5  1_1_
+    2221  -7-6-6_
+    -6-6-7-6  -6-5-5_ //] >>
+FCT[Geselligkeits - Lied, Scherz]

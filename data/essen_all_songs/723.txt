@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[WACH AUF MEIN HORT VERNIMM MEIN WORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0306  08  G 6/8]
+MEL[-5  1_35_-5  1_35_
+    3  13_5_3  2_.2_
+    5  5_56_5  4_45_
+    4  3_14_3  2_.-5_
+    5  5_56_5  4_25_
+    4  3_14_3  2_12_-7  1_.1_ //] >>
+FCT[Lyrisches Lied, Romanze, Tage - Lied]

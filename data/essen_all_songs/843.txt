@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Rache"
+    DES ABENDS IN DEM MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1108  16  D 6/8]
+MEL[1_  1__5_5_6_7b_  6__5_4__
+    5_  5__5_6__7_  +1__+1_5__
+    2_  5__5_6__7_  +1__.+2__
+    +1_  7__5_4#_5_6_  5__.0__
+    5_  +1__+1_5_6_7_  +1__.5__
+    5_  6b__5_4__3b4  5__.2__
+    3b2  1__1_2_3b_4_  5__.6b__
+    5_  4_4_2_3b__2_  1__0__. //] >>
+FCT[Romanze, Ballade]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[An den Most]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0318  04  F 4/2]
+MEL[5_  3_1_5_6_  5_4_3_
+    2_  5_.43_2_  5_4_5_3_  2__0__
+    1__5_6_  5_4_3_
+    2_  5_.43_2_  5_4_5_3_
+    6__5__  3_1_2__  1__0_ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Reutterliedlein (1535) No. 5.]

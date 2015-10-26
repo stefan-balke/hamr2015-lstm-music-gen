@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Wacht auf, ihr Deutschen alle!]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0397  04  G 4/2 6/2]
+MEL[1_  1_1_2_1_  3__4__0_
+    3_  2__1_4__3_  4__0_
+    4_  3_3_4_4_  5__5__0_
+    4_  3_.21_3_2__  1__0_
+    1_  2_2_5_4_  3__4__0_
+    2_  1_.11_1_.-7b-6_  -5__0_
+    -5_  2_.22_2_.34_  5__5__0_
+    4_  3_.21_3_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Wie A0396, Fassung im Hamburger Melodeyenbuch 1604.]

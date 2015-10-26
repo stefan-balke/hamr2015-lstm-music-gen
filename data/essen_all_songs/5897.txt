@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Der Schlemmer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0358  02  G 4/2 6/2]
+MEL[1  3b3b21  5_4
+    4  54_3b2_  1_0
+    1  3b3b21  5_4
+    4  54_3b2_  1_0
+    3b  2_-7b1-6_  -5_0
+    3b  2_14_3b  2_0
+    1  3b3b21  5_4
+    4  5_43b2_  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II. 1540. No. 57.]

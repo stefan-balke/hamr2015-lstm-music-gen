@@ -1,0 +1,9 @@
+FINK
+CUT[ICH WAR WOHL RECHT EIN SPRINGINSFELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0951  08 Eb 6/8]
+MEL[1  -7_-6-5-6-7  1-7-6-5_
+    -5  -5-4-2-4-3-1  -5_-3-2_
+    -1  1-7-6-5-6-7  1-7-6-5_
+    -5  -621-7-6-5  1_.-50 //] >>
+FCT[Liebes - Lied]

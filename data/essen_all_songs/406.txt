@@ -1,0 +1,22 @@
+BOEHME
+CUT[HIER RUHST DU KARL]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0479  08  F 4/4]
+MEL[5  56453_.3  34231_.
+    5  +1_.76543  3_2_0_.
+    5  56453_.3  34231_.
+    5  +1_.76543  3_2_0_.
+    5  577+2+2754  355+1+1_.
+    +1  +176567+14  3_2_1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]
+BOEHME
+CUT[HIER RUHST DU KARL]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0479  08  F 4/4]
+MEL[5  56453_.3  34231_.
+    5  +1_.76543  3_2_0_.
+    5  56453_.3  34231_.
+    5  +1_.76543  3_2_0_.
+    5  577+2+2754  355+1+1_.
+    +1  +176567+14  3_2_1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

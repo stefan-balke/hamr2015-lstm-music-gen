@@ -1,0 +1,18 @@
+BOEHME
+CUT[WEINT MIT MIR IHR NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0139  16  C 4/4]
+MEL[-5_-5_  1__.-3_-3_-3_-2_-3_  -5_-4_-4__0__
+    -5_-7_  2__.-4_-4_-4_-6_-5_  -5_1_1__0__
+    -5_-5_  -6_.-71__0_1_-7_-6_  -5_.-4-3___
+    1_3_  2__.2_1_.-7-6_.-7  1__0___ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[WEINT MIT MIR IHR NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0139  16  C 4/4]
+MEL[-5_-5_  1__.-3_-3_-3_-2_-3_  -5_-4_-4__0__
+    -5_-7_  2__.-4_-4_-4_-6_-5_  -5_1_1__0__
+    -5_-5_  -6_.-71__0_1_-7_-6_  -5_.-4-3___
+    1_3_  2__.2_1_.-7-6_.-7  1__0___ //] >>
+FCT[Ballade, Romanze]

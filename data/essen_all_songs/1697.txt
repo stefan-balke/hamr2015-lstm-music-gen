@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Meierin Sohn
+    Stoji, stoji mi beli grad,]
+CNR[vu belim gradu mlad gospod,]
+REG[Suedosteuropa, Jugoslawien, Slowenien, Krain]
+SRC[4, S. 249
+    1881 gedruckt in Zagreb]
+KEY[Q3083E 16  G 2/4]
+MEL[  -5__1__  3__2__  4_2_1_13  2__.0_
+    -7__-7253  3__2_1_  -7__2__  1__.0_
+    -7__-7253  3__2_1_  -7__2__  1___ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0083A, anderes Lied.]

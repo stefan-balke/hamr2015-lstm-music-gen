@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Der Lohn"
+    ES RITT EIN HERR UND AUCH SEIN KNECHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1067  16  G 3/8]
+MEL[-5_  -7b__-7_  1__23b  4__3b_  2__
+    2_  3b__4_  5_2_5_  4__3b_  2__
+    1_  5_4_6b_  5_2_3b_  1_2_1-6b  -5__
+    23b  4_3b_2_  1__ //] >>
+FCT[Romanze, Ballade]

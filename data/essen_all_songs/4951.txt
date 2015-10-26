@@ -1,0 +1,11 @@
+DVA
+CUT[Haenschen klein geht allein
+    in die weite Welt hinein]
+REG[Europa, Mitteleuropa, Deutschland, Trier, Issel]
+KEY[D1023  04  F 4/4]
+MEL[533_  422_
+    1234  555_
+    533_  422_
+    1355  3_0_ //] >>
+FCT[Kinder - Lied]
+CMT[DVA-Signatur A 78 807]

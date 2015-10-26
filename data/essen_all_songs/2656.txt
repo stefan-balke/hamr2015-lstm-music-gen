@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAR EINMAL EIN FEINER KNAB]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[E0093A 08  F 4/4]
+MEL[13  5_+1_6_4_  5_-7_1_
+    13  6_5_5_31  5_3_2_
+    23  4_.53_21  +1_6_5_.
+    5  7_.7+1_6_  5_-7_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

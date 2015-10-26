@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Hier treten wir her mit unserm Stern,]
+CNR[ein' guten Abend haetten wir gern.]
+REG[Mitteleuropa, Deutschland (BRD) , Schleswig]
+SRC[5, S. 127
+    1897 gedruckt in Leipzig]
+KEY[Q1100J 08  G 3/4]
+MEL[-5_  1_1_-7_  1__1_  1_3_2_  1__
+    23  4_.254  3_.21_  2_.1-7_  1__
+    23  4_.254  3_.21_  2_.1-7_  1__ //] >>
+FCT[Ansinge- , Dreikoenigs - Lied]
+CMT[Melodievariante zu Q0100, anderes Lied.]

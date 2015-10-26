@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der Markgraf von Backenweil
+    Nun hoeret an und schweiget still,]
+CNR[dann will ich Euch singen vom Graf Backewill,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kreis
+    Saargemuend, Gebenhausen]
+SRC[1, S. 126
+    1917 aufgezeichnet]
+KEY[Q0013A 16  F FREI]
+MEL[-5_1_2_  3b_.12_-7_  1__
+    2_3b3b4_  5__5_5__4__  5_.3b2__
+    5__  4_3b_2__1__-5__  3b__2__1__
+    2__  ^_1_-7_-6_-5_.-6-5_-5_  1__.2_3_.12__
+    4__3b__  2_2_1__-5__1__  3b__2__1__ //] >>
+FCT[Ballade, Krieg, Gefangenschaft, Ehe, Heimkehr]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.
+    Variante von Q0013, gesungen durch denselben Saenger]

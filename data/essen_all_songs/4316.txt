@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES KAM EIN MANN AUS NINNEVEH]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Dresden]
+KEY[E1904  08  G 2/4]
+MEL[-5  1113  11-50  1310
+    21-7-6  -533
+    -5  1113  11-50  1310
+    21-7-6  -533 //] >>
+FCT[Kinder - Lied, Tanz, Spiel, Brautwerbung]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    En daar vlogen drij vogelkens over den Rijn,]
+CNR[en daar stierven drij koningsdochterkens fijn.]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 186
+    1503 gedruckt (?)]
+KEY[Q3063A 16  F 3/8]
+MEL[12  3_1_1_  1_2_3_  4_.43_  2__
+    22  2_-7_-6_  -5_1_2_  3_.32_  1__ //] >>
+FCT[erzaehlendes Lied]
+CMT[Melodievergleich zu Q0063, anderes Lied "Die drei Wege" .]

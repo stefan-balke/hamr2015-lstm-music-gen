@@ -1,0 +1,10 @@
+BOEHME
+CUT[BIN ICH GLEICH A GEBIRGISCHES MADEL]
+REG[Europa, Mitteleuropa, Deutschland, Erzgebirge, Schneeberg]
+KEY[B0697  16  C 6/8]
+MEL[-5-5  -5_.-6-5_3_2_1_  1_-7_0__.
+    -6_  -5__-5_-6_-5_-4_  -3___0_
+    -1_  -6__-6_1_-7_-6_  -6_-5_0__.
+    -5_  -5_.-5-5_-5_-6_-7_  1__.3_2_
+    1_  2_.34_-5_-6_-7_  1___0_ //] >>
+FCT[Heimat - Lied]

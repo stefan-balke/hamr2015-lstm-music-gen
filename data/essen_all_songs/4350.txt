@@ -1,0 +1,9 @@
+F[ERK3
+CUT[VATER UNSER IN DOMINE]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken, Thoras]
+KEY[E1985  08 Bb 4/4]
+MEL[-5-5  1_221_-7-6  -5_
+    -5_-6-6-6-6  -6_1_-5_.-4  -3_
+    1_1333  3_5_4_3_  2__
+    3_.2  1_3_2__  1_0__ //] >>
+FCT[geistlich, Gebet, Wallfahrts - Lied]

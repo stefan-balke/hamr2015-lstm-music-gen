@@ -1,0 +1,11 @@
+F[ERK3
+CUT[FOLGE KIND FOLGE]
+REG[Europa, Mitteleuropa, Deutschland, Niederdeutsch]
+KEY[E1831  04  F 4/4]
+MEL[  123_  5_3_  5_3_
+    5432  3_1_
+    123_  5_3_  5_3_
+    5432  3_1_
+    3454  321_  2_1_
+    432-6  1_1_ //] >>
+FCT[Kinder - Lied]

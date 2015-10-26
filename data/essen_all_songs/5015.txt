@@ -1,0 +1,12 @@
+BOEHME
+CUT[FROEHLICH UND FREI BIN ICH JUCHHEI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0550  08  G 3/4]
+MEL[  1_.31_  5__0_
+    6_5_4#_  5__0_
+    4_3_2_  5_.43_
+    4_3_2_  5_.43_
+    1_.31_  5_.65_
+    6_5_4#_  5_.65_
+    5_.35_  +1__0_ //] >>
+FCT[Studenten - Lied, national]

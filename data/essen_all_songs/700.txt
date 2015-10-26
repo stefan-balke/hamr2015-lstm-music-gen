@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[SEY NUR STILL, HAST LANG GESCHWIEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Coburg]
+KEY[Z0283  08  A 4/4]
+MEL[1234  5_5_67+16  655
+    43_.4  5_5_6543  3_2_
+    1234  5_5_67+16  655
+    43_.4  5_5_6543  3_2_0__
+    5_.34_.2  353_2_0_
+    3235543_  22334654  3_2_1_0_
+    5_.34_.2  353_2_0_
+    3235543_  22334654  3_2_1_0_ //] >>
+FCT[Lyrisches Lied, Romanze]

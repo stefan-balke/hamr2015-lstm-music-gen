@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielte ein Ritter mit einer Madam,]
+CNR[sie spielten laenger als sieben Jahr]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[3, S. 58
+    ????]
+KEY[Q0055V 08 Bb 4/4]
+MEL[1_  331_-5-51_  222_2_
+    2_  3_-7_11-6_  -6_-5_-5_0_
+    -6_-6_-6_1-6  -5_-5_-5_
+    -5_  1_1_321_  -5_-5_1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

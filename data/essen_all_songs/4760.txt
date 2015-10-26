@@ -1,0 +1,11 @@
+DVA
+CUT[Der Vorwirt
+    Es wollt ein Herr ausreiten,]
+CNR[wollt auf einen Kirchhof gehn streiten]
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0001  08  G FREI]
+MEL[-5-5-51_21-7b_123b
+    22121-5-5_-5_-6-71_
+    3b_244543b_221121-7b_
+    -5-5-51_3b_2_1_-71__ //] >>
+FCT[Ballade, Familienereignis]

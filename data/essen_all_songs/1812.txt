@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das weinholende Maedchen
+    Slo je holco po piwo,]
+CNR[haj po piwo,]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wittichenau; sorbisch]
+SRC[6, S. 136
+    1841 gedruckt in Grimma]
+KEY[Q2129A 08  G 2/4]
+MEL[  3b_54  3b_-7b_  1_3b2  1_
+    -7b_  1_3b2  1_
+    -7b_  3b_4_  5_4_  3b_.2  1__ //] >>
+FCT[Ballade, Werbung]
+CMT[Sorbische Fassung der Ballade.]

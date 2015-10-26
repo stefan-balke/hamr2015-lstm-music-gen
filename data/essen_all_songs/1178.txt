@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Bluthochzeit
+    Es fuhr sich ein Pfalzgraf wohl ueber den Rhein,]
+CNR[viel Ross und Jaeger wohl um ihn sein.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Grafschaft Berg]
+SRC[2, S. 169
+    1830 aufgezeichnet (ca.)]
+KEY[Q0046C 08  G 2/4]
+MEL[2  5_56  7b_65  67b65  4_.
+    5  5_23b  4_43b  2_3b2  1_0 //] >>
+FCT[Ballade, Entfuehrung, Mord, Vergeltung]
+CMT[Variante des Nachsatzes von Q0046A. Verzierung (Vorschlag) in der
+    ersten Zeile.]

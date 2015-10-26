@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WILLST DU MICH DENN NICHT MEHR LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Mittelmark, Gransee]
+KEY[E0699A 16  G 3/4]
+MEL[  1_.-5-5_-5_-6_-7_  1_3_3__0__
+    4_.-5-5_-5_-6_-7_  1___0__
+    1_.23_3_2_3_  5__4__0__
+    2_.22_6_6_-7_  1___0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

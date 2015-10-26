@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ICH WEISS EINE EWIGE SPINNERIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus, Niederreifenberg]
+KEY[E2069  16  G 6/8]
+MEL[-5_  1_1_1_3_1_3_  5__5_3__
+    4_  5_5_5_6_5_4_  3__.0__
+    5_  5_3_5_5_3_1_  6__.5__
+    4_  3_.33_2_3_2_  1__.0__
+    13  5__5_4__4_  3__3_2__
+    22  3_.33_4_5_6_  5__.^_0_
+    5_  5_3_5_5_3_1_  6__.5__
+    4_  3_.33_2_3_2_  1__.0__ //] >>
+FCT[geistlich, Marien - Lied, Legende]

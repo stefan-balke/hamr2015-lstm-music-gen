@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Es wollt' es ein Juengling werben,]
+CNR[in der Jugend wollt' nehmen ein Weib.]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+SRC[5, S. 144
+    1947 gedruckt in Colmar]
+KEY[Q0102C 08  G 6/8]
+MEL[3  -513-513  3232_
+    2  -5-72-5-72  2_31_
+    -5  33-511-5  1_35_
+    3  2225_5  3_.^_
+    -5  33-511-5  1_35_
+    3  2225_5  1_.^_ //] >>
+FCT[Ballade, Ehe - Geloebnis, Betrug]

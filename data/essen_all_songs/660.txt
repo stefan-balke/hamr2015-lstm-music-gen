@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES KUMMA SECHS BOLLACHA]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0244  16  G 2/4]
+MEL[1_  5_5_6_6_  5__3_
+    -6_  555_666_  5__3_
+    5_  554_2_3_  435_3__
+    5_4_2_3_  4_5_3_ //] >>
+FCT[Kinder - , Wiegen - Lied]
+CMT[Die letzten vier Takte werden zum Text fuenf mal wiederholt. 1 Strophe]

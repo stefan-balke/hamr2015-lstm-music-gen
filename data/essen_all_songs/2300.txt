@@ -1,0 +1,12 @@
+FINK
+CUT[LUSTIG GERUESTET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0762  08  E 4/4]
+MEL[  +1_55+1_55  43215__
+    1_345_55  65433_2_
+    +1_+1+1+1_11  1356543_
+    5_555_64  3_421__
+    1_345_55  65433_2_
+    +1_+1+1+1_11  1356543_
+    5_555_64  3_421__ //] >>
+FCT[Geselligkeits -, Bundes - Lied, Rundgesang]

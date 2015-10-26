@@ -1,0 +1,10 @@
+F[ERK2
+CUT[WOLT IHR HOERN EIN NEWS GEDICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0938  04  F 6/4 4/4]
+MEL[  1_13_4  5_55_
+    5  1_13_4  5_.5_
+    5  6_55_4  3_33_
+    3  2_22_
+    2  5534  2_1_ //] >>
+FCT[Tanz - Lied, Reigen, geistlich; Spiel - Lied]

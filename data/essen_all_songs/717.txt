@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[DRAUSSEN AUF GRUENESTER HAID]
+REG[Europa, Mitteleuropa, Deutschland, Stuttgart]
+KEY[Z0300  16  F 3/8]
+MEL[1_.-71_  2_.12_  3__.
+    2__.  3_3_22  3_3_
+    22  3_3_2_  1__0_
+    1_.-71_  2_.12_  3__.
+    2__.  2_1_2_  2_1_2_  3__.
+    3_332_  3_332_
+    1_.-71_  2_.12_  3__.
+    2__.  3_3_22  3_3_
+    22  3_3_2_  1__0_ //] >>
+FCT[Lyrisches Lied, Romanze]

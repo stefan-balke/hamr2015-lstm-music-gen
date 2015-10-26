@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Liebeslied eines Landsknechts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0423  04  F 4/2 6/2]
+MEL[0_1_1_1_  5__5_6__6_  5__0_
+    5_  6_7_+1_7_  6__4__  3__0_
+    7_  +1_765_5_  6_543_4_  2__1__0_
+    1_  5__6_7_.+1+2_  +1_7__6__
+    6_  +1_765_5_  6_543_4_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Souterliedekens ad Ps. 13.]

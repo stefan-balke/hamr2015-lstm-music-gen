@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es reiset aus ein Herre,]
+CNR[er reitet her von ferne.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Weiler]
+SRC[4, S. 3
+    1928 gedruckt in Heidelberg]
+KEY[Q0072B 08  F 3/4]
+MEL[-5_  1__1_  2__3_  4__.  1__
+    5_  6__5_  4_2_3_  4_3_2_  2__
+    34  5__32  1__1_  2_1_-7_  1__
+    1_  4_5_6_  5_5_23  4_3_2_  1__
+    34  5__32  1__1_  2_1_-7_  1__
+    1_  4_5_6_  5_5_23  4_3_2_  1__ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]

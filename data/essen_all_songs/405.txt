@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH LEBTE SONST SO FROH]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0477  16  F 3/4]
+MEL[-5_  3_.21__.-7_  -7_.-6-6__0_
+    4_  4_2_5__.2_  3__1__0_
+    5_  5_3_+1__7_6_  6_.55__.
+    3_  3_2_4__2__  3_6_5__0_
+    5_  5_3_+1__7_6_  6_.55__.
+    3_  3_2_4__2__  2__1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]
+BOEHME
+CUT[ICH LEBTE SONST SO FROH]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0477  16  F 3/4]
+MEL[-5_  3_.21__.-7_  -7_.-6-6__0_
+    4_  4_2_5__.2_  3__1__0_
+    5_  5_3_+1__7_6_  6_.55__.
+    3_  3_2_4__2__  3_6_5__0_
+    5_  5_3_+1__7_6_  6_.55__.
+    3_  3_2_4__2__  2__1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage, Tod]

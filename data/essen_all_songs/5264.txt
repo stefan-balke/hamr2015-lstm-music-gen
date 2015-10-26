@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Doen Hanselijn over der heiden reet]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0063  08  E 3/4]
+MEL[1_  3b_.3b3b_  3b_.3b3b_  4__3b_  4__
+    4_  6b__6b_  5_4__  3b_.2b1-7b  1__
+    1_  4__4_  4__4_  3b__1_  -6b__
+    -6b_  3b__3b_  1_2b_3b_  4__.  3b__6b_  5_.43b2b  1__ //] >>
+FCT[Lied]
+CMT[Souterliedekens 1540 No. 69]

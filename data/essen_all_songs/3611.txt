@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Husaren kommen aus dem Krieg, hurrah!]
+CNR[Husaren kommen aus dem Krieg, hurrah!]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[5, S. 160
+    ????]
+KEY[Q0103J 08  G 6/4]
+MEL[-5_  -5_1_1_1_3_3_  3_5_5_5_4_2_  1__0__.
+    -5_  -5_1_1_1_3_3_  3_5_5_5_4_2_  1__0__.
+    13  5_5_5_5_6_5_  4__3_4__
+    4_  3_3_3_5_4_3_  2_5_5_5_5_
+    4_  3__3_2__2_  1__.0__ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Anhaengsel; letzte Zeile = Refrain.]

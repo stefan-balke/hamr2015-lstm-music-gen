@@ -1,0 +1,9 @@
+F[ERK2
+CUT[HIER UNTEN IM SCHATTE]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E0684  16  C 2/4]
+MEL[-5_  1_-7-6-5_-3-5  -6_-5-4-3_
+    -3-5  -5-4-4-3-4_-2-6  -5-6-5-4-3_
+    -5-5  -511113
+    21  -72222432  3_2_1_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

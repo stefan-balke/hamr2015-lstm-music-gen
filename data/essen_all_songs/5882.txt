@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Der Fuerstenberger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0337  08  A 4/4]
+MEL[5_  -5_-5_1_2_  3_.45_
+    1_  4_3_2_2_  1__0_
+    5_  -5_-5_1_2_  3_.45_
+    1_  4_3_2_2_  1__0_
+    5_  4_4_3_.4  5__5_
+    4_  3_5_5_4#_  5__0_
+    5_  3_3_1_1_  5__3_
+    4_  2_1_1_-7_  1__0_
+    5_  3_3_1_1_  5__3_
+    4_  2_1_1_-7_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied, Trinklied]
+CMT[Ochsenkun, Tabulaturbuch 1558 Bl. 79.]

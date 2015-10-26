@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Brave soldat venant de guerre, coucou,]
+CNR[brave soldat venant de guerre, coucou,]
+REG[Mitteleuropa, Frankreich]
+SRC[5, S. 158
+    1887 gedruckt]
+KEY[Q2103B 08  G 6/8 3/8]
+MEL[-5  1_11_3  2_1234  3_.^0
+    -5  1_11_3  2_1234  3_.
+    234  5_54_3  2_.
+    123  4_2255  10
+    3  1_3232  1_.
+    234  5_54_3  2_.
+    123  4_2255  10
+    3  1_3232  1_ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Franzoesische Fassung der Ballade. Taktart zum Taktwechsel
+    korrigiert. Anhaengsel an der ersten und zweiten Zeile; letzte
+    Zeile = Refrain auf sinnfreie Silben.]

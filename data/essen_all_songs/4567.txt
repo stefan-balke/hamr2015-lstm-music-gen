@@ -1,0 +1,8 @@
+ALTDEU
+CUT[Badeliedlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0485B 02  F 4/2]
+MEL[2_  4321  5_3_
+    555_  +1+155  6_5_  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzel, 1544 Quodl. 20.]

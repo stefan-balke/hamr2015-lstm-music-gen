@@ -1,0 +1,10 @@
+F[ERK1
+CUT[VON GOLD LIESS ER EINE BRUECKE BAUN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Joachimstal]
+KEY[E0001C 16  F 4/4]
+MEL[-5__  1__1__3__5__  +1__7_6_5__
+    +1_.+1  6__4__2__5__  3___0__
+    3__  5_4_4__2__2__  3__3_4_5__
+    3_2_  1_.11_.13_2_1_2_  1___0__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

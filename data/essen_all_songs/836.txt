@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Jagdglueck"
+    ES ZOG EIN JAEGER WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1101  08  D 6/8]
+MEL[-5  -5_-3-5_-3  1_-6-5_-5  1_-51_2  3_.20
+    -5  -5_-3-5_-3  1-7-6-5_-5  1_-51_2  3_.20
+    2  2_1-7_2  231-7_2  2_23_2  1232_
+    1  1_.-5_3  3_.1_3  5_3543  2_.21
+    2  3_.2_.  1_.^_ //] >>
+FCT[Romanze, Ballade, Jaeger - Lied]

@@ -1,0 +1,12 @@
+F[ERK1
+CUT[GESTERN BEI MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich - Schlesien]
+KEY[E0547  08 Eb 3/4]
+MEL[  1_3_4_  5_.65_
+    4_3_2_  3__1_
+    1_3_4_  5_.65_
+    4_3_2_  3__1_
+    2_2_3_  4_.54_
+    3_3_4_  5_.65_
+    4_3_2_  2__1_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Winterrosen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0060  04  F 6/2 4/2]
+MEL[1_  1_1_2_2_  3_3_1_1_  4_.32_3__2_  1-71_2__  0_
+    2_4_4_  3__3_2__2_  1_.23_.2  1_-7-6-7_0_  0_
+    -5_1_1_  3__2_1_  2__1_^__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie aus: Reutterliedlein 1535 No.10. Ganz gleichlautend bei J.Ott
+    1534 No.62 und Forster II. 1540 No.23.]

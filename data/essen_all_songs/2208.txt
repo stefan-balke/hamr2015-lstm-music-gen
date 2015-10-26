@@ -1,0 +1,13 @@
+FINK
+CUT[ALLES WAS WIR LIEBEN LEBE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0555  08  A 6/8]
+MEL[-5-6-7  1_1212  3__.  1_0
+    321  -7_-721-6  -5_.
+    -5-6-7  1_1212  3__.  1_0
+    321  -7_-721-6  -5_.
+    2_2  4321_1  1-71
+    2_2  4321_1  1-71
+    -5_1  3_5212  3_.
+    -5_1  3_5232  1_. //] >>
+FCT[Studenten - Lied, Geselligkeit]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die entfuehrte Graserin
+    Es graste eine Jungfrau huebsch und fein]
+CNR[auf einem kleinen Wieselein,]
+REG[Osteuropa, Tschechoslowakei, Boehmen, Deutsch - Gabel]
+SRC[2, S. 147
+    1911 gedruckt]
+KEY[Q0045  16  G 4/4]
+MEL[-5__  1_.11_1_3__5_3_  2__.1_1__
+    2__  3_2_1_-7_-6__-7_1_  -7__-6__-5__
+    -5__  1__1__2__3_5_  2__.1_1__ //] >>
+FCT[Ballade, Pastorelle, Entfuehrung, Tod]

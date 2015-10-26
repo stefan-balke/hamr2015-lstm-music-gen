@@ -1,0 +1,14 @@
+DVA
+CUT[So manchet leewe, lange Johr,
+    hewwt wina See to fohrn]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein, Kiel -
+    Holtenau]
+KEY[D0226  04  C 3/4]
+MEL[ 5  3_4  5_6  5_4#  4_5  +3_+2  6_7  +1_.  ^0
+    5  3_4  5_6  7_+1  7_7  7_4#  6_5  3_.  ^0
+    3  4_5  6_+4  +4_+3  +3_+3  +3_7  +2_+1  6_.  ^0
+    +1  +2_+1  7_6  6_5  +1_5  5_4  7_6  5_.  ^0
+    +3  +3_+2  +3_+4  +4_+3  +1_5  +3_5  +2_5  +1_.  ^0 //] >>
+FCT[Staende - Lied, Seemannslied]
+CMT[moduliert in die Dominanttonart ?; mehrstimmig notiert
+    Inzipit = Variante zum Lied]

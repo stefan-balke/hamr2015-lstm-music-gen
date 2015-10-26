@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Stout ruiter en een mooi fiere maagd,]
+CNR['t was onder den lindeboom dat zij zaten.]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 3
+    1900 gedruckt in Gent]
+KEY[Q2055B 16  G 3/4 2/4]
+MEL[2_(3_3_5_)  3__4__5_.6  5__.
+    3_(4_4_5_)  (6_6_6_)(6_5_6_)  5__3__  0_
+    5_(6_5_6_)  5__5__(5_4_3_)  4__
+    5_.4  (3_2_3_)5_.4  2__1__  0_
+    5_(6_7_+1_)  5__5_.6(5_4_3_)  4__
+    5_.4  (3_2_3_)5_.4  2__1__  0_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Chaotische Takteinteilung. Entsprechend der Originalquelle hier
+    Taktwechsel kodiert. Niederlaendische Fassung der Ballade.]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH STAND AUF HOHEN BERGEN]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Wetzlar; Neuwied]
+KEY[E0089E 08  F 3/4]
+MEL[-5_  1_5_31  2_4_
+    54  3_3_53  2_0_
+    23  466_54  355_
+    3_  2_5_45  3_0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid
+    Ballade ?]

@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Harz, Clausthal, Altenau]
+KEY[E0042L 08 Eb 2/4]
+MEL[12  3333  33
+    21  2-5-5-5  -50
+    23  4444  44
+    65  4333  3_0
+    6  5432  111
+    1  6_6_  5_0
+    6  5432  111
+    3  5_54  3_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

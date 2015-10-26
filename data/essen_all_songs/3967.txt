@@ -1,0 +1,10 @@
+F[ERK3
+CUT[IN BOEHMEN LIEGT EIN STAEDTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Marburg; Lahn - Tal;
+    Schleswig]
+KEY[E1383  16  F 2/4]
+MEL[-5_  -5_.33_3_  3__1_
+    3_  5_.55_6_  5__0_
+    5_  7_.67_6_  6__5_
+    4_  3_5_2_5_  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

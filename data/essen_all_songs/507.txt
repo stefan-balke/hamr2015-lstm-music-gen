@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ALS JUNGFRAU LINNICH NOCH EIN KLEIN MAEDCHEN WAR]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0092  16  D 4/4]
+MEL[-7b_3b_4_  5_6b_7b___6b_6b_  6b5453b__0_
+    -7b_3b_4_  5_6b_7b___6b_6b_  6b5453b__0_
+    5_1_2_  3b_4_5___4__  3b423b1__0_
+    5_1_2_  3b_4_5___4__  3b423b1__0_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[BIN AUF UND ABGANGE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Lahn- u. Dillkreis]
+KEY[E1040  08  G 3/4]
+MEL[-5_  3_.21_  1_-7_
+    1_  2_5_4_  3_0_
+    -5_  3_2_1_  -7_-6_
+    -6-6  -5_4_.-7  1_0_
+    11  2_.32_  3_2_
+    22  2_6_5_  3__
+    12  3_.23_  5_.4
+    32  1-53_2_  1__ //] >>
+FCT[Tanz - Lied]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[EINSTMALS FUHR ICH AUF DER SEE]
+REG[Europa, Mitteleuropa, Deutschland, Jueterbog]
+KEY[E0079A 16 Bb 2/4]
+MEL[-5_  1_-5_-3_-5_  1_3_2_.
+    2  1_-6_-5_1_  21-7-6-5_
+    -5_  1_1_2_2_  3_5_4__
+    3_2_1_32  1_-7_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

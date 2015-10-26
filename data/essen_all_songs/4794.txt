@@ -1,0 +1,10 @@
+DVA
+CUT[Es fliegen zwei Tauben wohl ueber den Rhein,:
+    sie kommen den ganzen Sommer nicht heim.]
+REG[Europa, Mitteleuropa, Lothringen, Weiler]
+KEY[D0035A 08  D 3/4]
+MEL[1_  4_4_5_  4_4_1_  3b_4_3b_  1__
+    1_  5_5_4_  5_5_4_  5_5_4_  5__
+    5_  1_.23b_  4_3b_2_  1_1_-7_  1__ //] >>
+FCT[Liebes - Lied]
+CMT[Variante zu D0035 und D0032]

@@ -1,0 +1,24 @@
+BOEHME
+CUT[WILL SICH HEKTOR EWIG VON MIR WENDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0101  08  C 4/4]
+MEL[-3-4  -5_.-5-5121  1-7-7_0_
+    -71  2_.-7-5-6-5-4  -3-51_0_
+    (-5-6-7)  1_.-6-4#-2-7-6  -5_0__
+    -5-5  -5-72_(21-7)(-7-6-5)  -511_0_
+    -5-5  -5-72_(21-7)(-7-6-5)  -511_0_
+    (-5-6-7)  1_.-3-4-5-6-7  123__
+    1-6  -5_.-3-6-5-4-2  -1_0__ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[WILL SICH HEKTOR EWIG VON MIR WENDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0101  08  C 4/4]
+MEL[-3-4  -5_.-5-5121  1-7-7_0_
+    -71  2_.-7-5-6-5-4  -3-51_0_
+    (-5-6-7)  1_.-6-4#-2-7-6  -5_0__
+    -5-5  -5-72_(21-7)(-7-6-5)  -511_0_
+    -5-5  -5-72_(21-7)(-7-6-5)  -511_0_
+    (-5-6-7)  1_.-3-4-5-6-7  123__
+    1-6  -5_.-3-6-5-4-2  -1_0__ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

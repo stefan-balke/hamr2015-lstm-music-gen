@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Buchsbaum und Felbinger]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0273A 04  G 6/2 4/2]
+MEL[1_  1__1__2_3_  4__4_4__
+    4_  4__4__3_2_  3_2_1_2__
+    2_  -7b__-7_-6__-6_  -5_.-6-7b_1__
+    1_  4_3_2_1_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Finck 1536 No. 46]

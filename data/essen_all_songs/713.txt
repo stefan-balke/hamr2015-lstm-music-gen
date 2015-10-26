@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[SCHAETZCHEN ADE! SCHEIDEN THUT WEH!]
+REG[Europa, Mitteleuropa, Deutschland, Wuerzburg]
+KEY[Z0296  16  G 3/8]
+MEL[3_3_2_  1__.  3_3_2_  1__.
+    3_4_5_  5_4_4_  2_4_4_  4_323_
+    3_3_4_  5__.  3_3_2_  1__. //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

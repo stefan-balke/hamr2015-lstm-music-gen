@@ -1,0 +1,11 @@
+FINK
+CUT[IM GRABE IST RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1038  16  G 2/4]
+MEL[-5_  3__2_2_  1__0_
+    -5_  1__1_1_  3__3_3_  5__4__  3__0_
+    1_  6__6_6_  5_.43_
+    5_  5_4_3_2_  3__0_
+    1_  6__6_6_  5_.43_
+    5_  5_4_3_2_  1__0_ //] >>
+FCT[Trauer -, Bregraebnis -, Trost - Lied]

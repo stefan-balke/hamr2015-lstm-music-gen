@@ -1,0 +1,11 @@
+BOEHME
+CUT[ES LEBE WAS AUF ERDEN STOLZIERT]
+REG[Europa, Mitteleuropa, Deutschland, Wetzlar, Schwalbach]
+KEY[B0590  08  G 6/8]
+MEL[-5  1_13_3  5_.3_
+    1  2_2212  3_.0_
+    -5  4_42_2  5_.65
+    4  3_3232  1_.0_
+    -5  -3_-51_3  5_.65
+    4  3_3232  1_.0_ //] >>
+FCT[Staende -, Jaeger - Lied]

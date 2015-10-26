@@ -1,0 +1,18 @@
+BOEHME
+CUT[ICH LEBTE EINST IM DEUTSCHEN VATERLANDE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[B0170  08  C 4/4]
+MEL[-5-5-5  -3_.-51-7-6-5  -5-4-4_.
+    -4-4-3  -2_.-5-5-5-6-5  -3__0
+    111  -6_.-721-7-6  -6-5-5_.
+    1-5-3  -2_.1-7-5-6-5  -3__0 //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ICH LEBTE EINST IM DEUTSCHEN VATERLANDE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[B0170  08  C 4/4]
+MEL[-5-5-5  -3_.-51-7-6-5  -5-4-4_.
+    -4-4-3  -2_.-5-5-5-6-5  -3__0
+    111  -6_.-721-7-6  -6-5-5_.
+    1-5-3  -2_.1-7-5-6-5  -3__0 //] >>
+FCT[Ballade, Romanze]

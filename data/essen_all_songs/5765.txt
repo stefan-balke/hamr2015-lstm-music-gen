@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Absage]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0214  04  G 4/2]
+MEL[1_  1_1_1_1_  -7b_-7b_-5_
+    -5_  3b_.3b4_3b_  2__1_
+    1_  1_1_1_1_  -7b_-7b_-5_
+    -5_  3b_.3b4_3b_  2__1_
+    1_  3b_.45_3b_  4__1__
+    4_.43b_21  -7b_.12_
+    3b_  4_1_3b_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III. 1552 No. 33.]

@@ -1,0 +1,13 @@
+F[ERK1
+CUT[SCHAUTS AUSSI,WIES REGNT]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[E0605  08  G 3/4]
+MEL[12  3_.33_  4_0_
+    23  4_.44_  5_0_
+    12  3_.33_  4_2_
+    23  4_.44_  3__
+    1_  5_.43_  3_2_
+    2_  6_5_4_  4_3_
+    3_  5_.43_  3_2_
+    2_  6_.54_  3__ //] >>
+FCT[Liebes - Lied, Trost]

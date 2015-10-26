@@ -1,0 +1,9 @@
+FINK
+CUT[IN MORGENROT GEKLEIDET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0335  16  C 6/8]
+MEL[-3_  -3__-5_-5__1_  1__.-5__
+    -5_  -6_.-51_1__-6_  -5___0_
+    -5_  -5__-7_-7__2_  4__.2__
+    2_  3__3_2_3_2_  1___0_ //] >>
+FCT[Jugend - Lied, Tageszeiten, Morgen, religioes]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Es war einmal eine Graefin,]
+CNR[ein wunderschoenes Weib,]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Schwetzingen, Altlussheim]
+SRC[1, S. 203
+    18?? aufgezeichnet (Ende des Jh.)]
+KEY[Q0020E 08  A 4/4]
+MEL[-5_  3_.21_-6-6  -5_.-6-5_
+    -5_  2_-5_2_-5_  3__0_
+    -5_  3_.35_5_  4__-6_
+    -6_  -5_-5-53_2_  1__0_ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[zweistimmig notiert; Oberstimme = Melodiestimme]

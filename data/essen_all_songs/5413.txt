@@ -1,0 +1,10 @@
+KINDER
+CUT[BLAEH SCHAEFCHEN BLAEH]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+KEY[K0259  08  G 2/4]
+MEL[  5_32  1_0
+    5  5432  1_0
+    1  3333  4_4
+    4  2222  5_5
+    5  5432  1_0_ //] >>
+FCT[Kinder -, Kose -, Scherz - Lied]

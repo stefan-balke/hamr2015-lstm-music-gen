@@ -1,0 +1,9 @@
+BOEHME
+CUT[WAS GRAEMST DU DICH]
+REG[Europa, Mitteleuropa, Deutschland, Wetzlar, Hellertshausen]
+KEY[B0499  16  C 4/4]
+MEL[5_6_.5  3__.5_5_3_6_3_  5__4__0_
+    4_+2_+1_  7__.6_5_.26_5_  3___0_
+    5_+1_7_  6__.6_6_6_+2_+1_  +1__7__0_
+    5_5_+1_  7__.6_5_4_6_5_  3___0_ //] >>
+FCT[Abschieds - Lied]

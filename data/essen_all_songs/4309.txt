@@ -1,0 +1,9 @@
+F[ERK3
+CUT[FUCHS BEISS MICH NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1897  16  G 2/4]
+MEL[5_  34321_5_  34321_
+    5_  6_5_4_3_  2_2_2__
+    2_2_-7_-5_  5_5_3_
+    5_  3_1_212-7  1__0_ //] >>
+FCT[Kinder - Lied, Spiel]

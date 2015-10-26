@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Altes Tanzlied der Ostfriesen]
+KEY[A0295  08  G 3/4]
+MEL[5_  5_5_5_  5_6_7_  +1__7_  6__
+    5_  5_.432  1__
+    5_  5_5_5_  5_6_7_  +1__7_  6__
+    5_  5_.432  1__0_
+    2_2_2_  2_3_4_  5_.43_  2__
+    3_  2_.1-7_  1__3_  2_.1-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Cadovius Mueller, Memoriale linguae Frisicae. 1691. Mitgeth.
+    im Osterprogramm des K. Gymnasiums zu Aurich 1867 .]

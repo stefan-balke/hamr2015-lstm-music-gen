@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Rheinschifferlied"
+    DER SCHIFFER AUF DEM BLANKEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Gegend bei Koeln]
+KEY[Z0227  08  A 4/4]
+MEL[-5_  1-7123234  5_543_
+    5_  44553_5_  44553_
+    -5_  1-7123234  5_543_
+    5_  44553_5_  44553_
+    5_  3_5_5_43  4_6_6_
+    54  3_5_5_43  225_.43
+    2  1-7123234  65543_
+    5_  44553_5_  44553_ //] >>
+FCT[Schiffer - Lied]

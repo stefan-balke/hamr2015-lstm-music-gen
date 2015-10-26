@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ISCH DAT NIT AEN ELAENDS LAEWE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass; Schweiz]
+KEY[E1546  08  F 4/4]
+MEL[  1_2_3_43  2_321_-5_
+    3_.45_65  4_543_0_
+    1_2_3_43  2_321_-5_
+    3_.45_65  4_543_0_
+    5_656_5_  5_656_5_
+    5_656_5_  5_656_5_
+    5_.43_1_  2_.31_0_ //] >>
+FCT[Staende -, Bauern - Lied, Klage]

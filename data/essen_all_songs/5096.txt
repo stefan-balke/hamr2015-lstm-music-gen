@@ -1,0 +1,11 @@
+BOEHME
+CUT[WER HAT DIE SCHOENSTEN SCHAEFCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0635  08  G 2/4]
+MEL[-5  1332  211
+    1  3153  2_0
+    1  5555  5_3_
+    +1_6_  5_3
+    5  421-7  135
+    3  421-7  1_0 //] >>
+FCT[Kinder -, Tageszeiten - Lied, Abend]

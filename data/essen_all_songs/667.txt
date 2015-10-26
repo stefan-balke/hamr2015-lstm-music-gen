@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[WENN DIE HOFFNUNG NICHT WAER, SO LEBT ICH NICHT MEHR]
+REG[Europa, Mitteleuropa, Deutschland, Ulm]
+KEY[Z0251  08  F 3/4]
+MEL[35  +1_5_3_  1__
+    3_  4_2_5_  1_0_
+    12  3_3_4_  5__
+    5_  6_654#_  5_0_
+    55  3_1_2_  3__
+    22  3_3_5_  4#__
+    12  3_3_4_  5__
+    33  4_2_-7_  1__ //] >>
+FCT[lyrisches Lied, Romanze]

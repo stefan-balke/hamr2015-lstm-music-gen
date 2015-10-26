@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Lindenschmid]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0377A 04  A 4/2 6/2]
+MEL[1_  1_1_-7b_-7b_  3b_2_3b__  0_
+    3b_3b_3b_  4_3b_1_2_  1__0_
+    4_  4__4_4__3b_  -7b_.12_-7b_0_
+    2_  3b__4_5__4_  3b__2_3b__0_
+    5_5_5_4__3b_  2__1__. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Fliegendes Blatt von 1546.]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Griend'r Moaie, lei ber di truget,]
+CNR[Morio, hohl ein in dos Toar?]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 268
+    ????]
+KEY[Q1051K 08  G FREI]
+MEL[1_12  3b2123b_3b_2_1_  -7b__.0_
+    1_12  3b21_21-7b_  1__ //] >>
+FCT[Sonnwend - Lied, Brauchtum]
+CMT[Melodievergleich zu Q0051A, anderes Lied. Taktart in "FREI" geaendert.
+    Zweite Zeile = Refrain.]

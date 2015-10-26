@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Die Koenigskinder
+    Ack Elschen Liber Bulle Meinn]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 219
+    1613 Handschrift]
+KEY[Q0020L 16  G 3/8]
+MEL[5_  5__4_  3__2_  3_.21_  2__3_  4__
+    4_  3__5_  5_.43_  2__0_  0__
+    2_  5__4_  3__2_  3_.21_  2__3_  4__
+    4_  3__5_  5_.43_  2__0_  0__
+    2_  2__2_  2__2_  2__2_  2__
+    2_  3_.21_  2_.12_  1__1_  1__ //] >>
+FCT[Ballade, Liebe, Trennung, Tod]
+CMT[Unklare Notation bei der Wiederholung (korrigiert !)
+    Die"Elslein"-Melodie wird in direkten Zusammenhang zur Balladengruppe
+    gestellt.]

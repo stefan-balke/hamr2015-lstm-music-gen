@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Mudra Magdalena]
+CNR[dauku zamus zasla.]
+REG[Suedosteuropa, Jugoslawien]
+SRC[5, S. 86
+    ????]
+KEY[Q3095I 08  G 3/4]
+MEL[  321_3_  422__
+    432_4_  3_31_. //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0095, anderes Lied. Vollstaendig ?]

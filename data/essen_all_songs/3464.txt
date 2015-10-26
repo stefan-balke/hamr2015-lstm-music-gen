@@ -1,0 +1,9 @@
+F[ERK2
+CUT[MIT  LUST TRITT ICH AN DIESEN TANZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0932  08  F 4/4]
+MEL[1  5_5_6_5_  5_4_3_0
+    4  5_5_5_4_  3_2_1_0
+    1  1_2_3_.2  1_2_3_0
+    5  5_5_5_.4  3_2_1_0 //] >>
+FCT[Tanz - Lied, Reigen]

@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Bierlied"
+    SCHWARZ IST DIE TRAUER BITTER DER TOD]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z1319  08 Eb 3/4]
+MEL[5_55+15  3_336_
+    4_4442  1-7123_
+    1_111_  3_555_
+    4_444_  32123_
+    1_111_  3_555_
+    4_432_  1__0_ //] >>
+FCT[Zech -, Schalks - Lied]

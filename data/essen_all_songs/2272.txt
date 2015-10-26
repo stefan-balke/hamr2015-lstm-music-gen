@@ -1,0 +1,9 @@
+FINK
+CUT[UND SO FINDEN WIR UNS WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0691  08  A 4/4]
+MEL[-3-5  1_.-52_.-5  3_1_
+    3_.2  2_2_2_34#  5__0_
+    -5-7  2_.-54_.3  2_2_
+    6_.5  5+1351_21  1__0_ //] >>
+FCT[Geselligkeits  - Lied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Geburt im Grabe
+    Nun Last uns wunder Hoeren,]
+CNR[wie gott uns Zu bekehren]
+REG[Mitteleuropa, Deutschland (Text: Pommern)]
+SRC[5, S. 217
+    1647 gedruckt]
+KEY[Q0109  04  F FREI]
+MEL[1_1_-7-6_12_1_
+    1_1_2-7_-51_-7_
+    -7_1_12_32_2_
+    3_4_32_12_1_ //] >>
+FCT[Ballade, Schein - Tod, Geburt, Grab, Auferstehen; geistlich;
+    Zeitungs - Lied]
+CMT[Tonangabe des Chorals "Nun lasst uns Gott dem Herren" .]

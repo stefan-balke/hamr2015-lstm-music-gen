@@ -1,0 +1,12 @@
+BOEHME
+CUT[RUNDGESANG UND GERSTENSAFT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0556  16 Bb 2/4]
+MEL[  -5_.-6-5_-4_  -3_-5_1__
+    2_2_-7_-5_  -5_3_1__
+    -5_.-6-5_-4_  -3_-5_1__
+    2_2_-7_-5_  -5_3_1__
+    2_2_5_5_  3_3_1__
+    2_2_-7_-5_  -5_3_1_3_  2__-7_
+    -5_  -5_3_1__  2_2_5_5_  1__0__ //] >>
+FCT[Studenten -, Trink - Lied, Rund - Gesang]

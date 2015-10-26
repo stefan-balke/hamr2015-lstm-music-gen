@@ -1,0 +1,11 @@
+F[ERK2
+CUT[UND DU GLAUBST DU WAERST DIE SCHOENSTE]
+REG[Europa, Mitteleuropa, Deutschland, Niederreifenberg]
+KEY[E0657  16  A 3/4]
+MEL[-5_-7_  1_-5_-5__-6_-7_  1_-5_-5__
+    1_3_  2__.2_1_-6_  -5__0_
+    -5_-5_-5_  4_3_2_1_-7_-6_  -6_-5_1_
+    -5_-5_-5_  3__.3_2432  1__0_
+    -5_-5_-5_  4_3_2_1_-7_-6_  -6_-5_1_
+    -5_-5_-5_  3__.3_2432  1__0__ //] >>
+FCT[Liebes - Lied]

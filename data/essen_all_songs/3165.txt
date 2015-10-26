@@ -1,0 +1,11 @@
+F[ERK2
+CUT[MAEDCHEN GEH DU NUR HEIM]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0633  08 Eb 3/4]
+MEL[  -1_-3_-5_  1_-7-6-5_
+    -6_-4_1-6  -5_.-4-3_
+    -5-5-4-4-2-2  -6-6-5-5-3-3
+    -5-5-4-4-2-2  -6-6-5-5-3-3
+    -1_-3_-5_  3__.
+    2_4_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

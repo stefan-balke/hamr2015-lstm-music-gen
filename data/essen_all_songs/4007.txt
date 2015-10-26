@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SCHOENSTER SCHATZ THU MIR ERLAUBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter- Lahn- und Dillkreis]
+KEY[E1428  08  G 4/4]
+MEL[-5-5  1_-5_1_3_  2_.-7-5_
+    -5-7  2_466_54  3__0_
+    11  4_6_+1_76  5_.35_
+    65  4_-5_3_2_  1__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe]

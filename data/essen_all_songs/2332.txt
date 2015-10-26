@@ -1,0 +1,9 @@
+FINK
+CUT[LEISE ZIEHT DURCH MEIN GEMUETH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0836  08  D 2/4]
+MEL[  5353  456_
+    +17+17  5_30
+    631#3  634_
+    567+1  +3_+2_  +1_0_ //] >>
+FCT[Romanze]

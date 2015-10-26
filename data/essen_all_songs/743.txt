@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Ottilie"
+    ODILIA BLIND GEBOREN WAR]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1008  08  G 4/4]
+MEL[-5_  1_332_54  3_231_0
+    3  2_21-7121  -7_-6-6-5_0
+    -5  1_112_2_  5__4_
+    3_  2___  1_0__ //] >>
+FCT[Romanze, Ballade, Sage]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Schloss in Oesterreich
+    Is leyt eyn schlos eyn ostirreich,]
+CNR[ganz wol ist es gebauet]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 250
+    1480 Handschrift (ca.)]
+KEY[Q0024  16  F FREI]
+MEL[1__  1___3___3___1__  3___4__5___
+    1__  5___5__5___3__  4___5__3____
+    1__  4___4__4___5__  2___2__2___0__
+    2__  5___5___3__1__3___  5__.432___2__  3__.2_1__.-7_-7_-6_  1____ //] >>
+FCT[Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung]
+CMT[Refrainartiges Anhaengsel an der letzten Zeile.]

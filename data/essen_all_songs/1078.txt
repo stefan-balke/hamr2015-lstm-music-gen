@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Lilliput"
+    KLOAN BIN I KLOAN BLAIB I]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1344  08  G 3/4]
+MEL[-5_  -511_.-7  -6+4+4_.
+    +2  +17654-7  1_3-5
+    1_  -511_.-7  -6+4+4_.
+    +2  +17654-7  1__ //] >>
+FCT[Zech -, Schalks - Lied]

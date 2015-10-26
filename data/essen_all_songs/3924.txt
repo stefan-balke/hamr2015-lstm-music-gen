@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HOLDE NACHT DEIN DUNKLER SCHLEIER]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[E1342  08  G 4/4]
+MEL[-5-5  1_.11121  1-7-7_0_
+    -5-5  1_.11353  3_2_0_
+    -5-5  4_.44454  433_0_
+    1-7  -6_.45432  2_1_0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

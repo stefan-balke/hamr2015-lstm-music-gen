@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES STEHEN DREI STERNE AM HIMMEL]
+REG[Europa, Mitteleuropa, Elsass]
+KEY[Z0015  16  G 6/8]
+MEL[-5_  1_-5_1_3_1_3_  5_.6543_0_
+    34  5_.65_5_4_4_  3__.0__
+    34  5_3_5_6_5_4_  3__.2_0__
+    3__.4_5_6_  5_.6543__
+    4_  5_.65_5_4_4_  3__.0__ //] >>
+FCT[Sagen - Lied, Romanze, falsche Liebe, Tod]

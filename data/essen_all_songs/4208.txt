@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WENN DER TOPP ABER NUN  A LOCH HAT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1741  08  D 3/4]
+MEL[55  654342  1_3_
+    33  5_4_42  6_5_
+    55  654342  1_3_
+    31  5__55  1__ //] >>
+FCT[Scherz -, Spiel - Lied]

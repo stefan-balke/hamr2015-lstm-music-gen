@@ -1,0 +1,9 @@
+F[ERK2
+CUT[MIR GEFAELLT DAS EHSTANDSLEBEN BESSER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Bergstrasse]
+KEY[E0868  16  G 2/4 3/4]
+MEL[  1__-5__  -6_1_-7_1_  2_.32__  1__2__
+    3_5654323_1_  -6__-7__  1__0__
+    3__5__4_4_  2_.1-7_1_2__
+    1__2__  3_5654323_1_  -6__-7__  1__0__ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

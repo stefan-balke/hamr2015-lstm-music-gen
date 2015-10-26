@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Kennscht du Neashe 'sheshleine Shmolz,]
+CNR[hei, hei, hopsasa.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Verdreng]
+SRC[2, S. 136
+    1911 aufgezeichnet]
+KEY[Q0042I 08  G 2/4]
+MEL[  1_1_  3_3_  222_  1_-5_
+    1__  3__  2_2_  1__ //] >>
+FCT[Ballade, Braut - Werbung, Betrug; Schwank, burlesk]
+CMT[Zweite Zeile = Refrain.]

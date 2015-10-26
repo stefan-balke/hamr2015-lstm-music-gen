@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Bergen]
+CNR[und sah ins tiefe Thal,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg an der Havel]
+SRC[8, S. 36
+    1847 aufgezeichnet]
+KEY[Q0155F 08  C 4/4]
+MEL[1_  5_.+15342  3__2_
+    2_  3_6_5_4#_  5__0_
+    5_  +1_+1_7_5_  6__5_0_  4__3_
+    5_  6_4_3_2_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe]
+CMT[Anhaengsel an der dritten Zeile.]

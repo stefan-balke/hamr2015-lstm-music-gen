@@ -1,0 +1,8 @@
+KINDER
+CUT[KINNE WIPPCHEN ROTHE LIPPCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[K0150  16  G 3/8]
+MEL[-5-5  1_1_-5-5  1_1_
+    -5-5  1_1_-5-5  1_1_0_
+    5_3_1_  -5_-5_ //] >>
+FCT[Kinder -, Kose -, Scherz - Lied]

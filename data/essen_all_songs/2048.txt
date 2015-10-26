@@ -1,0 +1,11 @@
+FINK
+CUT[THAELCHEN SANFT DICH NEIGEND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0296  16  E 2/4]
+MEL[  5_5_5_2_  3_1_1_0_
+    5_5_5_2_  3_1_1_0_
+    2_2_3453  2__.0_
+    4_4_2_2_  5__3__
+    4_4_2_2_  5__.3_
+    1_2_342_  1__.0_ //] >>
+FCT[Jugend - Lied, Belehrung, Moral; Natur]

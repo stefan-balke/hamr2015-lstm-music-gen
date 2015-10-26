@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES STEHT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Tantow, Rosow]
+KEY[E0061G 08  D 3/4]
+MEL[1  135_42  133_2
+    1  135_43  3_2_0
+    5  5+3+37+13  3+2+2_0
+    +1  76546-7  2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der verkleidete Markgrafensohn
+    Es war eins jungen Markgrafen Sohn,]
+CNR[der freit' um des Koenigs sein' Tochter, ja Tochter.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grabig]
+SRC[1, S. 51
+    1841 aufgezeichnet (entstanden nach 1750 ?)]
+KEY[Q0006A 16  C 2/4]
+MEL[-5_  1_-3_-5_-5_  1_-3-3-5_
+    -5_  1_112_12  1_3_2_2_  -5_-7_1_ //] >>
+FCT[Ballade, Braut - Werbung]
+CMT[Grundton in der zweigestrichenen Oktave, Anhaengsel an der
+    zweiten Zeile. Kleinere Melodievarianten aus anderen Quellen
+    abgedruckt.]

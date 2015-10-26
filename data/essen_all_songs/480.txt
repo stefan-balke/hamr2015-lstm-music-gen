@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[PRINZ EUGEN DER EDLE RITTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0066  08  A 5/4        %3+2%]
+MEL[  -5-51112330_
+    123_5_5443
+    2123432_5_
+    543_5_5443
+    212_4_4332
+    1-51_3_443_ //] >>
+FCT[Sagen - Lied, Romanze]

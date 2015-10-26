@@ -1,0 +1,22 @@
+BOEHME
+CUT[MAEDELS SAGT ES LAUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0447  16  C 2/4]
+MEL[  1_1_1_1_  3__1_0_
+    -6_-6_-7_-7_  2__1_0_
+    3_3_3_3_  2_.-7-5_0_
+    1_1_1_1_  1_.-7-7__
+    1_1_1_-5_  -5#__-6_0_
+    -5_1_321-7  1__0__ //] >>
+FCT[Liebes - Ehestands - Lied]
+BOEHME
+CUT[MAEDELS SAGT ES LAUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0447  16  C 2/4]
+MEL[  1_1_1_1_  3__1_0_
+    -6_-6_-7_-7_  2__1_0_
+    3_3_3_3_  2_.-7-5_0_
+    1_1_1_1_  1_.-7-7__
+    1_1_1_-5_  -5#__-6_0_
+    -5_1_321-7  1__0__ //] >>
+FCT[Liebes - Ehestands - Lied]

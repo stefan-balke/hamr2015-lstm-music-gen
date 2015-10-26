@@ -1,0 +1,13 @@
+BOEHME
+CUT[ES IST SO STILL GEWORDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0755  08 Ab 4/4]
+MEL[-5_  1_-7_1_2_  -7_.-6-5_
+    2_  3_2_1_-7-6  -5__0_
+    -5_  1_-7_1_2_  -7_.-6-5_
+    2_  3_2_1_-7-6  -5__0_
+    5_  4_3_2_1_  4_.32_
+    3_  4_.32_1_  2__0_
+    -5_  1_2_3_4_  5_432_
+    4_  3_2_1_-7_  1__0_ //] >>
+FCT[Tageszeiten - Lied, Abend, religioes]

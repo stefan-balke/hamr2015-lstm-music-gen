@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[SO GEHT ES IN SCHNUETZELPUTZ HAEUSEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0122  08  C 6/8]
+MEL[1  1-7b-6-6-5-6  -7b_-6-5_
+    1  1-7b-6-6-5-6  -7b_-6-5_
+    1  1-6-42-7b-5  -6_-5-4_
+    -5  -5-6-7123  2343_
+    -5  -5-6-7123  2343_
+    3  31-642-7  -6_.-7_.  1_.1_ //] >>
+FCT[Erzaehlung, lustige Romanze, Unsinns - Verse]

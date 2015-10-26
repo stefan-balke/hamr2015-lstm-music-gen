@@ -1,0 +1,22 @@
+BOEHME
+CUT[WEIT IN NEBELGRAUER FERNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0454  08  D 4/4]
+MEL[-3_-4_  -5_-6-721-7-6  -5-4-3_
+    -2_-1#_  -2_-3_-4-5-6-1  -1_--7_
+    -5_-5_  -53211-7-6-5  -5-4-3_
+    -2_-2_  -2-3-4#-5-6-7b-3-4#  -5_0_
+    -5_-5_  1_-7-6b-6b-5-5-4  -4_-3_
+    -4_-5_  -6-712342-7  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[WEIT IN NEBELGRAUER FERNE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0454  08  D 4/4]
+MEL[-3_-4_  -5_-6-721-7-6  -5-4-3_
+    -2_-1#_  -2_-3_-4-5-6-1  -1_--7_
+    -5_-5_  -53211-7-6-5  -5-4-3_
+    -2_-2_  -2-3-4#-5-6-7b-3-4#  -5_0_
+    -5_-5_  1_-7-6b-6b-5-5-4  -4_-3_
+    -4_-5_  -6-712342-7  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

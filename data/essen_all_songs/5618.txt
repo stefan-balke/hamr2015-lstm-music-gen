@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Das Schloss in Oesterreich]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0027B 04  F 3/2]
+MEL[1_1_2_  3__4_  5__3_  1__.
+    1_3_4_  5__2_  1_.-7-6_  -5__.
+    5_5_5_  6__5_  5__4_  3__.
+    6_5_2_  3__1_  -7_1_2_  3_.12_  1__. //] >>
+CMT[Werlin 1646 S. 1754]

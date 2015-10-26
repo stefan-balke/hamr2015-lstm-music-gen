@@ -1,0 +1,13 @@
+FINK
+CUT[BRUEDER LAGERT EUCH IM KREISE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0475  08 Bb 3/4]
+MEL[  -5_1_1_  1_-6_-6_  4_2_-7_  211__
+    -5_1_1_  1_-6_-6_  4_321-7  211__
+    3_.153  322__
+    1_.321  1-7-7__
+    -6_.-71-6  -5_4_3_  2_1_-7_  1__0_
+    3_.153  322__
+    1_.321  1-7-7__
+    -6_.-71-6  -5_4_3_  2_1_-7_  1__0_ //] >>
+FCT[Studenten -, Burschenschafts - Lied]

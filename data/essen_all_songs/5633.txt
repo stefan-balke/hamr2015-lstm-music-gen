@@ -1,0 +1,18 @@
+ALTDEU
+CUT[Frau Fischerin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0045  02  D 3/1]
+MEL[     +1_+1_+1_  +3b_.+2+1_  +2_+3b__  +4__
+    +4_  +3b_+2_+1_  7_+1__  +2__.
+    +1_+1_+1_  +3b_.+2+1_  +2_+3b__  +4__
+    +4_  +3b_+2_+1_  7_+1__  +2__
+    +1_  +1__+1_  6b__6b_  7b__6b_  5__
+    5_  6b_6b_7b_  +1_.7b6b_  5_+1__  7b__
+    +1_  7b_.6b5_  6b_4__  3b__
+    +1_  +1__+1_  6b__6b_  7b__6b_  5__
+    5_  6b_6b_7b_  +1_.7b6b_  5_+1__  7b__
+    +1_  7b_.6b5_  6b_4__  3b__
+    6b_  5_.43b_  4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie von Boehme aus drei Fragmenten zusammengesetzt: Schmeltzel
+    1544 Quodlibet 2 und 19.]

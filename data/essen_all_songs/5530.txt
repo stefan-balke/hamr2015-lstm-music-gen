@@ -1,0 +1,9 @@
+KINDER
+CUT[LANGE LANGE LISE]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[K2263  08  C 2/4]
+MEL[  5566  5_3_
+    5566  5_3_
+    5555  7_7
+    6  5542  1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

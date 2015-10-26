@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    Keljetek fel, pasztorok, pasztorok,]
+CNR[kik juhoknal alusztok!]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 281
+    1953 gedruckt in Budapest]
+KEY[Q3115H 08  G 2/4]
+MEL[  1355  665_  665_
+    5354  321_ //] >>
+FCT[Hirten - Lied]
+CMT[Melodievergleich zu Q0115E, anderes Lied.]

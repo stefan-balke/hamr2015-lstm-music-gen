@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Da Bauer hat ein Toechterlein,]
+CNR[ka schoenere kann's auf der Welt nimmer sein,]
+REG[Mitteleuropa, Oesterreich, Salzburg, am Mondsee]
+SRC[2, S. 254
+    1886 aufgezeichnet]
+KEY[Q0051  04  A 6/4]
+MEL[-5  1_11-71  3_332
+    1  -7-7-721-7  1111_
+    1  111123  21-71_ //] >>
+FCT[Ballade, Hochzeit, Tod]
+CMT[Zweistimmig notiert. Unterstimme kodiert.]

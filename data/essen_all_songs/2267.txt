@@ -1,0 +1,10 @@
+FINK
+CUT[VATER ICH RUFE DICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0678  16  F 4/4]
+MEL[  3__3_3_5__.5_  1___.0__
+    3__3_.33__3_.3  3__4#_.5#6__-6_0_
+    5__5_.55__5_.5  5__6_.7+1__1_
+    1_  3__3_.34__4_4_  4#__.4#_5__0__
+    +1__3_4_5__.-7_  1___0___ //] >>
+FCT[Soldaten -, Kriegs - Lied; religioes, Gebet]

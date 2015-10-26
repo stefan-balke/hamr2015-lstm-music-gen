@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es wollt ein Maedchen grasen gehn]
+CNR[wohl in den gruenen Klee.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kreis Forbach]
+SRC[7, S. 130
+    1935 aufgezeichnet]
+KEY[Q0149A 08  G 3/4]
+MEL[-51  1__1_  1_2_3_  2__-7_  -5__
+    -5_  1__1_  1_2_3_  2__
+    23  4_6_6_  6_5_4_  3__5_  5_4_
+    3_  2__5_  5_5_4_  3__
+    23  4_6_6_  6_5_4_  3__5_  5_4_
+    3_  2__5_  5_5_4_  3__ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

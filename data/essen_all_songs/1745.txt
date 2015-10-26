@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Es wollt' ein Muellner in Walde fahren,]
+CNR[er wollt' sich den Wagen voll Scheiten laden.]
+REG[Osteuropa, Tschechoslowakei, Dt. Proben, Sprachinsel Kremnitz, Gaidel]
+SRC[4, S. 321
+    1930 aufgezeichnet]
+KEY[Q0086B 08  D 5/4        %3+2%]
+MEL[1_3_3_  2__115_5_  4_2_
+    1_5_33  2__113_2_  2__ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]
+CMT[Verzierung (Glissando) in der ersten Zeile.]

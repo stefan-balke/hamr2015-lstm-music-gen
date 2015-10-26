@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Geistliches Lied ueber Psalm 43]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0638B 02  G 4/2]
+MEL[1  1_3b_  2_5_  4_3b_  2_0
+    1  1_5_  4_5_  1_23b  4_0
+    2  3b_5_  4_3b_  2_0
+    1  3b3b44  553b
+    5  43b45  3b_2_  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Baseler Tenor 1570]

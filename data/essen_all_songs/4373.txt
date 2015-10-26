@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES SUNGEN DREI ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E2031C 08  F 3/4]
+MEL[13  5_.654  3_2_
+    1_  5_.43_  2__
+    12  3_352_  1_-5_
+    13  5_.32_  1__ //] >>
+FCT[geistlich, Wallfahrts - Lied]

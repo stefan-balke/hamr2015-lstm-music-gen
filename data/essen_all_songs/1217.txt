@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Todesbraut
+    ohne Text]
+REG[Suedosteuropa, Jugoslawien, Slovenien]
+SRC[2, S. 240
+    1839 gedruckt in Zagreb]
+KEY[Q2049M 08  G 6/8]
+MEL[5  3_56_5  5430_
+    5  3_56_5  5430
+    42  1_35_3  3210
+    42  1_35_3  2_.1_ //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]
+CMT[Slovenische Fassung der Ballade.]

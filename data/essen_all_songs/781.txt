@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Gunhilde"
+    GUNHILDE LEBT' GAR STILLE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1046  16  G 2/4]
+MEL[-5_  3_.32_.2  1_11-7_
+    -5_  1_1_2_2_  3__0_
+    3_  3_433_6_  6_543_
+    2_  1_-7-6-7_1_  -6__0_
+    3_  3_433_6_  6_543_
+    2_  1_-7-6-7_1_  -6__0_ //] >>
+FCT[Romanze, Ballade]
+CMT[Modulation]

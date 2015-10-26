@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielt' ein Markgraf mit einer schoenen Dam',]
+CNR[sie spielten beide miteinander,]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen - Anhalt, Altmark]
+SRC[3, S. 63
+    1879 gedruckt in Magdeburg]
+KEY[Q0055h 08  F 4/4]
+MEL[1_  3_3_3222  11335_
+    3_  5_5_55+1+1  3_2_4_
+    2_  1_1_3344  5_3_1_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]

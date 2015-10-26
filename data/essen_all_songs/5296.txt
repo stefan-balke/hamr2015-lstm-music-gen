@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Einst stand ich auf hohen Felsen]
+CNR[und sah ins tiefe Tal,]
+REG[Mitteleuropa, Oesterreich, Niederoesterreich, Goggendorf]
+SRC[8, S. 56
+    1910 aufgezeichnet (ca.)]
+KEY[Q0155M 16 Bb 6/8]
+MEL[5_  5_.33_3_2_3_  4_4_0__.
+    6_  6__4_4_5_6_  5__.0__
+    5_  5_.33_3_.23_  4__6_6__
+    6_  5_6_5_4__4_  3__0__. //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage, Tod]
+CMT[Grundton taucht nicht auf ! Grundton in der eingestrichenen Oktave.]

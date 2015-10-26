@@ -1,0 +1,14 @@
+KINDER
+CUT[GUTEN ABEND HERR SPIELMANN]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2167  16  G 2/4]
+MEL[55  5__3_5_  5__3_
+    35  4__2_4_  3__0_
+    55  5__3_5_  5__3_
+    35  4__2_4_  3__0_
+    3_  4__4_2_  4__4_
+    2_  4__4_46  2__6_
+    3_  4__4_2_  5__5__
+    5__6_7_  +1__0__
+    5_555_5_  +1__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

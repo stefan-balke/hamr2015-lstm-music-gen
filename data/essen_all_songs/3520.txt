@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+CNR[drei Meilen ueber die Strasse.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Walscheid]
+SRC[5, S. 1
+    1933 aufgezeichnet]
+KEY[Q0089A 08  G 4/4]
+MEL[-5  -5_.11_1_  -7b_123b_
+    2_  1_1_222_  -5_1_-7b_0
+    -5  2_.3b4424  3b23b21_
+    1_  -5_-6_-7b_1_  3b21-71_0 //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]

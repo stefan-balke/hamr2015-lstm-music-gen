@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Hammerschmiedssohn
+    Susannchen sprang zum Thor hinaus,]
+CNR[Susannchen sprang zum Thor hinaus,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen - Darmstadt, Schlierbach]
+SRC[4, S. 358
+    1894 gedruckt in Leipzig]
+KEY[Q0088E 08  C 4/4]
+MEL[5_  +1_.+1+1_+1_  +3_.+2+1_0_  0__
+    +3__  +2__+1__  7__6__  5_.65_
+    4_  3_5_3_5_  +3_.+2+1_
+    +1_  +2__7__  +1__0_ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft, Mord]
+CMT[Pause am Ende der 2. Zeile ergaenzt (siehe auch zweiten Druck der
+    Melodie auf S. 360) .]

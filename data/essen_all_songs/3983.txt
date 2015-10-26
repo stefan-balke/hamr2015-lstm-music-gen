@@ -1,0 +1,10 @@
+F[ERK3
+CUT[EDLE FREIHEIT DU MEIN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E1400  08  G 4/4]
+MEL[-5-5  1_-5_1353  322_0_
+    32  1_-7-6-5_-6-7  1__0_
+    -5-5  1_-5_1_3_  322_0_
+    34  5_3_4_2_  35465_
+    34  5_3_4_54  3_0__ //] >>
+FCT[Staende -, Soldaten - Lied, Klage]

@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WILLST DU MEINEN WILHELM HABN]
+REG[Europa, Mitteleuropa, Deutschland, Mark, Luckenwalde; Jueterbogk]
+KEY[E0991  08 Bb 2/4]
+MEL[  -5111  -72-5_
+    -5444  351_
+    1355  423_
+    1122  -7-71_ //] >>
+FCT[Tanz - Lied, Reigen]

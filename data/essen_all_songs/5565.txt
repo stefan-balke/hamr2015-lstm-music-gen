@@ -1,0 +1,9 @@
+KINDER
+CUT[WO BIST DU DENN GEWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Saarland]
+KEY[K2444A 08  G 3/4]
+MEL[55  5_3_33  3_1_
+    1_  -7_2_6_  6_5_
+    55  5_3_33  3_1_
+    3_  4_3_2_  1_0_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

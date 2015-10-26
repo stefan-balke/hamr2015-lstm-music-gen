@@ -1,0 +1,9 @@
+F[ERK2
+CUT[STEHE ICH AM EISENGITTER]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig Holstein; Hannover]
+KEY[E0727  08  F 2/4]
+MEL[  3_.3  21-71  2440
+    4_.4  3452  3_0_
+    5_.3  +1765  2660
+    5_.5  6542  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

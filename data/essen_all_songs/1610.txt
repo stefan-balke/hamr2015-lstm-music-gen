@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war ein Pfalzgraf wohl ueber dem Rhein,]
+CNR[der hatte drei stolze Toechterlein.]
+REG[Mitteleuropa, Deutschland (BRD) , Saarland, Kreis Merzig]
+SRC[4, S. 111
+    ????]
+KEY[Q0075W 08  F FREI]
+MEL[3_3_3_  5__4_4_3_.33_  2__0
+    2_223_  4__3_2_.1  1_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

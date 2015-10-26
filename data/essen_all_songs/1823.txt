@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Lieber ins Wasser
+    Es sassen zwei Knaben beim roten, kuehlen Wein;]
+CNR[sie assen, sie tranken, sie wollten wandern]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
+    Weiler]
+SRC[6, S. 160
+    1931 aufgezeichnet]
+KEY[Q0132A 16  E 6/4]
+MEL[1__3b__3b__4__  5__5__4__3b__.4_5_4_  4___
+    1__3b__3b__4__  5__5__4__3b___1__  2b__1__
+    1__2b___1__  4___3b__4___3b_.2b  1___.-7b___0__  0___ //] >>
+FCT[Ballade, Noetigung, Flucht]
+CMT[Schlusspause ergaenzt.]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es war ein reicher Schlaechtersmann]
+CNR[zu Kolberg an Grunheide,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Birkenwerder]
+SRC[6, S. 107
+    1841 aufgezeichnet (vor)]
+KEY[Q0127F 08  G 4/4]
+MEL[12  3b43b21_23b  4543b2_
+    4_  5_5_1_4_  3b_2_1_
+    1_  5_.45_6b_  4_.3b4_
+    5_  3b_2_3b_5_  4_3b_2_
+    12  3b43b21_23b  4543b2_
+    4_  5_5_1_4_  3b_2_1_ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

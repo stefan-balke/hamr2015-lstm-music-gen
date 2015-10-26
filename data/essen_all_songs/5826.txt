@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ringeltanz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0284  04  G 3/2]
+MEL[1_  5__7b_  6__5_  4_2_3_  1__
+    1_  5__7b_  6__5_  4_2_3_  1__
+    1_  2_.34_  5__5_  4__2_  1__1_  -5_.-6-7_  1__
+    1_  2_.34_  5__5_  4__2_  1__1_  -5_.-6-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Geistliche Ringeltentze 1550 "Der 23. Psalm..."]

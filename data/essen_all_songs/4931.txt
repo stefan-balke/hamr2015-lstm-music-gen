@@ -1,0 +1,11 @@
+DVA
+CUT[Muede kehrt ein Wanderer zurueck
+    nach der Heimat wendet er sein Blick]
+REG[Europa, Mitteleuropa, Deutschland, ???, Walensee, Oberterzen]
+KEY[D1003  08  G 4/4]
+MEL[-5-5  3_.21-712  -5_0__
+    -71  2_.1-7265  3_0__
+    -5-5  3_.54321  4_0_.
+    446  5_.11_1_  3_2_1_ //] >>
+FCT[Liebes - Lied]
+CMT[DVA-Signatur A 21 144]

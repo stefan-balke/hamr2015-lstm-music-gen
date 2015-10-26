@@ -1,0 +1,17 @@
+DVA
+CUT[D' Baarnertracht
+    Vom Himmel aba chunt a Staern,]
+CNR[er nimmt sy Waeg grad gaege Baern]
+REG[Europa, Mitteleuropa, Schweiz, Bern]
+KEY[D0103  16  F 4/4 3/4]
+MEL[3_2_  1_1_1_-5_1__2__  3___0__
+    3_2_  1_1_1_-5_1__2__  3___0__
+    1_2_  3_3_5__.3_4_3_  2___-5__
+    1_2_  3_3_5__.3_4_3_  2___-5__
+    3__  5__.3_(6_.54_)3_2_  3___0__
+    3__  1__2__3__4#__  5___-5__
+    1_3_  5__.6_5_4_  3__.2_1__  2___3__  1___
+    1_3_  5__.6_5_4_  3__.2_1__  2___3__  1___0__ //] >>
+FCT[Jodel - Lied, Heimat - Lied, Liebes - Lied]
+CMT[Siebentonskala (Ionisch mit Auslassung und Modulation in
+    die Dominanttonart) ; Inzipit = Variante zum Lied]

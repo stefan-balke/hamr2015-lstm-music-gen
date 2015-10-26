@@ -1,0 +1,10 @@
+F[ERK3
+CUT[EN GROFSMID SAT IN GODER ROO]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+KEY[E1698  16  G 2/4]
+MEL[-5_  -5_-5_-5_1_  -7_-6_-5_
+    -5_  1_5_3_3_  3_2_2_
+    2_  3_1_-5_3_  2_-7_-5_
+    -5_  1_.-71_3_  5__.
+    4_  3_3_2_2_  1__. //] >>
+FCT[Staende -, Studenten - Lied]

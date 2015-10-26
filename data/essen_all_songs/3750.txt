@@ -1,0 +1,11 @@
+F[ERK3
+CUT[LASS DOCH MEINE JUGEND]
+REG[opa, Mitteleuropa, Deutschland, Bayern]
+KEY[E1023  08  G 3/4]
+MEL[  1_3_33  3_5_
+    11  2_4_-7_  2_1_0_
+    2_-7_5_  21-7-6-5_
+    2_-7_5_  21-7-6-5_
+    1_3_33  3_5_
+    11  2_4_-7_  2_1_0_ //] >>
+FCT[Tanz - Lied, Walzer]

@@ -1,0 +1,9 @@
+FINK
+CUT[ALLES STILL IN SUESSER RUH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0354  04  E 3/4]
+MEL[  534  5_3  4_2  3_.
+    +176  5_6  4_5  3_.
+    3_3  6_6  767  +1_.
+    +134#  5_3  432  1_0 //] >>
+FCT[Jugend - Lied, Wiegen - Lied]

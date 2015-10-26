@@ -1,0 +1,13 @@
+F[ERK3
+CUT[RIRARO DER SUMMERTAG IST DO]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[E1220  08  F 2/4]
+MEL[  1_3_  5_.
+    4  3322  1_0_
+    5531  5531
+    5_3_  5_3_
+    1234  5_3_
+    1234  5_3_
+    1_3_  5_.
+    4  3322  1_0_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sommer - Tags - Lied]

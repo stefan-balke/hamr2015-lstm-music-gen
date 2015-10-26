@@ -1,0 +1,22 @@
+BOEHME
+CUT[KENNT IHR DAS LAND SO WUNDERSCHOEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0004  16  C 4/4]
+MEL[-5__  -3__.-4_-5__1__  -7__.1_2__
+    -4__  -3__-1__-6__.-5_  -4_-3_-2_-1_-5__.
+    -2_  -7__.121_-7_-6_-5_  -4#__.-5_-6__
+    -2__  -3__-4#__-5__-6__  -7___2_1_-6_-7_  -5___0__
+    -5__  1__.-7_-6__-6__  -5__.-4_-3__
+    -5__  -6__-7__1__1__  2___-7___  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]
+BOEHME
+CUT[KENNT IHR DAS LAND SO WUNDERSCHOEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0004  16  C 4/4]
+MEL[-5__  -3__.-4_-5__1__  -7__.1_2__
+    -4__  -3__-1__-6__.-5_  -4_-3_-2_-1_-5__.
+    -2_  -7__.121_-7_-6_-5_  -4#__.-5_-6__
+    -2__  -3__-4#__-5__-6__  -7___2_1_-6_-7_  -5___0__
+    -5__  1__.-7_-6__-6__  -5__.-4_-3__
+    -5__  -6__-7__1__1__  2___-7___  1___0__ //] >>
+FCT[politisch, national, Vaterlands - Lied]

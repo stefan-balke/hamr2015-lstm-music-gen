@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Verschmitzte"
+    ES WAR EINMAL EIN MAEDCHEN VON REIZENDER GESTALT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[Z1093  16 Bb 2/4]
+MEL[-5_  -5_1_1_1_  3__1_
+    -5_  -5_.-6-5_-4_  -3__0_
+    1_  -7_2_5_1_  -7_2_5_
+    1_  -7__-6__  -5__0_
+    2_  2_-7_-7_-5_  -5_3_1_
+    5_  5_4_4_3_  3__2_
+    5_  5__4_4_  4__3_
+    -5_  -6_2_1_-7_  1__0_ //] >>
+FCT[Romanze, Ballade]

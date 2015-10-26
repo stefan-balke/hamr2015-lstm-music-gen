@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Koenig von Mailand
+    Et geng e Keneng ganz siwe Gor,]
+CNR[hi sil vu senger Igattaen waerde froi,]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[3, S. 234
+    1931 gedruckt in Herrmannstadt]
+KEY[Q0041b 08  F 4/4]
+MEL[-5_  2_2_3323  4_4_3_
+    1_  1_1_-7-7-6_  222-7-5_
+    -5_  1__2__  5__3_23  44332_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Rache]
+CMT[Melodievergleich zu Q0067, anderes Lied "Maedchenmoerder" , deshalb
+    in die Balladengruppe Q0041 eingeordnet.]

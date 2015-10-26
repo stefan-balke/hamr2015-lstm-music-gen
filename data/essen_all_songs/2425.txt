@@ -1,0 +1,9 @@
+FINK
+CUT[DES LEBENS TAG IST SCHWER UND SCHWUEL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1048  16  E 4/4]
+MEL[1__  5__3__1__3__  5__3__1__
+    5__  +1__+1__7__3__  4_.56_6_5__
+    5__  5__.4_3_+1_7_6_  5__.4_3__
+    3__  2__3__4__3__  2___^_4_3_2_  1__0___ //] >>
+FCT[Trost - Lied, Tod]

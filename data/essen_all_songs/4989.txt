@@ -1,0 +1,9 @@
+BOEHME
+CUT[AN DEN RHEIN AN DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0525  16  D 6/8]
+MEL[12  3__345__1_  6_5_4#_5__
+    5_  +1__1_3_.21_  5___0_
+    5_  6_5_7_+2_.+15_  6__543__
+    +1_  7_6_4_3_.42_  1___0_ //] >>
+FCT[Wander - Lied]

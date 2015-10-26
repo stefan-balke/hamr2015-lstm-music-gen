@@ -1,0 +1,9 @@
+F[ERK1
+CUT[DA DROBEN AUF JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0419C 16  G 6/8]
+MEL[-5_  1_.35_5_.4#5_  3__.2__
+    -5_  1_.23_3_.21_  2___0_
+    5_  3_.45_3_.45_  6__+165__
+    4_  3_.43_2_1_2_  1___0_ //] >>
+FCT[Liebes - Lied, Abschied]

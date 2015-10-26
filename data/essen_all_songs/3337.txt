@@ -1,0 +1,9 @@
+F[ERK2
+CUT[N N IST EIN SCHOENES STAEDTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0773  08  F 4/4]
+MEL[  12345_+1_  6_6_5_3_
+    4_.21_13  5_543_0_
+    5_.32_3_  43453_0_
+    5_+1_6_54  3_2_1_0_ //] >>
+FCT[Abschieds - Lied, Wander - Lied, Liebe]

@@ -1,0 +1,9 @@
+BOEHME
+CUT[ALS DER GROSSVATER DIE GROSSMUTTER NAHM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0712  08  G 3/4]
+MEL[  1_.11_  1_.23_  3_2_2_  2__
+    2_  3_.45_  5_.43_  3_2_2_  2__
+    -5_  1_.11_  1_.23_  3_2_2_  2__
+    4_  3_.45_  4_3_2_  2_1_1_  1__. //] >>
+FCT[Scherz - Lied]

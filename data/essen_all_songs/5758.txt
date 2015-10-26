@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Liebesklage]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0208  04  G 4/2 6/2]
+MEL[1_  1_3b_2_1_  5__5__
+    5__  3b_.45_5_4_4_  3b__.
+    1_  1_3b_2_1_  5__5__
+    5__  3b_.45_5_4_4_  3b__.
+    3b_  3b_5_4_3b_  2__1__
+    5__  4__2__  3b__.2_1__  -7b__0__
+    5__  7b_7b_6_5_5_4_  5__3b__
+    4_5_3b_4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster III. 1519 No. 17.]

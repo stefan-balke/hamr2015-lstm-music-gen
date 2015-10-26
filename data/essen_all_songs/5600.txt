@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Es taget minnecliche]
+REG[Europa, Mitteleuropa, Deutschland, Niederdeutschland]
+KEY[A0017  04  G 3/2]
+MEL[1_  1__4_  3__2_  4_5_3_  2__
+    6_  5__5_  3__3_  4_5_3_  2__
+    1_  3__4_  5__6_  5_432_  1__
+    2_  5__4_  3__2_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie: Strassburger Hs.(1421),121 Bl. 128b]

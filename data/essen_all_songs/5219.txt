@@ -1,0 +1,11 @@
+BOEHME
+CUT[O DU FROEHLICHE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0747  08  F 4/4]
+MEL[  5__6__  5_.43_4_
+    5__6__  5_.43_4_
+    5__5__  6__7_+1_  7__6__  7__0__
+    2_.32_3_  4_.54__
+    3_.43_4_  5_.65__
+    +1_7_6_5_  +1_6_5_4_  3__2__  1__0__ //] >>
+FCT[Weihnachts - Lied, religioes]

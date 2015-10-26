@@ -1,0 +1,7 @@
+ALTDEU
+CUT[Der Benzenauer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0381B 02  F 4/2 6/2]
+MEL[1  5567  +1_+17  5+1_76_  5_. //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Fragment bei Forster II 1540 No. 60]

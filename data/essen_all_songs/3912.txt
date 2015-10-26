@@ -1,0 +1,13 @@
+F[ERK3
+CUT[FUESELIER SIND LUSTGE BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oberhessen; Nassau]
+KEY[E1331  16  D 6/8]
+MEL[  1__3_5__5_  6_5_5_3__1_
+    2__6_5__65  3__.^__0_
+    1__3_5__5_  6_5_5_3__1_
+    2__6_5__65  3__.^__0_
+    6__6_+1_7_6_  5__+1_+1__3_
+    2__6_5_.65_  3__5_+1__.
+    6__6_+1_7_6_  5__+1_+1__3_
+    2__6_5_.65_  3__.^__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

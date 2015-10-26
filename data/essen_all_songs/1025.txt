@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Kueherlied"
+    WER SO EIN FAULES MAEDCHEN HAT]
+REG[Europa, Mitteleuropa, Deutschland, Harz]
+KEY[Z1290  08  G 2/4]
+MEL[-5  1111  -712
+    2  -7-722  -5_
+    5_  3355  1_0
+    5  3555  655_  655
+    5  3355  3_
+    5_  3355  1_0 //] >>
+FCT[Handwerker -, Bauern - Lied]

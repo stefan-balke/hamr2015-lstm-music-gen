@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der junge Held
+    Gestern Abend beim hellen Lichtenschein,]
+CNR[da gesah ich ein feines Maedelein]
+REG[Mitteleuropa, Luxemburg, Trotten]
+SRC[3, S. 152
+    ????]
+KEY[Q0060I 16  F 2/4]
+MEL[33  555_2_4_  3_2_1_
+    33  2_22-6_1_  -7_-6_-5_0
+    -5  111_2_2_  3__
+    4__  533_542_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Nachtjaeger
+    Es blast ein Jaegerlein wohl in sein Horn,]
+CNR[es blast ein Jaegerlein wohl in sein Horn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[6, S. 169
+    1926 gedruckt in Heidelberg]
+KEY[Q0133F 16  D 2/4]
+MEL[5_  5__+1_6_  5_.65_3_  4__4_6_  5__0_
+    5_  5__+1_6_  5_.65_3_  4__4_6_  5__0_
+    3_  3_2_3_5_  4_3_2_
+    1_  3_2_3_5_  4_3_2_1_  5__5__  3__0_ //] >>
+FCT[Ballade, Jagd, Flucht, Vergewaltigung, Tod]
+CMT[Anhaengsel an der vierten Zeile.]

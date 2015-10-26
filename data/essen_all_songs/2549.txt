@@ -1,0 +1,14 @@
+F[ERK1
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend; Westerwald; Wetterau]
+KEY[E0042K 08 Eb 2/4]
+MEL[13  5555  43
+    21  3222  2_
+    13  5555  43
+    21  3222  2_
+    +1_  5532  1_
+    33  4_46  5+1
+    +1_  5532  1_
+    33  5_54  3_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

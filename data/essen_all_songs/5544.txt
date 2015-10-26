@@ -1,0 +1,7 @@
+KINDER
+CUT[MACHT AUF DAS THOR]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2334  08  C 2/4]
+MEL[6  5436  543
+    -7  5566  5_3 //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

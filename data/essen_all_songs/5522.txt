@@ -1,0 +1,13 @@
+KINDER
+CUT[IM SOMMER IM SOMMER DA IST DIE SCHOENSTE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Moseltal]
+KEY[K2248  08 Bb 2/4]
+MEL[-5  1_12  3_3
+    3  2123  1_0
+    -5  1_12  3_3
+    3  2123  1_0
+    2  2_-72  2_3
+    2  1_-6-6  -7_0
+    -5  1_12  3_3
+    3  2123  1_0 //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

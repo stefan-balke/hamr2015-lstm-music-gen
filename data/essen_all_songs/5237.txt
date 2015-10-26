@@ -1,0 +1,12 @@
+BOEHME
+CUT[MIT DER FREUDE ZIEHT DER SCHMERZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0764  08 Eb 4/4]
+MEL[  5_5_+1_.5  3_4_5__
+    5_5#_6_+2_  +1__7__
+    +1_.65#_3_  +1_.66_5#_
+    6_.43_-6_  6_.44_3_
+    6_.43_-6_  6_.44_3_
+    2_3_4_4#_  5_.65__
+    5#_6_7_+1_  1__3_.2  1__.0_ //] >>
+FCT[Moral - Lied, religioes]

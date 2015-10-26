@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Sichelein - Rauschen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0180B 04  G 4/4]
+MEL[1  13b21  5_5
+    1  5543b  2_0
+    5  43b21  5_3b
+    1  23b42  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Werlin Hs. 1646 S. 1564.]

@@ -1,0 +1,8 @@
+DVA
+CUT[Als Sankt Justil blind geboren war,CNR[und ihr Vater ein Pfalzgraf war]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0066  16  G 3/8]
+MEL[5__2_  2__5_  7b__+1_  7b__6_  5__.
+    5__5_  4_.45_  3b__2_  1__.  ^__
+    1_  3b__3b_  5_4_4_  5__.  5_4_3b_  2__.  1__. //] >>
+FCT[Legenden - Lied]

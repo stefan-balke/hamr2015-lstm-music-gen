@@ -1,0 +1,20 @@
+BOEHME
+CUT[EIN LIED IN EHREN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0311  16  F 4/4]
+MEL[-5_1_2_  3__2__0_2_2_3_  4__3__0__
+    5__  6__.7_+1_7_6_5_  5__.4_3__
+    5__  +1__.7_6_5_6__  7__.6_5__
+    5__  3_.5+1_.7+2__.4_  2_.34_.25__.
+    5_  6__+2__+1__7__  +1___0_ //] >>
+FCT[Geselligkeits - Lied, Freude]
+BOEHME
+CUT[EIN LIED IN EHREN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0311  16  F 4/4]
+MEL[-5_1_2_  3__2__0_2_2_3_  4__3__0__
+    5__  6__.7_+1_7_6_5_  5__.4_3__
+    5__  +1__.7_6_5_6__  7__.6_5__
+    5__  3_.5+1_.7+2__.4_  2_.34_.25__.
+    5_  6__+2__+1__7__  +1___0_ //] >>
+FCT[Geselligkeits - Lied, Freude]

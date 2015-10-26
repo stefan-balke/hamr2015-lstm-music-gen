@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Einst stand ich auf hohem Berge]
+CNR[und schaute ins tiefe Tal]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Siegkreis,
+    Soeven]
+SRC[8, S. 294
+    1925 aufgezeichnet]
+KEY[Q0155Y.16  G 6/8]
+MEL[5_  5_.55_5__5_  3__.3__
+    3_  4_.44_4_5_6_  5__.0__
+    5_  5_6_7_+1_7_6_  6_.5453__
+    5_  5_6_5_4_2_5_  3__.0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Stark "zersungene" Fassung.]

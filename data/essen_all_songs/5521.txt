@@ -1,0 +1,9 @@
+KINDER
+CUT[VICTORIA VICTORIA]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt]
+KEY[K2244  16  C 2/4]
+MEL[6_  5_5_3_6_  5_5_3_
+    1_  5_5_6_6_  5_5_3_
+    1_  5_5_6_6_  5__3_
+    +1_  5__33+1_  5__33+1_  5__33 //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

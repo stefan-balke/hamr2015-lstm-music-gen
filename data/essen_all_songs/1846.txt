@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Nachtigall als Warnerin
+    Et sas e kli Waeltfijeltchen]
+CNR[aw enem graene' Naesztchen;]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen, Muehlbach]
+SRC[6, S. 221
+    1857 gedruckt in Hermannstadt]
+KEY[Q0137A 16  G FREI]
+MEL[-5_  1_.11__.2_  3b_.21__.
+    1_  5_5_-5_-5_  1__1__0_
+    5_  5_.43b__.5_  4_.3b2__0_
+    2_  1_.13b__.-7_  1__1__0_ //] >>
+FCT[Ballade, Allegorie; lyrisch (?)]

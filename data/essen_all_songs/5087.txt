@@ -1,0 +1,10 @@
+BOEHME
+CUT[KUCKUK KUCKUK RUFT AUS DEM WALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0627  04  G 3/4]
+MEL[  5_3  5_3
+    212  1_0
+    223  4_2
+    334  4_3
+    212  1_0 //] >>
+FCT[Kinder -, Jahreszeiten - Lied, Fruehling]

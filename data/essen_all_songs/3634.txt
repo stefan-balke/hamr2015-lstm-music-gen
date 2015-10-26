@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Jerman Weizers Frau
+    Es ist gewisslich an der Zeit,]
+CNR[dass Gottes Sohn wird kommen]
+REG[Mitteleuropa, Deutschland (Text: Bayern, Nuernberg)]
+SRC[5, S. 216
+    1588 gedruckt]
+KEY[Q0108A 16  G FREI]
+MEL[1___1__2__3___2___1__2__3___0__
+    2__3__2__4___.3__2_1_1__.-7-6-7__1___
+    1___1__2__3___2___1__2__3___0__
+    2__3__2__4___.3__2_1_1__.-7-6-7__1___0__
+    1__3___.2__1__-7___-6___-5#__-6___0__
+    1__1__2__3__3__2__2__.1#-71#__2___0__
+    2__3__2__4___.3__2_1_1__.-7-6-7__1___ //] >>
+FCT[Ballade, Schein - Tod, Geburt, Grab, Auferstehen; geistlich, Choral
+    Zeitungs - Lied]
+CMT[Geistliche Kontrafaktur? Tonangabe des Chorals zu dieser Ballade.]

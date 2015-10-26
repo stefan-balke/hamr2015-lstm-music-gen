@@ -1,0 +1,9 @@
+F[ERK2
+CUT[BALD SIND WIR AUF EWIG GESCHIEDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt; Taunus]
+KEY[E0780  08 Bb 3/4]
+MEL[-5_  1_-3_.-3  -3_-6_.-5  -5_-4_0
+    -4  2_2_.1  -7_-6_-5_  1__
+    -5_  -6_-6_.-7  1_1_.-6  -6_-5_0
+    -5  -5_1_3_  4_2_-7_  1__ //] >>
+FCT[Abschieds - Lied, Liebe]

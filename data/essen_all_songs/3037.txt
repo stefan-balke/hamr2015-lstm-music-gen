@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DES ABENDS WENN ICH SCHLAFEN GEH]
+REG[Europa, Mitteleuropa, Deutschland, Lahnkreis; Dillkreis; Westerwald]
+KEY[E0527C 16  G 2/4]
+MEL[-5_  1_-5_-5_1_  -6_-6_-6_
+    4_  5_5_4_-7_  1__0_
+    12  3_3_3_5_  4_2_2_
+    23  4_4_4_6_  5_3_3_
+    1_  -6_.-71-71-6  -5__1_
+    3_  5_4_2_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

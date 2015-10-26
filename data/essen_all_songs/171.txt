@@ -1,0 +1,22 @@
+BOEHME
+CUT[SEHT DEN HIMMEL WIE HEITER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0205  08  G 6/8]
+MEL[  5_5535  +1_.5_.
+    6_6+176  5_.3_.
+    234#567  5_.0_.
+    5_4321  6_.4_.
+    6_54#32  7_.5_.
+    +1_5+153  5421_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling, Erotik]
+BOEHME
+CUT[SEHT DEN HIMMEL WIE HEITER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0205  08  G 6/8]
+MEL[  5_5535  +1_.5_.
+    6_6+176  5_.3_.
+    234#567  5_.0_.
+    5_4321  6_.4_.
+    6_54#32  7_.5_.
+    +1_5+153  5421_0 //] >>
+FCT[Jahreszeiten - Lied, Fruehling, Erotik]

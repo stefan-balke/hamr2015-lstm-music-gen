@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Weihnachtslied mit Echo]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0527  04 Bb 4/2]
+MEL[+1_765_.5  6_7_+1__
+    +1_765_.5  6_7_+1__
+    +1_765_.5  6_7_+1__
+    +1_765_.5  6_7_+1_
+    +1_  7_.76__  7_.76__
+    +1_+2_+3__  +1_+2_+3__
+    +3_+2+17_6_  7_5#_6__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Coelner Gsgb 1623 S. 103.]

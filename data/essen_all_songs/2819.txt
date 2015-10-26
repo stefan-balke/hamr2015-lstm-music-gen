@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ACH MUTTER ES HUNGERT MICH]
+REG[Europa, Mitteleuropa, Deutschland, Halle; Eisleben]
+KEY[E0189  08  F 4/4]
+MEL[1_  333_553_  3_2_2_0_
+    3_3_5_3_  3_2_2_0_
+    1_6_6_6_  6_5_5_0
+    4  333_5_54  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

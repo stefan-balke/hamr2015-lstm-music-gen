@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    Es wollt' ein Juengling in die Fremde ziehn,]
+CNR[er liess sein Liebchen weinend stehn:]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+SRC[3, S. 85
+    ????]
+KEY[Q0056J 16  F 3/4]
+MEL[-5_-5_3_  3__2_1_4_3_  2__0_
+    2_2_5_  5__4__2_2_  3__0_
+    1_1_+1_  +1__7_.66_.5  5__0_
+    3_2_1_  5__4_.22__  3__0_ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

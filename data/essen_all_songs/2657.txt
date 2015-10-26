@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAR EINMAL EIN JUNGER KNAB]
+REG[Europa, Mitteleuropa, Italien, Tirol, Meran]
+KEY[E0093B 16  F 3/4]
+MEL[1_1_3_  5__.6_4_5_  3__0_
+    1_1_3_  5__.6_4_5_  3__0_
+    1_1_1_  6__4_4_+1_6_  5__.
+    3_3_3_  2__5_5_4_54  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

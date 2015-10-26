@@ -1,0 +1,13 @@
+DVA
+CUT[Dri lederne Struempf
+    un' zwei d'rzue git fuenf]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Oberstdorf]
+KEY[D0216  16  G 2/4]
+MEL[     3__334_  5__0_
+    3_  4_.34_5_  3__0_
+    -5_  3_.33_4_  5_5_5_
+    3_  4_3_4_5_  3__0_
+    -5_  3_.33_4_  5_5_5_
+    3_  4_3_4_5_  3__0__ //] >>
+FCT[Tanz - Lied, Kinderlied]
+CMT[kleinere Varianten zur Strophe notiert; Tonart ??]

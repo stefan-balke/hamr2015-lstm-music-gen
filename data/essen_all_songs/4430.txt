@@ -1,0 +1,9 @@
+F[ERK3
+CUT[AM MONTAG DA FAENGT DIE WOCHEN AN]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg; Horben]
+KEY[E2134  08 Eb 4/4]
+MEL[-1-3  -5_-5_-511-6  -5_-5_-5_0
+    -3  -3-2-2-2-2-6-5-4  -3_-3_-3_0_
+    -2_.-3-4_-2_  -3_.-4-5_0_
+    1_.23_3_  2__1_ //] >>
+FCT[geistliches Lied, Curiosum, Moral]

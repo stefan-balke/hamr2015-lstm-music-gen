@@ -1,0 +1,10 @@
+F[ERK3
+CUT[SPINN MAEGDLEIN SPINN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1568  08 Bb 2/4]
+MEL[  1_-5-5  1_.
+    3  2-5-54  3_.0
+    5231  2-5-50
+    5231  2-5-50
+    1_25  3_25  1_0_ //] >>
+FCT[Staende -, Bauern - Lied, Spinnen; Moral - Lied]

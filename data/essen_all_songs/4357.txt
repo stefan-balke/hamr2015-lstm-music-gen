@@ -1,0 +1,11 @@
+F[ERK3
+CUT[IN DIESER NACHT VON DEINER LIEB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1994  08  D 4/4]
+MEL[1_  3_4_5_5_  6_6_5_4_  3__.
+    34  5_5_4_3_  2__.
+    5_  +1_7_6__  5_5_6_7_  +1__.
+    5_  6_6_5_4_  3__.
+    34  5_5_4_3_  2__.
+    5_  4_3_2__  1__0_ //] >>
+FCT[geistlich, Dank -, Lob - Lied; Abend - Lied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Scheintod
+    Een ridder ende een meyseken jonck]
+CNR[op een riuierken dat si saten;]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 124
+    1540 gedruckt in Antwerpen]
+KEY[Q2058E 08  D 3/2 4/2]
+MEL[1_1_1_  3b__3b__4_4_  5__0_
+    4_5_5_  +1_.7b6_5_6__  7b__0_
+    7b_7b_+1_  54567b_5_4_4_  3b__0_
+    7b_+1__7b_5_  5__4_3b_2__  1__0_ //] >>
+FCT[Ballade, Liebe, Enttaeuschung, Schein - Tod]
+CMT[Kleinere Melodievarianten aus anderer Quelle abgedruckt.
+    Taktart in "Taktwechsel" korrigiert. Niederlaendische Fassung.]

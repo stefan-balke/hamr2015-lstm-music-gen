@@ -1,0 +1,11 @@
+F[ERK2
+CUT[WENN DIE BETTELLEUTE TANZEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0982  16  F 3/4]
+MEL[  -1_.--7-1_-2_-3_-4_  -5__-5__.0_
+    -5_-6_-5_-4_-3_-2_  -1__-1__.0_
+    -5__-5___  -6__-6___
+    -7__-7__-7__  1_0-5-3_-5_1__
+    -5_.-5-5_-5_-5__  -6_.-6-6_-6_-6__
+    -7_-7_-7_-7_-6_-7_  1__1__0__ //] >>
+FCT[Tanz - Lied, Reigen, Bettler - Lied]

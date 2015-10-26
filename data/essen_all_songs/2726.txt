@@ -1,0 +1,12 @@
+F[ERK1
+CUT[ES WOLLT EIN MAEDCHEN FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Pommern]
+KEY[E0121A 16  F 2/4]
+MEL[-5_  1_31-5_-5_  -6_1-6-5_
+    -5_  -6_-6_4_-7_  1__2_
+    2_  3_3_4_-7_  1__0_
+    -5_  3_1_3_5_  4_3_2__
+    2_1_2_4_  3_2_1_
+    2_  3_3_4_-7_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

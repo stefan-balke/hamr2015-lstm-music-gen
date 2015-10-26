@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt ein Maedchen in der Frueh aufstehn,]
+CNR[dreiviertel Stund vor Tag.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Adorf]
+SRC[7, S. 104
+    1932 aufgezeichnet (vor)]
+KEY[Q0147L 16  G 4/4]
+MEL[-5__  1__-5__-5_.-51_1_  -6__-6__-6__
+    1__  -7__2__5__.4_  3___0__
+    -5__  1__.2_3__1__  2__.3_4__0__
+    2__.3_4__0_4_  3__.5_5__0__
+    1___1__.1_  6__.6_6__
+    6_6_  5__5__4__-7__  1___0__ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Vierte Zeile refrainartig.]

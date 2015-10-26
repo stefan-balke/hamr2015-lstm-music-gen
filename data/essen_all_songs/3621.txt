@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die verunglueckte Muellerstochter
+    Da drunten in dem tiefen Tale,]
+CNR[da steht eine Muehle zum Mahlen.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+SRC[5, S. 186
+    1894 gedruckt in Berlin]
+KEY[Q0106  08  F 4/4]
+MEL[12  33333543  322_0_
+    23  4_444654  433_0_
+    5_  5_355_35  +1_765_0
+    5  5_+155_35  4_243_
+    5_  5_355_35  +1_765_0
+    5  5_+155_35  4_243_ //] >>
+FCT[Ballade, Unfall, Tod]

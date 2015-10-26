@@ -1,0 +1,10 @@
+F[ERK2
+CUT[WAIB SOLLST HAM GEHN]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[E0910B 16  G 2/4 3/8]
+MEL[  -5__-5_-5_  -5__-5_-5_  -6__-5_-4#_  -5__.0_
+    5__31  -7__23  4__2-7  1__
+    34  5__31  -7__23  4__2-7  1__0_
+    1_2_3_  4_5_6_  5__7_  +1__0_
+    1_2_3_  4_5_6_  5__-7_  1__0_ //] >>
+FCT[Ehestands - Lied]

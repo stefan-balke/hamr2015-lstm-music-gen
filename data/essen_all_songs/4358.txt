@@ -1,0 +1,12 @@
+F[ERK3
+CUT[WAS GOTT THUT DAS IST WOHLGETHAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2001  08  G 4/4]
+MEL[-5_  1_2_3_4_  5_4_3_0_  0_
+    6_5_4_  3_3_2__  1__0_
+    -5_  1_2_3_4_  5_4_3_0_  0_
+    6_5_4_  3_3_2__  1__0_
+    5_  6_6_2_2_  5_5_1_0
+    3  2_1_-7_-7_  -6__-5_
+    5_  4_3_2_3_  2__1_ //] >>
+FCT[geistlich, Dank -, Lob - Lied, Choral]

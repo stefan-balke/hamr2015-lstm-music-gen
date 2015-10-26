@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Morgenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0643  04  C 3/1 2/1]
+MEL[1__  1__-7_1__2_  -7_.-6-5__
+    2__  3__2_1__-7-6  -7_1_-6__  -5___
+    1__  1__-7_1__2_  -7_.-6-5__
+    2__  3__2_1__-7-6  -7_1_-6__  -5___  0_
+    5_4_3_  2__1_4__32  3__2__
+    5__  4_3__2__1_  2__0_
+    -5_  1_2_3_4_  5__2__
+    4__  3__2_5__43  43212_2_  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Babsts Gsgb 1545 II No. 46.]

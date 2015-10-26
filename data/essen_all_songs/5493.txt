@@ -1,0 +1,12 @@
+KINDER
+CUT[WIR FAHREN AUF DER GRUENEN SEE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2169A 16  C 2/4]
+MEL[5_  5_5_5_5_  5_+3_+1__
+    +2_.+17_6_  6__5_
+    5_  5_5_5_5_  5_+3_+1__
+    +2_.+17_6_  6__5__
+    5_3_5_3_  5_+3_+1_
+    +1_  7__6_7_  +1__5_
+    5_  3_5_4_3_  2__0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

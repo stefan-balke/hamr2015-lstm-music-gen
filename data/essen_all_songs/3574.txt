@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Es hiet a Kenik zbuai Teachtrlain,]
+CNR[es hiet a Kenik zbuai Teachtrlain.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[5, S. 126
+    ????]
+KEY[Q1100C 08  G FREI]
+MEL[-5_1_2_  321__.234_3_  2__
+    5_2_3_  2_1__.243_2_  1__ //] >>
+FCT[???]
+CMT[Melodievariante zu Q0100A, anderes Lied.]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Waechter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0102  04  G 4/2]
+MEL[1_  1_2_3b_1_  5_43b2_2_  1__0_
+    1_  5_6_7b_5_  +1_6_5__  0__
+    +1__  +2_+1_7b_5_  7b_5_3b__
+    0_7b_7b_5_  +1__5_5_  4_3b_4_
+    4_  5__3b_1_  -7b__0__
+    7b__7b_5_  +1__5_5_  ^_43b2_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus: 68 Lieder. Nuernberg J. Berg und Newber (1542) No. 55.]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    ohne Text]
+REG[Mitteleuropa, Deutschland (BRD) , Saar]
+SRC[5, S. 270
+    1896 gedruckt in Halle]
+KEY[Q0114V 16  G FREI]
+MEL[-5_-3_-4_  -5__1__-6_.-5-6_-5_  -4_
+    -3_-2_-3_  -4__-6__-5_.-4-3_-4_  -5__
+    -5_1_2_  3__3__2__4__  3__. //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

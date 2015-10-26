@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Graf von Rom
+    Ich verkund euch newe mere,]
+CNR[und wolt ir die verstan:]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[1, S. 134
+    1539 gedruckt in Antwerpen]
+KEY[Q0014  04  F FREI]
+MEL[1  1_13_4  5_5_0
+    6  7776  5_0
+    5  66+1+1  5_3_0
+    6  5432  1_0
+    1  5_5654  3_2_0
+    1  -721-6  -5_0
+    -5  1111  3_5_0_
+    6  4432  1_0 //] >>
+FCT[Ballade, Pilger - Reise, Gefangenschaft, Befreiung, Ehe, Liebe;
+    geistlich]
+CMT[Orginalquelle in Choralnotation; geistliche Kontrafaktur]

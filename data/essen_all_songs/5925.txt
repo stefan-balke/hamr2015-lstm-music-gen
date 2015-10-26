@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Naehterin
+    's sass a Naehterin und sie naeht,]
+CNR['s sass a Naehterin und sie naeht,]
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Kuhlaendchen]
+SRC[1, S. 75
+    1840 gedruckt in Berlin]
+KEY[Q0008A 16  G 2/4]
+MEL[  1_1_111_  4__2__  3__0__
+    4_5_665_  4_4_4_
+    -7b_  1_2_3_5_  2_.2-7b__  1__0_
+    5_  4_.4-7b__  1__0__ //] >>
+FCT[Ballade, Geburt, Tod, Moral, Entfuehrung]

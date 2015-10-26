@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Ach Muetter, liebi Muetter,]
+CNR[Gib du mir einen Rat:]
+REG[Mitteleuropa, Schweiz]
+SRC[7, S. 148
+    1914 gedruckt in Bern]
+KEY[Q0149F 08  G 4/4]
+MEL[-5_  1_.11_2_  3__1_
+    1_  3_1_4_3_  2__0_
+    2_  6_.34_2_  5__3_
+    3_  4_.21_-7_  1__0_
+    2_  6_.34_2_  5__3_
+    3_  4_.21_-7_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]

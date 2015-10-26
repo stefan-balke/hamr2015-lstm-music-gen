@@ -1,0 +1,9 @@
+ALTDEU
+CUT[St. Katharina]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0617  02  G 3/2]
+MEL[1  1_-7b  3b_3b  454  3b_
+    1  1_-7b  3b_3b  454  3b_
+    7b  7b_4  5_2  3b_2  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Corners Gsgb 1625 No. 289]

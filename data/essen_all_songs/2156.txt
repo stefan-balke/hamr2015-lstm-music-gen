@@ -1,0 +1,13 @@
+FINK
+CUT[O ALTE BURSCHENHERRLICHKEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0473  08  C 4/4]
+MEL[34  5_5_6742  1_3_3_0
+    3  2_.34_5_  4_3_0_
+    5_  5_.3+1_.7  7_.66_
+    6_  5_.65342  2_1_0_
+    3_  2_5_5_7_  76+176_
+    2_  2_6_6_+1_  +17+2+1765
+    5  5_.3+1_.7  766_0_
+    6_  5_.65342  2__1_ //] >>
+FCT[Studenten -, Burschenschafts - Lied]

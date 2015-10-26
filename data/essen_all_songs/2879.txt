@@ -1,0 +1,15 @@
+F[ERK1
+CUT[PRINZ EUGEN DER EDLE RITTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0324  08  G 5/4         %2+3%]
+MEL[-5-51_1_1233
+    123_5_5443
+    2123432_.0
+    543_5_6543
+    212_4_5432
+    111_3_221_
+    543_5_6543
+    212_4_5432
+    111_3_221_ //] >>
+FCT[historisches Lied, Prinz Eugen (1717)]
+CMT[+++ nachtr„glich 5/4! eingetragen ++++++]

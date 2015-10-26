@@ -1,0 +1,9 @@
+FINK
+CUT[SEID NUR LUSTIG UND FROEHLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0091  16  G 3/4]
+MEL[  5__.5_5_4_  3__4__5__
+    5__6_5_4_3_  3_2_2__.0_
+    5_.65_4_3_0_  5_.65_4_3_0_
+    1_2_2_1_2_2_  2__2_3__0_ //] >>
+FCT[Handwerker -, Handwerksburschen -, Wander - Lied]

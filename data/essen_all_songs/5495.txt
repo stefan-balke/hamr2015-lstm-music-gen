@@ -1,0 +1,11 @@
+KINDER
+CUT[WIR FAHREN AUF DIE SEE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bacharach]
+KEY[K2169C 04  G 4/4]
+MEL[  3333  345_
+    6432  2_10
+    3333  345_
+    6432  2_10
+    5_3_  5_3_  4_6_  5_0
+    5  5_35  5_33  4_6_  5_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

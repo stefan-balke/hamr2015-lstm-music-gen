@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ZU FRANKFURT VOR DEM THORE]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Limburg; Unter - Lahnkreis]
+KEY[E0213  08  G 4/4]
+MEL[-5_  1_3_2_6_  542_0_
+    5_  3_.21_3_  2__0_
+    13  2_132_1_  165_0_
+    54  35312_32  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe]

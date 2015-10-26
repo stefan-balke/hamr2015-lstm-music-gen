@@ -1,0 +1,10 @@
+KINDER
+CUT[RINGEL RINGEL ROSEN]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2079  08  C 2/4]
+MEL[  5566  5_3_
+    5566  5_3_
+    5431  543_
+    5566  543+1
+    +1_+1_  +1__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel; +++ letzte Phrase korrigiert. ++++]

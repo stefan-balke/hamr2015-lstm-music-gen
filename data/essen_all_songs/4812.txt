@@ -1,0 +1,17 @@
+DVA
+CUT[Dreikoenigslied
+    Nun macht euch auf ihr Koenige]
+CNR[und saeumet euch nicht lang]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0057  08  G 4/4]
+MEL[-5_  1-7-6_-7_1_  2_.32_
+    -7-5  1_1_4_3_  2__0_
+    -5_  1-7-6_-7_1_  2_.32_
+    -7-5  1_1_4_3_  2__0_
+    -71  2_.321-7-6  -5_.-4#-5_
+    -5_  1_.21_-7_  -6__-5_
+    -5_  1-7-6_-7_1_  2_.31_
+    4_  3_3_212_  1__0_ //] >>
+FCT[ Brauchtums - Lied, Dreikoenigs - Lied]
+CMT[Achttonskala (Ionisch mit Modulation in die Dominanttonart)
+    Verzierungen; Inzipit = Variante zum Lied]

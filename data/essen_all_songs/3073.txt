@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ZWEI HERZEN IM LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben,]
+KEY[E0549  16  G 3/8]
+MEL[12  3_3_4_  655_
+    3_  544_2_  433_
+    12  3_3_4_  655_
+    3_  544_2_  433_
+    35  544_2_  433_
+    35  544_24  433_
+    12  3_3_4_  5__
+    35  544_5_  3__ //] >>
+FCT[Liebes - Lied, Treue]

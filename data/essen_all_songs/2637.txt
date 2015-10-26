@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES HAT E BUUR ES TOECHTERLI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E0080  08  F 2/4]
+MEL[-5  1231  5_2_  1_0
+    5  5675  +1_6_  5_0
+    5  +1765  +165
+    -5  1234  5_2_  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

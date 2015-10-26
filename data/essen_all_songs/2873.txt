@@ -1,0 +1,13 @@
+F[ERK1
+CUT[HERZU EIN NEUER PANTALON]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0310  08  F 4/4]
+MEL[5_  5_5_6_6_  5_.43_
+    1_  3_5_4_3_  2__1_
+    5_  5_5_6_6_  5_.43_
+    1_  3_5_4_3_  2__1_
+    +1_  +1_.76_6_  7_.65_
+    5_  6_7_+1_7_  6__5_
+    5_  3_.21_5_  3_.21_
+    5_  6_5_4_3_  2__1_ //] >>
+FCT[historisches Lied, Spott - Lied]

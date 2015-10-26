@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt' ein Kaiser an dem Rhein,]
+CNR[er hat zwei schoene Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+SRC[4, S. 116
+    ????]
+KEY[Q0075r 08  F 4/4]
+MEL[3_  3_.33_.5  4_3_2_
+    2_  2_2_2_6_  5_-7_1_0_
+    3_4_5_+1_  +1_+1_+1_3_  2_2_1_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]
+CMT[Einschiebsel am Anfang der dritten Zeile.]

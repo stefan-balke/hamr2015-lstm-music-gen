@@ -1,0 +1,24 @@
+BOEHME
+CUT[HOFFNUNG HOFFNUNG MILD WIE FRUEHLINGSSCHIMMER]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schlesien]
+KEY[B0286  16  G 4/4]
+MEL[3_.2  2_1_1__1_1_3_1_  -7_-6_-6___
+    4_.3  3_2_2__2_6_5_-7_  2__1__0__
+    3_.2  2_1_1__1_1_3_1_  -7_-6_-6___
+    4_.3  3_2_2__2_6_5_-7_  2__1__0__
+    1_.3  2__.-7_2_1_-7_-6_  -7__1__2__0__
+    4__.4_4_3_2_1_  6__.6_6_5_4_3_
+    5_4_3_2_2_1_1_-7_  1___0__ //] >>
+FCT[Stimmungs - Lied, Freude, Hoffnung]
+BOEHME
+CUT[HOFFNUNG HOFFNUNG MILD WIE FRUEHLINGSSCHIMMER]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schlesien]
+KEY[B0286  16  G 4/4]
+MEL[3_.2  2_1_1__1_1_3_1_  -7_-6_-6___
+    4_.3  3_2_2__2_6_5_-7_  2__1__0__
+    3_.2  2_1_1__1_1_3_1_  -7_-6_-6___
+    4_.3  3_2_2__2_6_5_-7_  2__1__0__
+    1_.3  2__.-7_2_1_-7_-6_  -7__1__2__0__
+    4__.4_4_3_2_1_  6__.6_6_5_4_3_
+    5_4_3_2_2_1_1_-7_  1___0__ //] >>
+FCT[Stimmungs - Lied, Freude, Hoffnung]

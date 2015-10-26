@@ -1,0 +1,14 @@
+FINK
+CUT[ES SASS EIN KNAB UND WEINTE SEHR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0294  16  G 6/8]
+MEL[1_  1__3b_3b__5_  5__2_2__
+    3b2  1__.3b__1_  5__.0__
+    5_  6b__6b_6b__6b_  5__1_1__
+    12  3b__.1__5_  1__.0__
+    5_  5__5_5__5_  5__4_4__
+    4_  3b__.1__.  2__.0__
+    -5_  1__2_3b__3b_  4_.3b4_5__
+    7b6b  5__.4__.  3b__.0__
+    54  3b__.2__.  3b__.0__ //] >>
+FCT[Jugend - Lied, Toten - Klage, Belehrung, Moral]

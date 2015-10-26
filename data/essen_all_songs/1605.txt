@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war ein Markgraf an dem Rhein,]
+CNR[es war ein Markgraf an dem Rhein,]
+REG[Osteuropa, Polen, Galizien]
+SRC[4, S. 108
+    1924 gedruckt in Biala bei Bielitz]
+KEY[Q0075R 08  F 4/4]
+MEL[-5_  -5_-7_1_-5_  -6_-7_1_
+    1_  1_3_3_3_  2_1_-7_
+    -6_  -5_-7_2_2_  1_-6_-5_
+    -4_  -3_-5_135_  2_2_1_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

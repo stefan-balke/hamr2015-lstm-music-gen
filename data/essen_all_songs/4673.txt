@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die geistliche Weinbeer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0587B 02  G 4/2]
+MEL[1  3b_3b_  43b4_  5_.4  5_.
+    3b  4_5_  6b54_  3b_0
+    3b  3b45_  5_4_  3b21_  -7b_
+    12  3b_4_  3b_2_  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Beuttner 1602 No. 6.]

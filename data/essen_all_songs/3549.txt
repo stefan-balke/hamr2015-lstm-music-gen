@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Was wuenschen wir dem Vater zum neuen Jahr?]
+CNR[Was wir wuenschen und das ist wahr.]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 86
+    ????]
+KEY[Q1095C 04  G 4/4]
+MEL[-5  -5333  3_23  4_3_  2_.0
+    2_2_  2_12  3_2_  1_. //] >>
+FCT[Neujahrs - Lied]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

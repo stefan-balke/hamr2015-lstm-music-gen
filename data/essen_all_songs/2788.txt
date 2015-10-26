@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WOLLT EIN JUNGFER ZU TANZE GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E0174A 08  G 3/4]
+MEL[-5  112_1_  -6-6-5_0
+    -5  123_3_  432_0
+    3  444_6_  543_0
+    5  23432_  -622_0
+    3  444_6_  543_0
+    5  23432_  -622_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Pflanzen - Maerchen, Moral - Lied]

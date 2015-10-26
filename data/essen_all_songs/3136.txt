@@ -1,0 +1,15 @@
+F[ERK1
+CUT[WIR SITZEN SO FROEHLICH]
+REG[Europa, Mitteleuropa, Deutschland, Neustadt - Eberswalde, Coethen]
+KEY[E0602  08  G 3/4]
+MEL[1_  1_-5_3_  3_1_
+    5_  5_6543  3_2_
+    1_  1_-5_3_  3_1_
+    5_  5_6543  3_2_
+    55  4_2_-5-5  1_3_
+    55  4_2_-5-5  1_3_
+    11  6_6_6_  5_.4
+    35  5_4_24  4_3_
+    11  6_6_6_  5_.4
+    35  5_4_24  2_1_ //] >>
+FCT[Liebes - Lied]

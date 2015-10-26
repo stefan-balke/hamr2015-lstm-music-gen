@@ -1,0 +1,9 @@
+F[ERK3
+CUT[BOM BAM BEIER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E1822  16  G 2/4]
+MEL[  1__2__  3__1_
+    -5_  1_1_2_2_  3__1_
+    3_  2_2_1__  3_221__
+    5_.11_1_  1_-7_1__ //] >>
+FCT[Kinder -, Schaukel -, Reiter - Lied]

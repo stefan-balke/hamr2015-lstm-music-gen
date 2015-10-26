@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[SAH EIN KNAB EIN ROESLEIN STEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0113  08  F 2/4]
+MEL[1111  211_  5531  4_4_
+    1111  211_  5531  444_
+    3243  3_2_
+    5353  +165_  6+176  +2_+1_ //] >>
+FCT[Sagen - Lied, Romanze]

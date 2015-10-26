@@ -1,0 +1,10 @@
+FINK
+CUT[ES WAREN EINMAL DREI REITER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0576  16  C 4/4]
+MEL[-5_-5_  1__1_1_1__3_3_  1__-5_-5_-3__
+    -5_-5_  3__.1_3_2_2_-7_  1___0__
+    1_2_  3__3_3_4_3_2_1_  2__.3_2__
+    -5_-7_  2__2_4_3_2_1_-7_  1__-5__-3__
+    -5_.-5  3__.1_3_2_2_-7_  1___0__ //] >>
+FCT[Soldaten - Lied, Gefangenschaft, Tod; Ballade]

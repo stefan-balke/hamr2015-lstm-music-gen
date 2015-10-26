@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Herr und Schildknecht
+    Es reit' ein Herr und reit' ein Knecht,]
+CNR[es reit' ein Herr und reit' ein Knecht,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Chateau - Salins, Insweiler]
+SRC[2, S. 23
+    1936 aufgezeichnet]
+KEY[Q0034D 16  G 3/4]
+MEL[-5_1_2_  3__2__1_3_  2__.
+    1_1_35  5__5_+1_6_5_  4__.
+    3_(2_3_2_)  4__5__(2_3_2_)  1__0_ //] >>
+FCT[Ballade, Tod, Unfall, Herr und Knecht]

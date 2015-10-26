@@ -1,0 +1,15 @@
+DVA
+CUT[Gestern Abend in der stillen Ruh
+    hoert ich im Walde einer Amsel zu]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0176  16  F 2/4 3/4]
+MEL[ 1_2_  3__3__  3_4_5_6_  5__4_
+    3_2_3_  4_.44_6_5_4_  4__3__
+    1_2_  3__3__  3_4_5_6_5__  4_
+    3_2_3_  4_.44_6_5_4_  4__3__
+    5556  5__.4_4__  0_4_4_6_  6_.55__
+    5556  5__.4_4__  0_4_4_6_  6_.55__
+    1_2_  3__3__  3_4_5_6_  5_5_4_
+    2_5_.4  4__3__0__ //] >>
+FCT[Liebes - Lied]
+CMT[dritte und fuenfte Zeile rhythmisch korrigiert; Inzipit = Variante]

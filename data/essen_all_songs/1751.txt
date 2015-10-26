@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    's waer is a mol ui guet z Obed spot,]
+CNR[dees Muellerli i dean Wald nausgoht,]
+REG[Suedosteuropa, Rumaenien, Sathmar]
+SRC[4, S. 338
+    ????]
+KEY[Q0086H 08  G 6/4]
+MEL[-5_  1_1_3_5_5_3_  2__5_4__
+    3_  2_2_5_2__1_  -7_1_3_2__
+    12  3_3_365__31  2__.1__
+    12  3_3_365__31  2__.1__ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]
+CMT[Zweistimmig notiert, Oberstimme kodiert, auch die eingeklammerte Note.]

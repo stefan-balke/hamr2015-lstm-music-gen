@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    en daar Zou eens een magetje vroeg op staan]
+CNR[en om boontjes zal zij gaan.]
+REG[Mitteleuropa, Niederlande, Friesland]
+SRC[7, S. 81
+    ????]
+KEY[Q2147F 16  G 6/8]
+MEL[-6-7  1_3_1_-5_1_3_  2_3_1_-6__
+    33  2__1_1__-7_  1__.0__ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Zwei weitere Strophenvarianten notiert, siehe auch Q0147G.
+    Eingeklammerte Noten mitgespielt. Niederlaendische Fassung.]

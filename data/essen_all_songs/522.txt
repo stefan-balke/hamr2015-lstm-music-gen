@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES STAND DIE HERBERG AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0107  16  D 2/4]
+MEL[-5_  1_.23b_4_  56b545_0_
+    3b_3b45_5_  1_1_4__
+    2_2_3b_2_  2__1_0_
+    2_223b_22  2_1_1_
+    -7b_  2_223b_5_  5_4#_5_ //] >>
+FCT[Sagen - Lied, Romanze]

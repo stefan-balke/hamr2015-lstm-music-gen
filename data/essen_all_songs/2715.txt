@@ -1,0 +1,11 @@
+F[ERK1
+CUT[EIN MEIDLIN AN DEM BODEN LAG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0116  08  G 6/4]
+MEL[1_  1__2_3__4_  3__2_1__
+    1_  5__2_5__4#_  5___0_
+    5_  4__2_3__4_  5__.4__
+    32  1__1_2_.34_  5__.
+    5_4_32  1_23456_5_.3  4_2__1__ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, betrogene Liebe
+    Ballade ?]

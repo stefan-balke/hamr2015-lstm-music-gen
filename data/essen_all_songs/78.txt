@@ -1,0 +1,20 @@
+BOEHME
+CUT[ROLAND DER RIES AM RATHHAUS ZU BREMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0106  08  E 4/4]
+MEL[  1_-5-52_-5_  3b_212_-5_
+    1_-5-52_-5_  3b_215_0_
+    7b_6b54_-7b_  6b_543b_-7b_
+    123b45_1_  6b_545__
+    +1_556b_4_  2_551_0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[ROLAND DER RIES AM RATHHAUS ZU BREMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0106  08  E 4/4]
+MEL[  1_-5-52_-5_  3b_212_-5_
+    1_-5-52_-5_  3b_215_0_
+    7b_6b54_-7b_  6b_543b_-7b_
+    123b45_1_  6b_545__
+    +1_556b_4_  2_551_0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

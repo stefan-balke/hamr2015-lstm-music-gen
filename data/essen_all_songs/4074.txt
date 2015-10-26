@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WAS IST DENN WOHL EINS SEEMANNS LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[E1507  08  G 3/4]
+MEL[565  5_.342  211
+    131  1-7-7254  3_0
+    353  322464  433
+    353  2_.224  3_0
+    334  5_.434  5+1+1
+    5+16  5_.342  1_0 //] >>
+FCT[Staende -, Seemanns - Lied]

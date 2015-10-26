@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es wohnt' ein Ratsherr dort oben an dem Rhein,]
+CNR[der hatt' drei schoene Toechterlein.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+SRC[4, S. 120
+    ????]
+KEY[Q0075y 16  F 3/4]
+MEL[-5_1_2_  3__5_5_6654  3__.
+    3_2_3_  4__5__2_3_  1__.
+    3_2_3_  4__5__2_3_  1__. //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

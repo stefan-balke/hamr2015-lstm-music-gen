@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Zwei Koenigskinder]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0026B 08  G 3/4]
+MEL[1_  1_.23b_  2__1_  2_.3b4_  5__
+    5_  4_.3b2_  3b_1__  -7b__.  ^_0_
+    -7b_  2__3b_  4__3b_  1_.23b_  2__
+    1_  -7b_-5__  1__-7_  1__.  ^_0_ //] >>
+CMT[Neusiedlers Lautenbuch 1536 I]

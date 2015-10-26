@@ -1,0 +1,10 @@
+KINDER
+CUT[SCHLAF KINDLEIN FESTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K0029  08  F 2/4]
+MEL[  3_22  1_-5
+    -5  3322  1_-5
+    1  3335  432
+    1  3335  432_
+    3_22  1_-5_ //] >>
+FCT[Kinder -, Wiegen - Lied]

@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Der Ritt durch den Wald]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0189  04  G 4/2 6/2]
+MEL[1__  3b_3b_4_4_  5__1__
+    5__  4_.56_7b__6_  7b_.65_43b  4___  0__
+    7b__  7b_5_7b_+1_  7b_6_5__
+    7b__  6b_5_5_3b_  4__.
+    5_  5_.43b_21  2___  0__
+    2__  2_2_5_4_  3b_212_2_  3b__0_
+    7b_  7b_5_6b_+1_  7b_6_5__
+    7b__6b_5_  5_3b_
+    4__  5__.43b  3b_212__  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[68 Lieder (c. 1542) No. 18.]

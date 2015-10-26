@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Herr Malmsten han droemde en droem om en natt.]
+CNR[Sa lustelig lockar man liljorna]
+REG[Nordeuropa, Schweden]
+SRC[3, S. 99
+    1880 gedruckt in Stockholm]
+KEY[Q2057J 08  G 6/4]
+MEL[123_3_2_  1_1_3_5_5_4_  3_0_
+    3_5_5_5_  5_4_3_3_2_3_  1_0_
+    123_3_2_  1_1_3_5_5_4_  3_0_
+    2_3__-5_  -6__-7_1__-7_  -6__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Textverwandte Ballade aus Schweden. Modulation in die parallele
+    Molltonart.]

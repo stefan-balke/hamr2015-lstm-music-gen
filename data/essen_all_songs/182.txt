@@ -1,0 +1,22 @@
+BOEHME
+CUT[BUNT SIND SCHON DIE WAELDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0217  08 Bb 6/8]
+MEL[  1_11-71  2_.1_.
+    3_3323  4_.3_.
+    2_223-4#  -5_.0_.
+    3_21_-7  -7_.-6_.
+    4_3231  1_.-7_.
+    135-5-6-7  1_.0_. //] >>
+FCT[Jahreszeiten - Lied, Herbst]
+BOEHME
+CUT[BUNT SIND SCHON DIE WAELDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0217  08 Bb 6/8]
+MEL[  1_11-71  2_.1_.
+    3_3323  4_.3_.
+    2_223-4#  -5_.0_.
+    3_21_-7  -7_.-6_.
+    4_3231  1_.-7_.
+    135-5-6-7  1_.0_. //] >>
+FCT[Jahreszeiten - Lied, Herbst]

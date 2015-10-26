@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Mit Gott]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0639  04  F 4/2 6/2]
+MEL[1__  1_1_3_3_  4_5_5__  0_
+    5_5_5_  5_5_2_3_  2__0_
+    5_  5__4_3__2_  1_-7-6-7__  -5___  0__
+    -5__  1_1_3_3_  4_5_5__  0_
+    3_4_5_  5_321_1_  -6-7123__
+    1__3_4_  5_.34_3_2__  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Dresdner Gsgb 1593]

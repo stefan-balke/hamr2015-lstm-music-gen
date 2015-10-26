@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES FREIT EINMAL EIN WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Vormark, Wittstock]
+KEY[E0002  08  D 4/4]
+MEL[13  5_5435+1_  6_654_
+    45  6_6_67+1+2  7_5_5_
+    5_  +1_+1_+1+2+3+1  5_67+1_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

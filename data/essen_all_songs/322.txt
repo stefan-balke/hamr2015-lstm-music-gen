@@ -1,0 +1,18 @@
+BOEHME
+CUT[DU MAEDCHEN VOM LANDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0378  08  G 3/4]
+MEL[-5_  1_1_31  -5_-5_
+    -5_  -6_-6_1-6  -5__
+    -5_  4_4_24  3_.5
+    13  2_.4-72  1__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Anmache]
+BOEHME
+CUT[DU MAEDCHEN VOM LANDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0378  08  G 3/4]
+MEL[-5_  1_1_31  -5_-5_
+    -5_  -6_-6_1-6  -5__
+    -5_  4_4_24  3_.5
+    13  2_.4-72  1__ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Anmache]

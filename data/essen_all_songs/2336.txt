@@ -1,0 +1,10 @@
+FINK
+CUT[THOMS SASS AM HALLENDEN SEE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0849  16 Eb 6/8]
+MEL[5_  3__3_2_.32_  1__.0__
+    5_  6_.56_7_.+17_  +1__.0__
+    +3_  +2_.+17_+1_7_6_  7__.5__
+    +3_  +2__.+1__3_  2__.1__
+    2_  3b_.21_-7_-7_-7_  1__.0__ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade]

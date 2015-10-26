@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES WAR EINMAL EIN FEINER KNAB]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z0045  08  E 3/4]
+MEL[113  5_3564  4_3
+    113  5_3564  4_3
+    555  3_2342  2_1
+    555  3_2342  2_1 //] >>
+FCT[Sagen - Lied, Romanze, Tod]

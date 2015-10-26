@@ -1,0 +1,26 @@
+BOEHME
+CUT[MUSS ICH MICH GETAEUSCHET WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0484  16  F 3/4]
+MEL[  1_.-51_3_6_.5  3_1_3__
+    5_.5  4__.-5_3_.2  1__0___
+    1_.-51_3_6_.5  3_1_3__
+    5_.5  4__.-5_3_.2  1__0___
+    2_.22_2_3_4#_  6__5__
+    4_3_  2__4__6_.5  3__0___
+    1_.-51_3_6_.5  3_1_3__
+    5_.5  4__.-5_3_.2  1__0___ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[MUSS ICH MICH GETAEUSCHET WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Hellertshausen]
+KEY[B0484  16  F 3/4]
+MEL[  1_.-51_3_6_.5  3_1_3__
+    5_.5  4__.-5_3_.2  1__0___
+    1_.-51_3_6_.5  3_1_3__
+    5_.5  4__.-5_3_.2  1__0___
+    2_.22_2_3_4#_  6__5__
+    4_3_  2__4__6_.5  3__0___
+    1_.-51_3_6_.5  3_1_3__
+    5_.5  4__.-5_3_.2  1__0___ //] >>
+FCT[Liebes - Lied, Leid, Klage]

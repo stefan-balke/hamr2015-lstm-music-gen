@@ -1,0 +1,10 @@
+DVA
+CUT[Arme Seele
+    Dort drunten, dort droben vor einiger Tuer,]
+CNR[da steht eine arm Seele ganz traurig dafuer.]
+REG[Europa, Mitteleuropa, Lothringen, Woelflingen]
+KEY[D0062A 16  G 3/8]
+MEL[-4_  1_1_1_  -7b_-6_-5_  3b_2_1_  2_0_
+    -7b_  2_3b3b4_  3b_2_1_  -7_1_2_  1__0_ //] >>
+FCT[geistliches Lied]
+CMT[Variante zu D0062]

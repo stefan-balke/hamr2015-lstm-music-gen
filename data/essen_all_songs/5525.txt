@@ -1,0 +1,9 @@
+KINDER
+CUT[ALS ICH EINMAL REISTE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel, Kirchditmold]
+KEY[K2255  08  G 2/4]
+MEL[  1111  133_
+    3222  433_
+    1111  133_
+    3222  1_0_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz, Nachahmungs - Spiel]

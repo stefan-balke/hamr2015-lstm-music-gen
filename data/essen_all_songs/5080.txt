@@ -1,0 +1,9 @@
+BOEHME
+CUT[SCHLAF HERZENSSOEHNCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0620  16  C 3/8]
+MEL[  5_3_4_  5_.+3+1_  7_6_7_  +1__.
+    7_7_7_  +1_7_+3_  +2_.+16_  5__.
+    5_5_5_  6_5_5_  5_5_5+1  +1__.
+    7_6_7_  +1_3_6_  5_.42_  1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

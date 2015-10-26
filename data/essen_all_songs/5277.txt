@@ -1,0 +1,10 @@
+F[ERK5
+CUT[Elslein, liebes Elslein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0083C 08  D 3/4]
+MEL[1__3b_  2__1_  2_.3b4_  5__
+    5_  1__2_  4_.3b21  -7b__.  0__
+    -7b_  2_.3b4_  3b__2_  1_.23b_  2__
+    1_  -7b__-5_  -6_-7_.-6  1__. //] >>
+FCT[Lied]
+CMT[15. Jh.]

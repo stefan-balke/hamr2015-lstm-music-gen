@@ -1,0 +1,9 @@
+FINK
+CUT[ABEND SINKT STILL AUF DIE FLUR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0288  16  F 3/8]
+MEL[  3_.43_  2_.32_  1__0_
+    2_2_2_  3_.35_  5__4_  2__0_
+    3_3_4#_  5_5_6_  7__6_  5__0_
+    +1_5_3_  5_4_2_  1__0_ //] >>
+FCT[Jugend - Lied, religioes, Tageszeiten, Abend]

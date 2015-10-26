@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH ARMES KAEUZLEIN KLEINE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0432  08  F 6/4]
+MEL[1_  1__1_3__3_  1__.2__
+    34  5__4_3__2_  1___0_
+    1_  1__3_2__2_  -5_.-6-7_1__
+    1_  3_5_4_3__2_  1___0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,9 @@
+FINK
+CUT[SCHLAF HERZENSSOEHNCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0070  16  C 3/8]
+MEL[  5_3_4_  5_.+2+1_  7_.67_  +1__0_
+    7_.77_  +1_7_+3+2  +2_+1_67  5__0_
+    5_.55_  6_5_5_  5_5_5+1  +1__0_
+    7_.67_  +133_65  5_.423  1__0_ //] >>
+FCT[Schlaf -, Wiegen - Lied]

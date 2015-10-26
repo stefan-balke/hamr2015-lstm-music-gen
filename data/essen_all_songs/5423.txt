@@ -1,0 +1,9 @@
+KINDER
+CUT[A B C DIE KATZE LIEF IN SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K0514  16  G 2/4]
+MEL[  1__3__  5__0_
+    5_  5_.43_2_  1__0__
+    3_3_4_4_  5__0__
+    3_3_2_2_  1__0__ //] >>
+FCT[Kinder -, Spiel - Lied]

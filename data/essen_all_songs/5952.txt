@@ -1,0 +1,19 @@
+F[BALLADE
+CUT[Kerenstein
+    Ich bin durch frawen willen]
+CNR[geritten in fremdeu Land,]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[1, S. 173
+    1540 gedruckt in Antwerpen]
+KEY[Q0018  08  G FREI]
+MEL[1_  1_1_2_3_  4__4__0_
+    5_  6__6_5__5_  4_.5645__0_
+    1_  2_5__4_4_5_  3_.21__0_
+    5_  4_2_3_5__3_  ^_212__0_
+    1_  2_5__4__5_  3_.21__0__
+    4_  2_2_1_-7b__1_  2__0_
+    1_  1_2_3_4_3_2_  ^1-7b1232__
+    5_  5_3_4_5__4_  ^_321__ //] >>
+FCT[Ballade, Liebe; geistlich]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.
+    Eingeklammerte Pausen mitgespielt. Melodie: geistliche Kontrafaktur.]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WENN ALLE BAECHLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen]
+KEY[E0429A 08  G 4/4]
+MEL[-5_  1_1_1-7-6_  -5_132_0_
+    333_2__  1__0_
+    12  3_465_3_  2_3_4_0_
+    3__5_3_  2_1_2__
+    333_2__  1__0_ //] >>
+FCT[Liebes - Lied]

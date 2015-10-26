@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    ohne Text]
+REG[Mitteleuropa, Oesterreich, Burgenland]
+SRC[5, S. 207
+    1956 gedruckt in Eisenstadt]
+KEY[Q1107D 16  G 4/4]
+MEL[1_2_  3__4_2_5_655_3_  4__5_4_3__
+    3_1_  2__5_3_5__3__  2_-7_1__0__ //] >>
+FCT[Totenwacht - Lied]
+CMT[Melodievergleich zu Q0107B, anderes Lied. Verzierung (Vorschlag) .]

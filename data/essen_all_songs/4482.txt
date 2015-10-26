@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Geistlicher Weckruf]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0396B 02  G 4/2 6/2]
+MEL[1  1123  4_4_0
+    3  2_14_3  4_0
+    4  3344  5_5_0
+    4  34542_  1_0
+    1  2255  4_3_
+    2_  1_-7b1-6_  -5_0
+    -5  2_2234  5_5_0
+    4  32132_  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Souterliedekens 1540 ad Ps. 68]

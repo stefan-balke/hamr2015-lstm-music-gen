@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Argwohn"
+    UND DIE WUERZBURGER GLOECKLI HOBE SCHOENES GELAEUT]
+REG[Europa, Mitteleuropa, Deutschland, Bayern; Tirol]
+KEY[Z1192  16  C 3/4]
+MEL[3_4_  5__.4_3__  3__2__
+    2__  4__.3_2__  4__3__
+    3_4_  5__.4_3__  3__2__
+    2__  6__5__7__  1___0_
+    5_  5_+4_+2__.5_  5_+3_+1__.
+    5_  5_7_+2_5_7_+2_  +1_5_+1_+3_+5_.
+    5  5_+4_+2__.5_  5_+3_+1__.
+    5_  5_6_7_+1_+3_+2_  +1___ //] >>
+FCT[Liebes - Lied]
+CMT[Die letzten 8 Takte werden auf die Silbe 'la' gesungen]

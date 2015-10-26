@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Starlar pometa stalico,]
+CNR[zvizglja in poje prelepo.]
+REG[Suedosteuropa, Jugoslawien, Oberland]
+SRC[5, S. 126
+    1901 aufgezeichnet (zw. 1881 und 1901)]
+KEY[Q2100E 08  G 6/8]
+MEL[-5  1_31_3  4_32_
+    1  -7_52_4  3_21_ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat]
+CMT[Jugoslawische Fassung der Ballade.]

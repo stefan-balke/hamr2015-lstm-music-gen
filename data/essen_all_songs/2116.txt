@@ -1,0 +1,15 @@
+FINK
+CUT[WIE SOLLEN WIR EUCH DANKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0400  08  C 4/4]
+MEL[-5_  -3_-1_-3_-5_  1__1_
+    1_  2_421_-7_  1__0_
+    1_  3_1_-5_3_  2__1_
+    1_  -7_.-7-6_.-6  -5__0_
+    -5_  2_.21-7-6-7  1__1_
+    1_  2_.21-7-6-7  1__0_
+    -5_  3_.32_.2  1__2_
+    42  1_.1-7_-6-7  1__0_
+    -5_  3_.32_.2  1__2_
+    42  1_.1-7_-6-7  1__0_ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

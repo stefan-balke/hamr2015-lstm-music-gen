@@ -1,0 +1,9 @@
+F[ERK3
+CUT[SITZT A SCHENS VEGERL]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[E1575B 16  F 3/8]
+MEL[  3_3_3_  4_3_4_  5_3_1_
+    3_3_3_  4_3_4_  5__.
+    3_3_3_  4_3_4_  5_3_1_
+    3_3_3_  4_4342  1__. //] >>
+FCT[Staende - Lied, Fuhrmann]

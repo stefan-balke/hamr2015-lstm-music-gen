@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[ES GING EIN MUELLER WOHL UEBERS FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0059  08  G 4/4]
+MEL[-5_  1_3b_2_5_  4_53b2_
+    -5_  1_3b3b225_  4_53b2_
+    5_  5_4_5_3b2  3b_1_0_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

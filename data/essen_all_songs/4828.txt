@@ -1,0 +1,16 @@
+DVA
+CUT[Ja grueass di God, Frual vo da Au
+    ja lebst denn du a no, schau, schau]
+REG[Europa, Mitteleuropa, Deutschland, Niederbayern]
+KEY[D0072  08  C 3/4]
+MEL[-5_  3_.33_  5_.333  4_0_0_  0_0_
+    -5_  4_4_5_  6_5_4_  3_0_0_  0_0_
+    -5_  3_.33_  5_.33_  4_0_0_  0_0_
+    -5_  4_4_5_  6_5_4_  3_0_
+    3_  4_.45_  6_5_4_  333_4_  5_4_
+    3_  2_.22_  4_3_2_  3_0_
+    3_  2_3_4_  5_5_4_  3_0_ //] >>
+FCT[historisches Lied, bayrische Erbfolgekriege]
+CMT[Pentatonik (Grundton ?) , Unterstimme in Terzparallelen (ergaenzt
+    die Skala zur Heptatonik - Ionisch) ; Grundton in der
+    zweigetrichenen Oktave; Inzipit = Transposition zum Lied]

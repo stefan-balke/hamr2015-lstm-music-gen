@@ -1,0 +1,18 @@
+BOEHME
+CUT[VERGISS MEIN NICHT O THEURE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0394  16  C 4/4]
+MEL[3_3_4_  5__.5_5_+3_+2_+1_  +1_7_7__0_
+    7_7_+1_  +2__.7_5__.4_  3___0_
+    5_5_5_  +1__.+1_7_+1_7_+1_  +1__6__^+17+1+2+176  6_5_5__0__.
+    5_  5___.6_7_  +1___0__.5_  5___.4_2_  1___0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[VERGISS MEIN NICHT O THEURE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0394  16  C 4/4]
+MEL[3_3_4_  5__.5_5_+3_+2_+1_  +1_7_7__0_
+    7_7_+1_  +2__.7_5__.4_  3___0_
+    5_5_5_  +1__.+1_7_+1_7_+1_  +1__6__^+17+1+2+176  6_5_5__0__.
+    5_  5___.6_7_  +1___0__.5_  5___.4_2_  1___0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

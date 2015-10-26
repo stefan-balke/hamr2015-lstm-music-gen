@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Muskatbaum
+    Bjestaj tam, bjestaj tam 'rodaj mi dwaj,]
+CNR[wobaj 'rodaj mi murjowanaj.]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
+SRC[6, S. 147
+    1841 gedruckt in Grimma]
+KEY[Q2130D 08  A 3/4]
+MEL[  -4_-4_-7b_  1_-5_-4_  -5_-5_-7_  1__
+    3b2  1_-7b-6-5_  -6_-7b_1_  -5__0_ //] >>
+FCT[Ballade, Werbung, Standesunterschied]
+CMT[Sorbische Fassung der Ballade. Verzierung (Vorschlag) im letzten
+    Takt. Grundton unsicher.]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es ritt ein Jaeger wohlgemut,]
+CNR[zwei Federn trug er auf seinen Hut]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+SRC[3, S. 104
+    ????]
+KEY[Q0057Y 16  G 3/4 2/4 3/8]
+MEL[-5_  1_1_3__.1_  1_-7b_-6__.
+    1_  -7-71_2__-7__  1_-6_-5__0__
+    1__-5__  -6_-5_-5_.
+    -5  1_-5_-5-5  -6_-5_
+    -5_  112_3__1__  4_2_1__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Vierte und fuenfte Zeile = Refrain auf sinnfreie Silben.]

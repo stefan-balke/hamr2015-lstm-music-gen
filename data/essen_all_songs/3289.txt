@@ -1,0 +1,9 @@
+F[ERK2
+CUT[MEIN GLUECK BLUEHT AUF DIESER WELT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+KEY[E0728B 16  G 4/4 2/4]
+MEL[-5__  1__1__1_-5_-5_-7_  1___0__
+    1_2_  3__3_5_4__3__  4_3_
+    2_1_  -5_.-5-5_4_3__.2_  3__
+    4_2_  1_.11_3_3_2_2_-7_  1___0__ //] >>
+FCT[Liebes - Lied, Leid, Klage. +++ TAKTART 2/4 ergaenzt +++]

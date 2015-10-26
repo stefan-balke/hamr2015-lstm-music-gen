@@ -1,0 +1,8 @@
+F[ERK3
+CUT[HOPSA MEI LORCHE DREH DICH MAL DRUM]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar]
+KEY[E1001A 08  G 3/8]
+MEL[  333  3_5  544  3_0
+    333  544  244  433
+    333  3_5  544  3_0 //] >>
+FCT[Tanz - Lied, Hopps - Walzer]

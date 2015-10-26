@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der Meierin Sohn
+    Bie vrie ischt auf de Moararin junkh!]
+CNR[Shi pettait uen ier Biegle beiss.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Buehel]
+SRC[4, S. 234
+    1906 aufgezeichnet]
+KEY[Q0083  08  F 3/4]
+MEL[23  4_3_43  2_1_2_  3_3_2_  1__
+    12  3_2_32  1_-7_1_  2__2_  1__ //] >>
+FCT[Ballade, Mord, Vergeltung, Heirat]

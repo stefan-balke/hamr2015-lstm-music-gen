@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ansingelied zum Neujahre]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0530A 02  G 4/1]
+MEL[1  1_1_2_1_  4_5_4_0
+    3  5_6_5_3_  4_2_1_0
+    1  4_3_5_2_  1_-6_-5_0
+    -5  2_2_2_3_  4_2_1_2_  -7_1_2__  1___ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Baseler hs. Tenor 1544 - 1574.]

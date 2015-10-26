@@ -1,0 +1,10 @@
+F[ERK3
+CUT[WER KANNS VERDENKEN MICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Hennethal]
+KEY[E1733  08  G 4/4]
+MEL[-5_  1_3_322_  1__
+    2__  3_5_543_  2__0__
+    5_.4321_  6_6_5__
+    5_543_3_  322_1__
+    4_6_5_3_  322_1_ //] >>
+FCT[Scherz - Lied]

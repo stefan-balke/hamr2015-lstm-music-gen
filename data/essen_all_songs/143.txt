@@ -1,0 +1,18 @@
+BOEHME
+CUT[ALLDORT AUF GRUENEN MATTEN]
+REG[Europa, Mitteleuropa, Unter - Oesterreich]
+KEY[B0172  16  F 2/4]
+MEL[-5_  1_2_3_4_  5_.65_
+    5_  +1_5_5_6_  5__0_
+    5_  5_.4#6_4#_  4#_3_5_
+    3_  3_.24#_2_  1__0_ //] >>
+FCT[Natur - Lied, Berg]
+BOEHME
+CUT[ALLDORT AUF GRUENEN MATTEN]
+REG[Europa, Mitteleuropa, Unter - Oesterreich]
+KEY[B0172  16  F 2/4]
+MEL[-5_  1_2_3_4_  5_.65_
+    5_  +1_5_5_6_  5__0_
+    5_  5_.4#6_4#_  4#_3_5_
+    3_  3_.24#_2_  1__0_ //] >>
+FCT[Natur - Lied, Berg]

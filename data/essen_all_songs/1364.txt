@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Elsberger
+    Dai erschte Schtunde in der Nocht,]
+CNR[lei bu shei Maria khreanen tont.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 140
+    ????]
+KEY[Q1059G 04  G 6/4]
+MEL[3123  1233_2  -7_
+    2-712  -7124_3  1_ //] >>
+FCT[Marien - Lied, Brauchtum, geistlich]
+CMT[Melodievergleich zu Q0059B, anderes Lied]

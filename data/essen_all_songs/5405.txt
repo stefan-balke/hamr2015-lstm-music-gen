@@ -1,0 +1,11 @@
+KINDER
+CUT[HEIJO WOERN WIR DO]
+REG[Europa, Mitteleuropa, Deutschland, Ruhrgebiet]
+KEY[K0115A 16  F 2/4]
+MEL[  5__3__  5_5_3__
+    5_5_336_  5__3__
+    5_5_3_6_  5__3__
+    1_2_3_4_  5_5_5__
+    6_5_4_33  2_221__
+    1_2_334_  2_2_1__ //] >>
+FCT[Kinder -, Wiegen - Lied]

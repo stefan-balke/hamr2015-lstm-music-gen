@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Ic quam ghereden in een dal]
+CNR[Ic quam ghereden in een dal]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 258
+    1540 gedruckt in Antwerpen]
+KEY[Q3068E 16  G FREI]
+MEL[1_  1__3b__  2__5__  43b454_3b_  2__0_
+    1_  1__3b__  2__5__  43b454_3b_  2__0_
+    5_  5_5_7b__6b_  5__4_  5__
+    3b__  2_3b_4_  5__1_  3b23b43b_2_  1__ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0068A, anderes Lied.]

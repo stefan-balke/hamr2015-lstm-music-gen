@@ -1,0 +1,9 @@
+F[ERK2
+CUT[JETZT KOMMT DIE FROHE STUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Taunus, Wuerges]
+KEY[E0641A 08 Bb 6/8]
+MEL[-5  -5_-4-3-51  1_2-7_
+    -5  -5-72234  4_53_
+    1  2_2232  1_23_
+    3  4_4454  3__0 //] >>
+FCT[Liebes - Lied]

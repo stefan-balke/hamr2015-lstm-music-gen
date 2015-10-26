@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es ritt ein Ritter wol durch das Ried,]
+CNR[daraus singt er ein schoenes Lied,]
+REG[Mitteleuropa, Deutschland (BRD) , Gegend von Heidelberg]
+SRC[2, S. 105
+    1806 aufgezeichnet]
+KEY[Q0041N 08  G 3/2 6/4]
+MEL[112  3__2__3_43  2__0_
+    321_1-7  1__3__2_32  1__.0__
+    2_  -7_-6_-7_-5_-6_-7_  1__232__
+    3_  -6__-6_-5_.11_  2__.1__
+    2_  -7_-6_-7_-5_-6_-7_  1__232__
+    3_  -6__-6_-5_.11_  2__.1_. //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Schlusston rhythmisch korrigiert.]

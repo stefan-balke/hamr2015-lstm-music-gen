@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Schoenster Ulrich wollt' spazieren gehn,]
+CNR[Lorentinchen die wollt' mit ihm gehn,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+SRC[2, S. 112
+    1892 aufgezeichnet (oder 1894)]
+KEY[Q0041X 08  G 4/4]
+MEL[-5-5  1_1_1351  3_2_-7_
+    -5-5  4_4_46+14  6_5_3_0_
+    5332234-7  211_0_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

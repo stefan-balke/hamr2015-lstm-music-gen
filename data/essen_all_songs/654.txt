@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ES GING EIN JAEGER JAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0238  16  D 3/8]
+MEL[  5_3_1_  -7_6_54  3_1_0_
+    3_3_3_  5_4_23  1__0_
+    553_1_  -7_6_54  3_1_0_
+    3_3_3_  5_4_23  1__0_
+    2_-7_-5_  1_3_53  3_2_0_
+    2_-7_-5_  1_3_53  2__0_
+    5_3_1_  -7_6_54  3_1_0_
+    3_3_3_  5_4_23  1__0_ //] >>
+FCT[Jaeger - Lied]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die zehen Gebote Gottes]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0620A 02  G 4/1]
+MEL[1  1_1_1_1_  2_3b_4_0
+    4  5_5_4_1_  2_3b_4_0
+    4  5_5_4_1_  2_1_-7b_0
+    -7b  2_3b_4__  3b_1_3b_2_  1_1_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Erfurter Enchiridion I. 1524 No. 1]

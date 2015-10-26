@@ -1,0 +1,11 @@
+DVA
+CUT[Dem Kuhlips war die Kau gepfaend't
+    der         taet's nich fassen]
+REG[Europa, Mitteleuropa, Deutschland, Mittelhessen, Langsdorf]
+KEY[D0087  08  G FREI]
+MEL[5  +1531  666_0
+    6  5542  330
+    5  +1531  666_0
+    6  5542  330 //] >>
+FCT[Bauern - Klage]
+CMT[Taktart in "FREI" korrigiert; Grundton in der kleinen Oktave]

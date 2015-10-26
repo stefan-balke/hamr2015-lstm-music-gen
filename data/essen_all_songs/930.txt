@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Verdacht"
+    ES FLEUGT GAR MANCHES VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+KEY[Z1195  16  G 2/4]
+MEL[-5_  1_.-71_2_  3_.23_3_  4_3_2_1_  2__0_
+    -5_  1_.-71_2_  3_.23_3_  4_3_2_1_  2__0_
+    3_  2_.32_-5_  -5_.-6-5_2_  2_.32_-5_  -5_.-6-5_
+    -5_  1_1_2_2_  3_.45_4_  3_3_2_2_  1__0_ //] >>
+FCT[Liebes - Lied, verlassene Liebe]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Ein Abendreihen vom Herrn Christo]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0287  04  F 4/4]
+MEL[1  5511  551_
+    5_65  4322  1_0
+    2  2221  -712_  0
+    431  2211  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Nik. Hermann Historien von der Sindflut 1563.]

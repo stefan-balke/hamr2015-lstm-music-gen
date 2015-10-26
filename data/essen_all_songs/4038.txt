@@ -1,0 +1,10 @@
+F[ERK3
+CUT[A LIEDLA Z SINGA]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Landshut]
+KEY[E1466  08  F 3/4]
+MEL[5_  6_4_.6  5_3_.
+    5  4_2_24  4_3_0
+    5  6_4_6_  5_3_.
+    5  4_2_-72  1_3_
+    5_  4_2_2_  1__ //] >>
+FCT[Staende -, Jaeger - Lied, Wilderer]

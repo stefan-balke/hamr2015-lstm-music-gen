@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Dei Heufahrt"
+    ES HATTE EIN BAUER EIN SCHOENES WEIB]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1082  16  A 6/8]
+MEL[-5_  3_.21_1_-7_1_  5_4_2_2__
+    2_  3_2_1_1_-7_1_  2__0__.
+    2_  2__2_2_3_4#_  5_4#_3_2__
+    2_  2_2_2_2_1_-6_  -5__0__.
+    -5_  3_.43_2_1_2_  1__0__.
+    -5_  3_.43_2_1_2_  1_3_5_1_3_
+    5_  6__4_4__6_  5__3_3__
+    5_  2_3_4_-5_-6_-7_  1__0__. //] >>
+FCT[Romanze, Ballade]

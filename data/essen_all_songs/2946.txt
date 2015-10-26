@@ -1,0 +1,9 @@
+F[ERK1
+CUT[FRAU NACHTIGALL KLEINS VOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Siebengebirge]
+KEY[E0413A 16  F 3/4]
+MEL[1_  3_321__.1_  3_321_
+    1_-7_1_  2__5_4_3_4_  5__0_
+    5_5_67  +1__5_5_4_3_  2__.
+    1_1_3_  5__2__5_54  3___0_ //] >>
+FCT[Liebes - Lied]

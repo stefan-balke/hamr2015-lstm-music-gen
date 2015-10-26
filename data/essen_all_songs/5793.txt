@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Missheirath]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0250  04  G 4/2]
+MEL[1_1_1_  123b45__  0_5_5_5_  4_.3b2_
+    2_  3b_.21_1_  2__1__  0_
+    1_1_1_  123b45__  0_5_5_5_  4_.3b2_
+    2_  3b_.21_1_  2__1__  0_
+    1_2_3b_  4_.3b2_1_  -7b__0_
+    7b_  6_5_4_5_  6__5__  0_
+    5_5_5_  7b_6_5_5_  4_.3b2_
+    5_  4_3b_2_1_  2__1__  0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Ott III. 1544 No. 16 und 110.]

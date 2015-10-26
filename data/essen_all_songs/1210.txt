@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Dixit Dominus Domino meo:]
+CNR['Sede a dextris meis!']
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 237
+    1933 gedruckt in Heidelberg]
+KEY[Q1049F 04  G FREI]
+MEL[1__  12343  2
+    5__  23432  1 //] >>
+FCT[geistlich, lutherische Vesper]
+CMT[Melodievergleich zu Q0049 ff., anderes Lied]

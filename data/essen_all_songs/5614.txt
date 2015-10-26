@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Schwimmersage]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0025  04  G 3/2]
+MEL[1_  1__3b_  2__1_  2_.3b4_  4__
+    3_  4__2_  3b_2__  1__.  0__
+    -7b_  2__3b_  4__3b_  1_.23b_  2__
+    1_  -7b_-5__  1__-7_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie und Text bei Forster II. 1540 No. 49]

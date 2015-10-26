@@ -1,0 +1,10 @@
+FINK
+CUT[IN SANITATATEM OMNIUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0506  16  G 3/4]
+MEL[-5_  1_.11__.3_  3_.22__.5_  3__0__.
+    -5_  1_.11__.3_  3_.22__.5_  3__0__.
+    3_  5_.55__.6_  5_.44__.
+    4_  3_.55__4_3_  3_.22__.
+    5_  3_.32_.21_ //] >>
+FCT[Studenten -, Trink - Lied, Trinkspruch]

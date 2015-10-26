@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HANS IM SCHNOCKELOCH]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1723  16  F 2/4]
+MEL[  5__5_6_  5_.43_
+    3_  4_4_2_2_  3__0__
+    2_.34_2_  3_.45_
+    3_  2_.34_2_  3_.45_0_
+    5__5_6_  5_.43_
+    3_  4_4_2_2_  1__0__ //] >>
+FCT[Scherz - Lied]

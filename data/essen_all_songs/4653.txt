@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Osterjubel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0564A 02  F 3/2]
+MEL[1  1_3  5_5  534  5_
+    7  +1_6  +1_5  564  3_
+    1  2_2  2_3  12_  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Gsgb der boehm. Brueder 1544.]

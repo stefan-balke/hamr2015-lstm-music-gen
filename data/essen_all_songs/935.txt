@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Das Ringelein"
+    BALD GRAS ICH AM NECKAR]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1200  08  G 3/4]
+MEL[34  3_2_2_  1_3_
+    3_  5_2_2_  5__
+    34  3_2_2_  1_3_
+    3_  5_2_23  1__ //] >>
+FCT[Liebes - Lied, verlassene Liebe; Tanz - Lied, Schnadahuepfel]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[Der Koenigin Luise Abschied
+    WILHELM KOMM AN MEINE SEITE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0042  08 Bb 3/4]
+MEL[-5-7  1_.-5-6-7  1-5-5
+    -513  2_.-712  -7__
+    -5-5  432151  1-7-6-5
+    -3-5  1_5_42  1__ //] >>
+FCT[Sagen - Lied, Romanze]

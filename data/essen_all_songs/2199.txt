@@ -1,0 +1,12 @@
+FINK
+CUT[AUF BRUEDER LASST UNS ROSEN PFLUECKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0542  08  A 2/4]
+MEL[  1_11  1_3_  2_5_  3_1_
+    2_22  2_.1  -7_-6_  -5_0_
+    1_11  1_3_  2_5_  3_1_
+    2_22  2_.1  -7_-6_  -5_0_
+    3_33  3_23  4_3_  2__
+    5_55  5_.3  4345  6__
+    5_55  5_.3  2123  1_0_ //] >>
+FCT[Studenten - Lied, Geselligkeit]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Als Odilia ein klein Kind war,]
+CNR[als Odilia ein klein Kind war,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Niederrhein]
+SRC[2, S. 100
+    1840 gedruckt in Berlin]
+KEY[Q0041M 08  A 3/4]
+MEL[-7b3b4  5_46b54  3b_.
+    -7b3b4  5_46b54  3b_.
+    212  3b1453b2  1_.
+    -712  3b1453b2  1_0 //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT["Loser Zusammenhang zur Ballade"]

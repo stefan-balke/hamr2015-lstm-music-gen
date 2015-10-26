@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Es flog ein kleins Waldvoegelein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0134  08  F 4/4]
+MEL[1_  1_5_3_1_  -7_.12_
+    -5_  -6_1_1_-7_  1__0_
+    1_  1_5_3_1_  -7_.12_
+    -5_  -6_1_1_-7_  1__0_
+    3_  1_5_543_  2__2_
+    4_  3_2_3_1_  2__0_
+    5_  4_3_2_1_  -7_.12_
+    -5_  -6_1_1_-7_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Memminger Tabulaturbuch (Hs. Anfang des 17. Jh.)]

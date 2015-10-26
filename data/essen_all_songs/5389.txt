@@ -1,0 +1,9 @@
+KINDER
+CUT[EIA POPEIA WAS RASSELT IM STROH]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K0050  16  G 3/8]
+MEL[  5_.65_  3_2_3_  1_-7_1_  -5__0_
+    5_.65_  3_2_3_  1_-7_1_  -5__0_
+    1_.-71_  2_.12_  5_5_5_  2__
+    4_  3_.211  2__-5_  1__1_  1__. //] >>
+FCT[Kinder -, Wiegen - Lied]

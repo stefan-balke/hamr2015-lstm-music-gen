@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[GESTERN ABEND WAR VETTER MICHEL HIER]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0163  08  F 4/4]
+MEL[12  3_1_1_23  4_2_2_
+    54  3_1_1_-71  21-7-6-5_
+    12  3_1_1_23  4_2_2_
+    55  54321_32  1_1_1_
+    34  5_5_5_7b_  6_4_4_
+    45  6_6_6_+1_  7_5_5_
+    12  3_1_1_23  4_2_2_
+    55  3_3_2123  1_1_1_ //] >>
+FCT[Erzaehlung, lustige Romanze]

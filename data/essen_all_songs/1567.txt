@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    'Ach Mutter, ich kann nicht laenger mehr warten,]
+CNR[ich muss haben ein' Mann!]
+REG[Mitteleuropa, Luxemburg, Boxhorn]
+SRC[4, S. 43
+    1900 aufgezeichnet (ca.)]
+KEY[Q0073C 16  D 3/8 3/4 2/4]
+MEL[5  5_5555  5_5555
+    6__5_  3_2_3_  2__0__
+    2_3_  4__6_6_  6__5_4_  3__5_6_  5_3_
+    3_1_  2__4_3_  2__1__  4__6_+2_  +1__0 //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]
+CMT[Schlusspause korrigiert.]

@@ -1,0 +1,18 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Du hast gesagt, du naehmest mich,]
+CNR[sobald der Sommer anfaengt.]
+REG[Osteuropa, UdSSR, Russland, Bessarabien]
+SRC[8, S. 288
+    ???? aufgezeichnet]
+KEY[Q0155B.08  G 4/4]
+MEL[-5_  1_.-72_-6-7  1_1_-5_
+    -5_  3_3_234_  3_0__
+    12  3_.55_6_  5_654_
+    3_  2_.22_3_  456_5_
+    54  3_3_234_  3__0_
+    12  3_.55_6_  5_654_
+    3_  2_.22_3_  456_5_
+    54  3_3_234_  3__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebes - Lied]
+CMT[Verzierungen (Vorschlaege) in der dritten und sechsten Zeile.]

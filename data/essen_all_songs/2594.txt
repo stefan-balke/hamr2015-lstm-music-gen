@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES LEIT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0061  08  F 3/4]
+MEL[1_  1__3_  3__1_  3__4_  5__
+    1_  5__5_  5__3_  4__5_  3__
+    3_  4__4_  4__5_  2__2_  2__
+    2_  5__5_  3_1_3_  5__43  2__
+    2_  3__2_  1_.-7-7-6  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

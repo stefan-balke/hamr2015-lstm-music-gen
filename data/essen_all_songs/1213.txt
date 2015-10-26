@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Maria jitet in Hirschpodne,]
+CNR[Herr Jeshisch manet in Roggpodne.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 238
+    ????]
+KEY[Q1049I 08  G 3/2]
+MEL[-5_1_2_  3_.-72__1_-7_  -6__0_
+    -7_-5_-7_  1_.23__-7_2_  1__0_ //] >>
+FCT[Brauchtums - Lied, religioes]
+CMT[Melodievergleich zu Q0049B, anderes Lied.]

@@ -1,0 +1,14 @@
+F[ERK2
+CUT[DRAUSS IST ALLES SO PRAECHTIG]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0646  08  A 3/4]
+MEL[-5-5  -6_-5_3_  3_2_
+    1-7  2_1_-6_  -5__
+    33  3_2_.2  3_2_
+    5_  4#_.21-6  -5__
+    -5_  4_4321  1-7-7_
+    -5-5  4_4321  1_-7_
+    -5_  3_.355  5_4_
+    32  1-53_2_  1__
+    (-5-3-6)  -533_2_  1__ //] >>
+FCT[Liebes - Lied, Jahreszeit, Fruehling]

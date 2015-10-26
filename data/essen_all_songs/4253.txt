@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ZUFRIEDENHEIT IST MEIN VERGNUEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen; Rheinland; Nassau]
+KEY[E1804A 16 Bb 3/4]
+MEL[-5_  -3_-5_-3_-5_1-7-6_  -6__-5__0_
+    1_  -7_1_2_3_4_3_  3__2__0_
+    3_  2_.32_1_-7_-6_  -5_.-6-5_-4_-3_-5_  1__0__
+    1_2_  3_3_3_5_432_  1__0__. //] >>
+FCT[Moral - Lied]

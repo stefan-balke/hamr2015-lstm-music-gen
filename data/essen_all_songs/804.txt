@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Albertus Magnus"
+    DIE KOENIGIN BLICKT DURCHS FENSTER]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1069  16  G 6/8]
+MEL[-5_  1_.11_2__3_  432__0__
+    4_  3_1_4_5_6b_5_  4__.0__
+    1_  4__5_6b_5_4_  5_2__0__
+    4_  3b_2_1_2_3b_2_  1__.0__ //] >>
+FCT[Romanze, Ballade]

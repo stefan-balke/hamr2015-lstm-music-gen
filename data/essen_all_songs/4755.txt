@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Vom juengsten Tag]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0657  02  A 4/1]
+MEL[1_  1_1_3b_1_  -6b_1_-6b_0
+    1  1_1_3b_1_  -6b_1_-6b_0
+    -6b  2b_1_-7b_2b_  1_-6b_-4_0
+    1  2b_1_-7b_2b_  1_-6b_-4_0
+    2b  1_-7b_-6b_-4_  -6b-6b-7b-7b1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[J. Walther Gsgb 1551]

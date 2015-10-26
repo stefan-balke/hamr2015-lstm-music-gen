@@ -1,0 +1,13 @@
+BOEHME
+CUT[DIE BLUEMELEIN SIE SCHLAFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein ?]
+KEY[B0624  08  A 4/4]
+MEL[-5_  1_.23_2_  1__-7_
+    1_  234_321_  2__0_
+    -5_  1_.23_2_  1__-7_
+    1_  234_321_  2__0_
+    34  5_3_4_5_  6_.54_
+    23  4_4_3_5_  2__.0_
+    5_.32__  3_.212
+    34  5_123_2_  1__0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

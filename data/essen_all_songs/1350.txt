@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Scheintod
+    Mer walle gon, mer walle net ston,]
+CNR[mir wallen aser Brokt ene Roken dron.]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[3, S. 120
+    1931 gedruckt in Herrmannstadt]
+KEY[Q1058C 08  F 3/4 4/4]
+MEL[-512  3_.-512  3_0
+    54321  3_-5-51_2_  3_0 //] >>
+FCT[Hochzeits- , Rocken - Lied, Brauchtum]
+CMT[Melodievergleich zu Q0058A, anderes Lied.]

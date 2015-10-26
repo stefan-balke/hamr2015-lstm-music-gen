@@ -1,0 +1,13 @@
+FINK
+CUT[HINAUS IN DAS LAND UND WEITER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0064A 08 Bb 4/4]
+MEL[-5  1_113b_21  5_.22_0
+    2  3b_.3b4_.4  5__.0
+    5  5_.11_23  4_4_0_.
+    4  4_-5-5-5_-6-7  1__.0
+    -5  5_117b_6b5  6b_6b_0_.
+    6b  5_555_.-7  1_+1__7b
+    6b  5_555_.-7  1__.0 //] >>
+FCT[Liebe, Schmerz, Schaefer - Lied]
+CMT[Strophenvariante zu F0064]

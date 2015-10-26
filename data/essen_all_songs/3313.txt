@@ -1,0 +1,12 @@
+F[ERK2
+CUT[ACH GOTT WIE WEH THUT SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0746A 08  G 6/8]
+MEL[1  2_1-7_-6  -6_.-5_
+    -5  1_1212  3__0
+    1  2_1-7_-6  -6_.-5_
+    -5  1_1212  3__0
+    3  5_55_5  5_22_
+    2  4_4654  4_.3_
+    3  4321_-7  1__0 //] >>
+FCT[Abschieds - Lied, Liebe]

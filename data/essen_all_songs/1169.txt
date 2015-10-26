@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der betruegerische Freier
+    Stolz Heinrich wollte freien gehn]
+CNR[wohl in das ferne Land;]
+REG[Mitteleuropa, Deutschland]
+SRC[2, S. 136
+    1854 aufgezeichnet (ca.)]
+KEY[Q0042G 16 Bb 2/4]
+MEL[-5_  3_3_2_2_  1_1_-5_
+    -5_  -6_-6_1_-6_  -5__0_
+    -5-4  -3_-5_1_2_  3_.21_
+    -7_  -6_2_3_4_  5_.43_
+    2_  1_1_1-7-6-7  1__0_ //] >>
+FCT[Ballade, Braut - Werbung, Betrug; tragisch]

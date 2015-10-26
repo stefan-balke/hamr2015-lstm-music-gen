@@ -1,0 +1,26 @@
+BOEHME
+CUT[SO VIEL DER MAI AUCH BLUEMLEIN BEUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0190  16  F 3/4]
+MEL[3_  3__.2_3_4_  6_.55__.
+    3_  2__.3_4_5_  4__3__0_
+    3_  3_.43__.3_  3_.43__.
+    3_  6_.4#2__.2_  2_.55__.
+    4_  3__.2_3_4_  6_.55__
+    3_1_  2___3_4_  3___
+    -5__  3__.2_3_4_  5_.65__
+    3_1_  5___4_2_  1___0_ //] >>
+FCT[Natur - Lied, Fruehling]
+BOEHME
+CUT[SO VIEL DER MAI AUCH BLUEMLEIN BEUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0190  16  F 3/4]
+MEL[3_  3__.2_3_4_  6_.55__.
+    3_  2__.3_4_5_  4__3__0_
+    3_  3_.43__.3_  3_.43__.
+    3_  6_.4#2__.2_  2_.55__.
+    4_  3__.2_3_4_  6_.55__
+    3_1_  2___3_4_  3___
+    -5__  3__.2_3_4_  5_.65__
+    3_1_  5___4_2_  1___0_ //] >>
+FCT[Natur - Lied, Fruehling]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielte ein Ritter mit einer Dam',]
+CNR[sie spielten bis an den Morgen, ja Morgen.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Liegnitz,
+    Gross Laeswitz]
+SRC[3, S. 16
+    1840 aufgezeichnet]
+KEY[Q0055H 08 Bb 6/8]
+MEL[-5  1-7-6-5-3-5  1-7-6-5_
+    -5  111212  1_32_3  -5_-71_ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Anhaengsel an der zweiten Zeile.]

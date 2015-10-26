@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es ritt ein Herr ueber den geweihten Kirchhof,]
+CNR[da stolpert ihm sein hohes Ross.]
+REG[Osteuropa, Ungarn, Szakadat]
+SRC[5, S. 3
+    1937 gedruckt in Budapest]
+KEY[Q0089B 16  D 4/4]
+MEL[5__  +1__7_6_5__5557  6_6_6__5__
+    4__  3__5__+1__+1_3_  5__4__3__ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]

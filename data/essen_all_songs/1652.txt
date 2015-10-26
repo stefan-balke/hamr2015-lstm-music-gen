@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Wu bist de denn asu lange gewaast,]
+CNR[Heinrich, mei lieber Suhn?']
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Marienthal]
+SRC[4, S. 190
+    1911 aufgezeichnet (1910/11)]
+KEY[Q0079A 08  G 4/4]
+MEL[-5_  1_1_224_  3_332__
+    5__5_5_  4_3_2_
+    32  1__2_4_  3__2_
+    2_  5__4_3_  2__.
+    32  1_1_2_4_  3_212_0_
+    5_33212_  1_0__ //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Zweite Zeile und die letzten drei Zeilen = Refrain.]

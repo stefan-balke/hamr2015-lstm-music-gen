@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DA UNTEN IM GARTEN DA IST EIN SO SCHOEN PARADIES]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen]
+KEY[E0009C 16  G 6/8]
+MEL[-5_  1_.23_1_.23_  2__.0__
+    3_  4__6_6__54  3__.0__
+    1_  1__6_6__5_  4__.0__
+    2_  2__5_5__3_  3__.0__
+    -5_  -6__-7_1__6_  6__5_4__5_  3__.0__ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

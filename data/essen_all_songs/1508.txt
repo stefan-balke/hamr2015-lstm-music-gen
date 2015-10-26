@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Daar achter in die velden,]
+CNR[daar staat een heerenhuis.]
+REG[Mitteleuropa, Niederlande]
+SRC[7, S. 155
+    1944 gedruckt in s'-Gravenhage]
+KEY[Q2149U 08  E 4/4]
+MEL[5_  2_3_4_5_  4_3_0_
+    5_  5_.56_.6  5_0__.
+    6__4_66  565432
+    34  5_234_5_  3_0__.
+    6__4_66  5654323
+    4  5_234_-7_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Niederlaendische Fassung der Ballade.]

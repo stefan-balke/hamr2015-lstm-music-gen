@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der geistliche Vogelgesang]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0655  04  G 4/4]
+MEL[354  4332  2343  321_  0
+    354  4332  2343  321_  0
+    -5-6-7  123_  2343  212_  0
+    351  432_  2343  321_  0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchen 1642]

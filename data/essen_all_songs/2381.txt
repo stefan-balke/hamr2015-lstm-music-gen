@@ -1,0 +1,9 @@
+FINK
+CUT[DER ABEND SCHLEIERT FLUR UND HAIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0942  16  A 3/4]
+MEL[-5__  3___2__  1___-5__  -6__.1_-7_2_  1___
+    1__  2__.3_1__  2__.3_1__  5__4__3__  2___
+    2_3_  4___4__  3__2__3_4_  6_5_4__3__  3___
+    3_.2  2__6__6__  6__5__1__  2__4__-7__  1___ //] >>
+FCT[Liebes - Lied]

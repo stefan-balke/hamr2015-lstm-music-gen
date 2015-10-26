@@ -1,0 +1,13 @@
+FINK
+CUT[BALD SINKT NUN DER MITTERNACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0799  16  G 2/4]
+MEL[1_.1  2_2_3_3_  2__
+    4_.4  3_543_2_  1_0_
+    1_.1  2_2_3_3_  2__
+    4_.4  3_543_2_  1_0_
+    5_.5  2_2_3_5_  2__
+    5_5_  54654_3_  2__
+    1_.2  3_2_3_.4  5__
+    4_.4  3_421_-7_  1__ //] >>
+FCT[Geselligkeits -, Moral - Lied]

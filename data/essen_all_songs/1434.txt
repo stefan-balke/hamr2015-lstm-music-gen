@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Bai Raedder
+    E baai hi traeaed e redr uun e daans]
+CNR[Ene reder e baai elik]
+REG[Mitteleuropa, Deutschland (BRD) , Nordsee, Foehr]
+SRC[3, S. 281
+    ????]
+KEY[Q1071B 08  A FREI]
+MEL[-5_  -5_1_1_1_  3b3b212_
+    22  222_3b_3b_  4___
+    2_2_3b_3b_  44121__  3b3b23b1__
+    3b_3b_2-7-7_  1___ //] >>
+FCT[Hochzeits - Lied, Tanz]
+CMT[Melodievergleich zu Q0071, anderes Lied. Anhaengsel an der dritten
+    Zeile.]

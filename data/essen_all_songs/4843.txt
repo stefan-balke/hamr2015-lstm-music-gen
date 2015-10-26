@@ -1,0 +1,20 @@
+DVA
+CUT[Schon wieder toent's vom Schacht zurueck
+    des Gloeckleins leises Hallen]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg i. Brsg.]
+KEY[D0094  16  G 2/4]
+MEL[    -5__-3_.-4  -5__-5__  -6__-7__  1__0_
+    1_  -7_2_1_-6_  -6_-5_0__
+    -5__-3_.-4  -5__-5__  -6__-7__  1__0_
+    1_  -7_2_1_-6_  -6_-5_0__  0__
+    -5__  2__.1_  -7_2_-5__  5__.4_  3__
+    -5__  4__.3_  2_2_-5__  6__.4_  3___  0__
+    1__  1__.1_  2__3__  4___  0__
+    3_2_  5___  5__4__  3___  0__
+    -5__  2__.1_  -7_2_-5__  5__.4_  3__
+    -5__  4__.3_  2_2_-5__  6__.4_  3___  0__
+    1__  1__.1_  2__3__  4___  0__
+    3_2_  5___  5__4__  3___ //] >>
+FCT[Arbeit, Staende - Lied, Bergmannslied]
+CMT[erste, dritte und fuenfte Zeile rhythmisch korrigiert; Zweiter Teil
+    des Liedes mehrstimmig; Inzipit = Variante zum Lied]

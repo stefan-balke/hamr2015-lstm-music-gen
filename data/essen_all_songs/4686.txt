@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Marienlied des 15. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0602  02  F 6/2]
+MEL[1_  3_34_5  5_4_0
+    3  2_11_2  3_2_
+    1_  3_34_5  5_4_0
+    3  2_11_2  3_2_
+    3_  24_32_  -7_-5_
+    -5_  1_-71_2  3_2_
+    1_  3_34_5  5_4_
+    3_  4_32_1  -7_-5_0
+    -5  1_-71_4  321_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Hs Muenchner Bibl. 1506]

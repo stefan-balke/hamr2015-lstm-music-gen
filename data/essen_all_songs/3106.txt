@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ACH BLUEMLEIN BLAU VERDORRE NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederlausitz, Luebbenau]
+KEY[E0572A 08  F 3/4]
+MEL[1  345_.4  321_0
+    +1  +156_5_  4_3_0
+    5  536_.5  465_.
+    4  32543_  2_1_0 //] >>
+FCT[Liebes - Lied]

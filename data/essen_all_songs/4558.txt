@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Der Bauer ins Holz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0472F 04  C 4/4]
+MEL[1  11-6-6  -5-5-3
+    -3  -5-5-4-4  -3_0
+    -5  1122  3_2
+    4  311-7  1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M. Franck, Fasc. quodl. 1611 No. 2.]

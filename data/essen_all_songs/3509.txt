@@ -1,0 +1,12 @@
+F[ERK2
+CUT[TANZ MIR MAL DIE SIEBENSPRUENGE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Soest]
+KEY[E0992  16  G 2/4]
+MEL[  1_3_5_3_  4_2_3_1_
+    1_3_5_3_  4__3__
+    1_3_5_3_  4_2_3_1_
+    1_3_5_3_  4__3__
+    2_232_23  2_232__
+    2_232_2_  2_1_-7_0
+    5  3__0_5_  3__0__ //] >>
+FCT[Tanz - Lied, Reigen, Siebensprung]

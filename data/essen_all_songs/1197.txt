@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf Friedrich
+    Graf Friedrich wollt' ausreiten]
+CNR[mit seinen Hochzeitsleuten.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 215
+    1934 aufgezeichnet]
+KEY[Q0048G 08  F FREI]
+MEL[-5_  2__3_1__23  4_3_2_0__
+    -5_  2__321__23  4_3_2_0__0
+    1  ^_-7_1_  -6_-5_2_2__1_  2__0_
+    5_3_2_  1_.-7-6_-5-6-7_  1__ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]
+CMT[Taktart in "FREI" geaendert. Unklar. Verzierung in der letzten Zeile.
+    Kleinere Melodievariante abgedruckt.]

@@ -1,0 +1,13 @@
+F[ERK1
+CUT[WO E KLEINS HUETTLE STEHT]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0510  16  G 3/8]
+MEL[  -5_1_1_  -7_.-6-5_
+    4_2_-7_  2_1_0_
+    -5_1_1_  -7_.-6-5_
+    4_2_-7_  1__0_
+    2_.32_  2_.32_
+    2_.32_  2_.32_
+    1_-7_-6_  -5_4__
+    321-7-6-7  1__0_ //] >>
+FCT[Liebes - Lied, Scherz]

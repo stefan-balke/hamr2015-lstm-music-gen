@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge,]
+CNR[schaut hin in's tiefe Thal,]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Siegen]
+SRC[8, S. 35
+    1840 aufgezeichnet]
+KEY[Q0155E 08  C 3/4]
+MEL[1_  1_-5_34  3_1_
+    5_  6_5_45  3_0_
+    11  6_6_66  655_
+    55  654353  2_2_
+    5_  6_5_45  3_0_ //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe]
+CMT[Grundton in der zweigestrichenen Oktave.]

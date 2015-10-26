@@ -1,0 +1,11 @@
+F[ERK1
+CUT[VROU NACHTIGALL KLEINS VUEGELIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Niederkruechten]
+KEY[E0413C 04  D 4/4]
+MEL[-5  1234  321
+    -5  1234  321
+    3  1_-7-6  -6_-5
+    -5  1122  523
+    3  2-7-6 //] >>
+FCT[Liebes - Lied]
+CMT[modulierend, plagaler Schluss ?]

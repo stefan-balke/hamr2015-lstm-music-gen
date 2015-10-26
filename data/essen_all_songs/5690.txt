@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die Sonne ist verblichen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0116C 04  G 4/2 6/2]
+MEL[    0_1_1_1_  5_7b__6_  5_2__
+    1_  5__4_4_5_3b_  2___
+    0_1_1_1_  5_7b__6_  5_2__
+    1_  5__4_4_5_3b_  2__.
+    3b_  4_7b_7b_5_  4_3b__
+    6b_  5_4_3b_2_  1__0_
+    1_  4_4_4_5_  6b__4__
+    0_5_5_5_  5_4_3b_21  -7__1_.2  3b_5__5_2__  1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Praetorius Mus. Sion. VI. No. 195 "Fuer frewden wil ich singen"]

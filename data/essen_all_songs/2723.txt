@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES HATT EIN BAUR EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0119B 08  F 3/4]
+MEL[-5  -511353  322_0
+    2  234_5_  433_0
+    1  116_.5  465_0
+    4  31543_  2_1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

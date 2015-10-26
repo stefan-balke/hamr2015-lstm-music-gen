@@ -1,0 +1,13 @@
+F[ERK1
+CUT[ACH WIE ISTS MOEGLICH DANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0548A 16 Bb 2/4]
+MEL[  3__1_-6_  -6_.-5-5__
+    2__1_2_  3_1_-5__
+    3__1_-5_  -6_4_3__
+    2__3_2_  -5__0__
+    2__3_2_  1_-6_-5__
+    3__4_3_  3_2_2__
+    -5__-6_-5_  5_4_2__
+    1__2_-7_  1__0__ //] >>
+FCT[Liebes - Lied]

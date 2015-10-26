@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Die verzauberte Nachtigall"
+    NACHTIGALL SAG WAS FUER GRUESS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1066  16  D 6/8]
+MEL[  1__2_3b__1_  3b__4_5__.
+    5__6_7b__65  5__4#_5__
+    7b_  6__.5__7b_  6__.5__0_
+    5__6b_4__5_  3b__4_2__.
+    1__2_3b__1_  3b__4_5__
+    43b  2__.1__3b_  2__.1__0_ //] >>
+FCT[Romanze, Ballade, Tod]

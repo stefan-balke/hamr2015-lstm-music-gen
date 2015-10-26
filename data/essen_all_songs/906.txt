@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Wahl"
+    ICH HABE MIR EINE ERWAEHLET]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1171  16  F 6/8]
+MEL[34  5_+1_6_5_6_4_  3_1_0__.
+    12  3_4_3_2_3_2_  1__0__.
+    34  5_1_6_5__34  5_1_6_5__
+    -5_  1_-7_1_2_1_2_  3_.4565__
+    5_  3_4_3_2_3_2_  1__0__. //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

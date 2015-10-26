@@ -1,0 +1,11 @@
+F[ERK2
+CUT[AN DEM HIMMEL SIND ZWEI STERNE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0699E 16  G 3/4]
+MEL[  1_-5_1__3__  2_1_2__4__
+    3_1_3__5__  5_3_2__0_
+    3_  5_4_3__5__  6_4_2__4_
+    3_  5_3_1__3__  322_1__0_
+    3_  5_4_3__5__  6_4_2__4_
+    3_  5_3_1__3__  322_1__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

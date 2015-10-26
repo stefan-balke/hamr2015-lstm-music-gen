@@ -1,0 +1,9 @@
+BOEHME
+CUT[WIE LIEBLICH ISTS HIENIEDEN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+KEY[B0740  08  G 6/8]
+MEL[-5  3_21_-6  -5_11_
+    1  2_22_2  3_.0_
+    -5  3_35_5  4_-6-6_
+    -6  -5_13_2  1_.0_ //] >>
+FCT[Moral - Lied, religioes]

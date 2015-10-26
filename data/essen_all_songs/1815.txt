@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Muskatbaum
+    In Oestereich da steht ein Baum,]
+CNR[der traegt Muskatenblumen,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
+SRC[6, S. 146
+    1840 gedruckt in Berlin]
+KEY[Q0130A 16  D 6/8]
+MEL[1_  5__5_5__5_  6__7_+1__
+    6_  +2__+1_7_6_5_  6__.5_0_
+    5_  +1__+1_3__6_  5_.6543__
+    1_  2__345_.43_  2__.1__ //] >>
+FCT[Ballade, Werbung, Standesunterschied]

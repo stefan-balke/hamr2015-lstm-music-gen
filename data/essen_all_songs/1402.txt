@@ -1,0 +1,21 @@
+F[BALLADE
+CUT[Die Bernauerin
+    Als ick was in het huis van mijne moeder,]
+CNR[ik was daar altijd liber ende vrij;]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[3, S. 208
+    1879 gedruckt in Bruges]
+KEY[Q3065A 16  C 2/4]
+MEL[  5_4_3_4_  5__.67  +2_+1_7_6_  6_5_5__
+    3__3_3_  5__5__  6_543_32  1__0__
+    5_4_3_4_  5__.67  +2_+1_7_6_  6_5_5__
+    3__3_3_  5__5__  6_543_32  1__0__
+    4_4_5434  3__0__
+    6_6_7656  5__0__
+    5__6_7_  +1_5_6_5_  5_4_4_3_  3__2_0_
+    4_4_5_4_  3__0__
+    6_6_7_6_  5__0__
+    5_5_6_7_  +1_5_6_54  3__2__  1___
+    5_5_6_7_  +1_5_6_54  3__2__  1___ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0065, anderes Lied.]

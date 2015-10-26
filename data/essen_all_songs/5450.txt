@@ -1,0 +1,10 @@
+KINDER
+CUT[HEI WAS BIN I A LUSTIGER BUA]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K1263  08  C 6/8]
+MEL[  1_1-5-5-5  -6-6-6-5_
+    -5  -6-6-6-7-7-7  1_.-5_.
+    1_1-5-5-5  -6_-6-5_.
+    -6_-6-7-7-7  1_1-5_
+    -5  -5-6-71_. //] >>
+FCT[Kinder - Lied, Zaehl - Geschichte]

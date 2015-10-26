@@ -1,0 +1,11 @@
+FINK
+CUT[HERZ VOLL MUTH BLICK VOLL GLUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0419  16  D 3/4]
+MEL[  1__.1_2__  2__.2_3__
+    1_.23_1_4_3_  2___0__
+    2_.22__3_2_  1__1_.12_1_  -7___0__
+    -5-6-712_3_2__  -5-6-712_3_2__
+    3_.45___  3_.45___
+    1_234__2__  1___0__ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch]

@@ -1,0 +1,12 @@
+F[ERK2
+CUT[DAAR GING EEN PATERTJE]
+REG[Europa, Mitteleuropa, Niederlande, Holland]
+KEY[E0977A 08  C 6/8]
+MEL[-5  1_21_-5  -6-5-6-5_.
+    -6_1-7_2  1_.^_
+    -5  1_21_-5  -6-5-6-5_.
+    -6_1-7_2  1_.^_
+    1  2_22_3  4_32_.
+    3_11-71  2_-7-5_.
+    -6_1-7_2  1__0 //] >>
+FCT[Tanz - Lied, Reigen]

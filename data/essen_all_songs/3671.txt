@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es treibt ein Hirt seine Schaf' in' Wald]
+REG[Osteuropa, UdSSR, Ukraine]
+SRC[5, S. 270
+    ????]
+KEY[Q0114T 16  G 3/4]
+MEL[5_5_3_  6__.55(4_3_2_)  1__0_
+    5_5_3_  6__.55(4_3_2_)  1__0_
+    5_567+1  +2__+1_7_6_7_  +1__.
+    3_2_3_  6__.5_(4_3_2_)  1__0_ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

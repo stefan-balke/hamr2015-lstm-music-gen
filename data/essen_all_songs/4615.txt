@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Drei Koenige]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0534  02  G 3/2]
+MEL[5_5  3_4  5_5  3_.
+    5_5  3_4  5_5  3_.
+    3_3  3_2  3_5  4_.
+    3_3  2_1  2_2  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Andernacher Gsgb. 1608 S. 135.]

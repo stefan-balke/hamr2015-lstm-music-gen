@@ -1,0 +1,7 @@
+FINK
+CUT[ACH DENKET DENKET MIEN HERZ IST FORT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0903  16 Ab 2/4]
+MEL[5_  5__6_54  3_334_2_  3__0_
+    3_  3__4_32  1_112_-7_  1_0__ //] >>
+FCT[Liebes - Lied]

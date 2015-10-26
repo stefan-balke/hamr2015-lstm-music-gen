@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES RITTEN ZWEI HERZLIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Mosel - Gegend]
+KEY[E0194A 08  G 3/4]
+MEL[-5_  1_.-713  2_1_
+    2_  3_.43_  2__
+    13  5_5_54  3_2_
+    12  3_3_2_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

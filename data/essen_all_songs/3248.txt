@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ES STEHT EIN BAUM IM ODENWALD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0700A 08  D 4/4]
+MEL[-5  -5_.-5-3_-1_  -2_-2_-2_0
+    -5  -5_-5_-3_-1_  -2__.0
+    2  2_.2-7_-5_  1_1_1_0
+    1  2_.2-7_-5_  1__0_. //] >>
+FCT[Liebes - Lied, Leid, Klage]

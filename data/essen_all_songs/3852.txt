@@ -1,0 +1,7 @@
+F[ERK3
+CUT[DIE HEILGEN DREI KOENIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1196  04  C 3/4]
+MEL[1  1_1  -7_3  21-7  -6_
+    -5  -6_-7  1_1  1-7-6  -5_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige]

@@ -1,0 +1,24 @@
+BOEHME
+CUT[HORCH WIE SCHALLTS DORTEN SO LIEBLICH HERVOR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0184  16  F 3/8]
+MEL[  1_.11_  5_5_5_  3_.33_  2__0_
+    222_0_  222_0_
+    3_.33_  2_3_4#_  5__.  ^_0__
+    2_2_2_  4_2_-7_  1_1_3_  5__0_
+    2_2_2_  4_2_-7_  1_1_3_  5__0_
+    555_0_  555_0_
+    +1_6_4_  3_.42_  1__.  ^_0__ //] >>
+FCT[Natur - Lied]
+BOEHME
+CUT[HORCH WIE SCHALLTS DORTEN SO LIEBLICH HERVOR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0184  16  F 3/8]
+MEL[  1_.11_  5_5_5_  3_.33_  2__0_
+    222_0_  222_0_
+    3_.33_  2_3_4#_  5__.  ^_0__
+    2_2_2_  4_2_-7_  1_1_3_  5__0_
+    2_2_2_  4_2_-7_  1_1_3_  5__0_
+    555_0_  555_0_
+    +1_6_4_  3_.42_  1__.  ^_0__ //] >>
+FCT[Natur - Lied]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ALS DE GROOTE KLOKKE LUYD]
+REG[Europa, Mitteleuropa, Niederlande, Flaemisch, Duynkerke]
+KEY[E1266  08  G 6/8]
+MEL[1_3  5_56_6  5_5
+    6_6  5_4345  1_.
+    323  1_1234  3_2
+    323  1_.2_3  1_0 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest]

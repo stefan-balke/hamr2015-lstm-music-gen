@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DUNKLE NACHT IM FINSTERN SCHLEIER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E1342B 16  C 4/4]
+MEL[5_.5  +1__.7_6_5_4_3_  5__4__0__
+    5_.5  7__.6_5_5_4_.5  3___0__
+    5_.+1  +3__.+2_+1_7_6_5_  7__6__0__
+    +1_.+1  +1__.5_5_5_4_.5  3___0__
+    5_.+1  +3__.+2_+1_7_6_5_  7__6__0__
+    +1_.+1  +1__.5_5_5_4_.5  3___0__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

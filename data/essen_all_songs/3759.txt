@@ -1,0 +1,9 @@
+F[ERK3
+CUT[LOTT IST TODT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen]
+KEY[E1032  08  G 2/4]
+MEL[  351_  351_
+    46+16  655_
+    351_  351_
+    234-7  211_ //] >>
+FCT[Tanz - Lied]

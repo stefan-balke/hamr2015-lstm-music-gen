@@ -1,0 +1,13 @@
+FINK
+CUT[DES LEBENS BLUME BLUEHET SCHON]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0774  08 Bb 6/8]
+MEL[-5  1_-53_1  -7_24_
+    2  153264  3_.2_
+    5  4321-7-6  -5-6-71_
+    2  3_.34#5  -5_.-6_-5  -5__0
+    -5  4_2-72-5  5_.^_
+    4  32112-7  1_.^_
+    -5  2_22_3  4_32_
+    5  5_112-7  1__0 //] >>
+FCT[Geselligkeits -, Moral - Lied]

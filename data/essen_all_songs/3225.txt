@@ -1,0 +1,11 @@
+F[ERK2
+CUT[ICH WILL MICH UMSCHAUEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Goldberg, Neukirch]
+KEY[E0685B 16  G 3/8]
+MEL[1_  3_.153  322_
+    1_  3_.153  2__
+    23  4_4_24  3_53
+    1_  2_.132  1__
+    23  4_4_24  3_53
+    1_  2_.132  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Trennung]

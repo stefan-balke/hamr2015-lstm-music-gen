@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Stoji, stoji beli grad,]
+CNR[notri sta zlahten gospod.]
+REG[Suedosteuropa, Jugoslawien, Krain]
+SRC[5, S. 126
+    1881 gedruckt in Zagreb]
+KEY[Q3100D 08  G 4/4]
+MEL[-5_1_2_  3b__2__  5_43b2__  0_
+    -5_1_2_  3b_.21_-71  2-71__.  0_
+    -5_1_2_  3b_.21_-71  2-71__.  0_ //] >>
+FCT[???]
+CMT[Melodievariante zu Q0100A, anderes Lied. Verzierung (Vorschlag).
+    Schlusspause korrigiert.]

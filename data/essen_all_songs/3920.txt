@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ACH BRUDER ICH BIN JETZT GESCHOSSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1338A 16 Eb 4/4]
+MEL[1_3_  5__5_+1_5__3_1_  6__5__0__
+    1_3_  5__5_5_6_5_4_3_  3__2__0__
+    1_3_  5__.3_4_3_4_5_  3__0___
+    +1__  6__5_4_3_4_2__  1__0_
+    345_5_5_5_  5_3_4_2_0__
+    +1__  6__5_4_3_4_2__  1__0___ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

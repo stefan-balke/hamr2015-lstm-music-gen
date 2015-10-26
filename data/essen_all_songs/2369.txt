@@ -1,0 +1,13 @@
+FINK
+CUT[ICH HAB EIN BAECHLEIN FUNDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0919  08  F 4/4]
+MEL[3_  4_2_2_34  4_3_3_
+    5_  543_2_23  1_0__
+    3_  4_2_2_34  4_3_3_
+    5_  543_2_23  1_0__
+    3_  2_2_2_2_  2_5_5_
+    4_  3_5#_6_5_  4#__0_
+    2_  5_5_2_3_  4_5_3_
+    1_  2_2_-7_-7_  1_0__ //] >>
+FCT[Liebes - Lied]

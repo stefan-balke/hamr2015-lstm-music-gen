@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WAS TRUG MARIA UNTER IHREM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+KEY[E1189  16  G 2/4]
+MEL[-5_  1_1_1_2_  3_2_1_1_
+    3__5432  3__1_
+    13  5_5_5_5_  6_5_4_3_
+    2_3_4_4_  5_4_3_2_
+    3__5432  3__1_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Silvester, Namenstag
+    und Taufe Jesu]

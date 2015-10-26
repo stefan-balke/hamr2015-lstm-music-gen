@@ -1,0 +1,7 @@
+F[ERK3
+CUT[HIER SIND DIE DREI WEISEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus, Wuerges]
+KEY[E1199  08  G 3/8]
+MEL[-5  1_-5  1_3  2_3  1_
+    -7  -6-6-6  1-7-6  -5_-5  1_ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige]

@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Lied zum langen Tanz der Ditmarsen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0294  04  C 6/4]
+MEL[1  1_15_5  5_55_
+    5  4_56_5  5_43_0
+    4_35_3  4_35_
+    3  4_45_3  2_.1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie wie A0293,nur im Tripeltakt.]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Osterlied des 15. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0561B 02  C 4/1]
+MEL[5  5_5_5_7b_  6_5_4_0
+    5  3_1_3_4_  5_6_5_0
+    5  5_5_5_7b_  6_5_4_0
+    5  3_1_3_4_  5_6_5_0_
+    +1_7_6_7_  +1_6_5_0
+    5  +1_4_5_1_  36543_0
+    1  23453_2_  -6_-7_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Muenchner Gsgb. 1586. Verbreitetste Lesart.]

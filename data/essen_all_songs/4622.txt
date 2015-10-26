@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Lied von den sieben Worten Jesu am Kreuz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0541A 02  E 4/1]
+MEL[5  6b_5_4_5_  7b_6b_5_0
+    5  6b_5_6b_4_  4_4_1_0
+    1  1_1_3b_3b_  1_2b_3b_0
+    3b  6b_5_6b_4_  4_2b_1_0
+    1  2b_3b_4_4_  3b_.2b1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Babst 1545 No. 6.]

@@ -1,0 +1,14 @@
+FINK
+CUT[ES IST NICHTS LUSTGER AUF DER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0611  08  F 6/8]
+MEL[5  3_3345  1_11_
+    3  2_2234  4_.30
+    3  2_55_5  4#_6+1_
+    +1  7_5654#  5_.0_
+    7  +1_53_1  6_66_
+    6  5_5543  3_.20
+    2  4_43_1  +17650
+    4  3_35_5  30_
+    6_.  5_35_5  10__ //] >>
+FCT[Soldaten - Lied]

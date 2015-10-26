@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Jaeger im Tannenholz
+    Es ging sen sein Jaeger aus jagen,]
+CNR[wol in das Tannenholz,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Konradsdorf]
+SRC[7, S. 167
+    1829 aufgezeichnet]
+KEY[Q0151  16  C 3/8]
+MEL[1_  5_5_5_  5_5_+1_  5_3_
+    5_  5__5_  6_5_4_  3__
+    11  3__3_  2__5_  3_2_
+    1_  3__3_  5_4_2_  1__ //] >>
+FCT[Ballade, abgewiesener Freier, Abschied]
+CMT[Kleine Melodievarianten zu den folgenden Strophen abgedruckt.]

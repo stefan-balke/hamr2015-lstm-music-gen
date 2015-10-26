@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Passionslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0546B 04  D 4/2]
+MEL[1  1_5_23b45  3b_2_1_0
+    1  5_6_7b_6_  5_4#_5_0
+    5  +1_6_7b_5_  4_3b_2_0
+    2  1_5_23b45  3b_2_1_0
+    1  -7_1_2_03b  543b21_0
+    5  5_5_4_5_  3b_2_1_0 //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Hs.]

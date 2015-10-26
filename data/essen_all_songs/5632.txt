@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Die schoene Muellerin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0044  04  C 4/2]
+MEL[1_  1_3_2_1_  -7_-7_-6_
+    -7_  1_-5_-6_-7_  1__0_
+    1_  1_3_2_1_  -7_-7_-6_
+    -7_  1_-5_-6_-7_  1_.23_
+    1_  2_1_-7_-6_  -5__0_
+    -7_  1_-7_1_-6_  -5__-3_
+    -7_  1_1_2_2_  3__2_
+    4_  3_1_2_-7_  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie bei Joh. Ott III. 1544 No. 18.]

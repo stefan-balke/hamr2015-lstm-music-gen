@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Feldwacht"
+    ICH KANN UND MAG NICHT FROEHLICH SEYN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[Z1094  16  F 3/4]
+MEL[-5_1_2_  1_5_4_3_2_1_  2__0_
+    5_3_4_  5__6_5_4_3_  4__5_5_3_54  3__0_
+    -5_1_2_  1_5_4_3_2_1_  2__0_
+    5_3_4_  5__6_5_4_3_  4__5_543_2_  1__0_ //] >>
+FCT[Romanze, Ballade, verlassene Liebe]

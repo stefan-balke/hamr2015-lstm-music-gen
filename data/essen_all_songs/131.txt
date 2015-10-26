@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH SASS UND SPANN VOR MEINER THUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0163  08  C 4/4]
+MEL[567  +1_3_4_2_  1_0_.
+    123  4_2_3_.1  322_0
+    554  3_.32_.3  1_0_.
+    123  25577_.6  6_5_0
+    567  +1_5_+2_5_  +3__0
+    +176  5_3_542_  1__0 //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ICH SASS UND SPANN VOR MEINER THUER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0163  08  C 4/4]
+MEL[567  +1_3_4_2_  1_0_.
+    123  4_2_3_.1  322_0
+    554  3_.32_.3  1_0_.
+    123  25577_.6  6_5_0
+    567  +1_5_+2_5_  +3__0
+    +176  5_3_542_  1__0 //] >>
+FCT[Ballade, Romanze]

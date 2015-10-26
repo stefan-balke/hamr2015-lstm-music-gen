@@ -1,0 +1,11 @@
+DVA
+CUT[Weil i's Deandl net wegbring;
+    Hinder dem Bergl steht mei Deandl sei Haus,]
+REG[Europa, Mitteleuropa, Deutschland, Bayerischer Wald]
+KEY[D0080  08  G 3/4]
+MEL[33  5_+1_.+2  +1_5_
+    3_  457_.5  4__0
+    4  457_.7  7_.5
+    4_  35+1_.5  3__ //] >>
+FCT[Jodel - Lied]
+CMT[Grundton in der kleinen Oktave]

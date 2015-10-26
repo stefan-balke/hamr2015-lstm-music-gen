@@ -1,0 +1,11 @@
+F[ERK1
+CUT[KIND WO BIST DU DENN HENNE WEST]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0190A 08  F 4/4]
+MEL[  1_123_34  5_6_5_
+    13  5_5_6_5_  4__3_
+    5_  2_223_5_  4__3_
+    2_  3_3_4_56  6__5_0_
+    2_223_6_  5__4__  3__
+    6__  5__.3_  5_5_4_4_  3__.0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

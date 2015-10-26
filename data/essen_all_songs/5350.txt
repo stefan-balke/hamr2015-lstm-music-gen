@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Es welken alle Blaetter,]
+CNR[sie fallen alle ab, alle ab,]
+REG[Osteuropa, Ungarn, Batschka]
+SRC[8, S. 288
+    ???? aufgezeichnet]
+KEY[Q0155E.08  G 4/4 5/4    %%3+2%]
+MEL[-5_  1_.-5-3_-5_  1_3_3_0
+    3  2_.1-7_1_  2_-5-5-5_0_
+    12  3_.33_.3  3_5_4_
+    23  4_.44_.4  4_6_5_
+    54  3_3_2_24  3_0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Anhaengsel an der zweiten Zeile. Taktart in Taktwechsel geaendert.]

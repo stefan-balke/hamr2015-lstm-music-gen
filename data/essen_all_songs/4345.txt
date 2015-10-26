@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ERSTANDEN IST DER HEILIG CHRIST]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1975  04  F 3/4]
+MEL[+1  +1_+1  7_7  +16_  5_
+    5  6_+1  7_6  5_4  3_
+    3  3_3  5_5  3_2  1_
+    4  3_6  5_2  32_  1_ //] >>
+FCT[geistlich, Fest - Lied, Ostern]

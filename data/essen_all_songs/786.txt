@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Die Graefin von Holland"
+    FAHRE HIN DU HERRLICHKEIT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1051  16  A 2/4]
+MEL[1_1_2_1_  2_3_1__
+    2_321__  2_321__
+    3_3_2_5_  5_4#_5__
+    5_5_5_43  4_5_3__
+    2_.34_2_  -6_21-7_0_
+    -6_21-7__  -6_21-7__
+    1_.23_43  2_.11__ //] >>
+FCT[Romanze, Ballade]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[DA JESUS IN DEN GARTEN GIENG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1958  04  F 4/4]
+MEL[5  5654  421_  0
+    134  5234  5_0
+    3  4565  434_  0
+    323  4554#  5_. //] >>
+FCT[geistlich, Fest - Lied, Biblischer Stoff, Passion]
+CMT[Schluss modulierend]

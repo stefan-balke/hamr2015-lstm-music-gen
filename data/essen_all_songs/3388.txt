@@ -1,0 +1,9 @@
+F[ERK2
+CUT[DREIMAL UMS SCHEITERBEIG]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Tuttlingen]
+KEY[E0823  08 Bb 3/8]
+MEL[  -5-6-5  -5-4-4
+    -4-5-4  -4-3-4
+    -5-6-5  -5-4-4
+    -5-6-7  1_0 //] >>
+FCT[Kilt - Lied]

@@ -1,0 +1,10 @@
+KINDER
+CUT[HAESCHEN IN DER GRUBE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K2409A 08  D 2/4]
+MEL[  5536  5_3_
+    5_36  5_0_
+    5531  +165_
+    5531  +165_  0_
+    55  +1_55  +1_0_ //] >>
+FCT[Kinder - Lied, Tanz -, Lauf - Spiel]

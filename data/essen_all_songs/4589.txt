@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Ain Tagweis von den heyligen dreyn kuennigen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0512B 04  D 4/4]
+MEL[111  567b5  45_0
+    543b2  11-7b1  3b21_  0
+    111  567b5  45_0
+    543b2  11-7b1  3b21_  0
+    123b  4543b  4_0
+    1  23b45  43b4_
+    543b2  21-7b1  3b21_  0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Lambacher Hs. fol. 171, von Boehme in moderne Noten uebertragen.]

@@ -1,0 +1,10 @@
+FINK
+CUT[HERZ MEIN HERZ WARUM SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1118  08  F 4/4]
+MEL[34  5_.54#565  54#4_0_
+    44  422-7-5_-6-7  1__0_
+    55  +17654321  -7-6-6_0_
+    46  5_.55_67  +2_+1_
+    +2+176  5_.55_.-7  1__0_ //] >>
+FCT[Trost - Lied, Heimweh]

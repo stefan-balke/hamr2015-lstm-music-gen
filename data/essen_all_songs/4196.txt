@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WENN DIE NACHTIGALLEN SCHLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1731  08  D 3/4]
+MEL[  1-71234  5_5_0_
+    565432  1_1_0_
+    5_5_0_  6_6_0_
+    7_7_7_  +15351_
+    5555+2_  5555+3_
+    565432  1_1_0_ //] >>
+FCT[Scherz - Lied, Soldaten - Lied]

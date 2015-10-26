@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Jagdglueck"
+    DAS WAIDWERK DAS IST SO MEIN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1281  16  G 6/8]
+MEL[-5_  1_.-71_2_1_2_  3_1_0_0__
+    12  3_2_3_4_3_4_  5_.6543__
+    34  5_5_5_3_.23_  4_4_4_2_.1
+    2_  3_3_2_3__54  3_3_2_1__ //] >>
+FCT[Jaeger - Lied]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[GUTN ABEND JUNGFR RESL]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Landshut]
+KEY[E1466A 08  F 3/4]
+MEL[1_  1_4_4_  2_4_
+    3_  3_222_  1_0_
+    1_  1_4_4_  2_4_
+    3_  3_2_2_  1__
+    5_  5_642-7  1__ //] >>
+FCT[Staende -, Jaeger - Lied, Wilderer]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Tageweis von der Koenigstochter und dem jungen Grafen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0020A 04  A 3/1 2/1]
+MEL[1__  1__1_-7b__-5_  -7b__1__
+    3b__  3b__5_3b__1_  -7b__1__
+    1__  1__1_-7b__-5_  -7b__1__
+    3b__  3b__5_3b__1_  -7b__1__
+    3b__  3b__2_3b__1_  2_.1-7b__
+    3b__  3b__2_3b__4_  5__3b_21
+    -7b__3b__  3b__5_3b__1_  -7b__1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Melodie von 1545; vgl Kirchenlied "Hilf Gott, dass mir gelinge"]

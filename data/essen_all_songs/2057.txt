@@ -1,0 +1,9 @@
+FINK
+CUT[DANKT DEM HERRN DASS NEUES WERDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0308  16  C 3/4]
+MEL[  -5_.-4-3_3_2_1_  1__-7__
+    -7_.1  2_.3-7__-6__  -5__0___
+    -5_.-6-7_-5_-6_-7_  1__-5__0__
+    2_.34_2_1_-7_  1___0__ //] >>
+FCT[Jugend - Lied, Dank, religioes]

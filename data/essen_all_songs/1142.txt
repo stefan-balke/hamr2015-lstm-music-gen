@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Heer Halwyn zong een liedekyn,]
+CNR[al die dat hoord' wou by hem zyn,]
+REG[Mitteleuropa, Niederlande, flaemisch, Brabant]
+SRC[2, S. 100
+    1837 gedruckt]
+KEY[Q2041H 08  D 6/8]
+MEL[-7b-6-7b  1_.2_.  1_-7b-6_
+    -6  -7b_-6-5_-6  -7b_12_
+    2  3b_21_.  2_.1_-7  1_0 //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT[Grundton in der zweigestrichenen Oktave. Flaemische Fassung der
+    Ballade.]

@@ -1,0 +1,10 @@
+F[ERK3
+CUT[MYS LIEB ISCH GAR WYT INNE]
+REG[Europa, Mitteleuropa, Schweiz, Emmental]
+KEY[E1472  16  G 2/4]
+MEL[34  5_.43_31  2_2_0_
+    34  554#53_21  2__0_
+    21  -7_-5_1_2_  321_0_
+    34  5_.43_2_  1__
+    5_64#  5_64#5_64#  5__1__  +1_0__ //] >>
+FCT[Staende -, Hirten -, Alpen - Lied, Kuhreihen]

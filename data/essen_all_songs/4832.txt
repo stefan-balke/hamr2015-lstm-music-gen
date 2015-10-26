@@ -1,0 +1,16 @@
+DVA
+CUT[Andreas - Hofer - Lied
+    Ach Himml, es ist verspielt,]
+CNR[ich kann nicht mehr lang leben.]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[D0077  08  C 2/2]
+MEL[5__  3_3_3_3_  3__0_
+    5_  6_.54_3_  3_2_0_
+    5_  3_3_3_3_  3__0_
+    5_  6_.54_3_  3_2_0_
+    23  5_234_23  4__0_
+    34  5_345_34  5__0_
+    54  3_3_+1_6_  5__0_
+    54  3_345_54  3__ //] >>
+FCT[historisches Lied]
+CMT[Inzipit = Variante zum Lied]

@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Reiter und Hirtenmaedchen
+    Es wollte ein Maedchen die Laemmelein hueten im Holze,]
+CNR[da kam ein lustiger Jaeger daher so stolze.]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Taunus, Bechtheim]
+SRC[7, S. 112
+    18?? aufgezeichnet (2. Haelfte des 19. Jh.)]
+KEY[Q0148A 08  G 6/8]
+MEL[-5  111333  555335  4_.5_.  3_0_.
+    -5  1_1333  5553_5  4_.5_.  3_.0_
+    3  322234  43330
+    5  544456  6555_0  0_.
+    5_.  345543  3_.5_.
+    333542  1_0_. //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]
+CMT[Fuenfte und sechste Zeile = Refrain.]

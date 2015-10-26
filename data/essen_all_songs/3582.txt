@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Maedchen als Stallknecht
+    Buhin, buhin? Zum Tor hinaus,]
+CNR[zum Tor hinaus ins Ungarland!]
+REG[Osteuropa, Tschechoslowakei, Slowakei]
+SRC[5, S. 127
+    ????]
+KEY[Q1100K 04  G 3/4]
+MEL[3  5_3  5_6  5_4  3_
+    -5  1_2  3_4  3_2  1_ //] >>
+FCT[???]
+CMT[Melodievariante zu Q0100, anderes Lied.]

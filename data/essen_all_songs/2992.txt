@@ -1,0 +1,9 @@
+F[ERK1
+CUT[S HAT SICH EIN KUCKUK ZU TOD GESCHRIEN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[E0482  08  G 2/4]
+MEL[-5  1133  11-5
+    -5  1133  1_-5
+    5  5531  665
+    5  4433  2_1 //] >>
+FCT[Liebes - Lied]

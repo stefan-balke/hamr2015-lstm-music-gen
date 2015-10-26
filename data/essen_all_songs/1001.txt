@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Ringelreigen"
+    ICH SPRING IN DIESEM RINGE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1266  08  F 6/8]
+MEL[1  1_13_3  5_.5_
+    5  5_56_6  5_.3_
+    1  1_13_3  5_.5_
+    5  5_56_6  5_.7_
+    7  +1_+17_6  5_.3_
+    3  5_56_6  5_.4_
+    4  3_32_2  1_0_. //] >>
+FCT[Natur und Welt]

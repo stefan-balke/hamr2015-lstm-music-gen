@@ -1,0 +1,12 @@
+FINK
+CUT[ALLES LIEBT UND PAART SICH WIEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0939  08  G 4/4]
+MEL[-5-5  1_.11_.2  1-7-7_0_
+    -5-7  2_.22432  211_0_
+    33  3_.11_23  3_2_0_
+    42  1-7-6-5-5_-6-7  211_0_
+    31  1-7-6-5-5_-6-7  211_0_
+    33  3242211-7  5__.
+    43  3242211-7  1__0_ //] >>
+FCT[Liebes - Lied]

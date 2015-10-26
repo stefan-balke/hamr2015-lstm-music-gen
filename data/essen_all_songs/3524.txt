@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Es ritt ein Herr mit seinem Ross]
+CNR[wol ueber einen wuesten Kirchhof;]
+REG[Osteuropa, Tschechoslowakei, Oesterreich - Schlesien]
+SRC[5, S. 16
+    1865 gedruckt in Troppau]
+KEY[Q0089E 16  G 3/4]
+MEL[-5_  1_1_3_2_1__  2_3_1__0_
+    1_  3_565_4_3__  554_3__0_
+    3_  5_565_4_3__  4_3_2__0_
+    1_  3_565_4_3__  5_4_3__0_ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]

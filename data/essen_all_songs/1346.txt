@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Bie vrie ischt auf na]
+CNR[dar junge pue na,]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 106
+    1895 gedruckt in Graz]
+KEY[Q0057c 08  G 3/2]
+MEL[-5_3_3_  322_0_
+    234_6_  655_0_
+    3_5_+17  6_5_0_
+    3_2_43  2_1__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Vom Hg. geaenderte Takteinteilung. Zweistimmig notiert, Oberstimme
+    kodiert.]

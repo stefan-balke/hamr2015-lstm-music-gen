@@ -1,0 +1,13 @@
+F[ERK3
+CUT[ICH WILL EINST BEI JA UND NEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1690  16  C 2/4]
+MEL[  +1_5_5_34  5_5_5__
+    65456567  +1__1__
+    +3_+3_+2_+2_  +1_+1_7__
+    6_5_7_+1_  +2__5__
+    5_5_6_7+1  +2_+2_5__
+    +1_+1_+1_+1_  7__5__
+    +1_5_+2_5_  +3_+1_5__
+    +1_5_3_34  5__1_0_ //] >>
+FCT[Staende -, Studenten - Lied, Trink - Lied]

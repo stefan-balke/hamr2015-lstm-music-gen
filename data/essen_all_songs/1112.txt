@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Gute Nacht"
+    DEM HIMMEL WILL ICH KLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1378  16  D 2/4]
+MEL[5_  +1_.7+1_+2_  +3b_+1_0_
+    +1_  7b_+17b6b_7b6b  5__0_
+    5_  +1_7_+1_+2_  +3b_+1_
+    +1__  7b_+17b6b_7b6b  5__
+    5__  4_567b_+1_  7b__
+    +1__  7b_+17b6b_7b6b  5__
+    5__  4_56b7b_+1_  7b__
+    +1__  +3b_+2+1+2_7_  +1__0_ //] >>
+FCT[Erzaehlung, Romanze, Abschieds - Lied]

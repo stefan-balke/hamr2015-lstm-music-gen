@@ -1,0 +1,9 @@
+FINK
+CUT[KOMM HINAUS MIT INS FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0332  08  G 3/4]
+MEL[12  3_5_4_  2__
+    12  3_5_4_  2__
+    5_  6_4_2_  5_3_
+    1_  2_2123  1_0_ //] >>
+FCT[Jugend - Lied, Natur, Wander - Lied]

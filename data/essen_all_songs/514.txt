@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[HERR DIETHER TRAUN IST EIN GESELL]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0099  16  C 2/4]
+MEL[-5_  1_.1-7_.-7  -6_.-6-5__
+    -4_-4-4-3_1_  2_1-71_
+    -5_  1_.1-7_.-7  -6_.-6-5__
+    -4_-4-4-3_1_  2_1-71__
+    3_333__  2_222__
+    1_11-6_-7_  2_1-71_ //] >>
+FCT[Sagen - Lied, Romanze, Anti - Pfaeffisch, Spott, Parodie (Latein)]

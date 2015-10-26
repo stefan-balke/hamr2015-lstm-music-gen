@@ -1,0 +1,11 @@
+F[ERK3
+CUT[DIE REISE NACH SUEDLAND]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1430A 08 Bb 3/4]
+MEL[-5_  1_1_2_  3_3_
+    16  5_.435  2__
+    23  4_.654  3_.2
+    13  2_1_-7_  5__
+    23  4_.653  3_.2
+    13  2_1_-7_  1__ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe, Abschied]

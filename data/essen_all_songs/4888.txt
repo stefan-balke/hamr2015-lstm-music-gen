@@ -1,0 +1,12 @@
+DVA
+CUT[Horch auf, Kamerad, die Trommel ruft,
+    und die Fahne weht dort im Winde]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Berlin]
+KEY[D0196  08  G 4/4]
+MEL[-5_  1_111_3_  322-71_11  4_444_4_  3_1_0_
+    -5_  1_111_3_  322-71_11  4_444_4_  3_1_0_
+    11  6_6_6_66  6_545_.5  4_444_56  5_3_0_
+    11  6_6_6_66  6_545_.5  4_444_56  5_3_0_
+    -5_  1_111_3_  322-71_11  4_446_4_  3_1_0_
+    -5_  1_111_3_  322-71_11  4_444_4_  3_1_0_ //] >>
+FCT[nationalsozialistisches Lied, Soldaten - Lied]

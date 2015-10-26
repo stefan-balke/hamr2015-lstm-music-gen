@@ -1,0 +1,16 @@
+ZUCCAL
+CUT[LIEB ES SEHR ZU ZIEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Anclam]
+KEY[Z0202  08  C 4/4]
+MEL[  1_1_1_1_  3__1__
+    5_5_6_5_  3___
+    2_2_3_4#_  5__7__
+    +2_+2_+1_4#_  5__0__
+    5_5_6_7_  +1_5_5__
+    6_5_4_3_  3_2_2__
+    1_1_1_1_  3_1_
+    1_1_  6__6__  5___
+    5_556_7_  +1_3_
+    6_5_  5__4_2_  1___ //] >>
+FCT[Handwerker - Lied, Handwerks - Burschen]
+CMT[Im Basschluessel notiert!]

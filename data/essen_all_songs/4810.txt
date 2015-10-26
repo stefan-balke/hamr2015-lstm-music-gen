@@ -1,0 +1,12 @@
+DVA
+CUT[Die irdische Pilgerfahrt
+    Ich weiss ein schoen's Himmelreich]
+CNR[gar schoen war es gebauet]
+REG[Europa, Mitteleuropa, Lothringen, Hambach]
+KEY[D0055  08  G 3/4 4/4]
+MEL[1_  1__1_  5__.  6b_7b_6b_  5__
+    5_  4_.54_  3b_2_12  3b_2_1_  0__
+    +1_  5_5_+1_  5_5_4_  3b_.53b2  1__
+    1__  3b_5_4_  5_.6b54  3b__2_1_  ^_0__. //] >>
+FCT[geistliches Lied]
+CMT[Sonderzeichen in der Notation]

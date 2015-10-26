@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WENN ICH NACH WAPPUSHOF GEH]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E0600  16  D 3/8]
+MEL[  1_3_4_  2_4_4_  3__.
+    5_5_+15  5_.424  3__0_
+    5_5+15_  4_4+24_
+    3_153_  21232_
+    1_3_3_  5_4_46  5__.
+    135+15_  5_.424  3__0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Nebenbuhler (Jan Willem en Betje)
+    Ik heb de groene straetjens]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[7, S. 26
+    1648 gedruckt in Antwerpen]
+KEY[Q2143B 04  G 6/4]
+MEL[1  1_14_4  3_.2_
+    2  345443  4_.^_
+    4  32121-7b  -6_.-5_
+    2  33211-7  1_.^_ //] >>
+FCT[Ballade, Liebes - Klage; geistlich]
+CMT[Geistliche Kontrafaktur? Letzten Notenwert rhythmisch korrigiert.
+    Flaemische Fassung der Ballade.]

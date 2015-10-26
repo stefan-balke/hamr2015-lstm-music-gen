@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICK UND MEIN JUNGES WEIB]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0981  16  C 3/8]
+MEL[  1_1_1_  -7_.-6-5_  -6_-6_-7_  1_.21_
+    1_1_1_  -7_.-6-5_  -6_-6_-7_  1_.21_
+    3_3_3_  4_4_4_  2_2_2_  3_3_3_
+    1_1__  2_2__  -5_-6_-7_  1__0_ //] >>
+FCT[Tanz - Lied, Reigen, Bettler - Lied]

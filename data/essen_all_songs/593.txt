@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ACH HAETT ICH HUNDERTTAUSEND GULDEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Deutschand]
+KEY[Z0177  08  G 2/4]
+MEL[-5  1-5-3-5  1_3_  21_
+    3  21-7-6  1_-6_  -5_.
+    -5  1-5-3-5  1_3_  21_
+    3  21-7-6  1_-6_  -5_.
+    -5  2223  4_3_  2_.
+    1  -7-6-54  3_2_  1_. //] >>
+FCT[Soldaten -, Jaeger - Lied]

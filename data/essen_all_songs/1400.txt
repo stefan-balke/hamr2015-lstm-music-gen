@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    Wie wilt horen een nyeuwe liet,]
+CNR[wat Thantwerpen is gheschiet]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 186
+    1540 gedruckt in Antwerpen]
+KEY[Q3063F 08  F FREI]
+MEL[3_  3_3_4_3__  2_3__2__0_
+    3_3__4_3__  2_3__2__
+    2_  3_3_3_4_  5_432__  1__0_
+    3_  4_4_3_3_  3_2__2_-6__0_
+    -6_  -5__2__1__4_  3__212__  1__0_ //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0063, anderes Lied "Die wise van Potteren" .
+    Taktart in "FREI" geaendert. Unklar. Eingeklammerten Ton weggelassen.]

@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[EY MAI LIEBE MALCHEN HIE]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[Z0242  16  E 3/4]
+MEL[  5_5_5__+1__  7b_7b_7b__
+    5__  4_5_4_5_6b_4_  5___0_
+    1_  1_2_3b_3b_2_2_  3b_1_-7b_-7b_3b_
+    3b_  223b3b44442_-7_  1___0__ //] >>
+FCT[Schiffer -, Handwerker - Lied]
+CMT["Die Flachsbrecherinnen singen einander nach der Reihe zu. "]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Geburt im Walde
+    Redselille slog Guldvaeven saa hart,]
+CNR[at Melken af hendes Bryster sprang,]
+REG[Nordeuropa, Daenemark]
+SRC[1, S. 70
+    1860 aufgezeichnet (vor); gedruckt in Kjoebenhavn 1863]
+KEY[Q2007D 16  G 3/4]
+MEL[1_.1  1__3b__1__  5___5__  4__2__3b__  1__-7__
+    1_.1  1__3b__1__  5___5__  4__2__3b__  1__-7__
+    3b_.4  5__.4_3b__  2__.3b_4__  4__.5_4__  4___0__  3b___1__  -7___
+    1__  3b__.4_5__  5__.4_2__  3b__.2_3b__  1___ //] >>
+FCT[Ballade, Geburt, Tod, Moral]
+CMT[Anhaengsel in der dritten Zeile. Daenische Fassung der Ballade.]

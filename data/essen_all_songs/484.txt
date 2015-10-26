@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES WAR EINE SCHOENE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Hartgebirge]
+KEY[Z0070  08  D 4/4]
+MEL[1_  1_345__  3__3_2_  1__
+    5__  5_+1_+1_7_  7_6_5__
+    5__5_67  7_+1_6__  6__
+    6__  7_+1_5_4_  3__5__
+    6_5_4_3_  4__5__  3__. //] >>
+FCT[Sagen - Lied, Romanze, Tod]

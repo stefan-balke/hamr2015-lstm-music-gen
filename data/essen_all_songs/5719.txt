@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Frau Nachtigall]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0158A 04  D 3/2]
+MEL[    1_1_1_  5__5_  7b__7b_  3b__
+    4_  5_6b__  5__4_  5__.  5__0_
+    5_7b_6_  5_4_6b_  5__5_  1__
+    5_  7b__6b5  6b__5_  4_2_3b_  4_2__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Souterliedekens 1540 ad Ps. 6.]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Es ist das Heil uns kommen her]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0624  02  G 4/1 6/1]
+MEL[5  5_5_5_7b_  6_5_4_0
+    5  3_1_3_4_  5__6__5_0
+    5  5_5_5_7b_  6_5_4_0
+    5  3_1_3_4_  5__6__5_0
+    5  +1_.7b6_5_  +1_6_5_0
+    5  +1_.45_1_  3_5_3_0
+    1  2_4_3_2_  -6__2__1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Luth. Gsgb 1524.]

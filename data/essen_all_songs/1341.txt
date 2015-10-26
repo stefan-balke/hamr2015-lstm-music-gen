@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es ging's ein Jaegere wohlgemut,]
+CNR[er trug's ein' Feder auf seinem Hut.]
+REG[Osteuropa, UdSSR, Russland, Ukraine]
+SRC[3, S. 103
+    ????]
+KEY[Q0057X 16  G 3/4]
+MEL[-5_1_24  3__.432_5_  3_.23_
+    2_3_4_  5__.654_54  3__. //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Verselbstaendigter Vordersatz ?]

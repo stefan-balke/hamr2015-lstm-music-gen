@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Die Weisen. "
+    ES FUHREN DREI KOENIGE AUS MORGENLAND]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1099  08  E 3/4]
+MEL[-7b_  3b_.42_  3b_.45_  4_3b_2_  3b__
+    -7b_  3b_.42_  3b_.45_  4_3b_2_  3b__
+    3b2  1__2_  3b__2_  1__-7_  1__
+    21  -7b__2_  3b__2_  1__-7_  1__ //] >>
+FCT[Romanze, Ballade, Weihnachts - Lied]

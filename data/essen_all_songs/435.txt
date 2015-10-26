@@ -1,0 +1,17 @@
+ZUCCAL
+CUT[ACH HAMELN DU WUNDERSCHOENE STADT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0021  16  C 2/4]
+MEL[-5_  1_-7_1_2_  1_-7_1_
+    2_  3_4_2_3_  1__0_
+    2_  3_2_3_4_  5__4_
+    3_  2_1_2_3_  2__0_
+    -5_  1_-7_1_2_  1_-7_1_
+    2_  3_4_2_3_  1__0_
+    2_  3_2_3_4_  5__4_
+    3_  2_1_2_3_  2__0_
+    34  5_5_5_5_  6__.
+    5_  4_3_4_2_  5__.
+    4_  3_2_3_5_  5_4_4_
+    3_  2_1_2_3_  1__0_ //] >>
+FCT[Sagen - Lied, Romanze]

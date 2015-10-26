@@ -1,0 +1,13 @@
+KINDER
+CUT[UNSER HANS HAT HOSEN AN]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[K0299  16 Bb 2/4]
+MEL[  -6_.-3-6_-7_  1_.-7-6_
+    3_  3_.-3-3_.-3  -6__0__
+    3__3_.3  2__2__
+    1__1_.1  -7__-7__
+    1_.-51_2_  3_5_1__
+    2_4_-7_-7_  1_6_5__
+    1_.-51_2_  3_5_1__
+    2_.4-7_-7_  1__0__ //] >>
+FCT[Kinder -, Kose -, Scherz - Lied]

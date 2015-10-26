@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Der Wunderarzt"
+    ICH BIN DER DOKTOR EISENBART]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1350  16  C 2/4]
+MEL[-5_  1_-5_-5_-5_  -6_-5_-5__
+    -5_-5_-6_-7_  1__0_
+    -5_  1_-5_-5_-5_  -6_-5_-5__
+    -5_-5-5-6_-7_  1__0_
+    1_  2_2_2_2_  2_2_2_0
+    2  2_3_2_1_  -7_-6_-5_
+    -5_  1_-5_-5_-5_  -6_-5_-5_0_
+    -5_-5-5-6_-7_  1__0_ //] >>
+FCT[Zech -, Schalks - Lied]

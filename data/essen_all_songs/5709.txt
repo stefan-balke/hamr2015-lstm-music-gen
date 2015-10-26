@@ -1,0 +1,15 @@
+ALTDEU
+CUT[Sommerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0142  02  C 4/2 6/2]
+MEL[1  1131  5_5_
+    +1_  7_56_5  3_0
+    1  5675  +1_7_
+    6_  5_34_2  1_0
+    1  5543  4_3_
+    1_  3_65_4  2_
+    6_  5543  1_2_
+    6_  5_34_2  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[G Rhaw, Bicinia. Viteb. 1545. Tom. I. No. 91. Von Boehme
+    "rhythmisch gegliedert".]

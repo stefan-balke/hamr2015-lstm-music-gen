@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt sich ein reicher Metzger mein,]
+CNR[zu Frankfurt an dem Rheine.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[6, S. 107
+    1928 gedruckt in Heidelberg]
+KEY[Q0127C 16  G 6/8]
+MEL[-5_  -5_1_1_1__3_  3__5_1__
+    3_  3_2_2_-5_-7_2_  2__.1__
+    -5_  -5_1_111_3_3_  3__5_1__
+    3_  3_2_2_-5_-7_2_  2__.1__ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

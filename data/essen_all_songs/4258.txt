@@ -1,0 +1,10 @@
+F[ERK3
+CUT[HEIJO WOERN WIE DO]
+REG[Europa, Mitteleuropa, Deutschland, Ruhr - Gegend; Mosel - Gegend]
+KEY[E1812  16  F 2/4]
+MEL[  5__3__  5_5_3__
+    1_1_222_  3__2_0_
+    1_1_222_  3__2_0_
+    3_3_2_1_  3_3_3__
+    2_2_223_  1_1_1_0_ //] >>
+FCT[Kinder -, Wiegen -, Schlaf - Lied]

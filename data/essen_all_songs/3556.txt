@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Tochter als Faehnrich
+    'Valet, valet, zum Tor hinaus,]
+CNR[behuet' dich Gott, du schnoedes Haus,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+SRC[5, S. 88
+    1842 aufgezeichnet (vor)]
+KEY[Q0096  08  C 4/4]
+MEL[-5_  11123_2_  1__0_
+    1_  -71234_3_  2__0_
+    1_  33345_.6  5__0_
+    4_  43234_.5  4__0_
+    4_  32153_2_  1__0_ //] >>
+FCT[Ballade, Frau in Maennerkleidung, Soldat]
+CMT[Grundton in der zweigestrichenen Oktave.]

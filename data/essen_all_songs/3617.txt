@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Genovefa
+    Ein jedes betracht', was gewisshaft ist,]
+CNR[was ich jetzt sing', die Wahrheit ist]
+REG[Mitteleuropa, Oesterreich, Burgenland, Illmitz]
+SRC[5, S. 168
+    1937 aufgezeichnet]
+KEY[Q0104A 08  F FREI]
+MEL[-5  1113_3  5_53_
+    2  1_15_5  654#5_
+    3  5_6554  332_.
+    2  334540  321_. //] >>
+FCT[Ballade, Ehe, Treue, Verleumdung, Rettung]

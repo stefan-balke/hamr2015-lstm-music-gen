@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES FLOG EIN KLEIN WALDVOEGELEIN]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen]
+KEY[E0459  08  G 4/4]
+MEL[1_  3_2_3_4_  5_.43_
+    6_  5_4_3_2_  1_.32_
+    6_  5_.43_2_  1__0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[KEIN SCHOENER LAND IN DIESER ZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0243  08  A 3/4]
+MEL[-5-5-5  1_3_21  2_0
+    -5-5-5  1_3_21  2_0
+    312  354321  243_
+    2_  1__-7_  1_0
+    312  354321  243_
+    2_  1__-7_  1_0 //] >>
+FCT[Tageszeiten - Lied, Abend, Sommer]
+BOEHME
+CUT[KEIN SCHOENER LAND IN DIESER ZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0243  08  A 3/4]
+MEL[-5-5-5  1_3_21  2_0
+    -5-5-5  1_3_21  2_0
+    312  354321  243_
+    2_  1__-7_  1_0
+    312  354321  243_
+    2_  1__-7_  1_0 //] >>
+FCT[Tageszeiten - Lied, Abend, Sommer]

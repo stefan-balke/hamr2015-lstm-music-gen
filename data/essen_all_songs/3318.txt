@@ -1,0 +1,10 @@
+F[ERK2
+CUT[JETZT REISEN WIR ZUM THOR HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Butzbach]
+KEY[E0757A 16  G 2/4]
+MEL[-5_  -5_1_1_1_  1_3_2_1_  2__.
+    -5-7  2_2_2_2_  2_4_3_2_  3__.
+    1_  3_3_3_3_  3_5_4_
+    3_  2_2_2_2_  2_6_5_
+    4_  3_3_2_2_  2__0_ //] >>
+FCT[Abschieds - Lied, Liebe]

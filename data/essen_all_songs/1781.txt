@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Sangeslohn
+    Ic sie die morgensterre]
+CNR[mijns lievekens claer aenschijn;]
+REG[Mitteleuropa, Niederlande]
+SRC[6, S. 60
+    14?? Handschrift (15. Jh.)]
+KEY[Q0124  08  D 4/4]
+MEL[1_  3b_4_5_+1_  7b65_.0
+    5_  (7b_.66_)5_4_  43b^_.0
+    3b1  2_3b_(4_.41_)  1_-7b_.0
+    3b1  2_3b_4_3b_  21^_.0 //] >>
+FCT[geistlich]
+CMT[Tonangabe zur Ballade "Sangeslohn" - moegliche Melodie (??) .]

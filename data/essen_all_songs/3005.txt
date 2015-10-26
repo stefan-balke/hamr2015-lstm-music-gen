@@ -1,0 +1,11 @@
+F[ERK1
+CUT[EIN SCHAEFER TRAEGT SORGEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Lahnkreis; Dillkreis]
+KEY[E0508C 16 Bb 3/8]
+MEL[-5_  1_.-71-6  -5_-3_
+    1_  2_3_2_  1__
+    33  2_.346  5_3_
+    55  6_5_4_  3__
+    33  2_.346  5_3_
+    55  6_5_4_  3__ //] >>
+FCT[Liebes - Lied]

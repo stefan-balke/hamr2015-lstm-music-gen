@@ -1,0 +1,9 @@
+F[ERK3
+CUT[JESUS DER GIENG DEN BERG HINAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1957A 08  F 3/4]
+MEL[1_  1__5_  3__1_  5__6_  5__
+    5_  3__4_  5_5_4_  3_.21_  3_2_2_  1__
+    3_  3__3_  3_4_5_  5_4_3_  2__
+    3_  1_2_3_  5_5_4_  3_1_3_  2__2_  1__ //] >>
+FCT[geistlich, Fest - Lied, Biblischer Stoff, Passion]

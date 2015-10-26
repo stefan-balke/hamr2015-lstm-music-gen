@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Schwabentoechterlein
+    Es wollt ein Maedchen nach Frankfurt ziehn]
+CNR[bei einem Kaufmann dienen.]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
+SRC[4, S. 52
+    ????]
+KEY[Q0073J 16  G 3/4]
+MEL[3_  3_3_3__3_.3  3_.22__0_
+    5_  5_5_6__5__  5__3__0_
+    5_  3_5_+1_+2_+1__  3_.66__0_
+    6_  6_6_5__4_.2  2__1__0_ //] >>
+FCT[Ballade, Weglaufen, Schwangerschaft, Rueckkehr]

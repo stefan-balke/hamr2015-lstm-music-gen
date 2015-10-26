@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Die geistliche Weinbeer]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0587A 04  G 4/2]
+MEL[1_  3b_3b_43b4_  5_.45_0
+    3b  4_5_6b54_  3b__0_
+    3b_  3b_4_5_5_  4_3b21_
+    -7b_  123b_4_3b2  1__. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Corners Gsgb 1631 S. 902]

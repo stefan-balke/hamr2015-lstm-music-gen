@@ -1,0 +1,11 @@
+F[ERK3
+CUT[BIN I NET A LUSTIGERFUHRMANNSBUE]
+REG[Europa, Mitteleuropa, Deutschland, Nieder - Bayern, Mittel - Franken]
+KEY[E1574  16  F 3/8]
+MEL[  +135_.6  5_4_4_  3_345_
+    +135_.6  5_4_4_  3__0_
+    2_2_.3  4_432_
+    3_3_.4  6_54#5_
+    +135_.6  5_4_4_  3_345_
+    +135_.6  5_4_4_  3__0_ //] >>
+FCT[Staende - Lied, Fuhrmann]

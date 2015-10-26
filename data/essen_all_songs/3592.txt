@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    Es wollt' sich ein Juengling erwerben,]
+CNR[erwerben in der Jugend ein Weib.]
+REG[Mitteleuropa, Deutschland (BRD) , Baden]
+SRC[5, S. 144
+    1951 gedruckt in Lahr]
+KEY[Q0102B 16  G 6/8]
+MEL[-5_  -3_-5_1_-3_-5_1_  3__.1__
+    3_  2_.-7-7-71_-6_2_  -5__.0__
+    -5_  4_.32_2_.1-7_  1__3_-5__
+    1_  -6_.-6-6-61_-7_-6_  -5__.0__
+    35  3_.2112_.1-7_  1__.0__ //] >>
+FCT[Ballade, Ehe - Geloebnis, Betrug]

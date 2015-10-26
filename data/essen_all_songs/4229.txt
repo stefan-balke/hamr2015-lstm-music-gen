@@ -1,0 +1,14 @@
+F[ERK3
+CUT[HOPSA HOPSA RUEBER UND NUEBER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1763  16  A 2/4]
+MEL[  1_1_1_3_  332_2_1_
+    333_335_  5_4_4_3_
+    3__2__  1__0__
+    -7_2_2_2_  1_1_1_-6_
+    -7_2_2_2_  2_1_1_-6_
+    -7__-6__  -5__0__
+    1_1_1_3_  332_2_1_
+    333_335_  5_4_4_3_
+    3__2__  1__0__ //] >>
+FCT[Spott - Lied auf Bauern]

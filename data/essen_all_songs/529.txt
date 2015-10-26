@@ -1,0 +1,8 @@
+ZUCCAL
+CUT[DIE MAID SIE WOLT NEN BUHLEN WERT]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z0114  08  G 2/4]
+MEL[-5  1_3_  2_5_  4#564#  2_0
+    3  4444  3333  2323  232
+    2  232-7  1_0 //] >>
+FCT[Sagen - Lied, Romanze, Tod]

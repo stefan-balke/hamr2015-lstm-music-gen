@@ -1,0 +1,9 @@
+F[ERK1
+CUT[HAB ICH MEIN TAG KEIN GUT GETHAN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0532  08  G 4/4]
+MEL[-7b_  3b_5_4_2_  3b_1_-7b_
+    -7b_  3b_5_4_2_  3b__0_
+    -7b_  3b_5_4_2_  3b_21-7b_
+    1_  2_-5_-6_-7_  1__0_ //] >>
+FCT[Liebes - Lied]

@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Jan Borluut]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0364A 04  G 6/4]
+MEL[2  1_23b_-7b  3b_45_
+    5  7b_57b_+1  5_25_
+    6b  +1_6b3b_1  3b_45_
+    1  3b_45_1  4_3b2_ //] >>
+FCT[Romanze, Ballade, Lied, Personenlied]
+CMT[Melodie muendlich durch die Familie Westendorp in Elberfeld,
+    zuerst mitgetheilt in der Zs. des Bergischen Geschichtsvereins II
+    (1865) durch Dr. Crecelius.]

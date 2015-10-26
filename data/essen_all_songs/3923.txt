@@ -1,0 +1,9 @@
+F[ERK3
+CUT[KAMERAD ICH BIN GESCHOSSEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1341  08  F 4/4]
+MEL[-5-5  1_1_3_3_  2__1_
+    11  3_3_5_5_  4__3_0_
+    5_.43_1_  4_6_5__
+    4_.53_1_  2_2_1_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

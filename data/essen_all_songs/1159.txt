@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es ritt ein Reiter wohl ueber den Rhein,]
+CNR[er sang ein trauriges Liedelein,]
+REG[Mitteleuropa, Deutschland / Polen / UdSSR, Ostpreussen]
+SRC[2, S. 112
+    1911 aufgezeichnet]
+KEY[Q0041Y 16  G 4/4]
+MEL[1__  3__2__1_1_7__  +1_7_6__5__0__  0__
+    6__5__.4_  3_2_1_3_5__5_4_  3__0___
+    1_3_  5_.55__5_5_6__  5__.3_1__0__
+    6___4__5__  6__6__5_4_3__  2___1__
+    1_3_  5_.55__5_5_6__  5__.3_1__0__
+    6___4__5__  6__6__5_4_3__  2___1__ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

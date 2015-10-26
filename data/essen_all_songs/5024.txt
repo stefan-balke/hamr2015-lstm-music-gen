@@ -1,0 +1,11 @@
+BOEHME
+CUT[ES HATTEN DREI GESELLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0559  08  G 4/4]
+MEL[-5_  3_.32432  1__-5_
+    12  3_.31_-7_  -6__0_
+    12  3_333_23  5__4_
+    33  2_2_2_12  3__0_
+    12  3_336_66  5__4_
+    34  5_123_22  1__0_ //] >>
+FCT[Studenten -, Trink - Lied]

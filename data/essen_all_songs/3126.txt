@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH HABE MIR EINES ERWAEHLT]
+REG[Europa, Mitteleuropa, Deutschland, Kaiserslautern, Westrich]
+KEY[E0591A 16  F 6/8]
+MEL[12  3_.43_2_1_2_  1__.0__
+    34  5_.65_5_4_4_  3__.0__
+    34  5_5_6_4__
+    23  4_4_5_3__
+    12  3_.43_2_1_2_  1__.0__ //] >>
+FCT[Liebes - Lied]

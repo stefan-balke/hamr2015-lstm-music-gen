@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Wir kommen hierher, von Gott gesandt,]
+CNR[mit diesem Stern aus Morgenland,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Oberhessen]
+SRC[4, S. 338
+    1844 aufgezeichnet]
+KEY[Q1086E 08  G 4/4]
+MEL[-5_  1_-5_1_3_  322_1_
+    3_  3_2_2_1_  -7_-6_-5_
+    -5_  1_-5_133_  -5_-6-71_ //] >>
+FCT[Dreikoenigs - Lied, Brauchtum]
+CMT[Melodievergleich zu Q0086, anderes Lied.]

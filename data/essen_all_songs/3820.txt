@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WEM WOELL WIR DIESEN REBNER BRINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1126  04  C 3/4]
+MEL[  111  3_4  5_5  33
+    6  5_5  336  5_5  33
+    3  333  3_3  4_3  22
+    2  1_-6  1_
+    3  333  3_3  4_3  22
+    2  1_-6  1_. //] >>
+FCT[Trink -, Zech - Lied]

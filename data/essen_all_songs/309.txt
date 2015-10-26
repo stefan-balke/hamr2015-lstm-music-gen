@@ -1,0 +1,26 @@
+BOEHME
+CUT[MAMA PAPA ACH SEHN SIE DOCH DEN KNABEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[B0366  08  C 2/4]
+MEL[-5  1_-1_  -1_0
+    1  1-7-6-5  -5_-3
+    -5  -5-4-4-4  -4-3-3
+    -5  -6-5-4-3  -5_-2
+    -2  -5_-5-6  -7-6-7
+    1  2_.3  2_0
+    2  2111  1-72
+    -7  -7-61-6  -5_0 //] >>
+FCT[Scherz - Lied, Liebe]
+BOEHME
+CUT[MAMA PAPA ACH SEHN SIE DOCH DEN KNABEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[B0366  08  C 2/4]
+MEL[-5  1_-1_  -1_0
+    1  1-7-6-5  -5_-3
+    -5  -5-4-4-4  -4-3-3
+    -5  -6-5-4-3  -5_-2
+    -2  -5_-5-6  -7-6-7
+    1  2_.3  2_0
+    2  2111  1-72
+    -7  -7-61-6  -5_0 //] >>
+FCT[Scherz - Lied, Liebe]

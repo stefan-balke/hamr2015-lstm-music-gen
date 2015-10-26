@@ -1,0 +1,10 @@
+F[ERK3
+CUT[GEFT WAT UM DEN ROMMELPOT]
+REG[Europa, Mitteleuropa, Niederlande]
+KEY[E1203  16  D 2/4]
+MEL[  1_5_5_4_  5_43b2_0_
+    1_5_5_4_  5__2_
+    3b2  1__-7b_3b2  1__-7b_0_
+    1_2_3b_4_  5_5_5_0_
+    6b_.54_5_  3b__2__  1__0__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige]

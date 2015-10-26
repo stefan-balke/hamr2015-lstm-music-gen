@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAR EIN WILDER WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Hohen - Saten, Oderberg]
+KEY[E0001F 16  G 2/4]
+MEL[-5_  1_1_2_24  3_321_
+    23  4_2_1_-72  -6_-5_0_
+    -5_  1_3_5_1_  -7_2_4_
+    5_  3_3_4_-7_  1__0_ //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

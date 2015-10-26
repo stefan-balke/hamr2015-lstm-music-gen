@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[WENN ICH AUF WAPPUSHOF GEH]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z0180  16  F 3/8]
+MEL[1_033_  -7_022_  1__0_
+    3_5_+15  5_.424  1__0_
+    5_5+15_  4_2+24_
+    3_153_  21232_
+    1_3_3_  5_4_46  5__.
+    135+15_  5_.424  3__. //] >>
+FCT[Romanze]

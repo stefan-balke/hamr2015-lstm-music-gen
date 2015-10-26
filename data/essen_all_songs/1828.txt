@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Nachtjaeger
+    Es jagt sen ein Jaeger ein wildes Schwein,]
+CNR[er jaget sen bei Tage und Mondenschein.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz]
+SRC[6, S. 167
+    1911 gedruckt in Habelschwerdt]
+KEY[Q0133D 08  C 4/4]
+MEL[5  5_35+1_76  6_5_5_0
+    5  44446_54  4_3_3_0
+    5  543435+15  5435+1_0
+    +1  +1+1+1+1+3_+2+1  +1_7_+1_0 //] >>
+FCT[Ballade, Jagd, Flucht, Vergewaltigung, Tod]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

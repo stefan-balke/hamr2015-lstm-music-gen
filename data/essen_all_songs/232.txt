@@ -1,0 +1,18 @@
+BOEHME
+CUT[ZWEI SAERGE EINSAM STEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0280  08  E 4/4]
+MEL[-5_  5_.43b_2_  1_.23b_
+    44  5_456b_.4  5__0_
+    +1+1  7b_.6b4_44  5_.43b_
+    22  1_123b_2_  1__0_ //] >>
+FCT[Stimmungs - Lied, Tauer, Toten - Klage]
+BOEHME
+CUT[ZWEI SAERGE EINSAM STEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0280  08  E 4/4]
+MEL[-5_  5_.43b_2_  1_.23b_
+    44  5_456b_.4  5__0_
+    +1+1  7b_.6b4_44  5_.43b_
+    22  1_123b_2_  1__0_ //] >>
+FCT[Stimmungs - Lied, Tauer, Toten - Klage]

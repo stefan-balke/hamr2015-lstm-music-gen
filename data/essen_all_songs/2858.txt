@@ -1,0 +1,9 @@
+F[ERK1
+CUT[EIN MAEKEN VON ACHTEIN JAHREN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+KEY[E0211B 16  E 6/8]
+MEL[1_  1_.55_5_4_6b_  5__3b_2__
+    3b_  1_.23b_4_5_3b_  2___0_
+    12  3b_.21_3b_2_1_  4__6b_5__
+    4_  3b_.21_2_.3b2_  1___0_ //] >>
+FCT[erzaehlendes Volks - Lied, Mahn -, Moral - Lied, Strafe; Untreue]

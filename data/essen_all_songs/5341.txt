@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohen Felsen]
+CNR[und schau hinunter ins tiefe Tal,]
+REG[Osteuropa, Ungarn]
+SRC[8, S. 287
+    ???? aufgezeichnet]
+KEY[Q01555 16  G 6/8 9/8]
+MEL[-7b_  3b__3b_2__2_  1__.-7b__
+    -7b_  5__5_5_.55_4_5_6b_  5__.0__
+    5_  +1__5_6b_5_4_  5__6b_5__
+    4_  3b_3b_3b_2__5_  1__.0__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Taktart in Taktwechsel geaendert.]

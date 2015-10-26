@@ -1,0 +1,12 @@
+FINK
+CUT[HORCHT IHR LIEBEN LEUTE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0233  08 Eb 2/4]
+MEL[  1_1_  +1+155
+    3322  1_0_
+    1_1_  +1+155
+    3322  1_0_
+    5525  675_
+    1_+1_  1_0_
+    6_5_  1_0_ //] >>
+FCT[Jugend - Lied]

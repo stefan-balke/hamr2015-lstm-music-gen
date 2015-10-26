@@ -1,0 +1,13 @@
+F[ERK2
+CUT[O IHR BERG UND HUEGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Hennethal]
+KEY[E0688  08  G 4/4]
+MEL[  5_+1_6_54  5_3_2_
+    13  5_5_4_4_  3__0_
+    32  1_1_1_2_  3__2_
+    23  4_6_5_54  3__0_
+    53  2_2_2_23  4_465_
+    53  2_2_2_23  4_465_0_
+    5_+1_6_54  5_3_2__
+    5_+1_6_54  3__0__ //] >>
+FCT[Liebes - Lied, Leid, Klage]

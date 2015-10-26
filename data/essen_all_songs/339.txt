@@ -1,0 +1,22 @@
+BOEHME
+CUT[ALS ICH DICH ZUM ERSTENMAL ERBLICKTE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0401  16  C 4/4]
+MEL[5_.4  3__.5_+1_.76_.3  5_4_4__0__
+    4_.7  +2__.+1_7_6_5_4_  3___0__
+    5_.3  +1__.5_+3_.+2+1_.7  7_6_6_0__
+    +1_7_6_  5__.+1_7_.65_4_  3___0__
+    5_.3  +1__.5_+3_.+2+1_.7  7_6_6_0__
+    +1_7_6_  5__.+1_7_.65_4_  3___0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ALS ICH DICH ZUM ERSTENMAL ERBLICKTE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[B0401  16  C 4/4]
+MEL[5_.4  3__.5_+1_.76_.3  5_4_4__0__
+    4_.7  +2__.+1_7_6_5_4_  3___0__
+    5_.3  +1__.5_+3_.+2+1_.7  7_6_6_0__
+    +1_7_6_  5__.+1_7_.65_4_  3___0__
+    5_.3  +1__.5_+3_.+2+1_.7  7_6_6_0__
+    +1_7_6_  5__.+1_7_.65_4_  3___0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

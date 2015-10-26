@@ -1,0 +1,11 @@
+F[ERK2
+CUT[ACH WENN ICK DOCH EIST MAL]
+REG[Europa, Mitteleuropa, Deutschland, Brauschweig]
+KEY[E0897  16  G 6/8]
+MEL[-5_  1_-7_1_2_1_2_  3_5_3_3_2_
+    -5_  1_-7_1_2_1_2_  3_5_3_3_2_
+    4_  3_5_5_5_4_4_  3_5_3_3_2_
+    4_  3_5_5_5_4_4_  3_5_3_3_2_
+    -5_  -5_4_4_4_3_1_  1_6_6_6_5_
+    5_  5_4_4_3_5_3_  2_5_421__ //] >>
+FCT[Ehestands - Lied, Klage]

@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die dienende Schwester
+    Es war einmal Markgraf am Rhein,]
+CNR[der hatt' drei schoene Toechterlein;]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
+SRC[4, S. 120
+    ????]
+KEY[Q00754 16  F 3/4]
+MEL[-5__-5_1_  1__3__2_.1  -7__0_
+    2_3_.4  5__.4_3_.2  1__0_
+    5_5_.5  5__.5_3_.1  2__0_
+    -5_1_3_  2__.4_3_.2  1__ //] >>
+FCT[Ballade, Adelige als Dienstmagd, Tod; Kinder - Spiel, Tanz]

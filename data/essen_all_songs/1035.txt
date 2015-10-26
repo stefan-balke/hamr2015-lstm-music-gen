@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Schifferlied zur Arbeit"
+    HISS EM UP]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+KEY[Z1300  16  G 2/4]
+MEL[3_2_1_-7_  1__-6_-6_
+    2_2_2_2_  2__-5_-5_
+    1_2_3_24  3__2_35  4__3__
+    43212__  -5_-5_0__
+    3_2_1_-7_  1__0__ //] >>
+FCT[Handwerker -, Bauern - Lied, Brauchtums - Lied, bei der Arbeit]

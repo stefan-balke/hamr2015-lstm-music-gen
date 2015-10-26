@@ -1,0 +1,10 @@
+F[ERK1
+CUT[DOA SAU EN JONGE MOAD FREUG OPSTOAN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Niederkruechten]
+KEY[E0122  08  D 4/4 3/4]
+MEL[-7b_  3b_3b_543b4  5_543b_
+    56b  7b_5_3b23b4  5_543b_
+    3b_  3b__4_  5_3b_4_  3b_2_3b_  1__
+    3b_  3b__4_  5_3b_4_  3b_2_3b_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe
+    Ballade ?]

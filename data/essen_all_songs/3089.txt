@@ -1,0 +1,9 @@
+F[ERK1
+CUT[O ENGEL ALLERSCHOENSTES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E0561A 16 Bb 3/4]
+MEL[-5__  1_-7-6-5__-6__  -5_-5-4-3_
+    -5_1_2_  3__3__3_2_  1__0__
+    -5_-6-7  1_1-7-6__-6_-71  2_2-7-5_
+    -5_1_2_  3__3__3_2_  1__0__ //] >>
+FCT[Liebes - Lied]

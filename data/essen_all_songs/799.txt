@@ -1,0 +1,9 @@
+ZUCCAL
+CUT["Der Odenwalder"
+    ES WOHNT EIN BAUR IM ODENWALD]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1064  16 Ab 2/4]
+MEL[-5_  1_-5_-3_-5_  1_-5_-3_-5_  1_1_2_2_  3_0_
+    3__  3_333_5_  2__2_5_  3_3_2_2_  1__0__
+    3__3_.3  3_3_3_5_  4_4_2_2_  1__0_ //] >>
+FCT[Romanze, Ballade]

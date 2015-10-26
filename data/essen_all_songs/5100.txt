@@ -1,0 +1,11 @@
+BOEHME
+CUT[MORGEN KOMMT DER WEIHNACHTSMANN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0640  08  D 2/4]
+MEL[  +1553  655_
+    6543  3_2_
+    5224  321_
+    5224  321_
+    +1553  655_
+    6543  2_1_ //] >>
+FCT[Kinder -, Weihnachts - Lied]

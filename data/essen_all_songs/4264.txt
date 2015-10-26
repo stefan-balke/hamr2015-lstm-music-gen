@@ -1,0 +1,13 @@
+F[ERK3
+CUT[HANS PITTF[ERK3EN LIET SIEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+KEY[E1820  08  C 2/4]
+MEL[-5  11-5-5  -6-6-50
+    11-5-5  -6-6-5
+    -5  11-5-5  -6-6-50
+    11-5-5  -6-6-50
+    3321  3_30
+    2223  1110
+    3321  3_30
+    2223  1110 //] >>
+FCT[Kinder -, Wiegen -, Schlaf - Lied]

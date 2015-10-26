@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    'Jetzt reis' ich fort, mein geliebtes Kind,]
+CNR[mein Schatz, wohl in die Fremde.]
+REG[Mitteleuropa, Schweiz, Kt. Zuerich, Wehntal]
+SRC[3, S. 67
+    1904 aufgezeichnet]
+KEY[Q0056A 16  F 3/4]
+MEL[-5_  1_.11__2_2_  3_.33__.
+    3_  2_3_5__4_2_  2__3__0_
+    3_  4_6_6__5_4_  3_+1_5__3_
+    3_  2_5_5__4_2_  2__3__0_
+    3_  4_6_6__5_4_  3_+1_5__3_
+    3_  2_5_5__4_2_  2__3__0_ //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

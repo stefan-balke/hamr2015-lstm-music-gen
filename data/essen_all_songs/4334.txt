@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WAS SOLL DAS BEDEUTEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Maehren]
+KEY[E1947  08 Bb 3/4]
+MEL[12  3_3_23  4_4_
+    34  5_5_43  2__
+    12  3_3_23  4_4_
+    34  5_5_43  2__.
+    2_2124  3__0_
+    3_3234  2__
+    64  3_5_43  2_4_
+    32  123_2_  1__ //] >>
+FCT[geistlich, Fest - Lied, Weihnachten]

@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Bettelmoench"
+    UND WOLLT IHR HOEREN EIN NEUES LIED]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+KEY[Z1080  08  G 4/4]
+MEL[1_  1_5_6b_54  5_43b2_0
+    3b  4_2_5_43b  2_3b21_0
+    1  2_.3b2_5_  4_3b_2_0
+    2  1_-7-6-7_1_  2_.-5-5_
+    5_  5_445_43b  2__1_ //] >>
+FCT[Romanze, Ballade]

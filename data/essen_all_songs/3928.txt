@@ -1,0 +1,10 @@
+F[ERK3
+CUT[BRUEDER JETZT GEHTS IN DEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+KEY[E1344  08 Bb 3/4]
+MEL[  -511112  1_-7-6-5_
+    -6-6-6_1_  -5_.-4-3_
+    -5_-5_1_  -6_.-6-6_
+    11-7_2_  1-7123_
+    465_44  3__. //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

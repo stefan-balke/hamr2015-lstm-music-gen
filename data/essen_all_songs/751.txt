@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Die Juedin"
+    ES WAAS EINE SCHOENE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein]
+KEY[Z1016  16  E 2/4]
+MEL[1_  1_345_24  3_2_1_0_
+    +1_767_6_  5__0_
+    5_  5_55+1_6_  5__3_
+    34  5_5_+1_6_  5__3_
+    65  4_3_4_5_  3__0_
+    5_  5_55+1_6_  5__3_
+    34  5_5_+1_6_  5__3_
+    65  4_3_4_5_  3__0_ //] >>
+FCT[Romanze, Ballade, Tod]

@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Dank - und Freudenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0623A 02  G 4/1 6/1]
+MEL[1  1_-5_1_4_  3_2_1_0
+    1  2_4_3_2_  -6__-7__1_0
+    1  1_-5_1_4_  3_2_1_0
+    1  2_4_3_2_  -6__-7__1_0
+    1  4_3_4_5_  5_4_5_0
+    7  6_4_5_.4  3_2_1_0
+    3  2_-5_1_2_  3__2__1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Luth. Gsgb 1524]

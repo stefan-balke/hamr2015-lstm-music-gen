@@ -1,0 +1,12 @@
+DVA
+CUT[Graf Friedrich
+    Graf Friederich wollt ausreiten,]
+CNR[mit seinen adeligen Leuten]
+REG[Europa, Mitteleuropa, Lothringen, Morsbronn ( Kr. Forbach )]
+KEY[D0010  16  F FREI]
+MEL[-5__1_1_1__2__.3_4_3_2__
+    3_2_1__-5__1_1_2_3_4_5_2__
+    2__.1_-7_-6_-5_.-6-5_-5_1__2_2_3_1_2__
+    4_4_3__2__1__-5__1_2_3_3_2__1__ //] >>
+FCT[Ballade, Familienereignisse]
+CMT[Inzipit = entfernte Variante zum Lied ??]

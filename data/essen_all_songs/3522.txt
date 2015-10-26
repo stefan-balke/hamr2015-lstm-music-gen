@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der Vorwirt
+    Bie vrie ischt auf dar shintige Herr,]
+CNR[bie vrie ischt auf dar shintige Herr!]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Handlern]
+SRC[5, S. 4
+    1907 aufgezeichnet]
+KEY[Q0089C 08  G 3/4]
+MEL[-5_  1_3_2_  1__-5_  1_2_34  5__
+    5_  5_2_3_  1__-5_  1_3_2_  1__ //] >>
+FCT[Ballade, Mord, Grab, Auferstehen, Geist]

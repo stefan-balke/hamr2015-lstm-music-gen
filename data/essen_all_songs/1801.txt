@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Ach Mutter mein, ach Tochter mein,]
+CNR[was reden denn die Leute?]
+REG[Osteuropa, UdSSR, Ukraine]
+SRC[6, S. 107
+    1930 gedruckt]
+KEY[Q0127B 08  B 2/4]
+MEL[3  5554  333
+    2  1165  5_4
+    2  4443  222
+    2  5432  1_1 //] >>
+FCT[Ballade, verbotene Liebe, Flucht]

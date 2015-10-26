@@ -1,0 +1,24 @@
+BOEHME
+CUT[SO SEI GEGRUESST VIEL TAUSENDMAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0204  16  G 3/4]
+MEL[-5__  1_.32__1__  6_.42___
+    5__.3_2_1_  3__2__0_
+    -5_  1_.32__1__  +1_.64#___
+    5__.2_2_1_  1__-7__0__
+    (-5_-7_2_)4__6__  (5_-7_2_)4___
+    3_.34_5_6_7_  +1_.65__0_
+    -5_  4_.21__-5__  4_.21__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[SO SEI GEGRUESST VIEL TAUSENDMAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0204  16  G 3/4]
+MEL[-5__  1_.32__1__  6_.42___
+    5__.3_2_1_  3__2__0_
+    -5_  1_.32__1__  +1_.64#___
+    5__.2_2_1_  1__-7__0__
+    (-5_-7_2_)4__6__  (5_-7_2_)4___
+    3_.34_5_6_7_  +1_.65__0_
+    -5_  4_.21__-5__  4_.21__ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

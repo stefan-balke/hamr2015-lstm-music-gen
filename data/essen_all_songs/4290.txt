@@ -1,0 +1,9 @@
+F[ERK3
+CUT[RINGEL RINGEL REIHE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Franken]
+KEY[E1870  08  F 2/4]
+MEL[  5566  5_3_
+    5566  5_3_
+    5566  553_
+    6543  221_ //] >>
+FCT[Kinder - Lied, Tanz, Ringelreihen]

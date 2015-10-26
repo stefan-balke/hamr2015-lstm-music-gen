@@ -1,0 +1,9 @@
+F[ERK3
+CUT[STORCH STORCH HEINI]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E1856  08  F 2/4]
+MEL[  5656  5_3
+    3  5656  5_3
+    3  5656  5__
+    5656  543_ //] >>
+FCT[Kinder - Lied, Tier - Lied]

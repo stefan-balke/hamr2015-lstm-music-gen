@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Es kehrt ein Soldat aus dem Kriege zurueck, hurra!]
+CNR[Seine fuenfundzwanzig Jahre hat er ausgedient,]
+REG[Osteuropa, Ungarn]
+SRC[5, S. 160
+    1940 gedruckt in Budapest]
+KEY[Q0103L 16  G 4/4]
+MEL[-5__  1__1_1_1__1_3_  5__2_2_2__5__  3__0___
+    5_.4  3_3_3_3_3_4_5_6_  5__.3_4_0_
+    4_3_  2__2__2__6__  6__5_+1_5__
+    4__  3__5__5__4__  3__0___ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Anhaengsel; letzte Zeile = Refrain (?).]

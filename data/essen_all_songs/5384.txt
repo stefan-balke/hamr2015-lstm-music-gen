@@ -1,0 +1,13 @@
+KINDER
+CUT[SCHLAUF MAN WAWERL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[K0032  08  G 4/4]
+MEL[  5_5_3_1_  4_4_2_0_
+    6_6_5_4_  5_5_3_0_
+    5_5_3_1_  4_4_2_0_
+    6_6_5_4_  5_5_3_0_
+    3_.22_6_  6_.51_
+    5_  5_.4-7_4_  3__.0_
+    3_.22_6_  6_.51_
+    5_  5_.4-7_4_  3__.0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

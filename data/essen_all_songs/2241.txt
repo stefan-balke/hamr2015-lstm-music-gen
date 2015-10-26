@@ -1,0 +1,11 @@
+FINK
+CUT[MIT HOERNERSCHALL UND LUSTGESANG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0625  08 Eb 6/8]
+MEL[5  +1_+1+1_5  3_33_
+    3  543543  2__0
+    3  2_34_2  3_45_
+    3  2_34_2  3_45_
+    1  1_33_5  +1_.
+    6_.  565432  1__0 //] >>
+FCT[Staende -, Jaeger - Lied; Soldaten - Lied]

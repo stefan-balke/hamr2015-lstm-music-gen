@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Mordeltern
+    Es war'n einmal zwei Bauernsoehn,]
+CNR[die hatten Lust ins Feld zu ziehn,]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen]
+SRC[4, S. 310
+    1931 gedruckt in Herrmannstadt]
+KEY[Q0085Z 08  G 3/4]
+MEL[1  321_1_  -7-6-5_0
+    1  -712_2_  123_0
+    -5  135_5_  6_5_0
+    4  345_5_  4_3_0 //] >>
+FCT[Ballade, Habgier, Mord, Reue, Selbstmord]

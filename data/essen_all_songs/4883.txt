@@ -1,0 +1,13 @@
+DVA
+CUT[Auf, auf ihr Jaeger all
+    und folget eurem Fuersten nach]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0181  04  C 4/4]
+MEL[-5  1122  3_4_  5342  1-6-5
+    -5  1122  3_4_  5342  1_0
+    2  22-72  22-7-5  3_.-5  3_.
+    -5  4323  4321  -7-532  1_0
+    2  22-72  22-7-5  3_.-5  3_.
+    -5  4323  4321  -7-532  1_0 //] >>
+FCT[Jaeger - Lied]
+CMT[Grundton in der zweigestrichenen Oktave; Inzipit = Transposition]

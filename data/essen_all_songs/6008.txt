@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Frau von Weissenburg
+    Wer mir es zu essen und trinken gibt,]
+CNR[dem sing' ich ein neues frisch Lied]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hottweiler]
+SRC[1, S. 313
+    1935 aufgezeichnet]
+KEY[Q0030D 08  F 3/4]
+MEL[-5_  1_3_1_  2_3_1_  2_.34_  5__
+    5_  6_6_5_  4_2_5_  2__.
+    5__.  4_3_1_  4_5_3_  1_.23_  2__.
+    2__.  1_-6_-5_  2_4_32  1__.
+    5__.  4_3_1_  4_5_3_  1_.23_  2__.
+    2__.  1_-6_-5_  2_4_32  1__ //] >>
+FCT[Ballade, Ehebruch, Mord, Moral]
+CMT[Entfernte Variante zu Q0030A.]

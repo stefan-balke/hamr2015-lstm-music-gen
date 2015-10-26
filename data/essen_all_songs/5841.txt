@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Der Schaefer von der neuen Stadt]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0298  01  F 3/1]
+MEL[1  1_1  5_5  6_6  5_
+    1  5_+1  775  6_.  5_
+    1  1_1  5_5  6_6  5_
+    1  5_+1  775  6_.  5_
+    6  542  316  542  31
+    -5  113  5_3  2_.  1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Schmeltzel Quodl. No. 8 (1544). Dritte Zeile von Boehme ergaenzt.]

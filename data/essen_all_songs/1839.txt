@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Gerstebinden
+    Da kam bruder Hanigken,]
+CNR[wolt gersten auffbinden,]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 203
+    1544 gedruckt in Nuernberg; Satz: Wolfgang Schmeltzl]
+KEY[Q0135A 04  G 4/2]
+MEL[1_  1__1__  ^_1_2_2_  2__
+    6__  7b_.65__  4__5_
+    5_  5_5_5_5_  1__0_ //] >>
+FCT[Ballade, Beischlaf, Leiden]
+CMT[Tenor - Stimme aus einem vierstimmigen Quodlibetsatz von Wolfgang
+    Schmeltzl. Notenwert rhythmisch korrigiert (in Takt 4) . Grundton
+    in der kleinen Oktave.]

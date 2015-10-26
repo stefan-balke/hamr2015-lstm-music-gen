@@ -1,0 +1,14 @@
+F[ERK3
+CUT[EIN BLUM STEHT AUF DER HEIDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E2011  04  G 6/4]
+MEL[1  3_34_3  5_.4_
+    3  2_11_2  3_.2_
+    1  3_34_3  5_.4_
+    3  2_11_2  3_.2_
+    5  5_43_2  1_.-5_
+    -5  1_-71_2  3_.2_
+    1  3_34_5  5_.4_
+    3  4_32_1  -7_.-5_
+    -5  1_23_4  3_21_ //] >>
+FCT[geistlich, Gebet, Jesus - Lied]

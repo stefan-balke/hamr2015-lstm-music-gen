@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH SOLL UND MAG NICHT SCHLAFEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0816A 08  F 3/4]
+MEL[5  +153_4_  531_.
+    3  42-7_1_  2-7-5_0
+    1  -724_32  135_.
+    7  +165_64  321_0 //] >>
+FCT[Kilt - Lied]

@@ -1,0 +1,9 @@
+FINK
+CUT[ALLAH GIBT LICHT IN NAECHTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1058  16  F 4/4]
+MEL[  3__3_3_3__3__  4___3__0__
+    2__1#_1#_2_6_5432  1___-7__0_
+    2_  3_2__2_3_2__2_  4#___5__0_
+    4_  4__3__2__.5_  1__0___. //] >>
+FCT[Trost - Lied]

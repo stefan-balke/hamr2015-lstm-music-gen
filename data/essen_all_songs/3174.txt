@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ICH HAB ZU DIR GESAGT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Bayern ?]
+KEY[E0643  08  G 2/4]
+MEL[-5  1234  3_2
+    3  421-7  1_0
+    -5  1234  3_2
+    3  421-7  1_0
+    3  5435  5_4
+    3  4564  4_3
+    -5  1234  3_2
+    3  421-7  1_0 //] >>
+FCT[Liebes - Lied]

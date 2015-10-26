@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Es lief ein Braeutlein ueber d'Wies,]
+CNR[da tritt sie auf ein Nattan spitz,]
+REG[Mitteleuropa, Oesterreich, Niederoesterreich, Niederdonau, Weitra]
+SRC[2, S. 219
+    1937 aufgezeichnet]
+KEY[Q0049A 08  G 3/4 4/4]
+MEL[-5-5-7  123_21  2_.
+    222  244_32  3_.
+    113  535_424_  3_0 //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]

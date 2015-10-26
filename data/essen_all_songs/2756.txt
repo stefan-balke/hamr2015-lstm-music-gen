@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES FUHR EIN BAUER INS HOLZ]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E0149B 16  G 6/8]
+MEL[-5_  1__1_-7__-7_  -6__-6_-5__
+    -5_  1__1_2_1_2_  3__.0__
+    1_  3__2_3_.45_  3__1_2__
+    4_  4__3_2__1_  -7_.12_2__
+    3_  5_3_5_4_2_4_  3__.0__ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann
+    Ballade ?]

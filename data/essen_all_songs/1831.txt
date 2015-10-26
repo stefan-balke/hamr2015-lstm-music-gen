@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Nachtjaeger
+    Es stiess ein Jaeger wohl in sein Horn,]
+CNR[wohl in sein Horn;]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
+SRC[6, S. 188
+    1911 gedruckt in Berlin]
+KEY[Q0133G 08  F 4/4]
+MEL[1_  3_1_335_  5_.31_0_
+    +1__7_6_  5__0_
+    3_  43246542  1_.35_.0
+    2__-7__  1_.0_. //] >>
+FCT[Ballade, Jagd, Flucht, Vergewaltigung, Tod]

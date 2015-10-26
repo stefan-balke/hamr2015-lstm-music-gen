@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WER LIEBEN WILL MUSS LEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Taunus]
+KEY[E0617  16  C 6/8]
+MEL[-5_  1__-3_-6__-5_  -5_-4_0__.
+    -71  2__-4_-6__-5_  -3__0__.
+    -5_  3__2_1__-7_  -7_-6_0__.
+    -6_  -5__1_-7_-6_-7_  1__0__. //] >>
+FCT[Liebes - Lied]

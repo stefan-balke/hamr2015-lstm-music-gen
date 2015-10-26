@@ -1,0 +1,11 @@
+F[ERK2
+CUT[HOLD UND SITTSAMKEIT]
+REG[Europa, Mitteleuropa, Deutschland, Sundgau]
+KEY[E0622  16  G 2/4]
+MEL[  1__.2_  1__2_3_  3__.0_
+    3__5_5_  5_.44_.3  3__0__
+    1_3_3__  3_5_5__  5__3_0_  5__3_0_
+    2_4_6_5_  4__2_.3  3__.0_
+    1_3_3__  3_5_5__  5__3_0_  5__3_0_
+    2_4_6_5_  4__2_.3  3__.0_ //] >>
+FCT[Liebes - Lied]

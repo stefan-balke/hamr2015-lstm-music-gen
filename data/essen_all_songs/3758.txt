@@ -1,0 +1,9 @@
+F[ERK3
+CUT[HOLZAEPFELBAEUMCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[E1030  08  F 2/4]
+MEL[  1_31  5_4
+    4  3322  1_0_
+    1131  5_4
+    4  3322  1_0_ //] >>
+FCT[Tanz - Lied]

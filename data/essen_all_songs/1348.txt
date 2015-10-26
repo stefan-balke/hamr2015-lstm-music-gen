@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Der Scheintod
+    Bie vrie ischt auf dar Hanshel junkh!]
+CNR[Bie vrie ischt auf dar Hanshel junkh!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 109
+    1895 gedruckt in Graz]
+KEY[Q0058A 08  G 3/2]
+MEL[-5_1_1_  321_1__2__  3__0_
+    1_5_5_  654_3__2__  1__0_ //] >>
+FCT[Ballade, Liebe, Enttaeuschung, Schein - Tod, Selbstmord]

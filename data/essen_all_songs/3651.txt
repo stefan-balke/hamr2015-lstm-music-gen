@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Es trieb ein Hirtlein oben aus,]
+CNR[Es trieb ein Hirtlein oben aus,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oppeln]
+SRC[5, S. 248
+    1848 aufgezeichnet (vor)]
+KEY[Q0114  08  G 2/4]
+MEL[-5  1-712  321
+    2  3234  5_53  2_0
+    5  6531  3_22  1324  3_0
+    5  6531  3_22  1_0 //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

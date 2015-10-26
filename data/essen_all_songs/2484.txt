@@ -1,0 +1,11 @@
+VARIANT
+CUT[Does Maala vo der Haa hot schoena weissa Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Ort]
+KEY[V0006C 16 Bb 2/4]
+MEL[1_  5_.56_5_  3__0_
+    5_  5_5_6_5_  4__0_
+    5_  5_5_6_5_  777_0_
+    5_  5_5_6_5_  +1+1+1_0_
+    5_  5_5_6_5_  3__0_
+    5_  5_5_6_77  +1__0_ //] >>
+FCT[Liebes - Lied]

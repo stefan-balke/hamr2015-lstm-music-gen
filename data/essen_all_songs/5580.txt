@@ -1,0 +1,12 @@
+KINDER
+CUT[DAS IST KURZ UND DAS IST LANG]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[K2610  08  F 2/4]
+MEL[  1233  2210
+    3455  4430
+    5560  445_
+    3_.5  544_
+    2_.6  655_
+    3_.5  544_
+    2_2_  1_0_ //] >>
+FCT[Kinder - Lied, Pfaender - Spiel]

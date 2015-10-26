@@ -1,0 +1,9 @@
+F[ERK5
+CUT[Ic sie die morghen sterre]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0035B 04  D 4/2]
+MEL[1_  3b_4_5_+1_  7b_6_5_
+    4_  5_5_7b_5_  543b_0_
+    3b_  2_2_542_  1__-7b_
+    (3b45)  7b_7b_545_  3b21_0_ //] >>
+FCT[Lied]

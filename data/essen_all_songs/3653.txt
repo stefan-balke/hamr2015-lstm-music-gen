@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    Am Dienstag z'Morgen in aller Frueh',]
+CNR[da muss ich zu meiner Mutter auf die Hochzeit gehn.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
+SRC[5, S. 252
+    1918 aufgezeichnet]
+KEY[Q0114B 16  G FREI]
+MEL[-5_-5_1_  1__1_1_1_6_  5__
+    3_3_3333  4_3_2_1_-7_2_  1__0__
+    3_4_  2__2_3_4_5_  2__0_
+    5_  5__5__5_5_  6__5_4_  3__2__1__ //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

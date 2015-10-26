@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    La passion de Jesus Christ]
+CNR[mon doux Jesus!]
+REG[Mitteleuropa, Frankreich, Westfrankreich, Surin (Deux Sevres)]
+SRC[2, S. 106
+    1906 aufgezeichnet]
+KEY[Q3041O 16  D 2/4 3/4]
+MEL[-6__-6_-7b_  1__2__1_-7b_  -6__
+    -7b__  -5__-7b_.1  2___
+    2__.3b_  2__1__  -7b__2__  1__.-7_  1___ //] >>
+FCT[geistlich]
+CMT[Melodievariante zu Q0041H: anderes Lied!  Grundton in der
+    zweigestrichenen Oktave.]

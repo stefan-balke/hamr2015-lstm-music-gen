@@ -1,0 +1,12 @@
+KINDER
+CUT[WER DIESEN RING NICHT FINDEN KANN]
+REG[Europa, Mitteleuropa, Deutschland, Nassau]
+KEY[K2603A 08  G 2/4]
+MEL[-5  5555  531
+    3  24-72  135
+    3  24-72  1_0
+    1  2233  443
+    3  2233  4_3_  2_0
+    -5  5555  531
+    3  234-7  211_ //] >>
+FCT[Kinder - Lied, Pfaender - Spiel]

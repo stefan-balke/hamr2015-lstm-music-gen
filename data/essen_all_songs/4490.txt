@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Schweizerton]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0401  04  G 4/2 6/2]
+MEL[1_  1_1_2_3_  4_3_4__  0_
+    2_3_4_  5__4_3_3__  2__0_
+    3_  4__3_4_.32_  1__-7__0_
+    -7_  1__1_3__3_  4_3_2_1_0_
+    1_  2_2_3_1_  4__2__
+    3__  1_4__3_  2__1__0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Einzeldruck von 1546.]

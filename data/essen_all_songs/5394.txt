@@ -1,0 +1,11 @@
+KINDER
+CUT[PRIPE NINNE SAUSE]
+REG[Europa, Mitteleuropa, Deutschland, Oberlausitz]
+KEY[K0059  16  F 2/4]
+MEL[  3_3_2_2_  1__-5_
+    -5_  3_3_2_2_  1__-5_
+    -5_  3_3_3_5_  5_4_4_
+    3_  2_2_2_4_  4_3_3_
+    1_  3_3_2_22  1__-5__
+    3_3_2_2_  1__-5_0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

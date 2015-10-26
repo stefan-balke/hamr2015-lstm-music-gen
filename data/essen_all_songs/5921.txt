@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Geburt im Walde
+    Es gingen zwei Verliebte durch einen gruenen Wald;]
+CNR[sie fanden ein Bruennlein, sie fanden ein Bruennlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen]
+SRC[1, S. 72
+    18?? aufgezeichnet (zweite Haelfte d. Jh.)]
+KEY[Q0007F 08  G 3/4]
+MEL[-5_  1_.234  2_1_2_  3_.453  2_0_
+    13  5_5_65  544_23  4_6_54  433_
+    12  3_.234  5_.43_  4_3_2_  1_0_ //] >>
+FCT[Ballade, Geburt, Tod, Moral]
+CMT[Melodievergleich zu Q0007E.]

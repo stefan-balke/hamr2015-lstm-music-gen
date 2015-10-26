@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Ohne Text]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wenden]
+SRC[4, S. 32
+    1881 gedruckt]
+KEY[Q2072J 16  G 6/8]
+MEL[1_2_3_  5__5_4_5_6_  5__0_
+    5_3_1_  3_2_1_-7_-5_2_  1__2_
+    4_3_12  3_2_1_-7_-5_2_  1__0_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Wendische Fassung der Ballade.]

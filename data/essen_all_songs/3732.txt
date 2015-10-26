@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ALLEWEIL RAPPELTS AM SCHEUERTHOR]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Spachbruecken]
+KEY[E1006  16  G 3/8]
+MEL[  1_.11_  1_3_5_  2_-7_-5_
+    1_.11_  1_3_5_  2__.
+    3_3_3_  5_.43_  6_.55_
+    3_3_3_  5_4_2_  1__. //] >>
+FCT[Tanz - Lied]

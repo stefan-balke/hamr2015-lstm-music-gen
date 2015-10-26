@@ -1,0 +1,10 @@
+F[ERK2
+CUT[IM MAIEN WENN ALL DIE VOEGLEIN SINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0961  08  A 3/4]
+MEL[1_  1__12  3b_3b_3b_  2_.1-7b-6  -5_-5_
+    2_  2__23b  2_2_3b_  4__3b2  3b__
+    2_  1_-7__  -5_1__  2__
+    -5-6  -7__1_  2__1_  4_.3b2_  3b__
+    2_  1_.21_  -7__2_  1__.  ^__ //] >>
+FCT[Tanz - Lied, Reigen, Mai - Tanz]

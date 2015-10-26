@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Schlangenkoechin
+    'Waer hedde gij zoolang gebleven,]
+CNR[Isabelle, mijn dochterken?']
+REG[Mitteleuropa, Niederlande]
+SRC[4, S. 210
+    1504 gedruckt]
+KEY[Q2079L 16  G FREI]
+MEL[-5_  11111_.2  4_3__0_
+    3_.2(1_-7_1_)  3_.22__0_
+    -5_  3_.2(1_1_-7_)  (-6_-6_-6_)-5__0_
+    -5_  1_.-72_.1  4_3__0_
+    (0_3_2_)(1_3_2_)  1__. //] >>
+FCT[Ballade, Mord; Reigen - Tanz, antiphonal]
+CMT[Niederlaendische Fassung der Ballade.
+    Zweite und ? Zeile = Refrain.]

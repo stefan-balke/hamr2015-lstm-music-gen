@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Lied von den sieben Worten Jesu am Kreuz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0541C 02  E 4/1]
+MEL[5  6b_5_4_5_  7b_6b_5_0
+    5  6b_5_6b_4_  4_2_1_0
+    -7b  1_1_3b_3b_  1_-7b_-6b_0
+    5  6b_5_4_3b_  4_2_1_0
+    -7b  2_3b_4_4_  3b_2_1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Trillers Gsgb 1555.]

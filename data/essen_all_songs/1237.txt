@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Verhaengnisvolle Heirat
+    Daar reed er eenen kapitein twers door den bosch,]
+CNR[zoo vere tot inne den pachter zen hof.]
+REG[Mitteleuropa, Niederlande, West - Flandern]
+SRC[2, S. 270
+    1900 aufgezeichnet (vor)]
+KEY[Q2052  16  G 3/2 2/2]
+MEL[1_2_3_.35_4_  3__.4_5__6__5__4#__  5___.0_
+    5_5__6_.5  5__.4_3__5__4#_5_6_5_  2__
+    5__+1__5__  3__5__4#_5_6_5_4__3_5_  4__0___
+    6__5#_.67_6_  5__2__5__5_4_3__.4_  5___0__
+    5__+1__5__  3__5__4#_5_6_5_4__3_5_  4__0___
+    6__5#_.67_6_  5__2__5__5_.43__.2_  1___0__ //] >>
+FCT[Ballade, Braut - Werbung, Minderjaehrige, Tod]
+CMT[Niederlaendische Fassung der Ballade.]

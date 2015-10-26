@@ -1,0 +1,10 @@
+F[ERK3
+CUT[BET KINDCHEN BET]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben; Rheinland]
+KEY[E1913  08  F 2/4]
+MEL[  3_22  1_0_
+    3322  1_0_
+    5555  666_
+    4444  555_
+    3_22  1_0_ //] >>
+FCT[Kinder - Lied, religioes]

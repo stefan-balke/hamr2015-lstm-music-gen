@@ -1,0 +1,12 @@
+F[ERK3
+CUT[WAS KANN MICH DENN MEHR ERGOETZEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus]
+KEY[E1451A 08  G 4/4]
+MEL[  1_.23_5_  2_321_12
+    3_.45_6_  4_543__
+    1_.23_5_  2_321_12
+    3_.45_6_  4_543__
+    5_5_6_65  4_465__
+    3_354__  3_3_2__
+    3_3_4_46  5_543_0_ //] >>
+FCT[Staende -, Jaeger - Lied]

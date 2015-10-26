@@ -1,0 +1,22 @@
+BOEHME
+CUT[DORT UNTEN IM THALE]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach; Laubenheim (Nahe)]
+KEY[B0424  08  G 3/4]
+MEL[1_  -7_-6_-5_  3_3_.2  1_1_3_  -5__
+    1_  -7_-7_-7_  -7_-6_-7_  1_1_1_  -5__
+    1_  -7_-6_-5_  3_3_.2  1_1_3_  -5__
+    1_  -7_-7_-7_  -7_-6_-7_  1__.  ^_0_
+    1_  -7__2_  6__5_  3_.33_  1__
+    3_  4_4_2_  -7_-6_-7_  1__.  ^_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[DORT UNTEN IM THALE]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach; Laubenheim (Nahe)]
+KEY[B0424  08  G 3/4]
+MEL[1_  -7_-6_-5_  3_3_.2  1_1_3_  -5__
+    1_  -7_-7_-7_  -7_-6_-7_  1_1_1_  -5__
+    1_  -7_-6_-5_  3_3_.2  1_1_3_  -5__
+    1_  -7_-7_-7_  -7_-6_-7_  1__.  ^_0_
+    1_  -7__2_  6__5_  3_.33_  1__
+    3_  4_4_2_  -7_-6_-7_  1__.  ^_0_ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

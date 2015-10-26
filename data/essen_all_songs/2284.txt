@@ -1,0 +1,12 @@
+FINK
+CUT[WER MOECHTE WOHL ZU GANZEN TAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0729  08  A 4/4]
+MEL[-5-6-7  1_1_2_-7_  1__^
+    -712  3_1_-6_-4#_  -5__0
+    -5-6-5  2_.22_.1  -7__-5
+    -5-6-7  1_1_2_2_  3__^
+    21-7  -6_2_-5_-7_  1__0
+    -5-6-7  1_1_2_2_  3__^
+    21-7  -6_2_-5_-7_  1__0 //] >>
+FCT[Geselligkeits -, Trink -, Moral - Lied, national]

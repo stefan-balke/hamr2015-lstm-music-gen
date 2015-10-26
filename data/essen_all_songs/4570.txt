@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Tannebaum]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0491  08  G 4/4]
+MEL[1_  1_.-71_2_  3b_.3b1_
+    2_  3b_-7b_1_2_  3b__0_
+    3b_  3b_.3b3b_3b_  2__2_
+    5_  1_1_-7_-7_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M. Franck, Fasc. Quodl. 1611  No. 3.]

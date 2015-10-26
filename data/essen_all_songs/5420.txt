@@ -1,0 +1,13 @@
+KINDER
+CUT[SO FAHREN DIE DAMEN SO REITEN DIE HERREN]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[K0352  08  G 3/4]
+MEL[-5_  1_.23_  2_-5_
+    -5_  2_.34_  3_1_
+    -5_  -5_-5_-5_  -5_-5_
+    -5_  -5_-5_-5_  -5_-5_
+    -5_  1_1_1_  1_1_
+    -5_  1_1_1_  1_1_0_
+    5_-5_-5_  -5_-5_-5_
+    5_-5_-5_  -5_-5_ //] >>
+FCT[Kinder -, Schaukel -, Knierreiter -, Spiel - Lied]

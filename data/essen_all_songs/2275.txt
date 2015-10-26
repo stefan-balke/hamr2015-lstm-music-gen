@@ -1,0 +1,14 @@
+FINK
+CUT[NOCHMALS LASS NATUR DICH GRUESSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0699  08 Bb 4/4]
+MEL[3_2_  4_.35_4_  6_5_
+    4_3_  2_2_4_.3  3__
+    3_4#_  3_2#_2_.2  3_2_
+    5_1_  5_-7_2_.1  -7__
+    2_3_  4_.45_.4  4_3_
+    3_4_  5_.16_5_  4__
+    4_3b_  2_2_4_.3b  3b_2_
+    2_2_  2_3_4_2_  5__
+    4_3_  6_2_5_.-7  1__ //] >>
+FCT[Geselligkeits -, Jahreszeiten - Lied, Herbst]

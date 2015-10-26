@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Meierin Sohn
+    Stoji, stoji beli grad,]
+CNR[nori sta zlahten gospod.]
+REG[Suedosteuropa, Jugoslawien, Slowenien, Reifnitz]
+SRC[4, S. 249
+    1881 gedruckt in Zagreb]
+KEY[Q2083D 08  G 4/4]
+MEL[-5_1_2_  3b__2__  5_43b2__  0_
+    -5_1_2_  3b_.21_-71  2-71__.  0_
+    -5_1_2_  3b_.21_-71  2-71__.  0_ //] >>
+FCT[Ballade, Mord, Vergeltung, Heirat]
+CMT[Slowenische Fassung der Ballade. Verzierung (Nachschlag) in der
+    ersten Zeile.]

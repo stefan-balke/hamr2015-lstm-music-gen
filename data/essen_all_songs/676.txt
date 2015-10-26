@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[AUF MEINEM GRAB DA LIEGT EIN STEIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0259  08  G 2/4]
+MEL[-512  3_5_  3322  1
+    -513  5_+16  4343  4
+    323  4_54  3232  3
+    212  3355  3322  1 //] >>
+FCT[lyrisches Lied, Romanze, Tod]

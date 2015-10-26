@@ -1,0 +1,18 @@
+BOEHME
+CUT[ES WAR EIN KOENIG IN THULE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0110  08  A 6/4]
+MEL[5_  +1__+1_5_.55_  6b__.3b__
+    3b_  4__5_6b__4_  5___0_
+    5_  +1__+1_7b__7b_  3b__.4__
+    44  5__6b_4__5_  1___0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ES WAR EIN KOENIG IN THULE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0110  08  A 6/4]
+MEL[5_  +1__+1_5_.55_  6b__.3b__
+    3b_  4__5_6b__4_  5___0_
+    5_  +1__+1_7b__7b_  3b__.4__
+    44  5__6b_4__5_  1___0_ //] >>
+FCT[Ballade, Romanze]

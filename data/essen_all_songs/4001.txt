@@ -1,0 +1,13 @@
+F[ERK3
+CUT[IN MEINES VATERS GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Dill - Kreis]
+KEY[E1422  08  C 4/4]
+MEL[-1_  -1_-3_-5_1_  -5__-3_
+    -5_  -5_-4_-4_-6_  -6_-5_-5_
+    --6_  -1_-3_-5_1_  -6__4_
+    4_  5_5_-7_-7_  1__0_
+    -5-5  -6_1_-6_1_  -5_-5_-3_
+    -5-5  -5_-4_-4_-6-6  -6_-5_-5_
+    --6_  -1_-3_-5_1_  -6__4_
+    4_  5_5_-7_-7_  1__0_ //] >>
+FCT[Staende -, Soldaten - Lied, Liebe]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[GUTE NACHT GUTE NACHT ALLEN MUEDEN SEIS GEBRACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0244  16 Eb 3/4]
+MEL[3_.2  1__0__5_.4  3__0__
+    +1_.7  7_6_5_6_5_.4  3__0___
+    2_.32_3_3_5_  5_4_4__0__
+    3_.43_3_4_6_  6_5_5__0__
+    +1_.56_4_2_5_  3__0__
+    2_.4  3__0__2_.3  1__0__ //] >>
+FCT[Tageszeiten - Lied, Nacht]
+BOEHME
+CUT[GUTE NACHT GUTE NACHT ALLEN MUEDEN SEIS GEBRACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0244  16 Eb 3/4]
+MEL[3_.2  1__0__5_.4  3__0__
+    +1_.7  7_6_5_6_5_.4  3__0___
+    2_.32_3_3_5_  5_4_4__0__
+    3_.43_3_4_6_  6_5_5__0__
+    +1_.56_4_2_5_  3__0__
+    2_.4  3__0__2_.3  1__0__ //] >>
+FCT[Tageszeiten - Lied, Nacht]

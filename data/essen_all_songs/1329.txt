@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Pehiet Aich Gott, Mueter liebai mein!]
+CNR[Pehiet Aich Gott, Mueter liebai mein!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 99
+    ????]
+KEY[Q1057L 08  G 4/4]
+MEL[24  3_.21-713  2_1_-7_
+    -71  234_3_23  1__-7__  1_0__ //] >>
+FCT[Hochzeits- , Brauchtums - Lied]
+CMT[Melodievergleich zu Q0057 , anderes Lied. Verzierung (Schlussfloskel)
+    Schlusspause ergaenzt.]

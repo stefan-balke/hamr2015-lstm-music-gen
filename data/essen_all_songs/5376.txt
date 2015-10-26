@@ -1,0 +1,10 @@
+KINDER
+CUT[SCHLAF KINDLEIN SCHLAF]
+REG[Europa, Mitteleuropa, Deutschland, Hessen ?]
+KEY[K0001  08  F 2/4]
+MEL[  3_22  1_0
+    -5  3322  1_0
+    1  4422  553
+    3  4422  553_
+    4_22  1_0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

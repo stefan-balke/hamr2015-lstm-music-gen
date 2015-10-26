@@ -1,0 +1,13 @@
+BOEHME
+CUT[IM KUEHLEN KELLER SITZ ICH HIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0561  08  F 4/4]
+MEL[1_  1_-1_3_1_  5_.65_
+    4_  3_1_-6_-4#_  -5_-5_0_
+    1_  1_-1_3_1_  5_.65_
+    4_  3_1_-6_-4#_  -5_-5_0_
+    -5_  4_.2-7_-5_  1_.35_
+    5_  6_.42_1_  -7_-5_0_
+    -5_  1_-1_3_1_  -4_6_+1_
+    76  5_315_-5_  1_-1_0_ //] >>
+FCT[Studenten -, Trink - Lied]

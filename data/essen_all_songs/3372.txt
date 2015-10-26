@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DES ABENDS WENN ES DUNKEL WIRD]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz, Mussbach a.d. Hardt]
+KEY[E0813B 08  G 4/4]
+MEL[-5_  1_.-71_2_  3_.42_
+    13  5_5_4_4_  3_5_2_
+    5_  35555_65  5_434_
+    54  3_333_5_  2_.12_
+    32  1_3_2_4_  3_6_5_3_  2__1_ //] >>
+FCT[Tage - Lied, Kilt - Lied]

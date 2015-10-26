@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Floh - Hatz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0467  02  G 4/2]
+MEL[+1  +1+1+1+1  7b_6
+    5  6554  5_0
+    +1  +1+1+1+1  7b_6
+    5  5342  1_0
+    1  3344  5_5
+    5  6554  5_0
+    1  567b5  +1_+1
+    +1  5342  1_. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No.37.]

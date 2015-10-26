@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    U szenkarza na dole,]
+CNR[zjezdzali sie panowie.]
+REG[Osteuropa, Polen]
+SRC[4, S. 38
+    1887 gedruckt]
+KEY[Q2072T 08  G 4/4 2/4]
+MEL[  1_3_2_43  2-71__.
+    5_+1_6_+17  665__.
+    5_+1_6_43  421__.
+    3555  2-71_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Polnische Fassung der Ballade. Letzte Zeile zweistimmig, obere
+    Stimme kodiert. Verzierung (Vorschlag) .]

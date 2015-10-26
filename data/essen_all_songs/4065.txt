@@ -1,0 +1,11 @@
+F[ERK3
+CUT[EI SCHAEFER WO EILEST DU HIN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen]
+KEY[E1494  08  G 3/4]
+MEL[-5_  1_.-713  2_.125  3_0_
+    12  3_.235  4_3_2_  1_0_
+    12  333335  5_4343
+    222224  3_.232
+    1_.-713  2_.125  3_0_
+    12  3_.235  4_3_2_  1_0_ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied, Liebe]

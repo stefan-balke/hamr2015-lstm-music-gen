@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HAHL MI DEN SAHLHUND UT DEN STRANNE]
+REG[Europa, Mitteleuropa, Deutschland, Insel Ruegen]
+KEY[E1504  08  G 3/4]
+MEL[  1_-5_-6-7  1_-5_
+    -6-7  1_-5_1_  231_
+    3_  543_3_  432_2_
+    321_1_  21-7_-7_
+    1_-5_-6-7  1_-5_
+    -6-7  1_-5_1_  231_0_ //] >>
+FCT[Staende -, Seemanns - Lied, Fischer]

@@ -1,0 +1,8 @@
+F[ERK2
+CUT[EIN SCHOEN'N GUTEN ABEND]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen Saathen, Brodewin]
+KEY[E0725  08  C 4/4]
+MEL[5_  +1_7655+1_  53453_
+    42  3_423_2_  1_0__
+    +1+1  7+2+167_6_  5__0_ //] >>
+FCT[Liebes - Lied, Zank]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[FRISCH AUF SOLDATENBLUT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1354  08 Bb 4/4]
+MEL[-5_  1_1_-5_-5_  -3__
+    -5__  3_3_2_2_  1__0_
+    1_  1_3_5_3_  3_.22_
+    2_  1_1_3_1_  1_.-7-7__
+    -6__1_-6_  -5_-5-3-3_
+    -5_  3_312_2-7  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

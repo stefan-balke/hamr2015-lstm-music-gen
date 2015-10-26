@@ -1,0 +1,21 @@
+F[BALLADE
+CUT[Vater und Tochter
+    Schoenes Maedchen, was machst du hier,]
+CNR[in dem Wald allein?]
+REG[Osteuropa, Tschechoslowakei, Unterzips]
+SRC[7, S. 20
+    1844 aufgezeichnet]
+KEY[Q0142B 16  G 2/4]
+MEL[  1_1_-5_-5-5  -6_-6_-5__
+    -5_-5_-6_-7_  1__0__
+    1_1_-5_-5-5  -6_-6_-5__
+    -5_-5_-6_-7_  1__0__
+    -7_2_2_2_  2_3_2__
+    3_1_1_-6_  -5_-6_-5__
+    -5_-5_-6_-7_  1_3_5__
+    3_-5_3_2_  1__0__
+    -7_2_2_2_  2_3_2__
+    3_1_1_-6_  -5_-6_-5__
+    -5_-5_-6_-7_  1_3_5__
+    3_-5_3_2_  1__0__ //] >>
+FCT[Ballade, Verfuehrung, Verwechslung]

@@ -1,0 +1,9 @@
+KINDER
+CUT[ES KOMMEN DREI MAENNER VON NINIVE]
+REG[Europa, Mitteleuropa, Deutschland, Zwickau]
+KEY[K2268A 16  D 2/4]
+MEL[1_  555_556_  5_5_3_0_
+    5_.65_6_  5__3_
+    1_  555_556_  5_5_3_0_
+    5_.65_6_  5__3_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

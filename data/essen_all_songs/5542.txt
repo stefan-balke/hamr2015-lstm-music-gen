@@ -1,0 +1,12 @@
+KINDER
+CUT[KRONE KRANE SCHWICKLE SCHWANE]
+REG[Europa, Mitteleuropa, Deutschland, Barmen, Elberfeld]
+KEY[K2326  08  F 2/4]
+MEL[  5434  5434
+    5656  5434
+    5556  5_3
+    4  5556  5_3
+    4  5556  543
+    6  5436  5430
+    6543  221_ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

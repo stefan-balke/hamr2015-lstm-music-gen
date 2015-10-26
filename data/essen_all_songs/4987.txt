@@ -1,0 +1,13 @@
+BOEHME
+CUT[ES ZIEHN NACH FERNEN LANDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0523  08  C 6/8]
+MEL[-3  -3_-5-5_1  1_.-7_
+    -7  -6_-6-5_-4  -3_.^_
+    -3  -3_-5-5_1  1_.-7_
+    -6  -5_-7-7_-6  -5__0
+    -5  -6_-6-6_-6  -6_.2_
+    2  -7_-71-71  -5_.^_
+    2  3_31_1  4_.3_
+    2  1_1-7-6-7  1__0 //] >>
+FCT[Wander - Lied]

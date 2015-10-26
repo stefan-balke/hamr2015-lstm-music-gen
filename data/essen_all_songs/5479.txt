@@ -1,0 +1,15 @@
+KINDER
+CUT[WIR TRETEN AUF DIE KETTE]
+REG[Europa, Mitteleuropa, Deutschland, Kassel]
+KEY[K2096  16  F 2/4]
+MEL[-5_  1_2_3_4_  5__+1__
+    3_3_2_2_  1__0_
+    -5_  1_2_3_4_  5__+1__
+    3_3_2_2_  1__0__
+    5_5_4_4_  3_3_2__
+    5_5_4_4_  3__0__
+    5_5_5_5_  6_6_6__
+    4_4_4_4_  5_5_5_
+    6_  5_.43_6_  5_.43_
+    3_  2_2_2_2_  1__0__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

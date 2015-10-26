@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das Bauerntoechterlein
+    Es hat ein Bauer ein Toechterlein,]
+CNR[auf Erden wollt' sie die Schoenste sein,]
+REG[Osteuropa, Polen, Kr. Kolo, Szarlatowo]
+SRC[2, S. 256
+    1935 aufgezeichnet]
+KEY[Q0051B 04  G 6/4]
+MEL[-51_2  3b3b3b2_-5  -5_
+    -6-7b-7b2  1_-6-7b-6-7b  -5_
+    -5112  3b_3b2_2  1_ //] >>
+FCT[Ballade, Hochzeit, Tod]
+CMT[Rhythmische Variante aus der Quelle abgedruckt.]

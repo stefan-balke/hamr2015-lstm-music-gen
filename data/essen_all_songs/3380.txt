@@ -1,0 +1,11 @@
+F[ERK2
+CUT[JETZT BRICHT DIE FINSTRE NACHT HEREIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+KEY[E0816D 08  G 4/4]
+MEL[-5_  1_.-71_24  3_.21_
+    3_  2_.22_35  4_3_2_
+    13  2_.22_2_  2_354_6_
+    5_.4353_  24321_
+    13  2_.22_2_  2_354_6_
+    5_.4353_  24321_ //] >>
+FCT[Kilt - Lied]

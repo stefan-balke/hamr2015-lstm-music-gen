@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Zum Abschied"
+    NUN LEB WOHL, MEIN FEINES LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1152  08 Bb 4/4]
+MEL[-5_1_  3_3_2_32  1_-5_
+    3_4_  5_5_4_54  3_0_
+    6_6_  6_0_5_5_  5_0_
+    3_.5  54321_32  1_0_ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

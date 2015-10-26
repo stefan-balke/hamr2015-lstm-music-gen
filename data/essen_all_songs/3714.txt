@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Tod als Erloeser
+    Ich bin ein armes Maedchen,]
+CNR[keine Hoffnung hab' ich mehr,]
+REG[Mitteleuropa, Deutschland (BRD) , Pfalz]
+SRC[5, S. 317
+    1909 gedruckt in Kaiserslautern]
+KEY[Q0120A 16  G 6/8]
+MEL[1_  1__-6_4__1_  -6_-6__0__
+    11  1__-6_2__1_  -5__.0__
+    -5_  -5__-5_-5__-5_  1__3_3__
+    33  4__4_-7__-7_  1__.0__ //] >>
+FCT[Ballade, Klage am Grab, Geist, Tod]
+CMT[Modulation C - G.]

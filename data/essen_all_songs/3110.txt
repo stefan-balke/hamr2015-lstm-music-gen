@@ -1,0 +1,9 @@
+F[ERK1
+CUT[GRUENE PETERSILIE]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+KEY[E0574  08  F 2/4]
+MEL[  1234  5_55  67+16  6_5
+    3  5_44  2_22  4333  1_0
+    3  5_44  2_.2  1_-71  5_.0
+    4_4_  2_22  3_3_  1_0_ //] >>
+FCT[Liebes - Lied]

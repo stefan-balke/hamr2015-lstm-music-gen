@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES RITT EIN LANDSKNAB UEBER FELD]
+REG[Europa, Mitteleuropa, Deutschland, Koenigsberg, Uderwangen]
+KEY[E0042I 08  F 6/8]
+MEL[1  3_13_4  5_.5_
+    +1  5_34_3  3_.2_0  1_35_
+    +1  5_34_3  2_.1_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage
+    Ballade ?]

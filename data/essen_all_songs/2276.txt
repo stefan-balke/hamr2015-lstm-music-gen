@@ -1,0 +1,11 @@
+FINK
+CUT[IM HUT DER FREUNDSCHAFT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0700  16  A 4/4]
+MEL[3__  1__-5__5_.43_.2  1__.1_1__.
+    1_  2_.4-6_.2-5__-4__  -3___.
+    1__  1__-5__5_.43_.2  1__.1_1__.
+    1_  6_.54_.32__1__  5___.
+    -5__  -4__-4__-3__-3__  -6__.-6_-5__.
+    -5_  1__3__5__-5__  -6__4___2_-7_  1___. //] >>
+FCT[Geselligkeits -, Bundes - Lied, Freundschaft]

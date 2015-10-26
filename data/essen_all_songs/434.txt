@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[FRISCH AUF MEINE KNAPPEN]
+REG[Europa, Mitteleuropa, Deutschland; Niederlande]
+KEY[Z0020  16  G 4/4]
+MEL[1__  3b__3b__4__4__  5___1__
+    5__  6b__5_5_4__2__  3b_4_5_43b2__.
+    2_  3b_5_5__4__2_2_  1__-7b_-6b_-5__.
+    -5_  -7b_-7b_-7b__1__2__  3b__4__
+    1__.2_  3b_2_3b_4_5__ //] >>
+FCT[Sagen - Lied, Romanze, Ballade]

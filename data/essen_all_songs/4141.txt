@@ -1,0 +1,8 @@
+F[ERK3
+CUT[LUSTIG LUSTIG IHR LIEBEN BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Wilsnack]
+KEY[E1610  08  G 3/4]
+MEL[32  1_1-512  3_30
+    34  5_5_65  4_4_
+    54  3_3_43  2__ //] >>
+FCT[Staende -, Handwerker -, Gesellen - Lied, Wanderschaft]

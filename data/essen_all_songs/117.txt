@@ -1,0 +1,22 @@
+BOEHME
+CUT[SIE GING ZUM SONNTAGSTANZE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0148  08 Bb 6/8]
+MEL[-5  1_1-7-6-7  1_.-5_
+    -5  3_1-5-6-7  1_.0_
+    3  3_3323  1_-7-6-7
+    1  2321-7-6  -5_.0_
+    -5  43221-7  1321-7
+    1  -64321-7  1_.0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[SIE GING ZUM SONNTAGSTANZE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0148  08 Bb 6/8]
+MEL[-5  1_1-7-6-7  1_.-5_
+    -5  3_1-5-6-7  1_.0_
+    3  3_3323  1_-7-6-7
+    1  2321-7-6  -5_.0_
+    -5  43221-7  1321-7
+    1  -64321-7  1_.0_ //] >>
+FCT[Ballade, Romanze]

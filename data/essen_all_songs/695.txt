@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ACH GOTT WIE WEH THUT SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0278  08  E 6/8]
+MEL[3b  4_3b2_1  1_.-7b_
+    -7b  3b_3b43b4  5_.0_
+    3b  4_3b2_1  1_.-7b_
+    -7b  3b_3b43b4  5_.0_
+    5  7b_7b7b_7b  7b_44_
+    4  6b_6b+17b6b  6b_.5_
+    5  6b543b_2  1_.0_ //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

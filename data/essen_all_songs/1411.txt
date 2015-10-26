@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der grausame Bruder
+    Es schwang sich ein Kuechenjung ueber den Rhein,]
+CNR[der wollt' des Markgrafen Schwesterlein frein.]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Kr. Wolmirstedt, Samswegen]
+SRC[3, S. 240
+    1879 gedruckt in Magdeburg]
+KEY[Q0068  16  D 6/8]
+MEL[1_  3_.33_3_5_1_  3_.22_2__
+    3_  3__3_5_.43_  2_5_5_5__
+    3_  4_.44_6_5_4_  3__3_5__
+    3_  2__2_4_3_2_  2_1_1_1__
+    3_  4_.44_6_5_4_  3__3_5__
+    3_  2__2_4_3_2_  2_1_1_1__ //] >>
+FCT[Ballade, Schwangerschaft, Moral, Mord]

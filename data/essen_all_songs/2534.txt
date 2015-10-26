@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WAR EINMAL EIN RITTERSMANN]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[E0041  08 Bb 6/8]
+MEL[-5  133355  42220
+    -5  -522244  3111_
+    -5  1-7-6-5-4-3  -5_43_
+    2  1-7-6-5-4-3  -5-6-71_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

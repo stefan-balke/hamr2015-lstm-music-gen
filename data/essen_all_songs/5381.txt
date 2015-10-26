@@ -1,0 +1,9 @@
+KINDER
+CUT[SCHLAF MEIN KINDCHEN SIEBEN STUND]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K0025  16  G 6/8]
+MEL[  3__3_5__3_  2_3_2_1__0_
+    6__6_5_.43_  2_4_3_2__0_
+    2__4_3_2_1_  6__6_5_.43_
+    2__6_5_.43_  4_.32_2__1_ //] >>
+FCT[Kinder -, Wiegen - Lied]

@@ -1,0 +1,9 @@
+F[ERK1
+CUT[EIN GUCKGUCK WOLLT AUSFLIEGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0483  04  F 4/4]
+MEL[1  1553  5_5
+    5  3234  2_1
+    1  3234  5_2
+    2  3234  5_22  1_0 //] >>
+FCT[Liebes - Lied]

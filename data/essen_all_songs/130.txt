@@ -1,0 +1,22 @@
+BOEHME
+CUT[ICH GING IM NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Untertaunus; Wetzlar]
+KEY[B0162  08  G 4/4]
+MEL[-51  1_.11131  322_0_
+    -71  2_.22212  3_543_
+    5_  2_.5221-6  -5__.
+    -5_  4_.321-71  311_0_
+    13  5_356543  422__
+    6_  5-7123_2_  1__0_ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ICH GING IM NAECHTLICH STILLEN HAINE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Untertaunus; Wetzlar]
+KEY[B0162  08  G 4/4]
+MEL[-51  1_.11131  322_0_
+    -71  2_.22212  3_543_
+    5_  2_.5221-6  -5__.
+    -5_  4_.321-71  311_0_
+    13  5_356543  422__
+    6_  5-7123_2_  1__0_ //] >>
+FCT[Ballade, Romanze]

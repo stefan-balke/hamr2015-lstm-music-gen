@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Ritter und Magd
+    Es spielet ein Ritter mit einer Dam']
+CNR[bis an den hellen Tage]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Franken]
+SRC[3, S. 60
+    1855 gedruckt in Leipzig]
+KEY[Q0055a 16  F 6/8]
+MEL[13  5_.43_+1_7_6_  6__5_5__
+    34  5__5_+1_7_6_  6__5_5__
+    55  +1_5_3_5__33  4_3_2_+1__
+    6_  5__3_5_4_3_  2__3_1__ //] >>
+FCT[Ballade, Betrug, Schwangerschaft, Tod, Selbstmord, Herr und Magd]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

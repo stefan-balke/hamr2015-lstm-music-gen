@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES TRIEB EIN SCHAEFER DIE LAEMMELEIN AUS]
+REG[Europa, Mitteleuropa, Deutschland, Zerbst]
+KEY[E0043  16  C 4/4]
+MEL[-5__  1__1__2_1_-7_-6_  -6_-5_-5_-5_-5__.
+    1_  -5_-4_-3_-4_-5_-4_-3_-2_  -3__-1_-1_-1__
+    -3_-5_  -5_-4_-2_-4_-3__
+    -5__  1__1_1_2__2__  -7_.-7-7_-7_1__ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

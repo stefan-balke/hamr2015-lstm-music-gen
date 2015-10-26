@@ -1,0 +1,10 @@
+F[ERK3
+CUT[WE SALL DAT MUEHLKEN MAHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1564  16  F 6/8]
+MEL[-5_  1__2_3__4_  5__.3__
+    34  5__5_1__
+    5_  6__5_6__5_  5__.3__.
+    +1__.6__66  6__6_5__
+    3_  5__5_5_5_.4  3__.^__ //] >>
+FCT[Staende -, Bauern - Lied, Flachsbrechen, bei der Arbeit]

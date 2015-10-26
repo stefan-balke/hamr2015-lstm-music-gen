@@ -1,0 +1,14 @@
+F[ERK3
+CUT[AUF UND AN SPANNT DEN HAHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillkreis; Westerwald]
+KEY[E1458  16  D 2/4]
+MEL[  1__3__  5__0__
+    5_+3_+1__  3_6_5__
+    4_.43_2_  6_5_5__
+    5_+3_+1__  3_6_5__
+    7_.64_2_  1__0__
+    2_.34_4_  3_5_+1__
+    +2_.+17_6_  6_5_5__
+    5_+3_+1__  3_6_5__
+    7_.64_2_  1__0__ //] >>
+FCT[Staende -, Jaeger - Lied]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[MAEDCHEN MIT DEN BLAUEN AUGEN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald, Niegerwambach]
+KEY[B0427A 16  C 3/4]
+MEL[  -5_.-6-5_-6_-5_3_  3__1__
+    4_3_  3__2_-5_-6_-7_  1___
+    4_3_  2_5_5__4_2_  1_3_3__
+    4_3_  2_5_5__4_2_  1_3_3__0__
+    -5_.-6-5_-6_-5_3_  3__1__
+    6_5_  5__4_-5_-6_-7_  1___0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[MAEDCHEN MIT DEN BLAUEN AUGEN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald, Niegerwambach]
+KEY[B0427A 16  C 3/4]
+MEL[  -5_.-6-5_-6_-5_3_  3__1__
+    4_3_  3__2_-5_-6_-7_  1___
+    4_3_  2_5_5__4_2_  1_3_3__
+    4_3_  2_5_5__4_2_  1_3_3__0__
+    -5_.-6-5_-6_-5_3_  3__1__
+    6_5_  5__4_-5_-6_-7_  1___0__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

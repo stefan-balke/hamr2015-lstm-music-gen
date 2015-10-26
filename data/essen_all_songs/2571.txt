@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES WARN EINMAL ZWEI BAUERNSOEHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Wittgenstein]
+KEY[E0050B 16  G 3/4]
+MEL[-5_  1_.11__.2_  3_.33__.
+    3_  2_3_4__-7__  2_.11__0_
+    3_  5__.3_4_3_  5__2__0_
+    6_  6_6_5_4_3__  2__1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Mord
+    Ballade ?]

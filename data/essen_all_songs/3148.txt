@@ -1,0 +1,13 @@
+F[ERK2
+CUT[ACH GOTT ES DRUCKT DAS HERZ MIR AB]
+REG[Europa, Mitteleuropa, Deutschland, Schwarzwald]
+KEY[E0615  16  G 3/4]
+MEL[-5_  3_.33__.2_  2_.11__0_
+    1_  1_1_6__.5_  5_4#_4__0_
+    -5_  4_.44__.3_  2_.22__0_
+    1_  5_.54__.2_  1_.32__0__
+    5_.55__.4_  3_.33__.2_
+    1_.16__.5_  5_.4#4___
+    4_.44__.3_  2_.22__.1_
+    -7_.25_5_4_2_  1___0_ //] >>
+FCT[Liebes - Lied]

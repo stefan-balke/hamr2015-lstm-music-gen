@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die brave Stiefmutter
+    Bie vrie ischt auf dai Vrage schian!]
+CNR[Shi schtangait schmoaraisch guer vrie auf.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Nieder - Tiefenbach]
+SRC[5, S. 321
+    1906 aufgezeichnet]
+KEY[Q0121  08  F 4/4]
+MEL[2_  5_5_5_5_  654#52__
+    54321_1_  21-7-6-5_
+    -5-5  11132__  1__0_ //] >>
+FCT[Ballade, Todes - Ahnung, Tod, Waise, gute Stiefmutter]
+CMT[Letzte Zeile = Refrain.]

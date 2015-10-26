@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Osterlied des 15. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0553B 02  D 4/1]
+MEL[1  1_5_2_4_  3b_2_1_0
+    1  5_6_7b_6_  5_4_5_0
+    5  +1_6_7b_5_  4_3b_2_0
+    2  1_5_2_4_  3b_2_1__
+    -7b_1_2_1_  4_5_3b12_  1___ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[ Triller 1555]

@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Bluthochzeit
+    Et sauss e Medchi haenderm Schlamchi,]
+CNR[et naeit mat ruit uch graener Seid.]
+REG[Suedosteuropa, Rumaenien, Siebenbuergen, Bistritz, Weisskirch]
+SRC[2, S. 160
+    1931 gedruckt in Herrmannstadt]
+KEY[Q0046B 08  F 3/4]
+MEL[13  5_.654  3_.15_  4_.343  220_
+    12  3_.432  1_.23_  2_.12_  1__ //] >>
+FCT[Ballade, Entfuehrung, Mord, Vergeltung; geistlich]
+CMT[Melodie gehoert zu einem geistlichen Lied.]

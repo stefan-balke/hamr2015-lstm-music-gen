@@ -1,0 +1,9 @@
+F[ERK1
+CUT[VIVAT JETZT GEHTS INS FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0326  08  C 4/4]
+MEL[5_  +1_+1_+1_+1_  5__0_
+    5_  6_6_67+16  5__0_
+    5_  54434_.4  355+1+1_.
+    5  65435432  1__0_ //] >>
+FCT[historisches Lied, Krieg, Schlacht bei Lowositz (1756)]

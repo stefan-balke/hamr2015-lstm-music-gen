@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Kriegers Abschied"
+    LEBT WOHL IHR DEUTSCHEN MAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1137  08  E 6/8]
+MEL[1  3b_3b3b23b  2_2-7_
+    1  3b_22_2  3b212_
+    2  3b_3b543b  2221_
+    1  1_1123b  1-7-7-7_
+    -7  -7_-7112  5_.4_3b  2__.  1_0_. //] >>
+FCT[Vaterland und Wehr]

@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Heilige drei Koenige]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0532A 04  G 4/2 6/2]
+MEL[1_1_5_  5_5_4_3b_  2__0_
+    4_  4_4_4_4_  3b543b2_.
+    5  7b_5_4_3b4  2__1__0_
+    1_  3b_3b_4_44  3b_212_.
+    5  7b_554_3b_  2__1__  0_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Paderborner Gsgb. 1617.]

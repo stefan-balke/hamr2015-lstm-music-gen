@@ -1,0 +1,9 @@
+KINDER
+CUT[MUHKUEHBCHEN FLIEGE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Stotternheim]
+KEY[K0823  16  G 2/4]
+MEL[  5__3_1_  5__3_
+    1_  5_5_3_1_  5__3_
+    11  5_5_3_1_  5_5_3__
+    6_5_4_3_  2_2_1__ //] >>
+FCT[Kinder -, Tier - Lied]

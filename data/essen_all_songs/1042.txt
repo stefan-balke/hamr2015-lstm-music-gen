@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Kuhreigen"
+    BIN I NIT E LUSTIGE SCHWITZERBUE]
+REG[Europa, Mitteleuropa, Appenzell]
+KEY[Z1308  16  G 2/4]
+MEL[-5-5  1_1_3_33  5_653_33  5_4_2_22  3_+1_+3_
+    -5-5  1_123_34  5_653_33  5_4_2_22  3__0_
+    1_  2_221-7-6-5  2_2_1-7-6-5  2_2_5__  ^_-7221-6-7  -5_-5_-5_0_
+    1_1_3234  5_653_43  5_4_2_22  3_+1_+3_
+    33  5_4_2_22  3__.
+    35  4_24+2246  5_3+3+1_35  4_24+2246  5_3+3+1_
+    5+3  +1__^5+35  +1__^5+35  +15+35+15+5+3  +1__0_ //] >>
+FCT[Handwerker -, Bauern - Lied]
+CMT[Die letzten 8 Takte werden auf die Silbe 'do' gesungen.]

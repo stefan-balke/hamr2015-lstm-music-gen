@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ICH HABE MEIN FEINSLIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0536  08  F 3/4]
+MEL[-5  135_3_  542_0
+    1  -712_4_  653_0
+    -5  113_5_  +1__^
+    6  545_2_  1__0 //] >>
+FCT[Liebes - Lied]

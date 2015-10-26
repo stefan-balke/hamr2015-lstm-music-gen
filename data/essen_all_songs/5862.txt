@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Der Schwanendreher]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0315  04  A 4/2]
+MEL[21-7-6-5_-6_  -7_-7_-6_-6_
+    -7_1_2_2_  3_.21_23
+    4_2_3_3_  2_.-52__
+    4__4_3_  2_1-7b-6__
+    4__4_3_  2_1-7b-6_
+    -6_  2__1__  -7_.-6-5_
+    2_  3_2_3_4_  5_432_
+    1_  -7_-6_-7_1_  2_1-7-6_
+    2_  3__2__  -7_.-6-5_
+    -5_  3__2__  1_.-61__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Hainhofer, Lautenbuch II. 1603. Bl. 13b Hs. in Wolfenbuettel.]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[AUF DEM KIRCHHOF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0413B 16  A 2/4]
+MEL[-5-6b  -7b_-7b_1_1_  -7b_123b_0_
+    -5_.-6b-7b_2-7b  -5_-3b_0_
+    -5_  -5_-5_-6_-7_  1_.23b_
+    3b4  5_3b453b53b  4__.
+    12  3b_3b3b2_3b_  1__. //] >>
+FCT[Liebes - Lied]

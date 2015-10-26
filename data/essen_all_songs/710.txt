@@ -1,0 +1,17 @@
+ZUCCAL
+CUT[MEIN HERZLEIN THUT MIR GAR ZU WEH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0293  16  C 2/4]
+MEL[1_  3b__4__  5__.
+    12  3b_1_2_-7_  1__0_
+    1_  3b__4__  5__.
+    12  3b_1_2_-7_  1__0_
+    3b_  4_4_4_45  4__0_
+    3b4  5_5_4_3b_  2__0_
+    5_  4_3b_2_1_  1_.-71_
+    2_  3b_4_5_.-7  1__0_
+    3b_  4_4_4_45  4__0_
+    3b4  5_5_4_3b_  2__0_
+    5_  4_3b_2_1_  1_.-71_
+    2_  3b_4_5_.-7  1__0_ //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Nachtjaeger
+    Es blies ein Jaeger wohl in sein Horn, wohl in sein Horn,]
+CNR[und alles, was er blies, das war verlorn.]
+REG[Mitteleuropa, Deutschland (DDR) , Pommern, Stralsund]
+SRC[6, S. 164
+    1930 aufgezeichnet]
+KEY[Q0133B 08  G 4/4]
+MEL[-5_  1-7123234  5_432_03  5_43-7_0
+    2  2321-7-6-71  21-7-6-5_0_
+    5_3_3_.3  4_2_2_.
+    2  12345_12  3_2_1_ //] >>
+FCT[Ballade, Jagd, Flucht, Vergewaltigung, Tod]
+CMT[Anhaengsel an der ersten Zeile.  Dritte Zeile =  Refrain auf
+    sinnfreie Silben.]

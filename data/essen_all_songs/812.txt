@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Der Zauberer"
+    ES WAREN ZWEI ZARTE KINDERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1077  16  E 6/8]
+MEL[1_  3b__4_5__4_  7b_.654#5__
+    5_  +1__+1_6b__5_  7b_.6b543b__
+    4_  5_4_5_4_3b_4_  2__3b21__
+    5_  5__4_5_4_3b_  2__1_-7b__
+    -7b_  3b__4_5__4_  3b_.2121__ //] >>
+FCT[Romanze, Ballade]

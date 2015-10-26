@@ -1,0 +1,11 @@
+FINK
+CUT[IM WALDE STEHT EIN TANNENBAUM]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0298  08  F 6/8]
+MEL[-5  1_354#5  6_55_
+    3  2_57_6  5__0
+    2  2_3434  6_55_
+    3  5_42_-5  1__0
+    2  2_3434  6_55_
+    3  5_42_-5  1__0 //] >>
+FCT[Jugend - Lied, Weihnachten]

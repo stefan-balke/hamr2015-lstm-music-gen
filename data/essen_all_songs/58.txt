@@ -1,0 +1,24 @@
+BOEHME
+CUT[PREIS DIR HERMANN VOLKSERRETTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0078  08 Eb 4/4]
+MEL[  1_2_3_3_  3432211_
+    3_4_5_5_  5654433_
+    5_.32_2_  2_31-7_0_
+    2_343_+17  7654#5_0_
+    5_.34_2_  3_211-7-7_
+    5_.34_2_  3_211-7-7_
+    6_6_5+13_  54321_0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[PREIS DIR HERMANN VOLKSERRETTER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0078  08 Eb 4/4]
+MEL[  1_2_3_3_  3432211_
+    3_4_5_5_  5654433_
+    5_.32_2_  2_31-7_0_
+    2_343_+17  7654#5_0_
+    5_.34_2_  3_211-7-7_
+    5_.34_2_  3_211-7-7_
+    6_6_5+13_  54321_0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

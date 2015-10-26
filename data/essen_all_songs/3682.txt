@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das hungernde Kind
+    'Mutter, ach Mutter, es hungert mich,]
+CNR[gib mir Brot, sonst sterbe ich!']
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
+    Weiler]
+SRC[5, S. 273
+    1928 aufgezeichnet]
+KEY[Q0115  08  G 4/4]
+MEL[  333_555_  4_2_2__
+    4_4_3_2_  1_-6_-5__
+    -5_1_1_-6_  -7_1_2__
+    4_4_331_  22-7_1__
+    -5_1_1_1_  -7_2_2__
+    3_3_5_5_  4_-7_1__ //] >>
+FCT[Ballade, Hunger, Tod]

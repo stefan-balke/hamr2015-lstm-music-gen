@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WIE STEHT IHR HIER UND SEHT MICH AN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0934  04  F 4/4]
+MEL[1  3_4_  5_.4  3_2_  1_.
+    1  3_4_  5_.4  3_2_  1_.
+    4  3_2_  -6_-5_  3454  2_.
+    4  3_2_  -6_-5_  3454  2_. //] >>
+FCT[Tanz - Lied, Reigen, geistlich]

@@ -1,0 +1,13 @@
+F[ERK2
+CUT[O BARON DU FALSCHES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Rheiland, Siebengebirge]
+KEY[E0710  08 Bb 6/8]
+MEL[-5-3-5  -6_1-7-6-5  1_3
+    -5-3-5  -6_1-7_-5  1_0
+    -5-3-5  -6_1-7-6-5  1_3
+    -5-3-5  -6_1-7_-5  1_0
+    3_5  4321-7-6  -5_
+    -5-6_-6  4321_-7  1_0
+    3_5  4321-7-6  -5_
+    -5-6_-6  4321_-7  1_0 //] >>
+FCT[Liebes - Lied, Leid, Klage]

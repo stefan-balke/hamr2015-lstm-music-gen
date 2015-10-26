@@ -1,0 +1,11 @@
+BOEHME
+CUT[GROSSER GOTT WIR LOBEN DICH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0738A 04  G 3/4]
+MEL[  1_1  1-71  212  1_.
+    3_3  345  543  320
+    1_1  1-71  212  1_.
+    3_3  345  543  320
+    234  432  3_4  5_.
+    6_6  543  432  1_. //] >>
+FCT[Lob -, Dank - Lied, religioes]

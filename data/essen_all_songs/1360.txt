@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Elsberger
+    Bie vrie ischt auf Molankizle,]
+CNR[Molankizle, mein scheanai Praut.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 138
+    ????]
+KEY[Q1059C 04  G 4/2 3/2]
+MEL[-5  3_5_4_5_  31-7_
+    -7_  1_321_2_  -7-71_. //] >>
+FCT[Ballade, Entfuehrung]
+CMT[Melodievergleich zu Q0059, anderes Lied: "Tuerkischer Kaiser" .
+    Taktart in "Taktwechsel" korrigiert.]

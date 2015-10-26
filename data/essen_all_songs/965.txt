@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Zum letztenmal"
+    ASSA WILL I GEHN ZUM BAUERMOIDALA]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1230  08  G 4/4]
+MEL[33454321  3_454321
+    1_351_35  65433_2_
+    3_445_3_  54323_1_
+    2_334_2_  54323_1_
+    1__2__  3_563_2_  1___ //] >>
+FCT[Liebes - Lied]

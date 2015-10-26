@@ -1,0 +1,10 @@
+KINDER
+CUT[REIHE REIHE ROSE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Unter - Elsass]
+KEY[K2082  16  F 2/4]
+MEL[  5_6_5_6_  5__3_0_
+    5_6_5_6_  5__3_
+    3_  5_5_333_  5_5_3_
+    3_  55533_3_  5_553__
+    111_111_  5_5_3__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

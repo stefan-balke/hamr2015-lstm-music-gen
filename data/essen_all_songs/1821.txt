@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Werber und der Jude
+    Dort unden in dem Judenhaus,]
+CNR[da schaut ein schwarzbraunes Maedel raus.]
+REG[Osteuropa, UdSSR, Wolga - Gebiet, Rothammel]
+SRC[6, S. 150
+    1969 gedruckt in Freiburg]
+KEY[Q0131B 08  G FREI]
+MEL[-5  -5-6-7123  1_0
+    -5  -5-6-7123  1_0_
+    2_  3545  3_2_
+    3544  332
+    3  11-7-5  -6_-5_ //] >>
+FCT[Ballade, Braut - Werbung, Erpressung]
+CMT[Transkription einer Tonaufnahme. Verzierungen (Nachschlaege) .]

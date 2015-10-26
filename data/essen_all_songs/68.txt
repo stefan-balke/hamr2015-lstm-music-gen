@@ -1,0 +1,26 @@
+BOEHME
+CUT[ALS DER SANDWIRTH VON PASSEIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0092  08  A 4/4]
+MEL[-5-5  1_1_1_1_  3b210
+    3b_.2  1_.3b2_.1  -7b-6-5_0_
+    -5-5  1_1_1_1_  3b210
+    3b_.2  1_.3b2_.1  -7b-6-5_0_
+    -5-6  -7b_-7b_-7b_-7b1  21-7b_
+    2_.3  4_4_4_4_  6b54_
+    4_.4  4_4_4_4_  6b54_
+    6b_.6b  6b_5_4_3b_  2___  1__0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]
+BOEHME
+CUT[ALS DER SANDWIRTH VON PASSEIER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0092  08  A 4/4]
+MEL[-5-5  1_1_1_1_  3b210
+    3b_.2  1_.3b2_.1  -7b-6-5_0_
+    -5-5  1_1_1_1_  3b210
+    3b_.2  1_.3b2_.1  -7b-6-5_0_
+    -5-6  -7b_-7b_-7b_-7b1  21-7b_
+    2_.3  4_4_4_4_  6b54_
+    4_.4  4_4_4_4_  6b54_
+    6b_.6b  6b_5_4_3b_  2___  1__0_ //] >>
+FCT[Helden -, Ehren -, Gedaechtnis -, Kriegs - Lied]

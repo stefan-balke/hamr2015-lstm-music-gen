@@ -1,0 +1,9 @@
+F[ERK3
+CUT[CHRISTUS DER HERR IM GARTEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Garz]
+KEY[E1960  08  F 4/4]
+MEL[111  -7_1_2_3_  1__.
+    1_  2_3_4_3_  1_2_3_
+    2_  2_2_3_2_  1_-7_-6_
+    2_  3_2_1-6-5_  (123)2_1 //] >>
+FCT[geistlich, Fest - Lied, Biblischer Stoff, Passion]

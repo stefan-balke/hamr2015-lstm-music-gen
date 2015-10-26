@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Landsknecht - Marsch]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0420  04  F 4/2]
+MEL[1_  1_5_5_3_  1___  0__.3_  3_3_3_3_  3__0_
+    3_  3_3_3_3_  3_3_3__  3__2_1_  2___
+    1_.23_4_  5__6_6_  5_3_4_2_  1___
+    1_.23_4_  5__6_6_  5_3_4_2_  1__. //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Forster II 1540 No. 20.]

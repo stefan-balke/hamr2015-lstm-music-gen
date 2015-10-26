@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES RITT EIN REITER FRISCH WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0110H 16  F 6/8]
+MEL[1_  3_.43_1_3_5_  +1__6_5__
+    3_  2__3_4__5_  3__2_1__
+    3_  2__3_4__5_  3__2_1__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

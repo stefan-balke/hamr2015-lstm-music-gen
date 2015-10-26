@@ -1,0 +1,18 @@
+F[ERK3
+CUT[DRUEBEN IM ODENWALD]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Gegend; Wetterau;
+    Westerwald]
+KEY[E1461  08 Bb 3/4]
+MEL[  -5_-5_1_  -6_.-6-6_
+    -5-72432  1__0_
+    -5_-5_1_  -6_.-6-6_
+    -5-72432  1__0_
+    1_3_5_  4_.32_
+    -5_2_4_  3_.21_
+    -5_-5_1_  -6_.-6-6_
+    -5-72432  1__0_
+    1_3_5_  4_.32_
+    -5_2_4_  3_.21_
+    -5_-5_1_  -6_.-6-6_
+    -5-72432  1__0_ //] >>
+FCT[Staende -, Jaeger - Lied]

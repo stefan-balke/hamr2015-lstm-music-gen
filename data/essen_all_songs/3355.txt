@@ -1,0 +1,13 @@
+F[ERK2
+CUT[VON DIR MUSS ICH SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau]
+KEY[E0786  16 Bb 2/4]
+MEL[  -5_1_1_1_  1_3_3__
+    2_.1-7_-6_  -7__0__
+    -7_.12_3_  4__-7__
+    2_.12_3_  1__0__
+    -5_1_1_1_  1_3_3__
+    2_1_-7_-6_  -7_-5_-5__
+    -7_.12_3_  4___
+    3_.22_3_  1__0__ //] >>
+FCT[Abschieds -, Wander - Lied]

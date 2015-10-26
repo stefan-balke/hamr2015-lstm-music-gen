@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Tochter als Faehnrich
+    Tuschen vier hooge muren]
+CNR[en daar staat er een koningspaleis,]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[5, S. 94
+    1900 gedruckt in Gent]
+KEY[Q3096E 16  G 4/4]
+MEL[  1_2_3_2_-7__1_2_  3_2_1__0__
+    1_.3  4__5_4_3__2_1_  2___0__
+    2_.3  4__5_4_3__2_1_  2___0__
+    2_.2  2_5_5_5_4_3_2_1_  2_.34___
+    1_.2  3__4_3_2__4_2_  1__-7__0__
+    1_.2  3__5_3_2_3_4_.2  1___0___ //] >>
+FCT[???]
+CMT[Melodievergleich zu Q0096A, anderes Lied "Van de twee
+    Koningskinderen" .]

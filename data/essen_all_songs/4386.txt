@@ -1,0 +1,11 @@
+F[ERK3
+CUT[MEERSTERN ICH DICH GRUESSE]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[E2048  08  A 4/4]
+MEL[  1_.-71_2_  3_3_0_
+    5_  3_565425  3__0__
+    1_.-71_2_  3_3_0_
+    5_  3_565425  3__0_
+    12  3_3_4346  5_5_0_
+    4_  35312_2_  1__0__ //] >>
+FCT[geistlich, Marien - Lied]

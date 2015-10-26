@@ -1,0 +1,13 @@
+KINDER
+CUT[HELL AUF DER WIESE FAENGT ES AN ZU SCHIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein]
+KEY[K2120  16 Eb 2/4]
+MEL[  5__6_6_  5__3__
+    5_5_6_6_  5__3__
+    5_5_5_1_  5__5__
+    5__5_1_  5__5__
+    5__5_5_  5__5_5_
+    5_5_6_6_  5_5_3_
+    33  5_5_5_6_  5_5_3_
+    3_  5_5_5_6_  5_4_3__ //] >>
+FCT[Kinder - Lied, Reigen, Tanz - Spiel]

@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES GIENG A MOL A BETTELSMANN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+KEY[E0139  16  G 2/4]
+MEL[-5_  1_3_2_4_  3_312_
+    -5_  1_3_5_.3  55312_
+    2_  3_5_4_3_  5_432_
+    2_  4_324_32  3_-5_1_ //] >>
+FCT[erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann
+    Ballade ?]

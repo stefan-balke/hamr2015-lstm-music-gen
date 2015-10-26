@@ -1,0 +1,23 @@
+F[BALLADE
+CUT[Herzog Ernst
+    Die Schrifft die gibt uns weis und Lehr,]
+CNR[wie dass Marie Psalter wer,]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 86
+    1646 Handschrift Kloster Seeon]
+KEY[Q0010A 04  E FREI]
+MEL[143b456b54_0
+    6b6b6b56b7b6b5_0
+    43b455110_.
+    143b456b54_0
+    6b6b6b56b7b6b5_0
+    43b455110_.
+    -6b-7b12b2b3b43b_0
+    3b3b2b11-6b-6b0_.
+    3b3b3b3b1454_0
+    4543b3b110_.
+    112b3b43b1-6b_0
+    -6b3b4546b43b_0
+    1453b1-6b-7b1__ //] >>
+FCT[Ballade, geistlich]
+CMT[Melodie: Geistliche Kontrafaktur. Kein eigenstaendiger Text gedruckt.]

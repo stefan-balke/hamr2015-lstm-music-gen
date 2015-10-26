@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Verzweiflung"
+    SCHAETZLEIN SAG MIRS FUER GEWISS]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1172  16 Bb 2/4]
+MEL[  1_1_-7_2_  1_-6_-5_0_
+    3_3_2_3_  4_3_2_0_
+    1_1_-7_2_  1_-6_-5_0_
+    3_3_2_3_  4_3_2_
+    -5-5  1231-5-722  1231-5-72
+    2  4_.23_.1  321-71_0_ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

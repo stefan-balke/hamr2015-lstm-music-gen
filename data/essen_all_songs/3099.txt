@@ -1,0 +1,13 @@
+F[ERK1
+CUT[AUF DIESER WELT HAB ICH KEIN FREUD]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Odenwald]
+KEY[E0569A 16 Bb 3/4]
+MEL[-5__  1_-7-6-5__-6__  -5_-5-4-3_
+    -5_1_2_  3_5_5__4_5_  3__0_
+    1_-7_1_  2_.22_
+    321_2_  3_.33_
+    -5_1_3_  5__5__4_5_  3__0_
+    1_-7_1_  2_.22_
+    321_2_  3_.33_
+    -5_1_3_  5__5__4_5_  3__0__ //] >>
+FCT[Liebes - Lied, Trennung]

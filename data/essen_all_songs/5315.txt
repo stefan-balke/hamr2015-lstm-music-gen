@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Als ich auf hohen Berge stand]
+CNR[und schau ins tiefe Tal,]
+REG[Osteuropa, Polen, Galizien, Konstantynowka]
+SRC[8, S. 90
+    1940 aufgezeichnet in einem Rueckwandererlager.]
+KEY[Q0155f 08  C 4/4]
+MEL[1_  5_6_5_4_  3_.32_.
+    2  3_3_4_6_  5__0_
+    5_  +1_+1_+176_  5_+1_5_0_  4__3_
+    +1_  6_4_432_  1_0__ //] >>
+FCT[Ballade, Standesunterschied, Werbung, Liebe, Glueck]
+CMT[Anhaengsel in der dritten Zeile.]

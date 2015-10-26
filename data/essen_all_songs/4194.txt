@@ -1,0 +1,7 @@
+F[ERK3
+CUT[NUN SO WOLLN WIR NOCH EINMAL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1726  16  G 3/4]
+MEL[5_3_  1_.11_1_1__  1_.11_1_1__  6__6__6__  5___0__
+    4__4__4__  3__3__3__  5__5__5__  1___ //] >>
+FCT[Scherz - Lied, Soldaten - Lied]

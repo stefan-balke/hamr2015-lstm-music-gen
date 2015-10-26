@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Lockung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0190  04  F 6/2]
+MEL[1_  1__1_3__4_  5__3_1__
+    +1_  +1__+1_7__5_  6__.5__
+    1_  5__+1_7_5_6_  5__5_3__
+    6_  5_.43_2_1_-7_  -6__.-5__
+    -5_  1_.2345__43  2__.1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Nach Forster II 1540 No. 73, dort rhythmisch entstellt, mit
+    zweimaligem Taktwechsel. Alles deutet auf durchgaengigen Tripeltakt,
+    den ich durch geringfuegige Aenderungen hergestellt habe.]

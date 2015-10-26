@@ -1,0 +1,18 @@
+BOEHME
+CUT[DORT SINKET DIE SONNE IM WESTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0227  16  C 3/8]
+MEL[-5_  1_-5_-5_  -5_.-4-3_  -4__-5_  -3__
+    -5_  -4_.-5-4_  -3_.-5-3_  -2__.  ^_0_
+    -5_  -7_.-6-5_  1_-5_3_  4__.  ^__
+    3_  2_2_2_  -5_.-6-7_  1__.  ^_0_ //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[DORT SINKET DIE SONNE IM WESTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0227  16  C 3/8]
+MEL[-5_  1_-5_-5_  -5_.-4-3_  -4__-5_  -3__
+    -5_  -4_.-5-4_  -3_.-5-3_  -2__.  ^_0_
+    -5_  -7_.-6-5_  1_-5_3_  4__.  ^__
+    3_  2_2_2_  -5_.-6-7_  1__.  ^_0_ //] >>
+FCT[Tageszeiten - Lied, Abend]

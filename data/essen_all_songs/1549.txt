@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Verbliit v lieue susterkyn]
+REG[Mitteleuropa, Niederlande]
+SRC[4, S. 30
+    14?? Handschrift (zweite Haelfte d. 15. Jh.)]
+KEY[Q3072F 04  D FREI]
+MEL[5  5_7b6_+1  +1_7b_65
+    7b  +16+15_  5_4_3b2_
+    1  3b4567b55  4_54_3b2_
+    1  3b_1_2_4  4_3b_21__ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0072C, anderes Lied.]

@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Graserin und Reiter
+    Es wolt ein meydlin grasen gan:]
+CNR[Juck mich, lieber Peter.]
+REG[Mitteleuropa, Deutschland]
+SRC[7, S. 126
+    1546 gedruckt (1535 bis 1546) ; Satz: Heinrich Isaac]
+KEY[Q0149  04  G 2/2]
+MEL[1_  3b_3b_  4_4_  5_5_  5__
+    4_.5  6_7b_  656_  5__  0_
+    5_  +1_6_  7b_5_  4_3b_  2__
+    4_4_  4_4_  5_6_  5__
+    4_.4  4_4_  5_6_  5_0_
+    4_3b_  4_2_  1__  ^__  1__  0_ //] >>
+FCT[Ballade, Verfuehrung, Verlassen des Elternhauses]
+CMT[Tenor - Stimme (cf) aus einem vierstimmigen Satz von Heinrich Isaac.
+    Notenwerte halbiert. Satzbedingte Pausen weggelassen.]

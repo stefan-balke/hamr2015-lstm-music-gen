@@ -1,0 +1,11 @@
+F[ERK3
+CUT[HAIJO BOBAJO]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+KEY[E1811  08  G 2/4]
+MEL[  3_23  1_-5
+    -5  3323  1_-50
+    3344  243_
+    1122  -7-710
+    3344  243_
+    1122  -7-710 //] >>
+FCT[Kinder -, Wiegen -, Schlaf - Lied]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[WOLLT IHR HOEREN EIN NEU GEDICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1957  08  F 3/4]
+MEL[1_  1__5_  3__1_  2_4_6_  5__4_  5__
+    4_  3__4_  5__5_  5__3_  2__
+    1_  3__4_  5__5_  4__3_  2__
+    1_  3__4_  5__4_  3_212_  1__ //] >>
+FCT[geistlich, Fest - Lied, Biblischer Stoff, Passion]

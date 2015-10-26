@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ICH STAND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Langenberg]
+KEY[E0115A 08  G 3/4]
+MEL[-5_  1_.233  322_
+    32  1_.133  2__
+    35  5_3_35  5_3_
+    35  4_.255  3__ //] >>
+FCT[erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, betrogene Liebe
+    Ballade ?]

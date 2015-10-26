@@ -1,0 +1,10 @@
+F[ERK1
+CUT[IK SACH MINEN HER VAN VALKENSTEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Bielefeld]
+KEY[E0062  08  G 4/4]
+MEL[5_  5_43b2_5_  5_43b2_.
+    4  3b_2_1_1_  -7__1_
+    11  2_3b3b4_2_  3b_4_5_.
+    4  3b_2_1_1_  -7__1_ //] >>
+FCT[erzaehlendes Volks - Lied, Ritter - Sage
+    Ballade ?]

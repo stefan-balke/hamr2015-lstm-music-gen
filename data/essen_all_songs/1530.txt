@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Verschlafener Jaeger
+    Es ging ein Jaeger wohl jagen]
+CNR[drei Viertelstuendchen vor Tage,]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Gummersbach,
+    Berghausen]
+SRC[7, S. 217
+    1933 aufgezeichnet (vor)]
+KEY[Q0152L 08  C 6/8]
+MEL[5  5_5555  5_.3_
+    5  +1_+1+17+1  +3_+2+17
+    6  5_5567  +10+3+3_
+    +1  +2_+2767  +1_0_.
+    5  535+1_+1  +15+1+3_
+    +3  +2_+2767  +1_0_. //] >>
+FCT[Ballade, Verfuehrung, Versagen, Spott]
+CMT[Die letzten beiden Zeilen = Refrain , z.T. auf sinnfreie Silben.]

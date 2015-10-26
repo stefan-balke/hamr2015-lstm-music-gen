@@ -1,0 +1,10 @@
+F[ERK2
+CUT[DAS LIEBEN STEHT EIM JEDEN FREI]
+REG[Europa, Mitteleuropa, Deutschland, Hildburghausen]
+KEY[E0718  08  G 4/4]
+MEL[-5_  -5_1_1_3_  321_2_
+    3_  4_2_3_2_  1__0_
+    1_  3_5_5_65  4_4_4_
+    54  3_3_3_1_  2_2_2_
+    3_  542_3_2_  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

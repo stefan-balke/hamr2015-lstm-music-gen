@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Bie vrie ischt auf]
+CNR[kluains Shneidarle,]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Lichtenbach]
+SRC[3, S. 90
+    1895 gedruckt in Graz]
+KEY[Q0057F 08  G 6/4]
+MEL[-5-71_-7_-6_  -5__
+    -6-71_-7_-6_  -5__
+    -5_1_2_34  5__
+    543__2_  1__
+    243__2_  1_0_ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]
+CMT[Dritte Zeile = Refrain.]

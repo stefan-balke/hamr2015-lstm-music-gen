@@ -1,0 +1,13 @@
+ALTDEU
+CUT[Der 12. Psalm: Salvum me fac domine]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0627  02  A 4/1 6/1]
+MEL[1__  2b_1_-7b_4_  4_2b_1_0
+    1  2b_1_-7b_3b_  2b__1__-7b__  0__
+    1__  2b_1_-7b_4_  4_2b_1_0
+    1  2b_1_-7b_3b_  2b__1__-7b_.
+    -7b  1_-6b_-5_-4_  -6b_-7b_1_0
+    -6b  -7b_2b_1_2b_  -7b_-6b_-7b_0
+    -7b  4_2b_3b_4_  3b__2b__1__  0__//] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Erfurter Enchiridion I. 1524 No. 13.]

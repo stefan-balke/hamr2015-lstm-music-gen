@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Des alten Dessauer Lied"
+    DER KOENIG FASSTE DEN BESCHLUSS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1131  16 Bb 4/4]
+MEL[-5__  1_.-5-3_.-51_.-5-3_.-5  1_.-71_.23__.
+    1_  3_.23_.45__4_.3  2___2__
+    -5__  1_.-5-3_.-51_.-5-3_.-5  1_.-71_.23__.
+    1_  3_.23_.45__4_.3  2___2__.
+    2_  2_.32_.1-7_.-6-5_.-6  -7_.12_.34__
+    2__  3_.23_.45__6_4_  3__2__1__ //] >>
+FCT[Vaterland und Wehr, Soldaten -, Kriegs - Lied]

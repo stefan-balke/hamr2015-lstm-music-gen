@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die Unbestechliche
+    Es reit' ein Reit'r auch wohlgemut,]
+CNR[es reit' ein Reit'r auch wohlgemut,]
+REG[Osteuropa, Tschechoslowakei, Slowakei]
+SRC[7, S. 36
+    1969 gedruckt in Freiburg]
+KEY[Q0144C 16  G 4/4 2/4]
+MEL[-5__  1__1__2__.55  4_3_2_
+    1_  1_3_2_11  -7_-6_-5_
+    -5_  1__1__2__.11  3__(4_-7__)1__ //] >>
+FCT[Ballade, Liebes - Handel]
+CMT[Transkription einer Tonaufnahme. Viele Verzierungen (Vor- und
+    Nachschlaege) . Schlusspause gestrichen.]

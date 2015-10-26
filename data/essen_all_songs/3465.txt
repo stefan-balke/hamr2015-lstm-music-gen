@@ -1,0 +1,12 @@
+F[ERK2
+CUT[DER SCHEFFER VON NUWEN STAT]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0933  08  F 3/4]
+MEL[1_  1__1_  5__5_  6__6_  5__
+    1_  5__+1_  7_7_5_  6__.  5__
+    1_  1__1_  5__5_  6__6_  5__
+    1_  5__+1_  7_7_5_  6__.  5__
+    3_  5_.432  3_1_
+    3_  5_.432  3_1_
+    2_  3_3_6_  5__3_  2__.  1__ //] >>
+FCT[Tanz - Lied, Reigen]

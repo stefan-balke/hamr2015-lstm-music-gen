@@ -1,0 +1,10 @@
+F[ERK1
+CUT[MEISTER MUELLER THUT MAL SEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Marburg]
+KEY[E0108B 08  F 4/4]
+MEL[12  3_3_3_23  4_2_0_
+    23  4_4_4654  5_3_0_
+    13  5_.555+1+1  6__0
+    +176  5_355_45  3__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

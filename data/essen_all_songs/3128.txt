@@ -1,0 +1,12 @@
+F[ERK1
+CUT[O UELI MYN UELI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E0592  08 Bb 3/4]
+MEL[-5_  1_.321  -7_-5_
+    1_  3_1353  2__
+    -5_  1_.321  -7_-5_
+    1_  3_1353  2__
+    34  5_3_53  4_2_
+    34  5_3_53  4_2_
+    46  5_.342  1__ //] >>
+FCT[Liebes - Lied, Kilt - Lied]

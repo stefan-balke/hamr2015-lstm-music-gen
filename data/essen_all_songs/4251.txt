@@ -1,0 +1,17 @@
+F[ERK3
+CUT[DIE GEDANKEN SIND FREEI]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Schweiz; Elsass]
+KEY[E1803A 08  C 3/4]
+MEL[-5-5  1_.231  -5__
+    -3_  -4_-2_-5_  -3_-1_
+    -5-5  1_.231  -5__
+    -3_  -4_-2_-5_  -3_-1_
+    1_  -7_2_-7_  1_3_
+    1_  -7_2_-7_  1_3_
+    1_  -6_.-71-6  -5__
+    13  2_1_-7_  1__
+    1_  -7_2_-7_  1_3_
+    1_  -7_2_-7_  1_3_
+    1_  -6_.-71-6  -5__
+    13  2_1_-7_  1__ //] >>
+FCT[Freiheits - Lied]

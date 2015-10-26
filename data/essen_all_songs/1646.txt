@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die misshandelte Schwiegertochter
+    Mi Adel en hir Alewijn]
+CNR['t waren twee konings kinderen fijn;]
+REG[Mitteleuropa, Niederlande, flaemisch]
+SRC[4, S. 123
+    1879 gedruckt in Bruges]
+KEY[Q2076  16  A 3/4]
+MEL[-7b_-7b_3b_  3b__3b__3b_2_  1__0_
+    -7b_1_-7b_  3b__3b__3b_22  1__0_ //] >>
+FCT[Ballade, Adelige als Dienstmagd, boese Schwiegermutter]
+CMT[Flaemische Fassung der Ballade.]

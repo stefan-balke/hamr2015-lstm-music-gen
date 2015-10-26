@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Werber und der Jude
+    Zu Strassburg steht ein hohes Haus,]
+CNR[da schaut ein schwarzbraun's Maedel heraus.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Saargemuend,
+    Hambach]
+SRC[6, S. 148
+    ????]
+KEY[Q0131  08  G 4/4]
+MEL[-5_  1_.23_4_  2_.31_
+    -5_  1_.23_4_  2_231_
+    3_  5_5_5_66  5__2_
+    2_  5_4_3_2_  1_-6_-5_
+    -5_  1_2_3_4_  2__1_ //] >>
+FCT[Ballade, Braut - Werbung, Erpressung]

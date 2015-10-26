@@ -1,0 +1,12 @@
+FINK
+CUT[LIEBCHEN LASS DICH KUESSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F1095  16  F 6/8]
+MEL[  5_3_1_1_-7_1_  6__.5__.
+    3_.21_1_-7_1_  2___0__
+    2__+1_7__6_  6__5_5_4#_3_
+    3__2_2_+1_4#_  5__0__.
+    65  5__2_6__5_  5__.0__
+    5_  3__5_2__5_  1__.0__
+    5_  3__5_2__3_  1__0___ //] >>
+FCT[Wiegen - Lied]

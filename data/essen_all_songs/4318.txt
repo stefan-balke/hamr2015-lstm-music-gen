@@ -1,0 +1,14 @@
+F[ERK3
+CUT[KLOPFER KLOPFER RINGELCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E1910  08  F 2/4]
+MEL[  1122  321
+    -5  1122  3210
+    2213  221
+    -5  1122  321
+    -5  1122  3_10
+    1122  321_
+    1122  321_
+    221_  221_
+    5111  111_ //] >>
+FCT[Kinder - Lied, Tanz, Reigen]

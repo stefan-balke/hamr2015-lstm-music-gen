@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Den Keizer van Zweden heeft brieven geschreven,]
+CNR[Den Keizer van Zweden heeft brieven gedaan,]
+REG[Mitteleuropa, Niederlande, Flandern]
+SRC[4, S. 34
+    1900 gedruckt in Gent]
+KEY[Q2072O 08  G 3/4]
+MEL[32  1_1_2_  3_3_3_  4_5_4_  3_3_
+    32  1_1_2_  3_3_3_  4_5_4_  3_0_
+    -71  2_2_3_  2_1_2_  3__2_  1_0_
+    43  2_3_1-7  -6_-6_2_  1__-7_  1_0_ //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Rueckkehr]
+CMT[Flandrische Fassung der Ballade.]

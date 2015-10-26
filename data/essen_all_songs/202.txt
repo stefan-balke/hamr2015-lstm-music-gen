@@ -1,0 +1,26 @@
+BOEHME
+CUT[WIE WOHL IST MIR IM DUNKELN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0240  16 Ab 6/8]
+MEL[-5_  3__1_4__2_  5__3_1__
+    -7_  -6__4_3__2_  1__.-7__
+    -5_  3__1_4__2_  5__3_1__
+    -7_  -6__4_3__2_  1__.-7__
+    5_  5__5_5__-7_  2__1_1__
+    65  5__5_4_.654  4__3_3__
+    -5_  3__1_4__2_  5__.
+    6__.  5_.31_-7_3_2_  2__.1__ //] >>
+FCT[Tageszeiten - Lied, Abend]
+BOEHME
+CUT[WIE WOHL IST MIR IM DUNKELN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0240  16 Ab 6/8]
+MEL[-5_  3__1_4__2_  5__3_1__
+    -7_  -6__4_3__2_  1__.-7__
+    -5_  3__1_4__2_  5__3_1__
+    -7_  -6__4_3__2_  1__.-7__
+    5_  5__5_5__-7_  2__1_1__
+    65  5__5_4_.654  4__3_3__
+    -5_  3__1_4__2_  5__.
+    6__.  5_.31_-7_3_2_  2__.1__ //] >>
+FCT[Tageszeiten - Lied, Abend]

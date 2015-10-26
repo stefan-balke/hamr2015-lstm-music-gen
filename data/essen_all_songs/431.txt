@@ -1,0 +1,12 @@
+ZUCCAL
+CUT[ES WOLLT SICH EIN MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0017  16  G 3/8]
+MEL[-5_  1_.11_  3_.13_  5_.65_  3_.4
+    5_  4__.  2__
+    -5_  1_.11_  3_.13_  5_.65_  3_.4
+    5_  4__.  2__
+    1_  3_.23_  2_.12_  3_.43_  2_
+    2_.3  4_.44_  4_.34_  6_.55_  3__
+    3_  +1_7_6_  5_4_3_  4__.  2__.  1__ //] >>
+FCT[Sagen - Lied, Romanze]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der heimkehrende Braeutigam
+    'Zottelbock, wo gehst du hin?']
+CNR['In die Stadt um suessen Kren.']
+REG[Osteuropa, Tschechoslowakei, Sudetenland, Schoenhengstgau]
+SRC[5, S. 144
+    1938 gedruckt in Kassel]
+KEY[Q1102G 08  G 4/4]
+MEL[  5_.43_.4  5_.65_0_
+    5_.43_.4  5_.65_0_
+    5_.43_.4  5_.43_.
+    4  5_.43_.4  5_.43_0_ //] >>
+FCT[Kinder - Lied]
+CMT[Melodievergleich zu Q0102F, anderes Lied.]

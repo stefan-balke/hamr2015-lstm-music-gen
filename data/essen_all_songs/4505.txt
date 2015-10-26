@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Landsknechtorden]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0416A 04  C FREI4/4]
+MEL[1__3__5__5__5__5__5__5__3__4__3__
+    3__3__3__3__3__3__3_3__3__2__4__3__
+    3__3__3__3__2__1__2__
+    -5_  1_1_2_2_  3_1_3234  5__0_5_  5_3_4_3_  2__1__ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Dresdner Codex M. 53 (16. Jh.)]

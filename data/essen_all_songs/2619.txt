@@ -1,0 +1,10 @@
+F[ERK1
+CUT[HANI EN BLAUEN STORKEN GSEH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+KEY[E0071  08  G 4/4]
+MEL[-5_  1_.-51_2_  3_2_1_
+    34  5_.55_3_  2__0_
+    13  5_5_5_3_  6__5_
+    34  5_5_3_2_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe
+    Ballade ?]

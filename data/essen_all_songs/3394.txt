@@ -1,0 +1,9 @@
+F[ERK2
+CUT[FRISCH AUF MEIN LIEBES TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0832  04  G 4/4]
+MEL[5  312-5  132
+    2  3554#  5_0
+    2  3453  423
+    -5  -611-7  1_0 //] >>
+FCT[Hochzeits -, Ehestands - Lied]

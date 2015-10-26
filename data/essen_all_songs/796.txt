@@ -1,0 +1,10 @@
+ZUCCAL
+CUT["Trost"
+    HAB UNTER EINER LINDE DIE GANZE LIEBE NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Mittelrhein]
+KEY[Z1061  16  G 2/4]
+MEL[-5_  1_-5_-3_-5_  1_3_1_
+    3_  2_1_-7_-6_  -5__.
+    -5_  -5_-6_-7_1_  2_.32_
+    5_  1_1_1_32  1__0_ //] >>
+FCT[Romanze, Ballade]

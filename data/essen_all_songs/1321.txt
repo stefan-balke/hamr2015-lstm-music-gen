@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es war ein Jaeger gar wohlgemut,]
+CNR[er trug zwei Federn an seinem Hut;]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau, Ellershausen]
+SRC[3, S. 89
+    1860 aufgezeichnet (ca.)]
+KEY[Q0057D 16  G 6/8]
+MEL[-5_1__6_  5_.65_4__5_  3__
+    -5_1__6_  5_.65_4__5_  3__
+    4_4_.56_  6_5_4_4_.56_  5__
+    5_2_.26_  6_.54_5_.654  3__
+    4_4_.56_  6_5_4_4_.56_  5__
+    5_2_.26_  6_.54_5_.654  3__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

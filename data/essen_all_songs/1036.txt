@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Der Bauernstand"
+    MERKET AUF IHR CHRISTENLEUT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1301  08  A 6/8]
+MEL[  1_32_4  3_45_.
+    4_23_1  2_-71_
+    1  -7_12_1  -7_-6-5_.
+    1_35_5  6_65_5
+    1_35_5  6_65_5
+    1_32_4  3_65_.
+    4_23_2  1_-71_0 //] >>
+FCT[Handwerker -, Bauern - Lied]

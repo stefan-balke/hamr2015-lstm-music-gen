@@ -1,0 +1,14 @@
+F[ERK3
+CUT[UNSRE MUTTER HAT DIE GAENSE]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+KEY[E1724  16  F 3/8]
+MEL[  111113  55531_
+    111113  55531_
+    5_4_2_  1__0_
+    5__3_  5__3_
+    4_2_2_  32345_
+    5__3_  5__3_
+    542_2_  1__0_
+    111113  55531_
+    111113  55531_ //] >>
+FCT[Scherz - Lied]

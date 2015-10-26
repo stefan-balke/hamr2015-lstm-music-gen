@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES JUG EIN JAEGER WILD UND SCHWEIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt, Odenthal]
+KEY[E0019G 16  F 4/4]
+MEL[13  5__3__+1__6__  5__5_4_3___
+    3__3__5__3__  3__2__2___
+    1_2_3__2_2_2__  1__+1__5___
+    3_3_3__5__5_4_  3___0__. //] >>
+FCT[Sage, Maerchen -, Zauber - Lied
+    Ballade ?]

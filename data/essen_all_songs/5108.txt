@@ -1,0 +1,10 @@
+BOEHME
+CUT[AN EINEM FLUSS DER RAUSCHEND SCHOSS]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz; Odenwald; Elsass]
+KEY[B0647A 08  G 4/4]
+MEL[-5_  1_31-5_1_  -6_1-6-6_0
+    1  -7_1_2_3_  2__0_
+    -5_  4_.32_5_  3_.21_
+    3_  2_.12_3_  1__0_ //] >>
+FCT[Moral - Lied, Ballade]
+CMT[Schlusston korrigiert (Druckfehler ?)]

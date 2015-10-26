@@ -1,0 +1,9 @@
+F[ERK2
+CUT[WENN SICH DIE HAHNEN KRAEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+KEY[E0822A 08  D 2/4]
+MEL[1  123b4  5_5
+    5  6b544  5_0
+    5  43b21  -7_5
+    4  3b21-7  1_0 //] >>
+FCT[Tage - Lied, Kilt - Lied]

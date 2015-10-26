@@ -1,0 +1,10 @@
+FINK
+CUT[ZU STRASSBURG AUF DER SCHANZ]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0579  08  G 4/4]
+MEL[-5_  1_.-51_2_  3__0_
+    12  3_.3322_  1__0_
+    12  33333323  4__0_
+    43  322_2_12  3_543_
+    2_  13243_54  3_2_1_ //] >>
+FCT[Soldaten - Lied, Deserteur]

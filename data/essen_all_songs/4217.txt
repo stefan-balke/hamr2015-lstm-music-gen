@@ -1,0 +1,10 @@
+F[ERK3
+CUT[WAS TRAEGT DIE GANS]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1751  16  G 3/4]
+MEL[-5_-5_.-5  1__1__-7_1_  2__-5__
+    -6_.-6  -5___
+    -5_-5_  4__4_4_2_.4  3__3__
+    1_.3  2__2__1_.2  3__3__
+    2_.2  1__0_ //] >>
+FCT[Scherz -, Spiel - Lied, Reimspiel]

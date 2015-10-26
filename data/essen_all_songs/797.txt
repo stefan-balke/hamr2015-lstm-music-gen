@@ -1,0 +1,13 @@
+ZUCCAL
+CUT["Mariahilf"
+    DIE KOENIGSTOCHTER HARRT SO LANG]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1062  16  G 6/8]
+MEL[-5_  1__-712__12  3__2_1__
+    24  3__2_1__1-7  -6__-7_1__
+    -5-7  1__-712__12  3__2_1__
+    4_  3__2_1__-7_  -6__-7_1__
+    12  3__2_3__4_  5__6_5__
+    5_  6__5_3__4_  5__6_5__
+    5_  4__3_2__54  3__.2__.  1__.0__ //] >>
+FCT[Romanze, Ballade]

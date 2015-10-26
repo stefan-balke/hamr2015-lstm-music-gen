@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Skjon jomfru gjekk pa hogan fjell,]
+CNR[sag ned i den djupe dal.]
+REG[Nordeuropa, Norwegen]
+SRC[8, S. 285
+    1984 gedruckt in Molde]
+KEY[Q2155z 08  G 4/4]
+MEL[13b  5_5_4_45  3b_3b21_
+    13b  5_5543b4_  5__0_
+    6b_  7b_7b56b_6b5  544_4_.
+    5  3b_2_1_.
+    1  2_.1-7_-7_  1__0_ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage]
+CMT[Norwegische Fassung der Ballade.]

@@ -1,0 +1,13 @@
+BOEHME
+CUT[AUF DEINEN HOEHN]
+REG[Europa, Mitteleuropa, Deutschland; Schottland]
+KEY[B0732  16 Eb 2/4]
+MEL[5_  +1__7_6_  5__
+    6_+1_  3_3_4_2_  1__.
+    5_  +1__7_6_  5__
+    6_+1_  3_3_4_2_  1__.
+    3_  2_5_7_+2_  +2__.
+    +1_  7_5_6_4#_  5__.
+    67  +1__7_6_  5__
+    6_+1_  3_3_542_  1__0_ //] >>
+FCT[Heimat - Lied]

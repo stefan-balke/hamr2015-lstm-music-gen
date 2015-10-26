@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der Gluecksjaeger
+    Es ritt ein Jaeger wohlgemut,]
+CNR[drei Federn trug er auf seinem Hut.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kapsdorf]
+SRC[6, S. 191
+    1842 gedruckt in Leipzig]
+KEY[Q0134A 16  G 6/8]
+MEL[-5_  1__3_3_2_1_  2__-7_-5__
+    2_  2__5_2_1_-7_  1_-7_-6_-5__0_
+    1__-5_-6_-6_-5_  111_-5_-6_-6_-5
+    -5  -5__1_3_2_1_  2__2_1__ //] >>
+FCT[Ballade, Jagd, Flucht, Verfuehrung]
+CMT[Dritte Zeile = Refrain auf sinnfreie Silben.]

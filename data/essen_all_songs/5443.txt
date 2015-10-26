@@ -1,0 +1,10 @@
+KINDER
+CUT[REGE REGE SCHURE]
+REG[Europa, Mitteleuropa, Deutschland, Moers]
+KEY[K1026  16  G 2/4]
+MEL[  1_1_2_2_  3_1_0_
+    -5_  1_1_2_2_  3_1_0_
+    -5_  3_3_222_  3_3_3_
+    3_  2_2_2_2_  3__3__
+    2_2_2_3_  1_1_1__ //] >>
+FCT[Kinder -, Natur -, Regen - Lied]

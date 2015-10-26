@@ -1,0 +1,15 @@
+BOEHME
+CUT[FERN IM SUED DAS SCHOENE SPANIEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass, Bischweiler]
+KEY[B0537  16  D 3/4]
+MEL[3_4_  3__.2_1_2_  1__-7__
+    6_6_  5__.3_1_2_  3___
+    3_4_  3__.2_1_2_  1__-7__
+    6_6_  5__.3_1_2_  3___
+    4_3_  3__2__3_2_  2__1__
+    3_5_  5__.5_6531  2___
+    3_3_  3__.2_1_2_  1__-7__
+    2_3_  4__.4_3_2_  5___
+    5_5_  6__.6_7b_6_  5__4__
+    3_2_  1_-5_3__.2_  1__0__ //] >>
+FCT[Wander -, Heimat - Lied, Heimweh]

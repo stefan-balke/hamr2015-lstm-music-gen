@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Belagerung von Koeln"
+    DER CHURFUERST UND DER FALKENBERGER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1087  08  A 4/4]
+MEL[-5_  1_-7_1_2_  33330_
+    2_  32345_43  32220_
+    23  56543_.3  65432_.
+    2  32345_43  55555_.
+    -5  -5__0_ //] >>
+FCT[Romanze, Ballade]

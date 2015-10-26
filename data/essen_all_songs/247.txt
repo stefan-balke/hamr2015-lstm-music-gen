@@ -1,0 +1,26 @@
+BOEHME
+CUT[DER MENSCH HAT NICHTS SO EIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0295  08  G 6/8]
+MEL[-5  1_23_4  5_.2_
+    3  4_32_1  5_.^_
+    -5  1_23_4  5_.2_
+    3  4_32_1  5_.^_
+    3  2_34_5  6_.2_
+    5  3_12_-7  1_.^_
+    3  2_34_5  6_.2_
+    5  3_12_-7  1_.^_ //] >>
+FCT[Stimmungs - Lied, Freude, Geselligkeit, Freundschaft]
+BOEHME
+CUT[DER MENSCH HAT NICHTS SO EIGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0295  08  G 6/8]
+MEL[-5  1_23_4  5_.2_
+    3  4_32_1  5_.^_
+    -5  1_23_4  5_.2_
+    3  4_32_1  5_.^_
+    3  2_34_5  6_.2_
+    5  3_12_-7  1_.^_
+    3  2_34_5  6_.2_
+    5  3_12_-7  1_.^_ //] >>
+FCT[Stimmungs - Lied, Freude, Geselligkeit, Freundschaft]

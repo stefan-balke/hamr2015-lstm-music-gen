@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die geraubte Koenigstochter"
+    ES WAR EIN JAEGER WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1073  16  G 6/8]
+MEL[-5_  1__2_3__1_  2__1_-7__
+    2_  5__3_2__-7-5  1__-6_-5__0_
+    1_1_1_-5_-3_-1_  1_1_1_-5_-3_
+    1_  1__2_3_.43_  2__321__0
+    1  1__2_3_.43_  2__321__ //] >>
+FCT[Romanze, Ballade, Jaeger - Lied]

@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die verkaufte Muellerin
+    Bie vrie ischt auf dar Milar junkh]
+CNR[Bie vrie ischt auf dar Milar junkh]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[4, S. 341
+    1895 gedruckt in Graz]
+KEY[Q0086M 16  G 4/4]
+MEL[5_4_  3_4_5__4_.32__  1_2_3__2__
+    1__  3_4_5__4_.32__  1_2_3__2__ //] >>
+FCT[Ballade, Menschenhandel, Rettung, Hinrichtung]

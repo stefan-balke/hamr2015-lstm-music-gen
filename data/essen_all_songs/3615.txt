@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der heimkehrende Soldat
+    Husaren kom ater fran kriget och hem, Hurra!]
+CNR[Husaren kom ater fran kriget och hem, Hurra!]
+REG[Nordeuropa, Schweden]
+SRC[5, S. 163
+    1903 gedruckt in Stockholm]
+KEY[Q2103N 16  G 6/8]
+MEL[-5_  1_3_2_1_-7_-6_  -5_-6_-5_-4_-3_-5_  1__.0__
+    -5_  1_3_2_1_-7_-6_  -5_-6_-5_-4_-3_-5_  1__.0__
+    12  3_3_3_3_2_3_  5_5_5_2__
+    5_  4_3_2_1_-7_1_  2_1_-6_-5__
+    1_  -5__-5_-3__-5_  1__.0__ //] >>
+FCT[Ballade, Ehe, Betrug]
+CMT[Schwedische Fassung der Ballade. Anhaengsel; letzte Zeile = Refrain.]

@@ -1,0 +1,13 @@
+F[ERK3
+CUT[DORT WO DIE KLAREN BAECHLEIN RINNEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen; Nassau; Elsass]
+KEY[E1496  16  G 4/4]
+MEL[-5__  1__.-5_-3_-5_1_.-7  -7__-6__0__
+    2_3_  4__.3_2_-5_3_.2  1___0__
+    -5__  1__.-5_-3_-5_1_.-7  -7__-6__0__
+    2_3_  4__.3_2_-5_3_.2  1___0__
+    3__  2__.3_2_2_1_1_  -7_2_5__0__
+    2_5_  4#__.3_2_2_1_1_  -7__4__3__
+    2__  1__.-5_-3_-5_1_.-7  -7__-6__0__
+    2_3_  4__.3_2_-5_3_.2  1___0__ //] >>
+FCT[Staende - Lied, Hirten -,  Schaefer - Lied]

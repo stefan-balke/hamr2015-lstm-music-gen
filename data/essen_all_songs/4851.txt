@@ -1,0 +1,13 @@
+DVA
+CUT[Bei der Lind'n bin i's gsessn
+    bei der Lind'n sitz i's gern]
+REG[Europa, Mitteleuropa, Deutschland, Oberbayern, Woernsmuehl]
+KEY[D0124  08  G 3/4]
+MEL[-53  3_2_-54  4_3_
+    -53  3_2_-54  4_3_
+    3_  466_56  43+15
+    5+1  7_044_  3__
+    3_  466_56  43+15
+    5+1  7_044_  3__ //] >>
+FCT[Liebes - Lied]
+CMT[Zeilenwiederholung; zweistimmig ( parallele Terzen )]

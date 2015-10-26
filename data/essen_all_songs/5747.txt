@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Krauserlin, Mauserlin]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0197A 04  G 4/2]
+MEL[1_  1__1__  2__3__  4__.4_  4__0_
+    4_  4_4_2_2_  5__.4_  3_4_2__  1__0_
+    1_  1__1__  2__3__  4__.4_  4__0_
+    4_  4_4_2_2_  5__.4_  3_4_2__  1__0_
+    3_  4__4__  3__6__  5_.45__  4__0_
+    4_  4_4_2_3_  4_4_2_3_  4_5_6_4_  5__.4_  3_212__  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Gassenhawerlin 1535 No. 12. Tonsatz von Heinrich Finck.]

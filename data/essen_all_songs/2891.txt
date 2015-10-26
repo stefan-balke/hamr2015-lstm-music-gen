@@ -1,0 +1,11 @@
+F[ERK1
+CUT[HIER STEHEN WIRAUF UNSERN KRUECKEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0334A 08 Bb 4/4]
+MEL[535  1__0+1+1+1  7_5_0
+    7+16  5_365424  4_3_0
+    323  544_0_34  655_0
+    323  544_0_34  655_0
+    +1+1+1  6_543_2_  54345
+    +1+1+1  6_545_-7_  1__0 //] >>
+FCT[historisches Lied, Krieg, Invalieden; Tod Friedrich II (1786)]

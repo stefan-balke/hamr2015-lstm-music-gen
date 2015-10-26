@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ES MARSCHIRTEN DREI REGMENTER WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Anclam]
+KEY[Z0203  08  G 4/4]
+MEL[-5-5  -51111_24  3_221_
+    -5-5  -52222235  4_3_2_
+    54  33333543  21-712_
+    -5_  32345432  3_2_1_ //] >>
+FCT[Soldaten -, Jaeger - Lied]

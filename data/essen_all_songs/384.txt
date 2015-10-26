@@ -1,0 +1,26 @@
+BOEHME
+CUT[WI I BIN VERWICHA]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich]
+KEY[B0458  08  D 3/4]
+MEL[5+1  +177246  655-5
+    13  323232  1_0_
+    5+1  +177246  655-5
+    13  323232  1_0_
+    36  65#5#_37  766_
+    36  +17+17+17  6_.6b
+    5+1  +177246  655_
+    13  323232  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[WI I BIN VERWICHA]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich]
+KEY[B0458  08  D 3/4]
+MEL[5+1  +177246  655-5
+    13  323232  1_0_
+    5+1  +177246  655-5
+    13  323232  1_0_
+    36  65#5#_37  766_
+    36  +17+17+17  6_.6b
+    5+1  +177246  655_
+    13  323232  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

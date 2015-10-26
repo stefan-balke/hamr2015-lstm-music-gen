@@ -1,0 +1,11 @@
+KINDER
+CUT[STILLE STILLE KEIN GERAEUSCH GEMACHT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[K0046  16  D 2/4]
+MEL[  5__3_0_  5__3_0_
+    4_.34_5_  3__0__
+    2_2_4_4_  3_.45__
+    2_2_4_4_  3_.45__
+    5__3_0_  5__3_0_
+    4_.34_5_  3__0__ //] >>
+FCT[Kinder -, Wiegen - Lied]

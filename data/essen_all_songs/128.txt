@@ -1,0 +1,22 @@
+BOEHME
+CUT[ES STAND AUF HOHEN BERGEN]
+REG[Europa, Mitteleuropa, Deutschland, Merxheim a.d. Nahe]
+KEY[B0160  08  A 3/4]
+MEL[34  5_3_34  3_2_
+    22  4_2_24  5__
+    13  5_-6_11  -6_-6_
+    2_  -5-72432  1__
+    13  5_-6_11  -6_-6_
+    2_  -5-72432  1__ //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[ES STAND AUF HOHEN BERGEN]
+REG[Europa, Mitteleuropa, Deutschland, Merxheim a.d. Nahe]
+KEY[B0160  08  A 3/4]
+MEL[34  5_3_34  3_2_
+    22  4_2_24  5__
+    13  5_-6_11  -6_-6_
+    2_  -5-72432  1__
+    13  5_-6_11  -6_-6_
+    2_  -5-72432  1__ //] >>
+FCT[Ballade, Romanze]

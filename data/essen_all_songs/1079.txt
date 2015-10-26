@@ -1,0 +1,16 @@
+ZUCCAL
+CUT["Der Kehraus"
+    SPIELTS MIA AF AN WALZA]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1345  08 Bb 3/4]
+MEL[  123_3_  3_5_.
+    3  324_.2  43655_
+    123_3_  3_5_.
+    3  324_.5  3_0__
+    2_3_4_  43655_
+    2_3_4_  43655_
+    123_3_  3_5_.
+    3  324_.2  43655_
+    123_3_  3_5_.
+    3  324_.5  3_0__ //] >>
+FCT[Zech -, Schalks - Lied]

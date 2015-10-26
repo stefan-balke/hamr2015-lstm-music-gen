@@ -1,0 +1,11 @@
+F[ERK1
+CUT[WAS WIRD WOHL MEIN SCHAETZLEIN DENKEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz]
+KEY[E0514A 16  G 4/4]
+MEL[  -5__1__-6__2__  -7__-5__1__3__
+    -5__1__-5__2__  -7__-5__1__0__
+    -5__1__-6__2__  -7__-5__1__3__
+    -5__1__-5__2__  -7__-5__1__0__
+    -5__4_.32__0__  -5__3_.21__0__
+    -6__-6__-5__1_3_  5__4__3__0__ //] >>
+FCT[Liebes - Lied]

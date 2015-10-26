@@ -1,0 +1,11 @@
+F[ERK3
+CUT[WER BEKUEMMERT SICH]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen; Elsass;
+    Hessen, Schlesien; Brandenburg]
+KEY[E1357  16  G 3/8 2/4]
+MEL[-5-5  1_.122  3_3_
+    13  5_.34_5_  3__0_
+    13  5_5_65  544_
+    54  3_3_53  322_
+    13  5_.34_5_  3__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

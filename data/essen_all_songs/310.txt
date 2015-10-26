@@ -1,0 +1,22 @@
+BOEHME
+CUT[ALS MICH DIE MAMA HAENSCHEN KUESSEN SAH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0367  16  G 2/4]
+MEL[  1_3_2_4_  3_.45_0_
+    1_3_2_4_  3_.45_0_
+    3_+165_4#_  4#__5__
+    5_436_5_  4_.56_0_
+    4_325_4_  3_.45_0_
+    3_513_2_  1__0__ //] >>
+FCT[Scherz - Lied, Liebe, Moral]
+BOEHME
+CUT[ALS MICH DIE MAMA HAENSCHEN KUESSEN SAH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0367  16  G 2/4]
+MEL[  1_3_2_4_  3_.45_0_
+    1_3_2_4_  3_.45_0_
+    3_+165_4#_  4#__5__
+    5_436_5_  4_.56_0_
+    4_325_4_  3_.45_0_
+    3_513_2_  1__0__ //] >>
+FCT[Scherz - Lied, Liebe, Moral]

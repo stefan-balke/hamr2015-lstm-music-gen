@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Das Pfaffenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0476  08  G 4/4 6/4]
+MEL[1_  1_1_1_1_  2_2_2_
+    1_  3_4_5_3_  2__1_
+    1_  1_1_1_1_  2_2_2_
+    1_  3_4_5_3_  2__1_
+    1_  5_5_5_4_  543_2__0_
+    2_  3_3_345_  3_4_1__
+    0_1_2_1_  4__0_
+    6_  5_4_512_  1__0_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Fliegendes Blatt um 1582.]

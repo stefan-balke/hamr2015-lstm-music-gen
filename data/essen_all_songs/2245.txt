@@ -1,0 +1,18 @@
+FINK
+CUT[DER MORGEN TAGT HINAUS ZUR JAGD]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0635  08 Eb 6/8]
+MEL[1  1_-5-5_3  3_11_
+    1  2_2212  3_.^0
+    3  2_1-712  3_.10
+    3  2_1-712  3_.10
+    1  1_1212  3_
+    2212  3_.0_
+    4  4_3212  3_.10
+    4  4_3212  3_.10
+    1  1_2212  3_
+    22_1  1_.^0
+    3  3_.^_1  -7_-7-712  1_110
+    3  3_22_1  1_.^0
+    3  5_.^42  1_.0_ //] >>
+FCT[Staende -, Jaeger - Lied]

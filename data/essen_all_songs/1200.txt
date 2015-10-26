@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Graf Friedrich
+    In Oesterraaich sin di Gassen sou enge]
+CNR[Voa laudv sou vuele Kedreinge.]
+REG[Osteuropa, Ungarn, Wessprim]
+SRC[2, S. 217
+    1932 aufgezeichnet]
+KEY[Q0048J 16  G 6/4 3/4]
+MEL[1_3_  5_5_5__5_+1_5__5__2__  4__3__
+    1_3_  5_5_5__5_+1_5__5__2__  4__3__
+    1__6_.66_6_6_7_  +1__7__6__6_+1_5__
+    3__  5__6__5__4__3__5_2_  6__5__4__3___ //] >>
+FCT[Ballade, Hochzeit, Mord / Unfall, Tod]

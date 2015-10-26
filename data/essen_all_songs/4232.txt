@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WER HAT LUST MIT MIR ZU ZIEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Brandenburg; Sachsen]
+KEY[E1766  16  F 2/4]
+MEL[  1_2_3_4_  5__+1__  6__5__
+    6_543_4_  5__2__  1__0__
+    1_2_3_4_  5__+1__  6__5__
+    6_543_4_  5__2__  1__0__
+    -7_1_2_3_  4_3_2_1_
+    -7_1_2_3_  4__3__  2___
+    1_2_3_4_  5__+1__  6__5__
+    6_543_4_  5__2__  1__0__ //] >>
+FCT[Luegen - Lied, Schlaraffenland]

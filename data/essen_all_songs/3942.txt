@@ -1,0 +1,15 @@
+F[ERK3
+CUT[AUF DENN ZUM HEILGEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1358  08  G 4/4]
+MEL[  1_112_4_  3__0__
+    3_234_3_  2__0__
+    5_434_3_  2__0__
+    2__4#_4#_  5__0__
+    2_.321-7-6  -5__0__
+    2_222_2_  2__0__
+    3_333_3_  3__0__
+    5_434_3_  2__0__
+    3__3_3_  3__0__
+    4__3_2_  1__0__ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

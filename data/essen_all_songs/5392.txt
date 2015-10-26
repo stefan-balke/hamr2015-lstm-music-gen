@@ -1,0 +1,10 @@
+KINDER
+CUT[SAUSE KINGCHE SAUSE]
+REG[Europa, Mitteleuropa, Deutschland, Darmstadt, Hopfgarten]
+KEY[K0056  16  G 2/4]
+MEL[  5_.43_2_  1__-5_0_
+    5_.43_2_  1__-5_0_
+    1_1_2_5_  3_3_2__
+    1_1_2_5_  3_3_2__
+    5_.43_2_  1__-5_0_ //] >>
+FCT[Kinder -, Wiegen - Lied]

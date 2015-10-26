@@ -1,0 +1,20 @@
+F[BALLADE
+CUT[Graf und Nonne (Die Nonne)
+    Du hast alleweil gsagt, du nimmst mich,]
+CNR[ja wenn der Sommer kommt,]
+REG[Osteuropa, Ungarn]
+SRC[8, S. 288
+    ???? aufgezeichnet]
+KEY[Q01557 16  G 2/4 3/4]
+MEL[-5_-5_  111_-7_-6_  -6_-5_-5_
+    -5_  1_1_2_4_  3___
+    -5_-5_  111_-7_-6_  -6_-5_-5_
+    -5_  1_1_2_4_  3___0_
+    3_  3_.33_3_  3_5_4_
+    3_  2_.1-7_-6_  -5_4_3_
+    2_  1_1_2_-7_  1__0_
+    3_  3_.33_3_  3_5_4_
+    3_  2_.1-7_-6_  -5_4_3_
+    2_  1_1_2_-7_  1__ //] >>
+FCT[Ballade, Standesunterschied, vergebliche Werbung, Liebes - Lied]
+CMT[Schlusspause gestrichen.]

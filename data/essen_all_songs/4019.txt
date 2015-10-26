@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES WOLLT EIN JAEGER JAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+KEY[E1439  16  F 6/8]
+MEL[34  5_.65_3_.23_  4_.54_2__
+    34  5_.65_3_.23_  4_.54_2__
+    -5_  1_.21_2_.34_  5__+165__
+    4_  3_.43_2_.32_  1__.0__ //] >>
+FCT[Staende -, Jaeger - Lied, Liebe]

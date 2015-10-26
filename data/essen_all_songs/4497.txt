@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Zriny's Tod]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0408  04  D 4/4]
+MEL[+1  +17b65  4_4
+    5  67b+16  5_0
+    +1  +17b65  4_4
+    5  67b+16  5_0
+    5  5456  7b_5
+    5  5544  3b_0
+    7b  7b7b7b+1  7b_5
+    5  7b7b+16b  5_7b5  53b42  1_. //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Dollerweise (A0374), volksthueml. hier nach Werlin, 1646, S.2946]

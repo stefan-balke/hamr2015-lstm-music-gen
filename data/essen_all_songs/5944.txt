@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Tannhaeuser
+    Over wyl yck heven aen]
+CNR[van Danuser tho syngen,]
+REG[Mitteleuropa, Deutschland / Niederlande]
+SRC[1, S. 147
+    1540 gedruckt in Antwerpen]
+KEY[Q0015A 16  C FREI]
+MEL[1__  1__1_1_2__3__  3_212_2_1___0__
+    1__  3__2__3__4__  5__.4_3_2_4__3___0__
+    1__  3__3__4__5__.5_5__  4__3__2___0__
+    5__  4__4__3__3__2__1__  -7__-5__0__
+    -5__  1__.2_3_4_5___4__  3__3__2__1__  2___1___ //] >>
+FCT[Ballade, Wallfahrt, religioes; geistlich]
+CMT[Melodie = geistliche Kontrafaktur. Niederdeutsch / niederlaendisch.]

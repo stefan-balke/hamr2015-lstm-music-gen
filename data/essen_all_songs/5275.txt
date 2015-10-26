@@ -1,0 +1,11 @@
+F[ERK5
+CUT[Ach Elslein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[L0083A 08  G 3/4]
+MEL[1_  1__3b_  2__1_  2_.3b4_  5__
+    5_  4__2_  3b_1__  -7b__
+    -7b_  2__3b_  4__3b_  1_.23b_  2__
+    1_  -7b_-5__  1__-7_  1__
+    1_  -7b_-5__  1__-7_  1__. //] >>
+FCT[Lied]
+CMT[Joh. Ott 1534 No. 37]

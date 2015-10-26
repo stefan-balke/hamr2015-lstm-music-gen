@@ -1,0 +1,26 @@
+BOEHME
+CUT[KEIN SCHOENRER TOD AUF DIESER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0046  16  G 3/4]
+MEL[-5__  1_5_5_4_4_3_  2___
+    -5__  2_6_6_5_5_4_  3___
+    3__  2__.-7_1_3_  2_.32__
+    5__  2__.-7_1_3_  2_.32__
+    -5__  1_5_5_4_4_3_  2___
+    3__  4_.21__2__  3___
+    -5__  1_5_5_4_4_3_  2___
+    3__  4_.21__2__  1___ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[KEIN SCHOENRER TOD AUF DIESER WELT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0046  16  G 3/4]
+MEL[-5__  1_5_5_4_4_3_  2___
+    -5__  2_6_6_5_5_4_  3___
+    3__  2__.-7_1_3_  2_.32__
+    5__  2__.-7_1_3_  2_.32__
+    -5__  1_5_5_4_4_3_  2___
+    3__  4_.21__2__  3___
+    -5__  1_5_5_4_4_3_  2___
+    3__  4_.21__2__  1___ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

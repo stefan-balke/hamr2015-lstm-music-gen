@@ -1,0 +1,26 @@
+BOEHME
+CUT[ACH AUS DIESES THALES GRUENDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0248  08  F 4/4]
+MEL[54  3_.216_5  5_4_0_
+    21  -7_.25_.2  4_3_0_
+    4#4#  5_.56_2_  7_.7
+    7+136  5_4#57_.6  5_0__
+    55  7_.7+1765  +1_5_0_
+    55  4_.44_54  3__0_
+    33  4_6_+1_.7b  5#_6_0
+    67+1  +1_.35_.-7  1__0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht]
+BOEHME
+CUT[ACH AUS DIESES THALES GRUENDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0248  08  F 4/4]
+MEL[54  3_.216_5  5_4_0_
+    21  -7_.25_.2  4_3_0_
+    4#4#  5_.56_2_  7_.7
+    7+136  5_4#57_.6  5_0__
+    55  7_.7+1765  +1_5_0_
+    55  4_.44_54  3__0_
+    33  4_6_+1_.7b  5#_6_0
+    67+1  +1_.35_.-7  1__0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht]

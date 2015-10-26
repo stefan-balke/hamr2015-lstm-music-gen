@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Der Meierin Sohn
+    Hier kommen drei Koenig mit ihrem Stern,]
+CNR[sie wollen Gott loben und dienen dem Herrn.]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
+SRC[4, S. 249
+    1857 aufgezeichnet]
+KEY[Q1083F 04  G 3/4]
+MEL[-7b  3b3b3b  3b_5  543b  2_
+    3b  112  3b3b2  11-7  1_ //] >>
+FCT[Dreikoenigs - Lied, geistlich, Brauchtum]
+CMT[Melodievergleich zu Q0083A, anderes Lied.]

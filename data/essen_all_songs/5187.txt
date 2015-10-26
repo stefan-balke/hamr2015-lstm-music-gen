@@ -1,0 +1,11 @@
+BOEHME
+CUT[SEHT IHR DREI ROSSE]
+REG[Europa, Mitteleuropa, Deutschland; Russland]
+KEY[B0723  08 Eb 3/4]
+MEL[555  5_.444  4_3
+    333  3_.2-6-7  1_0
+    135  +1_.765#  7_6
+    234#  6_.523  1_0
+    135  +1_.765#  7_6
+    234#  6_.523  1_0 //] >>
+FCT[Abschieds - Lied, Klage]

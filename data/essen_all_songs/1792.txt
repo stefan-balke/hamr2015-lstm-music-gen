@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die schoene Magdalena
+    Was geschah an einem Montag,]
+CNR[an einem Montag so frueh?]
+REG[Osteuropa, UdSSR, Ukraine, Zaporoze, Viktoriafeld]
+SRC[6, S. 74
+    1944 aufgezeichnet]
+KEY[Q0125G 16  G 6/8]
+MEL[-5-5  1__1_1_6_5_  3_1__0__
+    5_  5_4_2_-7_5_4_  3__.0__
+    5_  3_2_1_-7_6_54  3_5_
+    432_4_32  1__2_3__
+    -5_  1_3_6_5_4_-7_  1__.0__ //] >>
+FCT[Ballade, verbotene Liebe, Flucht
+    Vierte Zeile = refrainartig auf Wortwiederholungen.]

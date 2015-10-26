@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Osterjubel]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0564B 02  F 3/2]
+MEL[1  1_3  5_6  534  5_
+    +1  767  +1_5  5_4  3_
+    1  234  321  -7-6-7  1_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Mainzer Cantual 1605.]

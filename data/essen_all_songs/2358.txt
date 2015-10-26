@@ -1,0 +1,10 @@
+FINK
+CUT[ICH KAM VOM WALDE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0891  16  E 6/8]
+MEL[1_  1__3_3_.34_  5__6_5__
+    3_  3_.33_3_.212  3__0__.
+    5_  5_.54_3_.5+1_  7__.6__
+    +1_  7_.65_4_3_2_  3__5_5_3_
+    +1_  7_.65_4_.32_  1__0__. //] >>
+FCT[erzaehlendes Volks - Lied, Ballade, Liebe]

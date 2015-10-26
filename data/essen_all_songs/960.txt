@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Gleichgueltige"
+    WENN I MAI SCHOTZERL NET HOBEN WILL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+KEY[Z1225  16  F 3/8]
+MEL[5_5_5_  3_3231  4_4_4_
+    5_5654  3_3235  4__0_
+    5_5_5_  3_3231  4_4_4_
+    5_5654  3_3235  4__0_
+    2_2_2_  -7_-5_-5_  1_1353
+    2_2321  -7_-7-5-6-7  1__0_ //] >>
+FCT[Liebes - Lied]

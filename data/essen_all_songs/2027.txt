@@ -1,0 +1,9 @@
+FINK
+CUT[DU ALLER WESEN VATER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0266  16  D 4/4]
+MEL[-3__  -5__-3__-6__-6__  -5___-3__
+    1__  -7__-6__2__-4#__  -5___0__
+    -5__  -7__.2_1__3__  2__-4__-3__
+    -6__  -5__1_.23__2__  1___0__ //] >>
+FCT[Jugend - Lied, Belehrung, religioes; Morgen - Lied]

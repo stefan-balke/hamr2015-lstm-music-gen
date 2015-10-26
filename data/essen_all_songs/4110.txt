@@ -1,0 +1,10 @@
+F[ERK3
+CUT[ZIEH SCHIMMEL ZIEH]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1576  04  G 4/4]
+MEL[  5_34  5_0
+    5  5534  5_0_
+    3454  3211
+    3454  3211
+    3_22  1_0_ //] >>
+FCT[Staende - Lied, Fuhrmann]

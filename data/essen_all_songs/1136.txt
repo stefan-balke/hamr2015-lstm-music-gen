@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es reitet ein Reiter durch Heu und Klee,]
+CNR[der konnte so wunderschoen singen, juchhe;]
+REG[Mitteleuropa, Deutschland (BRD) , Ahrweiler, Bentgerhof]
+SRC[2, S. 78
+    1912 aufgezeichnet (vor)]
+KEY[Q0041B 16  G 6/8]
+MEL[-5_  -5_1_1_1_2_3_  3_2_2_2__
+    2_  2_.22_2_3_4_  5_.33_3__
+    12  3_.33_3_4_5_  5__6_5_4_
+    3_  4_.44_4_4_4_  4__5_3__
+    12  3_.33_3_4_5_  5__6_5_4_
+    3_  4_.44_4_4_4_  4__5_3__ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]

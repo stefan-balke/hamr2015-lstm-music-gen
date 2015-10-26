@@ -1,0 +1,12 @@
+F[ERK2
+CUT[VATER IST DENN NICHT ERSCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[E0922  08 Bb 3/4]
+MEL[  1-5-5_1_  21-7-5
+    -5-4  -3_1_-72  2_1_0_
+    1-5-5_1_  21-7-5
+    -5-4  -3_1_-72  2_1_0_
+    -712_3_  432_1_
+    -712_3_  4321
+    -7-6  -5_1_-72  2_1_0_ //] >>
+FCT[Ehestands - Lied, Nonnen - Klage]

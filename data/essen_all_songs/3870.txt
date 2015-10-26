@@ -1,0 +1,17 @@
+F[ERK3
+CUT[DER MEYEN ISCH GEKOMMEN]
+REG[Europa, Mitteleuropa, Schweiz, Zuerich]
+KEY[E1237  16  G 3/8]
+MEL[1_  3_5_4_  3_1_
+    2_  3_5_4_  2__
+    1_  3_5_4_  3_1_
+    2_  3_542-7  1__
+    2_  3_5_4_  2__
+    12  3_5_4_  2__
+    1_  3_5_4_  3_1_
+    2_  3__2_  1__
+    2_  3_5_4_  2__
+    12  3_5_4_  2__
+    1_  3_5_4_  3_1_
+    2_  3__2_  1__ //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Sommer - Tags - Lied]

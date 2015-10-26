@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Es war einmal ein Wassermann,]
+CNR[der freit' des Koenigs Toechterlein,]
+REG[Osteuropa, Tschechoslowakei, Ost - Boehmen]
+SRC[2, S. 187
+    1907 aufgezeichnet]
+KEY[Q0047H 08  F 2/4]
+MEL[5  +1+176  655
+    5  +1554  433
+    2  3_4_  5+164  3_2_  1_0 //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]
+CMT[Pause im Schlusstakt korrigiert.]

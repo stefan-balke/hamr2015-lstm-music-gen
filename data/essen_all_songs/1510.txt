@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Jaeger auf koeniglicher Heide
+    Ein Jaeger wollte jagen,]
+CNR[ein Jaeger wollte jagen]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Laufen a.d. Eyach]
+SRC[7, S. 158
+    1925 aufgezeichnet]
+KEY[Q0150A 16  C 2/4]
+MEL[5_  5_5_5_5_  3_5_+1_
+    +1_  +1_+1_+1_+1_  7_+2_+2_
+    +1_  7_7_6677  +1_+3_+1_ //] >>
+FCT[Ballade, Verfuehrung, verlorene Ehre; Kinder - Spiel, Tanz]
+CMT[Spielanweisung abgedruckt. Anhaengsel an der letzten Zeile.]

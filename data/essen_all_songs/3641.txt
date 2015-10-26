@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Das neue Grab
+    Der Meshnar geat laiten]
+CNR[ze vrie Moargen.]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Graflinden]
+SRC[5, S. 225
+    1908 aufgezeichnet]
+KEY[Q0110  04  G 3/4]
+MEL[-5  334  22
+    -5  2_3  1_
+    1  2_3  1_ //] >>
+FCT[Ballade, Tod, Geburt]
+CMT[Letzte Zeile = Refrain auf sinnfreie Silben.]

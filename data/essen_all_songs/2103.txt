@@ -1,0 +1,9 @@
+FINK
+CUT[PFLUECKE ROSEN WENN SIE BLUEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0372  08  G 2/4]
+MEL[  3453  225_
+    21-7-6  -5_0_
+    22-7-5  345_
+    66-7-7  1_0_ //] >>
+FCT[Jugend - Lied, Moral, Belehrung, Vergaenglichkeit]

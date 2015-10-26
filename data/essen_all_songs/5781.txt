@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Der Mutter Warnung]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0228  04  G 3/2]
+MEL[1_  3b__1_  3b__4_  5_.67b_  6b__
+    5_  4__3b_  2__1_  -7__
+    1_  3b__1_  3b__4_  5_.67b_  6b__
+    5_  4__3b_  2__1_  -7__
+    2_  3b_.23b_  4_.3b4_  5_.45_  6b__
+    5_  4__3b_  3b__2_  3b__
+    5_  5_.67b_  5_.67b_  5_.43b_  2_.3b
+    4_  3b_.21_  -7_.12_  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Werlins Hs. 1646 S. 2167.]

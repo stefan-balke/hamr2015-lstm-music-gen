@@ -1,0 +1,13 @@
+FINK
+CUT[ES WAR EIN KOENIG VON THULE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0826  08  G 4/4]
+MEL[-5_  3b_3b_222_  4__3b_
+    2_  5_1_-7_1_  2__0_
+    2_  3b_3b_6b_5_  5__4#_
+    56  7b_5_6_4#_  5__0_
+    5_  5_5_6b_2_  4__-7_
+    2_  3b_-4#_-4#_-4#_  -5__0_
+    -5_  -6b_-6b_4_3b2  1_.-7-7_
+    12  3b_1_12-7_  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Ballade]

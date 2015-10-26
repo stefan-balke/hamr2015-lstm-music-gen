@@ -1,0 +1,9 @@
+BOEHME
+CUT[DAS GRAB IST TIEF UND STILLE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0777  16  F 4/4]
+MEL[-5__  1__.2_3__3__  2___1__
+    1__  4__.321__2__  3___0__
+    1__  3__.4_5__5__  4___3__
+    3__  2__1__2__-7__  1___0__ //] >>
+FCT[Trost - Lied, Tod, Klage, religioes]

@@ -1,0 +1,22 @@
+BOEHME
+CUT[MEINE KLEINE GARTENLAUBE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0407  08  G 3/8]
+MEL[  321  1-71  -7-6-7  211
+    2_2  2_2  254  3_0
+    321  1-71  -7-6-7  211
+    2_2  2_2  254  3_0
+    1_2  3_3  323  544
+    432  1_3  5_-7  1_0 //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[MEINE KLEINE GARTENLAUBE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0407  08  G 3/8]
+MEL[  321  1-71  -7-6-7  211
+    2_2  2_2  254  3_0
+    321  1-71  -7-6-7  211
+    2_2  2_2  254  3_0
+    1_2  3_3  323  544
+    432  1_3  5_-7  1_0 //] >>
+FCT[Liebes - Lied, Liebes - Lust]

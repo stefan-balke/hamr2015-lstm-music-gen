@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Die brave Stiefmutter
+    Ajvim ja lucku zelenu,]
+CNR[na ni lindicku sazenu,]
+REG[Osteuropa, Tschechoslowakei, Maehren]
+SRC[5, S. 326
+    ????]
+KEY[Q3121A 08  F 3/4]
+MEL[1_  5__43  2__3_  4__32  2__.
+    2_2_1_  -7_2__  -7_-6_-7_  -5__.
+    -5_-6_-7_  1__4_  3_2_3_  1__ //] >>
+FCT[geistlich]
+CMT[Melodievergleich zu Q0121, anderes Lied.]

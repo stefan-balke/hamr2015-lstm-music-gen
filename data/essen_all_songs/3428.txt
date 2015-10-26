@@ -1,0 +1,8 @@
+F[ERK2
+CUT[MER WELLE GOHN]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen]
+KEY[E0876  08  G 2/4]
+MEL[-5  11-7-7  11-5
+    -5  11-7-7  11-50
+    5_43  432 //] >>
+FCT[Hochzeits -, Ehestands - Lied]

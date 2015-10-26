@@ -1,0 +1,14 @@
+KINDER
+CUT[DIE GULDNE SCHNUR GIEHT UM DAS HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Schweidnitz]
+KEY[K1612  16  G 2/4]
+MEL[1_  5_5_5_6_  5_3_1_
+    1_  5_5_5_6_  5_3_1_
+    3_  5_5_5_6_  5__3_
+    3_  5_5_5_6_  5__3_
+    1_  5_5_5_6_  5_3_1_
+    1_  5_5_5_6_  5_3_1_
+    3_  555_556_  5_3_1_0_
+    3__6_6_  5__0_
+    5_  4_4_3_3_  2_2_1_ //] >>
+FCT[Kinder -, Ansinge - Lied, Bettel - Reim]

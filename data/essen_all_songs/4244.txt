@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ROTH ROTH ROTH SIND ALLE MEINE KLEIDER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kassel]
+KEY[E1794  16  G 4/4]
+MEL[  3__3__3__.1_  2_.22_2_2__-5__
+    3__3__3__.1_  2_.22_2_2__-5__
+    3__3__5__0__  2__2__5__0__
+    1__1__3_3_3__  2_.22_-7_1__0__ //] >>
+FCT[Staende - Lied]

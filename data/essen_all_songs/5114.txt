@@ -1,0 +1,13 @@
+BOEHME
+CUT[DIE CIGARREN UND DIE MENSCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[B0650  16  G 2/4]
+MEL[1_.3  6_5_1_.1  2_2_
+    2_.2  6_.52_.2  3__
+    1_.3  6_5_1_.1  2_2_
+    2_.2  6_5_4_.2  1__
+    3_.3  3_3_3_1_  -6_-6_
+    -6_.-6  2_2_-6_-7_  -5__
+    1_.3  6_5_1_1_  2_2_
+    2_.2  6_5_4_-7_  1__ //] >>
+FCT[Moral -, Lob - Lied auf den Tabak]

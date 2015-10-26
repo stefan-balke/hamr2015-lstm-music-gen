@@ -1,0 +1,14 @@
+ZUCCAL
+CUT[KENNT IHR NICHT DEN HERRN VON FALKENSTEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+KEY[Z0142  16 Bb 2/4]
+MEL[11  321-71_-5_  -3_-5_1_
+    11  321-71_-5_  -3_-5_1_
+    11  2_2_2_3_  4_323_
+    11  321-71_-5_  -3_-5_1_
+    1_  321-71_-5_  -3_-5_1_
+    1_  2_2_2_3_  4_323_
+    11  321-71_11  321-71_
+    11  321-71_11  321-71_
+    1_  22222_22  2_2_2_3_  4_323_ //] >>
+FCT[Erzaehlung, lustige Romanze]

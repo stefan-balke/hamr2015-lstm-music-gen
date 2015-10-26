@@ -1,0 +1,18 @@
+BOEHME
+CUT[WENN ICH EIN BLUEMLEIN SCHAU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0442  16 Bb 3/4]
+MEL[  -5__.-6_-5__  1___3_2_  1___.
+    -5__.-6_-5__  2___4_3_  2___0__
+    1__.-7_-6__  2__.1_-7__  -6__-6__2__  -7__.-6_-5__
+    3___1_1_  -6___.  2___-7_.-7  1___0__ //] >>
+FCT[Liebes - Lied, Frust]
+BOEHME
+CUT[WENN ICH EIN BLUEMLEIN SCHAU]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0442  16 Bb 3/4]
+MEL[  -5__.-6_-5__  1___3_2_  1___.
+    -5__.-6_-5__  2___4_3_  2___0__
+    1__.-7_-6__  2__.1_-7__  -6__-6__2__  -7__.-6_-5__
+    3___1_1_  -6___.  2___-7_.-7  1___0__ //] >>
+FCT[Liebes - Lied, Frust]

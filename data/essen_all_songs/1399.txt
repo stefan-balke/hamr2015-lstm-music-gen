@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Des Grafen Toechterlein
+    Het voer een scheepken over Rijn,]
+CNR[het hadde gheladen vroukens fijn.]
+REG[Mitteleuropa, Niederlande]
+SRC[3, S. 186
+    1632 gedruckt in Antwerpen]
+KEY[Q3063E 08  F FREI]
+MEL[-5_  1__232__1_  -6__-5-61__
+    -5_  1__232__1_  -6__-5-61__
+    3__  2_2_1_1-7  -6___-5__
+    3_  3__321__-5_  1__2_3__
+    3__  1_-7_-6__-7_1_  2__1__. //] >>
+FCT[Ballade]
+CMT[Melodievergleich zu Q0063, anderes Lied.]

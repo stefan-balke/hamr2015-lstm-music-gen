@@ -1,0 +1,9 @@
+F[ERK2
+CUT[DER HIMMEL IST SO TRUEBE]
+REG[Europa, Mitteleuropa, Deutschland, Hannover, Dransfeld, Imbsen]
+KEY[E0709  08  A 3/4]
+MEL[-5_  1_-5_-5-5  -5-4-4_
+    -51  -7_.-6-5-4  -3__
+    -5_  3_2_1-7  -7-6-6_
+    21  -7_.-5-6-7  1_0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

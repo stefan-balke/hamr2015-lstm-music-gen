@@ -1,0 +1,9 @@
+F[ERK3
+CUT[DREI WOCHEN VOR OSTERN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau; Rheinland]
+KEY[E1056  08  G 3/4]
+MEL[34  5_3_5_  4_2_
+    23  4_6_4_  3_0_
+    34  5_3_5_  4_2_
+    23  4_2_-7_  1_0_ //] >>
+FCT[Tanz - Lied, Scherz]

@@ -1,0 +1,10 @@
+F[ERK2
+CUT[NIMM SIE BEI DER SCHNEEWEISSEN HAND]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn, Poppelsdorf]
+KEY[E0975  08  A 2/4]
+MEL[  5+1+1+1  +165
+    5  6543  222_
+    1355  666_
+    1355  666_
+    4433  2_1_ //] >>
+FCT[Tanz - Lied, Reigen, Spiel, Johannis - Fest]

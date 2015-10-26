@@ -1,0 +1,8 @@
+F[ERK3
+CUT[NE SIDEN SCHNOR GEIT UEMME DAT HUS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[E1184  08  G 2/4]
+MEL[3  21-7-6  -5-5-5
+    3  21-7-6  -5-5-50
+    -712_  321-7  1_0 //] >>
+FCT[Ansinge -, Brauchtums - Lied, Kirchen - Fest, Silvester, Neujahr]

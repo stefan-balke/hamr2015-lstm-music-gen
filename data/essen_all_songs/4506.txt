@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Landsknechtorden]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0416B 08  F 4/4]
+MEL[2_2_2_  1_1_4_5_  6_5_4_32  3__1__  0_
+    2_6_6_  4_4_5_.5  6_5_4_.5  6__5__  0_
+    4_3_2_  5_4_1_2_  3__0_
+    1_  4_.45_5_  6__4__  0_6_5_2_  4_3_2__  0_ //] >>
+FCT[Romanze, Ballade, Lied, Kriegslied]
+CMT[Werlin 1646 S. 1701]

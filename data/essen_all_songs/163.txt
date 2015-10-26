@@ -1,0 +1,20 @@
+BOEHME
+CUT[DIE FENSTER AUF DIE HERZEN AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0195  16  C 2/4]
+MEL[-5_  -5_.-3-3_1_  1_.-5-5_3_  2___  1__0_
+    1_  -7_-6_-5_-6_  -5_-4_-3_
+    1_  -7_-6_-5_-6_  -5__-4__  -3__0_
+    -3_  -4_-3_-4_-5_  -6_-7_1_
+    1_  -6_-6_-5_1_  3__2__  1__0_ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]
+BOEHME
+CUT[DIE FENSTER AUF DIE HERZEN AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0195  16  C 2/4]
+MEL[-5_  -5_.-3-3_1_  1_.-5-5_3_  2___  1__0_
+    1_  -7_-6_-5_-6_  -5_-4_-3_
+    1_  -7_-6_-5_-6_  -5__-4__  -3__0_
+    -3_  -4_-3_-4_-5_  -6_-7_1_
+    1_  -6_-6_-5_1_  3__2__  1__0_ //] >>
+FCT[Jahreszeiten - Lied, Fruehling]

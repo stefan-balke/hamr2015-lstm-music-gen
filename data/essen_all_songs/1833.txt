@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Der Gluecksjaeger
+    Es bliess sich ein Jaeger wohl in sein Horn, wohl in sein Horn,]
+CNR[doch alle sein Blasen, das war verlorn;]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen, Muensterland]
+SRC[6, S. 190
+    1842 aufgezeichnet]
+KEY[Q0134  16  G 4/4]
+MEL[-5_  1__1_1_1__1_2_  1__-7_-6_-5__-4_-6_  -6__.-5_-5__
+    1__  -7_2_2_2_2__3_2_  1__-7_-6_-5__-6_-7_
+    1__1__1__0_3_  2_.1-7_.12__0_
+    4_  3_2_3_4_5__1_2_  3__2__1__0_ //] >>
+FCT[Ballade, Jagd, Flucht, Verfuehrung]
+CMT[Pause am Ende der zweiten Zeile weggelassen. Anhaengsel an der
+    ersten Zeile. Dritte Zeile = Refrain auf sinnfreie Silben.]

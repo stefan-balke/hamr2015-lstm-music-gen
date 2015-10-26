@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Der verkleidete Markgrafensohn
+    Es wurb, es wurb eins Koenigsson]
+CNR[wol umm ein Keyserinne.]
+REG[Mitteleuropa, Deutschland]
+SRC[1, S. 49
+    1556 gedruckt in Nuernberg]
+KEY[Q0006  08  F FREI]
+MEL[1_  1_2_3_5_.  4342_2_  1__0_
+    1_5_5_  6__5_5__4_  5__
+    5__5_5_  3_.54_.3  2__0_
+    5_  4_2_3_1_  3_.45_4_.  3212__  1___ //] >>
+FCT[Ballade, Braut - Werbung]
+CMT[Kleinere Melodievarianten aus anderen Quellen abgedruckt.]

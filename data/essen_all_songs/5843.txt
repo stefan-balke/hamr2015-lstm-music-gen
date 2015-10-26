@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Nachbildung eines alten Mai- und Tanzspielliedes aus der Schweiz]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0300  04  C 4/2]
+MEL[5_  5_5_6_7_  +1__5_
+    +2_  7_+1_6__  5__0_
+    5_  5_5_6_7_  +1__5_
+    +2_  7_+1_6__  5__0_
+    +1_  +2_+3_+2_+1_  +3__+2__  +1__0__  0_
+    5_6_5_  3_5__43  2_1_2__  1__0_
+    1_  3_.45_6_  7_+1_6__  5__0_
+    5_  6_7_+1_5_  +1__+2__  +1___ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Baseler Tenor (1550) fol 44d]

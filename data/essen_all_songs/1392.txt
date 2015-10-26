@@ -1,0 +1,17 @@
+F[BALLADE
+CUT[Der Spielmannssohn
+    Als ich ein kleines Buewele war,]
+CNR[und da lehrt mich mein Vater das Geigen,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[3, S. 178
+    ????]
+KEY[Q0062J 16 Bb 6/8]
+MEL[5_  4_3_2_1_1_1_  2_2_2_-5__
+    -5_  1__1_2_2_2_  5_5_5_2__
+    -5_  1__1_2_2_2_  5_5_5_2__
+    -5_  1__1_2_2_2_  5_5_5_2__
+    5_  4_3_2_-7_1_1_  2_2_2_-5__
+    -5_  1_111_-7_1_2_  5__.2__ //] >>
+FCT[Ballade, Verfuehrung, Standesunterschied, Strafe, Gnade]
+CMT[Ersten Notenwert der 2. bis 4. Zeile rhythmisch korrigiert.
+    In der Edition untextiert.]

@@ -1,0 +1,15 @@
+DVA
+CUT[Das Lied vom Zimmergesellen
+    Es war einmal gut Zimmergesell,]
+CNR[war gar ein stolzer Knab']
+REG[Europa, Mitteleuropa, Lothringen, Altripp]
+KEY[D0004  08  D 3/4]
+MEL[+1_  +1_7b_+1_  5__5_  4_4_4_  3b__
+    4_  5_6b_7b_  +1_7b_+1_  5__
+    7b_  7b_.+17b_  5_.7b7b_  5_.7b7b_  +1__
+    6b5  5_.43b_  4_.3b2_  1__
+    57b  7b_.+17b_  5_.7b7b_  5_.7b7b_  +1__
+    6b5  5_.43b_  4_.3b2_  1__ //] >>
+FCT[Ballade, Taten und Verbrechen]
+CMT[Laengenwerte in Zeile 263, 265 und 266 berichtigt; Sequenz,
+    Wiederholungen; Inzipit = Variante zum Lied]

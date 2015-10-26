@@ -1,0 +1,9 @@
+KINDER
+CUT[WIR BITTEN DICH O JESULEIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[K1589  16  F 4/4]
+MEL[1_2_  3__3__3__5__  4__3__2__
+    5_4_  3__.234___  3___0__
+    5__  +1__7__6__5_7_  6__6__5__
+    +1__  5__.4_3__2__  3___. //] >>
+FCT[Kinder - Lied, religioes, Gebet]

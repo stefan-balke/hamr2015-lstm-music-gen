@@ -1,0 +1,24 @@
+BOEHME
+CUT[ALLES SCHLAEFT NUR SILBERN SCHALLET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0363  08  G 2/4]
+MEL[  5_43  3_.5  6543  3_2_
+    354#6  5231  -7_-6_  -5__
+    5_43  3_.5  6543  3_2_
+    354#6  5231  -7_-6_  -5__
+    -5-7-72  2446  6543  3_2_
+    5_.5  6_.4  3_2_  2_1_
+    +1_.5  6_.4  3_2_  1__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]
+BOEHME
+CUT[ALLES SCHLAEFT NUR SILBERN SCHALLET]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0363  08  G 2/4]
+MEL[  5_43  3_.5  6543  3_2_
+    354#6  5231  -7_-6_  -5__
+    5_43  3_.5  6543  3_2_
+    354#6  5231  -7_-6_  -5__
+    -5-7-72  2446  6543  3_2_
+    5_.5  6_.4  3_2_  2_1_
+    +1_.5  6_.4  3_2_  1__ //] >>
+FCT[Liebes - Lied, Liebes - Lust]

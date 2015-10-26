@@ -1,0 +1,17 @@
+DVA
+CUT[Es droehnet der Marsch der Kolonne,
+    der Tambour schlaegt das Fell]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Berlin]
+KEY[D0195  16  E 4/4]
+MEL[-5__  1__1_.23b__2_.1  2__2___
+    5__  5__1__4__.3b_  2___0__
+    -5__  1__1_.23b__2_.1  2__2___
+    5__  5__4_3b_4__3b_2_  3b___0__
+    5__  5__3b_.3b3b__4_5_  4__-7b_.-7b-7b__
+    1_2_  3b__1__1__2_3b_  2__-5__-5__
+    1_.2  3b__1__2__7__  1___0__
+    5__  5__3b_.3b3b__4_5_  4__-7b_.-7b-7b__
+    1_2_  3b__1__1__2_3b_  2__-5__-5__
+    1_.2  3b__1__2__7__  1___0__ //] >>
+FCT[Soldaten - Lied]
+CMT[Inzipit = Transposition zum Lied]

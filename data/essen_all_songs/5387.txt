@@ -1,0 +1,10 @@
+KINDER
+CUT[EIA WIWI WER SCHLAEFT HEUT NACHT BEI MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[K0040  16  F 2/4]
+MEL[  5__3_2_  1__0_
+    -5_  5_.43_2_  1__0__
+    1_1_2_1_  4_3_2_
+    -5_  1_1_2_1_  4_3_2__
+    3__2_2_  1__0__ //] >>
+FCT[Kinder -, Wiegen - Lied]

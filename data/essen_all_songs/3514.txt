@@ -1,0 +1,7 @@
+F[ERK2
+CUT[EI SIN D'R DENN DEI HOSENBENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kassel, Schwalmgrund]
+KEY[E0994A 08  C 2/4]
+MEL[5  3555  3555  +1765  5_40
+    2444  2444  6543  4_30 //] >>
+FCT[Tanz - Lied, Reigen]

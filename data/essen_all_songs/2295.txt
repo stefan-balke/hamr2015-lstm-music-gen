@@ -1,0 +1,13 @@
+FINK
+CUT[BRUEDER AUF DIE FREUDE WINCKT UNS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0751  08 Bb 6/8]
+MEL[  -1_-3-5_-5  1_23_1
+    5_43_2  1_23_1
+    2_52_-7  1-7-6-5_.
+    2_43_1  -7_21_-5
+    2_43_1  -7_21_-5
+    4_32_1  -7_12_.
+    1_-5-6_-4  -2_-5-1_.
+    -7-6-7123  21-71_. //] >>
+FCT[Geselligkeits -, Trink -, Jugend -, Vereins - Lied]

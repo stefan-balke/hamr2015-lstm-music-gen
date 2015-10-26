@@ -1,0 +1,11 @@
+ALTDEU
+CUT[Bittfahrtslied]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0568C 02  G 4/1]
+MEL[1  1_1_1_1_  123_4_0
+    4  5_5_4_1_  2_3_4_0
+    4  5_5_4_1_  2_1_-7b_0
+    -7b  2_3b_4_4_  3b_1_3b__
+    212_1-71_ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Leisentrit 1567 fol. 147]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[NIRGENDS HIN ALS AUF DEN MUND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0358  08  G 4/4]
+MEL[  3_1_5_5_  4_4_3__
+    5_3_6543  2_.31__
+    1_1_4_4_  2_2_5_5_
+    3_3_6_6_  5_.64_4_
+    3_4_5_5_  4#_.55__
+    2_3_4_4_  3_.42__
+    -6_-7_1_1_  -7_1_2_2_
+    1_3_4_5_  2_.11_1_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Erotik]
+BOEHME
+CUT[NIRGENDS HIN ALS AUF DEN MUND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0358  08  G 4/4]
+MEL[  3_1_5_5_  4_4_3__
+    5_3_6543  2_.31__
+    1_1_4_4_  2_2_5_5_
+    3_3_6_6_  5_.64_4_
+    3_4_5_5_  4#_.55__
+    2_3_4_4_  3_.42__
+    -6_-7_1_1_  -7_1_2_2_
+    1_3_4_5_  2_.11_1_ //] >>
+FCT[Liebes - Lied, Liebes - Lust, Erotik]

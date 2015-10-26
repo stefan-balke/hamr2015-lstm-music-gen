@@ -1,0 +1,13 @@
+BOEHME
+CUT[DA UNTEN IST FRIEDEN IM DUNKELN HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0771  04  F 4/4]
+MEL[3  3_33  4_3
+    3  2_1_  3_2
+    2  3_33  543
+    1  -6_-7_  1_0
+    5  5_5#5#  6_+1
+    6  3_5#_  6_.
+    5  5_4#3  2_3b
+    1  3_2_  1_. //] >>
+FCT[Trost -, Tageszeiten - Lied, Abend, religioes]

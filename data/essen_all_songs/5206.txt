@@ -1,0 +1,9 @@
+BOEHME
+CUT[WIR TRETEN MIT BETEN VOR GOTT]
+REG[Europa, Mitteleuropa, Deutschland; Niederlande]
+KEY[B0735A 08  D 3/4]
+MEL[5_  5_.65_  3_.45_  4_.32_  3_1_
+    5_  5_.67_  +1_.+27_  6_.56_  5_0_
+    5_  5_6_7_  +1__5_  5_.645  3_1_
+    1_  4_.564  5_.43_  4_2_.1  1__ //] >>
+FCT[Dank - Lied, patriotisch, religioes]

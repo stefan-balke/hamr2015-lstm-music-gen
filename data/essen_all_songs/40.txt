@@ -1,0 +1,24 @@
+BOEHME
+CUT[ES SEI MEIN HERZ UND BLUT GEWEIHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0049  08 Eb 4/4]
+MEL[12  3_4_5_67  +1_765_
+    6_  4_5_3_54  3_2_0_
+    12  3_4_5_67  +1_765_
+    6_  4_5_3_54  3_2_0_
+    2_  2_3_4_.2  3_4_5_
+    5_  6_5_6_7_  +1_765_
+    6_  4_5_3_54  3_2_1_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[ES SEI MEIN HERZ UND BLUT GEWEIHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0049  08 Eb 4/4]
+MEL[12  3_4_5_67  +1_765_
+    6_  4_5_3_54  3_2_0_
+    12  3_4_5_67  +1_765_
+    6_  4_5_3_54  3_2_0_
+    2_  2_3_4_.2  3_4_5_
+    5_  6_5_6_7_  +1_765_
+    6_  4_5_3_54  3_2_1_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

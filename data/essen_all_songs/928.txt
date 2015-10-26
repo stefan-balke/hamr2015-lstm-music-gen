@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Abschied"
+    WOHLAN DIE ZEIT IST KOMMEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+KEY[Z1193  16  G 2/4]
+MEL[-5_  1_.23_4_  5__3_
+    3_  4_6_2_2_  3_3_3_
+    -5_  1_.23_4_  5__3_
+    3_  4_4_2_2_  3__0_
+    5_  4_.42_2_  3_3_3_
+    5_  5_.42_2_  3_3_3_
+    -5_  1_.23_4_  5__3_
+    3_  4_4_2_2_  1__0_ //] >>
+FCT[Liebes - Lied, Abschieds - Lied]

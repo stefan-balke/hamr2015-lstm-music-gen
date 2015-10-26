@@ -1,0 +1,12 @@
+F[ERK3
+CUT[ALLEIN GOTT IN DER HOEH SEI EHR]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1987  08  F 3/4]
+MEL[1_  3__4_  5__4_  3__2_  3__
+    3_  3__2_  4_3_2_  1_-7-6-7_  1__
+    1_  3__4_  5__4_  3__2_  3__
+    3_  3__2_  4_3_2_  1_-7-6-7_  1__
+    1_  1__2_  4__3_  2__1_  2__
+    2_  3__4_  5__4_  3__2_  3__
+    1_  2_2_4_  3__2_  1__-7_  1__ //] >>
+FCT[geistlich, Dank -, Lob - Lied, Choral]

@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES LEBEN DIE SOLDATEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1351  16 Eb 2/4]
+MEL[13  5_.55_3_  6_5_0_
+    13  5_.56543  3_2_0_
+    13  5_3_4345  3__0_
+    +16  5_.35432  1
+    5555342  155553
+    +16  5_.35432  1__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied]

@@ -1,0 +1,14 @@
+ZUCCAL
+CUT["Unserm Koenige"
+    DIE WIR HIER DEN REIGEN SCHLINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1128  08  F 4/4]
+MEL[1_.2  3_2_4_3_  2-71_
+    6_5_  4_3_2_31  5__
+    1_.2  3_2_4_3_  2-71_
+    6_5_  4_3_2_31  5__
+    2_3_  2-7-5_4_3_  2-7-5_
+    5_4_  3_.34#_4#_  5__
+    +1_.7  6_5_6_.5  4_3_
+    2_.4  56421_32  1__ //] >>
+FCT[Vaterland und Wehr]

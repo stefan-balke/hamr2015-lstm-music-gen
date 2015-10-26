@@ -1,0 +1,13 @@
+BOEHME
+CUT[FERNE DIR O FERNE WANK ICH WIE IM TRAUM]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich]
+KEY[B0714A 16  G 3/8]
+MEL[  1_.212  3__2_
+    3_.213  2__0_
+    1_.212  3__2_
+    1_.212  3__2_
+    2_.123  1__1_
+    2_.312  3__.
+    2_.123  1__2_
+    3_.232  1__0_ //] >>
+FCT[Klage - Lied]

@@ -1,0 +1,14 @@
+F[BALLADE
+CUT[Maedchen und Hasel
+    Ach, lieber Gott im hoechsten thron,]
+CNR[aus unsers hertzen grunde]
+REG[Mitteleuropa, Deutschland]
+SRC[6, S. 261
+    1587 gedruckt]
+KEY[Q0138F 08  G FREI]
+MEL[2_2_2_5_5_7b_+1_7b_
+    5_4__+1__+1__5__7b_+1_6__5__0_
+    4_5_7b_6_5_5_3_2_
+    1_3__1__3_.46__5_3_2__1___ //] >>
+FCT[Ballade, verlorene Unschuld, Moral; geistlich]
+CMT[geistliche Kontrafaktur; Tonangabe "Melodie vom Haselzweig" .]

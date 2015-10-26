@@ -1,0 +1,12 @@
+F[BALLADE
+CUT[Die Koenigstochter im Heeresdienst
+    Der Meyen isch kommen, un das isch ja wahr!]
+CNR[Es grunet jitz alles i Laub un i Gras.]
+REG[Mitteleuropa, Schweiz]
+SRC[5, S. 86
+    ????]
+KEY[Q1095D 16  G 3/8]
+MEL[1_  3_5_4_  3_1_2_  3_5_4_  3__
+    1_  3_5_4_  3_1_2_  3_542-7  1__ //] >>
+FCT[Jahreszeiten - Lied, Mai]
+CMT[Melodievergleich zu Q0095, anderes Lied.]

@@ -1,0 +1,9 @@
+BOEHME
+CUT[LEBE LIEBE TRINKE]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0555  08  F 4/4]
+MEL[  1_-5_2_-5_  5_.65432
+    1_1_2_3_  2_-5_-5_0_
+    5_.31_1_  6_5_4_3_
+    2_3_4_.6  5_-7_1_0_ //] >>
+FCT[Studenten -, Trink - Lied, Rund - Gesang]

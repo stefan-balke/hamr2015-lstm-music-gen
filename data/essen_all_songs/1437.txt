@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Vater und Tochter
+    'Kuin Morgen Junkfrau schoeoene',]
+CNR[so soktea,]
+REG[Osteuropa, Ungarn, Komitat Wessprim, Veszpremfajsz]
+SRC[7, S. 12
+    1931 aufgezeichnet]
+KEY[Q0142A 16  G 2/4]
+MEL[-5_  1_1_-7_-6_  2__-5__
+    1__-3_-4_  -5__.
+    -5_  1_2_3_3_  3_2_2_
+    2_  2_.1-7_-6_  1_-5_-5_
+    -5_  -3_-5_1_2_  3__.
+    3_  4_2_-7_-7_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Verwechslung]
+CMT[Zweite Zeile refrainartig.]

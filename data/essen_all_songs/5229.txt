@@ -1,0 +1,11 @@
+BOEHME
+CUT[MEINEN HEILAND IM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0756  08  A 4/4]
+MEL[-5-5  3__1_4_  3_.21_
+    5_  2_.1-7_1_  2__0_
+    -6_  4__2_3_  4_.32_
+    2_  5__4_4_  3__0_
+    2_  3__3_3_  3_5_54
+    32  1__-7_-7_  1__0_ //] >>
+FCT[Tageszeiten - Lied, Abend, religioes]

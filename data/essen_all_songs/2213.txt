@@ -1,0 +1,12 @@
+FINK
+CUT[DIE FAHNEN WEHEN FRISCH AUF ZUR SCHLACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0563  08  G 4/4]
+MEL[5  5_5_5_55  3_5_1_
+    -5_  1-5315_0
+    -5  1_5_5_43  2_2_2_0
+    5  3_2_1_0
+    3  23423_11  23425_0
+    5  5_351_
+    -5-5  1_135_5_  3__0_. //] >>
+FCT[Soldaten -, Kriegs - Lied]

@@ -1,0 +1,9 @@
+F[ERK3
+CUT[JETZT LASST UNS MAL SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Neuwied, Wollendorf]
+KEY[E1077  16  G 6/8]
+MEL[1_  1_3_1_1__5_  5_4_2_1__
+    +1_  +1_5_5_5_5_5_  6_5_4#_5__
+    5_  5_+1_5_5_3_1_  6__.5__
+    5_  5_3_333_2_1_  2__5_1__ //] >>
+FCT[Wett - Lied, Streit zwischen Wasser und Wein]

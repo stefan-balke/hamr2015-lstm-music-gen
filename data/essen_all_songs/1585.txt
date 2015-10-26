@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Schoen Adelheid
+    Ohne Text]
+REG[Nordeuropa, Schweden]
+SRC[4, S. 66
+    1934 gedruckt in Helsingfors]
+KEY[Q2074F 16  D 4/4]
+MEL[1_  1_2_3b_4_5__3b_5_  7b__4_4_4__.
+    4_  4_5_6b_7b_+1__7b_5_  6b__5__0__.
+    +1_  +1_.7b6b_5_4__.+1_  7b_.6b5_4_3b__.
+    2_  1_.11_3b_5_5_3b_3b_  2__1__0__. //] >>
+FCT[Ballade, Entfuehrung, Adelige als Dienstmagd, Wiederfinden]
+CMT[Schwedische Fassung der Ballade.]

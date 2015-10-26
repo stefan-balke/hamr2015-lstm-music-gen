@@ -1,0 +1,13 @@
+F[ERK3
+CUT[WAS BLINKT SO FREUNDLICH IN DER FERNE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Schlesien]
+KEY[E1367  16  G 3/4]
+MEL[-5_  1_.23_4_5_6_  5__5__0_
+    5_  4_.32__5__  3_.21__0_
+    -5_  1_.23_4_5_6_  5__5__0_
+    5_  4_.32__5__  3_.21__0_
+    -5_  4_.44__.5_  3_.33__0_
+    3_  2_.22__.-7_  1_.65__0_
+    -5_  1_.23_4_5_6_  5___
+    5__  4_.32__5__  3_.21__0_ //] >>
+FCT[Staende -, Soldaten -, Kriegs - Lied, Reservisten]

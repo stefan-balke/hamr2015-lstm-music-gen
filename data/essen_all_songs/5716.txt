@@ -1,0 +1,9 @@
+ALTDEU
+CUT[Winter]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0154  04  A 3/2]
+MEL[1_1_1_  3b_.45_  1_3b_4_  5__.
+    1_1_1_  3b_.45_  1_3b_4_  5__.
+    3b_3b_3b_  3b__5_  6b__5_  4__3b_  2__.  1__. //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Aus Pater Werlins Liederhandschrift c. 1640 S. 1326.]

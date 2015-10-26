@@ -1,0 +1,22 @@
+BOEHME
+CUT[IM SOMMER GEHT MEIN TRAUER AN]
+REG[Europa, Mitteleuropa, Deutschland, Dillenburg; Heringen]
+KEY[B0466  16  F 4/4]
+MEL[-5_  1__.2_3__.1_  3__4_6_5__.
+    54  3__6__5__.4_  4__3__0__.
+    5_  3__5__3__5_+1_  6_.54_6_5__0_
+    54  3__5__5__4_3_  2_4_3__0__.
+    5_  3__5__3__5_+1_  6_.54_6_5__0_
+    54  3__5__5__4_3_  2_4_3__0__. //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[IM SOMMER GEHT MEIN TRAUER AN]
+REG[Europa, Mitteleuropa, Deutschland, Dillenburg; Heringen]
+KEY[B0466  16  F 4/4]
+MEL[-5_  1__.2_3__.1_  3__4_6_5__.
+    54  3__6__5__.4_  4__3__0__.
+    5_  3__5__3__5_+1_  6_.54_6_5__0_
+    54  3__5__5__4_3_  2_4_3__0__.
+    5_  3__5__3__5_+1_  6_.54_6_5__0_
+    54  3__5__5__4_3_  2_4_3__0__. //] >>
+FCT[Liebes - Lied, Leid, Klage]

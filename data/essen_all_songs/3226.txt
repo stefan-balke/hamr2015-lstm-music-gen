@@ -1,0 +1,9 @@
+F[ERK2
+CUT[ICH MUSS MICH UMSCHAUEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+KEY[E0685C 16  G 3/8]
+MEL[12  3_.432  211_
+    2_  4_4_3_  2__
+    23  4_4_54  3_5_
+    22  1_3_2_  1__ //] >>
+FCT[Liebes - Lied, Leid, Klage, Trennung]

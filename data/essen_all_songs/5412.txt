@@ -1,0 +1,9 @@
+KINDER
+CUT[LIRUM LARUM LOEFFELSTIEL]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Stotternheim]
+KEY[K0222  08  G 2/4]
+MEL[  5531  665_
+    4433  221_
+    5531  665_
+    4433  221_ //] >>
+FCT[Kinder -, Kose -, Scherz - Lied]

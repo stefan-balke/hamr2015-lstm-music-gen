@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES KANN JA NICHT IMMER SO BLEIBEN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[E0353B 16  F 4/4]
+MEL[-5__  3__3_.21__6_.5  5_4_2__0__
+    2_3_  4__4_4_6__5_4_  5___0__
+    1__  6__6_6_+1__7_6_  6_5_5__0__
+    5_+1_  +1__3_5_5__4_2_  1___0__
+    1__  6__6_6_+1__7_6_  6_5_5__0__
+    5_+1_  +1__3_5_5__4_2_  1___0__ //] >>
+FCT[historisches Lied, Krieg, Soldaten (1813 und 1870)]

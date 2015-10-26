@@ -1,0 +1,13 @@
+DVA
+CUT[Ihr lustige Brueder, stimmt das schoene Lied a,
+    un' des Lied von de Waldhauer, des jedermann ka']
+REG[Europa, Mitteleuropa, Deutschland, Baden, Alpirsbach]
+KEY[D0298  08  D 3/4]
+MEL[-5_  1_1_.2  3_3_
+    13  5_5_65  5_0_
+    55  6_4_.6  653_0
+    3  5_.25_  3_0_
+    55  6_4_.6  653_0
+    5  7_6_4_  3_0_ //] >>
+FCT[Staende - Lied, Floesserlied]
+CMT[Inzipit = Variante zum Lied]

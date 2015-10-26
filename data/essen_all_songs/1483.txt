@@ -1,0 +1,15 @@
+F[BALLADE
+CUT[Die Brombeerpflueckerin
+    Es wollt ein Madel frueh aufstehn.]
+CNR[Sie wollte gehen in den Wald.]
+REG[Osteuropa, Ungarn, Kom. Tolnau, Nemetker]
+SRC[7, S. 107
+    1935 aufgezeichnet]
+KEY[Q0147O 08  G 4/4]
+MEL[-5_  1_.23b_4_  3b_2_1_
+    (555)  +2_57b6b54_  5__0_
+    (555)  +2_57b6b54_  5__0_
+    (334)  5_5_5_5_  4_6b_5_
+    (444)  3b_3b_2_5_  1_5__
+    (444)  3b_3b_2_5_  1__0_ //] >>
+FCT[Ballade, Verfuehrung, Schwangerschaft]

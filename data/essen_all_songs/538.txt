@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[ICH WILL EUCH' MAL SINGEN EIN LIEDELEIN EIN NEUES]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+KEY[Z0123  08  G 3/4]
+MEL[-5  1_1_-5_  1_1_-5_  1_1_2_  3_3_
+    1_  -6_-6_1_  1_-7_-6_  -6_-5_-5_  -5_-5_
+    35  544345  4__24  433234  3__
+    1_  3_2_2_  4_2_-7_  2_1_-7_  1__0 //] >>
+FCT[Erzaehlung, lustige Romanze]

@@ -1,0 +1,9 @@
+BOEHME
+CUT[AUF DEM GRUENEN RASEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0631  08  G 2/4]
+MEL[  3355  4_2_
+    1234  2_0_
+    4433  6_5_
+    5432  1_0_ //] >>
+FCT[Kinder - Lied, Tier]

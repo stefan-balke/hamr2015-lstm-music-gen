@@ -1,0 +1,11 @@
+F[ERK2
+CUT[SCHWARZBRAUNES MAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+KEY[E0632  16  A 2/4]
+MEL[  1__1_2_  3_.33_
+    3_  5_4_2_-7_  1__0_
+    3_  2_.1-7_1_  2_.32_
+    5_  2_.1-7_1_  2_.32_
+    -5_  1__1_2_  3_.33_
+    3_  5_4_2_-7_  1__0__ //] >>
+FCT[Liebes - Lied]

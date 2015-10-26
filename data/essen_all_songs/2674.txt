@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WAR EINE STOLZE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E0098C 08  F 3/4]
+MEL[-5  123_4_  5_5_0
+    +1  765_4#_  5__0
+    5  +135_67  +1_5_0
+    5  67+1_76  5_3_0
+    5  643_2_  1__0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid
+    Ballade ?]

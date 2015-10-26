@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Herr von Falkenstein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0029  08  G 4/4]
+MEL[5_  5_43b225_  5_43b2_.
+    4  3b_.21_1_  -7__1_
+    11  2_3b3b4_2_  3b_4_5_.
+    4  3b_2_1_3b_  2__1_ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[ Die Melodie hat zuerst Kretzschmer, Volkslieder II. 1840
+    No. 38 aus muendlicher Ueberlieferung mitgeteilt, und den Text aus dem
+    Museum (Deutsches Museum 1785, Leipzig II, 381) uebersetzt.]

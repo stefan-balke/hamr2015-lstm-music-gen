@@ -1,0 +1,11 @@
+F[ERK3
+CUT[IM SOMMER DU SCHOENE SOMMERZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+KEY[E1888  08  G 2/4]
+MEL[1  5_31  5_3
+    1  6666  5_0
+    5  5444  333
+    3  2222  5_0
+    5  5444  333
+    3  2255  1_0 //] >>
+FCT[Kinder - Lied, Spiel, Reigen]

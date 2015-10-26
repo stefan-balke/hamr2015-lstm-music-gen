@@ -1,0 +1,11 @@
+DVA
+CUT[Schoenstes Schaetzchen ich steh draussen
+    vor dein' Fensterlein]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0168  08 Eb 4/4]
+MEL[    1_-5_1_3_  2_2_1_-5_
+    3_.23_5_  5_0_
+    4_2_  5_4_3365  5_3_0_
+    5_  5_654_5_  3__0__ //] >>
+FCT[Tage - Lied, Kilt - Lied]
+CMT[Inzipit = Variante zum Lied]

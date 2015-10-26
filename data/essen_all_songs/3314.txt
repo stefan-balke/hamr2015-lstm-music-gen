@@ -1,0 +1,13 @@
+F[ERK2
+CUT[WOLAUF GUT GSELL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0752  08  F 4/4]
+MEL[1_  1_5_3_1_  2__3_
+    3_  6__5_5_  4_3_2__  1__0_
+    1_  1_5_3_1_  2__3_
+    3_  6__5_5_  4_3_2__  1__0_
+    1_  3_3_1_1_  2__1_
+    5_  2__5_4_  4_3_2__  0_
+    5_5_5_  5_5__4_  3_212__  1_
+    1_1_1_  4_3_2__  1__. //] >>
+FCT[Abschieds - Lied, Wander - Lied]

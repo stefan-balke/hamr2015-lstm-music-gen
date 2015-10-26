@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Mairoesleins Umzug]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0497A 04  G 3/2]
+MEL[1_  1_1_1_  5__5_  4_4_5_  6__.
+    5_4_5_  6__5_  5_4_5_  7b__65  5__4_  5__
+    6_  7b__7b_  6__6_  5__5_  4__
+    4_  5_3_4_  5_.432  1_2__  1_5_3_  4_.321  2__.  1__ //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[Forster II 1540 No. 46.]

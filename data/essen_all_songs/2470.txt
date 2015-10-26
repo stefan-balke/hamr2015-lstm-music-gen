@@ -1,0 +1,9 @@
+VARIANT
+CUT[Sixt as net, da kuemmt er, klaana Schrittla nimmt er]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Kirchahorn]
+KEY[V0003C 08  C 2/4]
+MEL[5554  3_3_
+    1165  5_4_
+    4443  222_
+    -7252  433_ //] >>
+FCT[Geselligkeits - Lied, Scherz]

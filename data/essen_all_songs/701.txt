@@ -1,0 +1,9 @@
+ZUCCAL
+CUT[WARUM BIST DU DENN SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z0284  08  D 4/4]
+MEL[56543_3_  54345_+16
+    56543_3_  54345__
+    3_.55464  2_.435+15
+    3_556543  21231__ //] >>
+FCT[Lyrisches Lied, Romanze, Abschieds - Lied]

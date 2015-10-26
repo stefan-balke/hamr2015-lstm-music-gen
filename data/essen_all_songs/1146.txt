@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Als ich ein kleines Maedchen war,]
+CNR[stirbt mir mein Vater und Mutter,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[2, S. 100
+    1928 gedruckt in Heidelberg]
+KEY[Q0041L 08  A 3/4]
+MEL[  5_5_4_  3b_.45_  5_543b_
+    5_4_4_  1_.14_  3b21_-7b_
+    -7b_3b_4_  5_.24_  3b_2_1_ //] >>
+FCT[Ballade, Verfuehrung, Mord, Mordversuch bzw. Rache]
+CMT["Loser Zusammenhang zur Ballade"]

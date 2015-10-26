@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[Kuhreigen"
+    MIS LIEB ISCH GAR WIT INNE]
+REG[Europa, Mitteleuropa, Emmenthal]
+KEY[Z1306  16  G 2/4]
+MEL[34  5_.43_31  2_2_0_
+    34  554#53_21  2__0_
+    21  -7_-5_1_2_  3_1_0_
+    34  5_.43_2_  1__5_64#  5_64#5_64#  5__1__  +1__0_ //] >>
+FCT[Handwerker -, Bauern - Lied]

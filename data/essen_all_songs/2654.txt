@@ -1,0 +1,10 @@
+F[ERK1
+CUT[ES REITEN DREI HERREN ZU MUENCHEN HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Regensburg]
+KEY[E0092  08  C 4/4]
+MEL[-5  -51-7-6-5-6-71  2_1-71_0
+    -5  -51-7-6-5-6-71  2_1-71_0
+    -5  -511_1_1_  -522_0_
+    -7_  -711_0_. //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid, Tod
+    Ballade ?]

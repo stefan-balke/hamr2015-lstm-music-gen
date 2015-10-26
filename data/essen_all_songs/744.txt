@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Der Kreuzzug"
+    SANCT MICHAEL HAT SICH GEBAUET]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+KEY[Z1009  16  G 6/8]
+MEL[-5_  1_1_2_3b_2_3b_  1__.-7__
+    -5_  1_1_2_3b_2_1_  2__.^__
+    -5_  1_1_2_3b_2_3b_  1__.-7__
+    -5_  1_1_2_3b_2_1_  2__.0__
+    12  3b_2_3b_4_3b_4_  5__.4__
+    3b_  2_3b_1_-7_1_2_  1__.0__ //] >>
+FCT[Romanze, Ballade, Maria, geistlich]

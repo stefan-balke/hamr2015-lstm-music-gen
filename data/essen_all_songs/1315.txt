@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Wiedersehen an der Bahre
+    'Ach holdes Kind, was wirst du tun?]
+CNR[Dein Schatz zieht in die Fremde.]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oberschlesien,
+    Kr. Kreuzburg]
+SRC[3, S. 86
+    ????]
+KEY[Q0056O 08  F 4/4 2/4 3/4]
+MEL[113  5_5_4_5_  3__.
+    1_  4_.6+1_76  6_5__
+    5_  6543  322
+    1  -725_.4  6_5__
+    5_  6543  322
+    1  -725_.4  4_3_0 //] >>
+FCT[Ballade, Abschied, Enttaeuschung, Tod, Selbstmord]

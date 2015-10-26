@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt ein reicher Schlaechtersmann]
+CNR[zu Kolberg in der Heide,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Charlottenburg]
+SRC[6, S. 107
+    1843 aufgezeichnet]
+KEY[Q0127G 16  G 2/4]
+MEL[1_  3_321_34  5_543_
+    5_  6_6_2_5_  4__3_
+    1_  3_321_34  5_543_
+    5_  6_6_2_5_  4__3_
+    1_  6_.46_+16  5_.35_
+    65  4_434_5_  4__3_ //] >>
+FCT[Ballade, verbotene Liebe, Flucht]
+CMT[Taktart entsprechend der Takteinteilung in 2/4 geaendert.]

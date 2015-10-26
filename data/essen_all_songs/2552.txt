@@ -1,0 +1,10 @@
+F[ERK1
+CUT[LIEB ANNA SASS AUF EINEM STEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig]
+KEY[E0042N 08  C 2/4]
+MEL[-5  11-7-6  -6-5-5_
+    -6-4-4_  -6-5-5
+    -5  11-7-6  -6-5-5_
+    -6_-7_  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Ritter -, Raeuber - Sage, Kinder - Lied
+    Ballade ?]

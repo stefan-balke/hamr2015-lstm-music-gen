@@ -1,0 +1,15 @@
+ZUCCAL
+CUT["Liebesstolz"
+    HALB UND HALB HAST MI GERN]
+REG[Europa, Mitteleuropa, Oesterreich]
+KEY[Z1232  08  C 3/4]
+MEL[  5_5_6_  5_.43_
+    5_5_6_  5__
+    55  6_4_4_  4_616_
+    5_3_2_  3__
+    53  4_+2_+2_  +2__
+    42  3_+1_+1_  +1__
+    53  4_+2_+2_  +2__
+    +17  +1_+1_+3+2  +1__. //] >>
+FCT[Liebes - Lied]
+CMT[Die letzten 8 Takte werden auf die Silbe 'la' gesungen.]

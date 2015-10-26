@@ -1,0 +1,18 @@
+BOEHME
+CUT[MIR AUCH WAR EIN LEBEN AUFGEGANGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0283  16  G 4/4]
+MEL[-5_1_  3__.3_5_.32_1_  1_.-7-7__0__
+    2_3_  4__.4_4_.25_4_  4__3__0__
+    3_3_  6__.3_7_.33_3_  +1___+1_6_
+    4_2_  1_3_5__5_435432  2__1__0__ //] >>
+FCT[Stimmungs - Lied]
+BOEHME
+CUT[MIR AUCH WAR EIN LEBEN AUFGEGANGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0283  16  G 4/4]
+MEL[-5_1_  3__.3_5_.32_1_  1_.-7-7__0__
+    2_3_  4__.4_4_.25_4_  4__3__0__
+    3_3_  6__.3_7_.33_3_  +1___+1_6_
+    4_2_  1_3_5__5_435432  2__1__0__ //] >>
+FCT[Stimmungs - Lied]

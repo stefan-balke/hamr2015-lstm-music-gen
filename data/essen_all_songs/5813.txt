@@ -1,0 +1,10 @@
+ALTDEU
+CUT[Kranzsingen]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0271D 04  F 4/2]
+MEL[1  5_5_6_5_  3_423_0
+    1  5_5_5_34  532_1_0
+    -5  1_2_3_3_  1_2_3_0
+    1  5_5_5_34  532_1_0 //] >>
+FCT[Romanze, Ballade, Lied]
+CMT[M. Praetorius Mus. Sion. VI 1609 No. 27.]

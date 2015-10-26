@@ -1,0 +1,13 @@
+ZUCCAL
+CUT[ICH HAB ZU DIR GESAGT, MEIN KIND ICH LIEBE DICH]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Deutschland, Bayern]
+KEY[Z0271  08  A 2/4]
+MEL[-5  1234  3_2
+    3  4345  4_3
+    -5  1234  3_2
+    3  421-7  1_0
+    3  5434  5_4
+    3  4564  4_3
+    -5  1234  3_2
+    3  421-7  1_0 //] >>
+FCT[Lyrisches Lied, Romanze]

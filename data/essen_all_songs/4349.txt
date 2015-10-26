@@ -1,0 +1,14 @@
+F[ERK3
+CUT[EIN FESTE BURG IST UNSER GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E1981  08  C 4/4]
+MEL[+1_  +1_+1_5_7_  +176_5_
+    +1_  7_6_5_6_  432_1_
+    +1_  +1_+1_5_7_  +176_5_
+    +1_  7_6_5_6_  432_1_
+    1_  5_6_5_4#_  5__.
+    1_  5__6_7_  +1__.
+    7_  +1_7_6__  5__.
+    6_  6_5_6_4_  3__.
+    +1_  7_6_5_6_  432_1_ //] >>
+FCT[geistlich, Lob - Lied]

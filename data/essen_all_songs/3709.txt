@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die beiden Waisenkinder
+    Es gingen zwei Waisenkinder]
+CNR[zum stillen Friedhof hin,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+SRC[5, S. 310
+    1924 gedruckt in Moenchengladbach]
+KEY[Q0118D 16  G 6/8]
+MEL[3_  3_.33_3__3_  4_4_0__.
+    2_  2__5_5__4_  3__0_
+    5__.  3_.33_3_4_5_  6__.6_5_
+    4_  5__5_5__4_  3__0_
+    5__.  3_.33_3_4_5_  6__.6_5_
+    4_  5__5_5__4_  3__0__. //] >>
+FCT[Ballade, Waise, boese Stiefmutter, Klage am Grab, Geist]
+CMT[Zweistimmig notiert, Oberstimme kodiert. Schlusspause ergaenzt.]

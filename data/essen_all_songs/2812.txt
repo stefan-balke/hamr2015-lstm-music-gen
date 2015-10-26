@@ -1,0 +1,9 @@
+F[ERK1
+CUT[ES FUHR EIN FUHRKNECHT UEBERN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0186  08  G 2/4]
+MEL[-5  1_3b_  2_5_  43b2
+    -5  1_3b_  2_5_  43b2
+    3b  4445  3b21
+    -5  1_2_  3b45_  3b_21  1_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte, Mord]

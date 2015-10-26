@@ -1,0 +1,11 @@
+F[ERK1
+CUT[DORT BEIM SEE DA DRUNT]
+REG[Europa, Mitteleuropa, Oesterreich, Steiermark]
+KEY[E0177  08  C 3/4]
+MEL[  -5__3_  -31-5__
+    -5-5-7_-54  3__
+    -31  -7-4-7_-52  1-31_
+    -51  -74-7_4-7  135__
+    -6_.4-64  3-53_
+    -53  2__-52  1__0_ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Pflanzen - Maerchen]

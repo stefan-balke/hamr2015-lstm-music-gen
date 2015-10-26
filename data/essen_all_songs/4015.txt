@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ES WOLLT EIN JAEGER JAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheingau, Lorchgau; Hessen,
+    Dill - Kreis, Taunus, Waldeck]
+KEY[E1436  08 Eb 4/4]
+MEL[-5_  1_3_321-7  1_5_3_
+    5_  66554435  2__0_
+    55  5_5_5_5_  3_5_1_
+    11  66666_+16  5_+1_3_
+    33  22665_45  3__0_ //] >>
+FCT[Staende -, Jaeger - Lied]

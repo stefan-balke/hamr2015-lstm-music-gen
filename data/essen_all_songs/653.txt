@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[ES GING EIN MAEDCHEN GRASEN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+KEY[Z0237  08  G 4/4]
+MEL[-5_  1_.2345_  6_4_0_
+    5_  6_7_+1_76  5_0__
+    55  +1_5_5434  6_5_0_
+    54  33334342  3_4_5_
+    67  +1_543_.2  1_0__ //] >>
+FCT[Jaeger - Lied (Maedchen will als Knabe geboren sein, um Jaeger werden
+    zu koennen.)]

@@ -1,0 +1,10 @@
+FINK
+CUT[ICH WOLLT ES WAERE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0859  16  D 3/8]
+MEL[5_  5_3_32  1__
+    34  5_5_64  3__0_
+    +1+16_+1_  655__
+    664_6_  433__
+    315_5_  1__ //] >>
+FCT[erzaehlendes Volks - Lied, Liebe]

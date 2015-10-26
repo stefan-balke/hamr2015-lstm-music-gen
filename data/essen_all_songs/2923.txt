@@ -1,0 +1,14 @@
+F[ERK1
+CUT[BEI WATERLOO WAR DIE GROSSE SCHLACHT]
+REG[Europa, Mitteleuropa, Deutschland, Lahngebiet, Unter - Taunus]
+KEY[E0358B 08  F 4/4]
+MEL[-5_  1_3_2_5_  3_321_
+    2_  3_5_4_6_  5_543_
+    5_  6_.54_5_  3__0_
+    13  5_+1_6_.5  65432_
+    23  4_444654  3_2_1_0
+    2  3_5_2__  1__0_
+    13  5_+1_6_.5  65432_
+    23  4_444654  3_2_1_0
+    2  3_5_2__  1__0_ //] >>
+FCT[historisches Lied, Krieg gegen Napoleon (1815)]

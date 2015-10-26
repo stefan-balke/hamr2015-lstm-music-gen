@@ -1,0 +1,11 @@
+F[ERK1
+CUT[ES WAR EINE REICHE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Oberlahnkreis]
+KEY[E0098E 16  D 6/8]
+MEL[1_  3__5_2__4_  321_0__.
+    5_  +1_.76_7__6_  5__.0__
+    3_  5__5_+1__+1+1  6__.6__
+    6_  5_4_3_5_6_4_  5__+1_+1__
+    +1_  7_7_6_7__6_  5__.0__ //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Liebe, Leid
+    Ballade ?]

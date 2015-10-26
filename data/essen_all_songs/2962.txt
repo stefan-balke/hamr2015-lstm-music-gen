@@ -1,0 +1,10 @@
+F[ERK1
+CUT[WENN ALLE BAECHLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillkreis; Lahnkreis]
+KEY[E0429B 16  G 6/8]
+MEL[1_  1_3_3_3_5_5_  3__.2__
+    6_  5_4_3_2__.  1__.0__
+    13  5__5_5__6_  5_4_4_6__.
+    3__.5__.  5_2_2_2__
+    6_  5_4_3_2__.  1__.0__ //] >>
+FCT[Liebes - Lied]

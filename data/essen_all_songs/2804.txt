@@ -1,0 +1,8 @@
+F[ERK1
+CUT[ES WOHNT EIN PFALZGRAF AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+KEY[E0182C 04  G 4/4]
+MEL[-5  11-72  1-6-5
+    -5  -6-6-61  -5-5-3
+    -5  1322  5_4_  3_0 //] >>
+FCT[erzaehlendes Volks - Lied, Sage, Familien - Geschichte]

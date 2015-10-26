@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Jungfer Doertchen
+    Es hiet a Knaeblein shiesn Shluf,]
+CNR[es hiet a Knaeblein shiesn Shluf.]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[3, S. 88
+    1895 gedruckt in Graz]
+KEY[Q0057B 16  G 3/4 2/4]
+MEL[-5__1_3_  5__5__6_6_  5_
+    654_5_  3_5_5__4_5_  3__ //] >>
+FCT[Ballade, Todesahnung, Tod, Selbstmord]

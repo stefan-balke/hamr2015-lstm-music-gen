@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Die Luetzelburg"
+    DU EDLER GRAF VON LUETZELBURG]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[Z1007  16 Bb 3/8]
+MEL[-5_  1__1_  2_1_-7_  1_-7_-6_  -5__
+    24  3_2_32  1_.32-5  -5_1_-7_  1__
+    13  4__3_  2_1_2_  3__2_  1__
+    1_  2_3_2_  1_-6_2_  1_.21-7  -6__
+    2-5  1__-7_  1_2_3_  2_1_-7_  1__ //] >>
+FCT[Romanze, Ballade, Melusina - Sage]

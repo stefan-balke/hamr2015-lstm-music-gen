@@ -1,0 +1,19 @@
+DVA
+CUT[Haenschen klein ging allein
+    in die weite Welt hinein]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Freiburg /Br., Ebnet]
+KEY[D1022  04  G 4/4]
+MEL[533_  422_
+    1234  555_
+    533_  422_
+    1355  1_0_
+    2222  234_
+    3333  345_
+    533_  422_
+    1355  1_0_
+    2222  234_
+    3333  345_
+    533_  422_
+    1355  1_0_ //] >>
+FCT[Kinder - Lied]
+CMT[DVA-Signatur A 218 598]

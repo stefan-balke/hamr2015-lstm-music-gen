@@ -1,0 +1,11 @@
+VARIANT
+CUT[As Maadla von Gmaa hot schoena weissa Baa]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Franken, Breitenlesau]
+KEY[V0006A 16  E 2/4]
+MEL[5_  6_5_4#_5_  3__0_
+    5_  6_5_4#_5_  4__0_
+    5_  6_5_4#_5_  7_.77_7_  6_6_6__  5__0_
+    5_  6_5_4#_5_  3__0_
+    5_  6_5_4#_5_  4__0_
+    5_  6_5_4#_5_  7_.77_7_  5_4_3_2_  1__0_ //] >>
+FCT[Liebes - Lied]

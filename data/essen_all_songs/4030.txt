@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES TRUG EIN JAEGER EIN GRUENEN HUT]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+KEY[E1456  16  G 6/8 3/4]
+MEL[  -5_1_2_3_2_1_  4_2_1__.
+    -7b_  -6_-7b_1__.-5_  1_-6_-4__0__
+    1__-5_-4_-6_-5_  1__-5_-4-4-6-6-5_
+    -5_1_2_3_2_1_  4_2_1__0__ //] >>
+FCT[Staende -, Jaeger - Lied, Liebe]

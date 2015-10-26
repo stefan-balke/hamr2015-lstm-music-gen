@@ -1,0 +1,12 @@
+ALTDEU
+CUT[Das alt Chatholisch Triersch Christ liedlein]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0515  02  F 4/2 6/2]
+MEL[5_  5565  5_3_
+    4_  32_1_-7  1_
+    5_  5565  5_3_
+    4_  32_1_-7  1_0
+    3  2-71-6  -5_0
+    5  5565  5_3_4_  32_1_-7  1__ //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[Speiersches Gsgb. 1600 fol. 29.]

@@ -1,0 +1,26 @@
+BOEHME
+CUT[EIN SCHAEFERMAEDCHEN WEIDETE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Nassau]
+KEY[B0145  08  G 6/8]
+MEL[-5  1_11-71  2_22_
+    2  3_3542  1_0_.
+    -5  1_11-71  2_22_
+    2  3_3542  1_0_.
+    5  4#_2234#  5_27_
+    5  4#_2234#  6555_
+    5  3_0_.5  4_0_.
+    5  3_53_5  3_0_. //] >>
+FCT[Ballade, Romanze]
+BOEHME
+CUT[EIN SCHAEFERMAEDCHEN WEIDETE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Nassau]
+KEY[B0145  08  G 6/8]
+MEL[-5  1_11-71  2_22_
+    2  3_3542  1_0_.
+    -5  1_11-71  2_22_
+    2  3_3542  1_0_.
+    5  4#_2234#  5_27_
+    5  4#_2234#  6555_
+    5  3_0_.5  4_0_.
+    5  3_53_5  3_0_. //] >>
+FCT[Ballade, Romanze]

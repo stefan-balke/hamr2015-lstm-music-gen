@@ -1,0 +1,11 @@
+DVA
+CUT[Jetzt fahr'n mer uebern See, vidrom,
+    jetzt fahr'n mer uebern See.]
+REG[Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart]
+KEY[D0174  08  F 2/4]
+MEL[-5  3334  5553  4445  3_0
+    -5  3334  5553  4445  0_0
+    5  6543  4_2_  4466  53_
+    5  6543  4_25  5554  3_. //] >>
+FCT[Bauern - Lied]
+CMT[Grundton ??; Inzipit = entfernte Variante zum Lied]

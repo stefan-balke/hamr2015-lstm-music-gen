@@ -1,0 +1,11 @@
+F[BALLADE
+CUT[Die Rabenmutter
+    ohne Text]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+SRC[5, S. 270
+    1939 gedruckt in Kassel]
+KEY[Q0114U 08  G FREI]
+MEL[-5-51  1_3_11  2_.
+    1-71  2_5432  1
+    -71-7  -6_5432  1_. //] >>
+FCT[Ballade, Kinds - Mord, Strafe]

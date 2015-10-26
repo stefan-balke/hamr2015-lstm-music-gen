@@ -1,0 +1,22 @@
+BOEHME
+CUT[MIT HOERNERSCHALL UND LUSTGESANG]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[B0059  08  C 6/8]
+MEL[-5  -5_-3-3_1  1_-5-5_
+    3  2_2232  1_.0_
+    3  2_1-7_-6  -7_12_
+    3  2_1-7_-6  -7_12_
+    -5  1_1212  3_.0_
+    3  4_21_-7  1_.0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]
+BOEHME
+CUT[MIT HOERNERSCHALL UND LUSTGESANG]
+REG[Europa, Mitteleuropa, Deutschland, Preussen]
+KEY[B0059  08  C 6/8]
+MEL[-5  -5_-3-3_1  1_-5-5_
+    3  2_2232  1_.0_
+    3  2_1-7_-6  -7_12_
+    3  2_1-7_-6  -7_12_
+    -5  1_1212  3_.0_
+    3  4_21_-7  1_.0_ //] >>
+FCT[Kriegs -, Sieges -, Soldaten - Lied]

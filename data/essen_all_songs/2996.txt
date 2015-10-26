@@ -1,0 +1,13 @@
+F[ERK1
+CUT[BISTU DES GOLDSCHMIEDS TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[E0487  08  A 4/4]
+MEL[-5_  1_2_3b_1_  -7_2_1_
+    3b_  2_1_-7b_-6_  -5__-4#__  -5__.
+    -5_  1_2_3b_1_  -7_2_1_
+    3b_  2_1_-7b_-6_  -5__-4#__  -5__.
+    2_  3b_2_3b_1_  -7b_-6_-5__
+    3b__4__  5__.43b  2_1_-7_
+    1_  2_1_1_-7_  1__.
+    1_  -5_-5_-6_-7_  1__. //] >>
+FCT[Liebes - Lied]

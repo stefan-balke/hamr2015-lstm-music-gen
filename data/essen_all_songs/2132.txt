@@ -1,0 +1,15 @@
+FINK
+CUT[ICH KENN EIN WUNDERSCHOENES LAND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0428  08  E 4/4]
+MEL[-5_  1_.12_3_  3_.21_
+    1_  -6_-7_1_32  -7_.-6-5_
+    -5_  1_.1-7_-6_  -5_.-4-3_
+    -4#_  -5__-6__  -7__.21  -7__-6__  -5__0_
+    -5_  -7b_.-7b-6_-5_  -4_.-5-6_
+    2_  -7_.-71_-6_  -5_.-4-3_0
+    -5  1_012_02  3__.0
+    1  4_3_2_1_  -7__1__  2__0
+    -712  3__.2_  1__.-7_  1_
+    1_2_3_  4__.2_  1__-7__  1__0_ //] >>
+FCT[Vaterlands -, Heimat - Lied, nationalistisch; Sachsen - Lied]

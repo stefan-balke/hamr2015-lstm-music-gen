@@ -1,0 +1,10 @@
+KINDER
+CUT[SCHLOAP KINGEKEN SCHLOAP]
+REG[Europa, Mitteleuropa, Deutschland, Oderbruch]
+KEY[K0016  16  F 2/4]
+MEL[  3__222_  1__0_
+    -5-5  3_3_2_2_  1__0__
+    3_3_3_55  5_4_4__
+    222_2_4_  3_2_1__
+    3__222_  1__0__ //] >>
+FCT[Kinder -, Wiegen - Lied]

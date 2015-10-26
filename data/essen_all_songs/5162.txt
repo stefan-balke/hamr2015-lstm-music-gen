@@ -1,0 +1,9 @@
+BOEHME
+CUT[MIN VATER ISCHT A APPAZELLER]
+REG[Europa, Mitteleuropa, Schweizland]
+KEY[B0698  16  A 2/4]
+MEL[-3_  -4_-6_-3_-5_  -2_-2_-5__
+    3-54_2-53_  1-713-5_
+    -3_  -4_-6_-3_-5_  -2_-2_-5__
+    3-5-542-5-53  1__. //] >>
+FCT[Scherz - Lied]

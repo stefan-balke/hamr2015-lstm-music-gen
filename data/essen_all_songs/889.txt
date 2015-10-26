@@ -1,0 +1,11 @@
+ZUCCAL
+CUT["Gang zur Liebsten"
+    DES ABEND KANN ICH NICHT SCHLAFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+KEY[Z1154  16  A 2/4]
+MEL[-5_  1_.23b_21  2_21-7_.
+    -5  1_123b_21  2_2_-5_
+    3b4  5_445_6b5  4_.3b4_
+    54  3b_.23b453b  2_112_
+    3b2  1__-7__  1__0_ //] >>
+FCT[Liebes - Lied]

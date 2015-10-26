@@ -1,0 +1,9 @@
+F[ERK3
+CUT[BLEIBT BEISAMMEN DENN ES DAUERT NET MEHR LANGE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Messel]
+KEY[E1179  08  D 2/4]
+MEL[-3-4  -5-5-5-5  -5-5
+    11  -6-6-6-6  -6-6
+    22  -7_-5-5  -5_
+    -6-7  1111  11 //] >>
+FCT[Trink -, Zech - Lied, Scherz]

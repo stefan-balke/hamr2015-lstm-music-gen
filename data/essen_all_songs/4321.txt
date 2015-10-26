@@ -1,0 +1,9 @@
+F[ERK3
+CUT[ES KAM EIN HERR ZUM SCHLOESSLI]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E1916  16  G 2/4]
+MEL[1_  56543432  1_3_-5_
+    1_  56543432  1_3_-5_
+    -5_  1_1_2_2_  35432_
+    5_  3_1_2_-7_  132-71_ //] >>
+FCT[Kinder - Lied, Moral]

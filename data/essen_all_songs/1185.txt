@@ -1,0 +1,16 @@
+F[BALLADE
+CUT[Die Rheinbraut
+    Christinchen ging in' Garten,]
+CNR[den Braeutigam zu erwarten.]
+REG[Mitteleuropa, Schweiz, Kanton Bern]
+SRC[2, S. 177
+    1908 gedruckt (o. spaeter) in Bern]
+KEY[Q0047F 16 Bb 6/8]
+MEL[34  5__6_4__5_  4_3_0__.
+    34  5_.56_4__5_  4_3_0__.
+    34  5__+3_+3__+2_  +1_+1_3_5__0_
+    +1_7_+1_+2_4__  6_6_5_3__
+    34  5__+3_+3__+2_  +1_+1_3_5__0_
+    +1_7_+1_+2_4__  6_6_5_3__ //] >>
+FCT[Ballade, Braut - Werbung, Todesahnung, Tod]
+CMT[Kleine melodische Variante abgedruckt.]

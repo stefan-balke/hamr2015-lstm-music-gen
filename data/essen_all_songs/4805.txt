@@ -1,0 +1,10 @@
+DVA
+CUT[Nun adje, Schatz, und ich muss fort,
+    ich muss wohl in die Fremde ziehn]
+REG[Europa, Mitteleuropa, Lothringen, Breisdorf ( Kr. Diedenhofen )]
+KEY[D0049  08  G 3/8]
+MEL[1  -5_1  3b_2  1_-7  1_.  ^_
+    1  3b_4  5_6b  53b4  5_.  ^_
+    5  7b_5  6b54  5_4  3b_.  ^_
+    5  5_4  43b2  1_-7  1_.  ^_ //] >>
+FCT[Ballade]

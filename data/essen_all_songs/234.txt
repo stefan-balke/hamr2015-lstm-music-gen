@@ -1,0 +1,24 @@
+BOEHME
+CUT[SPRICHST DU ZUM VOGEL KOMM IN MEIN HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Schleswig Holstein]
+KEY[B0282  08  A 4/4]
+MEL[-5-5-5  3_1_01-71  -6_0_.
+    -6-6-6  4_2_0-5-6-7  1_0
+    11_-71  2_1-7-7_-6-7  -6_0
+    -6-6_-7-7  1_-533_23  1_0_.
+    1-71  -6212-5_0_
+    3_.22_1_  1_.-7-7_-6-6  -5_-6-71_0_
+    3_.24321  -7_-6-6-5_-6-7  1_0_. //] >>
+FCT[Stimmungs - Lied]
+BOEHME
+CUT[SPRICHST DU ZUM VOGEL KOMM IN MEIN HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Schleswig Holstein]
+KEY[B0282  08  A 4/4]
+MEL[-5-5-5  3_1_01-71  -6_0_.
+    -6-6-6  4_2_0-5-6-7  1_0
+    11_-71  2_1-7-7_-6-7  -6_0
+    -6-6_-7-7  1_-533_23  1_0_.
+    1-71  -6212-5_0_
+    3_.22_1_  1_.-7-7_-6-6  -5_-6-71_0_
+    3_.24321  -7_-6-6-5_-6-7  1_0_. //] >>
+FCT[Stimmungs - Lied]

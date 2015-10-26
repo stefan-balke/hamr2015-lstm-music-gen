@@ -1,0 +1,14 @@
+ALTDEU
+CUT[Lobt Gott ihr Christen alle]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[A0395  02  G 4/2]
+MEL[5  5556  7b_7b
+    7b  +1566  5_0
+    5  5555  4_4
+    5  3b122  1_0
+    1  2222  3b_2
+    2  5554  2_0
+    5  5566  7b_7b
+    6  53b42  1_. //] >>
+FCT[Romanze, Ballade, Lied, religioeses Lied]
+CMT[J. Ott 1544 III No. 5.]

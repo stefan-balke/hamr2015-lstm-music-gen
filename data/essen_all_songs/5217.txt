@@ -1,0 +1,9 @@
+BOEHME
+CUT[UEB IMMER TREU UND REDLICHKEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0745  08  G 4/4]
+MEL[-5_  1_1_2_2_  3_.21_
+    -5_  4_4_3234  2__0_
+    -5_  4_4_2_2_  5_.565
+    43  2_2_-7_-7_  1__0_ //] >>
+FCT[Moral - Lied, religioes]

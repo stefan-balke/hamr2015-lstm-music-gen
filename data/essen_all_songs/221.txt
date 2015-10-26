@@ -1,0 +1,18 @@
+BOEHME
+CUT[AM BLAU UND WEISSEN BANDE]
+REG[Europa, Mitteleuropa, Oesterreich, Passau]
+KEY[B0264  08  G 6/4]
+MEL[-5_  1__1_-7_-6_-7_  1__.-5__
+    -5_  -6__-6_1_-7_-6_  -5__.0__
+    34  5__3_6__5_  4__342__
+    4_  3__3_5_4_2_  1__.0__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Treue]
+BOEHME
+CUT[AM BLAU UND WEISSEN BANDE]
+REG[Europa, Mitteleuropa, Oesterreich, Passau]
+KEY[B0264  08  G 6/4]
+MEL[-5_  1__1_-7_-6_-7_  1__.-5__
+    -5_  -6__-6_1_-7_-6_  -5__.0__
+    34  5__3_6__5_  4__342__
+    4_  3__3_5_4_2_  1__.0__ //] >>
+FCT[Stimmungs - Lied, Sehnsucht, Treue]

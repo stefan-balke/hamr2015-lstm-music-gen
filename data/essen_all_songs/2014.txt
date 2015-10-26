@@ -1,0 +1,9 @@
+FINK
+CUT[WILLKOMMEN LIEBER MAI]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[F0249  16  C 6/8]
+MEL[-5_  1__1_2_.32_  -7_.-6-7_1__
+    -5_  3__3_2_3_2_  1_-7_-6_-5__
+    2_  2__-7_-5__5_  5__3_1__
+    -5_  -6__-6_2_3_4_  1__-7_1__ //] >>
+FCT[Jugend - Lied, Jahreszeiten, Fruehling]

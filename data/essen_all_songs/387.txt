@@ -1,0 +1,26 @@
+BOEHME
+CUT[HAN AN EM ORT E BLUEMELI GSEH]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[B0462  16  F 2/4]
+MEL[53  1_1_1_6_  5_534_0
+    2  3_456543  2__0_
+    23  4_432_6_  5_.43_
+    5_  6_5_4_3_  21-712_
+    5_  3_333_5_  2_222_
+    5_  3_542_23  1__0_
+    5_  3_333_5_  2_222_
+    5_  3_542_23  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]
+BOEHME
+CUT[HAN AN EM ORT E BLUEMELI GSEH]
+REG[Europa, Mitteleuropa, Deutschland; Schweiz]
+KEY[B0462  16  F 2/4]
+MEL[53  1_1_1_6_  5_534_0
+    2  3_456543  2__0_
+    23  4_432_6_  5_.43_
+    5_  6_5_4_3_  21-712_
+    5_  3_333_5_  2_222_
+    5_  3_542_23  1__0_
+    5_  3_333_5_  2_222_
+    5_  3_542_23  1__0_ //] >>
+FCT[Liebes - Lied, Leid, Klage]

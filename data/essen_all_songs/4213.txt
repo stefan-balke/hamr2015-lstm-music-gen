@@ -1,0 +1,11 @@
+F[ERK3
+CUT[ICH WOLLT MIR ZU EINEM KITTELCHEN SAMMELN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+KEY[E1747  16  C 3/8]
+MEL[-5_  1_1_1_  1__1_  1_-7_-6_  -5_-5_
+    -5_  -5_-5_-5_  1__-5_  -5_-4_-4_  -3_-3_
+    -3_  1_-7_-6_  -5__-5_  1_-7_-6_  -5__
+    -5_  1_-7_-6_  -5__-5_  1_-7_-6_  -5__
+    -5_  1_-7_-6_  -5_-5_-5-5  1_-7_-6_  -5__0_
+    -5__-5_  -5_-5_-5_  -5_-5_-5_  1__ //] >>
+FCT[Scherz -, Spiel - Lied, Zaehl - Geschichte]

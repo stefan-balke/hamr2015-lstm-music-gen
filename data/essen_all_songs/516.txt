@@ -1,0 +1,10 @@
+ZUCCAL
+CUT[ES IST EIN SCHNITTER DER HEISST TOD]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Deutschland]
+KEY[Z0101  08  G 3/4 4/4]
+MEL[1_  1__3b_  2__1_  -7b__-6b_  -5__
+    5_  5_.43b_  4_.3b2_  3b__.  0__
+    5_  5_.45_  3b_.45_  4_.3b4_  2_.3b
+    4_  3b_.23b_  1_.23b_  2_.12_  -7b__-5_  0__
+    5__  4_3b22_.1  1__0_ //] >>
+FCT[Sagen - Lied, Romanze, Tod]

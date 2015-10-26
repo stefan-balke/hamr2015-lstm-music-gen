@@ -1,0 +1,12 @@
+ZUCCAL
+CUT["Das Schlaraffenland"
+    IN POLEN STEHT EIN HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+KEY[Z1321  08 Bb 4/4]
+MEL[5__  +1_5_3_5_  +1__
+    +3__  +2_+1_7_6_  5__
+    6__  5_4_3_4_  5_.65_
+    6_  5_4_3_4_  5_.65_
+    5_  +1_+1_+2_+2_  +3_.+4+5_
+    +4_  +3_+3_+2_+2_  +1__ //] >>
+FCT[Zech -, Schalks - Lied]

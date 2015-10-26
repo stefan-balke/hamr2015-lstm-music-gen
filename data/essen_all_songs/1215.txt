@@ -1,0 +1,10 @@
+F[BALLADE
+CUT[Die Todesbraut
+    Bie vrie ischt auf dai scheane Geare!]
+REG[Suedosteuropa, Jugoslawien, Gottschee]
+SRC[2, S. 239
+    1895 gedruckt in Graz]
+KEY[Q0049K 08  G 4/4]
+MEL[4_1_-7b_  23b4_1123b  2_
+    1_2_3b_  4_2_112-7b  1_ //] >>
+FCT[Ballade, Hochzeit, Unfall, Tod]

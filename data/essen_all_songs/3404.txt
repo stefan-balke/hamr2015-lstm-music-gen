@@ -1,0 +1,11 @@
+F[ERK2
+CUT[SCHNEIDER DEN MAG ICH NET]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau]
+KEY[E0842  16  F 3/8]
+MEL[  1_3_5_  5_.+15_
+    6_+1_6_  5__0_
+    666654  5_5_3_
+    2_442_  1_6_5_
+    666654  5_5_3_
+    2_442_  1__0_ //] >>
+FCT[Hochzeits -, Ehestands - Lied]

@@ -1,0 +1,14 @@
+DVA
+CUT[Suse, Buebiken, suse,
+    wo wohnt denn Peter Kruse ?]
+REG[Europa, Mitteleuropa, Deutschland, Provinz Sachsen]
+KEY[D0159  16  F 2/4]
+MEL[     3_3_222_  1__-5_
+    -5_  3_3_2_2_  1__-5_0_
+    3_3_232_  1__-5_0_
+    3_3_3_5_  5_4_4__
+    3_3_3_5_  554_4__
+    3_3_2_2_  1__-5_0_
+    3_3_2_2_  1__-5_0_ //] >>
+FCT[Kinder - Lied]
+CMT[Grundton ?? ; Inzipit = Variante zum Lied; Variante zu Lied D0158 ?]

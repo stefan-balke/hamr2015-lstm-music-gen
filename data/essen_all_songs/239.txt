@@ -1,0 +1,26 @@
+BOEHME
+CUT[FREUND ICH BIN ZUFRUEDEN GEH ES WIE ES WILL]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Nassau]
+KEY[B0287  08  F 6/8]
+MEL[  5_5655  3_.1_.
+    2_25_5  3_.0_.
+    5_5655  3_.1_.
+    2_25_-7  1_.0_.
+    2_2234#  5_.7_.
+    6_6+164#  5_.0_.
+    5_5655  +1_.6_.
+    5_5542  1_.0_. //] >>
+FCT[Stimmungs - Lied, Freude, Zufriedenheit]
+BOEHME
+CUT[FREUND ICH BIN ZUFRUEDEN GEH ES WIE ES WILL]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Nassau]
+KEY[B0287  08  F 6/8]
+MEL[  5_5655  3_.1_.
+    2_25_5  3_.0_.
+    5_5655  3_.1_.
+    2_25_-7  1_.0_.
+    2_2234#  5_.7_.
+    6_6+164#  5_.0_.
+    5_5655  +1_.6_.
+    5_5542  1_.0_. //] >>
+FCT[Stimmungs - Lied, Freude, Zufriedenheit]

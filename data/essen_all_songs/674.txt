@@ -1,0 +1,11 @@
+ZUCCAL
+CUT[WER STEHT DRAUSSEN VOR MEINEM FENSTER]
+REG[Europa, Mitteleuropa, Deutschland, Goettingen]
+KEY[Z0257  16  C 3/8]
+MEL[  5__67  +17+1_5_  6_7_+1_  5_.43_
+    6__7_  +17+1_5_  5_3_1_  5__.
+    5__67  +17+1_5_  6_7_+1_  5_.43_
+    6__7_  +17+1_5_  5_3_1_  5__.
+    2_2_3_  4_2_0_  3_3_4_  5_3_0_
+    6_7_+1_  5__3_  543_2_  1__. //] >>
+FCT[lyrisches Lied, Romanze]

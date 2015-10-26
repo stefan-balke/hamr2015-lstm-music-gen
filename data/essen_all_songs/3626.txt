@@ -1,0 +1,13 @@
+F[BALLADE
+CUT[Tod der Geschwister
+    Bie vrie ischt auf nar]
+CNR[dai schiane Mogeta,]
+REG[Suedosteuropa, Jugoslawien, Gottschee, Vendreng]
+SRC[5, S. 194
+    1907 aufgezeichnet]
+KEY[Q0107  08  G 3/4]
+MEL[-7b_  1_2_4_  1__
+    -7b_  114_43b  1__
+    -7b_  113b_1_  1__-7b_  1__ //] >>
+FCT[Ballade, Tod]
+CMT[Anhaengsel an der letzten Zeile.]
