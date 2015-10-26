@@ -167,7 +167,7 @@ class Composer:
             print 'Final melody:', melody
             print
             exporter = MidiExporter(melody[0])
-            exporter.create_midi_file('random_%d_%.2f.midi' % (index, diversity))
+            exporter.create_midi_file('output/random_%d_%.2f.midi' % (index, diversity))
 
     def _get_training_examples(self):
         """Return N - window_size example matrices, each with window_size vectors.
