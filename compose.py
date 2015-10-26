@@ -212,10 +212,10 @@ class Composer:
 
 
 if __name__ == '__main__':
-    #data_rs = ImporterRollingStone(BEATS_PER_MEASURE, MELODY_INDICES_RANGE, HARMONY_INDICES_RANGE, CONTINUATION_FLAG_RANGE, METRIC_FLAGS_RANGE)
-    data_essen = EssenUntransposed()
+    data_rs = ImporterRollingStone(BEATS_PER_MEASURE, MELODY_INDICES_RANGE, HARMONY_INDICES_RANGE, CONTINUATION_FLAG_RANGE, METRIC_FLAGS_RANGE)
+    #data_essen = EssenUntransposed()
 
-    #bach = Composer(data_rs.output)
-    bach = Composer(data_essen.output)
+    bach = Composer(data_rs.output)
+    #bach = Composer(data_essen.output)
     bach.train()
 
