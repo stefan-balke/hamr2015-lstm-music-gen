@@ -118,20 +118,12 @@ class Composer:
         """
         np.set_printoptions(threshold=np.nan)
 
-        for diversity in [0.2, 0.5, 1.0, 1.2]:
+        for diversity in [0.2, 0.4, 0.6, 0.8, 1.0, 1.2]:
             print
             print '----- diversity:', diversity
 
-        for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
-            #print 'melody.shape', melody.shape
-            x = np.expand_dims(np.array(melody[0][i:i + self.window_size]), axis=0)
-            #print 'i:', i
-            #print 'x:', x
-            #print 'x.shape', x.shape
-
             SEED = self.dataset[3].transpose()
-            #SEED = SEED[:self.window_size-1]  # Use the window at the end. Subtract 1 since normal window size includes prediction.
-            SEED = SEED[self.window_size-1:]  # Use the window at the start. Subtract 1 since normal window size includes prediction.
+            SEED = SEED[:self.window_size-1]  # Use the window at the start. Subtract 1 since normal window size includes prediction.
             melody = np.expand_dims(SEED, axis=0)
             print len(SEED)
             print len(melody)
