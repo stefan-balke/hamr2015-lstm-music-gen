@@ -13,7 +13,9 @@ import itertools as it
 class ImporterRollingStone(ImporterBase):
     """Base Class for the dataset import.
     """
-    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range, path='../data/rock_corpus_v2-1/rs200_melody_nlt', harmony_path='../data/rock_corpus_v2-1/rs200_harmony_clt'):
+    def __init__(self, beats_per_measure, melody_range, harmony_range, continuation_range, metric_range,
+                 path='data/rock_corpus_v2-1/rs200_melody_nlt',
+                 harmony_path='data/rock_corpus_v2-1/rs200_harmony_clt'):
         super(ImporterRollingStone, self).__init__(beats_per_measure, melody_range, harmony_range, continuation_range, metric_range)
         self.path = path
         self.harmony_path = harmony_path
