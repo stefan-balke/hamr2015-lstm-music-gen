@@ -9,6 +9,7 @@ import sys
 
 from importer.rolling_stone import ImporterRollingStone
 from importer.essen import ImporterEssen
+from importer.essen_untransposed import EssenUntransposed
 from exporter.neural_net_to_midi import MidiExporter
 
 from settings import *
@@ -125,17 +126,15 @@ class Composer:
             SEED = self.dataset[3].transpose()
             SEED = SEED[:self.window_size-1]  # Use the window at the start. Subtract 1 since normal window size includes prediction.
             melody = np.expand_dims(SEED, axis=0)
-            print len(SEED)
-            print len(melody)
-
-            print '----- Generating with seed:', melody
+            #print len(SEED)
+            #print len(melody)
 
             for i in range(num_measures * BEATS_PER_MEASURE - len(SEED)):
-                print 'melody.shape', melody.shape
+                #print 'melody.shape', melody.shape
                 x = np.expand_dims(np.array(melody[0][i:i + self.window_size]), axis=0)
-                print 'i:', i
-                print 'x:', x
-                print 'x.shape', x.shape
+                #print 'i:', i
+                #print 'x:', x
+                #print 'x.shape', x.shape
 
                 next_frame = self.model.predict(x, verbose=0)[0]
 
@@ -154,16 +153,17 @@ class Composer:
                 next_frame = self._get_binary_vector(next_frame)
                 next_frame = np.expand_dims(next_frame, axis=0)
 
-                print 'next_frame normalized:', next_frame
-                print 'melody.shape', melody.shape
-                print 'next_frame.shape', next_frame.shape
+                #print 'next_frame normalized:', next_frame
+                #print 'melody.shape', melody.shape
+                #print 'next_frame.shape', next_frame.shape
 
 
                 melody = np.concatenate([melody, np.expand_dims(next_frame, axis=0)], axis=1)
-                print 'Appended melody:', melody
+                #print 'Appended melody:', melody
 
-                print 'end of for'
+                # end of for loop
 
+            # Done with melody.
             print 'Final melody:', melody
             print
             exporter = MidiExporter(melody[0])
@@ -213,7 +213,7 @@ class Composer:
 
 if __name__ == '__main__':
     #data_rs = ImporterRollingStone(BEATS_PER_MEASURE, MELODY_INDICES_RANGE, HARMONY_INDICES_RANGE, CONTINUATION_FLAG_RANGE, METRIC_FLAGS_RANGE)
-    data_essen = ImporterEssen()
+    data_essen = EssenUntransposed()
 
     #bach = Composer(data_rs.output)
     bach = Composer(data_essen.output)
