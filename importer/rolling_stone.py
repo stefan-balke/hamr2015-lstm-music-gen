@@ -112,7 +112,7 @@ class ImporterRollingStone(ImporterBase):
                     pitch_class_diff += 12
                 lowest_octave = int((pitch_range_start - pitch_class_diff) / 12) * 12
                 cur_pitch = (cur_pitch - pitch_class_diff - lowest_octave) % 36
-               # print('curPitch after key-justification and modding: ' + str(cur_pitch))
+                # print('curPitch after key-justification and modding: ' + str(cur_pitch))
                 prev_note_idx_end = note_idx_end
                 #print(lowest_octave)
                 #print(cur_pitch)
@@ -161,9 +161,10 @@ class ImporterRollingStone(ImporterBase):
 
 
         prev_note_idx_end = -1
-        import matplotlib.pyplot as plt
-        plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
-        plt.show()
+
+        #import matplotlib.pyplot as plt
+        #plt.imshow(piano_roll, cmap=plt.get_cmap('gray_r'))
+        #plt.show()
 
         # append to output list
         self.output.append(piano_roll)
