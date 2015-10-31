@@ -155,7 +155,7 @@ class Composer:
                 #print 'next_frame normalized:', next_frame
                 #print 'melody.shape', melody.shape
                 #print 'next_frame.shape', next_frame.shape
-                print 'next_frame raw:', next_frame
+                #print 'next_frame raw:', next_frame
 
                 if SAMPLE_FROM_MELODY_PROBS:
                     # sample from melody probabilities.
@@ -178,8 +178,8 @@ class Composer:
                 # end of for loop
 
             # Done with melody.
-            print 'Final melody:', melody
-            print
+            #print 'Final melody:', melody
+            #print
             # Record the melody matrix to disk.
             melody_csv = 'output/random_%d_%.2f.csv' % (index, diversity)
             np.savetxt(melody_csv, melody[0], fmt='%d', delimiter=',')
