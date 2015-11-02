@@ -51,8 +51,11 @@ class MidiExporter(object):
                     n = i
                     break
 
-            # If the pitch changes, commit previous note and start new one.
-            if n != prev_n:
+            # Get continuity flag value.
+            continuity_flag = frame[CONTINUATION_FLAG_RANGE[0]]
+
+            # If the pitch changes OR the continuity flag is set to False, commit previous note and start new one.
+            if n != prev_n or not continuity_flag:
                 prev_n = n
                 # commit the previous note.
                 if new_note:
@@ -65,7 +68,7 @@ class MidiExporter(object):
                     # rest
                     new_note = note.Rest()
                 num_frames = 1
-            else:  # TODO: test for continuity flag
+            else:
                 # note is continued. Just add to the duration.
                 num_frames += 1
 
