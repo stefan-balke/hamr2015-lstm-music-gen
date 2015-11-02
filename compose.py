@@ -62,15 +62,27 @@ class Composer:
 
         print 'num_features =', num_features
         self.model = Sequential()
-        self.model.add(LSTM(36, return_sequences=True, input_shape=(self.window_size, num_features)))
-        self.model.add(Dropout(0.2))
-        self.model.add(LSTM(36, return_sequences=False))
-        self.model.add(Dropout(0.2))
+
+        # First LSTM layer
+        self.model.add(LSTM(LSTM_HIDDEN_NODES_PER_LAYER, return_sequences=True,
+                            input_shape=(self.window_size, num_features)))
+        self.model.add(Dropout(DROPOUT_PERCENT))
+
+        # Middle LSTM layers
+        for i in range(LSTM_LAYERS-2):
+            self.model.add(LSTM(LSTM_HIDDEN_NODES_PER_LAYER, return_sequences=True))
+            self.model.add(Dropout(DROPOUT_PERCENT))
+
+        # Final LSTM layer
+        self.model.add(LSTM(LSTM_HIDDEN_NODES_PER_LAYER, return_sequences=False))
+        self.model.add(Dropout(DROPOUT_PERCENT))
+
+        # Output layer
         self.model.add(Dense(num_features))
         #self.model.add(Activation('relu'))  # Rectified Linear Unit # TODO: 'relu' missing in my theano install
         self.model.add(Activation('sigmoid'))  # Sigmoid
 
-        self.model.compile(loss='mean_squared_error', optimizer='rmsprop')
+        self.model.compile(loss='mean_squared_error', optimizer='adam')  # adagrad, adadelta, rmsprop
 
 
     def train(self, n_epoch=1):
@@ -79,6 +91,8 @@ class Composer:
 
         # Chop up all songs in dataset into examples with window-size N
         training_examples = self._get_training_examples()[0:200]
+        if DEBUG:
+            training_examples = training_examples[0:DEBUG_NUM_TRAINING_EXAMPLES]
         #print 'training_examples:', training_examples
         print '# training sequences:', len(training_examples)
 
@@ -141,7 +155,7 @@ class Composer:
                 #print 'next_frame normalized:', next_frame
                 #print 'melody.shape', melody.shape
                 #print 'next_frame.shape', next_frame.shape
-                print 'next_frame raw:', next_frame
+                #print 'next_frame raw:', next_frame
 
                 if SAMPLE_FROM_MELODY_PROBS:
                     # sample from melody probabilities.
@@ -164,8 +178,13 @@ class Composer:
                 # end of for loop
 
             # Done with melody.
-            print 'Final melody:', melody
-            print
+            #print 'Final melody:', melody
+            #print
+            # Record the melody matrix to disk.
+            melody_csv = 'output/random_%d_%.2f.csv' % (index, diversity)
+            np.savetxt(melody_csv, melody[0], fmt='%d', delimiter=',')
+            #melody[0].tofile(melody_csv, format='%d', sep=',')
+            # Convert to MIDI and write to disk.
             exporter = MidiExporter(melody[0])
             exporter.create_midi_file('output/random_%d_%.2f.midi' % (index, diversity))
 

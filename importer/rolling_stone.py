@@ -54,9 +54,11 @@ class ImporterRollingStone(ImporterBase):
                         else:
                             cur_chord_list.append(val)
 
+                    #print type(cur_chord_list)
                     cur_chord_events.append(cur_chord_list)
 
             with open(cur_path_song) as cur_song:
+                print cur_song
                 for cur_event in cur_song:
                     # ignore Error lines
                     if 'Error' in cur_event:
