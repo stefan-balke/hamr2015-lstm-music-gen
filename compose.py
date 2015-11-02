@@ -90,7 +90,7 @@ class Composer:
         """
 
         # Chop up all songs in dataset into examples with window-size N
-        training_examples = self._get_training_examples()[0:200]
+        training_examples = self._get_training_examples()
         if DEBUG:
             training_examples = training_examples[0:DEBUG_NUM_TRAINING_EXAMPLES]
         #print 'training_examples:', training_examples
