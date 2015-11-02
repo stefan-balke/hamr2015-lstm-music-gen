@@ -36,6 +36,7 @@ class ImporterRollingStone(ImporterBase):
             if os.stat(cur_path_song).st_size == 0:
                 continue
 
+            print cur_path_song
             cur_path_basename = os.path.basename(cur_path_song)
             harmony_files = os.path.join(self.harmony_path, cur_path_basename[:-7]+ '*')
             harmony_annotations = glob.glob(harmony_files)
